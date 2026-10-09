@@ -1,0 +1,9 @@
+* text=auto
+*.java text eol=lf
+*.json text eol=lf
+*.tsv text eol=lf
+*.md text eol=lf
+*.ps1 text eol=lf
+*.gradle text eol=lf
+LICENSE text eol=lf
+*.jar binary

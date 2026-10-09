@@ -1,0 +1,410 @@
+# Authored continuation: complete numeric captions and skill/class families.
+^Grants \+([\d,.]+) Hunting Fortune on$	Даёт +$1 удачи охоты при получении
+^Grants ([\d,.]+) Hunting Fortune on$	Даёт $1 удачи охоты при получении
+^Gear Score: ([\d,.]+)$	Рейтинг снаряжения: $1
+^(Combat|Mining|Farming|Fishing|Foraging|Enchanting|Alchemy|Taming|Carpentry|Runecrafting|Hunting|Social|Catacombs|Archer|Berserk|Healer|Mage|Tank) Level ([\dIVXL]+)$	$1: уровень $2
+^(Combat|Mining|Farming|Fishing|Foraging|Enchanting|Alchemy|Taming|Carpentry|Runecrafting|Hunting|Social|Catacombs) Mastery ([\dIVXL]+)$	Мастерство «$1»: $2
+^You must be at least (Combat|Mining|Farming|Fishing|Foraging|Enchanting|Alchemy|Taming|Carpentry|Hunting) Level ([\dIVXL]+) to use this item!$	Для использования требуется навык «$1» не ниже $2-го уровня!
+^Requires: (.+) ([IVXL\d]+) & HotM ([\d]+)$	Требуется: «$1» $2 и Сердце горы $3
+^Requires: (.+) ([IVXL\d]+)$	Требуется: «$1» $2
+^([\d,.]+)% of the hit's damage\.$	$1% урона этого удара.
+^([\d,.]+)% of the hit's damage to up$	$1% урона этого удара
+^to ([\d]+) monsters within ([\d.]+) blocks\.$	не более $1 существам в пределах $2 блоков.
+^([\d,.]+)% for the first three hits$	на $1% для первых трёх ударов
+^([\d,.]+)% for the first hit on a$	на $1% для первого удара по
+^([\d,.]+)% and deals \+([\d,.]+)% of your damage$	на $1% и наносит +$2% вашего урона
+^target has up to ([\d,.]+)%\.$	вашей цели; максимум $1%.
+^Increases your damage by \+?([\d,.]+)%$	Увеличивает ваш урон на $1%
+^per kill up to ([\d]+) kills$	за убийство; максимум $1 убийств
+^within ([\d,.]+)s\.$	в течение $1 с.
+^Ferocity by ([\d,.]+)% per hit,$	свирепость на $1% за удар,
+^capped at ([\d,.]+)% for ([\d]+) seconds$	но не более $1%; действует $2 с
+^Convert ([\d,.]+)% of ([^A-Za-z]*)(Vitality|Mana) used as ([^A-Za-z]*)$	Преобразует $1% израсходованной $2${gen:3} в $4
+^([\d,.]+)s Cooldown\.$	Перезарядка: $1 с.
+^\(([\d,.]+)s Cooldown\)\.$	(Перезарядка: $1 с.)
+^\(Max ([\d,]+) Defense\)$	(Максимум $1 защиты)
+^Defense for ([\d]+)s\.$	защиту на $1 с.
+^Grants ([+\d,.]+|\+?\{[^}]+\})([^A-Za-z]*)([A-Za-z ]+)\.$	Даёт $1$2${gen:3}.
+^Grants ([+\d,.]+|\+?\{[^}]+\})([^A-Za-z]*)([A-Za-z ]+)$	Даёт $1$2${gen:3}
+^Gain ([+\d,.]+|\+?\{[^}]+\})([^A-Za-z]*)([A-Za-z ]+) while in the$	Даёт $1$2${gen:3} в
+^Grants ([+\d,.]+|\+?\{[^}]+\})([^A-Za-z]*)([A-Za-z ]+), which$	Даёт $1$2${gen:3}, что
+^Grants ([+\d,.]+|\+?\{[^}]+\})([^A-Za-z]*)([A-Za-z ]+) against$	Даёт $1$2${gen:3} против
+^Grants ([+\d,.]+|\+?\{[^}]+\})([^A-Za-z]*)([A-Za-z ]+) towards$	Даёт $1$2${gen:3} при убийстве
+^Gain ([+\d,.]+|\+?\{[^}]+\})([^A-Za-z]*)([A-Za-z ]+) towards$	Даёт $1$2${gen:3} при убийстве
+^Scavenge ([\d,.]+) Coins per monster$	Даёт $1 монет за каждый уровень
+^Gain (\{[^}]+\}|[\d,.]+) more coins per monster$	Даёт $1 дополнительных монет за каждый
+^Gain (\{[^}]+\}|[\d,.]+)% more collection items from$	Даёт на $1% больше предметов коллекций из
+^Gain (\{[^}]+\}|[\d,.]+)% more HOTM and HOTF XP\.$	Даёт на $1% больше опыта Сердца горы и Сердца леса.
+^Gain (\{[^}]+\}|[\d,.]+)% more Skill Experience and$	Даёт на $1% больше опыта навыков и
+^active pet by (\{[^}]+\}|[\d,.]+)%\.$	активного питомца на $1%.
+^(\{[^}]+\}|[\d,.]+)% more time$	на $1% дольше.
+^cap by \+(\{[^}]+\}|[\d,.]+)\.$	предел скорости на +$1.
+^ability by (\{[^}]+\}|[\d,.]+)%\.$	способность на $1%.
+^from mobs by (\{[^}]+\}|[\d,.]+)%\.$	из существ на $1%.
+^Gain \+(\{[^}]+\}|[\d,.]+)% Damage Reduction\.$	Получаемый урон снижается на $1%.
+^Gain \+(\{[^}]+\}|[\d,.]+)% Max ([^A-Za-z]*)Health\.$	Даёт +$1% к максимальному $2здоровью.
+^animals to drop an additional item\.$	выпадения дополнительного предмета из животных.
+^Reduces fall damage by (\{[^}]+\}|[\d,.]+)%\.$	Снижает урон от падения на $1%.
+^abilities by (\{[^}]+\}|[\d,.]+)\.$	способностей на $1.
+^Capped at ([\d]+) Defense$	Максимум $1 защиты
+^Next Upgrade: (.+)$	Следующее улучшение: $1
+^Primal Fear Kills: (.+)$	Убито первобытных страхов: $1
+^Edition: #(.+)$	Выпуск №$1
+^Found: ([\d]+/[\d]+) Soul Pieces$	Найдено фрагментов души: $1
+^Rift Time: \+([\d,.]+)s$	Время в Разломе: +$1 с
+^([\d,.]+)% chance to trigger Crop$	С шансом $1% запускает урожайную
+^Fever for ([\d]+)s which grants:$	лихорадку на $1 с, дающую:
+^Gain ([\d,.]+)% extra Combat XP\. Grants$	Даёт на $1% больше опыта боя и
+^([\d,.kKmM]+) Combat XP to tier up!$	Получите $1 опыта боя для повышения ступени!
+^Saves ([\d]+)% of your coins on$	Сохраняет $1% ваших монет при
+^drop \+([\d,.]+) coins when killed\.$	при убийстве дают +$1 монет.
+^Copies ([\d]+)% of your active$	Копирует $1% характеристик вашего
+^Heal ([\d,.]+)([^A-Za-z]*) every time you kill a mob\.$	Восстанавливает $1$2 при каждом убийстве существа.
+^Heal ([\d,.]+)([^A-Za-z]*) every time you hit a mob\.$	Восстанавливает $1$2 при каждом попадании по существу.
+^this item by ([\d]+)%\.$	этого предмета на $1%.
+^your weapon damage by ([\d]+)%\.$	урон оружия на $1%.
+^Increases bow damage by ([\d,.]+)%\.$	Увеличивает урон лука на $1%.
+^for each enemy within ([\d]+)$	за каждого врага в пределах $1
+^blocks\. Maximum of ([\d]+)$	блоков. Максимум $1
+^Grants ([+\d,.]+)([^A-Za-z]*)Health and$	Даёт $1$2 здоровья и
+^([+\d,.]+)([^A-Za-z]*)Strength per maxed out$	$1$2 силы за каждую полностью развитую
+^collection\. You have ([\d]+)$	коллекцию. У вас полностью развиты $1
+^Gain ([\d]+) Intelligence for$	Даёт $1 интеллекта за
+^have on you\. Capped at ([\d]+)$	который у вас есть. Максимум $1
+^During the day, \+([\d]+)([^A-Za-z]*)Overbloom\.$	Днём: +$1$2 избыточного цветения.
+^During the night, -([\d]+)% Visitor Cooldown\.$	Ночью: -$1% к интервалу появления посетителей.
+^reduced by ([\d]+)%\.$	снижается на $1%.
+^\(Max ([\d,.kKmM]+) outside Dungeons\)\.$	(Максимум $1 вне подземелий.)
+# SkyHanni tracker display recipes; numbers, commands and unknown arguments retained.
+^Foraging Experience: (.+)$	Опыт лесорубства: $1
+^HOTF Experience: (.+)$	Опыт Сердца леса: $1
+^Forest Whispers: (.+)$	Шёпот леса: $1
+^Trees Felled: (.+)$	Срублено деревьев: $1
+^Whole (Fig|Mangrove|Helix)$	Целое дерево ($1)
+^Whole (Fig|Mangrove|Helix) Trees cut: (.+)$	Срублено целых деревьев ($1): $2
+^(Fig|Mangrove|Helix) Tree contributions: (.+)$	Участие в рубке ($1): $2
+^Profit per gift: (.+)$	Прибыль за подарок: $1
+^Profit per hour: (.+)$	Прибыль в час: $1
+^Gifts per hour: (.+)$	Подарков в час: $1
+^Gifts Profit: (.+)$	Прибыль от подарков: $1
+^Uptime: (.+)$	Время работы: $1
+^Click to switch (Tree Type|Price Source)!$	Нажмите, чтобы сменить: $1!
+^Use (/shedittracker .+) <amount>$	Используйте $1 <amount>
+# Numeric item-lore variants: wording/conditions read in full in the item snapshot.
+^On teleport, regen ([\d,.]+) Mana\.$	При телепортации восстанавливает $1 маны.
+^Every ([\d]+) Catacombs levels, this armor piece$	За каждые $1 уровней Катакомб эта часть брони
+^gains \+([\d,.]+)% stats\.$	получает +$1% к характеристикам.
+^Tank: \+([\d,.]+) Defense and reduces damage$	Танк: +$1 защиты и снижение получаемого урона
+^taken by ([\d,.]+)% for each piece you have equipped$	на $1% за каждую надетую часть брони,
+^if you are hit by the same monster within ([\d]+)$	если одно и то же существо снова ударит вас в течение $1
+^Grants \+([\d,.]+) walk speed for every ([\d,.]+)$	Даёт +$1 к скорости передвижения за каждые $2
+^Creatures by ([\d,.]+)%\.$	существ на $1%.
+^Gain ([\d,.]+)❤ per Fishing level\.$	Даёт $1❤ за каждый уровень рыбалки.
+^Grants \+([\d,.]+) Treasure Chance while$	Даёт +$1 шанса сокровища
+^Grants a \+([\d,.]+)% chance to catch$	Даёт +$1% к шансу поймать
+^Beans have a ([\d,.]+)% chance of$	с шансом $1% может
+^Greenhouse gives a ([\d,.]+)% chance to$	теплице даёт $1% шанса
+^inside\. Grants ([\d,.]+) Farming Fortune\.$	там культуры. Даёт $1 удачи фермерства.
+^([\d,.]+)% chance of dropping a$	$1% шанса получить
+^gives a ([\d,.]+)% chance to drop one$	даёт $1% шанса получить его
+^([\d,.]+) Farming Fortune\.$	$1 удачи фермерства.
+^Moonflower have a ([\d,.]+)% chance of$	лунных цветов с шансом $1% может
+^Bonuses of wearing ([\d]+) pieces of the$	бонусы от ношения $1 частей
+^Squash Armor\. Grants ([\d,.]+) Farming$	кабачковой брони. Даёт $1 фермерской
+^Every 3rd strike, deal \+([\d,.]+)% $	Каждый 3-й удар наносит +$1% 
+^healing by ([\d,.]+)% for ([\d]+) seconds\.$	исцеление на $1% на $2 секунд.
+^Each stack grants \+([\d,.]+) Swing Range$	Каждый заряд даёт +$1 дальности удара
+^and \+([\d,.]+) Ferocity\.$	и +$1 свирепости.
+^Every ([\d,.]+)s, melee attacks grant ([\d]+) stack of$	Каждые $1 с атаки в ближнем бою дают $2 заряд
+^ᝐ Dominus\. Lose ([\d]+) stack after ([\d]+)s of not$	ᝐ Доминуса. Вы теряете $1 заряд, если $2 с не
+^At ([\d]+) stacks swipe in a random direction$	При $1 зарядах наносит размашистый удар в случайном направлении,
+^dealing ([\d,.]+)x Swipe Damage to mobs in its$	нанося $1× урона размашистого удара существам на его
+^Grants ([\d,.]+)x this armor's stats while in$	Умножает характеристики этой брони на $1
+^Grants ([\d,.]+)x this equipment's stats$	Умножает характеристики этого снаряжения на $1
+^Mythological mobs by ([\d,.]+)%\.$	мифологических существ на $1%.
+^Damages mobs within ([\d,.]+) blocks for ([\d,.]+)%$	Каждую секунду наносит существам в пределах $1 блоков $2%
+^Max ([\d,.kKmM]+) damage/s$	Максимум — $1 урона/с.
+^Blaze Rod Collection: ([\d,.kKmM]+)$	Коллекция огненных стержней: $1
+^\+([\d,.]+) per ([\d,.]+) rods$	+$1 за каждые $2 стержней.
+^Each piece grants a ([\d,.]+)% bonus gift$	Каждая часть даёт $1% шанса на дополнительный подарок
+^Grants \+([\d,.]+) Mining Spread on Ores$	Даёт +$1 широты добычи при добыче руд
+^Grants \+([\d,.]+) Mining Speed and \+([\d,.]+)$	Даёт +$1 скорости добычи и +$2
+^Grants \+([\d,.]+) Mining Fortune while$	Даёт +$1 удачи добычи
+^Regain \+([\d,.]+)ф when killing a monster\.$	Восстанавливает +$1ф при убийстве существа.
+^([\d,.]+)❤ less\.$	$1❤ меньше.
+^Hearts: \+([\d]+)$	Сердца: +$1
+^Grants \+([\d]+) Accessory Power per ([\d]+)$	Даёт +$1 силы аксессуаров за каждые $2
+^Bring ([\d,]+) of these to Carrolyn in$	Принесите $1 штук Кэролин в
+^permanently gain \+([\d,.]+) Health and$	навсегда получить +$1 здоровья и
+^\+([\d,.]+) Pumpkin Fortune\.$	+$1 удачи сбора тыкв.
+^a boost of ([\d,]+) Exp!$	$1 опыта!
+^Caught from ([\d,.]+) blocks above\.$	Ловится с высоты $1 блоков.
+^containing ([\d]+)x Eccentric Painting\.$	содержащий $1 эксцентричных картин.
+^Grants a \+([\d,.]+)% chance to find rare$	Даёт +$1% к шансу найти редкие
+^([\d,.]+) blocks of the target\.$	$1 блока от цели.
+^Every ([\d,.]+)s, dealing Magic Damage from an$	Каждые $1 с магический урон от
+^ability grants ([\d]+) stack of Ѫ Arcane Energy\.$	способности даёт $1 заряд Ѫ магической энергии.
+^Lose ([\d]+) stack after ([\d]+)s of not gaining a stack\.$	Вы теряете $1 заряд, если $2 с не получаете новый.
+^At ([\d]+) stacks, sneak to reset your$	При $1 зарядах присядьте, чтобы сбросить
+^stacks and shoot ([\d]+) homing missiles$	заряды и выпустить самонаводящиеся ракеты ($1 шт.),
+^dealing ([\d,]+) Damage each\.$	каждая из которых наносит $1 урона.
+^Every ([\d,.]+)s, attacking a mob grants ([\d]+) stack of$	Каждые $1 с атака существа даёт $2 заряд
+^҉ Fervor\. Lose ([\d]+) stack after ([\d]+)s of not gaining$	҉ рвения. Вы теряете $1 заряд, если $2 с не получаете
+^At ([\d]+) stacks, sneak to reset your stacks and$	При $1 зарядах присядьте, чтобы сбросить заряды и
+^mobs within ([\d,.]+) blocks\. \(Damage scales with your$	существам в пределах $1 блоков. (Урон зависит от вашего
+^EHP, max ([\d,.kKmM]+)\)\.$	эффективного здоровья; максимум — $1.)
+^Attacking a mob has a ([\d,.]+)% chance to direct$	Атака существа с шансом $1% заставляет
+^aggro from ([\d]+) mobs to you\.$	$1 существ переключиться на вас.
+^Every ([\d,.]+)s, up to ([\d]+) nearby player's attacks$	Каждые $1 с атаки до $2 игроков поблизости
+^grant ([\d]+) stack of ⚶ Spirit\. \(Max ([\d]+) Stacks\)$	дают $1 заряд ⚶ духа. (Максимум — $2 зарядов.)
+^Lose ([\d]+) after ([\d]+)s of not gaining a stack\.$	Вы теряете $1 заряд, если $2 с не получаете новый.
+^Every ([\d,.]+)s, arrow attacks grant ([\d]+)$	Каждые $1 с атаки стрелами дают $2
+^stack of ⁑ Hydra Strike\. Lose ([\d]+) stack$	заряд ⁑ удара гидры. Вы теряете $1 заряд,
+^after ([\d]+)s of not gaining a stack\.$	если $1 с не получаете новый.
+^Each stack grants \+([\d,.]+)% Damage and \+([\d,.]+)%$	Каждый заряд даёт +$1% урона и +$2%
+^At ([\d]+) stacks shoot \+([\d]+) arrows that deal ([\d,.]+)%$	При $1 зарядах выпускает +$2 стрелы, наносящие $3%
+^Gain ([\d,.]+)% damage resistance while$	Снижает получаемый урон на $1% при
+^dealing ([\d,.]+)% of their total  Health$	наносящий $1% от его общего  здоровья
+^as damage to all enemies within ([\d,.]+)$	в виде урона всем врагам в пределах $1
+^Increases all explosion damage dealt by ([\d,.]+)%\.$	Увеличивает весь наносимый урон взрывов на $1%.
+^\+([\d,.]+) Bonus Pest Chance, which$	+$1 шанса дополнительных вредителей, что
+^ Timid mobs have a ([\d,.]+)% chance to$	 Робкие существа с шансом $1% могут
+^Grants a ([\d,.]+)% chance of not taking$	Даёт $1% шанса не получить
+^Deals ([\d,]+) \+ ([\d,.]+)% of your max ❤$	Наносит $1 + $2% от вашего максимального ❤
+^At ([\d,.]+)% HP$	При $1% здоровья
+^Starting at ([\d,.]+)% HP$	Начиная с $1% здоровья
+# Additional source-backed consumable, fishing and equipment variants.
+^Your arrows have a ([\d,.]+)% chance to$	Ваши стрелы с шансом $1% могут
+^hits something\. \(max ([\d]+) bounces\)$	попадания. (Максимум отскоков — $1.)
+^gain \+([\d,.]+) Foraging Fortune\.$	получить +$1 удачи лесорубства.
+^You can only consume ([\d]+) of this item$	Количество таких предметов, которые можно использовать: $1,
+^Grants ([\d,.]+)☘ Farming Fortune for$	Даёт $1☘ удачи фермерства для
+^Gives \+([\d,.]+)☘ Farming Fortune for each$	Даёт +$1☘ удачи фермерства за каждый
+^SkyBlock Level \(Max ([\d]+)\)\.$	уровень SkyBlock. (Максимум — $1.)
+^Trophy Fish by ([\d,.]+)%\.$	трофейную рыбу на $1%.
+^Gain \+([\d,.]+) Defense against  Animal mobs\.$	Даёт +$1 защиты от  животных.
+^Gain \+([\d,.]+) True Defense\.$	Даёт +$1 истинной защиты.
+^Gain \+([\d,.]+) Strength and \+([\d,.]+)$	Даёт +$1 силы и +$2
+^wearer within ([\d,.]+) blocks\.$	в пределах $1 бл.
+^Max of ([\d]+) players!$	Максимальное число игроков: $1!
+^Grants ([\d,.]+)❣ Charm Chance on$	Даёт $1❣ шанса очарования против
+^your minion by ([\d,.]+)% for ([\d]+)$	вашего миньона на $1% на $2
+^number of resources created by ([\d,.]+)x$	производство ресурсов: ×$1
+^for ([\d]+) hour!$	на $1 ч.!
+^Beans Fortune for ([\d]+)m\.$	какао-бобов на $1 мин.
+^increase the bonus up to \+([\d,.]+)$	повысить бонус вплоть до +$1
+^Greenhouse by ([\d]+) Growth Stages\.$	теплице. Число стадий роста: $1.
+^\+([\d,.]+) Farming Fortune\.$	+$1 удачи фермерства.
+^You may consume ([\d]+) of these before$	Количество таких предметов, которые можно использовать: $1,
+^Co-op wide ([\d]+)h cooldown\.$	Общая перезарядка для кооператива: $1 ч.
+^Rod drop \+([\d,.]+) Chum\.$	дают +$1 рыбной прикормки.
+^Gain \+([\d,.]+) Mining Speed for ([\d]+)s when using$	Даёт +$1 скорости добычи на $2 с при применении
+^Enrage for ([\d]+)s gaining ([\d,.]+) Speed, ([\d,.]+)$	Впадает в ярость на $1 с, давая $2 скорости, $3
+^Damage, and ([\d,.]+) Strength\.$	урона и $1 силы.
+^Healing Wands heal \+([\d,.]+)%\.$	Исцеляющие жезлы восстанавливают на $1% больше здоровья.
+^Gain \+([\d,.]+) against  Undead mobs\.$	Даёт +$1 защиты от  нежити.
+^Deal \+([\d,.]+)% damage to  Undead mobs but$	Наносит +$1% урона  нежити, но лишь
+^([\d,.]+)% to all other mobs\.$	$1% урона всем остальным существам.
+^Place an orb for ([\d]+)m buffing up to ([\d]+)$	Размещает сферу на $1 мин., усиливающую игроков (до $2)
+^players within ([\d,.]+) blocks\.$	в пределах $1 бл.
+^Costs ([\d,.]+)% of max mana\.$	Расходует $1% максимального запаса маны.
+^\+([\d,.]+) Crux Fortune per kill milestone\.$	+$1 удачи крукса за каждую веху убийств.
+# Batch 0.7.0: authored numeric variants, no free-form prose guesses.
+^Maximum Contacts: ([\d]+)$	Максимум контактов: $1
+^Maximum Discs: ([\d]+)$	Максимум пластинок: $1
+^Grants a ([\d,.]+)% chance to not consume$	Даёт $1% шанс не расходовать
+^([\d,]+) Max Fuel Capacity$	Максимальная ёмкость топлива: $1
+^(-[\d,.]+)% Pickaxe Ability Cooldown$	$1% к перезарядке способности кирки
+^Gain \+([\d,.]+) Defense for ([\d,.]+)s when using your$	Даёт +$1 защиты на $2 с при применении
+^Gain \+([\d,.]+) Strength for ([\d,.]+)s when using your$	Даёт +$1 силы на $2 с при применении
+^Gain \+([\d,.]+) True Defense for ([\d,.]+)s when using$	Даёт +$1 истинной защиты на $2 с при применении
+^Gain \+([\d,.]+) Health Regen for ([\d,.]+)s when$	Даёт +$1 регенерации здоровья на $2 с при
+^Gain \+([\d,.]+) Mana when using your$	Восстанавливает +$1 маны при применении
+^Vitality Cost: ([\d,.]+)([^A-Za-z]*)$	Расход жизненной силы: $1$2
+^• Heal yourself for ([\d,.]+)❤ per second\.$	• Восстанавливает вам $1❤ в секунду.
+^• Heal others for ([\d,.]+)❤ per second\.$	• Восстанавливает другим $1❤ в секунду.
+^• Gain \+([\d,.]+) Health Regen\.$	• Даёт +$1 регенерации здоровья.
+^• Grants \+([\d,.]+)% base mana regen\.$	• Даёт +$1% базовой регенерации маны.
+^• Grants \+([\d,.]+) Strength\.$	• Даёт +$1 силы.
+^• Gain \+([\d,.]+)([^A-Za-z]*)(Vitality|True Defense|Ferocity|Attack Speed)\.$	• Даёт +$1$2${gen:3}.
+^• Heal ([\d,.]+)❤ per second while on the$	• Восстанавливает $1❤ в секунду на
+^Charge: ([\d,]+)/([\d,]+)$	Заряд: $1/$2
+^plant to water it\. Dispenses ([\d,.]+)$	чтобы полить его. Расходует $1
+^Maximum Burrow Chain Length: ([\d]+)$	Максимальная длина цепочки нор: $1
+^Your channel: ([\d.]+) FM$	Ваш канал: $1 FM
+^Nearby: ([\d]+) enjoyers$	Любителей радио рядом: $1
+^Selected Potion: Dungeon ([IVXLCDM]+) Potion$	Выбрано зелье: зелье Подземелий $1
+^Deals ([\d,.]+)  Damage per second to$	Наносит $1  урона в секунду
+^Vacuum Bag: ([\d,]+) Pests$	Вредителей в пылесборнике: $1
+^➜ \+([\d,.]+) Bonus Pest Chance while$	➜ +$1 к шансу дополнительных вредителей
+^➜  Pests are ([\d,.]+)x more likely to$	➜  Вредители в $1 раза чаще
+^for ([\d,.]+)m\.$	$1 мин.
+^Coins Consumed: ([\d,.kKmMbB]+)$	Поглощено монет: $1
+^Books obtained: ([\d,]+)/([\d,]+)$	Получено книг: $1/$2
+^Current Bonus: \+([\d,.]+) Health$	Текущий бонус: +$1 здоровья
+^\+([\d,.]+)% chance to find GOLD Trophies\.$	+$1% к шансу найти ЗОЛОТУЮ трофейную рыбу.
+^\+([\d,.]+)% chance to find DIAMOND Trophies\.$	+$1% к шансу найти АЛМАЗНУЮ трофейную рыбу.
+^Damage: ([\d,]+) per second$	Урон: $1 в секунду
+^from behind deal \+([\d,.]+)% Damage\.$	в спину наносят +$1% урона.
+^Reduces your  Vitality by ([\d,.]+)% and $	Снижает вашу  жизненную силу на $1% и 
+^Speed by ([\d,.]+)%\.$	скорость на $1%.
+^Reduces your  Vitality by ([\d,.]+)%,  Speed$	Снижает вашу  жизненную силу на $1%,  скорость
+^cleared, and spawns ([\d]+) egg sacs in the$	убрана, и создаёт $1 кокона с яйцами в
+^Releases a horde of evil bats\. Take ([\d,.]+)%$	Выпускает стаю злых летучих мышей. Вы теряете $1%
+^Brood\. The Brood has ([\d,.]+)x  Health and $	выводок. У него в $1 раза больше  здоровья и 
+^\[([\d]+)\] - \[([\d]+)\] Gray$	[$1] - [$2] Серый
+^\[([\d]+)\] - \[([\d]+)\] White$	[$1] - [$2] Белый
+^\[([\d]+)\] - \[([\d]+)\] Yellow$	[$1] - [$2] Жёлтый
+^\[([\d]+)\] - \[([\d]+)\] Green$	[$1] - [$2] Зелёный
+^\[([\d]+)\] - \[([\d]+)\] Dark Green$	[$1] - [$2] Тёмно-зелёный
+^\[([\d]+)\] - \[([\d]+)\] Aqua$	[$1] - [$2] Светло-голубой
+^\[([\d]+)\] - \[([\d]+)\] Cyan$	[$1] - [$2] Бирюзовый
+^\[([\d]+)\] - \[([\d]+)\] Blue$	[$1] - [$2] Синий
+^\[([\d]+)\] - \[([\d]+)\] Pink$	[$1] - [$2] Розовый
+^\[([\d]+)\] - \[([\d]+)\] Purple$	[$1] - [$2] Фиолетовый
+^\[([\d]+)\] - \[([\d]+)\] Gold$	[$1] - [$2] Золотой
+^\[([\d]+)\] - \[([\d]+)\] Red$	[$1] - [$2] Красный
+^\[([\d]+)\]\+ Dark Red$	[$1]+ Тёмно-красный
+^Full Set Bonus: (Frozen Blazing Aura) \((\d+)/(\d+)\)$	Бонус полного комплекта: $1 ($2/$3)
+# Batch 0.8.0: observed potion effect names and complete numeric descriptions.
+^(Absorption|Adrenaline|Agility|Alchemy XP Boost|Archery|Blindness|Burning|Cold Resistance|Combat XP Boost|Critical|Damage|Dodge|Dungeon|Enchanting XP Boost|Experience|Farming XP Boost|Fire Resistance|Fishing XP Boost|Foraging XP Boost|Haste|Healing|Invisibility|Jump Boost|Knockback|Magic Find|Mana|Mining XP Boost|Mushed Glowy Tonic|Night Vision|Pet Luck|Poison|Rabbit|Regeneration|Resistance|Gravity|Secret|Slowness|Speed|Spelunker|Spirit|Stamina|Douce Pluie de Stinky Cheese|Strength|Stun|True Resistance|Venomous|Water Breathing|Weakness|Wisp's Ice-Flavored Water|Wounded) ([IVXLCDM]+) \((\d+:\d+(?::\d+)?)\)$	$1 $2 ($3)
+^(Absorption|Adrenaline|Agility|Alchemy XP Boost|Archery|Blindness|Burning|Cold Resistance|Combat XP Boost|Critical|Damage|Dodge|Dungeon|Enchanting XP Boost|Experience|Farming XP Boost|Fire Resistance|Fishing XP Boost|Foraging XP Boost|Haste|Healing|Invisibility|Jump Boost|Knockback|Magic Find|Mana|Mining XP Boost|Mushed Glowy Tonic|Night Vision|Pet Luck|Poison|Rabbit|Regeneration|Resistance|Gravity|Secret|Slowness|Speed|Spelunker|Spirit|Stamina|Douce Pluie de Stinky Cheese|Strength|Stun|True Resistance|Venomous|Water Breathing|Weakness|Wisp's Ice-Flavored Water|Wounded) ([IVXLCDM]+) Potion$	Зелье «$1» $2
+^(Gravity|Wisp's Ice-Flavored Water) ([IVXLCDM]+) Splash Potion$	Взрывное зелье «$1» $2
+^Grants \+([\d,.]+) of absorption and \+([\d,.]+)( ✦)?$	Даёт +$1 поглощения и +$2$3
+^Increases ([^A-Za-z]*)(Strength|Defense) by (\+?[\d,.]+)\.$	Увеличивает $1${acc:2} на $3.
+^Increases ([^A-Za-z]*)(Crit Chance) by ([\d,.]+)% and$	Повышает $1${acc:2} на $3% и
+^([^A-Za-z]+)Crit Damage by ([\d,.]+)%\.$	$1критический урон на $2%.
+^Instantly deals ([\d,.]+) damage\.$	Мгновенно наносит $1 урона.
+^Mob attacks have a ([\d,.]+)% chance to$	У атак существ есть $1% шанс
+^Gain ([\d,.]+)% more experience orbs\.$	Даёт на $1% больше сфер опыта.
+^Receive ([\d,.]+)% reduced damage from$	Уменьшает получаемый урон на $1% от
+^Heals for \+([\d,.]+) every second\.$	Восстанавливает +$1 здоровья в секунду.
+^Increases your jump height to ([\d,.]+)$	Увеличивает высоту прыжка до $1
+^Damaging enemies deals ([\d,.]+)% more$	При нанесении урона врагам усиливает на $1% эффект:
+^Gain \+([\d,.]+)% chance to find rare items$	Даёт +$1% к шансу найти редкие предметы
+^Deals ([\d,.]+) damage per second\.$	Наносит $1 урона в секунду.
+^Grants Jump Boost ([IVXLCDM]+) and \+([\d,.]+) ✦$	Даёт Прыгучесть $1 и +$2 ✦
+^Removes ([\d,.]+)✦ Speed\.$	Уменьшает ✦ скорость на $1.
+^Grants \+([\d,.]+) ✦ Speed and \+([\d,.]+)% ☠$	Даёт +$1 ✦ скорости и +$2% ☠
+^Instantly heals for \+([\d,.]+) and a$	Мгновенно восстанавливает +$1 здоровья и
+^grants a ([\d,.]+) ✎ Mana boost\.$	даёт $1 ✎ маны.
+^have a ([\d,.]+)% chance to stun enemies$	имеют $1% шанс оглушить врага
+^stunned for ([\d,.]+)s\.$	оглушаются на $1 с.
+^Grants (-[\d,.]+) ✦ Speed and deals ([\d,.]+)$	Даёт $1 ✦ скорости и наносит $2
+^enemies by ([\d,.]+)\.$	врагов на $1.
+^Gain \+([\d,.]+) Health Regen and \+([\d,.]+)$	Даёт +$1 регенерации здоровья и +$2
+^Reduces ([\d,.]+)% of healing\.$	Снижает получаемое исцеление на $1%.
+^Gain \+([\d,.]+)❄ Cold Resistance\.$	Даёт +$1❄ сопротивления холоду.
+^Gain \+([\d,.]+) Bonus Pest Chance\.$	Даёт +$1 к шансу дополнительных вредителей.
+^([\d,.]+)%\.$	$1%.
+^consumed Potion by ([\d,.]+)%\.$	выпитого зелья на $1%.
+# Hunting, weapon and local creature descriptions.
+^This weapon lets you absorb ([\d,.]+)% of$	Позволяет поглотить $1%
+^damage capped at ([\d,.]+)% of the$	ограничен $1% от
+^ Critters lose stamina ([\d,.]+)% faster\.$	 Мелкие существа теряют выносливость на $1% быстрее.
+^Deal ([\d,.]+)x damage to  Infernal mobs\.$	Наносит $1x урона  адским существам.
+^Deal ([\d,.]+)x damage to  Wither mobs\.$	Наносит $1x урона  визерам.
+^Deal ([\d,.]+)x damage to  Skeletal mobs\.$	Наносит $1x урона  скелетным существам.
+^Gain \+([\d,.]+)☯ Combat Wisdom against $	Даёт +$1☯ мудрости боя против 
+^Deal \+([\d,.]+)%  Damage to and gain$	Наносит +$1%  урона и даёт
+^\+([\d,.]+)☯ Combat Wisdom against $	+$1☯ мудрости боя против 
+^Every ([\d,]+) Kills with this sword$	Каждые $1 убийств этим мечом
+^grants \+([\d,.]+) Weapon Damage, up to ([\d,.]+)$	дают +$1 урона оружия, вплоть до $2
+^Current Kills: ([\d,]+) \(\+([\d,.]+) Damage\)$	Убийств: $1 (+$2 урона)
+^Regen mana ([\d,.]+)x slower for ([\d,.]+)s after$	Восстановление маны замедлено (x$1) на $2 с
+^Place the Black Hole for ([\d,.]+)s, and$	Разместите чёрную дыру на $1 с, и
+^Monsters below ([\d,.]+)% HP can even get$	Существа с менее чем $1% здоровья могут быть
+^your ❄ Cold by ([\d,.]+)\.$	ваш ❄ холод на $1.
+^Bonus Defense: ([\d,.]+)$	Дополнительная защита: $1
+^Bonus Speed: ([\d,.]+)$	Дополнительная скорость: $1
+^Current Speed Cap: ([\d,.]+)$	Текущий предел скорости: $1
+^Max Souls: ([\d]+)$	Максимум душ: $1
+^Creates a spatial distortion ([\d,.]+)$	Создаёт пространственное искажение в $1
+^the warp and deal ([\d,.]+) damage$	разлом и нанести $1 урона
+^Grants x([\d,.]+)  Overbloom$	Даёт x$1  сверхцветения
+^Capped at ([\d,.]+) Farming Fortune$	Предел удачи фермерства: $1
+^Place a totem down for ([\d,.]+)m, buffing$	Размещает тотем на $1 мин., усиливающий
+^Gain ([\d,.]+) Sea Creature Chance\.$	Даёт $1 шанса морского существа.
+^Gain \+([\d,.]+)☯ Fishing Wisdom on public$	Даёт +$1☯ мудрости рыбалки на общественных
+^Stage 1: Damaged once every ([\d]+) hits,$	Стадия 1: получает урон только от каждого $1-го удара,
+^Stage ([\d]+) \(([\d,.]+)% HP\): Damaged once every ([\d]+) hits,$	Стадия $1 ($2% здоровья): получает урон только от каждого $3-го удара,
+^([^A-Za-z]*)(Health|Defense) \(MM\): ([\d.,]+)$	$1$2 (режим мастера): $3
+^\[No Pet/Griffin\] ([\d,]+) ❤$	[Без питомца/Грифон] $1 ❤
+^\[Griffin/Griffin\] ([\d,]+) ❤$	[Грифон/Грифон] $1 ❤
+# Drone items, minions, collectibles and fixed labels.
+^to grant it \+([\d,.]+) Sea Creature$	даёт +$1 шанса морского
+^Creature has a ([\d,.]+-[\d,.]+)% chance to$	существа с вероятностью $1% может
+^to grant it \+([\d,.]+) Foraging Fortune$	даёт +$1 удачи лесорубства
+^to grant it \+([\d,.]+) Mining Fortune and$	даёт +$1 удачи добычи и
+^progress grants a ([\d,.]+-[\d,.]+)%$	коллекции даёт $1% шанс
+^progress grants a ([\d,.]+)% chance to$	коллекции даёт $1% шанс
+^Current weight: ([\d,.]+) lb$	Текущий вес: $1 фунт.
+^Upgrades rarity in ([\d,.]+) lbs$	До повышения редкости: $1 фунт.
+^Current Bonus: \+([\d,.]+)☯ Fishing Wisdom$	Текущий бонус: +$1☯ мудрости рыбалки
+^Goblin Egg - ([\d,.]+)%$	Яйцо гоблина — $1%
+^Green Goblin Egg - ([\d,.]+)%$	Зелёное яйцо гоблина — $1%
+^Yellow Goblin Egg - ([\d,.]+)$	Жёлтое яйцо гоблина — $1
+^Red Goblin Egg - ([\d,.]+)%$	Красное яйцо гоблина — $1%
+^Blue Goblin Egg - ([\d,.]+)%$	Синее яйцо гоблина — $1%
+^Custom Ores \(Gold etc\.\) - ([\d,.]+)%$	Особые руды (золото и т. п.) — $1%
+^Gemstones and Mithril in the Crystal Hollows - ([\d,.]+)%$	Драгоценные камни и мифрил в Кристальных пещерах — $1%
+^Hard Stone in the Crystal Hollows - ([\d,.]+)%$	Твёрдый камень в Кристальных пещерах — $1%
+^Deals ([\d,.]+) damage to nearby$	Наносит $1 урона, поражая ближайших
+^Reduces damage taken by ([\d,.]+)% for ([\d,.]+)$	Уменьшает получаемый урон на $1% на $2
+^by (\{[^}]+\}|[\d,.]+%?) for every Fear you$	на $1 за каждую единицу вашего
+^Catching a Sea Creature has a ([\d,.]+)%$	Поимка морского существа с вероятностью $1%
+# Batch 0.9.0: numeric menu variants and explicit caption families.
+^Present ([\d]+)$	Подарок $1
+^Backpack Slot ([\d]+)$	Ячейка рюкзака $1
+^Empty Backpack Slot ([\d]+)$	Пустая ячейка рюкзака $1
+^Locked Backpack Slot ([\d]+)$	Заблокированная ячейка рюкзака $1
+^Ender Chest Page ([\d]+)$	Страница эндер-сундука $1
+^Level ([\d]+)/([\d]+)$	Уровень $1/$2
+^Fishing: Level ([\d]+)$	Рыбалка: уровень $1
+^Requires Combat Level ([IVXLCDM]+)!$	Требуется боевой уровень $1!
+^Requires Ⓑ Bingo Rank ([IVXLCDM]+)!$	Требуется Ⓑ ранг Бинго $1!
+^Slay Tier ([IVXLCDM]+) to unlock!$	Для открытия победите босса ранга $1!
+^❣ Requires ([\d,]+) Barbarian Reputation\.$	❣ Требуется репутация у варваров: $1.
+^❣ Requires ([\d,]+) Mage Reputation\.$	❣ Требуется репутация у магов: $1.
+^([✓✗]) Catacombs Skill ([\d]+)\.$	$1 Навык Катакомб: $2.
+^([✓✗]) Master Mode The Catacombs Floor$	$1 Этаж Катакомб в режиме мастера
+^The Catacombs - Entrance$	Катакомбы — вход
+^The Catacombs - Floor ([IVXLCDM]+)$	Катакомбы — этаж $1
+^(?:Master Mode|MM) The Catacombs - Floor ([IVXLCDM]+)$	Катакомбы — режим мастера, этаж $1
+^Catacombs \(F([\d]+)\)$	Катакомбы (этаж $1)
+^Catacombs \(M([\d]+)\)$	Катакомбы (режим мастера, этаж $1)
+^Currently Selected: (Archer|Berserk|Healer|Mage|Tank)$	Сейчас выбран: $1
+^Perfect Helmet - Tier ([IVXLCDM]+)$	Идеальный шлем — ранг $1
+^Perfect Chestplate - Tier ([IVXLCDM]+)$	Идеальный нагрудник — ранг $1
+^Perfect Leggings - Tier ([IVXLCDM]+)$	Идеальные поножи — ранг $1
+^Perfect Boots - Tier ([IVXLCDM]+)$	Идеальные ботинки — ранг $1
+^Master Skull - Tier ([\d]+)$	Череп мастера — ранг $1
+^Trial of Fire ([\d]+)$	Испытание огнём $1
+^Trial of Blue Flames ([\d]+|[IVXLCDM]+)$	Испытание синим пламенем $1
+^Campfire Initiate Badge ([\d]+|[IVXLCDM]+)$	Знак посвящённого костра $1
+^Campfire Adept Badge ([\d]+|[IVXLCDM]+)$	Знак адепта костра $1
+^Campfire Cultist Badge ([\d]+|[IVXLCDM]+)$	Знак служителя костра $1
+^Campfire Scion Badge ([\d]+|[IVXLCDM]+)$	Знак наследника костра $1
+^Campfire God Badge ([\d]+|[IVXLCDM]+)$	Знак бога костра $1
+^Soul Campfire Initiate Badge ([\d]+|[IVXLCDM]+)$	Духовный знак посвящённого костра $1
+^Soul Campfire Adept Badge ([\d]+|[IVXLCDM]+)$	Духовный знак адепта костра $1
+^Soul Campfire Cultist Badge ([\d]+|[IVXLCDM]+)$	Духовный знак служителя костра $1
+^Soul Campfire Scion Badge ([\d]+|[IVXLCDM]+)$	Духовный знак наследника костра $1
+^Soul Campfire God Badge ([\d]+|[IVXLCDM]+)$	Духовный знак бога костра $1
+^Gain ([\d,.]+) Health Regen while burning\.$	Даёт $1 восстановления здоровья, пока вы горите.
+^([^A-Za-z]*)Health \(MM\) : ([\d,]+) - ([\d,]+)$	$1Здоровье (режим мастера): $2 — $3
+^Health Cost: ([\d,.]+)()?$	Затраты здоровья: $1$2
+^Coin Cost: ([\d,]+)$	Стоимость в монетах: $1
+^Cost: ([\d,]+) Coins$	Стоимость в монетах: $1
+^Cost: ([\d,]+) Tokens$	Стоимость в жетонах: $1
+^Apply Cost: ([\d,]+) Exp Levels$	Стоимость применения: $1 уровней опыта
+^Pet Exp Boost: ([+\d,.]+)%$	Бонус опыта питомца: $1%
+^Storage space: ([\d,]+) items$	Вместимость: $1 предметов
+^Gemstone Fortune: ([+\d,.]+)$	Удача добычи драгоценных камней: $1
+^Requires tool level ([\d]+)\+ to apply\.$	Для применения нужен инструмент уровня $1+.
+# Batch 0.10: observed skin variants and minion/tool upgrade captions.
+^(▶ )?This skin is swappable between ([\d]+)$	$1Этот облик позволяет выбрать один из $2
+^▶ This skin is swappable between$	▶ Этот облик позволяет выбрать один из
+^A bag with ([\d]+) slots which can be$	Мешок с ячейками ($1), который можно
+^(Acacia|Birch|Clay|Dark Oak|Fishing|Jungle|Oak|Sheep|Snow|Spruce|Wheat) Minion XII Upgrade Stone$	Камень улучшения: $1, миньон XII
+^(Cactus Knife|Cocoa Chopper|Eclipse Sickle|Euclid's Wheat Sickle|Fungi Cutter|Gauss Carrot Shovel|Melon Dicer|Newton Nether Wart Cutter|Pumpkin Dicer|Pythagorean Potato Shovel|Turing Sugar Cane Cutter|Wild Rose Cutter) Mk\. ([IVXLCDM]+)$	$1, модификация $2

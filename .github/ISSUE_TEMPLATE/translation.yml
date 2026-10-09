@@ -1,0 +1,41 @@
+name: Ошибка перевода
+description: Неточный смысл, неудачная формулировка или пропущенный текст
+title: "[Перевод] "
+body:
+  - type: markdown
+    attributes:
+      value: "Перевод подготовлен с помощью ИИ и может ошибаться. Не прикладывайте неочищенный чат, конфиги или личные данные."
+  - type: input
+    id: version
+    attributes:
+      label: Версия WitherSkyRU и Minecraft
+    validations:
+      required: true
+  - type: input
+    id: context
+    attributes:
+      label: Где показан текст
+      placeholder: "Остров, меню, предмет, NPC или панель стороннего мода"
+    validations:
+      required: true
+  - type: textarea
+    id: original
+    attributes:
+      label: Английский оригинал
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Текущий перевод или отсутствие перевода
+    validations:
+      required: true
+  - type: textarea
+    id: meaning
+    attributes:
+      label: Что неверно и какой смысл должен быть
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Скриншот с контекстом
+      description: "Прикрепите изображение, скрыв личные данные."

@@ -1,0 +1,170 @@
+# Conservative whole-line templates; preserve numerical values and symbols.
+^Resources Generated: ([\d,]+)$	Произведено ресурсов: $1
+^Max Storage: ([\d,]+)$	Максимальная вместимость: $1
+^Time Between Actions: ([\d.]+)s$	Интервал действий: $1 с
+^Time Between Actions: ([\d.]+) seconds$	Интервал действий: $1 с
+^Storage: ([\d,]+)$	Вместимость: $1
+^Actions: ([\d,]+)$	Действий: $1
+^Accessory Power: ([+\d,]+)$	Магическая сила аксессуара: $1
+^Upgrade Cost: ([\d,]+) coins$	Стоимость улучшения: $1 монет
+^Sell Price: ([\d,.]+) coins$	Цена продажи: $1 монет
+^Buy Price: ([\d,.]+) coins$	Цена покупки: $1 монет
+^NPC Sell Price: ([\d,.]+) coins$	Цена продажи NPC: $1 монет
+^([\d,.]+) coins$	$1 монет
+^([\d,.]+) Coins$	$1 монет
+^([\d,.]+) Bits$	$1 битов
+^([\d,.]+) seconds$	$1 с
+^([\d,.]+) second$	$1 с
+^([\d,.]+) minutes$	$1 мин
+^([\d,.]+) hours$	$1 ч
+^([\d,.]+) days$	$1 дн.
+^Cooldown: ([\d,.]+)s\.?(.*)$	Перезарядка: $1 с$2
+^Cooldown: ([\d,.]+) seconds$	Перезарядка: $1 с
+^Mana Cost: ([\d,.]+)(.*)$	Расход маны: $1$2
+^Soulflow Cost: ([\d,.]+)$	Расход потока душ: $1
+^Duration: ([\d,.]+) seconds$	Длительность: $1 с
+^Duration: ([\d,.]+) minutes$	Длительность: $1 мин
+^Duration: ([\d,.]+) hours$	Длительность: $1 ч
+^Ability: (.+) RIGHT CLICK$	Способность: $1 — ПКМ
+^Ability: (.+) LEFT CLICK$	Способность: $1 — ЛКМ
+^Ability: (.+) SNEAK RIGHT CLICK$	Способность: $1 — Shift + ПКМ
+^Ability: (.+) SNEAK LEFT CLICK$	Способность: $1 — Shift + ЛКМ
+^Item Ability: (.+) RIGHT CLICK$	Способность предмета: $1 — ПКМ
+^Item Ability: (.+) LEFT CLICK$	Способность предмета: $1 — ЛКМ
+^Full Set Bonus: (.+)$	Бонус полного комплекта: $1
+^Tiered Bonus: (.+) \((\d+)/(\d+)\)$	Бонус комплекта: $1 ($2/$3)
+^Piece Bonus: (.+)$	Бонус элемента: $1
+^Bonus: (.+)$	Бонус: $1
+^Pet Item: (.+)$	Предмет питомца: $1
+^Held Item: (.+)$	Удерживаемый предмет: $1
+^(Alchemy|Combat|Enchanting|Farming|Fishing|Foraging|Mining|Taming) Pet$	Питомец навыка «$1»
+^❣ Requires (.+) Skill ([\dIVXL]+)\.?$	❣ Требуется навык «$1» $2.
+^❣ Requires (.+) Level ([\dIVXL]+)\.?$	❣ Требуется уровень «$1» $2.
+^❣ Requires (.+) ([\dIVXL]+)\.?$	❣ Требуется «$1» $2.
+^Requires (.+) Skill ([\dIVXL]+)\.?$	Требуется навык «$1» $2.
+^Requires (.+) Level ([\dIVXL]+)\.?$	Требуется уровень «$1» $2.
+^Requires (.+) ([\dIVXL]+)\.?$	Требуется «$1» $2.
+^Requires (.+) Floor ([IVXL\d]+) Completion\.?$	Требуется пройти «$1», этаж $2.
+^❣ Requires (.+) Floor ([IVXL\d]+) Completion\.?$	❣ Требуется пройти «$1», этаж $2.
+^Requires (.+) Floor ([IVXL\d]+)\.?$	Требуется «$1», этаж $2.
+^❣ Requires (.+) Floor ([IVXL\d]+)\.?$	❣ Требуется «$1», этаж $2.
+^Requires (.+) Slayer ([IVXL\d]+)\.?$	Требуется $2-й уровень охотника на боссов «$1».
+^❣ Requires (.+) Slayer ([IVXL\d]+)\.?$	❣ Требуется $2-й уровень охотника на боссов «$1».
+^(.+) Collection ([IVXL\d]+)$	Коллекция «$1» $2
+^Upgrade to Tier ([IVXL\d]+)$	Улучшить до ступени $1
+^Tier ([IVXL\d]+) Minion$	Миньон $1-й ступени
+^Reach level ([\d]+) to unlock!$	Достигните $1-го уровня для открытия!
+^Unlocks at level ([\d]+)\.?$	Открывается на $1-м уровне.
+^Unlocks at (.+) ([IVXL\d]+)\.?$	Открывается на уровне «$1» $2.
+^Progress: ([\d,.]+) / ([\d,.]+)$	Прогресс: $1 / $2
+^Progress: ([\d,.]+)%$	Прогресс: $1%
+^Next Level: ([\d,.]+)%$	Следующий уровень: $1%
+^Next Tier: ([\d,.]+)%$	Следующая ступень: $1%
+^([\d,.]+)% to next level$	$1% до следующего уровня
+^([\d,.]+)% to next tier$	$1% до следующей ступени
+^Level: ([\d]+)$	Уровень: $1
+^Tier: ([IVXL\d]+)$	Ступень: $1
+^Level: MAX$	Уровень: МАКС.
+^Total XP: ([\d,.]+)$	Всего опыта: $1
+^Exp: ([\d,.]+)$	Опыт: $1
+^EXP: ([\d,.]+)$	ОПЫТ: $1
+^Selected: (.+)$	Выбрано: $1
+^Gemstones: (.+)$	Драгоценные камни: $1
+^Runes: (.+)$	Руны: $1
+^Reforge: (.+)$	Перековка: $1
+^Farming Contest: (.+)$	Фермерское состязание: $1
+^Event: (.+)$	Событие: $1
+^Prestige: ([IVXL\d]+)$	Престиж: $1
+^Charges: ([\d,]+)(.*)$	Заряды: $1$2
+^Blocks Broken: ([\d,]+)$	Разрушено блоков: $1
+^Crops Harvested: ([\d,]+)$	Собрано урожая: $1
+^Mobs Killed: ([\d,]+)$	Убито существ: $1
+^Kills: ([\d,]+)$	Убийств: $1
+^Dungeon Level: ([\d]+)$	Уровень подземелья: $1
+^Rarity: (.+)$	Редкость: $1
+^Rarity Upgraded: (.+)$	Редкость повышена: $1
+^Right-click to view (.+)!$	Нажмите ПКМ, чтобы открыть «$1»!
+^Click to view (.+)!$	Нажмите, чтобы открыть «$1»!
+^Click to select!$	Нажмите, чтобы выбрать!
+^Click to purchase!$	Нажмите, чтобы купить!
+^Right-click to purchase!$	Нажмите ПКМ, чтобы купить!
+^Click to unlock!$	Нажмите, чтобы открыть!
+^Click to upgrade!$	Нажмите, чтобы улучшить!
+^Click to claim!$	Нажмите, чтобы забрать!
+^Page ([\d]+) of ([\d]+)$	Страница $1 из $2
+^Page ([\d]+)$	Страница $1
+^Capacity: ([\d,]+) of each item$	Вместимость: $1 ед. каждого предмета
+^Selected Radius: ([\d]+)$	Выбранный радиус: $1
+^Requires: HotM ([\d]+)$	Требуется: Сердце горы $1
+^❣ Requires Kuudra Basic Tier Completion\.?$	❣ Требуется победить Куудру на базовой сложности.
+^❣ Requires Kuudra Hot Tier Completion\.?$	❣ Требуется победить Куудру на горячей сложности.
+^❣ Requires Kuudra Burning Tier Completion\.?$	❣ Требуется победить Куудру на пылающей сложности.
+^❣ Requires Kuudra Fiery Tier Completion\.?$	❣ Требуется победить Куудру на огненной сложности.
+^❣ Requires Kuudra Infernal Tier Completion\.?$	❣ Требуется победить Куудру на адской сложности.
+^Level ([\d]+) -> ([\d]+)   (.*)$	Уровень $1 → $2   $3
+^Break ([\d,.kKmM]+) blocks for Tier ([IVXL]+)$	Разрушьте $1 блоков для ступени $2
+^Harvest ([\d,.kKmM]+) crops for Tier ([IVXL]+)$	Соберите $1 ед. урожая для ступени $2
+^Gain ([\d,.kKmM]+) Combat XP for Tier ([IVXL]+)$	Получите $1 опыта боя для ступени $2
+^Kill ([\d,.kKmM]+) Sea Creatures for Tier ([IVXL]+)$	Убейте $1 морских существ для ступени $2
+^([\d,.kKmM]+) logs to tier up!$	Срубите $1 брёвен для повышения ступени!
+^▲ (.+) cannot be combined!$	▲ «$1» нельзя объединить!
+^Gain ([\d,.]+)% extra Combat XP\. The$	Даёт на $1% больше опыта боя.
+^Grants ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+)\.$	Даёт $1${gen:2}.
+^Grants ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+) and$	Даёт $1${gen:2} и
+^Gain ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+) and a$	Даёт $1${gen:2} и
+^Grants ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+) when$	Даёт $1${gen:2} при
+^Increases ([^A-Za-z]*)([A-Za-z ]+) by$	Увеличивает $1${acc:2} на
+^([\d,.]+)% chance to not consume$	С шансом $1% не расходует
+^([\d,.]+)% chance to drop an$	С шансом $1% даёт
+^in the water by ([\d,.]+)%\.$	в воде на $1%.
+^higher-tiered Trophies by ([\d,.]+)%\.$	трофейные экземпляры более высокого ранга на $1%.
+^Arthropod mobs by ([\d,.]+)%\.$	членистоногим на $1%.
+^Woodland mobs by ([\d,.]+)%\.$	лесным существам на $1%.
+^Airborne mobs by ([\d,.]+)%\.$	летающим существам на $1%.
+^Creepers by ([\d,.]+)%\.$	криперам на $1%.
+^([\d,.]+) blocks of the target\.$	в пределах $1 блоков от цели.
+^Gain a ([\d,.]+)% chance to spawn a$	Даёт шанс $1% призвать
+^before taking fall damage by ([\d,.]+)$	до получения урона на $1
+^Grants ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+) against$	Даёт $1${gen:2} против
+^Grants ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+)$	Даёт $1${gen:2}
+^Grants ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+) for$	Даёт $1${gen:2} для
+^Grants ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+), which$	Даёт $1${gen:2}, что
+^Grants ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+) and ([+\d,.]+)%$	Даёт $1${gen:2} и $3%
+^Gain ([+\d,.]+[^A-Za-z]*)([A-Za-z ]+) and$	Даёт $1${gen:2} и
+^Increases (.+) by ([\d,.]+)%\.$	Увеличивает ${acc:1} на $2%.
+^Complete ([\d,.]+) S runs for Tier ([IVXL]+)$	Пройдите $1 подземелий с оценкой S для ступени $2
+^Aquatic mobs by ([\d,.]+)%\.$	водным существам на $1%.
+^Magmatic mobs by ([\d,.]+)%\.$	магмовым существам на $1%.
+^Sea creatures start with ([\d,.]+)%$	Морские существа появляются с $1% 
+^Ignites your enemies for ([\d,.]+)s,$	Поджигает врагов на $1 с,
+^dealing ([\d,.]+)% of your damage$	нанося $1% вашего урона
+^Increases damage dealt by ([\d,.]+)%$	Увеличивает наносимый урон на $1%
+^Saves arrows ([\d,.]+)% of the time$	С шансом $1% сохраняет стрелы
+^Regain ([\d,.]+)% of your mana on$	Восстанавливает $1% вашей маны
+^dealing ([\d,.]+)% extra damage\.$	наносящий на $1% больше урона.
+^Glacite Mineshafts by ([\d,.]+)%\.$	глацитовых шахтах на $1%.
+^The extra targets hit take ([\d,.]+)%$	Дополнительные цели получают $1%
+^Makes fish swim ([\d,.]+)% faster towards$	Рыба плывёт на $1% быстрее
+^a radius of ([\d,.]+) blocks\.$	в радиусе $1 блоков.
+^your target by ([\d,.]+)% for ([\d,.]+)s$	вашей цели на $1% на $2 с
+^above you up to ([\d,.]+)%\.$	превышающего ваше; максимум $1%.
+^Grants ([\d]+) additional$	Даёт $1 дополнительную
+^Obtained: ([\d]+)$	Получено: $1
+^Edition #([\d]+)$	Выпуск №$1
+^Maximum Discs: ([\d]+)$	Максимум дисков: $1
+^Grants \+([\d]+) Chocolate and ([\d.]+)x$	Даёт +$1 шоколада и множитель $2x
+^Grants \+([\d]+)% more ([^A-Za-z]*)([A-Za-z ]+) against$	Даёт на +$1% больше $2${gen:3} против
+^Shot Cooldown: ([\d.]+)s$	Интервал выстрелов: $1 с
+^Max ([\d]+) players$	Максимум $1 игроков
+^Max ([\d]+) damage/s$	Максимум $1 урона/с
+^Intelligence every ([\d]+)s\.$	интеллекта каждые $1 с.
+^Zaps your enemies for (\{[^}]+\}|[\d.]+)x your ([^A-Za-z]*)$	Бьёт врагов разрядом, нанося $1x вашего $2
+^☠ Requires (.+) Slayer ([\d]+)\.$	☠ Требуется $2-й уровень охотника на боссов «$1».
+^stacks and shoot ([\d]+) homing missiles$	заряды и выпустить $1 самонаводящихся снарядов
+^Mage: (.+)$	Маг: $1
+^Tank: (.+)$	Танк: $1
+^Healer: (.+)$	Целитель: $1
+^Berserk: (.+)$	Берсерк: $1
+^Archer: (.+)$	Лучник: $1
+^\[Lvl ([\d]+)\] (.+)$	[Ур. $1] $2
+^\[Lvl ([\d]+)\]$	[Ур. $1]

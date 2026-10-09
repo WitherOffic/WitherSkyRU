@@ -1,0 +1,28 @@
+name: Сбой или несовместимость
+description: Вылет, отключение от сервера или проблема интерфейса
+title: "[Ошибка] "
+body:
+  - type: markdown
+    attributes:
+      value: "Для текущего тестового выпуска совместимость со всей сборкой не гарантируется. Проверьте журнал на личные данные перед публикацией."
+  - type: input
+    id: versions
+    attributes:
+      label: Версии Minecraft, Fabric Loader и WitherSkyRU
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Действия для повторения и ожидаемый результат
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Другие моды и результат без WitherSkyRU
+  - type: textarea
+    id: log
+    attributes:
+      label: Очищенный фрагмент ошибки или скриншот
+      description: "Не отправляйте токены, конфиги аккаунта, адреса и личные сообщения."

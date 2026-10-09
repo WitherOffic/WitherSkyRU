@@ -1,0 +1,18 @@
+plugins {
+    id 'net.fabricmc.fabric-loom' version '1.17-SNAPSHOT'
+    id 'maven-publish'
+}
+
+group = 'ru.wither.skyru'
+version = '0.15.0-dev'
+
+base { archivesName = 'WitherSkyRU-26.1.2-fabric' }
+repositories { maven { url = 'https://maven.fabricmc.net/' }; mavenCentral() }
+
+dependencies {
+    minecraft 'com.mojang:minecraft:26.1.2'
+    implementation 'net.fabricmc:fabric-loader:0.19.5'
+}
+
+java { toolchain.languageVersion = JavaLanguageVersion.of(25) }
+tasks.withType(JavaCompile).configureEach { it.options.release = 25; it.options.encoding = 'UTF-8' }

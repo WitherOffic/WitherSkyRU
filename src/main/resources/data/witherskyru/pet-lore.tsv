@@ -1,0 +1,684 @@
+# Authored against complete neighboring descriptions in pets.min.json.
+# Parameters and icons are preserved. Numeric variants are generated separately.
+Kill Combo	Серия убийств
+Gain buffs for combo kills. Effects	Получайте бонусы за серию убийств. Эффекты
+stack as you increase your combo.	суммируются с ростом серии.
+5 Combo (lasts {0}s)	Серия из 5 убийств (длительность: {0} с)
+10 Combo (lasts {1}s)	Серия из 10 убийств (длительность: {1} с)
+15 Combo (lasts {2}s)	Серия из 15 убийств (длительность: {2} с)
+20 Combo (lasts {3}s)	Серия из 20 убийств (длительность: {3} с)
+25 Combo (lasts {4}s)	Серия из 25 убийств (длительность: {4} с)
+30 Combo (lasts {5}s)	Серия из 30 убийств (длительность: {5} с)
++10 coins per kill	+10 монет за убийство
+Odyssey	Одиссея
+10 types of  Mythological mobs can	10 видов  мифологических существ могут
+spawn from Griffin Burrows. Their	появляться из нор грифона. Их
+stats scale with your Griffin’s	характеристики зависят от его
+rarity.	редкости.
+Sacred Strength	Священная сила
+Gain +{0}%  Strength when above	Даёт +{0}%  силы, пока у вас больше
+85%  Health.	85%  здоровья.
+King of Kings	Царь царей
+Grants +{1} Magic Find on 	Даёт +{1} шанса редкой добычи с 
+Mythological mobs.	мифологических существ.
+Laserbeam	Лазерный луч
+Zaps your enemies for {0}x your 	Поражает врагов уроном, равным {0} × вашему 
+Intelligence every 3s.	интеллекту, каждые 3 с.
+Enchanting Wisdom Boost	Бонус мудрости зачарования
+Grants +{1}☯ Enchanting Wisdom.	Даёт +{1}☯ мудрости зачарования.
+Mana Pool	Источник маны
+Regenerate {2}% extra mana, doubled	Восстанавливает на {2}% больше маны; бонус удваивается
+when near or in water	в воде и рядом с ней.
+Spiky Quills	Острые иголки
+Deal {0}% more damage to  Pests.	Увеличивает урон по  вредителям на {0}%.
+Fearsome Farmer	Грозный фермер
+Grants +{1} Farming Fortune and	Даёт +{1} удачи фермерства и
++{2} Overbloom on  Pests.	+{2} избыточного цветения против  вредителей.
+Hunter's Insight	Проницательность охотника
+Grants +0.7 Farming Fortune per	Даёт +0.7 удачи фермерства за каждую
+Pest Bestiary Tier.	ступень бестиария вредителей.
+Comfort Zone	Зона комфорта
+Grants +{0} Fishing Speed for 30s	Даёт +{0} скорости рыбалки на 30 с
+upon catching Treasure.	после вылова сокровища.
+Seafloor Scalper	Морской спекулянт
+Treasure catches are {1}% more	Выловленные сокровища на {1}% чаще
+likely to be GREAT or OUTSTANDING.	оказываются ВЕЛИКОЛЕПНЫМИ или ВЫДАЮЩИМИСЯ.
+Crab Rave	Крабья вечеринка
+Grants +{2} Treasure Chance	Даёт +{2} шанса сокровища
+for each player with a Hermit Crab	за каждого игрока с питомцем-раком-отшельником
+Pet within 30 blocks, up to 5 players.	в пределах 30 блоков; максимум — 5 игроков.
+High Stride	Высокий шаг
+Grants permanent Jump Boost IV.	Даёт постоянную прыгучесть IV.
+Stampede	Табун
+Mob kills grant a stack of +{0} 	За убийство существа даёт заряд: +{0} 
+Speed and +{1}  Strength for 5s.	скорости и +{1}  силы на 5 с.
+(Max 20 stacks)	(Максимум — 20 зарядов.)
+Trample	Растаптывание
+After falling 20 or more blocks,	После падения с высоты не менее 20 блоков
+absorb your fall damage and deal	поглощает урон от падения и наносит
+{2}% of your weapon's  Damage for	{2}%  урона вашего оружия за
+every block fallen to mobs within 3	каждый блок падения существам в пределах 3
+blocks.	блоков.
+Scavenger	Собиратель
+Gain +{0} coins per monster kill	Даёт +{0} монет за убийство существа.
+Finder	Искатель
+Increases the chance for monsters	Увеличивает шанс выпадения брони
+to drop their armor by {1}%.	из существ на {1}%.
+Pack Slayer	Истребитель стаи
+Gain {2}x Combat XP against Wolves.	Умножает опыт боя за волков на {2}.
+Forest Power	Сила леса
+Adds {0} Strength and {1} Speed	Добавляет {0} силы и {1} скорости
+to all your Axes.	всем вашим топорам.
+Jade Scale	Нефритовая чешуя
+Grants 15 Foraging Fortune and	Даёт 15 удачи лесорубства и
+4 Sweep for every digit in your	4 размаха за каждую цифру
+Mangrove Collection.	в вашей коллекции мангровой древесины.
+(Max 10M collection)	(Максимум — 10 млн в коллекции.)
+Dragon's Pride	Гордость дракона
+Grants 1 Foraging Fortune per 5	Даёт 1 удачи лесорубства за каждые 5
+Apex Predator	Высший хищник
+Increase your total  Sweep by	Увеличивает ваш общий  размах на
+0.1% for every Maxed out Attribute	0.1% за каждый полностью развитый атрибут,
+you unlocked.	который вы открыли.
+If you own a level 200 Jade Dragon,	Если у вас есть нефритовый дракон 200-го уровня,
+grants +4 Foraging Fortune for	даёт +4 удачи лесорубства за
+every other unique maxed Foraging	каждого другого уникального полностью развитого лесорубского
+Pet that you own.	питомца, которым вы владеете.
+Radiant Scyphozoa	Сияющая медуза
+While in dungeons, reduces the mana	В подземельях снижает расход маны
+cost of Power Orbs by {0}%.	сфер силы на {0}%.
+Stored Energy	Запасённая энергия
+While in dungeons, for every 2,000	В подземельях за каждые 2,000 ед.
+HP you heal teammates the cooldown	здоровья, восстановленного союзникам,
+of Wish is reduced by {1}s, up to	сокращает перезарядку «Желания» на {1} с;
+30s.	максимум — на 30 с.
+Powerful Potions	Мощные зелья
+While in dungeons, increase the	В подземельях увеличивает
+effectiveness of Dungeon Potions by	эффективность зелий подземелий на
+{2}%.	{2}%.
+Gain 50% chance to deal your	Даёт 50% шанс нанести ваш
+regular damage	обычный урон.
+Gain 100% chance to receive a	Даёт 100% шанс получить
+normal amount of drops from mobs	обычное количество предметов из существ.
+Actually adds {0} damage to the	Действительно добавляет {0} урона
+Aspect of the Jerry	Аспекту Джерри.
+Crimson	Багровый
+Grants {0}% extra Crimson Essence.	Даёт на {0}% больше багровой эссенции.
+Wither Bait	Приманка для иссушителей
+Increases the odds of finding a	Увеличивает шанс появления
+vanquisher by {1}%.	покорителя на {1}%.
+Kuudra Fortune	Удача Куудры
+Grants +{2}☘ Mining Fortune while on	Даёт +{2}☘ удачи добычи на
+the Crimson Isle.	Багровом острове.
+Trophy Bait	Трофейная наживка
+Grants +{3} Trophy Chance	Даёт +{3} шанса трофейной рыбы
+while on the Crimson Isle.	на Багровом острове.
+Kuudra Specialist	Знаток Куудры
+Increases all damage to Kuudra and	Увеличивает весь урон по Куудре и
+his minions by {4}%.	его прислужникам на {4}%.
+This pet automatically has Exp share!	Этот питомец автоматически разделяет опыт!
+This pet only gains XP on the	Этот питомец получает опыт только на
+Crimson Isle!	Багровом острове!
+Primal Force	Первобытная сила
+Adds +{0}  Damage and +{1} 	Добавляет +{0}  урона и +{1} 
+Strength to your weapons.	силы вашему оружию.
+First Pounce	Первый бросок
+First Strike, Triple-Strike, and	«Первый удар», «Тройной удар» и
+Combo are {2}% more effective.	«Комбо» на {2}% эффективнее.
+King of the Jungle	Царь джунглей
+Deal +{3}%  Damage against mobs	Даёт +{3}%  урона по существам,
+that have attacked you.	которые атаковали вас.
+Slimy Minions	Слизистые миньоны
+Slime and Magma Cube minions work	Миньоны слизня и лавового куба работают
+{0}% faster while on your island	на {0}% быстрее на вашем острове.
+Salt Blade	Соляной клинок
+Deal {1}% more damage to slimes	Увеличивает урон по слизням на {1}%.
+Hot Ember	Горячие угли
+Buffs the stats of Rekindled Ember	Усиливает характеристики брони
+Armor by {2}%.	возрождённых углей на {2}%.
+Wooly Coat	Шерстяной покров
+Gain a {0}% chance for mobs to not	Даёт {0}% шанс избежать
+inflict ❄ Cold when damaging you in	❄ холода от ударов существ в
+the Glacite Mineshafts.	глацитовых шахтах.
+Tusk Luck	Удача бивней
+Gain +{1} Magic Find for every	Даёт +{1} шанса редкой добычи за каждые
+100  Mining Fortune, doubled in the	100  удачи добычи; бонус удваивается в
+Glacite Tunnels and Glacite	Глацитовых туннелях и глацитовых
+Mineshafts.	шахтах.
+Corpse Crusher	Сокрушитель трупов
+Gain +{2} Mining Fortune for each	Даёт +{2} удачи добычи за каждый
+Frozen Corpse looted in your	разграбленный замёрзший труп в
+Blood Scent	Запах крови
+Deal up to +{0}%  Damage based on	Даёт до +{0}%  урона в зависимости от
+the enemy's missing health	недостающего здоровья врага.
+Enhanced Scales	Усиленная чешуя
+Doubles the pet's base stats during	Удваивает базовые характеристики питомца во время
+the Fishing Festival.	Рыболовного фестиваля.
+Feeding Frenzy	Жажда добычи
+Grants a +{1}% chance to catch	Даёт +{1}% шанса поймать
+Sharks during the Fishing Festival.	акулу во время Рыболовного фестиваля.
+Mithril Affinity	Связь с мифрилом
+Grants +{0} Mining Speed when mining	Даёт +{0} скорости добычи при добыче
+Mithril.	мифрила.
+Subterranean Battler	Подземный боец
+Increases all Combat Stats by +{1}%	Увеличивает все боевые характеристики на +{1}%
+on Mining Islands.	на островах горного дела.
+The Smell Of Powder	Запах пыли
+Grants +{2}% ᠅ Mithril Powder from	Даёт +{2}% ᠅ мифриловой пыли из
+all sources.	всех источников.
+Archaeologist	Археолог
+Scavenged Items appear {0}% more	Предметы для поиска появляются на {0}%
+often while in the Mines of Divan.	чаще в Шахтах Дивана.
+Magnetic Nose	Магнитный нос
+Automatons drop their parts {1}%	Автоматоны дают свои детали на {1}%
+more frequently.	чаще.
+Nucleic Veins	Кристальные жилы
+The Crystal Nucleus has a {2}%	Ядро кристаллов с шансом {2}%
+chance to drop an additional item.	даёт дополнительный предмет.
+Treeborn	Дитя дерева
+Grants +{0}  Foraging Fortune,	Даёт +{0}  удачи лесорубства,
+which increases your chance at	что увеличивает ваш шанс получить
+double logs.	двойную добычу брёвен.
+Vine Swing	Качание на лианах
+Grants {1} Speed while in The Park.	Даёт {1} скорости в Парке.
+Evolved Axes	Усовершенствованные топоры
+Grants +{2} Sweep while in The Park.	Даёт +{2} размаха в Парке.
+Mushroom Eater	Любитель грибов
+You have a {0}% chance to drop a	С шансом {0}% даёт
+Mushroom when farming crops.	гриб при сборе урожая.
+Farming Strength	Сила фермерства
+Grants +0.7 Farming Fortune for	Даёт +0.7 удачи фермерства за
+every {1}  Strength you have.	каждые {1}  силы.
+Bovine Blessing	Коровье благословение
+You have a {2}% chance to find	С шансом {2}% можно найти
+Tasty Cheese or Dung when farming	вкусный сыр или навоз при сборе
+crops.	урожая.
+Smooth Jazz	Мягкий джаз
+Pest Vinyls are {0}% more effective.	Пластинки для вредителей на {0}% эффективнее.
+Buzzin' Barterer	Жужжащий торговец
+Gain +{1} Sugar Cane Fortune for	Даёт +{1} удачи сбора сахарного тростника за
+every unique visitor you've served	каждого уникального посетителя, которого вы обслужили
+in The Garden.	в Саду.
+Your Bonus: 1.7 Sugar Cane Fortune	Ваш бонус: 1.7 удачи сбора сахарного тростника
+Capped at 175 Fortune	Максимум — 175 удачи
+Bloodsucker's Betrayal	Предательство кровососа
+When collected, Pest Traps will catch	После сбора ловушки для вредителей поймают
+the next pest {2}% faster.	следующего вредителя на {2}% быстрее.
+Foraging Wisdom Boost	Бонус мудрости лесорубства
+Grants +{0}☯ Foraging Wisdom.	Даёт +{0}☯ мудрости лесорубства.
+Tree Hugger	Обниматель деревьев
+Foraging minions work {1}% faster	Миньоны лесорубства работают на {1}% быстрее
+while on your island	на вашем острове.
+Tree Essence	Эссенция дерева
+Gain a {2}% chance to get exp from	С шансом {2}% даёт опыт при
+breaking a log	добыче бревна.
+Intelligent Specimen	Умный экземпляр
+Earn +{0}% more Farming Tool Exp.	Даёт на {0}% больше опыта фермерским инструментам.
+Swift Sickles	Проворные серпы
+Convert every 3  Speed you have	Преобразует каждые 3  скорости
+above 100 into +{1} Farming	сверх 100 в +{1} фермерской
+Fortune.	удачи.
+Orchid Nectar	Нектар орхидеи
+Jelly or Plant Matter when farming	желе или растительную массу при сборе
+Training Refunds	Возврат за обучение
+The more coins you spend on Fann's	Чем больше монет вы тратите на занятия
+Sessions, the less coins they will	у Фанн, тем дешевле они будут
+cost in the future. (Max 5% off).	в будущем. (Максимальная скидка — 5%.)
+Next Milestone: 1% off	Следующая цель: скидка 1%
+Efficient Trainer	Эффективный тренер
+Makes training sessions at Fann	Делает занятия у Фанн
+more efficient when added into a	эффективнее, когда питомец участвует
+session.	в занятии.
+Increased EXP: +{0}% EXP	Бонус опыта: +{0}%
+Fast Learner	Быстрый ученик
+Flamboyant	Яркая натура
+Adds {0} levels to intimidation	Добавляет {0} уровней аксессуарам
+accessories	устрашения.
+Repeat	Повторение
+Boosts potions duration by {1}%.	Продлевает действие зелий на {1}%.
+Bird Discourse	Птичьи разговоры
+Gives +{2} Strength to players	Даёт +{2} силы игрокам
+within 20 blocks	в пределах 20 блоков.
+Doesn't stack	Не суммируется.
+Parrot Feather Infusion	Настойка из пера попугая
+When summoned or in your Pets menu,	Когда питомец призван или находится в меню питомцев,
+boost the duration of consumed God	продлевает действие выпитых зелий бога
+Potions and Mixins by {3}%.	и добавок к ним на {3}%.
+Thick Blubber	Толстый слой жира
+Each time you catch a Sea Creature,	Каждый раз, когда вы ловите морское существо,
+reduce your ❄ Cold by {0}.	снижает ваш ❄ холод на {0}.
+Chilly Reception	Холодный приём
+Grants +{1} Cold Resistance for	Даёт +{1} сопротивления холоду за
+each player within 30 blocks, up to	каждого игрока в пределах 30 блоков;
+10 players.	максимум — 10 игроков.
+Subzero Hero	Герой мороза
+Grants +{2} Fishing Speed while in	Даёт +{2} скорости рыбалки в
+the Glacite Tunnels.	Глацитовых туннелях.
+Rekindle	Возрождение
+Before death, become immune and	Перед смертью дарует неуязвимость и
+gain {0}  Strength for {1} seconds	даёт {0}  силы на {1} с.
+60s cooldown	Перезарядка: 60 с.
+Fourth Flare	Четвёртая вспышка
+On 4th melee strike, ignite mobs,	Каждым 4-м ударом в ближнем бою поджигает существ,
+dealing {2}x your  Crit Damage each	нанося урон, равный {2} × вашему  критическому урону,
+second for {3} seconds	каждую секунду в течение {3} с.
+Hamfisted	Неуклюжие копыта
+Increases Coin gain from Shiny Pigs	Увеличивает количество монет от сияющих свиней
+by {0}%.	на {0}%.
+Shining Stampede	Сияющий табун
+Grants +{1} Potato Fortune per	Даёт +{1} удачи сбора картофеля за каждую
+Shiny Pig Bestiary tier.	ступень бестиария сияющей свиньи.
+Pig Parade	Свиной парад
+Increases the base stats of this pet	Увеличивает базовые характеристики этого питомца
+by {2}% during the Year of the Pig.	на {2}% в Год свиньи.
+Bacon Farmer	Фермер бекона
+Pig minions work {0}% faster while on	Миньоны свиньи работают на {0}% быстрее на
+your island	вашем острове.
+Pork Master	Мастер свинины
+Buffs the Pigman Sword by {1} 	Добавляет мечу свинозомби {1} 
+Damage and {2}  Strength.	урона и {2}  силы.
+Giant Slayer	Убийца великанов
+Deal +50% damage to monsters Level	Даёт +50% урона по существам
+50+ and +75% damage to monsters	50-го уровня и выше и +75% урона по существам
+Level 100+.	100-го уровня и выше.
+All Skills	Все навыки
+Creative Mind	Творческий ум
+This pet can have Drone Mods	К этому питомцу можно применять модификации дрона,
+applied to it, which allows you to	которые позволяют настраивать
+modify its Perks to your liking.	его способности по своему вкусу.
+Precursor Drones may possess up	Дроны предтеч могут иметь
+to 3 perks at a time, this one included.	до 3 способностей одновременно, включая эту.
+Happy Feet	Счастливые лапки
+Jump potions also give +{0} speed	Зелья прыгучести также дают +{0} скорости.
+Farming Wisdom Boost	Бонус мудрости фермерства
+Grants +{1}☯ Farming Wisdom.	Даёт +{1}☯ мудрости фермерства.
+Efficient Farming	Эффективное фермерство
+Farming minions work {2}% faster	Миньоны фермерства работают на {2}% быстрее
+Combat Morph	Боевая форма
+Morph	Превращение
+morph into it!	превратиться в него!
+CHEESE!	СЫР!
+As a Rat, you smell CHEESE nearby!	В облике крысы вы чуете СЫР поблизости!
+Yummy!	Вкусно!
+Rat's Blessing	Крысиное благословение
+Has a chance to grant a random	С некоторым шансом даёт случайному
+player +{0} Magic Find for {1}	игроку +{0} шанса редкой добычи на {1}
+seconds after finding a yummy piece	секунд после того, как вы нашли вкусный кусочек
+of Cheese! If the player gets a drop	сыра! Если игрок получит предмет
+during this buff, you have a 20%	во время действия этого бонуса, у вас есть 20%
+chance to get it too.	шанс получить такой же предмет.
+Winter Sprint	Зимний спринт
+Gain double pet EXP.	Питомец получает вдвое больше опыта.
+Infused	Пропитка
+Gives +{0} Fishing Speed and +5	Даёт +{0} скорости рыбалки и +5
+Treasure Chance while on Jerry's	шанса сокровища в Мастерской
+Workshop.	Джерри.
+Snow Power	Сила снега
+Grants +{1}% bonus gift chance	Даёт +{1}% шанса на дополнительный подарок
+during the Gift Attack event.	во время события «Атака подарками».
+Icy Wind	Ледяной ветер
+Grants +{2}% chance of getting	Даёт +{2}% шанса получить
+double Ice Essence.	двойное количество ледяной эссенции.
+# Earlier pets: parameterized ability lines and their adjacent continuations.
+Grants +{0} Sea Creature Chance	Даёт +{0} шанса морского существа
+Grants +{1} Double Hook Chance	Даёт +{1} шанса двойного улова
++{2} Fishing Speed, +{3} Speed	+{2} скорости рыбалки, +{3} скорости
+and +{4} Defense.	и +{4} защиты.
+Gain {0}% of your  Defense as 	Даёт {0}% от вашей  защиты в виде 
+Strength. (Max +500)	силы. (Максимум — +500.)
+Stand and Lifeline by {1}%.	рубежа» и «Спасательного круга» на {1}%.
+Every 5th hit deals {2}% of your	Каждый 5-й удар наносит {2}% вашего
+final damage to enemies within 5	итогового урона врагам в пределах 5
+blocks. Enemies hit deal 10% less	блоков. Поражённые враги наносят на 10% меньше
+damage for 10s.	урона в течение 10 с.
+ride it! Moves faster based on your	оседлать его! Передвигается быстрее в зависимости от вашей
+ Speed.	 скорости.
+Tunneller	Проходчик
+your held item.	предмета в вашей руке.
+Every {0} seconds, the next	Каждые {0} с следующий добытый
+Gemstone you mine gives 2x drops	драгоценный камень даёт двойную добычу.
+Grants +{1} Mining Spread while	Даёт +{1} широты добычи
+Yeti Fury	Ярость йети
+Buffs the Yeti Sword by {0}  Damage	Добавляет мечу йети {0}  урона
+cooldown by {1}%.	перезарядку на {1}%.
+Stats by {2}% while on Jerry's	рыбалки на {2}% в Мастерской
+Grants +{3} Magic Find against	Даёт +{3} шанса редкой добычи с
+Grants +{0} Pristine while in the	Даёт +{0} безупречности на
+mobs reduces your  Heat by {1}.	существ снижает ваш  жар на {1}.
+Increases damage dealt to Bal by {2}%.	Увеличивает урон по Балу на {2}%.
+Increases drop chance of candies	Увеличивает шанс выпадения конфет
+During night, gain {1}  Intelligence,	Ночью даёт {1}  интеллекта,
+{2}  Speed, and Night Vision.	{2}  скорости и ночное зрение.
+Deals +{3}% damage to Spooky	Даёт +{3}% урона по жутким
+Max 15 players	Максимум — 15 игроков.
+Grants +{3} of each to your pet:	Даёт питомцу +{3} к каждой характеристике:
+You have a {4}% chance to find a	С шансом {4}% можно найти
+Gain {0}% more collection items from	Даёт на {0}% больше предметов коллекций из
+any source!	любых источников!
+Gain {1}% more HOTM and HOTF XP.	Даёт на {1}% больше опыта Сердца горы и Сердца леса.
+Gain {2}% more Skill Experience and	Даёт на {2}% больше опыта навыков и
+active pet by {3}%.	активного питомца на {3}%.
+Gain {4} more coins per monster	Даёт на {4} монет больше за каждый
+{5}% more time	на {5}% дольше.
+cap by +{0}.	предел скорости на +{0}.
+Grants +{1} Pet Luck.	Даёт +{1} удачи питомцев.
+Grants +{2} Magic Find.	Даёт +{2} шанса редкой добычи.
+stats by {0}% while on the Crimson	характеристики на {0}% на Багровом
+ability by {1}%.	способность на {1}%.
+gain +{0}% Damage Reduction.	получаемый урон снижается на {0}%.
+Gain {1} Defense per 20 Max 	Даёт {1} защиты за каждые 20 ед. максимального 
+Health.	здоровья.
+Gain +{2}% Max  Health.	Даёт +{2}% к максимальному  здоровью.
+Grants +{0} Farming Fortune while	Даёт +{0} удачи фермерства
+killed. Grants a {1}% chance for	Даёт {1}% шанс
+Reduces fall damage by {2}%.	Снижает урон от падения на {2}%.
+abilities by {0}.	способностей на {0}.
+your  Defense by +{1} for 20	вашу  защиту на +{1} на 20
+seconds.	секунд.
+Gives a {2} chance to not consume	Даёт шанс {2} не расходовать
+Grants +{0} Fishing Speed for	Даёт +{0} скорости рыбалки за
+each player within 30 blocks, up to 5	каждого игрока в пределах 30 блоков; максимум — 5
+Grants +{1} Sea Creature Chance.	Даёт +{1} шанса морского существа.
+faster, healing you for 15% of your	быстрее и восстанавливает 15% от вашего
+Bonus: +0 & +0	Бонус: +0 и +0
+Next Upgrade: +30 & +3 (0/100)	Следующее улучшение: +30 и +3 (0/100)
+Gain +{0}☯ Combat Wisdom towards	Даёт +{0}☯ мудрости боя при убийстве
+Grants +30☯ Hunting Wisdom while in	Даёт +30☯ мудрости охоты в
+Grants +2.5 Hunting Fortune for	Даёт +2.5 удачи охоты за
+Fears and Spooky Mobs by {0}% for	страхам и жутким существам на {0}%
+Gives +{1} Fear for every 10 Primal	Даёт +{1} страха за каждые 10 убитых
+Fears killed, up to 150 Primal Fears.	первобытных страхов; учитывается не более 150 убийств.
+Stomp	Топот
+Gain {0} Defense for every 100 	Даёт {0} защиты за каждые 100 
+Speed.	скорости.
+Gain {1} Health for every 10 	Даёт {1} здоровья за каждые 10 
+Defense.	защиты.
+Grants +{2} Farming Fortune, which	Даёт +{2} удачи фермерства, что
+Enderian	Житель Энда
+Take {0}% less damage from  Ender	На {0}% снижает урон от  эндских
+mobs	существ.
+{1} weapon damage for 5s on use	{1} урона оружия на 5 с после применения.
+special Zealot by {2}%.	особого фанатика на {2}%.
+More Stonks	Больше прибыли
+Gain more exp orbs for breaking end	Даёт больше сфер опыта за добычу камня
+stone and gain a +{0}% chance to get	Энда и +{0}% шанса получить
+an extra block dropped	дополнительный блок.
+Transmission Abilities cost {1}% less	Способности перемещения расходуют на {1}% меньше
+Gain a {2}% chance to dig up a bonus	Даёт {2}% шанса выкопать дополнительную
+Deal {0}% more damage to ⊙ Ender	Увеличивает урон на {0}% против ⊙ эндских
+mobs.	существ.
+sword by {1} ❁ Damage and {2} ❁	добавляя ему {1} ❁ урона и {2} ❁
+Increases all Combat stats and 	Увеличивает все боевые характеристики и 
+Magic Find by {3}%.	шанс редкой добычи на {3}%.
+Grants +{0} Fishing Speed.	Даёт +{0} скорости рыбалки.
+Gives {1}  Strength and  Defense	Даёт {1}  силы и  защиты
+and Abyssal Armor by {2}%.	и брони бездны на {2}%.
+Gain +15ф Rift Time per	Даёт +15ф времени в Разломе
+Hop	Прыжок
+Grants {0} Foraging Fortune for	Даёт {0} удачи лесорубства
+Grants {1} Foraging Fortune for	Даёт {1} удачи лесорубства
+Water Shards by {2}% while on	водные осколки на {2}% на
+Foraging Islands.	Лесорубских островах.
+faster, healing you for 25% of your	быстрее и восстанавливает 25% от вашего
+Bathing in it heals 15%❤ now and	Купание в нём сразу восстанавливает 15%❤ и
+4%❤/s for 8s.	4%❤ в секунду в течение 8 с.
+Zombies.	зомби.
+getting a mob's soul by {1}%.	получить душу существа на {1}%.
+by {2}% and increases their damage	на {2}% и увеличивает наносимый ими
+output by {3}%. Increases the health	урон на {3}%. Увеличивает здоровье
+of all summoned mobs by {4}%.	всех призванных существ на {4}%.
+Grants +{0} Health Regen	Даёт +{0} регенерации здоровья
+Increases your  Crit Damage and	Увеличивает ваш  критический урон и
+ Strength by {1}% for every	 силу на {1}% за каждые
+0.1 Swing Range over 3 (up to	0.1 дальности удара сверх 3 (максимум —
+6)	6).
+Increases your melee damage by	Увеличивает ваш урон в ближнем бою на
+{2}% if you are more than 3 blocks	{2}%, если вы дальше 3 блоков
+heals you for 40% of your max ❤	восстанавливает 40% от вашего максимального ❤
+Bathing in it heals 20%❤ now and	Купание в нём сразу восстанавливает 20%❤ и
+7%❤/s for 8s.	7%❤ в секунду в течение 8 с.
+Gain {0}% more Glacite Powder from	Даёт на {0}% больше глацитовой пыли из
+Gain +{1}  Mining Fortune while in the	Даёт +{1}  удачи добычи в
+Gain +{2}  Pristine for every	Даёт +{2}  безупречности за каждый
+Gain +{0} Mining Speed when mining	Даёт +{0} скорости добычи при добыче
+Gain +{1} Mining Spread while in the	Даёт +{1} широты добычи в
+rare goblin eggs by {2}%.	редкие гоблинские яйца на {2}%.
+Grants +11.1 Strength and +2.2	Даёт +11.1 силы и +2.2
+Grants +{1}% Strength per 5	Даёт +{1}% силы за каждые 5
+Magic Find. (Max +{2}%)	шанса редкой добычи. (Максимум — +{2}%.)
+Gain {3}% damage for every million	Даёт {3}% урона за каждый миллион
+coins in your bank. (Max {4}%)	монет в вашем банке. (Максимум — {4}%.)
+If you own a level 200 Golden	Если у вас есть золотой дракон
+Dragon, gain +5 coins per monster	200-го уровня, даёт +5 монет за убийство существа
+While at less than 20% HP, reduce	Пока у вас меньше 20% здоровья, снижает
+Your iron plating causes {0}% of	Ваша железная броня заставляет {0}%
+the air and deal 5x damage (5s	в воздух и наносит урон в 5 раз больше (5 с
+# Remaining pet descriptions: source lines read together, not translated in isolation.
+Orbs are Fun	Весёлые сферы
+Gain +10% experience from XP Orbs.	Даёт +10% опыта из сфер опыта.
+ride it!	оседлать его!
+Sailing Stone	Путешествующий камень
+Sneak to move your rock to your	Присядьте, чтобы переместить камень
+location (15s cooldown)	к себе (перезарядка: 15 с).
+Fortify	Укрепление
+While sitting on your rock, gain +{0}%	Пока вы сидите на камне: +{0}%
+Steady Ground	Надёжная опора
+While sitting on your rock, deal +{1}x	Пока вы сидите на камне: +{1}×
+Garden Power	Сила сада
+Grants +{0} Farming Fortune per	Даёт +{0} удачи фермерства за каждый
+Farming level.	уровень фермерства.
+Rosy Scales	Розовая чешуя
++{2} Speed per Crop Milestone.	+{2} скорости за каждую веху урожая.
+Dragon's Gluttony	Прожорливость дракона
+Grants +{3} Overbloom.	Даёт +{3} избыточного цветения.
+Spiritual Perfection	Духовное совершенство
+Gain {4}% more Copper from Garden	Даёт на {4}% больше меди от
+Visitors and from analyzing Mutations.	посетителей сада и за анализ мутаций.
+If you own a level 200 Rose Dragon,	Если у вас есть розовый дракон 200-го уровня,
+grants +3 Farming Fortune for	даёт +3 удачи фермерства за
+every other unique maxed Farming	каждого другого уникального полностью развитого фермерского
+Burrowing	Рытьё
+Grants a +{0}% chance to find	Даёт +{0}% к шансу найти
+Treasure Chests while mining.	сундуки с сокровищами при добыче.
+Drill Infusion	Усиление буров
+Grants +{1}☘ Gemstone Fortune to	Даёт +{1}☘ удачи самоцветов
+Drills.	бурам.
+Bejeweled Eyes	Самоцветные глаза
+Earn +{2}% Gemstone Powder from all	Даёт на {2}% больше самоцветной пыли из всех
+sources.	источников.
+Showboater	Любитель покрасоваться
+Increases your chance of catching	Увеличивает ваш шанс выловить
+Bouncy Beach Balls and Giant Bouncy	пляжные мячи и гигантские
+Beach Balls during the Year of the	пляжные мячи в год
+Seal by {0}%.	тюленя на {0}%.
+Peak Performance	На пике формы
+Gain a {1}% chance to materialize	Даёт {1}% шанса создать
+some Treasure Bait in your	наживку для сокровищ в вашем
+inventory upon catching Treasure.	инвентаре после вылова сокровища.
+Materializes Golden Bait instead	Вместо неё создаёт золотую наживку
+during the Year of the Seal.	в год тюленя.
+Amphibious	Земноводный
+by {2}% during the Year of the Seal.	на {2}% в год тюленя.
+Mana Saver	Экономия маны
+Reduces the mana cost of abilities by	Снижает расход маны способностей на
+Overheal	Избыточное исцеление
+Gives a {1}% shield after not taking	Даёт щит на {1}%, если вы не получали
+damage for 10s	урон в течение 10 с.
+Dungeon Wizard	Чародей подземелий
+Increases your total mana by {2}%	Увеличивает ваш общий запас маны на {2}%
+while in dungeons	в подземельях.
+Magnetic	Магнетизм
+Earn +{0}% more Exp when mining.	Даёт на {0}% больше опыта при добыче.
+Experienced Burrower	Опытный землекоп
+Grants +{1}☯ Mining Wisdom.	Даёт +{1}☯ мудрости добычи.
+Dexterity	Ловкость
+Grants +{2} Mining Speed and	Даёт +{2} скорости добычи и
+permanent Haste {3}.	постоянную спешку {3}.
+Bone Arrows	Костяные стрелы
+Increase arrow damage by {0}%	Увеличивает урон стрел на {0}%;
+which is doubled while in dungeons	этот бонус удваивается в подземельях.
+Gain a combo stack for every bow hit	Даёт заряд комбо за каждое попадание из лука:
+granting +3  Strength. Max {1}	+3  силы. Максимум — {1}
+stacks, stacks disappear after 8	зарядов; они исчезают через 8
+Skeletal Defense	Скелетная защита
+Your skeleton shoots an arrow	Ваш скелет выпускает стрелу с
+dealing 30x your  Crit Damage	уроном, равным 30 × вашему  критическому урону,
+when a mob gets close to you (5s	когда существо приближается к вам (5 с
+cooldown).	перезарядки).
+Mob kills grant a stack of +{0} 	За убийство существа даёт заряд: +{0} 
+Attack Speed and +{1}  Strength for	скорости атаки и +{1}  силы на
+Slow Start	Медленное начало
+Every 60s, your next cut gains	Каждые 60 с следующая рубка получает
++{0} Sweep and +{1} Foraging	+{0} размаха и +{1} лесорубской
+Stronk Arm	Могучая рука
+Gains +{2} Sweep and +{3}	Даёт +{2} размаха и +{3}
+Foraging Fortune on Axe throws.	удачи лесорубства при броске топора.
+Starlyn's Favorite	Любимец Старлин
+Cutting Trees give +{4}% more points	Рубка деревьев даёт на {4}% больше очков
+towards Starlyn Contests.	на состязаниях Старлин.
+Slow and Steady	Медленно, но верно
+When fishing in the Crimson Isle,	При рыбалке на Багровом острове
+Slugfish take {0}% less time to catch.	время поимки рыбы-слизня уменьшается на {0}%.
+Pest Friends	Друзья-вредители
+Grants +{1} Bonus Pest Chance.	Даёт +{1} шанса дополнительных вредителей.
+Repugnant Aroma	Отталкивающий аромат
+When farming in a plot affected by a	При сборе урожая на участке, обработанном
+Sprayonator, gain +{2} Farming	опрыскивателем, даёт +{2} фермерской
+Red Sand Enjoyer	Ценитель красного песка
+Red Sand Minions work {0}% faster	Миньоны красного песка работают на {0}% быстрее
+while on your Private Island.	на вашем личном острове.
+Convert every {1} Speed you	Преобразует каждые {1} скорости
+have above 100 into +1 Block	сверх 100 в +1 блочной
+Slimy Reach	Слизистый охват
+Grants +{2} Mining Spread while	Даёт +{2} широты добычи
+mining Blocks.	при добыче блоков.
+Fight alongside your pet Snowman!	Сражайтесь вместе со своим снеговиком!
+Blizzard	Метель
+Enemies within {0} blocks are slowed	Враги в пределах {0} блоков замедляются
+by 25% and deal {1}% less damage.	на 25% и наносят на {1}% меньше урона.
+Frostbite	Обморожение
+Your freezing aura slows enemy	Ваш морозный ореол замедляет
+attacks causing you to take {2}%	атаки врагов, снижая на {2}%
+reduced damage	получаемый урон.
+Snow Cannon	Снежная пушка
+Shoots a snowball towards an enemy	Выпускает снежок во врага
+when you attack dealing {3}% of	при вашей атаке, нанося {3}% от
+your last dealt melee damage,	урона вашего последнего удара в ближнем бою;
+capped at 200,000. (1s cooldown)	не более 200,000 урона (перезарядка: 1 с).
+One With The Spider	Единство с пауком
+Applies +{0} Strength to all	Даёт +{0} силы всему
+Arachnal  weapons, armor, and	паучьему  оружию, броне и
+equipment you have equipped.	снаряжению, которые вы экипировали.
+Web-weaver	Ткач паутины
+Upon hitting a monster, it becomes	При попадании по существу замедляет
+slowed by {1}%.	его на {1}%.
+Spider Whisperer	Заклинатель пауков
+Spider, Cave Spider and Tarantula	Миньоны паука, пещерного паука и тарантула
+minions work {2}% faster while on	работают на {2}% быстрее на
+your island.	вашем острове.
+Sharp Attitude	Острый нрав
+Sea Creatures spawn with {0}% of	Морские существа появляются с потерей {0}%
+their maximum health missing.	от их максимального здоровья.
+Pursuit	Преследование
+GOLD and DIAMOND tier Trophy	трофейную рыбу ЗОЛОТОГО и АЛМАЗНОГО
+Fish by {1}%.	уровня на {1}%.
+Adaptive Predator	Приспосабливающийся хищник
+Increases this pet's base stats by	Увеличивает базовые характеристики питомца на
+{2}% during any Weather.	{2}% во время любой погоды.
+Spirit Assistance	Помощь духа
+Spawns and assists you when you	Появляется и помогает вам, когда вы
+are a ghost in Dungeons.	становитесь призраком в подземельях.
+Spirit Cooldowns	Перезарядка духа
+Reduces the cooldown of your ghost	Снижает перезарядку ваших призрачных
+abilities in dungeons by {0}%.	способностей в подземельях на {0}%.
+Half Life	Половина жизни
+If you are the first player to die in	Если вы первым из игроков погибаете
+a dungeon, the score penalty for	в подземелье, штраф к оценке за
+that death is reduced to 1.	эту смерть уменьшается до 1.
+More Ink	Больше чернил
+Gain a {0}% chance to get double	Даёт {0}% шанса получить двойную
+drops from squids	добычу с кальмаров.
+Ink Specialty	Чернильный специалист
+Buffs the Ink Wand by {1}  Damage	Усиливает чернильную палочку: +{1}  урона
+and {2}  Strength.	и +{2}  силы.
+Fishing Wisdom Boost	Бонус мудрости рыбалки
+Grants +{3}☯ Fishing Wisdom.	Даёт +{3}☯ мудрости рыбалки.
+faster, healing you for 50% of your	быстрее и восстанавливает 50% от вашего
+Bathing in it heals 25%❤ now and	Купание в нём сразу восстанавливает 25%❤ и
+10%❤/s for 8s.	10%❤ в секунду в течение 8 с.
+Ephemeral Stability	Эфемерная устойчивость
+Regenerate mana 40% faster	Восстанавливает ману на 40% быстрее.
+Webbed Cells	Паутинные клетки
+Tarantula Broodfather's  Vitality	Снижение вашей  жизненной силы прародителем тарантулов
+reduction is {0}% less effective	на {0}% менее эффективно
+against you.	против вас.
+Eight Legs	Восемь лап
+Decreases the mana cost of Spider,	Снижает расход маны паучьих,
+Tarantula, Primordial and Spirit Boots	тарантульих, первобытных и призрачных сапог
+by {1}%.	на {1}%.
+Arachnid Slayer	Истребитель паукообразных
+Gain +{2}☯ Combat Wisdom towards	Даёт +{2}☯ мудрости боя при убийстве
+Spiders.	пауков.
+Merciless Swipe	Безжалостный удар
+Gain +{0}%  Ferocity.	Даёт +{0}%  свирепости.
+Hemorrhage	Кровотечение
+Melee attacks reduce healing by {1}%	Атаки в ближнем бою снижают исцеление на {1}%
+for 10s.	на 10 с.
+Deal +{2}% damage against targets with	Увеличивает урон на {2}% против целей, рядом с которыми
+no other mobs within 15 blocks.	нет других существ в пределах 15 блоков.
+Turtle Tactics	Черепашья тактика
+Gain +{0}%  Defense and an	Даёт +{0}%  защиты и ещё
+additional +10%  Defense when	+10%  защиты, если вы
+standing still.	стоите неподвижно.
+Genius Amniote	Гениальный амниот
+Grants +{1}%  Defense to 4	Даёт +{1}%  защиты 4
+players within 50 blocks of you.	игрокам в пределах 50 блоков от вас.
+Unflippable	Не опрокинуть
+Gain immunity to knockback	Даёт невосприимчивость к отбрасыванию.
+When under 40% maximum HP, you take	Если у вас меньше 40% максимального здоровья, получаете на
+{2}% less damage. Gain +{3}	{2}% меньше урона. Даёт +{3}
+Vitality after taking 10 hits.	жизненной силы после получения 10 ударов.
+Close Combat	Ближний бой
+Deal {0}% more damage to enemies	Увеличивает урон по врагам на {0}%
+within 1.5 blocks.	в пределах 1.5 блока.
+Ferocious Roar	Свирепый рёв
+Attacks have a {1}% chance to stun	Атаки имеют {1}% шанс оглушить
+the target (10s cooldown).	цель (перезарядка: 10 с).
+Tyrant	Тиран
+Combat stats granted by pet items on	Боевые характеристики, которые дают предметы
+this pet are increased by {2}%.	для этого питомца, увеличиваются на {2}%.
+Toil and Trouble	Труды и хлопоты
+Increases your chance of dropping	Увеличивает ваш шанс получить
+Ingredients during the Year of the	ингредиенты в год
+Witch by {0}%.	ведьмы на {0}%.
+Alchemism	Алхимическое мастерство
+Reduces how long Potions take to	Сокращает время варки
+brew by {1}%.	зелий на {1}%.
+Witching Hour	Ведьмин час
+by {2}% during the Year of the Witch.	на {2}% в год ведьмы.
+Stronger Bones	Крепкие кости
+Take {0}% less damage from 	На {0}% снижает урон от 
+Skeletal mobs.	скелетных существ.
+Wither Blood	Кровь иссушителя
+Deal {1}% more damage to  Wither	Увеличивает урон на {1}% против  иссушённых
+Death's Touch	Прикосновение смерти
+Upon hitting an enemy inflict the	При попадании по врагу накладывает
+wither effect for {2}% damage over 3	эффект иссушения, наносящий {2}% урона за 3
+seconds	секунды.
+Does not stack	Не суммируется.
+Alpha Dog	Вожак
+Take {0}% less damage from wolves	Снижает урон от волков на {0}%.
+Pack Leader	Лидер стаи
+Gain {1}  Crit Damage for every	Даёт {1}  критического урона за каждого
+nearby wolf monster	волка поблизости.
+Max 10 wolves	Максимум — 10 волков.
+Combat Wisdom Boost	Бонус мудрости боя
+Grants +{2}☯ Combat Wisdom.	Даёт +{2}☯ мудрости боя.
+Bite Shield	Защита от укусов
+Reduce the damage taken from	Снижает получаемый урон от
+zombies by {0}%.	зомби на {0}%.
+Rotten Blade	Гнилой клинок
+Deal {1}% more damage to  Undead	Увеличивает урон на {1}% против  нежитных
+Living Dead	Живой мертвец
+Increases all stats on Undead ༕	Увеличивает все характеристики брони нежити ༕
+armor by {2}%.	на {2}%.

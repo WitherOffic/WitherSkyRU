@@ -1,0 +1,97 @@
+# Regexp<TAB>Russian template; Java $1 references captured groups
+^Mine ([\d,._ ]+) Mithril in the Dwarven Mines\.?$	Добудьте $1 Mithril в Дварфских шахтах.
+^Mine ([\d,._ ]+) Titanium in the Dwarven Mines\.?$	Добудьте $1 Titanium в Дварфских шахтах.
+^Collect ([\d,._ ]+) Mithril\.?$	Соберите $1 Mithril.
+^Collect ([\d,._ ]+) Titanium\.?$	Соберите $1 Titanium.
+^Mine ([\d,._ ]+) Mithril\.?$	Добудьте $1 Mithril.
+^Mine ([\d,._ ]+) Titanium\.?$	Добудьте $1 Titanium.
+^Mine ([\d,._ ]+) Hard Stone\.?$	Добудьте $1 ед. твёрдого камня.
+^Defeat ([\d,._ ]+) Goblins\.?$	Победите $1 гоблинов.
+^Kill ([\d,._ ]+) Goblins\.?$	Убейте $1 гоблинов.
+^Defeat ([\d,._ ]+) Ice Walkers\.?$	Победите $1 ледяных ходоков.
+^Kill ([\d,._ ]+) Ice Walkers\.?$	Убейте $1 ледяных ходоков.
+^Complete ([\d,._ ]+) Commissions\.?$	Выполните $1 шахтёрских заданий.
+^Complete ([\d,._ ]+) Commission\.?$	Выполните $1 шахтёрское задание.
+^Collect ([\d,._ ]+) Gemstones\.?$	Соберите $1 драгоценных камней.
+^Collect ([\d,._ ]+) Mithril Powder\.?$	Соберите $1 ед. митриловой пыли.
+^Collect ([\d,._ ]+) Gemstone Powder\.?$	Соберите $1 ед. пыли драгоценных камней.
+^\+([\d,._ ]+) Mining XP$	+$1 опыта горного дела
+^\+([\d,._ ]+) Combat XP$	+$1 опыта боя
+^\+([\d,._ ]+) Farming XP$	+$1 опыта фермерства
+^\+([\d,._ ]+) Fishing XP$	+$1 опыта рыбалки
+^\+([\d,._ ]+) Foraging XP$	+$1 опыта собирательства
+^\+([\d,._ ]+) SkyBlock XP$	+$1 опыта SkyBlock
+^\+([\d,._ ]+) Heart of the Mountain XP$	+$1 опыта Heart of the Mountain
+^\+([\d,._ ]+) Mithril Powder$	+$1 ед. митриловой пыли
+^\+([\d,._ ]+) Gemstone Powder$	+$1 ед. пыли драгоценных камней
+^\+([\d,._ ]+) Glacite Powder$	+$1 ед. ледниковой пыли
+^\+([\d,._ ]+) Coins$	+$1 монет
+^\+([\d,._ ]+) Bits$	+$1 битов
+^\+([\d,._ ]+) items\.$	+$1 предметов.
+^Purse: ([\d,._ ]+)$	Кошелёк: $1
+^Bank: ([\d,._ ]+)$	Банк: $1
+^Bits: ([\d,._ ]+)$	Биты: $1
+^Gems: ([\d,._ ]+)$	Самоцветы: $1
+^Coins: ([\d,._ ]+)$	Монеты: $1
+^Arrow: ([\d,._ ]+)$	Стрелы: $1
+^Arrows: ([\d,._ ]+)$	Стрелы: $1
+^Mithril: ([\d,._+() ]+)$	Mithril: $1
+^Gemstone: ([\d,._+() ]+)$	Драгоценные камни: $1
+^Glacite: ([\d,._+() ]+)$	Glacite: $1
+^Mining Fortune: \+?([\d,.]+)$	Удача добычи: +$1
+^Mining Speed: \+?([\d,.]+)$	Скорость добычи: +$1
+^Defense: \+?([\d,.]+)$	Защита: +$1
+^Strength: \+?([\d,.]+)$	Сила: +$1
+^Health: \+?([\d,.]+)$	Здоровье: +$1
+^Crit Damage: \+?([\d,.]+)%$	Критический урон: +$1%
+^Crit Chance: \+?([\d,.]+)%$	Шанс критического удара: +$1%
+^Level ([\d,._ ]+)$	Уровень $1
+^Level ([\d,._ ]+)!$	Уровень $1!
+^Lvl\. ([\d,._ ]+)$	Ур. $1
+^Lvl ([\d,._ ]+)$	Ур. $1
+^Tier ([\d,._ ]+)$	Ступень $1
+^Tier ([IVX]+)$	Ступень $1
+^Floor ([IVX]+)$	Этаж $1
+^Floor ([\d]+)$	Этаж $1
+^F([1-7])$	F$1
+^M([1-7])$	M$1
+^Commission: (.*)$	Шахтёрское задание: $1
+^Commissions: (.*)$	Шахтёрские задания: $1
+^Collection: (.*)$	Коллекция: $1
+^Skill: (.*)$	Навык: $1
+^Zone: (.*)$	Зона: $1
+^Area: (.*)$	Область: $1
+^Active Pet: (.*)$	Активный питомец: $1
+^Progress: (\d+(?:\.\d+)?%)$	Прогресс: $1
+^([\d,.]+)% Complete$	Выполнено на $1%
+^\[Sacks\] \+([\d,._ ]+) items\. \(Last ([\d,._ ]+)s\.\)$	[Мешки] +$1 предметов. (За последние $2 с.)
+^The 2x Powder event starts in ([\d,._ ]+) seconds!$	Событие «Двойная пыль» начнётся через $1 секунд!
+^The 2x Powder event is starting!$	Начинается событие «Двойная пыль»!
+^The 2x Powder event is now active!$	Началось событие «Двойная пыль»!
+^This ability is on cooldown for ([\d,.]+)s\.?$	Способность восстановится через $1 с.
+^This ability is on cooldown for ([\d,.]+) seconds?\.?$	Способность восстановится через $1 с.
+^Your ([A-Za-z][A-Za-z0-9 '-]+) Pet gained a level!$	Ваш питомец $1 повысил уровень!
+^Your ([A-Za-z][A-Za-z0-9 '-]+) Pet leveled up!$	Ваш питомец $1 повысил уровень!
+^Your ([A-Za-z][A-Za-z0-9 '-]+) Pet reached level ([\d,._ ]+)!$	Ваш питомец $1 достиг уровня $2!
+^You gained ([\d,._ ]+) ([A-Za-z ]+) XP!$	Получено $1 опыта навыка $2!
+^You earned ([\d,._ ]+) coins!$	Вы получили $1 монет!
+^You have earned ([\d,._ ]+) coins!$	Вы получили $1 монет!
+^You received ([\d,._ ]+) coins!$	Вы получили $1 монет!
+^You found ([\d,._ ]+) coins!$	Вы нашли $1 монет!
+^You collected ([\d,._ ]+) items!$	Вы собрали $1 предметов!
+^You received ([\d,._ ]+) (.*) Powder!$	Вы получили $1 ед. пыли $2!
+^Requires ([A-Za-z][A-Za-z ]+) Level ([\d]+)$	Требуется уровень навыка $1: $2
+^Requires ([A-Za-z][A-Za-z ]+) ([IVX]+)$	Требуется $1 $2
+^You need ([\d,._ ]+) more coins!$	Вам не хватает $1 монет!
+^You need ([\d,._ ]+) more XP!$	Вам не хватает $1 опыта!
+^Cooldown: ([\d,.]+)s$	Перезарядка: $1 с
+^Duration: ([\d,.]+)s$	Длительность: $1 с
+^Cost: ([\d,.]+) Mana$	Стоимость: $1 маны
+^Mana Cost: ([\d,.]+)$	Стоимость маны: $1
+^Price: ([\d,._ ]+) Coins$	Цена: $1 монет
+^Sell Price: ([\d,._ ]+) Coins$	Цена продажи: $1 монет
+^Purchase Price: ([\d,._ ]+) Coins$	Цена покупки: $1 монет
+^You are now in the ([A-Za-z '’-]+)!$	Вы прибыли в область $1!
+^Mining ([IVX]+)$	Горное дело $1
+^Farming ([IVX]+)$	Фермерство $1
+^Combat ([IVX]+)$	Бой $1

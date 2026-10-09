@@ -1,0 +1,241 @@
+# Generated numeric variants of human-authored pet-lore.tsv.
+^5\ Combo\ \(lasts\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)s\)$	Серия из 5 убийств (длительность: $1 с)
+^10\ Combo\ \(lasts\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)s\)$	Серия из 10 убийств (длительность: $1 с)
+^15\ Combo\ \(lasts\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)s\)$	Серия из 15 убийств (длительность: $1 с)
+^20\ Combo\ \(lasts\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)s\)$	Серия из 20 убийств (длительность: $1 с)
+^25\ Combo\ \(lasts\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)s\)$	Серия из 25 убийств (длительность: $1 с)
+^30\ Combo\ \(lasts\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)s\)$	Серия из 30 убийств (длительность: $1 с)
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ \ Strength\ when\ above$	Даёт +$1%  силы, пока у вас больше
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Magic\ Find\ on\ $	Даёт +$1 шанса редкой добычи с 
+^Zaps\ your\ enemies\ for\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)x\ your\ $	Поражает врагов уроном, равным $1 × вашему 
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☯\ Enchanting\ Wisdom\.$	Даёт +$1☯ мудрости зачарования.
+^Regenerate\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ extra\ mana,\ doubled$	Восстанавливает на $1% больше маны; бонус удваивается
+^Deal\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ damage\ to\ \ Pests\.$	Увеличивает урон по  вредителям на $1%.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Farming\ Fortune\ and$	Даёт +$1 удачи фермерства и
+^\+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Overbloom\ on\ \ Pests\.$	+$1 избыточного цветения против  вредителей.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Fishing\ Speed\ for\ 30s$	Даёт +$1 скорости рыбалки на 30 с
+^Treasure\ catches\ are\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more$	Выловленные сокровища на $1% чаще
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Treasure\ Chance$	Даёт +$1 шанса сокровища
+^Mob\ kills\ grant\ a\ stack\ of\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ $	За убийство существа даёт заряд: +$1 
+^Speed\ and\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Strength\ for\ 5s\.$	скорости и +$1  силы на 5 с.
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ of\ your\ weapon's\ \ Damage\ for$	$1%  урона вашего оружия за
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ coins\ per\ monster\ kill$	Даёт +$1 монет за убийство существа.
+^to\ drop\ their\ armor\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	из существ на $1%.
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)x\ Combat\ XP\ against\ Wolves\.$	Умножает опыт боя за волков на $1.
+^Adds\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Strength\ and\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Speed$	Добавляет $1 силы и $2 скорости
+^cost\ of\ Power\ Orbs\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	сфер силы на $1%.
+^of\ Wish\ is\ reduced\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)s,\ up\ to$	сокращает перезарядку «Желания» на $1 с;
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	$1%.
+^Actually\ adds\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ damage\ to\ the$	Действительно добавляет $1 урона
+^Grants\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ extra\ Crimson\ Essence\.$	Даёт на $1% больше багровой эссенции.
+^vanquisher\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	покорителя на $1%.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☘\ Mining\ Fortune\ while\ on$	Даёт +$1☘ удачи добычи на
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Trophy\ Chance$	Даёт +$1 шанса трофейной рыбы
+^his\ minions\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	его прислужникам на $1%.
+^Adds\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Damage\ and\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ $	Добавляет +$1  урона и +$2 
+^Combo\ are\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ effective\.$	«Комбо» на $1% эффективнее.
+^Deal\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ \ Damage\ against\ mobs$	Даёт +$1%  урона по существам,
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ faster\ while\ on\ your\ island$	на $1% быстрее на вашем острове.
+^Deal\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ damage\ to\ slimes$	Увеличивает урон по слизням на $1%.
+^Armor\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	возрождённых углей на $1%.
+^Gain\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ for\ mobs\ to\ not$	Даёт $1% шанс избежать
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Magic\ Find\ for\ every$	Даёт +$1 шанса редкой добычи за каждые
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Mining\ Fortune\ for\ each$	Даёт +$1 удачи добычи за каждый
+^Deal\ up\ to\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ \ Damage\ based\ on$	Даёт до +$1%  урона в зависимости от
+^Grants\ a\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ catch$	Даёт +$1% шанса поймать
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Mining\ Speed\ when\ mining$	Даёт +$1 скорости добычи при добыче
+^Increases\ all\ Combat\ Stats\ by\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%$	Увеличивает все боевые характеристики на +$1%
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ ᠅\ Mithril\ Powder\ from$	Даёт +$1% ᠅ мифриловой пыли из
+^Scavenged\ Items\ appear\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more$	Предметы для поиска появляются на $1%
+^Automatons\ drop\ their\ parts\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%$	Автоматоны дают свои детали на $1%
+^The\ Crystal\ Nucleus\ has\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%$	Ядро кристаллов с шансом $1%
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Foraging\ Fortune,$	Даёт +$1  удачи лесорубства,
+^Grants\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Speed\ while\ in\ The\ Park\.$	Даёт $1 скорости в Парке.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Sweep\ while\ in\ The\ Park\.$	Даёт +$1 размаха в Парке.
+^You\ have\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ drop\ a$	С шансом $1% даёт
+^every\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Strength\ you\ have\.$	каждые $1  силы.
+^You\ have\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ find$	С шансом $1% можно найти
+^Pest\ Vinyls\ are\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ effective\.$	Пластинки для вредителей на $1% эффективнее.
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Sugar\ Cane\ Fortune\ for$	Даёт +$1 удачи сбора сахарного тростника за
+^the\ next\ pest\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ faster\.$	следующего вредителя на $1% быстрее.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☯\ Foraging\ Wisdom\.$	Даёт +$1☯ мудрости лесорубства.
+^Foraging\ minions\ work\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ faster$	Миньоны лесорубства работают на $1% быстрее
+^Gain\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ get\ exp\ from$	С шансом $1% даёт опыт при
+^Earn\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ Farming\ Tool\ Exp\.$	Даёт на $1% больше опыта фермерским инструментам.
+^above\ 100\ into\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Farming$	сверх 100 в +$1 фермерской
+^Increased\ EXP:\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ EXP$	Бонус опыта: +$1%
+^Adds\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ levels\ to\ intimidation$	Добавляет $1 уровней аксессуарам
+^Boosts\ potions\ duration\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	Продлевает действие зелий на $1%.
+^Gives\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Strength\ to\ players$	Даёт +$1 силы игрокам
+^Potions\ and\ Mixins\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	и добавок к ним на $1%.
+^reduce\ your\ ❄\ Cold\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\.$	снижает ваш ❄ холод на $1.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Cold\ Resistance\ for$	Даёт +$1 сопротивления холоду за
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Fishing\ Speed\ while\ in$	Даёт +$1 скорости рыбалки в
+^gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Strength\ for\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ seconds$	даёт $1  силы на $2 с.
+^dealing\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)x\ your\ \ Crit\ Damage\ each$	нанося урон, равный $1 × вашему  критическому урону,
+^second\ for\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ seconds$	каждую секунду в течение $1 с.
+^by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	на $1%.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Potato\ Fortune\ per$	Даёт +$1 удачи сбора картофеля за каждую
+^by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ during\ the\ Year\ of\ the\ Pig\.$	на $1% в Год свиньи.
+^Pig\ minions\ work\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ faster\ while\ on$	Миньоны свиньи работают на $1% быстрее на
+^Buffs\ the\ Pigman\ Sword\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ $	Добавляет мечу свинозомби $1 
+^Damage\ and\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Strength\.$	урона и $1  силы.
+^Jump\ potions\ also\ give\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ speed$	Зелья прыгучести также дают +$1 скорости.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☯\ Farming\ Wisdom\.$	Даёт +$1☯ мудрости фермерства.
+^Farming\ minions\ work\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ faster$	Миньоны фермерства работают на $1% быстрее
+^player\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Magic\ Find\ for\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)$	игроку +$1 шанса редкой добычи на $2
+^Gives\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Fishing\ Speed\ and\ \+5$	Даёт +$1 скорости рыбалки и +5
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ bonus\ gift\ chance$	Даёт +$1% шанса на дополнительный подарок
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ of\ getting$	Даёт +$1% шанса получить
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Sea\ Creature\ Chance$	Даёт +$1 шанса морского существа
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Double\ Hook\ Chance$	Даёт +$1 шанса двойного улова
+^\+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Fishing\ Speed,\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Speed$	+$1 скорости рыбалки, +$2 скорости
+^and\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Defense\.$	и +$1 защиты.
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ of\ your\ \ Defense\ as\ $	Даёт $1% от вашей  защиты в виде 
+^Stand\ and\ Lifeline\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	рубежа» и «Спасательного круга» на $1%.
+^Every\ 5th\ hit\ deals\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ of\ your$	Каждый 5-й удар наносит $1% вашего
+^Every\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ seconds,\ the\ next$	Каждые $1 с следующий добытый
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Mining\ Spread\ while$	Даёт +$1 широты добычи
+^Buffs\ the\ Yeti\ Sword\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Damage$	Добавляет мечу йети $1  урона
+^cooldown\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	перезарядку на $1%.
+^Stats\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ while\ on\ Jerry's$	рыбалки на $1% в Мастерской
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Magic\ Find\ against$	Даёт +$1 шанса редкой добычи с
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Pristine\ while\ in\ the$	Даёт +$1 безупречности на
+^mobs\ reduces\ your\ \ Heat\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\.$	существ снижает ваш  жар на $1.
+^Increases\ damage\ dealt\ to\ Bal\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	Увеличивает урон по Балу на $1%.
+^During\ night,\ gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Intelligence,$	Ночью даёт $1  интеллекта,
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Speed,\ and\ Night\ Vision\.$	$1  скорости и ночное зрение.
+^Deals\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ damage\ to\ Spooky$	Даёт +$1% урона по жутким
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ of\ each\ to\ your\ pet:$	Даёт питомцу +$1 к каждой характеристике:
+^You\ have\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ find\ a$	С шансом $1% можно найти
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ collection\ items\ from$	Даёт на $1% больше предметов коллекций из
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ HOTM\ and\ HOTF\ XP\.$	Даёт на $1% больше опыта Сердца горы и Сердца леса.
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ Skill\ Experience\ and$	Даёт на $1% больше опыта навыков и
+^active\ pet\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	активного питомца на $1%.
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ more\ coins\ per\ monster$	Даёт на $1 монет больше за каждый
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ time$	на $1% дольше.
+^cap\ by\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\.$	предел скорости на +$1.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Pet\ Luck\.$	Даёт +$1 удачи питомцев.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Magic\ Find\.$	Даёт +$1 шанса редкой добычи.
+^stats\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ while\ on\ the\ Crimson$	характеристики на $1% на Багровом
+^ability\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	способность на $1%.
+^gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ Damage\ Reduction\.$	получаемый урон снижается на $1%.
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Defense\ per\ 20\ Max\ $	Даёт $1 защиты за каждые 20 ед. максимального 
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ Max\ \ Health\.$	Даёт +$1% к максимальному  здоровью.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Farming\ Fortune\ while$	Даёт +$1 удачи фермерства
+^killed\.\ Grants\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ for$	Даёт $1% шанс
+^Reduces\ fall\ damage\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	Снижает урон от падения на $1%.
+^abilities\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\.$	способностей на $1.
+^your\ \ Defense\ by\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ for\ 20$	вашу  защиту на +$1 на 20
+^Gives\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ chance\ to\ not\ consume$	Даёт шанс $1 не расходовать
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Fishing\ Speed\ for$	Даёт +$1 скорости рыбалки за
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Sea\ Creature\ Chance\.$	Даёт +$1 шанса морского существа.
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☯\ Combat\ Wisdom\ towards$	Даёт +$1☯ мудрости боя при убийстве
+^Fears\ and\ Spooky\ Mobs\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ for$	страхам и жутким существам на $1%
+^Gives\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Fear\ for\ every\ 10\ Primal$	Даёт +$1 страха за каждые 10 убитых
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Defense\ for\ every\ 100\ $	Даёт $1 защиты за каждые 100 
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Health\ for\ every\ 10\ $	Даёт $1 здоровья за каждые 10 
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Farming\ Fortune,\ which$	Даёт +$1 удачи фермерства, что
+^Take\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ less\ damage\ from\ \ Ender$	На $1% снижает урон от  эндских
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ weapon\ damage\ for\ 5s\ on\ use$	$1 урона оружия на 5 с после применения.
+^special\ Zealot\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	особого фанатика на $1%.
+^stone\ and\ gain\ a\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ get$	Энда и +$1% шанса получить
+^Transmission\ Abilities\ cost\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ less$	Способности перемещения расходуют на $1% меньше
+^Gain\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ dig\ up\ a\ bonus$	Даёт $1% шанса выкопать дополнительную
+^Deal\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ damage\ to\ ⊙\ Ender$	Увеличивает урон на $1% против ⊙ эндских
+^sword\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ ❁\ Damage\ and\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ ❁$	добавляя ему $1 ❁ урона и $2 ❁
+^Magic\ Find\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	шанс редкой добычи на $1%.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Fishing\ Speed\.$	Даёт +$1 скорости рыбалки.
+^Gives\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Strength\ and\ \ Defense$	Даёт $1  силы и  защиты
+^and\ Abyssal\ Armor\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	и брони бездны на $1%.
+^Grants\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Foraging\ Fortune\ for$	Даёт $1 удачи лесорубства
+^Grants\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Foraging\ Fortune\ for$	Даёт $1 удачи лесорубства
+^Water\ Shards\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ while\ on$	водные осколки на $1% на
+^getting\ a\ mob's\ soul\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	получить душу существа на $1%.
+^by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ and\ increases\ their\ damage$	на $1% и увеличивает наносимый ими
+^output\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.\ Increases\ the\ health$	урон на $1%. Увеличивает здоровье
+^of\ all\ summoned\ mobs\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	всех призванных существ на $1%.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Health\ Regen$	Даёт +$1 регенерации здоровья
+^\ Strength\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ for\ every$	 силу на $1% за каждые
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ if\ you\ are\ more\ than\ 3\ blocks$	$1%, если вы дальше 3 блоков
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ Glacite\ Powder\ from$	Даёт на $1% больше глацитовой пыли из
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Mining\ Fortune\ while\ in\ the$	Даёт +$1  удачи добычи в
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Pristine\ for\ every$	Даёт +$1  безупречности за каждый
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Mining\ Speed\ when\ mining$	Даёт +$1 скорости добычи при добыче
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Mining\ Spread\ while\ in\ the$	Даёт +$1 широты добычи в
+^rare\ goblin\ eggs\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	редкие гоблинские яйца на $1%.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ Strength\ per\ 5$	Даёт +$1% силы за каждые 5
+^Magic\ Find\.\ \(Max\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\)$	шанса редкой добычи. (Максимум — +$1%.)
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ damage\ for\ every\ million$	Даёт $1% урона за каждый миллион
+^coins\ in\ your\ bank\.\ \(Max\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\)$	монет в вашем банке. (Максимум — $1%.)
+^Your\ iron\ plating\ causes\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ of$	Ваша железная броня заставляет $1%
+^While\ sitting\ on\ your\ rock,\ gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%$	Пока вы сидите на камне: +$1%
+^While\ sitting\ on\ your\ rock,\ deal\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)x$	Пока вы сидите на камне: +$1×
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Farming\ Fortune\ per$	Даёт +$1 удачи фермерства за каждый
+^\+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Speed\ per\ Crop\ Milestone\.$	+$1 скорости за каждую веху урожая.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Overbloom\.$	Даёт +$1 избыточного цветения.
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ Copper\ from\ Garden$	Даёт на $1% больше меди от
+^Grants\ a\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ find$	Даёт +$1% к шансу найти
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☘\ Gemstone\ Fortune\ to$	Даёт +$1☘ удачи самоцветов
+^Earn\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ Gemstone\ Powder\ from\ all$	Даёт на $1% больше самоцветной пыли из всех
+^Seal\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	тюленя на $1%.
+^Gain\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ materialize$	Даёт $1% шанса создать
+^by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ during\ the\ Year\ of\ the\ Seal\.$	на $1% в год тюленя.
+^Gives\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ shield\ after\ not\ taking$	Даёт щит на $1%, если вы не получали
+^Increases\ your\ total\ mana\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%$	Увеличивает ваш общий запас маны на $1%
+^Earn\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ Exp\ when\ mining\.$	Даёт на $1% больше опыта при добыче.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☯\ Mining\ Wisdom\.$	Даёт +$1☯ мудрости добычи.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Mining\ Speed\ and$	Даёт +$1 скорости добычи и
+^permanent\ Haste\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\.$	постоянную спешку $1.
+^Increase\ arrow\ damage\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%$	Увеличивает урон стрел на $1%;
+^granting\ \+3\ \ Strength\.\ Max\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)$	+3  силы. Максимум — $1
+^Mob\ kills\ grant\ a\ stack\ of\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ $	За убийство существа даёт заряд: +$1 
+^Attack\ Speed\ and\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Strength\ for$	скорости атаки и +$1  силы на
+^\+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Sweep\ and\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Foraging$	+$1 размаха и +$2 лесорубской
+^Gains\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Sweep\ and\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)$	Даёт +$1 размаха и +$2
+^Cutting\ Trees\ give\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ points$	Рубка деревьев даёт на $1% больше очков
+^Slugfish\ take\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ less\ time\ to\ catch\.$	время поимки рыбы-слизня уменьшается на $1%.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Bonus\ Pest\ Chance\.$	Даёт +$1 шанса дополнительных вредителей.
+^Sprayonator,\ gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Farming$	опрыскивателем, даёт +$1 фермерской
+^Red\ Sand\ Minions\ work\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ faster$	Миньоны красного песка работают на $1% быстрее
+^Convert\ every\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Speed\ you$	Преобразует каждые $1 скорости
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Mining\ Spread\ while$	Даёт +$1 широты добычи
+^Enemies\ within\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ blocks\ are\ slowed$	Враги в пределах $1 блоков замедляются
+^by\ 25%\ and\ deal\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ less\ damage\.$	на 25% и наносят на $1% меньше урона.
+^attacks\ causing\ you\ to\ take\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%$	атаки врагов, снижая на $1%
+^when\ you\ attack\ dealing\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ of$	при вашей атаке, нанося $1% от
+^Applies\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ Strength\ to\ all$	Даёт +$1 силы всему
+^slowed\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	его на $1%.
+^minions\ work\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ faster\ while\ on$	работают на $1% быстрее на
+^Sea\ Creatures\ spawn\ with\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ of$	Морские существа появляются с потерей $1%
+^Fish\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	уровня на $1%.
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ during\ any\ Weather\.$	$1% во время любой погоды.
+^abilities\ in\ dungeons\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	способностей в подземельях на $1%.
+^Gain\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ get\ double$	Даёт $1% шанса получить двойную
+^Buffs\ the\ Ink\ Wand\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Damage$	Усиливает чернильную палочку: +$1  урона
+^and\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Strength\.$	и +$1  силы.
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☯\ Fishing\ Wisdom\.$	Даёт +$1☯ мудрости рыбалки.
+^reduction\ is\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ less\ effective$	на $1% менее эффективно
+^by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	на $1%.
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☯\ Combat\ Wisdom\ towards$	Даёт +$1☯ мудрости боя при убийстве
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ \ Ferocity\.$	Даёт +$1%  свирепости.
+^Melee\ attacks\ reduce\ healing\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%$	Атаки в ближнем бою снижают исцеление на $1%
+^Deal\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ damage\ against\ targets\ with$	Увеличивает урон на $1% против целей, рядом с которыми
+^Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ \ Defense\ and\ an$	Даёт +$1%  защиты и ещё
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ \ Defense\ to\ 4$	Даёт +$1%  защиты 4
+^(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ less\ damage\.\ Gain\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)$	$1% меньше урона. Даёт +$2
+^Deal\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ damage\ to\ enemies$	Увеличивает урон по врагам на $1%
+^Attacks\ have\ a\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ chance\ to\ stun$	Атаки имеют $1% шанс оглушить
+^this\ pet\ are\ increased\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	для этого питомца, увеличиваются на $1%.
+^Witch\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	ведьмы на $1%.
+^brew\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	зелий на $1%.
+^by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ during\ the\ Year\ of\ the\ Witch\.$	на $1% в год ведьмы.
+^Take\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ less\ damage\ from\ $	На $1% снижает урон от 
+^Deal\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ damage\ to\ \ Wither$	Увеличивает урон на $1% против  иссушённых
+^wither\ effect\ for\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ damage\ over\ 3$	эффект иссушения, наносящий $1% урона за 3
+^Take\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ less\ damage\ from\ wolves$	Снижает урон от волков на $1%.
+^Gain\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)\ \ Crit\ Damage\ for\ every$	Даёт $1  критического урона за каждого
+^Grants\ \+(\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)☯\ Combat\ Wisdom\.$	Даёт +$1☯ мудрости боя.
+^zombies\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	зомби на $1%.
+^Deal\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\ more\ damage\ to\ \ Undead$	Увеличивает урон на $1% против  нежитных
+^armor\ by\ (\{[^}]+\}|[-+]?\d[\d,.]*[kKmMbB]?)%\.$	на $1%.

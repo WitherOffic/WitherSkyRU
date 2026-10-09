@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "ru.wither.skyru.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["GuiTextMixin", "TooltipMixin", "WidgetMixin", "NpcChatMixin", "HudCollectorMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
