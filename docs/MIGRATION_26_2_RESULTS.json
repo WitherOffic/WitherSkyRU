@@ -1,0 +1,971 @@
+{
+  "version": "0.16.0-dev",
+  "minecraft": "26.2",
+  "date": "2026-10-21",
+  "tested_source_commit": "d86faadd07c3ddde52fb4781f97c37d578d8488f",
+  "artifact": {
+    "jar": "WitherSkyRU-26.2-fabric-0.16.0-dev.jar",
+    "jar_bytes": 2936537,
+    "sha256": "5442ba678770bc244743582a80fcdebfd05ef1c6c4118e4e8e2d17cf8444ef51",
+    "baseline_jar_sha256": "ca8487fc1b783d1cce9e6e4bbb8217f07278d970009ad80e7d89c02c19650287",
+    "rollback_commit": "df6a6f2ba41ad758cba5de6dedab0c943d580b8b",
+    "production_classes": 125,
+    "java_class_major": 69,
+    "unchanged_translation_asset_license_files": 128,
+    "all_18_mixin_entries_preserved": true,
+    "production_source_files": 197,
+    "changed_source_files": [
+      "src/main/java/ru/wither/skyru/CompatibilityMixinPlugin.java",
+      "src/main/java/ru/wither/skyru/CustomScoreboardBudget.java",
+      "src/main/java/ru/wither/skyru/HudTextFit.java",
+      "src/main/java/ru/wither/skyru/OriginalItemTitle.java",
+      "src/main/java/ru/wither/skyru/RenderContext.java",
+      "src/main/java/ru/wither/skyru/SkyRuClient.java",
+      "src/main/java/ru/wither/skyru/SkyRuSettingsScreen.java",
+      "src/main/java/ru/wither/skyru/mixin/DebugTextMixin.java",
+      "src/main/java/ru/wither/skyru/mixin/GuiTextMixin.java",
+      "src/main/java/ru/wither/skyru/mixin/HudCollectorMixin.java",
+      "src/main/java/ru/wither/skyru/mixin/OptionsMenuMixin.java",
+      "src/main/resources/fabric.mod.json"
+    ],
+    "test_driver_not_packaged": true,
+    "game_test_not_implied_by_artifact_audit": true
+  },
+  "dependencies": {
+    "fabric_loader": "0.19.5",
+    "loom": "1.17.21",
+    "gradle": "9.5.1",
+    "java": 25,
+    "fabric_api_module_catalogue": "0.161.0+26.2",
+    "resource_loader": "2.0.13+9edec1269e",
+    "api_base": "2.0.4+ece063239e",
+    "mappings": "unobfuscated Minecraft names"
+  },
+  "checks": {
+    "clean_build": true,
+    "gradle_main_suites": 9,
+    "gradle_suites_are_subset_of_expanded": true,
+    "expanded_java_suites": 190,
+    "failed_java_suites": 0,
+    "python_tests": 45,
+    "knot_vanilla_target_classes": 13,
+    "passed_java_suites": [
+      "TestAdditionalScreenshots",
+      "TestArmorStoneReadability",
+      "TestArmorTooltip",
+      "TestBagGuiLabels56",
+      "TestBestiaryScreenshots",
+      "TestBoosterCrossRows",
+      "TestBoss108",
+      "TestCalendarLabels",
+      "TestCatalogueCorrections64",
+      "TestChatNotifications",
+      "TestCollectionRequirements",
+      "TestCommissionExpansion",
+      "TestCommonWisdomBoosters",
+      "TestCropLab88",
+      "TestDisplayDates56",
+      "TestDocumentInterfaces",
+      "TestDocumentProse",
+      "TestDocumentUpdate",
+      "TestDungeonAbilityProse",
+      "TestDungeonBossProse",
+      "TestDungeonChatResources",
+      "TestDungeonClassStats",
+      "TestDungeonCombat",
+      "TestDungeonProgress",
+      "TestDungeonReadability",
+      "TestDungeonUiLabels",
+      "TestDungeonUtilityProse",
+      "TestDungeons68",
+      "TestDurationLabels",
+      "TestEditorialQuality",
+      "TestEggs114",
+      "TestEnchantBookFooter58",
+      "TestEnchantmentBatch50",
+      "TestEnchantmentBatch54",
+      "TestEnchantmentBatch58",
+      "TestEnchantmentBatch59",
+      "TestEnchantmentExpansion",
+      "TestEnchantmentParagraphs",
+      "TestExpansion111",
+      "TestExpansion112",
+      "TestExperimentCards57",
+      "TestExperimentDisplay57",
+      "TestExperimentNotices57",
+      "TestForestBoosterCards",
+      "TestForestCombatCards",
+      "TestForestNpcResults",
+      "TestForestRecords",
+      "TestForgedItems",
+      "TestFrameNoops71",
+      "TestGame110",
+      "TestGardenDocAdditions",
+      "TestGardenParagraphs",
+      "TestGreenhouseTutorial",
+      "TestGuiScreenshots51",
+      "TestHeadIndex56",
+      "TestHubNpcs69",
+      "TestHudLayout",
+      "TestHudMixins",
+      "TestInteractionModes",
+      "TestJarDictionary014",
+      "TestLatinCard",
+      "TestLoreBoundary77",
+      "TestMigration262",
+      "TestMiningArrowProse",
+      "TestMiningInstructions",
+      "TestMiningNotifications",
+      "TestMiningStyles",
+      "TestMinionFuel52",
+      "TestMinionIntervals",
+      "TestMinionLabels",
+      "TestMinionProse",
+      "TestNeighbourProse",
+      "TestNpc100",
+      "TestNpc101",
+      "TestNpc102",
+      "TestNpc106",
+      "TestNpc113",
+      "TestNpc70",
+      "TestNpc74",
+      "TestNpc75",
+      "TestNpc76",
+      "TestNpc77",
+      "TestNpc78",
+      "TestNpc79",
+      "TestNpc80",
+      "TestNpc81",
+      "TestNpc82",
+      "TestNpc83",
+      "TestNpc84",
+      "TestNpc85",
+      "TestNpc86",
+      "TestNpc87",
+      "TestNpc88",
+      "TestNpc89",
+      "TestNpc90",
+      "TestNpc91",
+      "TestNpc92",
+      "TestNpc93",
+      "TestNpc98",
+      "TestNpc99",
+      "TestNpcAuctionClarity",
+      "TestNpcChoices100",
+      "TestNpcChoices101",
+      "TestNpcChoices102",
+      "TestNpcChoices106",
+      "TestNpcChoices84",
+      "TestNpcChoices86",
+      "TestNpcChoices87",
+      "TestNpcChoices88",
+      "TestNpcChoices89",
+      "TestNpcChoices90",
+      "TestNpcChoices91",
+      "TestNpcChoices92",
+      "TestNpcChoices93",
+      "TestNpcChoices99",
+      "TestNpcClarity",
+      "TestNpcContinuations60",
+      "TestNpcCounters",
+      "TestNpcCurrent102",
+      "TestNpcDynamicInstructions",
+      "TestNpcHuntDirections",
+      "TestNpcItems88",
+      "TestNpcLiterals115",
+      "TestNpcLookup61",
+      "TestNpcLoreClarity",
+      "TestNpcMeetingReward",
+      "TestNpcNames103",
+      "TestNpcNight",
+      "TestNpcNumbers115",
+      "TestNpcObserved",
+      "TestNpcPets",
+      "TestNpcPurchaseTotals",
+      "TestNpcRawRepair88",
+      "TestNpcRelatedCards",
+      "TestNpcRequestLegacy",
+      "TestNpcRequests",
+      "TestNpcStyles104",
+      "TestNpcStyles78",
+      "TestNpcStyles83",
+      "TestNpcWording105",
+      "TestNumericHeadIndex59",
+      "TestNumericLore",
+      "TestOverlaySearch",
+      "TestPerformanceCaches",
+      "TestPlainBoosterContexts",
+      "TestPlayerTextProtection",
+      "TestPowerStones",
+      "TestPrimaryLabels",
+      "TestPrimaryNames",
+      "TestProofread",
+      "TestQuestDialogues",
+      "TestQuestInterfaces",
+      "TestRankProse",
+      "TestRareCropNotice",
+      "TestReadableParagraphs",
+      "TestRecipeNames86",
+      "TestRenderContext67",
+      "TestReorderedTitles",
+      "TestReviewedLoreIndex",
+      "TestRomanceChain",
+      "TestRussianSearch",
+      "TestSackMenus61",
+      "TestSackUpgrades56",
+      "TestSacks55",
+      "TestSafetyContinuation",
+      "TestSafetyQuiz66",
+      "TestSafetyScreenshot",
+      "TestScoreboardConsistency",
+      "TestScreenshotLabels",
+      "TestScreenshotProse",
+      "TestSkillHeaders",
+      "TestSkillRequirements",
+      "TestSkins109",
+      "TestSlayerCounters54",
+      "TestSlayerScreenshot53",
+      "TestStoryActions",
+      "TestStoryDialogues",
+      "TestSystem107",
+      "TestTooltipFont",
+      "TestTooltipReadability",
+      "TestTurbo65",
+      "TestUniformLore65",
+      "TestUnknownWriter62",
+      "TestUpgradeScreenshots",
+      "TestWinterEvent51",
+      "ru.wither.skyru.TestNames73",
+      "ru.wither.skyru.TestOptimization94",
+      "ru.wither.skyru.TestOptimization95",
+      "ru.wither.skyru.TestOptimization96",
+      "ru.wither.skyru.TestPreparedDisplay72"
+    ],
+    "vendor_checks": {
+      "skyblocker": "original class bytes, metadata-only fixture",
+      "live_rendering": false,
+      "overhaul": "original class bytes, metadata-only fixture and proxy draws",
+      "combined": "unmodified full RRV/SkyRecipes jars; transformation and actual native filter calls, no entrypoints"
+    }
+  },
+  "real_clients": [
+    {
+      "mode": "minimal",
+      "passed": true,
+      "loaded_mods": 8,
+      "probe_frames": 31,
+      "scope": "Real OpenGL title/GUI/translated tooltip/options/save/reopen/cancel; full pack also verifies actual CustomScoreboard field/bounds with immediate restoration",
+      "not_tested": [
+        "Hypixel login",
+        "multiplayer",
+        "world rendering",
+        "Vulkan",
+        "game FPS or 0.1% lows"
+      ],
+      "test_driver_sha256": "9c362ba7034086670155c3831502474f7fd92827a348c8b6b9173c1297cbfde4"
+    },
+    {
+      "mode": "copied_26.2_pack",
+      "passed": true,
+      "loaded_mods": 172,
+      "probe_frames": 31,
+      "scope": "Real OpenGL title/GUI/translated tooltip/options/save/reopen/cancel; full pack also verifies actual CustomScoreboard field/bounds with immediate restoration",
+      "not_tested": [
+        "Hypixel login",
+        "multiplayer",
+        "world rendering",
+        "Vulkan",
+        "game FPS or 0.1% lows"
+      ],
+      "test_driver_sha256": "9c362ba7034086670155c3831502474f7fd92827a348c8b6b9173c1297cbfde4"
+    }
+  ],
+  "performance": {
+    "summary": [
+      {
+        "orders": [
+          {
+            "baseline_bytes_per10": 14208.006000000001,
+            "candidate_ms_per10": 0.01299609,
+            "change_percent": -2.109239035666677,
+            "candidate_bytes_per10": 13808.012,
+            "baseline_ms_per10": 0.013276115
+          },
+          {
+            "baseline_bytes_per10": 13808.012,
+            "candidate_ms_per10": 0.012875855,
+            "change_percent": -0.5080513583902491,
+            "candidate_bytes_per10": 13808.0,
+            "baseline_ms_per10": 0.012941605
+          }
+        ],
+        "mode": "stable_scoped"
+      },
+      {
+        "orders": [
+          {
+            "baseline_bytes_per10": 34976.0288,
+            "candidate_ms_per10": 0.030594075,
+            "change_percent": 2.19327187522389,
+            "candidate_bytes_per10": 34976.0288,
+            "baseline_ms_per10": 0.029937465
+          },
+          {
+            "baseline_bytes_per10": 34976.0288,
+            "candidate_ms_per10": 0.03044222,
+            "change_percent": 1.1117327722772075,
+            "candidate_bytes_per10": 34976.0288,
+            "baseline_ms_per10": 0.030107505
+          }
+        ],
+        "mode": "titles_pipeline"
+      },
+      {
+        "orders": [
+          {
+            "baseline_bytes_per10": 16739.1716,
+            "candidate_ms_per10": 0.007123395,
+            "change_percent": -0.940477887366542,
+            "candidate_bytes_per10": 16734.3348,
+            "baseline_ms_per10": 0.007191025
+          },
+          {
+            "baseline_bytes_per10": 16728.012,
+            "candidate_ms_per10": 0.006924245,
+            "change_percent": 1.7800590756186896,
+            "candidate_bytes_per10": 16728.012,
+            "baseline_ms_per10": 0.006803145
+          }
+        ],
+        "mode": "tooltip_components"
+      },
+      {
+        "orders": [
+          {
+            "baseline_bytes_per10": 8752.006000000001,
+            "candidate_ms_per10": 0.006475165,
+            "change_percent": 15.205696976705907,
+            "candidate_bytes_per10": 8772.7212,
+            "baseline_ms_per10": 0.005620525
+          },
+          {
+            "baseline_bytes_per10": 9077.0776,
+            "candidate_ms_per10": 0.00554788,
+            "change_percent": -6.361180570031055,
+            "candidate_bytes_per10": 8752.012,
+            "baseline_ms_per10": 0.005924765
+          }
+        ],
+        "mode": "tooltip_sequences"
+      },
+      {
+        "orders": [
+          {
+            "baseline_bytes_per10": 13408.0,
+            "candidate_ms_per10": 0.012042675,
+            "change_percent": 0.5270655330110952,
+            "candidate_bytes_per10": 13408.0,
+            "baseline_ms_per10": 0.011979535
+          },
+          {
+            "baseline_bytes_per10": 13760.0,
+            "candidate_ms_per10": 0.012080525,
+            "change_percent": -1.5006634962891119,
+            "candidate_bytes_per10": 13408.0,
+            "baseline_ms_per10": 0.012264575
+          }
+        ],
+        "mode": "numeric62_pipeline"
+      },
+      {
+        "orders": [
+          {
+            "baseline_bytes_per10": 32.0,
+            "candidate_ms_per10": 0.00021386499999999999,
+            "change_percent": 1.8210816987240586,
+            "candidate_bytes_per10": 32.0,
+            "baseline_ms_per10": 0.00021004
+          },
+          {
+            "baseline_bytes_per10": 32.0,
+            "candidate_ms_per10": 0.000208305,
+            "change_percent": -2.0432635786503672,
+            "candidate_bytes_per10": 32.0,
+            "baseline_ms_per10": 0.00021265
+          }
+        ],
+        "mode": "disabled_pipeline"
+      },
+      {
+        "orders": [
+          {
+            "baseline_bytes_per10": 272.0,
+            "candidate_ms_per10": 0.00025288000000000003,
+            "change_percent": -1.249609497032167,
+            "candidate_bytes_per10": 272.0,
+            "baseline_ms_per10": 0.00025608
+          },
+          {
+            "baseline_bytes_per10": 272.0,
+            "candidate_ms_per10": 0.000258935,
+            "change_percent": 1.8647101634571728,
+            "candidate_bytes_per10": 272.0,
+            "baseline_ms_per10": 0.00025419500000000003
+          }
+        ],
+        "mode": "debug_pipeline"
+      },
+      {
+        "orders": [
+          {
+            "baseline_bytes_per10": 1743.3935999999999,
+            "candidate_ms_per10": 0.0007342500000000001,
+            "change_percent": -15.393390486725655,
+            "candidate_bytes_per10": 1738.5520000000001,
+            "baseline_ms_per10": 0.00086784
+          },
+          {
+            "baseline_bytes_per10": 1741.864,
+            "candidate_ms_per10": 0.0006926549999999999,
+            "change_percent": -15.569519189161197,
+            "candidate_bytes_per10": 1736.3375999999998,
+            "baseline_ms_per10": 0.000820385
+          }
+        ],
+        "mode": "roster_lookup"
+      }
+    ],
+    "scope": "8 unchanged synthetic text API workloads;4 sequential JVM orders A-B-B-A;20000 warmup/4x10000 measured10-row batches. Not native rendering, game FPS, 0.1% lows or zero cost.",
+    "runs": [
+      {
+        "order": 0,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.013276115,
+          "allocated_bytes_per10": 14208.006000000001,
+          "rounds_ms": [
+            0.01330018,
+            0.01317086,
+            0.01325205,
+            0.01330369
+          ]
+        },
+        "mode": "stable_scoped",
+        "label": "baseline115"
+      },
+      {
+        "order": 0,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.029937465,
+          "allocated_bytes_per10": 34976.0288,
+          "rounds_ms": [
+            0.0298859,
+            0.02980851,
+            0.02998903,
+            0.03015476
+          ]
+        },
+        "mode": "titles_pipeline",
+        "label": "baseline115"
+      },
+      {
+        "order": 0,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.007191025,
+          "allocated_bytes_per10": 16739.1716,
+          "rounds_ms": [
+            0.00800426,
+            0.00756287,
+            0.00676944,
+            0.00681918
+          ]
+        },
+        "mode": "tooltip_components",
+        "label": "baseline115"
+      },
+      {
+        "order": 0,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.005620525,
+          "allocated_bytes_per10": 8752.006000000001,
+          "rounds_ms": [
+            0.00621788,
+            0.00538567,
+            0.00564215,
+            0.0055989
+          ]
+        },
+        "mode": "tooltip_sequences",
+        "label": "baseline115"
+      },
+      {
+        "order": 0,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.011979535,
+          "allocated_bytes_per10": 13408.0,
+          "rounds_ms": [
+            0.01209446,
+            0.01179269,
+            0.01204159,
+            0.01191748
+          ]
+        },
+        "mode": "numeric62_pipeline",
+        "label": "baseline115"
+      },
+      {
+        "order": 0,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.00021004,
+          "allocated_bytes_per10": 32.0,
+          "rounds_ms": [
+            0.0002106,
+            0.00020948,
+            0.00020945,
+            0.00021206
+          ]
+        },
+        "mode": "disabled_pipeline",
+        "label": "baseline115"
+      },
+      {
+        "order": 0,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.00025608,
+          "allocated_bytes_per10": 272.0,
+          "rounds_ms": [
+            0.00025609,
+            0.00024945,
+            0.00026279,
+            0.00025607
+          ]
+        },
+        "mode": "debug_pipeline",
+        "label": "baseline115"
+      },
+      {
+        "order": 0,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.00086784,
+          "allocated_bytes_per10": 1743.3935999999999,
+          "rounds_ms": [
+            0.00127684,
+            0.00084856,
+            0.00088712,
+            0.00048044
+          ]
+        },
+        "mode": "roster_lookup",
+        "label": "baseline115"
+      },
+      {
+        "order": 1,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.01299609,
+          "allocated_bytes_per10": 13808.012,
+          "rounds_ms": [
+            0.01312394,
+            0.01308101,
+            0.01276494,
+            0.01291117
+          ]
+        },
+        "mode": "stable_scoped",
+        "label": "candidate262"
+      },
+      {
+        "order": 1,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.030594075,
+          "allocated_bytes_per10": 34976.0288,
+          "rounds_ms": [
+            0.03081973,
+            0.03182304,
+            0.03034498,
+            0.03036842
+          ]
+        },
+        "mode": "titles_pipeline",
+        "label": "candidate262"
+      },
+      {
+        "order": 1,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.007123395,
+          "allocated_bytes_per10": 16734.3348,
+          "rounds_ms": [
+            0.00809939,
+            0.0072998,
+            0.00682806,
+            0.00694699
+          ]
+        },
+        "mode": "tooltip_components",
+        "label": "candidate262"
+      },
+      {
+        "order": 1,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.006475165,
+          "allocated_bytes_per10": 8772.7212,
+          "rounds_ms": [
+            0.00701314,
+            0.00679099,
+            0.00615934,
+            0.00568996
+          ]
+        },
+        "mode": "tooltip_sequences",
+        "label": "candidate262"
+      },
+      {
+        "order": 1,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.012042675,
+          "allocated_bytes_per10": 13408.0,
+          "rounds_ms": [
+            0.01229783,
+            0.01184974,
+            0.01204689,
+            0.01203846
+          ]
+        },
+        "mode": "numeric62_pipeline",
+        "label": "candidate262"
+      },
+      {
+        "order": 1,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.00021386499999999999,
+          "allocated_bytes_per10": 32.0,
+          "rounds_ms": [
+            0.0002397,
+            0.0002177,
+            0.00021003,
+            0.00020693
+          ]
+        },
+        "mode": "disabled_pipeline",
+        "label": "candidate262"
+      },
+      {
+        "order": 1,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.00025288000000000003,
+          "allocated_bytes_per10": 272.0,
+          "rounds_ms": [
+            0.00025338,
+            0.00025311,
+            0.00025265,
+            0.00025004
+          ]
+        },
+        "mode": "debug_pipeline",
+        "label": "candidate262"
+      },
+      {
+        "order": 1,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.0007342500000000001,
+          "allocated_bytes_per10": 1738.5520000000001,
+          "rounds_ms": [
+            0.00120511,
+            0.00059794,
+            0.00087056,
+            0.00047288
+          ]
+        },
+        "mode": "roster_lookup",
+        "label": "candidate262"
+      },
+      {
+        "order": 2,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.012875855,
+          "allocated_bytes_per10": 13808.0,
+          "rounds_ms": [
+            0.01299404,
+            0.01284859,
+            0.01265355,
+            0.01290312
+          ]
+        },
+        "mode": "stable_scoped",
+        "label": "candidate262"
+      },
+      {
+        "order": 2,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.03044222,
+          "allocated_bytes_per10": 34976.0288,
+          "rounds_ms": [
+            0.0303728,
+            0.03039733,
+            0.03048792,
+            0.03048711
+          ]
+        },
+        "mode": "titles_pipeline",
+        "label": "candidate262"
+      },
+      {
+        "order": 2,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.006924245,
+          "allocated_bytes_per10": 16728.012,
+          "rounds_ms": [
+            0.00694761,
+            0.00690088,
+            0.00689002,
+            0.0070003
+          ]
+        },
+        "mode": "tooltip_components",
+        "label": "candidate262"
+      },
+      {
+        "order": 2,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.00554788,
+          "allocated_bytes_per10": 8752.012,
+          "rounds_ms": [
+            0.00625179,
+            0.00534485,
+            0.00558333,
+            0.00551243
+          ]
+        },
+        "mode": "tooltip_sequences",
+        "label": "candidate262"
+      },
+      {
+        "order": 2,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.012080525,
+          "allocated_bytes_per10": 13408.0,
+          "rounds_ms": [
+            0.01217857,
+            0.01197193,
+            0.01209969,
+            0.01206136
+          ]
+        },
+        "mode": "numeric62_pipeline",
+        "label": "candidate262"
+      },
+      {
+        "order": 2,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.000208305,
+          "allocated_bytes_per10": 32.0,
+          "rounds_ms": [
+            0.00020774,
+            0.0002095,
+            0.00020887,
+            0.00020674
+          ]
+        },
+        "mode": "disabled_pipeline",
+        "label": "candidate262"
+      },
+      {
+        "order": 2,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.000258935,
+          "allocated_bytes_per10": 272.0,
+          "rounds_ms": [
+            0.00029535,
+            0.00026435,
+            0.00024876,
+            0.00025352
+          ]
+        },
+        "mode": "debug_pipeline",
+        "label": "candidate262"
+      },
+      {
+        "order": 2,
+        "jar_sha256": "5442BA678770BC244743582A80FCDEBFD05EF1C6C4118E4E8E2D17CF8444EF51",
+        "result": {
+          "ms_per10": 0.0006926549999999999,
+          "allocated_bytes_per10": 1736.3375999999998,
+          "rounds_ms": [
+            0.0012557,
+            0.00049272,
+            0.00089259,
+            0.0004744
+          ]
+        },
+        "mode": "roster_lookup",
+        "label": "candidate262"
+      },
+      {
+        "order": 3,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.012941605,
+          "allocated_bytes_per10": 13808.012,
+          "rounds_ms": [
+            0.01305418,
+            0.01285323,
+            0.01302998,
+            0.01274654
+          ]
+        },
+        "mode": "stable_scoped",
+        "label": "baseline115"
+      },
+      {
+        "order": 3,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.030107505,
+          "allocated_bytes_per10": 34976.0288,
+          "rounds_ms": [
+            0.03003527,
+            0.03024542,
+            0.03000564,
+            0.03017974
+          ]
+        },
+        "mode": "titles_pipeline",
+        "label": "baseline115"
+      },
+      {
+        "order": 3,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.006803145,
+          "allocated_bytes_per10": 16728.012,
+          "rounds_ms": [
+            0.0070958,
+            0.00682276,
+            0.00678353,
+            0.00677852
+          ]
+        },
+        "mode": "tooltip_components",
+        "label": "baseline115"
+      },
+      {
+        "order": 3,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.005924765,
+          "allocated_bytes_per10": 9077.0776,
+          "rounds_ms": [
+            0.0068473,
+            0.00615101,
+            0.0055414,
+            0.00569852
+          ]
+        },
+        "mode": "tooltip_sequences",
+        "label": "baseline115"
+      },
+      {
+        "order": 3,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.012264575,
+          "allocated_bytes_per10": 13760.0,
+          "rounds_ms": [
+            0.01237815,
+            0.01238138,
+            0.01194194,
+            0.012151
+          ]
+        },
+        "mode": "numeric62_pipeline",
+        "label": "baseline115"
+      },
+      {
+        "order": 3,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.00021265,
+          "allocated_bytes_per10": 32.0,
+          "rounds_ms": [
+            0.00021008,
+            0.00021209,
+            0.00021321,
+            0.00021416
+          ]
+        },
+        "mode": "disabled_pipeline",
+        "label": "baseline115"
+      },
+      {
+        "order": 3,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.00025419500000000003,
+          "allocated_bytes_per10": 272.0,
+          "rounds_ms": [
+            0.00026495,
+            0.00024774,
+            0.00025196,
+            0.00025643
+          ]
+        },
+        "mode": "debug_pipeline",
+        "label": "baseline115"
+      },
+      {
+        "order": 3,
+        "jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+        "result": {
+          "ms_per10": 0.000820385,
+          "allocated_bytes_per10": 1741.864,
+          "rounds_ms": [
+            0.00112146,
+            0.00076224,
+            0.00087853,
+            0.00049483
+          ]
+        },
+        "mode": "roster_lookup",
+        "label": "baseline115"
+      }
+    ]
+  },
+  "performance_interpretation": {
+    "scope": "Synthetic API workloads only; sequential A-B-B-A on identical 26.2 libraries, not a full game version comparison",
+    "minimum_order_change_percent": -15.569519189161197,
+    "maximum_order_change_percent": 15.205696976705907,
+    "modes_slower_by_over_5_percent_in_both_orders": [],
+    "zero_fps_impact_proven": false,
+    "zero_memory_leaks_proven": false
+  },
+  "security": {
+    "tool": "Gitleaks 8.30.1",
+    "scope": "entire Git branch history",
+    "unreviewed_findings": 0,
+    "exact_reviewed_noncredential_fingerprints": 419,
+    "private_configs_logs_accounts_published": false
+  },
+  "runtime_llm": "Absent in original baseline; existing offline behavior retained",
+  "installed_game_modified": false
+}

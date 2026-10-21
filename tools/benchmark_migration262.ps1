@@ -29,5 +29,5 @@ $taskSummary=foreach($taskMode in $taskModes){
  }
  @{mode=$taskMode;orders=@($taskOrders)}
 }
-@{scope='8 unchanged synthetic text API workloads;4 sequential JVM orders A-B-B-A;20000 warmup/4x10000 measured10-row batches. Not native rendering, game FPS, 0.1% lows or zero cost.';runs=$taskRuns;summary=@($taskSummary)} | ConvertTo-Json -Depth 10 | Set-Content "$taskRoot/RESULT.json" -Encoding utf8
+@{scope='8 unchanged synthetic text API workloads;32 sequential JVMs, each mode A-B-B-A;20000 warmup/4x10000 measured10-row batches. Not native rendering, game FPS, 0.1% lows or zero cost.';runs=$taskRuns;summary=@($taskSummary)} | ConvertTo-Json -Depth 10 | Set-Content "$taskRoot/RESULT.json" -Encoding utf8
 Write-Output "PERFORMANCE262_ROOT=$taskRoot"
