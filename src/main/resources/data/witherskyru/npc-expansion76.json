@@ -1,0 +1,2903 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "Finite source-backed exact NPC additions loaded into the existing story map once at startup. Not every NPC,all branches,dynamic greetings or observed live colour layouts.",
+  "records": [
+    {
+      "source_key": "npc76.0",
+      "speaker": "Baker",
+      "tag": "NPC",
+      "source": "[NPC] Baker: At the end of each year I bake cakes for everyone in town to celebrate the year.",
+      "translation": "[NPC] Baker: В конце каждого года я пеку торты для всех горожан в честь праздника.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baker"
+    },
+    {
+      "source_key": "npc76.1",
+      "speaker": "Baker",
+      "tag": "NPC",
+      "source": "[NPC] Baker: I made one especially for you, here you go.",
+      "translation": "[NPC] Baker: Вот, этот я испёк специально для тебя.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baker"
+    },
+    {
+      "source_key": "npc76.2",
+      "speaker": "Baker",
+      "tag": "NPC",
+      "source": "[NPC] Baker: Wondering where to store your cakes? You can buy a New Year Cake Bag from me. Click me again to open my shop!",
+      "translation": "[NPC] Baker: Не знаешь, где хранить торты? Купи у меня сумку новогодних тортов. Нажми на меня ещё раз, чтобы открыть магазин!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baker",
+      "style_anchors": [
+        {
+          "source": "New Year Cake Bag",
+          "target": "сумку новогодних тортов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.3",
+      "speaker": "Baker",
+      "tag": "NPC",
+      "source": "[NPC] Baker: My Wheat Minions produce the finest flour around, but they can't keep up with today's demand...",
+      "translation": "[NPC] Baker: Мои пшеничные миньоны производят лучшую муку в округе, но сегодня они не справляются со спросом...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baker",
+      "style_anchors": [
+        {
+          "source": "Wheat Minions",
+          "target": "пшеничные миньоны"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.4",
+      "speaker": "Baker",
+      "tag": "NPC",
+      "source": "[NPC] Baker: \"Use better minion fuel\"? But... what could possibly be better than Enchanted Bread?.",
+      "translation": "[NPC] Baker: «Использовать топливо получше»? Но... что может быть лучше зачарованного хлеба?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baker",
+      "style_anchors": [
+        {
+          "source": "Enchanted Bread",
+          "target": "зачарованного хлеба"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.5",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: It's time to play SkyBlock Bingo!",
+      "translation": "[NPC] Bingo: Пора играть в Бинго SkyBlock!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "style_anchors": [
+        {
+          "source": "Bingo",
+          "target": "Бинго"
+        },
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.6",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: If you join, you have 7 days to complete as many tasks as you can on a fresh, temporary profile!",
+      "translation": "[NPC] Bingo: Присоединяйся! У тебя будет 7 дней, чтобы выполнить побольше заданий на новом временном профиле.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "style_anchors": [
+        {
+          "source": "7",
+          "target": "7"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.7",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: You have 7 days to complete as many tasks as you can on a fresh, temporary profile!",
+      "translation": "[NPC] Bingo: У тебя есть 7 дней, чтобы выполнить побольше заданий на новом временном профиле!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "style_anchors": [
+        {
+          "source": "7",
+          "target": "7"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.8",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: Complete personal tasks and work towards Community Goals to earn Bingo Points.",
+      "translation": "[NPC] Bingo: Выполняй личные задания и общие цели, чтобы получать очки Бинго.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "style_anchors": [
+        {
+          "source": "Bingo Points",
+          "target": "очки Бинго"
+        },
+        {
+          "source": "Community Goals",
+          "target": "общие цели"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.9",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: At the end of the event, your Bingo profile will be deleted.",
+      "translation": "[NPC] Bingo: После события твой профиль Бинго будет удалён.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "style_anchors": [
+        {
+          "source": "Bingo",
+          "target": "Бинго"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.10",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: But don't fret, all of the Bingo Points you earn during the event will stick around!",
+      "translation": "[NPC] Bingo: Но не волнуйся: все заработанные за событие очки Бинго сохранятся!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "style_anchors": [
+        {
+          "source": "Bingo Points",
+          "target": "очки Бинго"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.11",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: You can spend these points in the Bingo Shop on any profile!",
+      "translation": "[NPC] Bingo: Эти очки можно потратить в магазине Бинго с любого профиля!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "style_anchors": [
+        {
+          "source": "Bingo Shop",
+          "target": "магазине Бинго"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.12",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: I will stick around for a bit longer, but then I'll be gone until next event at the start of the month!",
+      "translation": "[NPC] Bingo: Я ещё немного побуду здесь, а потом уйду до следующего события в начале месяца!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)"
+    },
+    {
+      "source_key": "npc76.13",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: Check out the Bingo Shop to spend Bingo Points while supplies last!",
+      "translation": "[NPC] Bingo: Загляни в магазин Бинго и потрать очки Бинго, пока товары не закончились!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "style_anchors": [
+        {
+          "source": "Bingo Points",
+          "target": "очки Бинго"
+        },
+        {
+          "source": "Bingo Shop",
+          "target": "магазин Бинго"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.14",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: Hello!!!",
+      "translation": "[NPC] Hoppity: Привет!!!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.15",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: I'm the proud owner of the Chocolate Factory!",
+      "translation": "[NPC] Hoppity: Я — гордый владелец Шоколадной фабрики!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Chocolate Factory",
+          "target": "Шоколадной фабрики"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.16",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: My Chocolate is the finest chocolate in the entire world.",
+      "translation": "[NPC] Hoppity: Мой шоколад — лучший в мире.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Chocolate",
+          "target": "шоколад",
+          "whole_word": true
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.17",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: I have a brand new marketing strategy, and every Spring season I will spread various Rabbit Eggs across the islands.",
+      "translation": "[NPC] Hoppity: У меня новая рекламная идея: каждую весну я буду прятать кроличьи яйца на островах.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Rabbit Eggs",
+          "target": "кроличьи яйца"
+        },
+        {
+          "source": "Spring",
+          "target": "весну"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.18",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: Collect all the Rabbits I left in those eggs and I will let you use my factory!",
+      "translation": "[NPC] Hoppity: Собери всех кроликов из этих яиц — и я разрешу пользоваться фабрикой!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Rabbits",
+          "target": "кроликов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.19",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: Happy egg hunting!",
+      "translation": "[NPC] Hoppity: Удачной охоты за яйцами!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.20",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ What? You want my Abiphone contact?",
+      "translation": "[NPC] Hoppity: ✆ Что? Хочешь мой контакт в Абифоне?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Abiphone",
+          "target": "Абифоне"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.21",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ Well, tell you what. Help me out with a little something and I'll hook you up.",
+      "translation": "[NPC] Hoppity: ✆ Давай так: поможешь мне с одним делом — дам свой номер.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.22",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ There's this one Fish that keeps munching on my chocolate stash.",
+      "translation": "[NPC] Hoppity: ✆ Одна рыба постоянно поедает мои запасы шоколада.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Fish",
+          "target": "рыба"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.23",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ If I ever get him, I'm making a meal out of him - a little payback for all that chocolate.",
+      "translation": "[NPC] Hoppity: ✆ Поймаю — приготовлю из него ужин. Отомщу за весь съеденный шоколад!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.24",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ Bring me a Fish Chocolat à la Vapeur and I'll give you my contact. Deal?",
+      "translation": "[NPC] Hoppity: ✆ Принеси рыбу в шоколаде на пару — и получишь мой номер. Договорились?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Fish Chocolat à la Vapeur",
+          "target": "рыбу в шоколаде на пару"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.25",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ Thank you so much, here is my contact.",
+      "translation": "[NPC] Hoppity: ✆ Огромное спасибо! Вот мой номер.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.26",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ If I have new rabbit arrivals, I'll let you know!",
+      "translation": "[NPC] Hoppity: ✆ Сообщу, когда появятся новые кролики!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.27",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ Bring me that Fish...but in steamed form!",
+      "translation": "[NPC] Hoppity: ✆ Принеси ту рыбу... но приготовленную на пару!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Fish",
+          "target": "рыбу"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.28",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ I just got a new Chocolate Rabbit and was wondering if you wanted to buy it.",
+      "translation": "[NPC] Hoppity: ✆ У меня появился новый шоколадный кролик. Хочешь купить?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Chocolate Rabbit",
+          "target": "шоколадный кролик"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.29",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ Nice doing business with you.",
+      "translation": "[NPC] Hoppity: ✆ Приятно иметь с тобой дело.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.30",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ See you around!",
+      "translation": "[NPC] Hoppity: ✆ До встречи!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.31",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ Alright, maybe next time.",
+      "translation": "[NPC] Hoppity: ✆ Ладно, может, в другой раз.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.32",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: Hoppity's Hunt is on, and I need a break! Got something sweet?",
+      "translation": "[NPC] Hoppity: Охота Хоппити в разгаре, а мне нужен перерыв! Есть что-нибудь сладкое?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "style_anchors": [
+        {
+          "source": "Hoppity's Hunt",
+          "target": "Охота Хоппити"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.33",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: Simply exquisite! I don't think I'll ever get tired of chocolate.",
+      "translation": "[NPC] Hoppity: Превосходно! Шоколад мне никогда не надоест.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.34",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: Oh...stingy, aren't we?",
+      "translation": "[NPC] Hoppity: Ох... жадничаем, да?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity"
+    },
+    {
+      "source_key": "npc76.35",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: During the Spooky Festival, you can collect Candy by killing mobs or fishing.",
+      "translation": "[NPC] Fear Mongerer: На Жутком фестивале конфеты можно добывать, убивая мобов или рыбача.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer",
+      "style_anchors": [
+        {
+          "source": "Candy",
+          "target": "конфеты"
+        },
+        {
+          "source": "Spooky Festival",
+          "target": "Жутком фестивале"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.36",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: I accept Candy in exchange for exclusively spooky items!",
+      "translation": "[NPC] Fear Mongerer: Меняю конфеты на эксклюзивные жуткие предметы!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer",
+      "style_anchors": [
+        {
+          "source": "Candy",
+          "target": "конфеты"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.37",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: Each Spooky Festival, the top Candy-collecting players can earn even spookier rewards!",
+      "translation": "[NPC] Fear Mongerer: На каждом Жутком фестивале лучшие собиратели конфет получают ещё более жуткие награды!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer",
+      "style_anchors": [
+        {
+          "source": "Candy",
+          "target": "конфет"
+        },
+        {
+          "source": "Spooky Festival",
+          "target": "Жутком фестивале"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.38",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: Click me again to open my shop.",
+      "translation": "[NPC] Fear Mongerer: Нажми на меня ещё раз, чтобы открыть магазин.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.39",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: ✆ You want to be able to call me anytime?",
+      "translation": "[NPC] Fear Mongerer: ✆ Хочешь звонить мне когда угодно?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.40",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: ✆ Well that's not possible, I'm only available at night.",
+      "translation": "[NPC] Fear Mongerer: ✆ Не выйдет: я доступен только ночью.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.41",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: ✆ If you give me 64 Purple Candy and 6 Ectoplasm, I might give you my contact.",
+      "translation": "[NPC] Fear Mongerer: ✆ Дашь мне 64 фиолетовые конфеты и 6 эктоплазм — возможно, получишь мой номер.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer",
+      "style_anchors": [
+        {
+          "source": "64",
+          "target": "64",
+          "whole_word": true
+        },
+        {
+          "source": "Purple Candy",
+          "target": "фиолетовые конфеты"
+        },
+        {
+          "source": "6",
+          "target": "6",
+          "whole_word": true
+        },
+        {
+          "source": "Ectoplasm",
+          "target": "эктоплазм"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.42",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: ✆ Mhm... Your face just isn't very scary...",
+      "translation": "[NPC] Fear Mongerer: ✆ М-м... Лицо у тебя совсем не страшное...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.43",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: ✆ But it's not your fault I suppose, here take my contact.",
+      "translation": "[NPC] Fear Mongerer: ✆ Но ты, пожалуй, не виноват. Держи мой номер.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.44",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: ✆ Listen buddy it's not because I gave you my contact that it gives you the right to wake me up in the middle of the day.",
+      "translation": "[NPC] Fear Mongerer: ✆ Слушай, приятель: мой номер не даёт тебе права будить меня посреди дня.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.45",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: ✆ Call me back tonight or I'm blocking you.",
+      "translation": "[NPC] Fear Mongerer: ✆ Перезвони ночью, иначе заблокирую.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.46",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: Mortal, the time of reckoning is near. The Past will light the future.",
+      "translation": "[NPC] Fear Mongerer: Смертный, час расплаты близок. Прошлое озарит будущее.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.47",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: May your destiny be ridded with fortune.",
+      "translation": "[NPC] Fear Mongerer: Да сопутствует тебе удача.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.48",
+      "speaker": "Fear Mongerer",
+      "tag": "NPC",
+      "source": "[NPC] Fear Mongerer: Soon.",
+      "translation": "[NPC] Fear Mongerer: Скоро.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer"
+    },
+    {
+      "source_key": "npc76.49",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Here, you'll be able to partake in fun activities, earn Carnival Tokens, and purchase cool prizes!",
+      "translation": "[NPC] Carnival Leader: Здесь можно развлекаться, зарабатывать карнавальные жетоны и покупать отличные призы!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Carnival Tokens",
+          "target": "карнавальные жетоны"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.50",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Each day, I'll give you 25x Carnival Tickets, which will let you play the games.",
+      "translation": "[NPC] Carnival Leader: Каждый день дам тебе 25 карнавальных билетов для участия в играх.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "25",
+          "target": "25"
+        },
+        {
+          "source": "Carnival Tickets",
+          "target": "карнавальных билетов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.51",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: You'll also gain Carnival Tickets for participating in different Events!",
+      "translation": "[NPC] Carnival Leader: Карнавальные билеты также дают за участие в разных событиях!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Carnival Tickets",
+          "target": "Карнавальные билеты"
+        },
+        {
+          "source": "Events",
+          "target": "событиях"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.52",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Here, I'll give you some to start things off.",
+      "translation": "[NPC] Carnival Leader: Держи несколько для начала.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.53",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Alright, you should be good to go!",
+      "translation": "[NPC] Carnival Leader: Ну вот, теперь всё готово!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.54",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: If you have any questions, come find me.",
+      "translation": "[NPC] Carnival Leader: Будут вопросы — обращайся.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.55",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Good luck, and have A Carnivalot of Fun™!",
+      "translation": "[NPC] Carnival Leader: Удачи и карнавально весёлого отдыха™!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "A Carnivalot of Fun™",
+          "target": "карнавально весёлого отдыха™"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.56",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: It's a new day, which means you get more Carnival Tickets!",
+      "translation": "[NPC] Carnival Leader: Новый день — новые карнавальные билеты!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Carnival Tickets",
+          "target": "карнавальные билеты"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.57",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Remember, if you have any questions, I'll be right here.",
+      "translation": "[NPC] Carnival Leader: Помни: будут вопросы — я здесь.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.58",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Alrighty.",
+      "translation": "[NPC] Carnival Leader: Ладненько.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.59",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Currently, The Carnival offers 3 different games!",
+      "translation": "[NPC] Carnival Leader: Сейчас на Карнавале есть 3 игры!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "3",
+          "target": "3"
+        },
+        {
+          "source": "The Carnival",
+          "target": "Карнавале"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.60",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Behind me is Fruit Digging.",
+      "translation": "[NPC] Carnival Leader: Позади меня — «Поиск фруктов».",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Fruit Digging",
+          "target": "Поиск фруктов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.61",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Try your luck in this sand-flinging adventure and win big!",
+      "translation": "[NPC] Carnival Leader: Покопайся в песке, испытай удачу и сорви куш!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.62",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Over there is Zombie Shootout.",
+      "translation": "[NPC] Carnival Leader: Вон там — «Стрельба по зомби».",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Zombie Shootout",
+          "target": "Стрельба по зомби"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.63",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Aim for a high score by killing the pesky Zombies walking around the arena!",
+      "translation": "[NPC] Carnival Leader: Убивай зомби на арене и набирай побольше очков!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Zombies",
+          "target": "зомби"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.64",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Lastly, there's Catch a Fish, located by the mountain pond.",
+      "translation": "[NPC] Carnival Leader: А у горного пруда — «Поймайте рыбу».",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Catch a Fish",
+          "target": "Поймайте рыбу"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.65",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Catch some fish and have a relaxing time!",
+      "translation": "[NPC] Carnival Leader: Порыбачь и отдохни!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.66",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: It's A Carnivalot of Fun™!",
+      "translation": "[NPC] Carnival Leader: Карнавально весело™!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "A Carnivalot of Fun™",
+          "target": "Карнавально весело™"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.67",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Any other questions?",
+      "translation": "[NPC] Carnival Leader: Есть ещё вопросы?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.68",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Oh, that's easy!",
+      "translation": "[NPC] Carnival Leader: О, это просто!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.69",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Each day, I'll give you 25x Carnival Tickets.",
+      "translation": "[NPC] Carnival Leader: Каждый день дам тебе 25 карнавальных билетов.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "25",
+          "target": "25"
+        },
+        {
+          "source": "Carnival Tickets",
+          "target": "карнавальных билетов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.70",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: By competing in Carnival games!",
+      "translation": "[NPC] Carnival Leader: Участвуй в карнавальных играх!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Carnival",
+          "target": "карнавальных"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.71",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: You'll be awarded 1 Token for every 100 points you earn.",
+      "translation": "[NPC] Carnival Leader: Получишь 1 жетон за каждые заработанные 100 очков.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "1",
+          "target": "1",
+          "whole_word": true
+        },
+        {
+          "source": "Token",
+          "target": "жетон"
+        },
+        {
+          "source": "100",
+          "target": "100",
+          "whole_word": true
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.72",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: Why, at the orange stand right over there!",
+      "translation": "[NPC] Carnival Leader: В оранжевой палатке, вон там!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader"
+    },
+    {
+      "source_key": "npc76.73",
+      "speaker": "Carnival Leader",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Leader: You can exchange your Tokens for permanent buffs in different Events throughout SkyBlock, as well as some fun masks to play around with.",
+      "translation": "[NPC] Carnival Leader: Меняй жетоны на постоянные бонусы для событий SkyBlock и забавные маски.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "style_anchors": [
+        {
+          "source": "Events",
+          "target": "событий"
+        },
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        },
+        {
+          "source": "Tokens",
+          "target": "жетоны"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.74",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Welcome to Catch a Fish, friend!",
+      "translation": "[NPC] Carnival Fisherman: Добро пожаловать в «Поймайте рыбу», друг!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman",
+      "style_anchors": [
+        {
+          "source": "Catch a Fish",
+          "target": "Поймайте рыбу"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.75",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Mayor Foxy graciously allowed me to use this pond for my attraction.",
+      "translation": "[NPC] Carnival Fisherman: Мэр Фокси любезно разрешила устроить мой аттракцион на этом пруду.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman",
+      "style_anchors": [
+        {
+          "source": "Mayor Foxy",
+          "target": "Мэр Фокси"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.76",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Anyways, the rules of the game are as follows:",
+      "translation": "[NPC] Carnival Fisherman: Итак, правила такие:",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.77",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: You will be given 100s to catch some fish with a fishing rod I will provide you.",
+      "translation": "[NPC] Carnival Fisherman: Дам тебе удочку и 100 с на ловлю рыбы.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman",
+      "style_anchors": [
+        {
+          "source": "100",
+          "target": "100"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.78",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Each type of fish has a different color and point value.",
+      "translation": "[NPC] Carnival Fisherman: Каждый вид рыбы отличается цветом и количеством очков.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.79",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Try to catch as many as you can before the time runs out.",
+      "translation": "[NPC] Carnival Fisherman: Поймай побольше, пока время не вышло.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.80",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: So, interested in playing?",
+      "translation": "[NPC] Carnival Fisherman: Ну что, хочешь сыграть?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.81",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Sorry friend, but it looks like you don't have the 5x Carnival Tickets required to play...",
+      "translation": "[NPC] Carnival Fisherman: Извини, друг, но для игры нужно 5 карнавальных билетов. У тебя их нет...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman",
+      "style_anchors": [
+        {
+          "source": "5",
+          "target": "5"
+        },
+        {
+          "source": "Carnival Tickets",
+          "target": "карнавальных билетов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.82",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Maybe next time.",
+      "translation": "[NPC] Carnival Fisherman: Может, в другой раз.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.83",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Well, here goes...",
+      "translation": "[NPC] Carnival Fisherman: Ну, начнём...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.84",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Good luck, friend!",
+      "translation": "[NPC] Carnival Fisherman: Удачи, друг!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.85",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Alas, not everyone can appreciate the art of fishing...",
+      "translation": "[NPC] Carnival Fisherman: Увы, не каждому дано оценить искусство рыбалки...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.86",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: I'll be waiting here if you change your mind again.",
+      "translation": "[NPC] Carnival Fisherman: Снова передумаешь — буду ждать здесь.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.87",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Are you here to play?",
+      "translation": "[NPC] Carnival Fisherman: Пришёл поиграть?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.88",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Of course!",
+      "translation": "[NPC] Carnival Fisherman: Конечно!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.89",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Would you like to play?",
+      "translation": "[NPC] Carnival Fisherman: Хочешь сыграть?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.90",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: I'll be waiting here if you change your mind.",
+      "translation": "[NPC] Carnival Fisherman: Передумаешь — буду ждать здесь.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.91",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: Aww, the Carnival is closing for the year now. There's always a next time!",
+      "translation": "[NPC] Carnival Fisherman: Эх, Карнавал в этом году закрывается. Приходи в следующий раз!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman",
+      "style_anchors": [
+        {
+          "source": "Carnival",
+          "target": "Карнавал"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.92",
+      "speaker": "Carnival Fisherman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Fisherman: This server's as slow as reeling in a heavy catch, can't play the game like this. Sorry, friend!",
+      "translation": "[NPC] Carnival Fisherman: Сервер еле шевелится — будто тащит тяжёлый улов. Так не поиграть. Извини, друг!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman"
+    },
+    {
+      "source_key": "npc76.93",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Howdy there, partner!",
+      "translation": "[NPC] Carnival Cowboy: Здорово, напарник!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.94",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Interested in playin' Zombie Shootout, are ya?",
+      "translation": "[NPC] Carnival Cowboy: Хочешь сыграть в «Стрельбу по зомби»?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "style_anchors": [
+        {
+          "source": "Zombie Shootout",
+          "target": "Стрельбу по зомби"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.95",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Them rules are quite easy to get the hang of.",
+      "translation": "[NPC] Carnival Cowboy: Правила проще простого.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.96",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: I give ya a fancy lil' dart stick, you shoot sum Zombies!",
+      "translation": "[NPC] Carnival Cowboy: Дам тебе славный дротикомёт — стреляй по зомби!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "style_anchors": [
+        {
+          "source": "Zombies",
+          "target": "зомби"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.97",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Ye'll get more score based on what armor the Zombie.",
+      "translation": "[NPC] Carnival Cowboy: Чем лучше броня на зомби, тем больше очков.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "style_anchors": [
+        {
+          "source": "Zombie",
+          "target": "зомби"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.98",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Ye'll get more score based on what armor the Zombie's wearin'.",
+      "translation": "[NPC] Carnival Cowboy: Чем лучше броня на зомби, тем больше очков.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "style_anchors": [
+        {
+          "source": "Zombie",
+          "target": "зомби"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.99",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: There'll also be sum Redstone Lamps aroun' the arena that can be shot fer points when they light up!",
+      "translation": "[NPC] Carnival Cowboy: Ещё на арене есть редстоуновые лампы. Загорятся — стреляй и получай очки!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "style_anchors": [
+        {
+          "source": "Redstone Lamps",
+          "target": "редстоуновые лампы"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.100",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: That all make sense to ya?",
+      "translation": "[NPC] Carnival Cowboy: Всё понятно?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.101",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Wouldja like to play Zombie Shootout?",
+      "translation": "[NPC] Carnival Cowboy: Сыграешь в «Стрельбу по зомби»?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "style_anchors": [
+        {
+          "source": "Zombie Shootout",
+          "target": "Стрельбу по зомби"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.102",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: I won't keep ya, then.",
+      "translation": "[NPC] Carnival Cowboy: Тогда не задерживаю.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.103",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Sorry pal, but ya need 5x Carnival Tickets to play!",
+      "translation": "[NPC] Carnival Cowboy: Извини, приятель, для игры нужно 5 карнавальных билетов!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "style_anchors": [
+        {
+          "source": "5",
+          "target": "5"
+        },
+        {
+          "source": "Carnival Tickets",
+          "target": "карнавальных билетов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.104",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Guess we'll have to save it fer later.",
+      "translation": "[NPC] Carnival Cowboy: Похоже, придётся отложить.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.105",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Are ya ready to play now?",
+      "translation": "[NPC] Carnival Cowboy: Ну что, теперь готов?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.106",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Well, gosh darn it!",
+      "translation": "[NPC] Carnival Cowboy: Вот ведь незадача!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.107",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Stop wasting my time then, will ya?",
+      "translation": "[NPC] Carnival Cowboy: Тогда не трать моё время, ладно?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.108",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: Aw shucks, the Carnival is about to close! Hope to see yer next time.",
+      "translation": "[NPC] Carnival Cowboy: Эх, Карнавал вот-вот закроется! Жду тебя в следующий раз.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "style_anchors": [
+        {
+          "source": "Carnival",
+          "target": "Карнавал"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.109",
+      "speaker": "Carnival Cowboy",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Cowboy: This server's draggin' like a tired old mule, can't wrangle this game right now. Sorry, partner!",
+      "translation": "[NPC] Carnival Cowboy: Сервер плетётся, как уставший мул. Сейчас не поиграть. Извини, напарник!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy"
+    },
+    {
+      "source_key": "npc76.110",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Welcome to Fruit Digging, matey!",
+      "translation": "[NPC] Carnival Pirateman: Добро пожаловать в «Поиск фруктов», дружище!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman",
+      "style_anchors": [
+        {
+          "source": "Fruit Digging",
+          "target": "Поиск фруктов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.111",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: The rules of the game are as follows - I give ye a shovel, ye dig up the sand on the lookout fer fruit!",
+      "translation": "[NPC] Carnival Pirateman: Правила такие: дам тебе лопату — копай песок, ищи фрукты!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.112",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: The rules are as follows - I give ye a shovel, ye dig up the sand on the lookout fer fruit!",
+      "translation": "[NPC] Carnival Pirateman: Правила такие: дам тебе лопату — копай песок, ищи фрукты!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.113",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: There's a bunch o' different fruits, each with differin' point values and abilities.",
+      "translation": "[NPC] Carnival Pirateman: У каждого фрукта свои очки и способности.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.114",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Ye can RIGHT CLICK with yer shovel to swap between dowsing modes, which give ye a little info every time ye dig!",
+      "translation": "[NPC] Carnival Pirateman: Нажимай ПКМ с лопатой, чтобы менять режимы поиска. При каждом раскопе получишь подсказку!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman",
+      "style_anchors": [
+        {
+          "source": "RIGHT CLICK",
+          "target": "ПКМ"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.115",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Yer supposed to use that info to avoid them bombs and pick the best blocks to mine.",
+      "translation": "[NPC] Carnival Pirateman: По подсказкам обходи бомбы и выбирай, где лучше копать.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.116",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: It might all sound a little confusin', but I bet ye'll get the hang of it if ye give it a try.",
+      "translation": "[NPC] Carnival Pirateman: Звучит мудрёно, но попробуешь — быстро разберёшься!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.117",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: What do ye say?",
+      "translation": "[NPC] Carnival Pirateman: Ну что скажешь?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.118",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Ahoy there, matey!",
+      "translation": "[NPC] Carnival Pirateman: Йо-хо-хо, дружище!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.119",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Would ye like to do some Fruit Digging?",
+      "translation": "[NPC] Carnival Pirateman: Займёшься «Поиском фруктов»?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman",
+      "style_anchors": [
+        {
+          "source": "Fruit Digging",
+          "target": "Поиском фруктов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.120",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Here's yer shovel, then.",
+      "translation": "[NPC] Carnival Pirateman: Тогда держи лопату.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.121",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Sorry lad, but ye don't have 5x Carnival Tickets. Ye gotta pay to play!",
+      "translation": "[NPC] Carnival Pirateman: Прости, малый, у тебя нет 5 карнавальных билетов. За игру надо платить!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman",
+      "style_anchors": [
+        {
+          "source": "5",
+          "target": "5"
+        },
+        {
+          "source": "Carnival Tickets",
+          "target": "карнавальных билетов"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.122",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Ye'll have to get yer nutrients elsewhere.",
+      "translation": "[NPC] Carnival Pirateman: Придётся искать пропитание в другом месте.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.123",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: With that said, are ye ready to play?",
+      "translation": "[NPC] Carnival Pirateman: Ну что, готов играть?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.124",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: A swashbucklin' shame, if ye ask me...",
+      "translation": "[NPC] Carnival Pirateman: По-пиратски обидно, скажу я тебе...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.125",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Whenever ye be ready, I'll be waitin'",
+      "translation": "[NPC] Carnival Pirateman: Будешь готов — я жду.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.126",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Blimey! The Carnival is about to close. Ye'll gotta come back next time.",
+      "translation": "[NPC] Carnival Pirateman: Тысяча чертей! Карнавал закрывается. Приходи в следующий раз.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman",
+      "style_anchors": [
+        {
+          "source": "Carnival",
+          "target": "Карнавал"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.127",
+      "speaker": "Carnival Pirateman",
+      "tag": "NPC",
+      "source": "[NPC] Carnival Pirateman: Arrr, this server be slower than a sea turtle in a storm! No chance we be playin' this game, matey. Sorry!",
+      "translation": "[NPC] Carnival Pirateman: Ар-р, сервер медленнее морской черепахи в шторм! Так не поиграть, дружище. Прости!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman"
+    },
+    {
+      "source_key": "npc76.128",
+      "speaker": "Sloth",
+      "tag": "SECURITY",
+      "source": "[SECURITY] Sloth: Downloading suspicious mods or visiting untrusted discord servers can put your account at risk. It is up to you to keep your account secure!",
+      "translation": "[SECURITY] Sloth: Подозрительные моды и недоверенные серверы Discord угрожают вашему аккаунту. Его безопасность зависит от вас!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Security_Sloth",
+      "style_anchors": [
+        {
+          "source": "discord",
+          "target": "Discord"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.129",
+      "speaker": "Oringo",
+      "tag": "NPC",
+      "source": "[NPC] Oringo: ✆ My contact?!",
+      "translation": "[NPC] Oringo: ✆ Мой номер?!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo"
+    },
+    {
+      "source_key": "npc76.130",
+      "speaker": "Oringo",
+      "tag": "NPC",
+      "source": "[NPC] Oringo: ✆ What an unusual request!",
+      "translation": "[NPC] Oringo: ✆ Какая необычная просьба!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo"
+    },
+    {
+      "source_key": "npc76.131",
+      "speaker": "Oringo",
+      "tag": "NPC",
+      "source": "[NPC] Oringo: ✆ I travel a lot and I'm running quite low on Silent Pearl.",
+      "translation": "[NPC] Oringo: ✆ Я много путешествую, и беззвучные жемчужины почти закончились.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo",
+      "style_anchors": [
+        {
+          "source": "Silent Pearl",
+          "target": "беззвучные жемчужины"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.132",
+      "speaker": "Oringo",
+      "tag": "NPC",
+      "source": "[NPC] Oringo: ✆ If you bring me 64 of them, I'll give you my contact.",
+      "translation": "[NPC] Oringo: ✆ Принесёшь 64 штуки — дам свой номер.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo",
+      "style_anchors": [
+        {
+          "source": "64",
+          "target": "64"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.133",
+      "speaker": "Oringo",
+      "tag": "NPC",
+      "source": "[NPC] Oringo: ✆ Great! Silent Pearls can be pretty useful sometimes.",
+      "translation": "[NPC] Oringo: ✆ Отлично! Беззвучные жемчужины порой очень полезны.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo",
+      "style_anchors": [
+        {
+          "source": "Silent Pearls",
+          "target": "Беззвучные жемчужины"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.134",
+      "speaker": "Oringo",
+      "tag": "NPC",
+      "source": "[NPC] Oringo: ✆ Hi! Check back later for information on the next Traveling Zoo!",
+      "translation": "[NPC] Oringo: ✆ Привет! Загляни позже — расскажу о следующем Передвижном зоопарке!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo",
+      "style_anchors": [
+        {
+          "source": "Traveling Zoo",
+          "target": "Передвижном зоопарке"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.135",
+      "speaker": "Oringo",
+      "tag": "NPC",
+      "source": "[NPC] Oringo: ✆ The Traveling Zoo has arrived! Here are my offerings this year:",
+      "translation": "[NPC] Oringo: ✆ Передвижной зоопарк прибыл! Вот что предлагаю в этом году:",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo",
+      "style_anchors": [
+        {
+          "source": "Traveling Zoo",
+          "target": "Передвижной зоопарк"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.136",
+      "speaker": "Oringo",
+      "tag": "NPC",
+      "source": "[NPC] Oringo: Oh, you're out of wheat? Alright, I'll come back later then.",
+      "translation": "[NPC] Oringo: О, пшеница закончилась? Ладно, зайду позже.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo"
+    },
+    {
+      "source_key": "npc76.137",
+      "speaker": "Librarian",
+      "tag": "NPC",
+      "source": "[NPC] Librarian: Greetings! Welcome to the Library!",
+      "translation": "[NPC] Librarian: Приветствую! Добро пожаловать в библиотеку!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian",
+      "style_anchors": [
+        {
+          "source": "Library",
+          "target": "библиотеку"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.138",
+      "speaker": "Librarian",
+      "tag": "NPC",
+      "source": "[NPC] Librarian: The Library is your one-stop shop for all things enchanting. Enchant items, purchase Enchanted Books, and more!",
+      "translation": "[NPC] Librarian: В библиотеке есть всё для зачарования: зачаровывай предметы, покупай зачарованные книги и не только!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian",
+      "style_anchors": [
+        {
+          "source": "Enchanted Books",
+          "target": "зачарованные книги"
+        },
+        {
+          "source": "Library",
+          "target": "библиотеке"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.139",
+      "speaker": "Librarian",
+      "tag": "NPC",
+      "source": "[NPC] Librarian: You can enchant items by clicking any Enchantment Table. Enchanting costs experience levels - the more levels you spend, the better enchantments you will receive.",
+      "translation": "[NPC] Librarian: Нажми на любой стол зачарований, чтобы зачаровать предмет. Это стоит уровней опыта: чем больше потратишь, тем лучше зачарования.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian",
+      "style_anchors": [
+        {
+          "source": "Enchantment Table",
+          "target": "стол зачарований"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.140",
+      "speaker": "Librarian",
+      "tag": "NPC",
+      "source": "[NPC] Librarian: Use the Enchantment Table to enchant an item!",
+      "translation": "[NPC] Librarian: Используй стол зачарований, чтобы зачаровать предмет!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian",
+      "style_anchors": [
+        {
+          "source": "Enchantment Table",
+          "target": "стол зачарований"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.141",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: I'm the town Blacksmith! I can reforge items for you, for a price.",
+      "translation": "[NPC] Blacksmith: Я городской кузнец! Перекую твои предметы — за плату.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "Blacksmith",
+          "target": "кузнец"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.142",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: Reforging usually costs Coins, but since I'm feeling friendly I can reforge your first item for Coal x10.",
+      "translation": "[NPC] Blacksmith: Обычно перековка стоит монет, но сегодня я добрый: первый предмет перекую за уголь x10.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "10",
+          "target": "10"
+        },
+        {
+          "source": "Coal",
+          "target": "уголь"
+        },
+        {
+          "source": "Coins",
+          "target": "монет"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.143",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: Go into the Mine to collect Coal, then come back to learn how to reforge items!",
+      "translation": "[NPC] Blacksmith: Добудь уголь в шахте и возвращайся — научу перековке!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "Coal",
+          "target": "уголь"
+        },
+        {
+          "source": "Mine",
+          "target": "шахте"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.144",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: Mine some more Coal in the Mine!",
+      "translation": "[NPC] Blacksmith: Добудь ещё угля в шахте!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "Coal",
+          "target": "угля"
+        },
+        {
+          "source": "Mine",
+          "target": "шахте",
+          "whole_word": true,
+          "source_occurrence": 2
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.145",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: I will teach you how to reforge items once you mine some more Coal!",
+      "translation": "[NPC] Blacksmith: Добудь ещё угля — и я научу тебя перековке!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "Coal",
+          "target": "угля"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.146",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: Reach Mining Level I to gain access to the Gold Mine, north of the Coal Mine.",
+      "translation": "[NPC] Blacksmith: Достигни I уровня горного дела, чтобы попасть в Золотую шахту к северу от Угольной шахты.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "Coal Mine",
+          "target": "Угольной шахты"
+        },
+        {
+          "source": "Gold Mine",
+          "target": "Золотую шахту"
+        },
+        {
+          "source": "I",
+          "target": "I"
+        },
+        {
+          "source": "Mining",
+          "target": "горного дела"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.147",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: The Gold Mine is more dangerous than the Coal Mine, but it has better ores and treasures!",
+      "translation": "[NPC] Blacksmith: В Золотой шахте опаснее, чем в Угольной шахте, зато руда и сокровища лучше!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "Coal Mine",
+          "target": "Угольной шахте"
+        },
+        {
+          "source": "Gold Mine",
+          "target": "Золотой шахте"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.148",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: Travel to the Gold Mine to spelunk for better ores, including iron and gold!",
+      "translation": "[NPC] Blacksmith: Отправляйся в Золотую шахту за рудой получше, в том числе железом и золотом!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "Gold Mine",
+          "target": "Золотую шахту"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.149",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: Ahh, excellent!",
+      "translation": "[NPC] Blacksmith: А, превосходно!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.150",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: Reforging items allows you to get the most out of your weapons, armor, and other items by applying stat modifiers to them!",
+      "translation": "[NPC] Blacksmith: Перековка улучшает характеристики оружия, брони и других предметов!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.151",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: To reforge an item, place an item in my inventory. Reforging costs Coins - the more prestigious items cost more to reforge!",
+      "translation": "[NPC] Blacksmith: Для перековки положи предмет в мой инвентарь. Она стоит монет: чем ценнее предмет, тем дороже.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "Coins",
+          "target": "монет"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.152",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: However, this time I will reforge any item for the low price of Coal x10!",
+      "translation": "[NPC] Blacksmith: Но сейчас перекую любой предмет всего за уголь x10!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "10",
+          "target": "10"
+        },
+        {
+          "source": "Coal",
+          "target": "уголь"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.153",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ You want my contact?",
+      "translation": "[NPC] Blacksmith: ✆ Хочешь мой номер?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.154",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ Nonono, not happening.",
+      "translation": "[NPC] Blacksmith: ✆ Не-не-не, ни за что.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.155",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ Well... Actually...",
+      "translation": "[NPC] Blacksmith: ✆ Хотя... Вообще-то...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.156",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ No, no absolutely not.",
+      "translation": "[NPC] Blacksmith: ✆ Нет, нет, точно нет.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.157",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ Unless? Hmm, lemme think about it.",
+      "translation": "[NPC] Blacksmith: ✆ Разве что... Хм, дай подумать.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.158",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ No for sure, for sure. That would be too much.",
+      "translation": "[NPC] Blacksmith: ✆ Нет, точно нет. Это уже слишком.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.159",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ But maybe... If you do something for me.",
+      "translation": "[NPC] Blacksmith: ✆ Но, может... Если кое-что сделаешь для меня.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.160",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ Don't ask me how I got into this situation.",
+      "translation": "[NPC] Blacksmith: ✆ Не спрашивай, как я в это вляпался.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.161",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ I owe them 32M coins.",
+      "translation": "[NPC] Blacksmith: ✆ Я должен им 32M монет.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "style_anchors": [
+        {
+          "source": "32",
+          "target": "32"
+        },
+        {
+          "source": "coins",
+          "target": "монет"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.162",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ If you help me, I'll allow you to use my services from anywhere.",
+      "translation": "[NPC] Blacksmith: ✆ Поможешь — сможешь пользоваться моими услугами откуда угодно.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.163",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ You are a lifesaver.",
+      "translation": "[NPC] Blacksmith: ✆ Ты мой спаситель.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.164",
+      "speaker": "Blacksmith",
+      "tag": "NPC",
+      "source": "[NPC] Blacksmith: ✆ I swear I wont get in that trouble again!",
+      "translation": "[NPC] Blacksmith: ✆ Клянусь, больше в такое не вляпаюсь!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
+    },
+    {
+      "source_key": "npc76.165",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: Hi, I'm the janitor of this mine.",
+      "translation": "[NPC] Rusty: Привет, я уборщик этой шахты.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.166",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: You would not believe how many people leave ingots and stones behind them!",
+      "translation": "[NPC] Rusty: Не поверишь, сколько людей бросают за собой слитки и камни!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.167",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: It drives me insane, but at least you unlocked Auto-pickup.",
+      "translation": "[NPC] Rusty: С ума от этого схожу! Хорошо хоть ты открыл автоподбор.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty",
+      "style_anchors": [
+        {
+          "source": "Auto-pickup",
+          "target": "автоподбор"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.168",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: It drives me insane, but at least you'll unlock Auto-pickup at SkyBlock Level 6.",
+      "translation": "[NPC] Rusty: С ума от этого схожу! Хорошо хоть на 6-м уровне SkyBlock ты откроешь автоподбор.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty",
+      "style_anchors": [
+        {
+          "source": "6",
+          "target": "6"
+        },
+        {
+          "source": "Auto-pickup",
+          "target": "автоподбор"
+        },
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.169",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: It makes my job a lot easier, but despite that, I still find so many items on the ground.",
+      "translation": "[NPC] Rusty: Так работать гораздо легче. Но на земле всё равно полно вещей!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.170",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: Maybe some of those items are yours? In which case I'll let you buy them back.",
+      "translation": "[NPC] Rusty: Может, часть этих вещей твоя? Тогда разрешу их выкупить.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.171",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: Maybe some of these items are yours? In which case I'll let you buy them back.",
+      "translation": "[NPC] Rusty: Может, часть этих вещей твоя? Тогда разрешу их выкупить.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.172",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: You found the Lazy Miner's pickaxe!",
+      "translation": "[NPC] Rusty: Ты нашёл кирку Ленивого шахтёра!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty",
+      "style_anchors": [
+        {
+          "source": "Lazy Miner's",
+          "target": "Ленивого шахтёра"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.173",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: I'll have to put it in my stores.",
+      "translation": "[NPC] Rusty: Отправлю её к себе на склад.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.174",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: Click me again!",
+      "translation": "[NPC] Rusty: Нажми на меня ещё раз!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.175",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ Did I find an Abiphone?",
+      "translation": "[NPC] Rusty: ✆ Находил ли я Абифон?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty",
+      "style_anchors": [
+        {
+          "source": "Abiphone",
+          "target": "Абифон"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.176",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ Yes, sometimes I do find one lying around.",
+      "translation": "[NPC] Rusty: ✆ Да, иногда попадаются брошенные.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.177",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ What?",
+      "translation": "[NPC] Rusty: ✆ Что?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.178",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ You...",
+      "translation": "[NPC] Rusty: ✆ Ты...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.179",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ You want my contact?",
+      "translation": "[NPC] Rusty: ✆ Хочешь мой номер?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.180",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ Me?",
+      "translation": "[NPC] Rusty: ✆ Мой?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.181",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ The janitor?",
+      "translation": "[NPC] Rusty: ✆ Уборщика?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.182",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ I...",
+      "translation": "[NPC] Rusty: ✆ Я...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.183",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ I don't... don't know what to say...",
+      "translation": "[NPC] Rusty: ✆ Я даже... не знаю, что сказать...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.184",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: ✆ Yes of course you can have it!",
+      "translation": "[NPC] Rusty: ✆ Да, конечно, бери!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.185",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: Turns out, if you want something done, you have to do it yourself.",
+      "translation": "[NPC] Rusty: Хочешь сделать хорошо — сделай сам.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty"
+    },
+    {
+      "source_key": "npc76.186",
+      "speaker": "Frosty",
+      "tag": "NPC",
+      "source": "[NPC] Frosty: Welcome to the Jerry's Workshop.",
+      "translation": "[NPC] Frosty: Добро пожаловать в мастерскую Джерри.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty",
+      "style_anchors": [
+        {
+          "source": "Jerry's Workshop",
+          "target": "мастерскую Джерри"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.187",
+      "speaker": "Frosty",
+      "tag": "NPC",
+      "source": "[NPC] Frosty: When its time to deliver Gifts, Mount Jerry always erupts and the village is ravaged by heat-based enemies!",
+      "translation": "[NPC] Frosty: Когда пора раздавать подарки, вулкан Джерри извергается, а деревню атакуют огненные враги!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty",
+      "style_anchors": [
+        {
+          "source": "Gifts",
+          "target": "подарки"
+        },
+        {
+          "source": "Mount Jerry",
+          "target": "вулкан Джерри"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.188",
+      "speaker": "Frosty",
+      "tag": "NPC",
+      "source": "[NPC] Frosty: It holds and fires Snowballs, which are the best way to extinguish the enemy!",
+      "translation": "[NPC] Frosty: Она хранит снежки и стреляет ими — это лучший способ потушить врага!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty",
+      "style_anchors": [
+        {
+          "source": "Snowballs",
+          "target": "снежки"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.189",
+      "speaker": "Frosty",
+      "tag": "NPC",
+      "source": "[NPC] Frosty: I can refill it at any time for a modest price. Also feel free to check out my shop upstairs!",
+      "translation": "[NPC] Frosty: Пополню боезапас в любое время за небольшую плату. Загляни и в мой магазин наверху!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty"
+    },
+    {
+      "source_key": "npc76.190",
+      "speaker": "Frosty",
+      "tag": "NPC",
+      "source": "[NPC] Frosty: Click me with a Snow Cannon, Snow Blaster, or Frosty the Howitzer to refill it!",
+      "translation": "[NPC] Frosty: Нажми на меня со снежной пушкой, снежным бластером или гаубицей Фрости в руке — пополню боезапас!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty",
+      "style_anchors": [
+        {
+          "source": "Frosty the Howitzer",
+          "target": "гаубицей Фрости"
+        },
+        {
+          "source": "Snow Blaster",
+          "target": "снежным бластером"
+        },
+        {
+          "source": "Snow Cannon",
+          "target": "снежной пушкой"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.191",
+      "speaker": "Frosty",
+      "tag": "NPC",
+      "source": "[NPC] Frosty: I noticed you don't have a Snow Cannon, would you like to buy another?",
+      "translation": "[NPC] Frosty: Вижу, снежной пушки у тебя нет. Купишь ещё одну?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty",
+      "style_anchors": [
+        {
+          "source": "Snow Cannon",
+          "target": "снежной пушки"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.192",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: You're so close! Find the last Gift and come back for a reward!",
+      "translation": "[NPC] St. Jerry: Почти готово! Найди последний подарок и возвращайся за наградой!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Gift",
+          "target": "подарок"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.193",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: You found all of the Gifts!",
+      "translation": "[NPC] St. Jerry: Все подарки найдены!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Gifts",
+          "target": "подарки"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.194",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Take this Green Gift! You'll hopefully find something nicer than what was in those White Gifts!",
+      "translation": "[NPC] St. Jerry: Держи зелёный подарок! Надеюсь, внутри что-то получше, чем в белых подарках.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Green Gift",
+          "target": "зелёный подарок"
+        },
+        {
+          "source": "White Gifts",
+          "target": "белых подарках"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.195",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: If you haven't already, be sure to give your other Gifts away to others. Giving Gifts benefits both you and the receiver!",
+      "translation": "[NPC] St. Jerry: Остались подарки? Дари подарки другим — полезно вам обоим!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Gifts",
+          "target": "подарки",
+          "whole_word": true,
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        },
+        {
+          "source": "Gifts",
+          "target": "подарки",
+          "whole_word": true,
+          "source_occurrence": 2,
+          "target_occurrence": 2
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.196",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: I see you've found some Gifts, but there are still many more in the village. Find the rest and come back for a reward!",
+      "translation": "[NPC] St. Jerry: Часть подарков найдена, но в деревне ещё много. Собери остальные и возвращайся за наградой!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Gifts",
+          "target": "подарков"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.197",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ Of course I can add you as a contact!",
+      "translation": "[NPC] St. Jerry: ✆ Конечно, добавлю тебя в контакты!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.198",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ It's a really big Abiphone!",
+      "translation": "[NPC] St. Jerry: ✆ Абифон огромный!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Abiphone",
+          "target": "Абифон"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.199",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ If you want my contact, all you have to do is repeat this phrase exactly...",
+      "translation": "[NPC] St. Jerry: ✆ Для получения номера повтори эту фразу точно, на английском...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.200",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ \"I love the warmth of the Holidays despite the snow\"",
+      "translation": "[NPC] St. Jerry: ✆ Введи на английском: \"I love the warmth of the Holidays despite the snow\"",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "I love the warmth of the Holidays despite the snow",
+          "target": "I love the warmth of the Holidays despite the snow"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.201",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ That's grandiose!",
+      "translation": "[NPC] St. Jerry: ✆ Грандиозно!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.202",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ I really like you!",
+      "translation": "[NPC] St. Jerry: ✆ Ты мне нравишься!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.203",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ Call me every year and I'll hand you a White Gift!",
+      "translation": "[NPC] St. Jerry: ✆ Звони ежегодно — получишь белый подарок!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "White Gift",
+          "target": "белый подарок"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.204",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ I sent a gift to your inventory! With love, St. Jerry.",
+      "translation": "[NPC] St. Jerry: ✆ Подарок в твоём инвентаре! С любовью, святой Джерри.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "St. Jerry",
+          "target": "святой Джерри"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.205",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ But hey, merry season of the Jerry to you anyway!",
+      "translation": "[NPC] St. Jerry: ✆ В любом случае, с сезоном Джерри!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.206",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: ✆ Call me again next year!",
+      "translation": "[NPC] St. Jerry: ✆ Позвони в следующем году!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.207",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Golly gee - I want to spread joy around the world, in the form of raw materials!",
+      "translation": "[NPC] St. Jerry: Ох ты! Хочу дарить миру радость в виде ресурсов!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.208",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Your help has been the greatest gift of all.",
+      "translation": "[NPC] St. Jerry: Твоя помощь — лучший подарок.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.209",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Without your help, I can only supply plain white gifts this holiday.",
+      "translation": "[NPC] St. Jerry: Без тебя в праздник смогу раздавать лишь белые подарки.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "white gifts",
+          "target": "белые подарки"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.210",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Did you know you can access your Bank from Jerry's Workshop? Check out the Bank in the center of the village!",
+      "translation": "[NPC] St. Jerry: В мастерской Джерри есть банк! Банк — в центре деревни.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Jerry's Workshop",
+          "target": "мастерской Джерри"
+        },
+        {
+          "source": "Bank",
+          "target": "банк",
+          "whole_word": true,
+          "source_occurrence": 1
+        },
+        {
+          "source": "Bank",
+          "target": "Банк",
+          "whole_word": true,
+          "source_occurrence": 2
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.211",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Click someone with a Gift to give both you and them a Gift!",
+      "translation": "[NPC] St. Jerry: Нажми подарком на игрока — подарок получите оба!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Gift",
+          "target": "подарком",
+          "whole_word": true,
+          "source_occurrence": 1
+        },
+        {
+          "source": "Gift",
+          "target": "подарок",
+          "whole_word": true,
+          "source_occurrence": 2
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.212",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Come back next SkyBlock year to find more Gifts!",
+      "translation": "[NPC] St. Jerry: Возвращайся за подарками в следующем году SkyBlock!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Gifts",
+          "target": "подарками"
+        },
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.213",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Ice fishing is a great way to relax during the winter!",
+      "translation": "[NPC] St. Jerry: Подлёдная рыбалка — отличный зимний отдых!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.214",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: There are all sorts of icy creatures within the depths of Jerry Pond!",
+      "translation": "[NPC] St. Jerry: В глубинах пруда Джерри полно ледяных существ!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Jerry Pond",
+          "target": "пруда Джерри"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.215",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: You can trade Gifts directly with others or randomly gift players on the island!",
+      "translation": "[NPC] St. Jerry: Обменивайся подарками или дари их случайным игрокам острова!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "style_anchors": [
+        {
+          "source": "Gifts",
+          "target": "подарками"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.216",
+      "speaker": "St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC] St. Jerry: Gifting others benefits both you and the other person!",
+      "translation": "[NPC] St. Jerry: Подарки полезны и дарителю, и получателю!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry"
+    },
+    {
+      "source_key": "npc76.217",
+      "speaker": "Chantelle",
+      "tag": "NPC",
+      "source": "[NPC] Chantelle: Ever feel like you're being watched?",
+      "translation": "[NPC] Chantelle: Бывало чувство, что за тобой следят?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle"
+    },
+    {
+      "source_key": "npc76.218",
+      "speaker": "Chantelle",
+      "tag": "NPC",
+      "source": "[NPC] Chantelle: Like your every action is being recorded and monitored?",
+      "translation": "[NPC] Chantelle: Будто каждое действие записывают и отслеживают?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle"
+    },
+    {
+      "source_key": "npc76.219",
+      "speaker": "Chantelle",
+      "tag": "NPC",
+      "source": "[NPC] Chantelle: Well, that sure is the case here at The Carnival...",
+      "translation": "[NPC] Chantelle: Что ж, на Карнавале именно так...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle",
+      "style_anchors": [
+        {
+          "source": "The Carnival",
+          "target": "Карнавале"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.220",
+      "speaker": "Chantelle",
+      "tag": "NPC",
+      "source": "[NPC] Chantelle: ...but it's just so we can track your stats and let you complete challenges for rewards!",
+      "translation": "[NPC] Chantelle: ...но лишь для учёта статистики и испытаний с наградами!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle"
+    },
+    {
+      "source_key": "npc76.221",
+      "speaker": "Chantelle",
+      "tag": "NPC",
+      "source": "[NPC] Chantelle: Don't think too hard about it.",
+      "translation": "[NPC] Chantelle: Не забивай себе этим голову.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle"
+    },
+    {
+      "source_key": "npc76.222",
+      "speaker": "Chantelle",
+      "tag": "NPC",
+      "source": "[NPC] Chantelle: I like to press a flower for each place the Carnival stops at. Do you have any?",
+      "translation": "[NPC] Chantelle: Я засушиваю по цветку из каждого места остановки Карнавала. У тебя найдётся?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle",
+      "style_anchors": [
+        {
+          "source": "Carnival",
+          "target": "Карнавала"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.223",
+      "speaker": "Chantelle",
+      "tag": "NPC",
+      "source": "[NPC] Chantelle: Thank you! These smell amazing!",
+      "translation": "[NPC] Chantelle: Спасибо! Чудесный аромат!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle"
+    },
+    {
+      "source_key": "npc76.224",
+      "speaker": "Chantelle",
+      "tag": "NPC",
+      "source": "[NPC] Chantelle: Oh, that's unfortunate. Maybe next time?",
+      "translation": "[NPC] Chantelle: Ох, жаль. Может, в другой раз?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle"
+    },
+    {
+      "source_key": "npc76.225",
+      "speaker": "Doug",
+      "tag": "NPC",
+      "source": "[NPC] Doug: Masks. Event buffs. An Accessory.",
+      "translation": "[NPC] Doug: Маски. Бонусы событий. Аксессуар.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Doug",
+      "style_anchors": [
+        {
+          "source": "Accessory",
+          "target": "Аксессуар"
+        },
+        {
+          "source": "Event buffs",
+          "target": "Бонусы событий"
+        }
+      ]
+    },
+    {
+      "source_key": "npc76.226",
+      "speaker": "Doug",
+      "tag": "NPC",
+      "source": "[NPC] Doug: You want them?",
+      "translation": "[NPC] Doug: Хочешь их?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Doug"
+    },
+    {
+      "source_key": "npc76.227",
+      "speaker": "Doug",
+      "tag": "NPC",
+      "source": "[NPC] Doug: They're yours, my friend.",
+      "translation": "[NPC] Doug: Они твои, друг мой.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Doug"
+    },
+    {
+      "source_key": "npc76.228",
+      "speaker": "Doug",
+      "tag": "NPC",
+      "source": "[NPC] Doug: As long as you have enough Carnival Tokens.",
+      "translation": "[NPC] Doug: Если хватит карнавальных жетонов.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Doug",
+      "style_anchors": [
+        {
+          "source": "Carnival Tokens",
+          "target": "карнавальных жетонов"
+        }
+      ]
+    }
+  ]
+}

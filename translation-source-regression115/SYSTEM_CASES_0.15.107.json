@@ -1,0 +1,3342 @@
+{
+  "cases": [
+    {
+      "source": "You've elevated your Abiphone contacts limit by +3!",
+      "translation": "Вы увеличили лимит контактов Абифона на +3!",
+      "legacy": "§fYou've §1elevated §fyour Abiphone contacts limit by §2+3§f!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "elevated ",
+          "target": "увеличили"
+        },
+        {
+          "source": "+3",
+          "target": "+3"
+        }
+      ]
+    },
+    {
+      "source": "You've elevated your Abiphone contacts limit by +3!",
+      "translation": "Вы увеличили лимит контактов Абифона на +3!",
+      "legacy": "§aYou've §oelevated §ayour Abiphone contacts limit by §b+3§a!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "elevated ",
+          "target": "увеличили"
+        },
+        {
+          "source": "+3",
+          "target": "+3"
+        }
+      ]
+    },
+    {
+      "source": "You've reached the addons limit of 25!",
+      "translation": "Достигнут лимит в 25 дополнений!",
+      "legacy": "§fYou've reached the addons limit of 25!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You've reached the addons limit of 25!",
+      "translation": "Достигнут лимит в 25 дополнений!",
+      "legacy": "§cYou've reached the addons limit of 25!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "[✆] You cannot add this NPC as a contact...",
+      "translation": "[✆] Этого персонажа нельзя добавить в контакты...",
+      "legacy": "§f§1[✆]§f You cannot add this NPC as a contact...",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] You cannot add this NPC as a contact...",
+      "translation": "[✆] Этого персонажа нельзя добавить в контакты...",
+      "legacy": "§7[§b✆§7] You cannot add this NPC as a contact...",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC doesn't own an Abiphone...",
+      "translation": "[✆] У этого персонажа нет Абифона...",
+      "legacy": "§f§1[✆]§f This NPC doesn't own an Abiphone...",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC doesn't own an Abiphone...",
+      "translation": "[✆] У этого персонажа нет Абифона...",
+      "legacy": "§7[§b✆§7] This NPC doesn't own an Abiphone...",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC is scared of the advent of cyborgs in SkyBlock and therefore refuses to own an Abiphone…",
+      "translation": "[✆] Этот персонаж боится появления киборгов в SkyBlock и поэтому отказывается пользоваться Абифоном…",
+      "legacy": "§f§1[✆]§f This NPC is scared of the advent of cyborgs in SkyBlock and therefore refuses to own an Abiphone…",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC is scared of the advent of cyborgs in SkyBlock and therefore refuses to own an Abiphone…",
+      "translation": "[✆] Этот персонаж боится появления киборгов в SkyBlock и поэтому отказывается пользоваться Абифоном…",
+      "legacy": "§7[§b✆§7] This NPC is scared of the advent of cyborgs in SkyBlock and therefore refuses to own an Abiphone…",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small…",
+      "translation": "[✆] Персонаж протягивает вам клочок карты с записанным номером. Увы, он написал слишком мелко…",
+      "legacy": "§f§1[✆]§f The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small…",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small…",
+      "translation": "[✆] Персонаж протягивает вам клочок карты с записанным номером. Увы, он написал слишком мелко…",
+      "legacy": "§7[§b✆§7] The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small…",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC has an allergy to electromagnetism. It's a rare condition that isn't catalogued yet by the medicine community...",
+      "translation": "[✆] У этого персонажа аллергия на электромагнетизм. Это редкое заболевание, ещё не описанное медицинским сообществом...",
+      "legacy": "§f§1[✆]§f This NPC has an allergy to electromagnetism. It's a rare condition that isn't catalogued yet by the medicine community...",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC has an allergy to electromagnetism. It's a rare condition that isn't catalogued yet by the medicine community...",
+      "translation": "[✆] У этого персонажа аллергия на электромагнетизм. Это редкое заболевание, ещё не описанное медицинским сообществом...",
+      "legacy": "§7[§b✆§7] This NPC has an allergy to electromagnetism. It's a rare condition that isn't catalogued yet by the medicine community...",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC's Abiphone plan doesn't include unlimited calls and texts, so they prefer keeping their contact to themselves...",
+      "translation": "[✆] В тариф Абифона этого персонажа не входят безлимитные звонки и сообщения, поэтому он предпочитает не давать свой номер...",
+      "legacy": "§f§1[✆]§f This NPC's Abiphone plan doesn't include unlimited calls and texts, so they prefer keeping their contact to themselves...",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC's Abiphone plan doesn't include unlimited calls and texts, so they prefer keeping their contact to themselves...",
+      "translation": "[✆] В тариф Абифона этого персонажа не входят безлимитные звонки и сообщения, поэтому он предпочитает не давать свой номер...",
+      "legacy": "§7[§b✆§7] This NPC's Abiphone plan doesn't include unlimited calls and texts, so they prefer keeping their contact to themselves...",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] The NPC is nonplussed by the technology you present them...",
+      "translation": "[✆] Персонаж растерянно смотрит на технологическое чудо, которое вы ему показываете...",
+      "legacy": "§f§1[✆]§f The NPC is nonplussed by the technology you present them...",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] The NPC is nonplussed by the technology you present them...",
+      "translation": "[✆] Персонаж растерянно смотрит на технологическое чудо, которое вы ему показываете...",
+      "legacy": "§7[§b✆§7] The NPC is nonplussed by the technology you present them...",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC had their Abiphone stolen by a Dante goon and the warranty has expired…",
+      "translation": "[✆] Громила Данте украл Абифон этого персонажа, а срок гарантии уже истёк…",
+      "legacy": "§f§1[✆]§f This NPC had their Abiphone stolen by a Dante goon and the warranty has expired…",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC had their Abiphone stolen by a Dante goon and the warranty has expired…",
+      "translation": "[✆] Громила Данте украл Абифон этого персонажа, а срок гарантии уже истёк…",
+      "legacy": "§7[§b✆§7] This NPC had their Abiphone stolen by a Dante goon and the warranty has expired…",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC is already in your contacts list!",
+      "translation": "[✆] Этот персонаж уже есть в вашем списке контактов!",
+      "legacy": "§f§1[✆]§f This NPC is already in your contacts list!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "[✆] This NPC is already in your contacts list!",
+      "translation": "[✆] Этот персонаж уже есть в вашем списке контактов!",
+      "legacy": "§7[§b✆§7] This NPC is already in your contacts list!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ]
+    },
+    {
+      "source": "✆ Agatha has been added to your Abiphone's contacts!",
+      "translation": "✆ Агата добавлена в контакты вашего Абифона!",
+      "legacy": "§f✆ §1Agatha §fhas been added to your Abiphone's contacts!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "Agatha ",
+          "target": "Агата"
+        }
+      ]
+    },
+    {
+      "source": "✆ Agatha has been added to your Abiphone's contacts!",
+      "translation": "✆ Агата добавлена в контакты вашего Абифона!",
+      "legacy": "§b✆ Agatha §fhas been added to your Abiphone's contacts!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "Agatha ",
+          "target": "Агата"
+        }
+      ]
+    },
+    {
+      "source": "⚑ The 2x Powder event starts in 20 seconds!",
+      "translation": "⚑ Событие «Порошок ×2» начнётся через 20 секунд!",
+      "legacy": "§f§1⚑§f The §22x Powder§f event starts in §320§f seconds!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "⚑",
+          "target": "⚑"
+        },
+        {
+          "source": "2x Powder",
+          "target": "Порошок ×2"
+        },
+        {
+          "source": "20",
+          "target": "20"
+        }
+      ]
+    },
+    {
+      "source": "⚑ The 2x Powder event starts in 20 seconds!",
+      "translation": "⚑ Событие «Порошок ×2» начнётся через 20 секунд!",
+      "legacy": "§b⚑ §eThe §b2x Powder§e event starts in §a20§e seconds!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "⚑",
+          "target": "⚑"
+        },
+        {
+          "source": "2x Powder",
+          "target": "Порошок ×2"
+        },
+        {
+          "source": "20",
+          "target": "20"
+        }
+      ]
+    },
+    {
+      "source": "This is a passive event! It's happening everywhere in the Crystal Hollows!",
+      "translation": "Это пассивное событие! Оно проходит повсюду в Кристальных пещерах!",
+      "legacy": "§fThis is a passive event! §1It's happening everywhere in the Crystal Hollows!§f",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "It's happening everywhere in the Crystal Hollows!",
+          "target": "Оно проходит повсюду в Кристальных пещерах!"
+        }
+      ]
+    },
+    {
+      "source": "This is a passive event! It's happening everywhere in the Crystal Hollows!",
+      "translation": "Это пассивное событие! Оно проходит повсюду в Кристальных пещерах!",
+      "legacy": "§eThis is a passive event! §bIt's happening everywhere in the Crystal Hollows!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "It's happening everywhere in the Crystal Hollows!",
+          "target": "Оно проходит повсюду в Кристальных пещерах!"
+        }
+      ]
+    },
+    {
+      "source": "This is a passive event! It's happening everywhere in the Dwarven Mines!",
+      "translation": "Это пассивное событие! Оно проходит повсюду в Дварфских шахтах!",
+      "legacy": "§fThis is a passive event! §1It's happening everywhere in the Dwarven Mines!§f",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "It's happening everywhere in the Dwarven Mines!",
+          "target": "Оно проходит повсюду в Дварфских шахтах!"
+        }
+      ]
+    },
+    {
+      "source": "This is a passive event! It's happening everywhere in the Dwarven Mines!",
+      "translation": "Это пассивное событие! Оно проходит повсюду в Дварфских шахтах!",
+      "legacy": "§eThis is a passive event! §bIt's happening everywhere in the Dwarven Mines!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "It's happening everywhere in the Dwarven Mines!",
+          "target": "Оно проходит повсюду в Дварфских шахтах!"
+        }
+      ]
+    },
+    {
+      "source": "An Abyssal Miner breaks out of the water!",
+      "translation": "Из воды вырывается Шахтёр бездны!",
+      "legacy": "§fAn Abyssal Miner breaks out of the water!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "An Abyssal Miner breaks out of the water!",
+      "translation": "Из воды вырывается Шахтёр бездны!",
+      "legacy": "§aAn Abyssal Miner breaks out of the water!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "This doesn't go on your head! Place this in the Accessory Bag found in the Bags section of the SkyBlock Menu!",
+      "translation": "Это не надевают на голову! Поместите предмет в Мешок аксессуаров, который находится в разделе «Сумки» меню SkyBlock!",
+      "legacy": "§fThis doesn't go on your head! Place this in the §1Accessory Bag §ffound in the §2Bags §fsection of the §3SkyBlock Menu§f!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "Accessory Bag ",
+          "target": "Мешок аксессуаров"
+        },
+        {
+          "source": "Bags ",
+          "target": "Сумки"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ]
+    },
+    {
+      "source": "This doesn't go on your head! Place this in the Accessory Bag found in the Bags section of the SkyBlock Menu!",
+      "translation": "Это не надевают на голову! Поместите предмет в Мешок аксессуаров, который находится в разделе «Сумки» меню SkyBlock!",
+      "legacy": "§cThis doesn't go on your head! Place this in the §r§aAccessory Bag §r§cfound in the §r§6Bags §r§csection of the §r§aSkyBlock Menu§r§c!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "Accessory Bag ",
+          "target": "Мешок аксессуаров"
+        },
+        {
+          "source": "Bags ",
+          "target": "Сумки"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ]
+    },
+    {
+      "source": "You claimed a Saul's Recommendation!",
+      "translation": "Вы получили Рекомендацию Сола!",
+      "legacy": "§fYou claimed a §1Saul's Recommendation§f!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "Saul's Recommendation",
+          "target": "Рекомендацию Сола"
+        }
+      ]
+    },
+    {
+      "source": "You claimed a Saul's Recommendation!",
+      "translation": "Вы получили Рекомендацию Сола!",
+      "legacy": "§aYou claimed a §6Saul's Recommendation§a!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "Saul's Recommendation",
+          "target": "Рекомендацию Сола"
+        }
+      ]
+    },
+    {
+      "source": "A long snout breaks the surface of the water. It's an Alligator!",
+      "translation": "Над водой появляется длинная морда. Это Аллигатор!",
+      "legacy": "§fA long snout breaks the surface of the water. It's an Alligator!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "A long snout breaks the surface of the water. It's an Alligator!",
+      "translation": "Над водой появляется длинная морда. Это Аллигатор!",
+      "legacy": "§aA long snout breaks the surface of the water. It's an Alligator!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You were thrown by the Alligator!",
+      "translation": "Аллигатор подбросил вас!",
+      "legacy": "§fYou were thrown by the Alligator!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You were thrown by the Alligator!",
+      "translation": "Аллигатор подбросил вас!",
+      "legacy": "§aYou were thrown by the Alligator!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "The Alligator has you in a DEATH ROLL!",
+      "translation": "Аллигатор схватил вас и устроил СМЕРТЕЛЬНОЕ ВРАЩЕНИЕ!",
+      "legacy": "§fThe Alligator has you in a §1DEATH ROLL§f§2!§f",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "DEATH ROLL",
+          "target": "СМЕРТЕЛЬНОЕ ВРАЩЕНИЕ"
+        },
+        {
+          "source": "!",
+          "target": "!"
+        }
+      ]
+    },
+    {
+      "source": "The Alligator has you in a DEATH ROLL!",
+      "translation": "Аллигатор схватил вас и устроил СМЕРТЕЛЬНОЕ ВРАЩЕНИЕ!",
+      "legacy": "§aThe Alligator has you in a §c§lDEATH ROLL§f!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "DEATH ROLL",
+          "target": "СМЕРТЕЛЬНОЕ ВРАЩЕНИЕ"
+        },
+        {
+          "source": "!",
+          "target": "!"
+        }
+      ]
+    },
+    {
+      "source": "You destroyed an anthill, angering the ants inside!",
+      "translation": "Вы разрушили муравейник и разозлили муравьёв внутри!",
+      "legacy": "§fYou destroyed an anthill, angering the ants inside!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You destroyed an anthill, angering the ants inside!",
+      "translation": "Вы разрушили муравейник и разозлили муравьёв внутри!",
+      "legacy": "§7§oYou destroyed an anthill, angering the ants inside!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "The Ants are protecting their Queen! You'll have to kill them first!",
+      "translation": "Муравьи защищают свою королеву! Сначала придётся убить их!",
+      "legacy": "§fThe Ants are protecting their Queen! You'll have to kill them first!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "The Ants are protecting their Queen! You'll have to kill them first!",
+      "translation": "Муравьи защищают свою королеву! Сначала придётся убить их!",
+      "legacy": "§7§oThe Ants are protecting their Queen! You'll have to kill them first!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You destroyed an anthill and angered its residents!",
+      "translation": "Вы разрушили муравейник и разозлили его обитателей!",
+      "legacy": "§fYou destroyed an anthill and angered its residents!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You destroyed an anthill and angered its residents!",
+      "translation": "Вы разрушили муравейник и разозлили его обитателей!",
+      "legacy": "§7§oYou destroyed an anthill and angered its residents!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "☄ You placed an Arachne's Calling! (1/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (1/4)",
+      "legacy": "§f§1☄§f You placed an §2Arachne's Calling§f! §3(1/4)§f",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(1/4)",
+          "target": "(1/4)"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Calling! (1/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (1/4)",
+      "legacy": "§5☄ §eYou placed an §9Arachne's Calling§e! (§a1§e/§a4§e)",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(1/4)",
+          "target": "(1/4)"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Calling! (2/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (2/4)",
+      "legacy": "§f§1☄§f You placed an §2Arachne's Calling§f! §3(2/4)§f",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(2/4)",
+          "target": "(2/4)"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Calling! (2/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (2/4)",
+      "legacy": "§5☄ §eYou placed an §9Arachne's Calling§e! (§a2§e/§a4§e)",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(2/4)",
+          "target": "(2/4)"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Calling! (3/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (3/4)",
+      "legacy": "§f§1☄§f You placed an §2Arachne's Calling§f! §3(3/4)§f",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(3/4)",
+          "target": "(3/4)"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Calling! (3/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (3/4)",
+      "legacy": "§5☄ §eYou placed an §9Arachne's Calling§e! (§a3§e/§a4§e)",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(3/4)",
+          "target": "(3/4)"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Calling! Something is awakening! (4/4)",
+      "translation": "☄ Вы установили Призыв Арахны! Что-то пробуждается! (4/4)",
+      "legacy": "§f§1☄§f You placed an §2Arachne's Calling§f! Something is awakening! §3(4/4)§f",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(4/4)",
+          "target": "(4/4)"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Calling! Something is awakening! (4/4)",
+      "translation": "☄ Вы установили Призыв Арахны! Что-то пробуждается! (4/4)",
+      "legacy": "§5☄ §eYou placed an §9Arachne's Calling§e! Something is awakening! (§a4§e/§a4§e)",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(4/4)",
+          "target": "(4/4)"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Crystal! Something is awakening!",
+      "translation": "☄ Вы установили Кристалл Арахны! Что-то пробуждается!",
+      "legacy": "§f§1☄§f You placed an §2Arachne's Crystal§f! Something is awakening!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Crystal",
+          "target": "Кристалл Арахны"
+        }
+      ]
+    },
+    {
+      "source": "☄ You placed an Arachne's Crystal! Something is awakening!",
+      "translation": "☄ Вы установили Кристалл Арахны! Что-то пробуждается!",
+      "legacy": "§5☄ §eYou placed an §9Arachne's Crystal§e! Something is awakening!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Crystal",
+          "target": "Кристалл Арахны"
+        }
+      ]
+    },
+    {
+      "source": "You can only use this item in dungeons!",
+      "translation": "Этот предмет можно использовать только в подземельях!",
+      "legacy": "§fYou can only use this item in dungeons!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You can only use this item in dungeons!",
+      "translation": "Этот предмет можно использовать только в подземельях!",
+      "legacy": "§cYou can only use this item in dungeons!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "There are no failed puzzles to reset... for now ;)",
+      "translation": "Нет проваленных головоломок, которые можно начать заново... пока ;)",
+      "legacy": "§fThere are no failed puzzles to reset... for now ;)",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "There are no failed puzzles to reset... for now ;)",
+      "translation": "Нет проваленных головоломок, которые можно начать заново... пока ;)",
+      "legacy": "§cThere are no failed puzzles to reset... for now ;)",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "Your armadillo is Exhausted! *pant pant*",
+      "translation": "Ваш броненосец выдохся! *тяжело дышит*",
+      "legacy": "§fYour armadillo is Exhausted! *pant pant*",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "Your armadillo is Exhausted! *pant pant*",
+      "translation": "Ваш броненосец выдохся! *тяжело дышит*",
+      "legacy": "§eYour armadillo is Exhausted! *pant pant*",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "Your armadillo is full of energy!",
+      "translation": "Ваш броненосец полон сил!",
+      "legacy": "§fYour armadillo is full of energy!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "Your armadillo is full of energy!",
+      "translation": "Ваш броненосец полон сил!",
+      "legacy": "§eYour armadillo is full of energy!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "Rolling miner granted you double drops!",
+      "translation": "Катящийся шахтёр принёс вам двойную добычу!",
+      "legacy": "§fRolling miner granted you double drops!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "Rolling miner granted you double drops!",
+      "translation": "Катящийся шахтёр принёс вам двойную добычу!",
+      "legacy": "§aRolling miner granted you double drops!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "The Armadillo Pet is currently disabled!",
+      "translation": "Питомец Броненосец временно отключён!",
+      "legacy": "§fThe Armadillo Pet is currently disabled!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "The Armadillo Pet is currently disabled!",
+      "translation": "Питомец Броненосец временно отключён!",
+      "legacy": "§cThe Armadillo Pet is currently disabled!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You can only use this item on your private island!",
+      "translation": "Этот предмет можно использовать только на вашем личном острове!",
+      "legacy": "§fYou can only use this item on your private island!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You can only use this item on your private island!",
+      "translation": "Этот предмет можно использовать только на вашем личном острове!",
+      "legacy": "§cYou can only use this item on your private island!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and...nothing happens? For now, at least.",
+      "translation": "Вы делаете глоток и... ничего не происходит? По крайней мере, пока.",
+      "legacy": "§fYou take a sip and...nothing happens? For now, at least.",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and...nothing happens? For now, at least.",
+      "translation": "Вы делаете глоток и... ничего не происходит? По крайней мере, пока.",
+      "legacy": "§7§oYou take a sip and...nothing happens? For now, at least.",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and briefly lose sight in your eyes. Not good!",
+      "translation": "Вы делаете глоток и ненадолго теряете зрение. Ничего хорошего!",
+      "legacy": "§fYou take a sip and briefly lose sight in your eyes. Not good!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and briefly lose sight in your eyes. Not good!",
+      "translation": "Вы делаете глоток и ненадолго теряете зрение. Ничего хорошего!",
+      "legacy": "§7§oYou take a sip and briefly lose sight in your eyes. Not good!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip, and then find yourself laughing. Nervously at first, but then heartily.",
+      "translation": "Вы делаете глоток и вдруг начинаете смеяться. Сначала нервно, а потом от души.",
+      "legacy": "§fYou take a sip, and then find yourself laughing. Nervously at first, but then heartily.",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip, and then find yourself laughing. Nervously at first, but then heartily.",
+      "translation": "Вы делаете глоток и вдруг начинаете смеяться. Сначала нервно, а потом от души.",
+      "legacy": "§7§oYou take a sip, and then find yourself laughing. Nervously at first, but then heartily.",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and bite your lip. Hot hot hot!",
+      "translation": "Вы делаете глоток и прикусываете губу. Горячо, горячо, горячо!",
+      "legacy": "§fYou take a sip and bite your lip. Hot hot hot!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and bite your lip. Hot hot hot!",
+      "translation": "Вы делаете глоток и прикусываете губу. Горячо, горячо, горячо!",
+      "legacy": "§7§oYou take a sip and bite your lip. Hot hot hot!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and sigh as your bones begin to feel heavier.",
+      "translation": "Вы делаете глоток и вздыхаете, чувствуя, как тяжелеют кости.",
+      "legacy": "§fYou take a sip and sigh as your bones begin to feel heavier.",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and sigh as your bones begin to feel heavier.",
+      "translation": "Вы делаете глоток и вздыхаете, чувствуя, как тяжелеют кости.",
+      "legacy": "§7§oYou take a sip and sigh as your bones begin to feel heavier.",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip, and then realise you need to chew. A lot.",
+      "translation": "Вы делаете глоток и понимаете, что придётся жевать. Очень долго.",
+      "legacy": "§fYou take a sip, and then realise you need to chew. A lot.",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip, and then realise you need to chew. A lot.",
+      "translation": "Вы делаете глоток и понимаете, что придётся жевать. Очень долго.",
+      "legacy": "§7§oYou take a sip, and then realise you need to chew. A lot.",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and shoot up into the sky. Don't look down!",
+      "translation": "Вы делаете глоток и взмываете в небо. Не смотрите вниз!",
+      "legacy": "§fYou take a sip and shoot up into the sky. Don't look down!",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and shoot up into the sky. Don't look down!",
+      "translation": "Вы делаете глоток и взмываете в небо. Не смотрите вниз!",
+      "legacy": "§7§oYou take a sip and shoot up into the sky. Don't look down!",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip, and then find yourself sneezing. Again, and again, and again.",
+      "translation": "Вы делаете глоток и начинаете чихать. Снова, снова и снова.",
+      "legacy": "§fYou take a sip, and then find yourself sneezing. Again, and again, and again.",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip, and then find yourself sneezing. Again, and again, and again.",
+      "translation": "Вы делаете глоток и начинаете чихать. Снова, снова и снова.",
+      "legacy": "§7§oYou take a sip, and then find yourself sneezing. Again, and again, and again.",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and the wisdom of generations gone by reaches out to you: pineapple has no place on pizza.",
+      "translation": "Вы делаете глоток, и к вам приходит мудрость былых поколений: ананасу не место на пицце.",
+      "legacy": "§fYou take a sip and the wisdom of generations gone by reaches out to you: pineapple has no place on pizza.",
+      "kind": "primary",
+      "style_anchors": []
+    },
+    {
+      "source": "You take a sip and the wisdom of generations gone by reaches out to you: pineapple has no place on pizza.",
+      "translation": "Вы делаете глоток, и к вам приходит мудрость былых поколений: ананасу не место на пицце.",
+      "legacy": "§7§oYou take a sip and the wisdom of generations gone by reaches out to you: pineapple has no place on pizza.",
+      "kind": "published0",
+      "style_anchors": []
+    },
+    {
+      "source": "EW! You ate a Mayfly Stew. Was it worth it?",
+      "translation": "ФУ! Вы попробовали похлёбку из подёнок. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Mayfly Stew§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Mayfly Stew",
+          "target": "похлёбку из подёнок"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Mayfly Stew. Was it worth it?",
+      "translation": "ФУ! Вы попробовали похлёбку из подёнок. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §6Mayfly Stew§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Mayfly Stew",
+          "target": "похлёбку из подёнок"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Void Porridge. Was it worth it?",
+      "translation": "ФУ! Вы попробовали кашу пустоты. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Void Porridge§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Void Porridge",
+          "target": "кашу пустоты"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Void Porridge. Was it worth it?",
+      "translation": "ФУ! Вы попробовали кашу пустоты. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §5Void Porridge§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Void Porridge",
+          "target": "кашу пустоты"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Spider Eye Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали суп из паучьих глаз. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Spider Eye Soup§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Spider Eye Soup",
+          "target": "суп из паучьих глаз"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Spider Eye Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали суп из паучьих глаз. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §cSpider Eye Soup§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Spider Eye Soup",
+          "target": "суп из паучьих глаз"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Hopefully-not-human Hodgepodge. Was it worth it?",
+      "translation": "ФУ! Вы попробовали солянку не из людей (надеюсь). Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Hopefully-not-human Hodgepodge§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Hopefully-not-human Hodgepodge",
+          "target": "солянку не из людей (надеюсь)"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Hopefully-not-human Hodgepodge. Was it worth it?",
+      "translation": "ФУ! Вы попробовали солянку не из людей (надеюсь). Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §6Hopefully-not-human Hodgepodge§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Hopefully-not-human Hodgepodge",
+          "target": "солянку не из людей (надеюсь)"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Flaming Hot Chilli. Was it worth it?",
+      "translation": "ФУ! Вы попробовали обжигающий чили. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Flaming Hot Chilli§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Flaming Hot Chilli",
+          "target": "обжигающий чили"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Flaming Hot Chilli. Was it worth it?",
+      "translation": "ФУ! Вы попробовали обжигающий чили. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §aFlaming Hot Chilli§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Flaming Hot Chilli",
+          "target": "обжигающий чили"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Smelly Jelly. Was it worth it?",
+      "translation": "ФУ! Вы попробовали вонючее желе. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Smelly Jelly§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Smelly Jelly",
+          "target": "вонючее желе"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Smelly Jelly. Was it worth it?",
+      "translation": "ФУ! Вы попробовали вонючее желе. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §aSmelly Jelly§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Smelly Jelly",
+          "target": "вонючее желе"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Straight Ice Slushie. Was it worth it?",
+      "translation": "ФУ! Вы попробовали слаш из чистого льда. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Straight Ice Slushie§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Straight Ice Slushie",
+          "target": "слаш из чистого льда"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Straight Ice Slushie. Was it worth it?",
+      "translation": "ФУ! Вы попробовали слаш из чистого льда. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §9Straight Ice Slushie§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Straight Ice Slushie",
+          "target": "слаш из чистого льда"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Withering Purée. Was it worth it?",
+      "translation": "ФУ! Вы попробовали иссушающее пюре. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Withering Purée§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Withering Purée",
+          "target": "иссушающее пюре"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Withering Purée. Was it worth it?",
+      "translation": "ФУ! Вы попробовали иссушающее пюре. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §fWithering Purée§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Withering Purée",
+          "target": "иссушающее пюре"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Gemstone Goulash. Was it worth it?",
+      "translation": "ФУ! Вы попробовали самоцветный гуляш. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Gemstone Goulash§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Gemstone Goulash",
+          "target": "самоцветный гуляш"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Gemstone Goulash. Was it worth it?",
+      "translation": "ФУ! Вы попробовали самоцветный гуляш. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §6Gemstone Goulash§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Gemstone Goulash",
+          "target": "самоцветный гуляш"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Waterlice Liquor. Was it worth it?",
+      "translation": "ФУ! Вы попробовали ликёр из водяных вшей. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Waterlice Liquor§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Waterlice Liquor",
+          "target": "ликёр из водяных вшей"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Waterlice Liquor. Was it worth it?",
+      "translation": "ФУ! Вы попробовали ликёр из водяных вшей. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §bWaterlice Liquor§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Waterlice Liquor",
+          "target": "ликёр из водяных вшей"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Frogspawn Chowder. Was it worth it?",
+      "translation": "ФУ! Вы попробовали чаудер из лягушачьей икры. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Frogspawn Chowder§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Frogspawn Chowder",
+          "target": "чаудер из лягушачьей икры"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Frogspawn Chowder. Was it worth it?",
+      "translation": "ФУ! Вы попробовали чаудер из лягушачьей икры. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §aFrogspawn Chowder§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Frogspawn Chowder",
+          "target": "чаудер из лягушачьей икры"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Effervescent Bouillon. Was it worth it?",
+      "translation": "ФУ! Вы попробовали шипучий бульон. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Effervescent Bouillon§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Effervescent Bouillon",
+          "target": "шипучий бульон"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Effervescent Bouillon. Was it worth it?",
+      "translation": "ФУ! Вы попробовали шипучий бульон. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §dEffervescent Bouillon§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Effervescent Bouillon",
+          "target": "шипучий бульон"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Electronic Elixir. Was it worth it?",
+      "translation": "ФУ! Вы попробовали электронный эликсир. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Electronic Elixir§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Electronic Elixir",
+          "target": "электронный эликсир"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Electronic Elixir. Was it worth it?",
+      "translation": "ФУ! Вы попробовали электронный эликсир. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §6Electronic Elixir§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Electronic Elixir",
+          "target": "электронный эликсир"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Spellweaver's Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали суп ткача заклинаний. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Spellweaver's Soup§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Spellweaver's Soup",
+          "target": "суп ткача заклинаний"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Spellweaver's Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали суп ткача заклинаний. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §5Spellweaver's Soup§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Spellweaver's Soup",
+          "target": "суп ткача заклинаний"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Dusty Bisque. Was it worth it?",
+      "translation": "ФУ! Вы попробовали пыльный биск. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Dusty Bisque§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Dusty Bisque",
+          "target": "пыльный биск"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Dusty Bisque. Was it worth it?",
+      "translation": "ФУ! Вы попробовали пыльный биск. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §6Dusty Bisque§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Dusty Bisque",
+          "target": "пыльный биск"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Aerodynamic Potpourri. Was it worth it?",
+      "translation": "ФУ! Вы попробовали аэродинамическое попурри. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Aerodynamic Potpourri§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Aerodynamic Potpourri",
+          "target": "аэродинамическое попурри"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Aerodynamic Potpourri. Was it worth it?",
+      "translation": "ФУ! Вы попробовали аэродинамическое попурри. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §8Aerodynamic Potpourri§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Aerodynamic Potpourri",
+          "target": "аэродинамическое попурри"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Bone Broth. Was it worth it?",
+      "translation": "ФУ! Вы попробовали костный бульон. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Bone Broth§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Bone Broth",
+          "target": "костный бульон"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Bone Broth. Was it worth it?",
+      "translation": "ФУ! Вы попробовали костный бульон. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §fBone Broth§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Bone Broth",
+          "target": "костный бульон"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Knockoff Glacite Gumbo. Was it worth it?",
+      "translation": "ФУ! Вы попробовали поддельный глацитовый гамбо. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Knockoff Glacite Gumbo§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Knockoff Glacite Gumbo",
+          "target": "поддельный глацитовый гамбо"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Knockoff Glacite Gumbo. Was it worth it?",
+      "translation": "ФУ! Вы попробовали поддельный глацитовый гамбо. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §9Knockoff Glacite Gumbo§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Knockoff Glacite Gumbo",
+          "target": "поддельный глацитовый гамбо"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Cremated Cereal. Was it worth it?",
+      "translation": "ФУ! Вы попробовали кремированные хлопья. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Cremated Cereal§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Cremated Cereal",
+          "target": "кремированные хлопья"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Cremated Cereal. Was it worth it?",
+      "translation": "ФУ! Вы попробовали кремированные хлопья. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §cCremated Cereal§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Cremated Cereal",
+          "target": "кремированные хлопья"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Leafy Lentil Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали чечевичный суп с листвой. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Leafy Lentil Soup§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Leafy Lentil Soup",
+          "target": "чечевичный суп с листвой"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Leafy Lentil Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали чечевичный суп с листвой. Оно того стоило?",
+      "legacy": "§c§lEW! §eYou ate a §aLeafy Lentil Soup§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Leafy Lentil Soup",
+          "target": "чечевичный суп с листвой"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Insect Casserole. Was it worth it?",
+      "translation": "ФУ! Вы попробовали запеканку из насекомых. Оно того стоило?",
+      "legacy": "§f§1EW!§f You ate a §2Insect Casserole§f. Was it worth it?",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Insect Casserole",
+          "target": "запеканку из насекомых"
+        }
+      ]
+    },
+    {
+      "source": "EW! You ate a Insect Casserole. Was it worth it?",
+      "translation": "ФУ! Вы попробовали запеканку из насекомых. Оно того стоило?",
+      "legacy": "§c§lEW! §r§eYou ate a §aInsect Casserole§e. Was it worth it?",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Insect Casserole",
+          "target": "запеканку из насекомых"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Gold Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Золотой малыш»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Gold Baby§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Gold Baby",
+          "target": "Золотой малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Gold Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Золотой малыш»!",
+      "legacy": "§6§lANCIENT! §aYou swapped to the §6Gold Baby§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Gold Baby",
+          "target": "Золотой малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Blue Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Синий малыш»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Blue Baby§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Blue Baby",
+          "target": "Синий малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Blue Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Синий малыш»!",
+      "legacy": "§b§lANCIENT! §aYou swapped to the §bBlue Baby§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Blue Baby",
+          "target": "Синий малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Green Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Зелёный малыш»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Green Baby§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Green Baby",
+          "target": "Зелёный малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Green Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Зелёный малыш»!",
+      "legacy": "§a§lANCIENT! §aYou swapped to the §aGreen Baby§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Green Baby",
+          "target": "Зелёный малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Red Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Красный малыш»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Red Baby§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Red Baby",
+          "target": "Красный малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Red Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Красный малыш»!",
+      "legacy": "§c§lANCIENT! §aYou swapped to the §cRed Baby§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Red Baby",
+          "target": "Красный малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Purple Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Фиолетовый малыш»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Purple Baby§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Purple Baby",
+          "target": "Фиолетовый малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Purple Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Фиолетовый малыш»!",
+      "legacy": "§d§lANCIENT! §aYou swapped to the §dPurple Baby§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Purple Baby",
+          "target": "Фиолетовый малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Black Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Чёрный малыш»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Black Baby§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Black Baby",
+          "target": "Чёрный малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Black Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Чёрный малыш»!",
+      "legacy": "§8§lANCIENT! §aYou swapped to the §8Black Baby§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Black Baby",
+          "target": "Чёрный малыш"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Gold Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Золотой древний»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Gold Ancient§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Gold Ancient",
+          "target": "Золотой древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Gold Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Золотой древний»!",
+      "legacy": "§6§lANCIENT! §aYou swapped to the §6Gold Ancient§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Gold Ancient",
+          "target": "Золотой древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Blue Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Синий древний»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Blue Ancient§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Blue Ancient",
+          "target": "Синий древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Blue Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Синий древний»!",
+      "legacy": "§b§lANCIENT! §aYou swapped to the §bBlue Ancient§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Blue Ancient",
+          "target": "Синий древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Green Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Зелёный древний»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Green Ancient§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Green Ancient",
+          "target": "Зелёный древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Green Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Зелёный древний»!",
+      "legacy": "§a§lANCIENT! §aYou swapped to the §aGreen Ancient§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Green Ancient",
+          "target": "Зелёный древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Red Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Красный древний»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Red Ancient§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Red Ancient",
+          "target": "Красный древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Red Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Красный древний»!",
+      "legacy": "§c§lANCIENT! §aYou swapped to the §cRed Ancient§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Red Ancient",
+          "target": "Красный древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Purple Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Фиолетовый древний»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Purple Ancient§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Purple Ancient",
+          "target": "Фиолетовый древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Purple Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Фиолетовый древний»!",
+      "legacy": "§d§lANCIENT! §aYou swapped to the §dPurple Ancient§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Purple Ancient",
+          "target": "Фиолетовый древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Black Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Чёрный древний»!",
+      "legacy": "§f§1ANCIENT!§f You swapped to the §2Black Ancient§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Black Ancient",
+          "target": "Чёрный древний"
+        }
+      ]
+    },
+    {
+      "source": "ANCIENT! You swapped to the Black Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Чёрный древний»!",
+      "legacy": "§8§lANCIENT! §aYou swapped to the §8Black Ancient§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Black Ancient",
+          "target": "Чёрный древний"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Necron skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Некрон»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Necron§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Necron",
+          "target": "Некрон"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Necron skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Некрон»!",
+      "legacy": "§4§lAWAKENED! §aYou swapped to the §4Necron§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Necron",
+          "target": "Некрон"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Storm skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Шторм»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Storm§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Storm",
+          "target": "Шторм"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Storm skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Шторм»!",
+      "legacy": "§3§lAWAKENED! §aYou swapped to the §3Storm§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Storm",
+          "target": "Шторм"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Maxor skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Максор»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Maxor§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Maxor",
+          "target": "Максор"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Maxor skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Максор»!",
+      "legacy": "§5§lAWAKENED! §aYou swapped to the §5Maxor§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Maxor",
+          "target": "Максор"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Goldor skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Голдор»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Goldor§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Goldor",
+          "target": "Голдор"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Goldor skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Голдор»!",
+      "legacy": "§8§lAWAKENED! §aYou swapped to the §8Goldor§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Goldor",
+          "target": "Голдор"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Black Ice skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Чёрный лёд»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Black Ice§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Black Ice",
+          "target": "Чёрный лёд"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Black Ice skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Чёрный лёд»!",
+      "legacy": "§8§lAWAKENED! §aYou swapped to the §8Black Ice§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Black Ice",
+          "target": "Чёрный лёд"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Purple skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Фиолетовый»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Purple§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Purple",
+          "target": "Фиолетовый"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Purple skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Фиолетовый»!",
+      "legacy": "§5§lAWAKENED! §aYou swapped to the §5Purple§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Purple",
+          "target": "Фиолетовый"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Portal skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Портал»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Portal§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Portal",
+          "target": "Портал"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Portal skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Портал»!",
+      "legacy": "§5§lAWAKENED! §aYou swapped to the §5Portal§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Portal",
+          "target": "Портал"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Azure skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Лазурный»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Azure§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Azure",
+          "target": "Лазурный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Azure skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Лазурный»!",
+      "legacy": "§9§lAWAKENED! §aYou swapped to the §9Azure§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Azure",
+          "target": "Лазурный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Teal skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Сине-зелёный»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Teal§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Teal",
+          "target": "Сине-зелёный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Teal skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Сине-зелёный»!",
+      "legacy": "§3§lAWAKENED! §aYou swapped to the §3Teal§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Teal",
+          "target": "Сине-зелёный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Aurora skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Северное сияние»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Aurora§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Aurora",
+          "target": "Северное сияние"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Aurora skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Северное сияние»!",
+      "legacy": "§3§lAWAKENED! §aYou swapped to the §3Aurora§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Aurora",
+          "target": "Северное сияние"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Blue skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Синий»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Blue§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Blue",
+          "target": "Синий"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Blue skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Синий»!",
+      "legacy": "§b§lAWAKENED! §aYou swapped to the §bBlue§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Blue",
+          "target": "Синий"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Pastel skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Пастельный»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Pastel§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Pastel",
+          "target": "Пастельный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Pastel skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Пастельный»!",
+      "legacy": "§b§lAWAKENED! §aYou swapped to the §bPastel§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Pastel",
+          "target": "Пастельный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Oasis skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Оазис»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Oasis§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Oasis",
+          "target": "Оазис"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Oasis skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Оазис»!",
+      "legacy": "§b§lAWAKENED! §aYou swapped to the §bOasis§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Oasis",
+          "target": "Оазис"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Snowflake skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Снежинка»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Snowflake§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Snowflake",
+          "target": "Снежинка"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Snowflake skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Снежинка»!",
+      "legacy": "§f§lAWAKENED! §aYou swapped to the §fSnowflake§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Snowflake",
+          "target": "Снежинка"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Sunset skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Закат»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Sunset§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Sunset",
+          "target": "Закат"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Sunset skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Закат»!",
+      "legacy": "§d§lAWAKENED! §aYou swapped to the §dSunset§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Sunset",
+          "target": "Закат"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Pink skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Розовый»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Pink§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Pink",
+          "target": "Розовый"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Pink skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Розовый»!",
+      "legacy": "§d§lAWAKENED! §aYou swapped to the §dPink§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Pink",
+          "target": "Розовый"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Rose skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Роза»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Rose§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Rose",
+          "target": "Роза"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Rose skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Роза»!",
+      "legacy": "§c§lAWAKENED! §aYou swapped to the §cRose§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Rose",
+          "target": "Роза"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Red skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Красный»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Red§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Red",
+          "target": "Красный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Red skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Красный»!",
+      "legacy": "§c§lAWAKENED! §aYou swapped to the §cRed§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Red",
+          "target": "Красный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Orange skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Оранжевый»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Orange§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Orange",
+          "target": "Оранжевый"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Orange skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Оранжевый»!",
+      "legacy": "§6§lAWAKENED! §aYou swapped to the §6Orange§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Orange",
+          "target": "Оранжевый"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Gold skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Золотой»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Gold§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Gold",
+          "target": "Золотой"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Gold skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Золотой»!",
+      "legacy": "§e§lAWAKENED! §aYou swapped to the §eGold§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Gold",
+          "target": "Золотой"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Lime skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Лаймовый»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Lime§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Lime",
+          "target": "Лаймовый"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Lime skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Лаймовый»!",
+      "legacy": "§a§lAWAKENED! §aYou swapped to the §aLime§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Lime",
+          "target": "Лаймовый"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Green skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Зелёный»!",
+      "legacy": "§f§1AWAKENED!§f You swapped to the §2Green§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Green",
+          "target": "Зелёный"
+        }
+      ]
+    },
+    {
+      "source": "AWAKENED! You swapped to the Green skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Зелёный»!",
+      "legacy": "§2§lAWAKENED! §aYou swapped to the §2Green§a skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Green",
+          "target": "Зелёный"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Jade skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Нефрит»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Jade§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Jade",
+          "target": "Нефрит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Jade skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Нефрит»!",
+      "legacy": "§2§lCUTE! §r§aYou swapped to the §2Jade §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Jade",
+          "target": "Нефрит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Emerald skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Изумруд»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Emerald§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Emerald",
+          "target": "Изумруд"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Emerald skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Изумруд»!",
+      "legacy": "§2§lCUTE! §r§aYou swapped to the §2Emerald §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Emerald",
+          "target": "Изумруд"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Peridot skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Хризолит»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Peridot§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Peridot",
+          "target": "Хризолит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Peridot skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Хризолит»!",
+      "legacy": "§a§lCUTE! §r§aYou swapped to the Peridot skin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Peridot",
+          "target": "Хризолит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Topaz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Топаз»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Topaz§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Topaz",
+          "target": "Топаз"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Topaz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Топаз»!",
+      "legacy": "§e§lCUTE! §r§aYou swapped to the §eTopaz §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Topaz",
+          "target": "Топаз"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Amber skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Янтарь»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Amber§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Amber",
+          "target": "Янтарь"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Amber skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Янтарь»!",
+      "legacy": "§6§lCUTE! §r§aYou swapped to the §6Amber §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Amber",
+          "target": "Янтарь"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Rutile skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Рутил»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Rutile§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Rutile",
+          "target": "Рутил"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Rutile skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Рутил»!",
+      "legacy": "§4§lCUTE! §r§aYou swapped to the §4Rutile §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Rutile",
+          "target": "Рутил"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Ruby skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Рубин»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Ruby§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Ruby",
+          "target": "Рубин"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Ruby skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Рубин»!",
+      "legacy": "§4§lCUTE! §r§aYou swapped to the §4Ruby §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Ruby",
+          "target": "Рубин"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Agate skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Агат»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Agate§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Agate",
+          "target": "Агат"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Agate skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Агат»!",
+      "legacy": "§5§lCUTE! §r§aYou swapped to the §5Agate §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Agate",
+          "target": "Агат"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Rose Quartz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Розовый кварц»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Rose Quartz§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Rose Quartz",
+          "target": "Розовый кварц"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Rose Quartz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Розовый кварц»!",
+      "legacy": "§d§lCUTE! §r§aYou swapped to the §dRose Quartz §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Rose Quartz",
+          "target": "Розовый кварц"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Amethyst skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Аметист»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Amethyst§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Amethyst",
+          "target": "Аметист"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Amethyst skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Аметист»!",
+      "legacy": "§5§lCUTE! §r§aYou swapped to the §5Amethyst §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Amethyst",
+          "target": "Аметист"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Purpurite skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Пурпурит»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Purpurite§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Purpurite",
+          "target": "Пурпурит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Purpurite skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Пурпурит»!",
+      "legacy": "§5§lCUTE! §r§aYou swapped to the §5Purpurite §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Purpurite",
+          "target": "Пурпурит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Lapis Lazuli skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Лазурит»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Lapis Lazuli§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Lapis Lazuli",
+          "target": "Лазурит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Lapis Lazuli skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Лазурит»!",
+      "legacy": "§9§lCUTE! §r§aYou swapped to the §9Lapis Lazuli §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Lapis Lazuli",
+          "target": "Лазурит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Sapphire skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Сапфир»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Sapphire§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Sapphire",
+          "target": "Сапфир"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Sapphire skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Сапфир»!",
+      "legacy": "§9§lCUTE! §r§aYou swapped to the §9Sapphire §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Sapphire",
+          "target": "Сапфир"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Turquiose skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Бирюза»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Turquiose§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Turquiose",
+          "target": "Бирюза"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Turquiose skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Бирюза»!",
+      "legacy": "§3§lCUTE! §r§aYou swapped to the §3Turquiose §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Turquiose",
+          "target": "Бирюза"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Diamond skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Алмаз»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Diamond§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Diamond",
+          "target": "Алмаз"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Diamond skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Алмаз»!",
+      "legacy": "§b§lCUTE! §r§aYou swapped to the §bDiamond §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Diamond",
+          "target": "Алмаз"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Quartz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Кварц»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Quartz§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Quartz",
+          "target": "Кварц"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Quartz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Кварц»!",
+      "legacy": "§f§lCUTE! §r§aYou swapped to the §fQuartz §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Quartz",
+          "target": "Кварц"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Moonstone skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Лунный камень»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Moonstone§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Moonstone",
+          "target": "Лунный камень"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Moonstone skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Лунный камень»!",
+      "legacy": "§7§lCUTE! §r§aYou swapped to the §7Moonstone §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Moonstone",
+          "target": "Лунный камень"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Hematite skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Гематит»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Hematite§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Hematite",
+          "target": "Гематит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Hematite skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Гематит»!",
+      "legacy": "§8§lCUTE! §r§aYou swapped to the §8Hematite §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Hematite",
+          "target": "Гематит"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Onyx skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Оникс»!",
+      "legacy": "§f§1CUTE!§f You swapped to the §2Onyx§f skin!",
+      "kind": "primary",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Onyx",
+          "target": "Оникс"
+        }
+      ]
+    },
+    {
+      "source": "CUTE! You swapped to the Onyx skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Оникс»!",
+      "legacy": "§8§lCUTE! §r§aYou swapped to the §8Onyx §askin!",
+      "kind": "published0",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Onyx",
+          "target": "Оникс"
+        }
+      ]
+    }
+  ]
+}

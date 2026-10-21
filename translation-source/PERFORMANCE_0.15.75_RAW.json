@@ -1,0 +1,767 @@
+{
+  "version": "0.15.75-dev",
+  "scope": "Four isolated JVMs,74/75/75/74;all wall,CPU,allocation rounds. New positives do extra translation work. Not game rendering,FPS or0.1%low.",
+  "actual_game_fps_measured": false,
+  "results": {
+    "scope": "Four isolated JVMs in74,75,75,74 order;all rounds retained;receipt API,not game FPS or frame timing",
+    "summary": [
+      {
+        "mode": "unknown",
+        "equal_useful_output": true,
+        "orders": [
+          {
+            "before_ns": 3749.30375,
+            "before_bytes": 22656.0,
+            "after_ns": 3711.95125,
+            "wall_change_percent": -0.9962516373873354,
+            "before_thread_cpu_ns": 3515.625,
+            "after_bytes": 22656.0,
+            "after_thread_cpu_ns": 3515.625
+          },
+          {
+            "before_ns": 3704.11125,
+            "before_bytes": 22656.0,
+            "after_ns": 3715.8575,
+            "wall_change_percent": 0.31711385558412797,
+            "before_thread_cpu_ns": 3515.625,
+            "after_bytes": 22656.0,
+            "after_thread_cpu_ns": 3710.9375
+          }
+        ]
+      },
+      {
+        "mode": "existing",
+        "equal_useful_output": true,
+        "orders": [
+          {
+            "before_ns": 867.20875,
+            "before_bytes": 4376.0,
+            "after_ns": 850.6,
+            "wall_change_percent": -1.9151963123065774,
+            "before_thread_cpu_ns": 781.25,
+            "after_bytes": 4152.0,
+            "after_thread_cpu_ns": 781.25
+          },
+          {
+            "before_ns": 875.44875,
+            "before_bytes": 4376.0,
+            "after_ns": 843.84625,
+            "wall_change_percent": -3.609862941719888,
+            "before_thread_cpu_ns": 781.25,
+            "after_bytes": 4152.0,
+            "after_thread_cpu_ns": 781.25
+          }
+        ]
+      },
+      {
+        "mode": "existing74",
+        "equal_useful_output": true,
+        "orders": [
+          {
+            "before_ns": 6884.28125,
+            "before_bytes": 26113.6,
+            "after_ns": 7170.30625,
+            "wall_change_percent": 4.154754717495024,
+            "before_thread_cpu_ns": 6835.9375,
+            "after_bytes": 25774.4,
+            "after_thread_cpu_ns": 6835.9375
+          },
+          {
+            "before_ns": 7349.713750000001,
+            "before_bytes": 26113.6,
+            "after_ns": 7003.20875,
+            "wall_change_percent": -4.714537351879877,
+            "before_thread_cpu_ns": 7421.875,
+            "after_bytes": 25774.4,
+            "after_thread_cpu_ns": 6835.9375
+          }
+        ]
+      },
+      {
+        "mode": "new_intro",
+        "equal_useful_output": false,
+        "orders": [
+          {
+            "before_ns": 3899.79625,
+            "before_bytes": 23246.4,
+            "after_ns": 4848.516250000001,
+            "wall_change_percent": 24.327424798154528,
+            "before_thread_cpu_ns": 3710.9375,
+            "after_bytes": 25097.6,
+            "after_thread_cpu_ns": 4882.8125
+          },
+          {
+            "before_ns": 3903.8374999999996,
+            "before_bytes": 23246.4,
+            "after_ns": 4408.99375,
+            "wall_change_percent": 12.939991738897948,
+            "before_thread_cpu_ns": 3906.25,
+            "after_bytes": 25097.6,
+            "after_thread_cpu_ns": 4296.875
+          }
+        ]
+      },
+      {
+        "mode": "new_phone",
+        "equal_useful_output": false,
+        "orders": [
+          {
+            "before_ns": 3851.37125,
+            "before_bytes": 24024.0,
+            "after_ns": 4202.7175,
+            "wall_change_percent": 9.122627427828455,
+            "before_thread_cpu_ns": 3906.25,
+            "after_bytes": 25568.0,
+            "after_thread_cpu_ns": 4101.5625
+          },
+          {
+            "before_ns": 3893.15875,
+            "before_bytes": 24024.0,
+            "after_ns": 4225.77,
+            "wall_change_percent": 8.543480278064708,
+            "before_thread_cpu_ns": 3906.25,
+            "after_bytes": 25568.0,
+            "after_thread_cpu_ns": 3906.25
+          }
+        ]
+      },
+      {
+        "mode": "choice",
+        "equal_useful_output": false,
+        "orders": [
+          {
+            "before_ns": 5114.64875,
+            "before_bytes": 21080.0,
+            "after_ns": 2278.365,
+            "wall_change_percent": -55.45412575985791,
+            "before_thread_cpu_ns": 4882.8125,
+            "after_bytes": 8912.0,
+            "after_thread_cpu_ns": 2148.4375
+          },
+          {
+            "before_ns": 4680.24625,
+            "before_bytes": 21080.0,
+            "after_ns": 2200.31875,
+            "wall_change_percent": -52.987115795456276,
+            "before_thread_cpu_ns": 4687.5,
+            "after_bytes": 8912.0,
+            "after_thread_cpu_ns": 2148.4375
+          }
+        ]
+      }
+    ],
+    "records": [
+      {
+        "version": "0.15.74-dev",
+        "results": {
+          "unknown": {
+            "ns_per_message": 3749.30375,
+            "thread_cpu_ns_per_message": 3515.625,
+            "bytes_per_message": 22656.0,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              3745.24,
+              3777.865,
+              3753.3675,
+              3730.995
+            ],
+            "rounds_cpu_ns": [
+              3515.625,
+              3515.625,
+              3906.25,
+              3515.625
+            ],
+            "rounds_bytes": [
+              22656.0054,
+              22656.0,
+              22656.0,
+              22656.0
+            ]
+          },
+          "existing": {
+            "ns_per_message": 867.20875,
+            "thread_cpu_ns_per_message": 781.25,
+            "bytes_per_message": 4376.0,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              856.8675,
+              867.125,
+              868.565,
+              867.2925
+            ],
+            "rounds_cpu_ns": [
+              1171.875,
+              781.25,
+              781.25,
+              781.25
+            ],
+            "rounds_bytes": [
+              4376.0,
+              4376.0,
+              4376.0,
+              4376.0
+            ]
+          },
+          "existing74": {
+            "ns_per_message": 6884.28125,
+            "thread_cpu_ns_per_message": 6835.9375,
+            "bytes_per_message": 26113.6,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              6964.045,
+              6804.5175,
+              6016.7225,
+              7062.72
+            ],
+            "rounds_cpu_ns": [
+              7031.25,
+              6640.625,
+              5859.375,
+              7031.25
+            ],
+            "rounds_bytes": [
+              26113.6,
+              26113.6,
+              26113.6,
+              26113.6
+            ]
+          },
+          "new_intro": {
+            "ns_per_message": 3899.79625,
+            "thread_cpu_ns_per_message": 3710.9375,
+            "bytes_per_message": 23246.4,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              3898.6575,
+              3968.89,
+              3896.8625,
+              3900.935
+            ],
+            "rounds_cpu_ns": [
+              3515.625,
+              3906.25,
+              3515.625,
+              3906.25
+            ],
+            "rounds_bytes": [
+              23246.4,
+              23246.4,
+              23246.4,
+              23246.4
+            ]
+          },
+          "new_phone": {
+            "ns_per_message": 3851.37125,
+            "thread_cpu_ns_per_message": 3906.25,
+            "bytes_per_message": 24024.0,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              3845.5525,
+              3848.6975,
+              3867.6325,
+              3854.045
+            ],
+            "rounds_cpu_ns": [
+              3906.25,
+              3906.25,
+              3515.625,
+              3906.25
+            ],
+            "rounds_bytes": [
+              24024.0,
+              24024.0,
+              24024.0,
+              24024.0
+            ]
+          },
+          "choice": {
+            "ns_per_message": 5114.64875,
+            "thread_cpu_ns_per_message": 4882.8125,
+            "bytes_per_message": 21080.0,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              4755.445,
+              5469.445,
+              6211.385,
+              4759.8525
+            ],
+            "rounds_cpu_ns": [
+              4296.875,
+              5468.75,
+              5468.75,
+              4296.875
+            ],
+            "rounds_bytes": [
+              21080.0,
+              21080.0,
+              21080.0,
+              21080.0
+            ]
+          },
+          "scope": "Four rounds of40000 receipt calls/mode,200000 warmup calls;all provider setup outside timed regions. New positives translate additional content;not equal work. Calling-thread CPU is coarse on Windows. Not render/font/world/GPU/FPS/frame-time measurement."
+        },
+        "index": 0,
+        "jar_sha256": "F07822E5F0D3A8753D8E770C196B5EED471828A33B10702BBBB404211147EB18"
+      },
+      {
+        "version": "0.15.75-dev",
+        "results": {
+          "unknown": {
+            "ns_per_message": 3711.95125,
+            "thread_cpu_ns_per_message": 3515.625,
+            "bytes_per_message": 22656.0,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              3694.61,
+              3730.5975,
+              3723.89,
+              3700.0125
+            ],
+            "rounds_cpu_ns": [
+              3515.625,
+              3906.25,
+              3515.625,
+              3515.625
+            ],
+            "rounds_bytes": [
+              22656.0054,
+              22656.0,
+              22656.0,
+              22656.0
+            ]
+          },
+          "existing": {
+            "ns_per_message": 850.6,
+            "thread_cpu_ns_per_message": 781.25,
+            "bytes_per_message": 4152.0,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              850.1775,
+              855.15,
+              847.175,
+              851.0225
+            ],
+            "rounds_cpu_ns": [
+              781.25,
+              781.25,
+              1171.875,
+              781.25
+            ],
+            "rounds_bytes": [
+              4152.0,
+              4152.0,
+              4152.0,
+              4152.0
+            ]
+          },
+          "existing74": {
+            "ns_per_message": 7170.30625,
+            "thread_cpu_ns_per_message": 6835.9375,
+            "bytes_per_message": 25774.4,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              7002.4025,
+              7426.395,
+              6591.805,
+              7338.21
+            ],
+            "rounds_cpu_ns": [
+              7031.25,
+              7031.25,
+              5859.375,
+              6640.625
+            ],
+            "rounds_bytes": [
+              25774.4,
+              25774.4,
+              25774.4,
+              25774.4
+            ]
+          },
+          "new_intro": {
+            "ns_per_message": 4848.516250000001,
+            "thread_cpu_ns_per_message": 4882.8125,
+            "bytes_per_message": 25097.6,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              4481.8675,
+              6488.1375,
+              5215.165,
+              4360.2925
+            ],
+            "rounds_cpu_ns": [
+              4296.875,
+              6250.0,
+              5468.75,
+              3906.25
+            ],
+            "rounds_bytes": [
+              25097.6,
+              25097.6,
+              25097.6,
+              25097.6
+            ]
+          },
+          "new_phone": {
+            "ns_per_message": 4202.7175,
+            "thread_cpu_ns_per_message": 4101.5625,
+            "bytes_per_message": 25568.0,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              4214.0125,
+              4192.2925,
+              4213.1425,
+              4163.31
+            ],
+            "rounds_cpu_ns": [
+              3515.625,
+              4296.875,
+              4296.875,
+              3906.25
+            ],
+            "rounds_bytes": [
+              25568.0,
+              25568.0,
+              25568.0,
+              25568.0
+            ]
+          },
+          "choice": {
+            "ns_per_message": 2278.365,
+            "thread_cpu_ns_per_message": 2148.4375,
+            "bytes_per_message": 8912.0,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              2225.305,
+              2331.425,
+              2852.16,
+              2218.3425
+            ],
+            "rounds_cpu_ns": [
+              1953.125,
+              2343.75,
+              3125.0,
+              1953.125
+            ],
+            "rounds_bytes": [
+              8912.0,
+              8912.0,
+              8912.0,
+              8912.0
+            ]
+          },
+          "scope": "Four rounds of40000 receipt calls/mode,200000 warmup calls;all provider setup outside timed regions. New positives translate additional content;not equal work. Calling-thread CPU is coarse on Windows. Not render/font/world/GPU/FPS/frame-time measurement."
+        },
+        "index": 1,
+        "jar_sha256": "24ADA8A3A7B5757274ECAA2792730F52E75250B3E6E6DFAD5C823F967084D3D6"
+      },
+      {
+        "version": "0.15.75-dev",
+        "results": {
+          "unknown": {
+            "ns_per_message": 3715.8575,
+            "thread_cpu_ns_per_message": 3710.9375,
+            "bytes_per_message": 22656.0,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              3724.34,
+              3739.5675,
+              3707.375,
+              3707.3575
+            ],
+            "rounds_cpu_ns": [
+              3906.25,
+              3515.625,
+              3906.25,
+              3515.625
+            ],
+            "rounds_bytes": [
+              22656.0054,
+              22656.0,
+              22656.0,
+              22656.0
+            ]
+          },
+          "existing": {
+            "ns_per_message": 843.84625,
+            "thread_cpu_ns_per_message": 781.25,
+            "bytes_per_message": 4152.0,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              840.7925,
+              845.9625,
+              852.0675,
+              841.73
+            ],
+            "rounds_cpu_ns": [
+              1171.875,
+              781.25,
+              781.25,
+              781.25
+            ],
+            "rounds_bytes": [
+              4152.0,
+              4152.0,
+              4152.0,
+              4152.0
+            ]
+          },
+          "existing74": {
+            "ns_per_message": 7003.20875,
+            "thread_cpu_ns_per_message": 6835.9375,
+            "bytes_per_message": 25774.4,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              6972.8025,
+              7445.89,
+              6501.54,
+              7033.615
+            ],
+            "rounds_cpu_ns": [
+              7031.25,
+              7031.25,
+              6640.625,
+              6250.0
+            ],
+            "rounds_bytes": [
+              25774.4,
+              25774.4,
+              25774.4,
+              25774.4
+            ]
+          },
+          "new_intro": {
+            "ns_per_message": 4408.99375,
+            "thread_cpu_ns_per_message": 4296.875,
+            "bytes_per_message": 25097.6,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              4415.865,
+              4416.0975,
+              4402.1225,
+              4397.715
+            ],
+            "rounds_cpu_ns": [
+              4687.5,
+              4296.875,
+              3906.25,
+              4296.875
+            ],
+            "rounds_bytes": [
+              25097.6,
+              25097.6,
+              25097.6,
+              25097.6
+            ]
+          },
+          "new_phone": {
+            "ns_per_message": 4225.77,
+            "thread_cpu_ns_per_message": 3906.25,
+            "bytes_per_message": 25568.0,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              4265.355,
+              4220.3025,
+              4231.2375,
+              4220.2825
+            ],
+            "rounds_cpu_ns": [
+              3906.25,
+              3906.25,
+              3906.25,
+              4296.875
+            ],
+            "rounds_bytes": [
+              25568.0,
+              25568.0,
+              25568.0,
+              25568.0
+            ]
+          },
+          "choice": {
+            "ns_per_message": 2200.31875,
+            "thread_cpu_ns_per_message": 2148.4375,
+            "bytes_per_message": 8912.0,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              2199.745,
+              2205.8475,
+              2171.4175,
+              2200.8925
+            ],
+            "rounds_cpu_ns": [
+              2343.75,
+              1562.5,
+              2343.75,
+              1953.125
+            ],
+            "rounds_bytes": [
+              8912.0,
+              8912.0,
+              8912.0,
+              8912.0
+            ]
+          },
+          "scope": "Four rounds of40000 receipt calls/mode,200000 warmup calls;all provider setup outside timed regions. New positives translate additional content;not equal work. Calling-thread CPU is coarse on Windows. Not render/font/world/GPU/FPS/frame-time measurement."
+        },
+        "index": 2,
+        "jar_sha256": "24ADA8A3A7B5757274ECAA2792730F52E75250B3E6E6DFAD5C823F967084D3D6"
+      },
+      {
+        "version": "0.15.74-dev",
+        "results": {
+          "unknown": {
+            "ns_per_message": 3704.11125,
+            "thread_cpu_ns_per_message": 3515.625,
+            "bytes_per_message": 22656.0,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              3693.9525,
+              3837.5575,
+              3714.27,
+              3670.3275
+            ],
+            "rounds_cpu_ns": [
+              3125.0,
+              3906.25,
+              3515.625,
+              3515.625
+            ],
+            "rounds_bytes": [
+              22656.0054,
+              22656.0,
+              22656.0,
+              22656.0
+            ]
+          },
+          "existing": {
+            "ns_per_message": 875.44875,
+            "thread_cpu_ns_per_message": 781.25,
+            "bytes_per_message": 4376.0,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              871.3825,
+              876.685,
+              874.2125,
+              877.8075
+            ],
+            "rounds_cpu_ns": [
+              781.25,
+              781.25,
+              781.25,
+              781.25
+            ],
+            "rounds_bytes": [
+              4376.0,
+              4376.0,
+              4376.0,
+              4376.0
+            ]
+          },
+          "existing74": {
+            "ns_per_message": 7349.713750000001,
+            "thread_cpu_ns_per_message": 7421.875,
+            "bytes_per_message": 26113.6,
+            "equal_useful_output": true,
+            "rounds_ns": [
+              7532.68,
+              7335.52,
+              6923.1975,
+              7363.9075
+            ],
+            "rounds_cpu_ns": [
+              7812.5,
+              7421.875,
+              6640.625,
+              7421.875
+            ],
+            "rounds_bytes": [
+              26113.6,
+              26113.6,
+              26113.6,
+              26113.6
+            ]
+          },
+          "new_intro": {
+            "ns_per_message": 3903.8374999999996,
+            "thread_cpu_ns_per_message": 3906.25,
+            "bytes_per_message": 23246.4,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              3910.68,
+              3878.33,
+              3896.995,
+              3928.1075
+            ],
+            "rounds_cpu_ns": [
+              3906.25,
+              3906.25,
+              3906.25,
+              3515.625
+            ],
+            "rounds_bytes": [
+              23246.4,
+              23246.4,
+              23246.4,
+              23246.4
+            ]
+          },
+          "new_phone": {
+            "ns_per_message": 3893.15875,
+            "thread_cpu_ns_per_message": 3906.25,
+            "bytes_per_message": 24024.0,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              3916.1475,
+              3869.045,
+              3901.1275,
+              3885.19
+            ],
+            "rounds_cpu_ns": [
+              3906.25,
+              3906.25,
+              3906.25,
+              3906.25
+            ],
+            "rounds_bytes": [
+              24024.0,
+              24024.0,
+              24024.0,
+              24024.0
+            ]
+          },
+          "choice": {
+            "ns_per_message": 4680.24625,
+            "thread_cpu_ns_per_message": 4687.5,
+            "bytes_per_message": 21080.0,
+            "equal_useful_output": false,
+            "rounds_ns": [
+              4676.045,
+              4678.6275,
+              4782.9525,
+              4681.865
+            ],
+            "rounds_cpu_ns": [
+              4687.5,
+              4687.5,
+              4687.5,
+              4296.875
+            ],
+            "rounds_bytes": [
+              21080.0,
+              21080.0,
+              21080.0,
+              21080.0
+            ]
+          },
+          "scope": "Four rounds of40000 receipt calls/mode,200000 warmup calls;all provider setup outside timed regions. New positives translate additional content;not equal work. Calling-thread CPU is coarse on Windows. Not render/font/world/GPU/FPS/frame-time measurement."
+        },
+        "index": 3,
+        "jar_sha256": "F07822E5F0D3A8753D8E770C196B5EED471828A33B10702BBBB404211147EB18"
+      }
+    ]
+  },
+  "jar_sha256": "24ADA8A3A7B5757274ECAA2792730F52E75250B3E6E6DFAD5C823F967084D3D6",
+  "date": "2026-10-16",
+  "zero_fps_impact_proven": false
+}

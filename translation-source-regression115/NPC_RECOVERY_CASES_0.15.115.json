@@ -1,0 +1,834 @@
+{
+  "cases": [
+    {
+      "source": "[NPC] Generow: Click to claim your reward!",
+      "translation": "[NPC] Generow: Нажми, чтобы забрать награду!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Generow: Click to claim your reward!"
+    },
+    {
+      "source": "[NPC] Generow: Click to claim your reward!",
+      "translation": "[NPC] Generow: Нажми, чтобы забрать награду!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] §6Generow§f: Click to claim your reward!"
+    },
+    {
+      "source": "[NPC] Andrew: This game is still under heavy development, don't forget to check the forums often for updates!",
+      "translation": "[NPC] Andrew: Игра ещё активно разрабатывается. Не забывай заглядывать на форумы и следить за обновлениями!",
+      "style_anchors": [
+        {
+          "source": "forums",
+          "target": "форумы"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Andrew: This game is still under heavy development, don't forget to check the §1forums§f often for updates!"
+    },
+    {
+      "source": "[NPC] Andrew: This game is still under heavy development, don't forget to check the forums often for updates!",
+      "translation": "[NPC] Andrew: Игра ещё активно разрабатывается. Не забывай заглядывать на форумы и следить за обновлениями!",
+      "style_anchors": [
+        {
+          "source": "forums",
+          "target": "форумы"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Andrew§f: This game is still under heavy development, don't forget to check the §aforums§f often for updates!"
+    },
+    {
+      "source": "[NPC] Andrew: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the forums!",
+      "translation": "[NPC] Andrew: Хочешь обсудить SkyBlock с другими игроками? Загляни в раздел SkyBlock на форумах!",
+      "style_anchors": [
+        {
+          "source": "forums",
+          "target": "форумах"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Andrew: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the §1forums§f!"
+    },
+    {
+      "source": "[NPC] Andrew: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the forums!",
+      "translation": "[NPC] Andrew: Хочешь обсудить SkyBlock с другими игроками? Загляни в раздел SkyBlock на форумах!",
+      "style_anchors": [
+        {
+          "source": "forums",
+          "target": "форумах"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Andrew§f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the §aforums§f!"
+    },
+    {
+      "source": "[NPC] Jack: Your SkyBlock Profile in your SkyBlock Menu shows details about your current stats!",
+      "translation": "[NPC] Jack: Твой профиль SkyBlock в меню SkyBlock содержит подробные сведения о твоих характеристиках!",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Profile",
+          "target": "профиль SkyBlock"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jack: Your §1SkyBlock Profile§f in your §2SkyBlock Menu§f shows details about your current stats!"
+    },
+    {
+      "source": "[NPC] Jack: Your SkyBlock Profile in your SkyBlock Menu shows details about your current stats!",
+      "translation": "[NPC] Jack: Твой профиль SkyBlock в меню SkyBlock содержит подробные сведения о твоих характеристиках!",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Profile",
+          "target": "профиль SkyBlock"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!"
+    },
+    {
+      "source": "[NPC] Jack: There are 7 stats in total, including ❤ Health, ❁ Strength, and ❈ Defense.",
+      "translation": "[NPC] Jack: Всего есть 7 характеристик, в том числе ❤ Здоровье, ❁ Сила и ❈ Защита.",
+      "style_anchors": [
+        {
+          "source": "❤ Health",
+          "target": "❤ Здоровье"
+        },
+        {
+          "source": "❁ Strength",
+          "target": "❁ Сила"
+        },
+        {
+          "source": "❈ Defense",
+          "target": "❈ Защита"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jack: There are 7 stats in total, including §1❤ Health§f, §2❁ Strength§f, and §3❈ Defense§f."
+    },
+    {
+      "source": "[NPC] Jack: There are 7 stats in total, including ❤ Health, ❁ Strength, and ❈ Defense.",
+      "translation": "[NPC] Jack: Всего есть 7 характеристик, в том числе ❤ Здоровье, ❁ Сила и ❈ Защита.",
+      "style_anchors": [
+        {
+          "source": "❤ Health",
+          "target": "❤ Здоровье"
+        },
+        {
+          "source": "❁ Strength",
+          "target": "❁ Сила"
+        },
+        {
+          "source": "❈ Defense",
+          "target": "❈ Защита"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f."
+    },
+    {
+      "source": "[NPC] Jack: Equipped armor, weapons, and accessories in your inventory all improve your stats.",
+      "translation": "[NPC] Jack: Надетая броня, оружие и аксессуары в инвентаре улучшают твои характеристики.",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jack: Equipped armor, weapons, and accessories in your inventory all improve your stats."
+    },
+    {
+      "source": "[NPC] Jack: Equipped armor, weapons, and accessories in your inventory all improve your stats.",
+      "translation": "[NPC] Jack: Надетая броня, оружие и аксессуары в инвентаре улучшают твои характеристики.",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats."
+    },
+    {
+      "source": "[NPC] Jack: Additionally, leveling your Skills can permanently boost some of your stats!",
+      "translation": "[NPC] Jack: Кроме того, повышение уровня навыков может навсегда улучшить некоторые характеристики!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jack: Additionally, leveling your Skills can permanently boost some of your stats!"
+    },
+    {
+      "source": "[NPC] Jack: Additionally, leveling your Skills can permanently boost some of your stats!",
+      "translation": "[NPC] Jack: Кроме того, повышение уровня навыков может навсегда улучшить некоторые характеристики!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!"
+    },
+    {
+      "source": "[NPC] Jack: The higher your ❤ Health stat, the faster your health will regenerate!",
+      "translation": "[NPC] Jack: Чем выше твоё ❤ Здоровье, тем быстрее оно восстанавливается!",
+      "style_anchors": [
+        {
+          "source": "❤ Health",
+          "target": "❤ Здоровье"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jack: The higher your §1❤ Health§f stat, the faster your health will regenerate!"
+    },
+    {
+      "source": "[NPC] Jack: The higher your ❤ Health stat, the faster your health will regenerate!",
+      "translation": "[NPC] Jack: Чем выше твоё ❤ Здоровье, тем быстрее оно восстанавливается!",
+      "style_anchors": [
+        {
+          "source": "❤ Health",
+          "target": "❤ Здоровье"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!"
+    },
+    {
+      "source": "[NPC] Jamie: You might have noticed that you have a Mana bar!",
+      "translation": "[NPC] Jamie: Наверное, ты уже заметил полоску маны!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jamie: You might have noticed that you have a Mana bar!"
+    },
+    {
+      "source": "[NPC] Jamie: You might have noticed that you have a Mana bar!",
+      "translation": "[NPC] Jamie: Наверное, ты уже заметил полоску маны!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jamie§f: You might have noticed that you have a Mana bar!"
+    },
+    {
+      "source": "[NPC] Jamie: Some items have mysterious properties, called Abilities.",
+      "translation": "[NPC] Jamie: У некоторых предметов есть загадочные свойства — способности.",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jamie: Some items have mysterious properties, called Abilities."
+    },
+    {
+      "source": "[NPC] Jamie: Some items have mysterious properties, called Abilities.",
+      "translation": "[NPC] Jamie: У некоторых предметов есть загадочные свойства — способности.",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jamie§f: Some items have mysterious properties, called Abilities."
+    },
+    {
+      "source": "[NPC] Jamie: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+      "translation": "[NPC] Jamie: Способности расходуют ману. Держи этот меч разбойника — мне он не нужен!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jamie: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!"
+    },
+    {
+      "source": "[NPC] Jamie: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+      "translation": "[NPC] Jamie: Способности расходуют ману. Держи этот меч разбойника — мне он не нужен!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jamie§f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!"
+    },
+    {
+      "source": "[NPC] Tom: I will teach you the Promising Axe Recipe to get you started!",
+      "translation": "[NPC] Tom: Для начала я научу тебя рецепту перспективного топора!",
+      "style_anchors": [
+        {
+          "source": "Promising Axe Recipe",
+          "target": "рецепту перспективного топора"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Tom: I will teach you the §1Promising Axe Recipe§f to get you started!"
+    },
+    {
+      "source": "[NPC] Tom: I will teach you the Promising Axe Recipe to get you started!",
+      "translation": "[NPC] Tom: Для начала я научу тебя рецепту перспективного топора!",
+      "style_anchors": [
+        {
+          "source": "Promising Axe Recipe",
+          "target": "рецепту перспективного топора"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Tom§f: I will teach you the §aPromising Axe Recipe§f to get you started!"
+    },
+    {
+      "source": "[NPC] Tom: All SkyBlock recipes can be found by opening the Recipe Book in your SkyBlock Menu.",
+      "translation": "[NPC] Tom: Все рецепты SkyBlock можно найти в книге рецептов, которая открывается через меню SkyBlock.",
+      "style_anchors": [
+        {
+          "source": "Recipe Book ",
+          "target": "книге рецептов"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Tom: All SkyBlock recipes can be found by opening the §1Recipe Book §fin your §2SkyBlock Menu§f."
+    },
+    {
+      "source": "[NPC] Tom: All SkyBlock recipes can be found by opening the Recipe Book in your SkyBlock Menu.",
+      "translation": "[NPC] Tom: Все рецепты SkyBlock можно найти в книге рецептов, которая открывается через меню SkyBlock.",
+      "style_anchors": [
+        {
+          "source": "Recipe Book ",
+          "target": "книге рецептов"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Tom§f: All SkyBlock recipes can be found by opening the §aRecipe Book §fin your §aSkyBlock Menu§f."
+    },
+    {
+      "source": "[NPC] Leo: You can unlock Leaflet Armor by progressing through your Oak Log Collection.",
+      "translation": "[NPC] Leo: Продвигаясь по коллекции дубовых брёвен, ты сможешь открыть лиственную броню.",
+      "style_anchors": [
+        {
+          "source": "Leaflet Armor",
+          "target": "лиственную броню"
+        },
+        {
+          "source": "Oak Log Collection",
+          "target": "коллекции дубовых брёвен"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Leo: You can unlock §1Leaflet Armor§f by progressing through your §2Oak Log Collection§f."
+    },
+    {
+      "source": "[NPC] Leo: You can unlock Leaflet Armor by progressing through your Oak Log Collection.",
+      "translation": "[NPC] Leo: Продвигаясь по коллекции дубовых брёвен, ты сможешь открыть лиственную броню.",
+      "style_anchors": [
+        {
+          "source": "Leaflet Armor",
+          "target": "лиственную броню"
+        },
+        {
+          "source": "Oak Log Collection",
+          "target": "коллекции дубовых брёвен"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Leo§f: You can unlock §aLeaflet Armor§f by progressing through your §aOak Log Collection§f."
+    },
+    {
+      "source": "[NPC] Leo: There is a Forest west of the Village where you can gather Oak Logs.",
+      "translation": "[NPC] Leo: К западу от Деревни находится Лес, где можно собирать дубовые брёвна.",
+      "style_anchors": [
+        {
+          "source": "Forest",
+          "target": "Лес"
+        },
+        {
+          "source": "Village",
+          "target": "Деревни"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Leo: There is a §1Forest§f west of the §2Village§f where you can gather Oak Logs."
+    },
+    {
+      "source": "[NPC] Leo: There is a Forest west of the Village where you can gather Oak Logs.",
+      "translation": "[NPC] Leo: К западу от Деревни находится Лес, где можно собирать дубовые брёвна.",
+      "style_anchors": [
+        {
+          "source": "Forest",
+          "target": "Лес"
+        },
+        {
+          "source": "Village",
+          "target": "Деревни"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Leo§f: There is a §bForest§f west of the §bVillage§f where you can gather Oak Logs."
+    },
+    {
+      "source": "[NPC] Leo: To check your Collection progress and rewards, open the Collection Menu in your SkyBlock Menu.",
+      "translation": "[NPC] Leo: Чтобы посмотреть прогресс коллекций и награды, открой меню коллекций через меню SkyBlock.",
+      "style_anchors": [
+        {
+          "source": "Collection Menu",
+          "target": "меню коллекций"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Leo: To check your Collection progress and rewards, open the §1Collection Menu§f in your §2SkyBlock Menu§f."
+    },
+    {
+      "source": "[NPC] Leo: To check your Collection progress and rewards, open the Collection Menu in your SkyBlock Menu.",
+      "translation": "[NPC] Leo: Чтобы посмотреть прогресс коллекций и награды, открой меню коллекций через меню SkyBlock.",
+      "style_anchors": [
+        {
+          "source": "Collection Menu",
+          "target": "меню коллекций"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Leo§f: To check your Collection progress and rewards, open the §aCollection Menu§f in your §aSkyBlock Menu§f."
+    },
+    {
+      "source": "[NPC] Felix: You can access your Ender Chest in your SkyBlock Menu.",
+      "translation": "[NPC] Felix: Открыть эндер-сундук можно через меню SkyBlock.",
+      "style_anchors": [
+        {
+          "source": "Ender Chest",
+          "target": "эндер-сундук"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Felix: You can access your §1Ender Chest§f in your §2SkyBlock Menu§f."
+    },
+    {
+      "source": "[NPC] Felix: You can access your Ender Chest in your SkyBlock Menu.",
+      "translation": "[NPC] Felix: Открыть эндер-сундук можно через меню SkyBlock.",
+      "style_anchors": [
+        {
+          "source": "Ender Chest",
+          "target": "эндер-сундук"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Felix§f: You can access your §aEnder Chest§f in your §aSkyBlock Menu§f."
+    },
+    {
+      "source": "[NPC] Felix: Store items in this chest and access them at any time!",
+      "translation": "[NPC] Felix: Храни вещи в этом сундуке и получай к ним доступ в любое время!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Felix: Store items in this chest and access them at any time!"
+    },
+    {
+      "source": "[NPC] Felix: Store items in this chest and access them at any time!",
+      "translation": "[NPC] Felix: Храни вещи в этом сундуке и получай к ним доступ в любое время!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Felix§f: Store items in this chest and access them at any time!"
+    },
+    {
+      "source": "[NPC] Duke: Are you new here? As you can see there is a lot to explore!",
+      "translation": "[NPC] Duke: Ты здесь впервые? Как видишь, тут есть что исследовать!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Duke: Are you new here? As you can see there is a lot to explore!"
+    },
+    {
+      "source": "[NPC] Duke: Are you new here? As you can see there is a lot to explore!",
+      "translation": "[NPC] Duke: Ты здесь впервые? Как видишь, тут есть что исследовать!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Duke§f: Are you new here? As you can see there is a lot to explore!"
+    },
+    {
+      "source": "[NPC] Duke: My advice is to start by visiting the Farm, or the Coal Mine both North of here.",
+      "translation": "[NPC] Duke: Советую начать с Фермы или Угольной шахты — обе находятся к северу отсюда.",
+      "style_anchors": [
+        {
+          "source": "Farm",
+          "target": "Фермы"
+        },
+        {
+          "source": "Coal Mine",
+          "target": "Угольной шахты"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Duke: My advice is to start by visiting the §1Farm§f, or the §2Coal Mine§f both North of here."
+    },
+    {
+      "source": "[NPC] Duke: My advice is to start by visiting the Farm, or the Coal Mine both North of here.",
+      "translation": "[NPC] Duke: Советую начать с Фермы или Угольной шахты — обе находятся к северу отсюда.",
+      "style_anchors": [
+        {
+          "source": "Farm",
+          "target": "Фермы"
+        },
+        {
+          "source": "Coal Mine",
+          "target": "Угольной шахты"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Duke§f: My advice is to start by visiting the §bFarm§f, or the §bCoal Mine§f both North of here."
+    },
+    {
+      "source": "[NPC] Duke: If you do need some wood, the best place to get some is West of the Village!",
+      "translation": "[NPC] Duke: Если нужна древесина, лучше всего отправиться к западу от Деревни!",
+      "style_anchors": [
+        {
+          "source": "Village",
+          "target": "Деревни"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Duke: If you do need some wood, the best place to get some is West of the §1Village§f!"
+    },
+    {
+      "source": "[NPC] Duke: If you do need some wood, the best place to get some is West of the Village!",
+      "translation": "[NPC] Duke: Если нужна древесина, лучше всего отправиться к западу от Деревни!",
+      "style_anchors": [
+        {
+          "source": "Village",
+          "target": "Деревни"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Duke§f: If you do need some wood, the best place to get some is West of the §bVillage§f!"
+    },
+    {
+      "source": "[NPC] Stella: At any time you can create a Co-op with your friends!",
+      "translation": "[NPC] Stella: Ты в любой момент можешь создать совместный профиль с друзьями!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Stella: At any time you can create a Co-op with your friends!"
+    },
+    {
+      "source": "[NPC] Stella: At any time you can create a Co-op with your friends!",
+      "translation": "[NPC] Stella: Ты в любой момент можешь создать совместный профиль с друзьями!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!"
+    },
+    {
+      "source": "[NPC] Stella: Simply go in your SkyBlock Menu where you can find the Profile Menu.",
+      "translation": "[NPC] Stella: Просто открой меню SkyBlock и найди там меню профилей.",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        },
+        {
+          "source": "Profile Menu",
+          "target": "меню профилей"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Stella: Simply go in your §1SkyBlock Menu§f where you can find the §2Profile Menu§f."
+    },
+    {
+      "source": "[NPC] Stella: Simply go in your SkyBlock Menu where you can find the Profile Menu.",
+      "translation": "[NPC] Stella: Просто открой меню SkyBlock и найди там меню профилей.",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        },
+        {
+          "source": "Profile Menu",
+          "target": "меню профилей"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f."
+    },
+    {
+      "source": "[NPC] Stella: This is where you can create, delete or switch SkyBlock Profiles.",
+      "translation": "[NPC] Stella: Здесь можно создавать, удалять и переключать профили SkyBlock.",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Stella: This is where you can create, delete or switch SkyBlock Profiles."
+    },
+    {
+      "source": "[NPC] Stella: This is where you can create, delete or switch SkyBlock Profiles.",
+      "translation": "[NPC] Stella: Здесь можно создавать, удалять и переключать профили SkyBlock.",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles."
+    },
+    {
+      "source": "[NPC] Stella: Enter /coop followed by the name of all the friends you want to invite!",
+      "translation": "[NPC] Stella: Введи /coop, а затем имена всех друзей, которых хочешь пригласить!",
+      "style_anchors": [
+        {
+          "source": "/coop",
+          "target": "/coop"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Stella: Enter §1/coop§f followed by the name of all the friends you want to invite!"
+    },
+    {
+      "source": "[NPC] Stella: Enter /coop followed by the name of all the friends you want to invite!",
+      "translation": "[NPC] Stella: Введи /coop, а затем имена всех друзей, которых хочешь пригласить!",
+      "style_anchors": [
+        {
+          "source": "/coop",
+          "target": "/coop"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!"
+    },
+    {
+      "source": "[NPC] Stella: All your friends have to be online to accept!",
+      "translation": "[NPC] Stella: Чтобы принять приглашение, все твои друзья должны быть в сети!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Stella: All your friends have to be online to accept!"
+    },
+    {
+      "source": "[NPC] Stella: All your friends have to be online to accept!",
+      "translation": "[NPC] Stella: Чтобы принять приглашение, все твои друзья должны быть в сети!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Stella§f: All your friends have to be online to accept!"
+    },
+    {
+      "source": "[NPC] Vex: You can shift click any player to trade with them!",
+      "translation": "[NPC] Vex: Чтобы предложить обмен, нажми на игрока, удерживая Shift!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Vex: You can shift click any player to trade with them!"
+    },
+    {
+      "source": "[NPC] Vex: You can shift click any player to trade with them!",
+      "translation": "[NPC] Vex: Чтобы предложить обмен, нажми на игрока, удерживая Shift!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Vex§f: You can shift click any player to trade with them!"
+    },
+    {
+      "source": "[NPC] Vex: Make sure you don't give away all of your belongings!",
+      "translation": "[NPC] Vex: Только не отдай всё своё имущество!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Vex: Make sure you don't give away all of your belongings!"
+    },
+    {
+      "source": "[NPC] Vex: Make sure you don't give away all of your belongings!",
+      "translation": "[NPC] Vex: Только не отдай всё своё имущество!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Vex§f: Make sure you don't give away all of your belongings!"
+    },
+    {
+      "source": "[NPC] Vex: You can disable Player Trading your SkyBlock Settings!",
+      "translation": "[NPC] Vex: Ты можешь отключить обмен между игроками в настройках SkyBlock!",
+      "style_anchors": [
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Vex: You can disable Player Trading your §1SkyBlock§f Settings!"
+    },
+    {
+      "source": "[NPC] Vex: You can disable Player Trading your SkyBlock Settings!",
+      "translation": "[NPC] Vex: Ты можешь отключить обмен между игроками в настройках SkyBlock!",
+      "style_anchors": [
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Vex§f: You can disable Player Trading your §bSkyBlock§f Settings!"
+    },
+    {
+      "source": "[NPC] Vex: Your settings can found in the SkyBlock Menu.",
+      "translation": "[NPC] Vex: Настройки находятся в меню SkyBlock.",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Vex: Your settings can found in the §1SkyBlock Menu§f."
+    },
+    {
+      "source": "[NPC] Vex: Your settings can found in the SkyBlock Menu.",
+      "translation": "[NPC] Vex: Настройки находятся в меню SkyBlock.",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Vex§f: Your settings can found in the §aSkyBlock Menu§f."
+    },
+    {
+      "source": "[NPC] Liam: One day those houses in the Village will be rentable for Coins!",
+      "translation": "[NPC] Liam: Когда-нибудь эти дома в Деревне можно будет арендовать за монеты!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Liam: One day those houses in the Village will be rentable for Coins!"
+    },
+    {
+      "source": "[NPC] Liam: One day those houses in the Village will be rentable for Coins!",
+      "translation": "[NPC] Liam: Когда-нибудь эти дома в Деревне можно будет арендовать за монеты!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Liam§f: One day those houses in the Village will be rentable for Coins!"
+    },
+    {
+      "source": "[NPC] Liam: Anyone will be able to rent them, players, co-ops, even Guilds!",
+      "translation": "[NPC] Liam: Арендовать их сможет кто угодно: игроки, участники совместных профилей и даже гильдии!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Liam: Anyone will be able to rent them, players, co-ops, even Guilds!"
+    },
+    {
+      "source": "[NPC] Liam: Anyone will be able to rent them, players, co-ops, even Guilds!",
+      "translation": "[NPC] Liam: Арендовать их сможет кто угодно: игроки, участники совместных профилей и даже гильдии!",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Liam§f: Anyone will be able to rent them, players, co-ops, even Guilds!"
+    },
+    {
+      "source": "[NPC] Jerry: Your SkyBlock island is part of a much larger universe... [1/2]",
+      "translation": "[NPC] Jerry: Твой остров SkyBlock — часть гораздо большей вселенной... [1/2]",
+      "style_anchors": [
+        {
+          "source": "[1/2]",
+          "target": "[1/2]"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jerry: Your SkyBlock island is part of a much larger universe... §1[1/2]§f"
+    },
+    {
+      "source": "[NPC] Jerry: Your SkyBlock island is part of a much larger universe... [1/2]",
+      "translation": "[NPC] Jerry: Твой остров SkyBlock — часть гораздо большей вселенной... [1/2]",
+      "style_anchors": [
+        {
+          "source": "[1/2]",
+          "target": "[1/2]"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jerry§f: Your SkyBlock island is part of a much larger universe... §7[1/§a2§7]"
+    },
+    {
+      "source": "[NPC] Jerry: Wait, how did I get here? [2/2]",
+      "translation": "[NPC] Jerry: Постой, как я сюда попал? [2/2]",
+      "style_anchors": [
+        {
+          "source": "[2/2]",
+          "target": "[2/2]"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Jerry: Wait, how did I get here? §1[2/2]§f"
+    },
+    {
+      "source": "[NPC] Jerry: Wait, how did I get here? [2/2]",
+      "translation": "[NPC] Jerry: Постой, как я сюда попал? [2/2]",
+      "style_anchors": [
+        {
+          "source": "[2/2]",
+          "target": "[2/2]"
+        }
+      ],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Jerry§f: Wait, how did I get here? §7[§a2/2§7]"
+    },
+    {
+      "source": "[NPC] Mayor Nancy: Hi|",
+      "translation": "[NPC] Mayor Nancy: Привет|",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "primary",
+      "legacy": "§f[NPC] Mayor Nancy: Hi|"
+    },
+    {
+      "source": "[NPC] Mayor Nancy: Hi|",
+      "translation": "[NPC] Mayor Nancy: Привет|",
+      "style_anchors": [],
+      "tag": "NPC",
+      "kind": "published0",
+      "legacy": "§e[NPC] Mayor Nancy§f: Hi|"
+    }
+  ]
+}

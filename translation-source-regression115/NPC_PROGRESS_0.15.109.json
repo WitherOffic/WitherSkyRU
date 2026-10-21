@@ -1,0 +1,59 @@
+{
+  "version": "0.15.109-dev",
+  "runtime_jar_sha256": "5263691ECFAF4CD57D60CCD69DE8C9DD05AE5D2167875DC17BC1AD77FF41CFE3",
+  "exact_keys": 12220,
+  "total_frozen": 16244,
+  "exact_percent": 75.22777640975129,
+  "without_exact_key": 4024,
+  "without_exact_percent": 24.772223590248714,
+  "new_exact_keys": 804,
+  "new_current_choice_groups": 0,
+  "new_cosmetic_notifications": 804,
+  "new_npc_keys": 0,
+  "new_archival_keys": 0,
+  "static_choice_groups_unchanged": 345,
+  "prior_name_templates103": 135,
+  "selected_style_repaired_cumulative105": 72,
+  "selected_style_gaps_remaining": 0,
+  "fresh_test_groups": 182,
+  "parser_tests": 15,
+  "new_cosmetic_assertions": 4313831,
+  "primary_cases": 804,
+  "published_layouts": 810,
+  "byte_identical_runtime_classes": 124,
+  "startup_method_edits_only": {
+    "ru.wither.skyru.NpcDialogueTranslator": [
+      "public static ru.wither.skyru.NpcDialogueTranslator questObjectives() throws java.io.IOException;"
+    ]
+  },
+  "hot_method_instructions_unchanged": true,
+  "historical_test_sources_unchanged": 278,
+  "isolated_count_assertion_updates": 32,
+  "primary_pages": 50,
+  "attribution_pages": 52,
+  "performance_not_fps": {
+    "scope": "Isolated chat receipt,not game FPS/frame times/0.1% lows. New804 useful translations verified separately,not treated as equal work.",
+    "equal_modes": 15,
+    "order": [
+      "108",
+      "109",
+      "109",
+      "108"
+    ],
+    "min_wall_change_percent": -11.809790249682395,
+    "max_wall_change_percent": 12.861761488924905,
+    "both_orders_slower_over5": [],
+    "long_repeat": {
+      "modes": 3,
+      "warmup_calls_at_least": 1000000,
+      "rounds": 4,
+      "calls_per_round_at_least": 1000000,
+      "min_wall_change_percent": -2.688820085468324,
+      "max_wall_change_percent": 2.9118663382652565,
+      "both_orders_slower_over5": [],
+      "original_short_data_retained": true
+    }
+  },
+  "installed_pack_modified": false,
+  "game_fps_measured": false
+}

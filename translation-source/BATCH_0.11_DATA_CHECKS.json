@@ -1,0 +1,404 @@
+{
+  "revision": "0.11.0-dev",
+  "scope": "Static data integrity, not runtime or universal quality verification",
+  "new_snapshot_sources": 2332,
+  "previous_targets_updated": 24,
+  "delta_reported": 2332,
+  "numeric_roman_icon_placeholder_id_mismatches": [],
+  "malformed_rows": [],
+  "duplicate_keys": {
+    "continuation.tsv": {
+      "Deep Sea Diver": 2,
+      "Intelligence.": 2
+    },
+    "continuation-patterns.tsv": {},
+    "lexicon.tsv": {
+      "Rabbit": 2
+    },
+    "BATCH_0.11_ATTRIBUTES.tsv": {},
+    "BATCH_0.11_AUTHORED.tsv": {},
+    "BATCH_0.11_COLOURS.tsv": {},
+    "BATCH_0.11_COLOUR_OBJECTS.tsv": {},
+    "BATCH_0.11_NUMBERED.tsv": {}
+  },
+  "regressed_previously_processed_sources": [],
+  "context_guards": {
+    "Alligator Skin": "Шкура аллигатора",
+    "Daedalus Stick": "Палка Дедала",
+    "Minion Storage X-pender": "Расширитель хранилища миньона «X-pender»",
+    "Shard's ID line as a result.": "ID этого осколка.",
+    "Helix Tree Gifts": "Дары деревьев хеликса",
+    "Power.": "аксессуаров."
+  },
+  "updated_previous_sources": [
+    {
+      "source": "knockback.",
+      "occurrences": 29,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_SHELL;1.json",
+        "config/notenoughupdates/repo/items/DWARF_TURTLE_SHELMET.json",
+        "config/notenoughupdates/repo/items/HEPHAESTUS_SHELMET.json",
+        "config/notenoughupdates/repo/items/POTION_KNOCKBACK;1.json",
+        "config/notenoughupdates/repo/items/POTION_KNOCKBACK;2.json",
+        "config/notenoughupdates/repo/items/POTION_KNOCKBACK;3.json",
+        "config/notenoughupdates/repo/items/POTION_KNOCKBACK;4.json",
+        "config/notenoughupdates/repo/items/WITHER_CLOAK.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "отбрасывание.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Power.",
+      "occurrences": 8,
+      "origins": [
+        "config/notenoughupdates/repo/items/CAYENNE;4.json",
+        "config/notenoughupdates/repo/items/CAYENNE;5.json",
+        "config/skyblocker/item-repo/items/CAYENNE;4.json",
+        "config/skyblocker/item-repo/items/CAYENNE;5.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "аксессуаров.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Critter Safari.",
+      "occurrences": 7,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_SPLENDOR;1.json",
+        "config/notenoughupdates/repo/items/MORNING_DEW.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_SPLENDOR;1.json",
+        "config/skyblocker/item-repo/items/MORNING_DEW.json",
+        "skyblock-repo-cache/attributes.min.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "сафари зверьков.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Chest.",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_KUUDRA_BOX;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_KUUDRA_BOX;1.json",
+        "skyblock-repo-cache/attributes.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "наград.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Forest Essence.",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_TICKET_DISCOUNT;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_TICKET_DISCOUNT;1.json",
+        "skyblock-repo-cache/attributes.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "лесной эссенции.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +0.6 Sea Creature",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/EXPERTISE;1.json",
+        "config/skyblocker/item-repo/items/EXPERTISE;1.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +0.6 шанса морских существ",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +1∮ Sweep on melee Log",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ULTIMATE_FIRST_IMPRESSION;1.json",
+        "config/skyblocker/item-repo/items/ULTIMATE_FIRST_IMPRESSION;1.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +1∮ размаха при ударах",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +1 Sea Creature",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ANGLER;1.json",
+        "config/skyblocker/item-repo/items/ANGLER;1.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +1 шанса морских существ",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +2∮ Sweep on melee Log",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ULTIMATE_FIRST_IMPRESSION;2.json",
+        "config/skyblocker/item-repo/items/ULTIMATE_FIRST_IMPRESSION;2.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +2∮ размаха при ударах",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +2 Sea Creature",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ANGLER;2.json",
+        "config/skyblocker/item-repo/items/ANGLER;2.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +2 шанса морских существ",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +3∮ Sweep on melee Log",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ULTIMATE_FIRST_IMPRESSION;3.json",
+        "config/skyblocker/item-repo/items/ULTIMATE_FIRST_IMPRESSION;3.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +3∮ размаха при ударах",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +3 Sea Creature",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ANGLER;3.json",
+        "config/skyblocker/item-repo/items/ANGLER;3.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +3 шанса морских существ",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +4∮ Sweep on melee Log",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ULTIMATE_FIRST_IMPRESSION;4.json",
+        "config/skyblocker/item-repo/items/ULTIMATE_FIRST_IMPRESSION;4.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +4∮ размаха при ударах",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +4 Sea Creature",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ANGLER;4.json",
+        "config/skyblocker/item-repo/items/ANGLER;4.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +4 шанса морских существ",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +5∮ Sweep on melee Log",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ULTIMATE_FIRST_IMPRESSION;5.json",
+        "config/skyblocker/item-repo/items/ULTIMATE_FIRST_IMPRESSION;5.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +5∮ размаха при ударах",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +5 Sea Creature",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ANGLER;5.json",
+        "config/skyblocker/item-repo/items/ANGLER;5.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +5 шанса морских существ",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +6 Sea Creature",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ANGLER;6.json",
+        "config/skyblocker/item-repo/items/ANGLER;6.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +6 шанса морских существ",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Slayer Quests.",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1.json",
+        "skyblock-repo-cache/attributes.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "заданий боссов.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Titanoboa.",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_TITANOBOA_TRACKER;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_TITANOBOA_TRACKER;1.json",
+        "skyblock-repo-cache/attributes.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "титанобоа.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Visitors.",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_PRETTY_CLOTHES;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_PRETTY_CLOTHES;1.json",
+        "skyblock-repo-cache/attributes.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "посетителей.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ability: Aspiring Leap  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ASPIRING_LEAP.json",
+        "config/skyblocker/item-repo/items/ASPIRING_LEAP.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Стремительный прыжок — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Ability: Jingle Bells  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/JINGLE_BELLS.json",
+        "config/skyblocker/item-repo/items/JINGLE_BELLS.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Звенящие колокольчики — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Ability: Open Shop RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/KUUDRA_SHOP_ITEM.json",
+        "config/skyblocker/item-repo/items/KUUDRA_SHOP_ITEM.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Открыть магазин — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Moonflower Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/moonflower.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция луноцвета",
+      "translation_origin": "continuation.tsv"
+    }
+  ],
+  "quality_verified": false,
+  "runtime_verified": false
+}

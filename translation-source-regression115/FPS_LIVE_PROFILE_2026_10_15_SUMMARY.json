@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-15",
+  "observed_loaded_version_from_startup_log": "0.15.64-dev",
+  "recording_duration_seconds": 30,
+  "source_root": "build/live-fps-audit-15afb46e55aa4ef4b6266ab9da2380ba",
+  "recording_sha256": "83B7C092FA901823DB919AE96F979EE0E127937119BB576D88E4BF02BE0180A6",
+  "raw_recording_not_delivered": true,
+  "scope": "30-second observational local gameplay JFR; sampled CPU stacks and statistical allocation weights, not measured FPS or without-mod A/B. Own attribution includes injected witherskyru handlers under Minecraft class names. Inclusive shares overlap; JFR and uncontrolled gameplay/background load can affect samples. Allocation weights have not been validated as absolute bytes allocated during this interval and must not be converted to MB/s. Raw JFR kept locally only.",
+  "sample_events": 2987,
+  "render_thread_samples": 1351,
+  "render_samples_with_mod_stack": 32,
+  "render_mod_inclusive_sample_percent": 2.368615840118431,
+  "render_mod_inclusive": [
+    {
+      "name": "net.minecraft.client.gui.GuiGraphicsExtractor.handler$ico000$witherskyru$styledText",
+      "count_or_weight": 19
+    },
+    {
+      "name": "ru.wither.skyru.RenderContext.open",
+      "count_or_weight": 13
+    },
+    {
+      "name": "ru.wither.skyru.RenderContext.inspect",
+      "count_or_weight": 12
+    },
+    {
+      "name": "ru.wither.skyru.RenderContext$$Lambda.0x00000000172c9978.apply",
+      "count_or_weight": 11
+    },
+    {
+      "name": "ru.wither.skyru.RenderContext.lambda$inspect$0",
+      "count_or_weight": 11
+    },
+    {
+      "name": "ru.wither.skyru.RenderContext.classify",
+      "count_or_weight": 8
+    },
+    {
+      "name": "ru.wither.skyru.SkyRuClient.sequence",
+      "count_or_weight": 6
+    },
+    {
+      "name": "net.minecraft.client.gui.GuiGraphicsExtractor.localvar$ico000$witherskyru$normalString",
+      "count_or_weight": 5
+    },
+    {
+      "name": "ru.wither.skyru.SkyRuClient.textOutsideHud",
+      "count_or_weight": 5
+    },
+    {
+      "name": "net.minecraft.client.renderer.entity.EntityRenderer.handler$idk000$witherskyru$minionNameTag",
+      "count_or_weight": 4
+    },
+    {
+      "name": "ru.wither.skyru.OverhaulTextBudget.lambda$draw$0",
+      "count_or_weight": 4
+    },
+    {
+      "name": "ru.wither.skyru.SkyRuClient.narrowHud",
+      "count_or_weight": 4
+    },
+    {
+      "name": "ru.wither.skyru.OverhaulTextBudget.within",
+      "count_or_weight": 4
+    },
+    {
+      "name": "ru.wither.skyru.SkyRuClient.minionNameTag",
+      "count_or_weight": 4
+    },
+    {
+      "name": "ru.wither.skyru.OverhaulTextBudget.draw",
+      "count_or_weight": 4
+    },
+    {
+      "name": "me.jfenn.scoreboardoverhaul.common.hud.HudRenderer.redirect$idh000$witherskyru$drawName",
+      "count_or_weight": 4
+    },
+    {
+      "name": "ru.wither.skyru.OverhaulTextBudget$$Lambda.0x0000000017372290.run",
+      "count_or_weight": 4
+    },
+    {
+      "name": "ru.wither.skyru.DisplayNoop.text",
+      "count_or_weight": 2
+    },
+    {
+      "name": "net.minecraft.client.gui.GuiGraphicsExtractor.localvar$ico000$witherskyru$normalText",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.PlayerNames$NameIndex.test",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.OfflineDictionary.translate",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.SkyRuClient.component",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.ScreenLabels.finalText",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.SkyRuClient.componentOutsideHud",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.OfflineDictionary.translateLine",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.PlayerNames.contains",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.InterfaceDisplay.keys",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.HudTextFit.narrow",
+      "count_or_weight": 2
+    },
+    {
+      "name": "ru.wither.skyru.StyledRuns.collect",
+      "count_or_weight": 1
+    },
+    {
+      "name": "ru.wither.skyru.SkyRuClient.translateTree",
+      "count_or_weight": 1
+    },
+    {
+      "name": "ru.wither.skyru.OfflineDictionary.convertLine",
+      "count_or_weight": 1
+    },
+    {
+      "name": "ru.wither.skyru.HudTextFit.compact",
+      "count_or_weight": 1
+    },
+    {
+      "name": "ru.wither.skyru.StyledItemTitle.translate",
+      "count_or_weight": 1
+    },
+    {
+      "name": "ru.wither.skyru.OfflineDictionary.displayEdits",
+      "count_or_weight": 1
+    },
+    {
+      "name": "net.minecraft.client.gui.GuiGraphicsExtractor$RenderingTextCollector.handler$idc000$witherskyru$fitCollectedText",
+      "count_or_weight": 1
+    }
+  ],
+  "render_top_self": [
+    {
+      "name": "net.minecraft.client.renderer.CloudRenderer.sodium$emitCellGeometryExterior",
+      "count_or_weight": 67
+    },
+    {
+      "name": "java.util.HashMap.getNode",
+      "count_or_weight": 66
+    },
+    {
+      "name": "com.mojang.blaze3d.vertex.BufferBuilder.handler$ebb000$iris$injectMidBlock",
+      "count_or_weight": 44
+    },
+    {
+      "name": "net.irisshaders.iris.vertices.sodium.ModelToEntityVertexSerializer.serialize",
+      "count_or_weight": 43
+    },
+    {
+      "name": "java.util.HashMap$HashIterator.nextNode",
+      "count_or_weight": 26
+    },
+    {
+      "name": "java.lang.ThreadLocal$ThreadLocalMap.set",
+      "count_or_weight": 24
+    },
+    {
+      "name": "net.minecraft.client.renderer.state.gui.GuiRenderState.hasIntersection",
+      "count_or_weight": 21
+    },
+    {
+      "name": "java.util.Collection.removeIf",
+      "count_or_weight": 20
+    },
+    {
+      "name": "net.irisshaders.iris.vertices.BufferBuilderPolygonView.x",
+      "count_or_weight": 18
+    },
+    {
+      "name": "com.mojang.blaze3d.vertex.BufferBuilder.fillExtendedData",
+      "count_or_weight": 15
+    },
+    {
+      "name": "com.mojang.blaze3d.vertex.BufferBuilder.addVertex",
+      "count_or_weight": 14
+    },
+    {
+      "name": "net.minecraft.core.component.DataComponentPatch.getFromPatchAndPrototype",
+      "count_or_weight": 13
+    },
+    {
+      "name": "it.unimi.dsi.fastutil.longs.Long2ReferenceOpenHashMap.get",
+      "count_or_weight": 13
+    },
+    {
+      "name": "com.mojang.blaze3d.vertex.BufferBuilder.handler$ebb000$iris$beforeNext",
+      "count_or_weight": 12
+    },
+    {
+      "name": "net.minecraft.client.gui.font.FontSet$Source.getGlyph",
+      "count_or_weight": 12
+    },
+    {
+      "name": "java.lang.ThreadLocal$ThreadLocalMap.getEntry",
+      "count_or_weight": 12
+    },
+    {
+      "name": "com.google.common.cache.LocalCache$Segment.getFirst",
+      "count_or_weight": 12
+    },
+    {
+      "name": "java.util.Objects.equals",
+      "count_or_weight": 11
+    },
+    {
+      "name": "net.raphimc.immediatelyfast.feature.core.BatchableBufferSource.getBuffer",
+      "count_or_weight": 11
+    },
+    {
+      "name": "it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.get",
+      "count_or_weight": 11
+    },
+    {
+      "name": "java.util.HashMap.putVal",
+      "count_or_weight": 10
+    },
+    {
+      "name": "at.hannibal2.skyhanni.api.event.EventListeners.createSingleParameterConsumer$lambda$0",
+      "count_or_weight": 10
+    },
+    {
+      "name": "net.minecraft.client.renderer.entity.EntityRenderer.shouldRender",
+      "count_or_weight": 10
+    },
+    {
+      "name": "ca.spottedleaf.starlight.common.light.StarLightInterface.getSkyLightValue",
+      "count_or_weight": 10
+    },
+    {
+      "name": "net.minecraft.nbt.CompoundTag.getOptional",
+      "count_or_weight": 8
+    }
+  ],
+  "gc_pause_count": 11,
+  "gc_pause_total_ms": 68.6857,
+  "gc_pause_max_ms": 15.4646,
+  "allocation_rates_not_reported": true,
+  "measured_game_fps": false,
+  "without_mod_control_recording": false,
+  "not_exclusive_mod_cpu_cost": true,
+  "not_proof_of_entire_reported_fps_loss": true,
+  "installed_pack_modified": false
+}

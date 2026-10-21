@@ -1,0 +1,240 @@
+{
+  "source_commit": "88c8bf2f566f42150e869fe9cc7b78dff05dc086",
+  "scope": "14 primary shapes; 11 synthetic template expansions, one literal, two frozen REGEX-TEST examples; not live captures.",
+  "cases": [
+    {
+      "id": "cooldown",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§cThis ability is on cooldown for (.*)s.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§cThis ability is on cooldown for 12.5s.",
+      "source": "This ability is on cooldown for 12.5s.",
+      "target": "Способность перезаряжается. Осталось 12.5 с.",
+      "style_anchors": [],
+      "retained": [
+        "12.5"
+      ]
+    },
+    {
+      "id": "mana",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§cYou need at least (.*) mana to activate this!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§cYou need at least 1,250 mana to activate this!",
+      "source": "You need at least 1,250 mana to activate this!",
+      "target": "Для этой способности нужно не менее 1,250 маны!",
+      "style_anchors": [],
+      "retained": [
+        "1,250"
+      ]
+    },
+    {
+      "id": "sheep",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§7Your Guided Sheep hit §r§c(.*) §r§7enemy for §r§c(.*) §r§7damage.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§7Your Guided Sheep hit §r§c21 §r§7enemy for §r§c12,500 §r§7damage.",
+      "source": "Your Guided Sheep hit 21 enemy for 12,500 damage.",
+      "target": "Способность «Управляемая овца» задела 21 врага, нанеся 12,500 урона.",
+      "style_anchors": [
+        {
+          "source": "Guided Sheep",
+          "target": "Управляемая овца"
+        }
+      ],
+      "retained": [
+        "21",
+        "12,500"
+      ]
+    },
+    {
+      "id": "implosion",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§7Your Implosion hit §r§c(.*) §r§7enemy for §r§c(.*) §r§7damage.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§7Your Implosion hit §r§c2 §r§7enemy for §r§c1,250 §r§7damage.",
+      "source": "Your Implosion hit 2 enemy for 1,250 damage.",
+      "target": "Способность «Имплозия» задела 2 врагов, нанеся 1,250 урона.",
+      "style_anchors": [
+        {
+          "source": "Implosion",
+          "target": "Имплозия"
+        }
+      ],
+      "retained": [
+        "2",
+        "1,250"
+      ]
+    },
+    {
+      "id": "healed",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§aYou were healed for (.*) health by (.*)§a!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§aYou were healed for 250 health by §bWither_101§r§a!",
+      "source": "You were healed for 250 health by Wither_101!",
+      "target": "Вам восстановили 250 здоровья. Источник лечения: Wither_101!",
+      "style_anchors": [],
+      "retained": [
+        "250",
+        "Wither_101"
+      ]
+    },
+    {
+      "id": "healer",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§a§l(.*) healed you for (.*) health!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§a§l§bWither_101§r§a§l healed you for 500 health!",
+      "source": "Wither_101 healed you for 500 health!",
+      "target": "Wither_101 восстановил вам 500 здоровья!",
+      "style_anchors": [],
+      "retained": [
+        "Wither_101",
+        "500"
+      ]
+    },
+    {
+      "id": "tether",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§eYour tether with (.*) §r§ehealed you for §r§a(.*) §r§ehealth.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§eYour tether with §bWither_101§r §r§ehealed you for §r§a250 §r§ehealth.",
+      "source": "Your tether with Wither_101 healed you for 250 health.",
+      "target": "Связь с Wither_101 восстановила вам 250 здоровья.",
+      "style_anchors": [],
+      "retained": [
+        "Wither_101",
+        "250"
+      ]
+    },
+    {
+      "id": "fairy-self",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§eYour fairy healed §r§ayourself §r§efor §r§a(.*) §r§ehealth!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§eYour fairy healed §r§ayourself §r§efor §r§a150 §r§ehealth!",
+      "source": "Your fairy healed yourself for 150 health!",
+      "target": "Ваша фея восстановила вам 150 здоровья!",
+      "style_anchors": [
+        {
+          "source": "yourself",
+          "target": "вам"
+        }
+      ],
+      "retained": [
+        "150"
+      ]
+    },
+    {
+      "id": "fairy-player",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§eYour fairy healed §r(.*) §r§efor §r§a(.*) §r§ehealth!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§eYour fairy healed §r§bWither_101§r §r§efor §r§a250 §r§ehealth!",
+      "source": "Your fairy healed Wither_101 for 250 health!",
+      "target": "Ваша фея восстановила игроку Wither_101 250 здоровья!",
+      "style_anchors": [],
+      "retained": [
+        "Wither_101",
+        "250"
+      ]
+    },
+    {
+      "id": "buff",
+      "kind": "PRIMARY_LITERAL_OR_REGEX_TEST",
+      "pattern": "§a§lBUFF! §fYou have gained §r§cHealing V§r§f!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§a§lBUFF! §fYou have gained §r§cHealing V§r§f!",
+      "source": "BUFF! You have gained Healing V!",
+      "target": "УСИЛЕНИЕ! Вы получили эффект Исцеление V!",
+      "style_anchors": [
+        {
+          "source": "BUFF!",
+          "target": "УСИЛЕНИЕ!"
+        },
+        {
+          "source": "Healing V",
+          "target": "Исцеление V"
+        }
+      ],
+      "retained": []
+    },
+    {
+      "id": "absorption",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "§aYou gained (.*) HP worth of absorption for 3s from §r(.*)§r§a!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§aYou gained 250 HP worth of absorption for 3s from §r§bWither_101§r§a!",
+      "source": "You gained 250 HP worth of absorption for 3s from Wither_101!",
+      "target": "Вы получили 250 временного здоровья на 3 с от Wither_101!",
+      "style_anchors": [],
+      "retained": [
+        "250",
+        "3",
+        "Wither_101"
+      ]
+    },
+    {
+      "id": "strength",
+      "kind": "PRIMARY_TEMPLATE_WITH_SYNTHETIC_VALUES",
+      "pattern": "(.*)§r§a granted you §r§c(.*) §r§astrength for §r§e20 §r§aseconds!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§bWither_101§r§r§a granted you §r§c50 §r§astrength for §r§e20 §r§aseconds!",
+      "source": "Wither_101 granted you 50 strength for 20 seconds!",
+      "target": "Wither_101 дал вам 50 силы на 20 секунд!",
+      "style_anchors": [],
+      "retained": [
+        "Wither_101",
+        "50",
+        "20"
+      ]
+    },
+    {
+      "id": "berserk-damage",
+      "kind": "PRIMARY_LITERAL_OR_REGEX_TEST",
+      "pattern": "§a[Berserk] §r§fMelee Damage §r§c48%§r§f -> §r§a88%",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§a[Berserk] §r§fMelee Damage §r§c48%§r§f -> §r§a88%",
+      "source": "[Berserk] Melee Damage 48% -> 88%",
+      "target": "[Берсерк] Урон в ближнем бою 48% -> 88%",
+      "style_anchors": [
+        {
+          "source": "Berserk",
+          "target": "Берсерк"
+        },
+        {
+          "source": "Melee Damage",
+          "target": "Урон в ближнем бою"
+        }
+      ],
+      "retained": [
+        "48%",
+        "88%"
+      ]
+    },
+    {
+      "id": "berserk-speed",
+      "kind": "PRIMARY_LITERAL_OR_REGEX_TEST",
+      "pattern": "§a[Berserk] §r§fWalk Speed §r§c38§r§f -> §r§a68",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "sample": "§a[Berserk] §r§fWalk Speed §r§c38§r§f -> §r§a68",
+      "source": "[Berserk] Walk Speed 38 -> 68",
+      "target": "[Берсерк] Скорость передвижения 38 -> 68",
+      "style_anchors": [
+        {
+          "source": "Berserk",
+          "target": "Берсерк"
+        },
+        {
+          "source": "Walk Speed",
+          "target": "Скорость передвижения"
+        }
+      ],
+      "retained": [
+        "38",
+        "68"
+      ]
+    }
+  ]
+}

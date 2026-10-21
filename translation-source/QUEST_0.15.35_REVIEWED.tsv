@@ -1,0 +1,138 @@
+# Authored full NPC sentences. Third column: explicitly reviewed semantic style anchors.
+# Pass 1: Sam, Garden introduction, compost, plots, visitors and greenhouse construction.
+[NPC] Sam: Perfect! Now that we have enough resources, we can finally build this Greenhouse.	Отлично! Ресурсов достаточно — теперь можно построить теплицу.	{"Greenhouse":"теплицу"}
+[NPC] Sam: If you can find these items, we'll be one step closer to building our very own Greenhouse!	Найдите эти предметы, и мы станем на шаг ближе к строительству собственной теплицы!	{"Greenhouse":"теплицы"}
+[NPC] Sam: Looking at the blueprint, it seems we need about 64 Enchanted Oak Logs and ...? 128 Enchanted Sand??	Судя по чертежу, нужно примерно 64 зачарованных дубовых бревна и... 128 единиц зачарованного песка?!	{"blueprint":"чертежу","64 Enchanted Oak Logs":"64 зачарованных дубовых бревна","128 Enchanted Sand":"128 единиц зачарованного песка"}
+[NPC] Sam: Alright, I feel better now. First we need to gather some resources to build the Greenhouse.	Так, теперь спокойнее. Сначала нужно собрать ресурсы для строительства теплицы.	{"some resources":"ресурсы","Greenhouse":"теплицы"}
+[NPC] Sam: *deep breathing noises*	*глубоко дышит*	{}
+[NPC] Sam: I'm sorry, I just can't help myself. Let me calm myself down a bit.	Простите, не могу сдержать волнение. Дайте мне немного успокоиться.	{}
+[NPC] Sam: I'm so excited, I can't wait to get started on it!	Не терпится приступить к работе!	{}
+[NPC] Sam: We can build our very own Greenhouse!	Мы можем построить собственную теплицу!	{"Greenhouse":"теплицу"}
+[NPC] Sam: Do you know what this means??	Понимаете, что это значит?!	{}
+[NPC] Sam: What's this? ... A blueprint for a Greenhouse?!	Что это?.. Чертёж теплицы?!	{"blueprint":"Чертёж","Greenhouse":"теплицы"}
+[NPC] Sam: To bake us some bread, I think I need about 100 Wheat.	Для хлеба мне понадобится примерно 100 единиц пшеницы.	{"100":"100"}
+[NPC] Sam: I have an idea! Why don't you collect me some Wheat and I'll bake us some lovely bread for dinner!	Есть идея! Соберите для меня пшеницу, а я испеку нам вкусный хлеб к ужину!	{}
+[NPC] Sam: Come and talk to me when you've finished up on your Plot!	Когда закончите работу на участке, вернитесь ко мне!	{}
+[NPC] Sam: To save you a bit of time, you can also use a preset farm at your desk!	Чтобы сэкономить время, выберите готовый шаблон фермы в меню стола!	{}
+[NPC] Sam: Now you can grow crops you've unlocked there!	Теперь на этом участке можно выращивать уже открытые вами культуры!	{}
+[NPC] Sam: Wow! It's squeaky clean over there, you did so well!	Ух ты! Участок идеально чистый. Отличная работа!	{}
+[NPC] Sam: I believe in you. Go make it sparkly clean!	Я в вас верю. Очистите участок как следует!	{}
+[NPC] Sam: Great, you found it!	Отлично, вы его нашли!	{}
+[NPC] Sam: This Scythe will help you clean your plot even faster!	С этой косой вы очистите участок ещё быстрее!	{}
+[NPC] Sam: Also, here take this.	И ещё — возьмите это.	{}
+[NPC] Sam: Head over to your unlocked plot and try to clean it up a bit and then come back to me once you've done so!	Идите на открытый вами участок и очистите его. Когда закончите, вернитесь ко мне!	{}
+[NPC] Sam: Now to the dirty part... the plot has to be cleaned up before it can be used...	А теперь грязная работа... Прежде чем использовать участок, его нужно очистить.	{}
+[NPC] Sam: Amazing!!! We got ourselves a brand new plot!	Прекрасно! У нас появился новый участок!	{}
+[NPC] Sam: We can finally free up a plot! Take out the compost when you are ready!	Теперь можно открыть участок! Когда будете готовы, заберите компост из компостера!	{}
+[NPC] Sam: Oh the Composter is done!	О, компостер закончил работу!	{}
+[NPC] Sam: Great! Now, you can go open the composter and put the fuel in there, and it'll start doing... whatever it does!	Отлично! Откройте компостер и положите в него топливо. Тогда он начнёт... делать своё дело!	{}
+[NPC] Sam: Remember, you can order fuel from the Desk nearby.	Помните: топливо можно заказать через стол неподалёку.	{"Desk":"стол"}
+[NPC] Sam: Head over to the desk, there you can browse SkyMart to order some fuel.	Подойдите к столу и откройте SkyMart, чтобы заказать топливо.	{}
+[NPC] Sam: It needs machine fuel to operate... luckily we can order fuel online!	Для работы ему нужно топливо для механизмов... К счастью, его можно заказать онлайн!	{}
+[NPC] Sam: It produces Compost when you put crops inside of it... somehow... but that's what I need to increase the amount of plots we can have! So exciting!	Если положить в него урожай, он каким-то образом делает компост. Именно компост нужен, чтобы увеличить число участков! Здорово!	{"amount of plots":"число участков"}
+[NPC] Sam: You see this machine here...	Видите этот механизм?..	{}
+[NPC] Sam: Now I can finally produce some Compost... let's head inside!	Теперь можно делать компост... Пойдёмте внутрь!	{}
+[NPC] Sam: Wow, you did it!	Ух ты, получилось!	{}
+[NPC] Sam: Come back with the right amount of items!	Вернитесь, когда соберёте нужное количество предметов!	{}
+[NPC] Sam: For that however... I need some Compost... If you can bring me some Wheat, I can make some Compost out of it!	Но для этого нужен компост... Принесите мне пшеницу, и я сделаю из неё компост!	{}
+[NPC] Sam: You can come to me anytime you need help, but first let's clear out a plot to grow your crops.	Обращайтесь ко мне, если нужна помощь. Но сначала очистим участок для посадки культур.	{}
+[NPC] Sam: I am so excited to have you here!	Как здорово, что вы здесь!	{}
+[NPC] Sam: Wow!! Thank you so much. I'll bring you right there.	Огромное спасибо! Сейчас доставлю вас туда.	{}
+[NPC] Sam: Could you help me out with my farm?	Поможете мне с фермой?	{}
+[NPC] Sam: That shouldn't be a problem for someone like you, right?	Для вас это не составит труда, правда?	{}
+[NPC] Sam: Wow, that was quick! Here, take some fresh bread! *nom* *nom*	Ух ты, как быстро! Держите свежий хлеб! *ням-ням*	{}
+[NPC] Sam: It's pretty tasty. But it seems like we still have some dozen Wheat left over and our Composter is already full...	Очень вкусно. Но у нас ещё осталось несколько десятков единиц пшеницы, а компостер уже полон...	{}
+[NPC] Sam: Oh, I have an idea! We could open a small stand and sell our Wheat to other people!	Есть идея! Давайте откроем небольшую лавку и будем продавать пшеницу другим людям!	{}
+[NPC] Sam: I'll head back outside now.	А теперь я вернусь на улицу.	{}
+[NPC] Sam: Besides that, you can always go check the desk to find out what to do next!	А узнать, чем заняться дальше, всегда можно в меню стола!	{}
+[NPC] Sam: Keep checking back on them, I am sure more people will visit our farm soon.	Продолжайте встречать посетителей. Наверняка скоро на ферму придут и другие люди.	{}
+[NPC] Sam: Wow we did it! We served our first customer!	Получилось! Мы обслужили первого покупателя!	{}
+[NPC] Sam: Go ahead and talk to them to see what they need!	Поговорите с посетителем и узнайте, что ему нужно!	{}
+[NPC] Sam: Your first customer is right in front of you!	Ваш первый покупатель прямо перед вами!	{}
+[NPC] Sam: Oh, we already have our first customer! How exciting, I wonder what they want! Can you check on them?	О, уже пришёл первый покупатель! Интересно, что ему нужно? Поговорите с ним!	{}
+[NPC] Sam: I think this spot would work perfectly!	Думаю, это место отлично подойдёт!	{}
+[NPC] Sam: We need to set up a stand somewhere...	Нужно где-нибудь поставить лавку...	{}
+# Pass 2: ship crew, researchers, Lotus Atoll and adjacent visitor/essence dialogue.
+[NPC] Marigold: Speak to me again after killing a-	Снова поговорите со мной, когда убьёте одного...	{}
+[NPC] Marigold: Now normally, I run a humble little shop that allows you to upgrade some useful perks in exchange for Gold Essence!	Обычно я работаю в небольшой лавке: там можно улучшить полезные бонусы за золотую эссенцию!	{"Gold Essence":"золотую эссенцию"}
+[NPC] Marigold: Hey! I'm Marigold! I don't recall seeing you around these parts before...	Привет! Я Marigold! Кажется, раньше я вас здесь не встречала...	{"Marigold":"Marigold"}
+[NPC] Queen Mismyla: The King made me go grocery shopping. Me! Can you believe that? He has a pair of perfectly good legs, and still, here I am.	Король отправил меня за продуктами. Меня! Представляете? У него две совершенно здоровые ноги, а за покупками всё равно иду я.	{}
+[NPC] Arthur: Holy Macaroni! That should boost my minion to at least Tier 5! Thank you a lot!	Вот это да! Теперь мой миньон сможет достичь как минимум уровня 5! Огромное спасибо!	{"5":"5"}
+[NPC] Arthur: My wheat minion has been slacking recently, I am thinking about giving it an upgrade. He hasn't produced any wheat in years! Every time I check on him, he's empty.	Мой пшеничный миньон совсем обленился. Думаю его улучшить: он уже целую вечность не добывает пшеницу! Проверяю его — а он снова пустой.	{}
+[NPC] Researcher Lily: One moment please - I've run into quite a severe conundrum.	Одну минуту, пожалуйста: тут возникла серьёзная загадка.	{}
+[NPC] Researcher Gilbert: I can't wait to catch some fish!	Не терпится порыбачить!	{}
+[NPC] Researcher Ribery: We'll need you to catch one of every frog in order to complete our research!	Чтобы завершить исследование, нам нужно, чтобы вы поймали по одному экземпляру каждого типа лягушек!	{"one of every frog":"по одному экземпляру каждого типа лягушек"}
+[NPC] Researcher Ribery: That means there are 48 unique Trophy Frogs to find!	Значит, всего нужно найти 48 разных трофейных лягушек!	{"48":"48","Trophy Frogs":"трофейных лягушек"}
+[NPC] Researcher Ribery: Each species comes in four rarities - BRONZE, SILVER, GOLD, and DIAMOND.	У каждого вида четыре категории редкости: BRONZE, SILVER, GOLD и DIAMOND.	{"BRONZE":"BRONZE","SILVER":"SILVER","GOLD":"GOLD","DIAMOND":"DIAMOND"}
+[NPC] Researcher Ribery: There are 12 species of Trophy Frogs that can be fished around the Lotus Atoll.	В водах Атолла лотосов можно поймать 12 видов трофейных лягушек.	{"12 species":"12 видов","Trophy Frogs":"трофейных лягушек","Lotus Atoll":"Атолла лотосов"}
+[NPC] Researcher Ribery: Awesome attitude!	Отличный настрой!	{}
+[NPC] Researcher Ribery: Want to give us a hand?	Хотите нам помочь?	{}
+[NPC] Researcher Ribery: Us Researchers are currently hard at work documenting the various species of Frog found here.	Мы, исследователи, сейчас изучаем и описываем виды лягушек, обитающих здесь.	{"Researchers":"исследователи","Frog":"лягушек"}
+[NPC] Researcher Ribery: Welcome to the Lotus Atoll!	Добро пожаловать на Атолл лотосов!	{"Lotus Atoll":"Атолл лотосов"}
+[NPC] Captain Baha: You go on and explore! Come back to the Ship and set sail when you're done!	Отправляйтесь исследовать остров! Когда закончите, вернитесь на корабль и продолжим плавание!	{"Ship":"корабль"}
+[NPC] Captain Baha: Land ho! We have landed onto the Lotus Atoll!	Земля! Мы прибыли на Атолл лотосов!	{"Lotus Atoll":"Атолл лотосов"}
+[NPC] Researcher Gilbert: Anchors away!	Поднять якоря!	{}
+[NPC] Researcher Gilbert: I'll go introduce myself to the rest of the crew!	Пойду познакомлюсь с остальными членами экипажа!	{}
+[NPC] Marigold: wait... your Bestiary shows that you've already killed a Golden Goblin!	Погодите... По вашему Бестиарию видно, что вы уже убивали золотого гоблина!	{"Bestiary":"Бестиарию","Golden Goblin":"золотого гоблина"}
+[NPC] Researcher Gilbert: Amazing, thank you so much!	Прекрасно, огромное спасибо!	{}
+[NPC] Marigold: I can't thank you enough! As a token of my gratitude, here's another 25 Gold Essence to get you started at my shop! It's not a lot, but a little goes a long way!	Огромное спасибо! Вот ещё 25 единиц золотой эссенции, чтобы вы могли начать покупать улучшения в моей лавке. Немного, но для начала хватит!	{"25 Gold Essence":"25 единиц золотой эссенции"}
+[NPC] Marigold: Let me show you the Gold Essence Shop!	Давайте покажу вам лавку золотой эссенции!	{"Gold Essence Shop":"лавку золотой эссенции"}
+[NPC] Researcher Gilbert: I'm just looking for a Busted Belt Buckle to remember this place by!	Мне нужна всего лишь сломанная пряжка пояса на память об этом месте!	{"Busted Belt Buckle":"сломанная пряжка пояса"}
+[NPC] Researcher Gilbert: Do you have that souvenir for me?	Вы принесли мой сувенир?	{}
+[NPC] Researcher Gilbert: Please could you get me a Busted Belt Buckle?	Принесите мне, пожалуйста, сломанную пряжку пояса.	{"Busted Belt Buckle":"сломанную пряжку пояса"}
+[NPC] Researcher Gilbert: It appears you don't have my souvenir yet. It would be such a shame to leave without it...	Похоже, моего сувенира у вас пока нет. Так не хочется уезжать без него...	{}
+[NPC] Researcher Gilbert: As much of a dumping ground as this place is, it really feels like MY dumping ground, you know..?	Да, это место похоже на свалку, но зато на МОЮ свалку, понимаете?..	{}
+[NPC] Researcher Gilbert: If it's not too much trouble, might you be able to fish me up a Busted Belt Buckle?	Если вам не трудно, выловите для меня сломанную пряжку пояса.	{"Busted Belt Buckle":"сломанную пряжку пояса"}
+[NPC] Researcher Gilbert: Say, I would like a souvenir to take on my travels, though, to remember this place by.	Правда, хотелось бы взять в путешествие сувенир на память об этом месте.	{}
+[NPC] Researcher Gilbert: Amazing.	Прекрасно.	{}
+[NPC] Researcher Gilbert: I don't have a lot going on now, with retirement and all.	Теперь, на пенсии, у меня не так много дел.	{}
+[NPC] Researcher Gilbert: Hmm, might I be so bold as to ask if I could join you on your adventures?	Хм, могу ли я присоединиться к вашим приключениям?	{}
+[NPC] Researcher Gilbert: Say, is that your Ship parked by the side of the island?	Скажите, это ваш корабль стоит у берега острова?	{"Ship":"корабль"}
+[NPC] Researcher Gilbert: Thank you!	Спасибо!	{}
+[NPC] Researcher Gilbert: Today marks the first day of my retirement!	Сегодня мой первый день на пенсии!	{}
+[NPC] Researcher Gilbert: Well, I was a researcher, I suppose.	Ну, раньше я работал исследователем.	{"was":"раньше"}
+[NPC] Researcher Gilbert: I'm a researcher who focuses upon the study of Frogs!	Я исследователь, изучаю лягушек!	{"Frogs":"лягушек"}
+[NPC] Researcher Gilbert: Hello!	Здравствуйте!	{}
+[NPC] Captain Baha: If you find someone that interests you, persuade them to join the crew!	Если встретите подходящего человека, убедите его присоединиться к экипажу!	{"persuade":"убедите"}
+[NPC] Captain Baha: Use it to find NPCs who might want to join us on our adventure!	С его помощью найдите NPC, которые захотят отправиться в путешествие вместе с нами!	{}
+[NPC] Captain Baha: I've given it some thought, and I think we should recruit some more sailors to help us out.	Я подумал: стоит набрать побольше моряков, которые помогут нам.	{}
+[NPC] Captain Baha: If you want to conquer the seven seas and be the first sailor to reach World's End, we're going to need a bigger crew!	Чтобы покорить семь морей и первым добраться до Края света, вам понадобится больший экипаж!	{"World's End":"Края света","crew":"экипаж"}
+[NPC] Researcher Gilbert: Reach Fishing Level X and talk to Captain Baha on your Ship!	Достигните уровня Рыбалки X и поговорите с Captain Baha на вашем корабле!	{"Fishing Level X":"уровня Рыбалки X","Captain Baha":"Captain Baha","Ship":"корабле"}
+[NPC] Researcher Gilbert: Come back and talk to me once you have unlocked the Ship Crew!	Когда разблокируете экипаж корабля, вернитесь ко мне!	{"Ship Crew":"экипаж корабля"}
+[NPC] Captain Baha: You can find the Ship Crew menu by talking to me.	Поговорите со мной, чтобы открыть меню экипажа корабля.	{"Ship Crew":"экипажа корабля"}
+# Pass 3: Beth's mystery and Moby's fishing introduction.
+[NPC] Beth: He also asks strangers to get him some animals, but these animals are nowhere to be found!	А ещё он просит незнакомцев принести ему животных, которых нигде не найти!	{}
+[NPC] Beth: Jake says he can't walk, but I've seen him walk yesterday.	Jake говорит, что не может ходить, но вчера я сама видела, как он ходит.	{}
+[NPC] Beth: I think I am really onto something here.	Кажется, я действительно напала на след.	{}
+[NPC] Beth: He says he can't leave his house but I've seen him walking around all the time...	Он говорит, что не может выйти из дома, но я постоянно вижу, как он гуляет...	{}
+[NPC] Beth: That Jake fellow is a bit suspicious.	Этот Jake какой-то подозрительный.	{}
+[NPC] Beth: I'm getting really close to solving this mystery.	Я уже совсем близка к разгадке этой тайны.	{}
+[NPC] Moby: So just bring me Glowing Mushroom x8 and I'll show you how to chum, alright buddy?	Принесите мне 8 светящихся грибов, и я покажу, как пользоваться прикормкой. Договорились, приятель?	{"Glowing Mushroom":"светящихся грибов","x8":"8"}
+[NPC] Moby: And listen, I've never seen anybody down here, but you seem like a nice fellow.	Никого раньше тут внизу не встречал, но вы вроде славный человек.	{}
+[NPC] Moby: So yeah, I come back to my crib, right?	И вот, возвращаюсь я к себе домой, понимаете?	{}
+[NPC] Moby: One of them yaps and I say, "ever tried my tonic"?	Один из них болтает без умолку, а я спрашиваю: «Мой тоник пробовал?»	{}
+[NPC] Moby: The other day I was chumming with my chums.	Недавно мы с приятелями рыбачили с прикормкой.	{}
+[NPC] Moby: So listen.	Так вот, слушайте.	{}
+# Pass 4: mining guidance and neighbouring mining visitors.
+[NPC] Gwendolyn: Come back to me when you reach Heart of the Mountain Tier 4.	Вернитесь ко мне, когда достигнете 4-го уровня Сердца горы.	{"Heart of the Mountain":"Сердца горы","4":"4"}
+[NPC] Lapis Miner: How cool is that?	Здорово, правда?	{}
+[NPC] Lapis Miner: I use that experience to enchant my Lapis Pickaxe with efficiency, which makes it mine faster!	Этот опыт я трачу на зачарование «Эффективность» для своей лазуритовой кирки, чтобы добывать блоки быстрее!	{"Lapis Pickaxe":"лазуритовой кирки"}
+[NPC] Lapis Miner: My Lapis Pickaxe might not mine the fastest, but it gives me a lot of experience!	Моя лазуритовая кирка не самая быстрая, зато даёт много опыта!	{"Lapis Pickaxe":"лазуритовая кирка"}
+[NPC] Iron Forger: Seriously though, I only accept Coins.	Но если серьёзно, я принимаю только монеты.	{"Coins":"монеты"}
+[NPC] Iron Forger: For my wares, you'll have to pay the iron price!	За мои товары придётся заплатить «железную цену»!	{"iron price":"железную цену"}
+[NPC] Emissary Wilson: I'm sure that by giving him his least favorite vegetable, he'll make me his favoritest emissary!	Уверен: если принесу ему самый нелюбимый овощ, стану его самым-самым любимым посланником!	{}
+[NPC] Emissary Wilson: The King's least favorite vegetable is carrot, so he sent me, his favorite emissary, to make it better!	Король терпеть не может морковь. Поэтому он отправил меня, своего любимого посланника, исправить положение!	{}
+[NPC] Jotraeline Greatforge: Quite fascinating technology you have there, I'm sure with this machinery we could create even better appliances in the future!	У вас очень интересная техника! Уверена, с такими механизмами в будущем можно создать ещё более совершенные устройства!	{}
+[NPC] Jotraeline Greatforge: I heard you have a composter in your barn, it happens to run on the same fuel drills run on! Could I check it out?	Говорят, у вас в амбаре есть компостер. Он работает на том же топливе, что и буры! Можно на него взглянуть?	{}
+# Pass 5: adjacent Hub/Garden visitor instructions and completion responses.
+[NPC] Jerry: Jerry unhappy.	Jerry недоволен.	{}
+[NPC] Jamie: No worries.	Без проблем.	{}
+[NPC] Farmhand: I took a break from work for too long! Now I need your help to meet my quota!	Я слишком долго отдыхал! Помогите мне выполнить норму сбора урожая!	{}
+[NPC] Weaponsmith: Thanks man! I'll be sure to smear these potatoes all over my weapons, that'll sure improve 'em!	Спасибо, приятель! Намажу оружие этим картофелем — уж это точно его улучшит!	{}
+[NPC] Carpenter: Here you go! Hopefully, you'll make better use of it than I ever could.	Держите! Надеюсь, вам это пригодится больше, чем мне.	{}
+[NPC] Weaponsmith: Hey! I am looking to make some Hot Potato Books to enhance some of my weapons, do you have any potatoes to spare?	Привет! Хочу изготовить книги горячего картофеля для улучшения оружия. У вас есть лишний картофель?	{}
+[NPC] Rusty: There we go, a job well done. I'll make sure to leave a good review for you!	Отлично, работа выполнена! Обязательно оставлю вам хороший отзыв!	{}
+[NPC] Rusty: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their Enchanted Wheat. Can you find that for me?	Знаете, как я нахожу потерянные игроками вещи? Поручаю поиски другим. Сейчас кто-то ищет свою зачарованную пшеницу. Найдёте её для меня?	{"Enchanted Wheat":"зачарованную пшеницу"}
+[NPC] Farmhand: Exactly what I needed. I think I will take the remainder of the day off.	Именно то, что нужно! Пожалуй, остаток дня отдохну.	{}
+[NPC] Jerry: This is not my realm. I must return. Thank you.	Это не мой мир. Мне нужно вернуться. Спасибо.	{}
+[NPC] Carpenter: Hey, how are you doing with the Greenhouse? That blueprint was complex.	Как продвигается работа с теплицей? Чертёж был непростой.	{}

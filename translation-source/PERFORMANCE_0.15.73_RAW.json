@@ -1,0 +1,6123 @@
+{
+  "failed_setup": "One scratch benchmark launch failed before measurement because a JVM property was not quoted in PowerShell;rerun recorded separately.No data from the failed launch used.",
+  "jar_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF",
+  "version": "0.15.73-dev",
+  "earlier_unreleased_unbounded_name_prototype": {
+    "scope": "82-name roster;four isolated JVMs inABBA order;all rounds retained;not game FPS/frame-time proof",
+    "records": [
+      {
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+        "variant": "baseline",
+        "index": 0,
+        "prototype_class_override": false,
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 46.2438,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 120.8,
+            "rounds_ns": [
+              54.0564,
+              42.2898,
+              50.1978,
+              42.1014
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              31.25,
+              31.25,
+              62.5
+            ],
+            "rounds_bytes": [
+              120.800432,
+              120.8,
+              120.8,
+              120.8
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 45.1934,
+            "thread_cpu_ns_per_operation": 46.875,
+            "bytes_per_operation": 92.8,
+            "rounds_ns": [
+              49.0788,
+              43.7006,
+              43.6998,
+              46.6862
+            ],
+            "rounds_cpu_ns": [
+              62.5,
+              31.25,
+              62.5,
+              31.25
+            ],
+            "rounds_bytes": [
+              92.8,
+              92.8,
+              92.8,
+              92.8
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 119.7311,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 459.2,
+            "rounds_ns": [
+              124.3828,
+              117.7726,
+              120.8208,
+              118.6414
+            ],
+            "rounds_cpu_ns": [
+              93.75,
+              125.0,
+              125.0,
+              125.0
+            ],
+            "rounds_bytes": [
+              459.2,
+              459.2,
+              459.2,
+              459.2
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 137.62290000000002,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 416.8,
+            "rounds_ns": [
+              138.5116,
+              137.68,
+              135.7128,
+              137.5658
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              125.0,
+              125.0,
+              125.0
+            ],
+            "rounds_bytes": [
+              416.8,
+              416.8,
+              416.8,
+              416.8
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6095.194750000001,
+            "thread_cpu_ns_per_operation": 5976.5625,
+            "bytes_per_operation": 16926.0,
+            "rounds_ns": [
+              6016.2285,
+              5996.639,
+              6174.161,
+              6439.0365
+            ],
+            "rounds_cpu_ns": [
+              5859.375,
+              5859.375,
+              6093.75,
+              6406.25
+            ],
+            "rounds_bytes": [
+              16824.0,
+              16824.0,
+              17028.0,
+              17232.0
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        }
+      },
+      {
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+        "variant": "candidate",
+        "index": 1,
+        "prototype_class_override": true,
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 18.2655,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              19.0976,
+              18.336,
+              18.0312,
+              18.195
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              0.0,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              0.000432,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 18.996499999999997,
+            "thread_cpu_ns_per_operation": 15.625,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              19.2662,
+              19.0342,
+              18.9308,
+              18.9588
+            ],
+            "rounds_cpu_ns": [
+              0.0,
+              31.25,
+              0.0,
+              31.25
+            ],
+            "rounds_bytes": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 83.8597,
+            "thread_cpu_ns_per_operation": 78.125,
+            "bytes_per_operation": 300.0,
+            "rounds_ns": [
+              96.168,
+              84.3428,
+              83.3766,
+              82.762
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              62.5,
+              62.5,
+              93.75
+            ],
+            "rounds_bytes": [
+              300.0,
+              300.0,
+              300.0,
+              300.0
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 111.6955,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 296.0,
+            "rounds_ns": [
+              114.4144,
+              111.6776,
+              111.7032,
+              111.6878
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              125.0,
+              93.75,
+              125.0
+            ],
+            "rounds_bytes": [
+              296.0,
+              296.0,
+              296.0,
+              296.0
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6266.3195,
+            "thread_cpu_ns_per_operation": 6132.8125,
+            "bytes_per_operation": 16886.0,
+            "rounds_ns": [
+              6196.021,
+              6140.163,
+              6336.618,
+              6530.2435
+            ],
+            "rounds_cpu_ns": [
+              6015.625,
+              6093.75,
+              6171.875,
+              6562.5
+            ],
+            "rounds_bytes": [
+              16784.0,
+              16784.0,
+              16988.0,
+              17192.0
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        }
+      },
+      {
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+        "variant": "candidate",
+        "index": 2,
+        "prototype_class_override": true,
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 18.1548,
+            "thread_cpu_ns_per_operation": 15.625,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              19.0642,
+              18.1796,
+              18.13,
+              18.1084
+            ],
+            "rounds_cpu_ns": [
+              0.0,
+              31.25,
+              0.0,
+              31.25
+            ],
+            "rounds_bytes": [
+              0.000432,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 19.1999,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              23.9054,
+              19.23,
+              19.1698,
+              19.1042
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              31.25,
+              0.0,
+              31.25
+            ],
+            "rounds_bytes": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 86.1305,
+            "thread_cpu_ns_per_operation": 93.75,
+            "bytes_per_operation": 300.0,
+            "rounds_ns": [
+              93.4486,
+              87.048,
+              85.213,
+              84.4684
+            ],
+            "rounds_cpu_ns": [
+              93.75,
+              93.75,
+              93.75,
+              62.5
+            ],
+            "rounds_bytes": [
+              300.0,
+              300.0,
+              300.0,
+              300.0
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 112.3192,
+            "thread_cpu_ns_per_operation": 109.375,
+            "bytes_per_operation": 296.0,
+            "rounds_ns": [
+              117.6518,
+              113.9178,
+              110.5116,
+              110.7206
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              93.75,
+              125.0,
+              93.75
+            ],
+            "rounds_bytes": [
+              296.0,
+              296.0,
+              296.0,
+              296.0
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6338.41675,
+            "thread_cpu_ns_per_operation": 6250.0,
+            "bytes_per_operation": 16830.0,
+            "rounds_ns": [
+              6248.422,
+              6233.503,
+              6428.4115,
+              6678.657
+            ],
+            "rounds_cpu_ns": [
+              6093.75,
+              6171.875,
+              6328.125,
+              6484.375
+            ],
+            "rounds_bytes": [
+              16728.0,
+              16728.0,
+              16932.0,
+              17136.0
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        }
+      },
+      {
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+        "variant": "baseline",
+        "index": 3,
+        "prototype_class_override": false,
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 45.854299999999995,
+            "thread_cpu_ns_per_operation": 46.875,
+            "bytes_per_operation": 120.8,
+            "rounds_ns": [
+              54.6876,
+              42.1258,
+              49.5828,
+              41.5302
+            ],
+            "rounds_cpu_ns": [
+              62.5,
+              31.25,
+              62.5,
+              31.25
+            ],
+            "rounds_bytes": [
+              120.800432,
+              120.8,
+              120.8,
+              120.8
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 45.0703,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 92.8,
+            "rounds_ns": [
+              48.2294,
+              43.526,
+              43.2996,
+              46.6146
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              62.5,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              92.8,
+              92.8,
+              92.8,
+              92.8
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 116.1343,
+            "thread_cpu_ns_per_operation": 109.375,
+            "bytes_per_operation": 459.2,
+            "rounds_ns": [
+              121.0778,
+              114.2884,
+              117.9802,
+              113.9782
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              62.5,
+              93.75,
+              125.0
+            ],
+            "rounds_bytes": [
+              459.2,
+              459.2,
+              459.2,
+              459.2
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 139.1354,
+            "thread_cpu_ns_per_operation": 140.625,
+            "bytes_per_operation": 416.8,
+            "rounds_ns": [
+              139.397,
+              138.8738,
+              136.572,
+              140.562
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              156.25,
+              125.0,
+              156.25
+            ],
+            "rounds_bytes": [
+              416.8,
+              416.8,
+              416.8,
+              416.8
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6282.35925,
+            "thread_cpu_ns_per_operation": 6210.9375,
+            "bytes_per_operation": 16902.0,
+            "rounds_ns": [
+              6181.8235,
+              6169.8215,
+              6382.895,
+              6552.015
+            ],
+            "rounds_cpu_ns": [
+              6171.875,
+              6093.75,
+              6250.0,
+              6406.25
+            ],
+            "rounds_bytes": [
+              16800.0,
+              16800.0,
+              17004.0,
+              17208.0
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        }
+      }
+    ],
+    "summary": [
+      {
+        "mode": "index_negative",
+        "orders": [
+          {
+            "before_ns": 46.2438,
+            "after_bytes": 0.0,
+            "after_thread_cpu_ns": 31.25,
+            "wall_change_percent": -60.501732124090154,
+            "after_ns": 18.2655,
+            "before_thread_cpu_ns": 31.25,
+            "before_bytes": 120.8
+          },
+          {
+            "before_ns": 45.854299999999995,
+            "after_bytes": 0.0,
+            "after_thread_cpu_ns": 15.625,
+            "wall_change_percent": -60.40763897824195,
+            "after_ns": 18.1548,
+            "before_thread_cpu_ns": 46.875,
+            "before_bytes": 120.8
+          }
+        ]
+      },
+      {
+        "mode": "index_positive",
+        "orders": [
+          {
+            "before_ns": 45.1934,
+            "after_bytes": 0.0,
+            "after_thread_cpu_ns": 15.625,
+            "wall_change_percent": -57.96620745507089,
+            "after_ns": 18.996499999999997,
+            "before_thread_cpu_ns": 46.875,
+            "before_bytes": 92.8
+          },
+          {
+            "before_ns": 45.0703,
+            "after_bytes": 0.0,
+            "after_thread_cpu_ns": 31.25,
+            "wall_change_percent": -57.40010605653835,
+            "after_ns": 19.1999,
+            "before_thread_cpu_ns": 31.25,
+            "before_bytes": 92.8
+          }
+        ]
+      },
+      {
+        "mode": "index_legacy",
+        "orders": [
+          {
+            "before_ns": 119.7311,
+            "after_bytes": 300.0,
+            "after_thread_cpu_ns": 78.125,
+            "wall_change_percent": -29.95996862970439,
+            "after_ns": 83.8597,
+            "before_thread_cpu_ns": 125.0,
+            "before_bytes": 459.2
+          },
+          {
+            "before_ns": 116.1343,
+            "after_bytes": 300.0,
+            "after_thread_cpu_ns": 93.75,
+            "wall_change_percent": -25.835433631579985,
+            "after_ns": 86.1305,
+            "before_thread_cpu_ns": 109.375,
+            "before_bytes": 459.2
+          }
+        ]
+      },
+      {
+        "mode": "sequence_stable_roster",
+        "orders": [
+          {
+            "before_ns": 137.62290000000002,
+            "after_bytes": 296.0,
+            "after_thread_cpu_ns": 125.0,
+            "wall_change_percent": -18.839451864478963,
+            "after_ns": 111.6955,
+            "before_thread_cpu_ns": 125.0,
+            "before_bytes": 416.8
+          },
+          {
+            "before_ns": 139.1354,
+            "after_bytes": 296.0,
+            "after_thread_cpu_ns": 109.375,
+            "wall_change_percent": -19.273455928541562,
+            "after_ns": 112.3192,
+            "before_thread_cpu_ns": 140.625,
+            "before_bytes": 416.8
+          }
+        ]
+      },
+      {
+        "mode": "sequence_dynamic_roster",
+        "orders": [
+          {
+            "before_ns": 6095.194750000001,
+            "after_bytes": 16886.0,
+            "after_thread_cpu_ns": 6132.8125,
+            "wall_change_percent": 2.8075353949928994,
+            "after_ns": 6266.3195,
+            "before_thread_cpu_ns": 5976.5625,
+            "before_bytes": 16926.0
+          },
+          {
+            "before_ns": 6282.35925,
+            "after_bytes": 16830.0,
+            "after_thread_cpu_ns": 6250.0,
+            "wall_change_percent": 0.8923001339027126,
+            "after_ns": 6338.41675,
+            "before_thread_cpu_ns": 6210.9375,
+            "before_bytes": 16902.0
+          }
+        ]
+      }
+    ],
+    "prototype": true
+  },
+  "final_general": {
+    "records": [
+      {
+        "variant": "baseline",
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+        "index": 0,
+        "results": {
+          "stable_hud": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 99.11625000000001,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              87.68,
+              89.5475,
+              108.685,
+              172.6675
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6054,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1313.155,
+            "thread_cpu_ns_per_operation": 1171.875,
+            "bytes_per_operation": 1351.2,
+            "rounds_ns": [
+              1329.42,
+              1297.6575,
+              1299.235,
+              1327.075
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              1562.5,
+              1171.875
+            ],
+            "rounds_bytes": [
+              1351.203,
+              1351.2,
+              1351.2,
+              1351.2
+            ]
+          },
+          "dynamic_counter": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 5897.2294999999995,
+            "thread_cpu_ns_per_operation": 5781.25,
+            "bytes_per_operation": 16704.00056,
+            "rounds_ns": [
+              5919.462,
+              5879.2855,
+              5915.1735,
+              5872.822
+            ],
+            "rounds_thread_cpu_ns": [
+              5781.25,
+              5781.25,
+              5859.375,
+              5781.25
+            ],
+            "rounds_bytes": [
+              16704.00056,
+              16704.00056,
+              16704.0,
+              16704.00056
+            ]
+          },
+          "fresh_colors_actions": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 93.80625,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              93.825,
+              93.3675,
+              93.7875,
+              109.9
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 272.18875,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              270.86,
+              272.915,
+              287.51,
+              271.4625
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "over_limit_uncached": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1341.25375,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1334.825,
+              1340.2125,
+              1342.295,
+              1342.66
+            ],
+            "rounds_thread_cpu_ns": [
+              1562.5,
+              1171.875,
+              1171.875,
+              1562.5
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 133.95,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              135.0875,
+              133.37,
+              133.28,
+              134.53
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "dynamic_counter_consume": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6330.9802500000005,
+            "thread_cpu_ns_per_operation": 6250.0,
+            "bytes_per_operation": 17112.00028,
+            "rounds_ns": [
+              6434.068,
+              6330.7765,
+              6331.184,
+              6325.896
+            ],
+            "rounds_thread_cpu_ns": [
+              6406.25,
+              6328.125,
+              6093.75,
+              6171.875
+            ],
+            "rounds_bytes": [
+              17112.0,
+              17112.00056,
+              17112.00056,
+              17112.0
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 103.40125,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              102.58,
+              129.955,
+              102.2875,
+              104.2225
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 333.88375,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              332.8525,
+              349.335,
+              334.915,
+              332.4375
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+        }
+      },
+      {
+        "variant": "candidate",
+        "jar_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF",
+        "index": 1,
+        "results": {
+          "stable_hud": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 101.91125,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              89.265,
+              96.3475,
+              107.475,
+              200.1375
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6054,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1335.005,
+            "thread_cpu_ns_per_operation": 1171.875,
+            "bytes_per_operation": 1351.2,
+            "rounds_ns": [
+              1340.03,
+              1312.0725,
+              1331.4625,
+              1338.5475
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              1562.5,
+              1171.875
+            ],
+            "rounds_bytes": [
+              1351.203,
+              1351.2,
+              1351.2,
+              1351.2
+            ]
+          },
+          "dynamic_counter": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 5901.27725,
+            "thread_cpu_ns_per_operation": 5742.1875,
+            "bytes_per_operation": 16704.00056,
+            "rounds_ns": [
+              5929.2375,
+              5891.9745,
+              5894.3025,
+              5908.252
+            ],
+            "rounds_thread_cpu_ns": [
+              5781.25,
+              5703.125,
+              5859.375,
+              5703.125
+            ],
+            "rounds_bytes": [
+              16704.00056,
+              16704.00056,
+              16704.0,
+              16704.00056
+            ]
+          },
+          "fresh_colors_actions": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 92.28999999999999,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              92.41,
+              92.1225,
+              92.17,
+              112.645
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 267.525,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              267.945,
+              267.105,
+              289.9475,
+              266.445
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "over_limit_uncached": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1124.02625,
+            "thread_cpu_ns_per_operation": 976.5625,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1136.9,
+              1123.605,
+              1120.39,
+              1124.4475
+            ],
+            "rounds_thread_cpu_ns": [
+              781.25,
+              781.25,
+              1171.875,
+              1171.875
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 125.88624999999999,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              125.41,
+              126.0275,
+              126.0175,
+              125.755
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "dynamic_counter_consume": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6381.63825,
+            "thread_cpu_ns_per_operation": 6289.0625,
+            "bytes_per_operation": 17112.00028,
+            "rounds_ns": [
+              6375.38,
+              6380.5795,
+              6382.697,
+              6390.391
+            ],
+            "rounds_thread_cpu_ns": [
+              6328.125,
+              6171.875,
+              6250.0,
+              6328.125
+            ],
+            "rounds_bytes": [
+              17112.0,
+              17112.00056,
+              17112.00056,
+              17112.0
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 99.6475,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              98.9125,
+              119.4775,
+              97.2575,
+              100.3825
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 360.91125,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              361.365,
+              370.25,
+              356.3425,
+              360.4575
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              390.625,
+              390.625
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+        }
+      },
+      {
+        "variant": "candidate",
+        "jar_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF",
+        "index": 2,
+        "results": {
+          "stable_hud": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 98.05375000000001,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              87.355,
+              88.9825,
+              107.125,
+              184.27
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6054,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1303.76,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 1351.2,
+            "rounds_ns": [
+              1313.56,
+              1293.96,
+              1329.4775,
+              1269.365
+            ],
+            "rounds_thread_cpu_ns": [
+              1562.5,
+              1171.875,
+              1562.5,
+              1171.875
+            ],
+            "rounds_bytes": [
+              1351.203,
+              1351.2,
+              1351.2,
+              1351.2
+            ]
+          },
+          "dynamic_counter": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 5901.211499999999,
+            "thread_cpu_ns_per_operation": 5742.1875,
+            "bytes_per_operation": 16704.00056,
+            "rounds_ns": [
+              5904.362,
+              5889.2725,
+              5898.061,
+              5910.3835
+            ],
+            "rounds_thread_cpu_ns": [
+              5703.125,
+              5781.25,
+              5703.125,
+              5937.5
+            ],
+            "rounds_bytes": [
+              16704.0036,
+              16704.00056,
+              16704.0,
+              16704.00056
+            ]
+          },
+          "fresh_colors_actions": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 88.72625,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              89.76,
+              87.6925,
+              101.8775,
+              86.0625
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 255.55375,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              255.2975,
+              254.075,
+              270.06,
+              255.81
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "over_limit_uncached": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1221.5175,
+            "thread_cpu_ns_per_operation": 1171.875,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1230.2875,
+              1221.2925,
+              1217.7725,
+              1221.7425
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              1171.875,
+              1171.875
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 113.82875,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              113.8375,
+              114.3975,
+              113.82,
+              113.35
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "dynamic_counter_consume": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6327.2615000000005,
+            "thread_cpu_ns_per_operation": 6250.0,
+            "bytes_per_operation": 17112.00028,
+            "rounds_ns": [
+              6378.1555,
+              6385.8185,
+              6276.3675,
+              6270.001
+            ],
+            "rounds_thread_cpu_ns": [
+              6328.125,
+              6171.875,
+              6250.0,
+              6250.0
+            ],
+            "rounds_bytes": [
+              17112.0,
+              17112.00056,
+              17112.00056,
+              17112.0
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 102.08000000000001,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              100.2525,
+              119.93,
+              101.775,
+              102.385
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 327.22249999999997,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              329.96,
+              358.1725,
+              324.485,
+              322.5
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+        }
+      },
+      {
+        "variant": "baseline",
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+        "index": 3,
+        "results": {
+          "stable_hud": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 98.39625000000001,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              87.0175,
+              90.56,
+              106.2325,
+              180.38
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6054,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1310.2350000000001,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 1351.2,
+            "rounds_ns": [
+              1331.3725,
+              1304.81,
+              1299.6975,
+              1315.66
+            ],
+            "rounds_thread_cpu_ns": [
+              1562.5,
+              1171.875,
+              1171.875,
+              1562.5
+            ],
+            "rounds_bytes": [
+              1351.2,
+              1351.2,
+              1351.2,
+              1351.203
+            ]
+          },
+          "dynamic_counter": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 5859.858749999999,
+            "thread_cpu_ns_per_operation": 5781.25,
+            "bytes_per_operation": 16704.00056,
+            "rounds_ns": [
+              5850.182,
+              5854.2235,
+              5865.494,
+              5868.2435
+            ],
+            "rounds_thread_cpu_ns": [
+              5781.25,
+              5703.125,
+              5781.25,
+              5781.25
+            ],
+            "rounds_bytes": [
+              16704.00056,
+              16704.00056,
+              16704.0,
+              16704.00056
+            ]
+          },
+          "fresh_colors_actions": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 88.9925,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              93.69,
+              84.295,
+              83.91,
+              110.13
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              566.916,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 280.76750000000004,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              279.1975,
+              280.7825,
+              308.4575,
+              280.7525
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "over_limit_uncached": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1207.45125,
+            "thread_cpu_ns_per_operation": 1171.875,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1207.815,
+              1209.4075,
+              1207.0875,
+              1206.4525
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              1171.875,
+              1562.5
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 126.75125,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              127.185,
+              126.8525,
+              126.455,
+              126.65
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "dynamic_counter_consume": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6332.05,
+            "thread_cpu_ns_per_operation": 6132.8125,
+            "bytes_per_operation": 17112.00028,
+            "rounds_ns": [
+              6347.3605,
+              6334.6215,
+              6329.4785,
+              6326.4105
+            ],
+            "rounds_thread_cpu_ns": [
+              6093.75,
+              6250.0,
+              6171.875,
+              6093.75
+            ],
+            "rounds_bytes": [
+              17112.0,
+              17112.00056,
+              17112.00056,
+              17112.0
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 103.17875000000001,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              103.3075,
+              127.435,
+              102.5225,
+              103.05
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 339.89875,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              334.62,
+              350.675,
+              344.0625,
+              335.735
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              390.625,
+              390.625
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+        }
+      }
+    ],
+    "scope": "No active roster;four isolated JVMs inABBA order;all rounds retained;not game FPS/frame-time proof",
+    "summary": [
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 0.0,
+            "before_thread_cpu_ns": 0.0,
+            "wall_change_percent": 2.81992105229969,
+            "before_ns": 99.11625000000001,
+            "before_bytes": 289.6,
+            "after_bytes": 289.6,
+            "after_ns": 101.91125
+          },
+          {
+            "after_thread_cpu_ns": 0.0,
+            "before_thread_cpu_ns": 0.0,
+            "wall_change_percent": -0.3480823710253156,
+            "before_ns": 98.39625000000001,
+            "before_bytes": 289.6,
+            "after_bytes": 289.6,
+            "after_ns": 98.05375000000001
+          }
+        ],
+        "mode": "stable_hud"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 1171.875,
+            "before_thread_cpu_ns": 1171.875,
+            "wall_change_percent": 1.663931523696749,
+            "before_ns": 1313.155,
+            "before_bytes": 1351.2,
+            "after_bytes": 1351.2,
+            "after_ns": 1335.005
+          },
+          {
+            "after_thread_cpu_ns": 1367.1875,
+            "before_thread_cpu_ns": 1367.1875,
+            "wall_change_percent": -0.49418615744505345,
+            "before_ns": 1310.2350000000001,
+            "before_bytes": 1351.2,
+            "after_bytes": 1351.2,
+            "after_ns": 1303.76
+          }
+        ],
+        "mode": "stable_outside_fresh_context"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 5742.1875,
+            "before_thread_cpu_ns": 5781.25,
+            "wall_change_percent": 0.06863816305606729,
+            "before_ns": 5897.2294999999995,
+            "before_bytes": 16704.00056,
+            "after_bytes": 16704.00056,
+            "after_ns": 5901.27725
+          },
+          {
+            "after_thread_cpu_ns": 5742.1875,
+            "before_thread_cpu_ns": 5781.25,
+            "wall_change_percent": 0.705695337792922,
+            "before_ns": 5859.858749999999,
+            "before_bytes": 16704.00056,
+            "after_bytes": 16704.00056,
+            "after_ns": 5901.211499999999
+          }
+        ],
+        "mode": "dynamic_counter"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 0.0,
+            "before_thread_cpu_ns": 0.0,
+            "wall_change_percent": -1.6163635152242173,
+            "before_ns": 93.80625,
+            "before_bytes": 560.0,
+            "after_bytes": 560.0,
+            "after_ns": 92.28999999999999
+          },
+          {
+            "after_thread_cpu_ns": 0.0,
+            "before_thread_cpu_ns": 0.0,
+            "wall_change_percent": -0.299182515380525,
+            "before_ns": 88.9925,
+            "before_bytes": 560.0,
+            "after_bytes": 560.0,
+            "after_ns": 88.72625
+          }
+        ],
+        "mode": "fresh_colors_actions"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 195.3125,
+            "before_thread_cpu_ns": 390.625,
+            "wall_change_percent": -1.7134249670495372,
+            "before_ns": 272.18875,
+            "before_bytes": 1000.0,
+            "after_bytes": 1000.0,
+            "after_ns": 267.525
+          },
+          {
+            "after_thread_cpu_ns": 195.3125,
+            "before_thread_cpu_ns": 390.625,
+            "wall_change_percent": -8.980295084010804,
+            "before_ns": 280.76750000000004,
+            "before_bytes": 1000.0,
+            "after_bytes": 1000.0,
+            "after_ns": 255.55375
+          }
+        ],
+        "mode": "fragmented16"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 976.5625,
+            "before_thread_cpu_ns": 1367.1875,
+            "wall_change_percent": -16.195854065645687,
+            "before_ns": 1341.25375,
+            "before_bytes": 3856.0,
+            "after_bytes": 3856.0,
+            "after_ns": 1124.02625
+          },
+          {
+            "after_thread_cpu_ns": 1171.875,
+            "before_thread_cpu_ns": 1171.875,
+            "wall_change_percent": 1.164953864597007,
+            "before_ns": 1207.45125,
+            "before_bytes": 3856.0,
+            "after_bytes": 3856.0,
+            "after_ns": 1221.5175
+          }
+        ],
+        "mode": "over_limit_uncached"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 0.0,
+            "before_thread_cpu_ns": 195.3125,
+            "wall_change_percent": -6.01997013811123,
+            "before_ns": 133.95,
+            "before_bytes": 289.6,
+            "after_bytes": 289.6,
+            "after_ns": 125.88624999999999
+          },
+          {
+            "after_thread_cpu_ns": 0.0,
+            "before_thread_cpu_ns": 195.3125,
+            "wall_change_percent": -10.195165728148636,
+            "before_ns": 126.75125,
+            "before_bytes": 289.6,
+            "after_bytes": 289.6,
+            "after_ns": 113.82875
+          }
+        ],
+        "mode": "stable_hud_consume"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 6289.0625,
+            "before_thread_cpu_ns": 6250.0,
+            "wall_change_percent": 0.8001604490868397,
+            "before_ns": 6330.9802500000005,
+            "before_bytes": 17112.00028,
+            "after_bytes": 17112.00028,
+            "after_ns": 6381.63825
+          },
+          {
+            "after_thread_cpu_ns": 6250.0,
+            "before_thread_cpu_ns": 6132.8125,
+            "wall_change_percent": -0.07562321838898711,
+            "before_ns": 6332.05,
+            "before_bytes": 17112.00028,
+            "after_bytes": 17112.00028,
+            "after_ns": 6327.2615000000005
+          }
+        ],
+        "mode": "dynamic_counter_consume"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 195.3125,
+            "before_thread_cpu_ns": 195.3125,
+            "wall_change_percent": -3.630275262629812,
+            "before_ns": 103.40125,
+            "before_bytes": 560.0,
+            "after_bytes": 560.0,
+            "after_ns": 99.6475
+          },
+          {
+            "after_thread_cpu_ns": 0.0,
+            "before_thread_cpu_ns": 0.0,
+            "wall_change_percent": -1.0648995069236555,
+            "before_ns": 103.17875000000001,
+            "before_bytes": 560.0,
+            "after_bytes": 560.0,
+            "after_ns": 102.08000000000001
+          }
+        ],
+        "mode": "fresh_colors_actions_consume"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 390.625,
+            "before_thread_cpu_ns": 390.625,
+            "wall_change_percent": 8.094883323911372,
+            "before_ns": 333.88375,
+            "before_bytes": 1000.0,
+            "after_bytes": 1000.0,
+            "after_ns": 360.91125
+          },
+          {
+            "after_thread_cpu_ns": 390.625,
+            "before_thread_cpu_ns": 390.625,
+            "wall_change_percent": -3.7294194226957456,
+            "before_ns": 339.89875,
+            "before_bytes": 1000.0,
+            "after_bytes": 1000.0,
+            "after_ns": 327.22249999999997
+          }
+        ],
+        "mode": "fragmented16_consume"
+      }
+    ]
+  },
+  "rejected_experiments": [
+    {
+      "root": "build/context73-probe-00ed2a0627714e53bf721c9456acd3e8",
+      "variant": "Direct spliterator consumer;rejected,slower and more allocation",
+      "records": [
+        {
+          "variant": "delivered72 baseline",
+          "index": 0,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.010476705,
+              "bytes_per10": 10000.0152,
+              "rounds_ms": [
+                0.01064592,
+                0.01030749,
+                0.01065884,
+                0.01028261
+              ],
+              "rounds_bytes": [
+                10000.0304,
+                10000.0,
+                10029.6928,
+                10000.0
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.056335634999999995,
+              "bytes_per10": 49680.0144,
+              "rounds_ms": [
+                0.05526265,
+                0.05528984,
+                0.0581944,
+                0.05738143
+              ],
+              "rounds_bytes": [
+                49680.0144,
+                49680.0144,
+                49680.0216,
+                49680.0144
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.020972974999999998,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02044034,
+                0.0206497,
+                0.02172609,
+                0.02129625
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.00085445,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00085907,
+                0.00084983,
+                0.00100257,
+                0.00082426
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 1,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.01093932,
+              "bytes_per10": 10240.0212,
+              "rounds_ms": [
+                0.01104941,
+                0.01076599,
+                0.01109734,
+                0.01082923
+              ],
+              "rounds_bytes": [
+                10240.0304,
+                10240.0,
+                10268.0392,
+                10240.012
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.05766301,
+              "bytes_per10": 49920.0096,
+              "rounds_ms": [
+                0.05551957,
+                0.05648057,
+                0.06086617,
+                0.05884545
+              ],
+              "rounds_bytes": [
+                49920.0144,
+                49920.0096,
+                49920.0048,
+                49920.0096
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.02052599,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02089008,
+                0.02036715,
+                0.02045778,
+                0.0205942
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.000919835,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.0009208,
+                0.00125172,
+                0.00091887,
+                0.00084029
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 2,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.011106725,
+              "bytes_per10": 10240.0224,
+              "rounds_ms": [
+                0.01110713,
+                0.0108833,
+                0.01114051,
+                0.01110632
+              ],
+              "rounds_bytes": [
+                10240.0304,
+                10240.0,
+                10240.0144,
+                10264.084
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.05658892,
+              "bytes_per10": 49920.0096,
+              "rounds_ms": [
+                0.0558564,
+                0.05600779,
+                0.05842161,
+                0.05717005
+              ],
+              "rounds_bytes": [
+                49920.0096,
+                49920.0096,
+                49920.0048,
+                49920.0096
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.021678295,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02130712,
+                0.02191458,
+                0.02222498,
+                0.02144201
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.00085021,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00084638,
+                0.00099291,
+                0.00084771,
+                0.00085271
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "delivered72 baseline",
+          "index": 3,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.010553855000000001,
+              "bytes_per10": 10000.0152,
+              "rounds_ms": [
+                0.01069116,
+                0.01041655,
+                0.01077031,
+                0.01038486
+              ],
+              "rounds_bytes": [
+                10000.0304,
+                10000.0,
+                10030.552,
+                10000.0
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.05734298,
+              "bytes_per10": 49680.0144,
+              "rounds_ms": [
+                0.05551064,
+                0.05613157,
+                0.05855439,
+                0.05940267
+              ],
+              "rounds_bytes": [
+                49680.0144,
+                49680.0144,
+                49680.0216,
+                49680.0144
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.020820190000000002,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02091678,
+                0.02072788,
+                0.0209125,
+                0.02032993
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.0009449300000000001,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00093086,
+                0.000959,
+                0.00098694,
+                0.00085822
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        }
+      ],
+      "candidate_classes": [
+        {
+          "sha256": "7E9952F00C3C61934D70C2EFFCE02635A9138CE6DAB4B3ABC72FC294AC311086",
+          "path": "candidate/ru/wither/skyru/RenderContext.class"
+        },
+        {
+          "sha256": "06720C41D8AC9BF163358E258BF1EC3E64AB87A5A9F94F4DB695662A9A85DA14",
+          "path": "candidate/ru/wither/skyru/RenderContext$1.class"
+        },
+        {
+          "sha256": "1B3B8F35CFD2994F35222075C915E147CE02872DFAC02F7CE21ACF0BE1A708CD",
+          "path": "candidate/ru/wither/skyru/RenderContext$Scan.class"
+        },
+        {
+          "sha256": "9C05461B9B24FE3C0CC8ED763D9E8D64A74B8D324B4F7F8BA757471B708072A4",
+          "path": "candidate/ru/wither/skyru/RenderContext$Scope.class"
+        },
+        {
+          "sha256": "322DEEF14B7371A0796D5B97CCD91DAB209DDBBF308D47D0827A3ACA14D1DC88",
+          "path": "candidate/ru/wither/skyru/RenderContext$Snapshot.class"
+        }
+      ],
+      "not_final_jar_evidence": true
+    },
+    {
+      "root": "build/context73-probe-82f88fba2fe1409287bcfb3f5c2639f7",
+      "variant": "StackWalker initial estimate32;rejected,more allocation",
+      "records": [
+        {
+          "variant": "delivered72 baseline",
+          "index": 0,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.011052875,
+              "bytes_per10": 10000.0152,
+              "rounds_ms": [
+                0.01132,
+                0.01084575,
+                0.01126,
+                0.0108309
+              ],
+              "rounds_bytes": [
+                10000.0304,
+                10000.0,
+                10029.8176,
+                10000.0
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.056313865,
+              "bytes_per10": 49680.0156,
+              "rounds_ms": [
+                0.05523016,
+                0.05550968,
+                0.05711805,
+                0.05795628
+              ],
+              "rounds_bytes": [
+                49680.0144,
+                49680.0144,
+                49680.0168,
+                49680.0216
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.02063522,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02095828,
+                0.02043443,
+                0.0207043,
+                0.02056614
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.000839525,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00082098,
+                0.00085494,
+                0.00098602,
+                0.00082411
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 1,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.01169702,
+              "bytes_per10": 23280.024,
+              "rounds_ms": [
+                0.01175771,
+                0.01170549,
+                0.01167371,
+                0.01168855
+              ],
+              "rounds_bytes": [
+                23308.624,
+                23280.024,
+                23280.0,
+                23280.024
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.05696433,
+              "bytes_per10": 54000.0312,
+              "rounds_ms": [
+                0.05390155,
+                0.05946882,
+                0.06210903,
+                0.05445984
+              ],
+              "rounds_bytes": [
+                54000.0312,
+                54000.0312,
+                54000.0336,
+                54000.0192
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.020550844999999998,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02066808,
+                0.02043361,
+                0.02111801,
+                0.0203733
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.00080949,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00080888,
+                0.0008101,
+                0.00080634,
+                0.00098688
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 2,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.011898005,
+              "bytes_per10": 23280.024,
+              "rounds_ms": [
+                0.01201745,
+                0.01187577,
+                0.01170776,
+                0.01192024
+              ],
+              "rounds_bytes": [
+                23308.9192,
+                23280.024,
+                23280.0,
+                23280.024
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.05712446,
+              "bytes_per10": 54000.0264,
+              "rounds_ms": [
+                0.05540419,
+                0.05615156,
+                0.05809736,
+                0.0581295
+              ],
+              "rounds_bytes": [
+                54000.036,
+                54000.0264,
+                54000.0264,
+                54000.024
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.020724689999999997,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02067458,
+                0.02074081,
+                0.02070857,
+                0.02080354
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.000896415,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.0008514,
+                0.00092653,
+                0.0008663,
+                0.00099148
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "delivered72 baseline",
+          "index": 3,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.01088097,
+              "bytes_per10": 10000.0092,
+              "rounds_ms": [
+                0.01099037,
+                0.0104816,
+                0.01097213,
+                0.01078981
+              ],
+              "rounds_bytes": [
+                10000.0184,
+                10000.0,
+                10000.04,
+                10000.0
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.05618881,
+              "bytes_per10": 49680.012,
+              "rounds_ms": [
+                0.05501216,
+                0.05510955,
+                0.05809804,
+                0.05726807
+              ],
+              "rounds_bytes": [
+                49680.0096,
+                49680.0048,
+                49680.0216,
+                49680.0144
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.020395095000000002,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02013935,
+                0.02055174,
+                0.02062881,
+                0.02023845
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.00084806,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00088181,
+                0.00081243,
+                0.00093534,
+                0.00081431
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        }
+      ],
+      "candidate_classes": [
+        {
+          "sha256": "52FFAD2780845C11FD8911848CD78A3897044B1A7BECAD1B84BB22E264A343B8",
+          "path": "candidate/ru/wither/skyru/RenderContext.class"
+        },
+        {
+          "sha256": "06720C41D8AC9BF163358E258BF1EC3E64AB87A5A9F94F4DB695662A9A85DA14",
+          "path": "candidate/ru/wither/skyru/RenderContext$1.class"
+        },
+        {
+          "sha256": "9C05461B9B24FE3C0CC8ED763D9E8D64A74B8D324B4F7F8BA757471B708072A4",
+          "path": "candidate/ru/wither/skyru/RenderContext$Scope.class"
+        },
+        {
+          "sha256": "322DEEF14B7371A0796D5B97CCD91DAB209DDBBF308D47D0827A3ACA14D1DC88",
+          "path": "candidate/ru/wither/skyru/RenderContext$Snapshot.class"
+        }
+      ],
+      "not_final_jar_evidence": true
+    },
+    {
+      "root": "build/context73-probe-3f04c63b97bd437e8cf43b5b8142b29b",
+      "variant": "Direct metadata front cache;rejected,no consistent complete-walk gain",
+      "records": [
+        {
+          "variant": "delivered72 baseline",
+          "index": 0,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.010478225,
+              "bytes_per10": 10000.022,
+              "rounds_ms": [
+                0.01063271,
+                0.01032374,
+                0.01063502,
+                0.01019557
+              ],
+              "rounds_bytes": [
+                10000.044,
+                10000.0,
+                10028.4112,
+                10000.0
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.05606293,
+              "bytes_per10": 49680.018,
+              "rounds_ms": [
+                0.05525033,
+                0.05552761,
+                0.0576257,
+                0.05659825
+              ],
+              "rounds_bytes": [
+                49680.024,
+                49680.0048,
+                49680.0216,
+                49680.0144
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.020579445000000002,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.02046448,
+                0.02035115,
+                0.02102614,
+                0.02069441
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.0008283100000000001,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00084128,
+                0.00081534,
+                0.00092093,
+                0.00080437
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 1,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.010826680000000002,
+              "bytes_per10": 10240.0292,
+              "rounds_ms": [
+                0.01084379,
+                0.01058834,
+                0.0108388,
+                0.01081456
+              ],
+              "rounds_bytes": [
+                10240.0184,
+                10240.0,
+                10240.04,
+                10263.4408
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.057077069999999994,
+              "bytes_per10": 49920.0156,
+              "rounds_ms": [
+                0.05597397,
+                0.05653265,
+                0.05844109,
+                0.05762149
+              ],
+              "rounds_bytes": [
+                49920.0216,
+                49920.0216,
+                49920.0048,
+                49920.0096
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.019875245,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.01917204,
+                0.019869,
+                0.02243732,
+                0.01988149
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.0008686049999999999,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00079115,
+                0.00096703,
+                0.00080572,
+                0.00093149
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 2,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.010606285,
+              "bytes_per10": 10240.0164,
+              "rounds_ms": [
+                0.01070854,
+                0.01043653,
+                0.01058751,
+                0.01062506
+              ],
+              "rounds_bytes": [
+                10240.0304,
+                10240.0,
+                10240.0024,
+                10265.7832
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.05611742,
+              "bytes_per10": 49920.0096,
+              "rounds_ms": [
+                0.05508388,
+                0.05501689,
+                0.06003321,
+                0.05715096
+              ],
+              "rounds_bytes": [
+                49920.0096,
+                49920.0096,
+                49920.0048,
+                49920.0096
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.018563755,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.0185818,
+                0.01852825,
+                0.01877329,
+                0.01854571
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.00082127,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00083343,
+                0.00098794,
+                0.00079608,
+                0.00080911
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        },
+        {
+          "variant": "delivered72 baseline",
+          "index": 3,
+          "results": {
+            "fresh_shallow": {
+              "ms_per10": 0.010546635,
+              "bytes_per10": 10240.0164,
+              "rounds_ms": [
+                0.01056338,
+                0.0102969,
+                0.01052989,
+                0.01074775
+              ],
+              "rounds_bytes": [
+                10240.0304,
+                10240.0,
+                10240.0024,
+                10263.5392
+              ]
+            },
+            "fresh_deep32": {
+              "ms_per10": 0.056561534999999996,
+              "bytes_per10": 49920.0144,
+              "rounds_ms": [
+                0.05541612,
+                0.05562193,
+                0.05750114,
+                0.05754269
+              ],
+              "rounds_bytes": [
+                49920.0096,
+                49920.0144,
+                49920.0144,
+                49920.0144
+              ]
+            },
+            "warm_metadata64": {
+              "ms_per10": 0.020161489999999997,
+              "bytes_per10": 76960.0,
+              "rounds_ms": [
+                0.01997801,
+                0.02035777,
+                0.02017689,
+                0.02014609
+              ],
+              "rounds_bytes": [
+                76960.0,
+                76960.0,
+                76960.0,
+                76960.0
+              ]
+            },
+            "churn_metadata300": {
+              "ms_per10": 0.000816415,
+              "bytes_per10": 4640.0,
+              "rounds_ms": [
+                0.00080992,
+                0.00092039,
+                0.00082291,
+                0.00080478
+              ],
+              "rounds_bytes": [
+                4640.0,
+                4640.0,
+                4640.0,
+                4640.0
+              ]
+            },
+            "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+          }
+        }
+      ],
+      "candidate_classes": [
+        {
+          "sha256": "1BC854630EEED9F0B10194D7C7AC9826259632A6D1085EAB3632073F122ECA50",
+          "path": "candidate/ru/wither/skyru/RenderContext.class"
+        },
+        {
+          "sha256": "CF82AFC9E3DBC9A33A54E063F082DA382012F1B66B7EBF30B8F9066250B93732",
+          "path": "candidate/ru/wither/skyru/RenderContext$1.class"
+        },
+        {
+          "sha256": "07E5F20AD727782E190C0238B8AA7CE2E8EDDE86BA02CAC6C156BCAFBD91F74B",
+          "path": "candidate/ru/wither/skyru/RenderContext$FrameCache.class"
+        },
+        {
+          "sha256": "62D7B3DFA2FDECB29BA6131E66F0B6B683BE6C494CC55972B7B9A22873AFD223",
+          "path": "candidate/ru/wither/skyru/RenderContext$Scope.class"
+        },
+        {
+          "sha256": "322DEEF14B7371A0796D5B97CCD91DAB209DDBBF308D47D0827A3ACA14D1DC88",
+          "path": "candidate/ru/wither/skyru/RenderContext$Snapshot.class"
+        }
+      ],
+      "not_final_jar_evidence": true
+    },
+    {
+      "root": "build/scratch73-probe-9e83bf7c4c064a529f86fafb887e226a",
+      "variant": "Reusable character scratch;rejected,mixed timings and slower cold counters",
+      "records": [
+        {
+          "variant": "delivered72 baseline",
+          "index": 0,
+          "results": {
+            "stable_hud": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 98.42375,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                89.2325,
+                89.7025,
+                107.145,
+                179.94
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                289.6054,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "stable_outside_fresh_context": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1338.40625,
+              "thread_cpu_ns_per_operation": 1367.1875,
+              "bytes_per_operation": 1351.2,
+              "rounds_ns": [
+                1371.935,
+                1322.545,
+                1319.335,
+                1354.2675
+              ],
+              "rounds_thread_cpu_ns": [
+                1562.5,
+                1171.875,
+                1171.875,
+                1562.5
+              ],
+              "rounds_bytes": [
+                1351.2,
+                1351.2,
+                1351.2,
+                1351.203
+              ]
+            },
+            "dynamic_counter": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 5448.06275,
+              "thread_cpu_ns_per_operation": 5351.5625,
+              "bytes_per_operation": 16648.00056,
+              "rounds_ns": [
+                5440.59,
+                5455.5355,
+                5516.696,
+                5435.307
+              ],
+              "rounds_thread_cpu_ns": [
+                5390.625,
+                5312.5,
+                5468.75,
+                5312.5
+              ],
+              "rounds_bytes": [
+                16648.00056,
+                16648.0,
+                16648.00056,
+                16648.00056
+              ]
+            },
+            "fresh_colors_actions": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 93.2125,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                92.8025,
+                95.3625,
+                93.0025,
+                93.4225
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 273.28375,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                293.6425,
+                272.115,
+                267.3225,
+                274.4525
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "over_limit_uncached": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1393.545,
+              "thread_cpu_ns_per_operation": 1367.1875,
+              "bytes_per_operation": 3856.0,
+              "rounds_ns": [
+                1398.0375,
+                1389.0525,
+                1383.9675,
+                1407.6225
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1562.5,
+                1171.875,
+                1562.5
+              ],
+              "rounds_bytes": [
+                3856.0,
+                3856.0,
+                3856.0,
+                3856.0
+              ]
+            },
+            "stable_hud_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 137.375,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                137.2525,
+                135.6175,
+                141.945,
+                137.4975
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                289.6,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "dynamic_counter_consume": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 5833.601000000001,
+              "thread_cpu_ns_per_operation": 5664.0625,
+              "bytes_per_operation": 17168.00028,
+              "rounds_ns": [
+                5907.5715,
+                5716.5495,
+                5879.983,
+                5787.219
+              ],
+              "rounds_thread_cpu_ns": [
+                5781.25,
+                5546.875,
+                5781.25,
+                5468.75
+              ],
+              "rounds_bytes": [
+                17168.0,
+                17168.00056,
+                17168.0,
+                17168.00056
+              ]
+            },
+            "fresh_colors_actions_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 105.84,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                105.9125,
+                105.7675,
+                134.3825,
+                105.7375
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 359.995,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                365.2875,
+                374.1275,
+                346.12,
+                354.7025
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 1,
+          "results": {
+            "stable_hud": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 98.26875,
+              "thread_cpu_ns_per_operation": 195.3125,
+              "bytes_per_operation": 222.4,
+              "rounds_ns": [
+                136.9175,
+                104.015,
+                89.7575,
+                92.5225
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                222.4054,
+                222.4,
+                222.4,
+                222.4
+              ]
+            },
+            "stable_outside_fresh_context": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1282.8112500000002,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 1284.0,
+              "rounds_ns": [
+                1286.265,
+                1306.855,
+                1279.3575,
+                1273.72
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1171.875,
+                1562.5,
+                1171.875
+              ],
+              "rounds_bytes": [
+                1284.0,
+                1284.0,
+                1284.0,
+                1284.0
+              ]
+            },
+            "dynamic_counter": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6465.24175,
+              "thread_cpu_ns_per_operation": 6250.0,
+              "bytes_per_operation": 16624.00056,
+              "rounds_ns": [
+                6444.272,
+                6621.5745,
+                6477.71,
+                6452.7735
+              ],
+              "rounds_thread_cpu_ns": [
+                6171.875,
+                6484.375,
+                6171.875,
+                6328.125
+              ],
+              "rounds_bytes": [
+                16624.00056,
+                16624.00056,
+                16624.0,
+                16624.00056
+              ]
+            },
+            "fresh_colors_actions": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 102.38749999999999,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 504.0,
+              "rounds_ns": [
+                100.8475,
+                103.9275,
+                88.855,
+                147.085
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                504.0,
+                504.0,
+                504.0,
+                504.0
+              ]
+            },
+            "fragmented16": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 290.55375000000004,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 944.0,
+              "rounds_ns": [
+                294.16,
+                286.1225,
+                314.965,
+                286.9475
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                944.0,
+                944.0,
+                944.0,
+                944.0
+              ]
+            },
+            "over_limit_uncached": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1205.9875,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 1760.0,
+              "rounds_ns": [
+                1225.7575,
+                1568.2625,
+                1147.535,
+                1186.2175
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1562.5,
+                1171.875,
+                1171.875
+              ],
+              "rounds_bytes": [
+                1760.0,
+                1760.0,
+                1760.0,
+                1760.0
+              ]
+            },
+            "stable_hud_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 130.625,
+              "thread_cpu_ns_per_operation": 195.3125,
+              "bytes_per_operation": 222.4,
+              "rounds_ns": [
+                130.7475,
+                145.62,
+                130.4675,
+                130.5025
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                222.4,
+                222.4,
+                222.4,
+                222.4
+              ]
+            },
+            "dynamic_counter_consume": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 7003.671249999999,
+              "thread_cpu_ns_per_operation": 6914.0625,
+              "bytes_per_operation": 17112.00056,
+              "rounds_ns": [
+                7064.8295,
+                7032.945,
+                6974.3975,
+                6959.6645
+              ],
+              "rounds_thread_cpu_ns": [
+                6953.125,
+                6953.125,
+                6875.0,
+                6875.0
+              ],
+              "rounds_bytes": [
+                17112.00056,
+                17112.00056,
+                17112.0,
+                17112.00056
+              ]
+            },
+            "fresh_colors_actions_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 117.51249999999999,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 504.0,
+              "rounds_ns": [
+                113.85,
+                121.175,
+                140.5275,
+                105.81
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                504.0,
+                504.0,
+                504.0,
+                504.0
+              ]
+            },
+            "fragmented16_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 384.3975,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 944.0,
+              "rounds_ns": [
+                386.275,
+                373.2325,
+                409.8075,
+                382.52
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                944.0,
+                944.0,
+                944.0,
+                944.0
+              ]
+            },
+            "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 2,
+          "results": {
+            "stable_hud": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 88.01,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 222.4,
+              "rounds_ns": [
+                141.4175,
+                86.3225,
+                86.385,
+                89.635
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                193.7894,
+                222.4,
+                222.4,
+                222.4
+              ]
+            },
+            "stable_outside_fresh_context": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1281.525,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 1252.0,
+              "rounds_ns": [
+                1279.5825,
+                1327.9375,
+                1283.265,
+                1279.785
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1562.5,
+                1171.875,
+                1171.875
+              ],
+              "rounds_bytes": [
+                1252.0,
+                1252.0,
+                1252.0,
+                1252.0
+              ]
+            },
+            "dynamic_counter": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6624.314,
+              "thread_cpu_ns_per_operation": 6484.375,
+              "bytes_per_operation": 16616.00056,
+              "rounds_ns": [
+                6526.0345,
+                6605.5925,
+                6652.7695,
+                6643.0355
+              ],
+              "rounds_thread_cpu_ns": [
+                6406.25,
+                6562.5,
+                6640.625,
+                6406.25
+              ],
+              "rounds_bytes": [
+                16616.00056,
+                16616.00056,
+                16616.0,
+                16616.00056
+              ]
+            },
+            "fresh_colors_actions": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 100.4725,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 472.0,
+              "rounds_ns": [
+                103.56,
+                99.4175,
+                101.5275,
+                93.3125
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                472.0,
+                472.0,
+                472.0,
+                472.0
+              ]
+            },
+            "fragmented16": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 303.18625,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 944.0,
+              "rounds_ns": [
+                308.72,
+                293.195,
+                297.6525,
+                335.43
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                944.0,
+                944.0,
+                944.0,
+                944.0
+              ]
+            },
+            "over_limit_uncached": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1146.3449999999998,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 1760.0,
+              "rounds_ns": [
+                1157.225,
+                1135.465,
+                1115.8625,
+                1233.965
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1171.875,
+                781.25,
+                1562.5
+              ],
+              "rounds_bytes": [
+                1760.0,
+                1760.0,
+                1760.0,
+                1760.0
+              ]
+            },
+            "stable_hud_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 130.5925,
+              "thread_cpu_ns_per_operation": 195.3125,
+              "bytes_per_operation": 222.4,
+              "rounds_ns": [
+                130.865,
+                127.17,
+                133.41,
+                130.32
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                222.4,
+                222.4,
+                222.4,
+                222.4
+              ]
+            },
+            "dynamic_counter_consume": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 7141.20525,
+              "thread_cpu_ns_per_operation": 6835.9375,
+              "bytes_per_operation": 17056.00056,
+              "rounds_ns": [
+                7096.5115,
+                7203.597,
+                7185.899,
+                7070.3935
+              ],
+              "rounds_thread_cpu_ns": [
+                6718.75,
+                7109.375,
+                6875.0,
+                6796.875
+              ],
+              "rounds_bytes": [
+                17056.00056,
+                17056.00056,
+                17056.0,
+                17056.00056
+              ]
+            },
+            "fresh_colors_actions_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 118.43875,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 504.0,
+              "rounds_ns": [
+                119.1625,
+                119.3125,
+                117.715,
+                102.265
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                504.0,
+                504.0,
+                504.0,
+                504.0
+              ]
+            },
+            "fragmented16_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 360.39125,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 944.0,
+              "rounds_ns": [
+                379.695,
+                465.0825,
+                339.3725,
+                341.0875
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                944.0,
+                944.0,
+                944.0,
+                944.0
+              ]
+            },
+            "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+          }
+        },
+        {
+          "variant": "delivered72 baseline",
+          "index": 3,
+          "results": {
+            "stable_hud": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 102.67,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                88.9275,
+                95.7625,
+                109.5775,
+                178.0125
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                289.6054,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "stable_outside_fresh_context": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1304.02625,
+              "thread_cpu_ns_per_operation": 1367.1875,
+              "bytes_per_operation": 1351.2,
+              "rounds_ns": [
+                1315.64,
+                1261.09,
+                1335.845,
+                1292.4125
+              ],
+              "rounds_thread_cpu_ns": [
+                1562.5,
+                1171.875,
+                1171.875,
+                1562.5
+              ],
+              "rounds_bytes": [
+                1351.2,
+                1351.2,
+                1351.2,
+                1351.203
+              ]
+            },
+            "dynamic_counter": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6345.61375,
+              "thread_cpu_ns_per_operation": 6171.875,
+              "bytes_per_operation": 16704.00056,
+              "rounds_ns": [
+                6237.3045,
+                6357.623,
+                6441.4405,
+                6333.6045
+              ],
+              "rounds_thread_cpu_ns": [
+                6093.75,
+                6406.25,
+                6093.75,
+                6250.0
+              ],
+              "rounds_bytes": [
+                16704.00056,
+                16704.00056,
+                16704.0,
+                16704.00056
+              ]
+            },
+            "fresh_colors_actions": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 106.67500000000001,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                112.4175,
+                100.9325,
+                96.7125,
+                120.7875
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 306.22625,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                312.675,
+                299.7775,
+                335.265,
+                298.5875
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "over_limit_uncached": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1001.66875,
+              "thread_cpu_ns_per_operation": 976.5625,
+              "bytes_per_operation": 3856.0,
+              "rounds_ns": [
+                1002.8475,
+                991.3,
+                1000.49,
+                1009.7225
+              ],
+              "rounds_thread_cpu_ns": [
+                781.25,
+                1171.875,
+                781.25,
+                1171.875
+              ],
+              "rounds_bytes": [
+                3856.0,
+                3856.0,
+                3856.0,
+                3856.0
+              ]
+            },
+            "stable_hud_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 127.99125,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                127.5325,
+                123.5625,
+                129.305,
+                128.45
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                289.6,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "dynamic_counter_consume": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6813.03625,
+              "thread_cpu_ns_per_operation": 6601.5625,
+              "bytes_per_operation": 17168.00056,
+              "rounds_ns": [
+                6780.4235,
+                6824.116,
+                6854.1025,
+                6801.9565
+              ],
+              "rounds_thread_cpu_ns": [
+                6484.375,
+                6718.75,
+                6484.375,
+                6718.75
+              ],
+              "rounds_bytes": [
+                17168.00056,
+                17168.0,
+                17168.00056,
+                17168.00056
+              ]
+            },
+            "fresh_colors_actions_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 103.0475,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                107.245,
+                108.725,
+                98.85,
+                97.115
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 392.3725,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                415.215,
+                392.16,
+                384.14,
+                392.585
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+          }
+        }
+      ],
+      "candidate_classes": [
+        {
+          "sha256": "86934446953BBAC2AEAE93EBC45D5DCB9AE2182C164F2E663F59418CCBB44631",
+          "path": "candidate/ru/wither/skyru/StyledRuns.class"
+        },
+        {
+          "sha256": "EE96CC6351581D4AF4BD42751F6B355FA5CA34934512F436B8A3D28C4CAB9A7F",
+          "path": "candidate/ru/wither/skyru/StyledRuns$Builder.class"
+        },
+        {
+          "sha256": "630041CE4A58DBC0BC3D3224F04CC3B7686019EAC54D4F95D6C552883CA714C1",
+          "path": "candidate/ru/wither/skyru/StyledRuns$Run.class"
+        },
+        {
+          "sha256": "4873DA1C2855CC51318F5D15B81823244D300D9DEF06887F1487BE6E6829247A",
+          "path": "candidate/ru/wither/skyru/StyledRuns$Scratch.class"
+        }
+      ],
+      "not_final_jar_evidence": true
+    },
+    {
+      "root": "build/dictionary73-probe-c7a3ac90e1d941ffa19a6960794653c5",
+      "variant": "Regex-equivalent trim/numeric/URL gates;467497 correctness checks passed,rejected,slower cold counters",
+      "records": [
+        {
+          "variant": "delivered72 baseline",
+          "index": 0,
+          "results": {
+            "stable_hud": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 98.9675,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                88.1875,
+                89.5275,
+                108.4075,
+                184.2275
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                289.6054,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "stable_outside_fresh_context": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1294.4274999999998,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 1351.2,
+              "rounds_ns": [
+                1316.5475,
+                1272.3075,
+                1270.4,
+                1319.735
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1562.5,
+                1171.875,
+                1171.875
+              ],
+              "rounds_bytes": [
+                1351.2,
+                1351.2,
+                1351.2,
+                1351.2
+              ]
+            },
+            "dynamic_counter": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6429.87775,
+              "thread_cpu_ns_per_operation": 6210.9375,
+              "bytes_per_operation": 16704.00056,
+              "rounds_ns": [
+                6293.439,
+                6433.7575,
+                6425.998,
+                6454.305
+              ],
+              "rounds_thread_cpu_ns": [
+                6250.0,
+                6328.125,
+                6093.75,
+                6171.875
+              ],
+              "rounds_bytes": [
+                16704.00056,
+                16704.00056,
+                16704.0,
+                16704.00056
+              ]
+            },
+            "fresh_colors_actions": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 90.9225,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                93.1825,
+                88.6625,
+                87.04,
+                113.3575
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 280.355,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                279.845,
+                274.8375,
+                313.16,
+                280.865
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "over_limit_uncached": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1357.80375,
+              "thread_cpu_ns_per_operation": 1367.1875,
+              "bytes_per_operation": 3856.0,
+              "rounds_ns": [
+                1493.75,
+                1321.2975,
+                1278.2675,
+                1394.31
+              ],
+              "rounds_thread_cpu_ns": [
+                1562.5,
+                1171.875,
+                1562.5,
+                1171.875
+              ],
+              "rounds_bytes": [
+                3856.0,
+                3856.0,
+                3856.0,
+                3856.0
+              ]
+            },
+            "stable_hud_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 134.275,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                134.12,
+                130.22,
+                134.43,
+                134.81
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                289.6,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "dynamic_counter_consume": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6997.66675,
+              "thread_cpu_ns_per_operation": 6796.875,
+              "bytes_per_operation": 17168.00056,
+              "rounds_ns": [
+                7096.9185,
+                6898.415,
+                7274.0455,
+                6727.01
+              ],
+              "rounds_thread_cpu_ns": [
+                6718.75,
+                6875.0,
+                7109.375,
+                6406.25
+              ],
+              "rounds_bytes": [
+                17168.00056,
+                17168.00056,
+                17168.0,
+                17168.00056
+              ]
+            },
+            "fresh_colors_actions_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 114.54374999999999,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                164.325,
+                124.21,
+                104.8775,
+                103.145
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 353.5,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                373.3325,
+                356.53,
+                347.9275,
+                350.47
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 1,
+          "results": {
+            "stable_hud": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 103.49875,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                89.145,
+                97.54,
+                109.4575,
+                178.0525
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                289.6054,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "stable_outside_fresh_context": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1300.39625,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 1351.2,
+              "rounds_ns": [
+                1306.8025,
+                1269.6775,
+                1296.075,
+                1304.7175
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1562.5,
+                1171.875,
+                1171.875
+              ],
+              "rounds_bytes": [
+                1351.2,
+                1351.2,
+                1351.2,
+                1351.2
+              ]
+            },
+            "dynamic_counter": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6821.580749999999,
+              "thread_cpu_ns_per_operation": 6718.75,
+              "bytes_per_operation": 16216.00056,
+              "rounds_ns": [
+                6574.797,
+                7068.3645,
+                6552.324,
+                7076.9245
+              ],
+              "rounds_thread_cpu_ns": [
+                6562.5,
+                6875.0,
+                6484.375,
+                7031.25
+              ],
+              "rounds_bytes": [
+                16216.00056,
+                16216.00056,
+                16216.0,
+                16216.00056
+              ]
+            },
+            "fresh_colors_actions": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 110.81125,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                104.935,
+                100.425,
+                116.6875,
+                116.9775
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 289.3325,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                269.3575,
+                310.9075,
+                297.5375,
+                281.1275
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "over_limit_uncached": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1388.1712499999999,
+              "thread_cpu_ns_per_operation": 1367.1875,
+              "bytes_per_operation": 3856.0,
+              "rounds_ns": [
+                1386.1875,
+                1439.5925,
+                1390.155,
+                1383.54
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1562.5,
+                1562.5,
+                1171.875
+              ],
+              "rounds_bytes": [
+                3856.0,
+                3856.0,
+                3856.0,
+                3856.0028
+              ]
+            },
+            "stable_hud_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 124.74875,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                126.1975,
+                123.3,
+                129.2925,
+                121.5325
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                289.6,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "dynamic_counter_consume": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 7097.876749999999,
+              "thread_cpu_ns_per_operation": 7031.25,
+              "bytes_per_operation": 16656.00056,
+              "rounds_ns": [
+                7719.244,
+                7280.1875,
+                6915.566,
+                6787.361
+              ],
+              "rounds_thread_cpu_ns": [
+                7265.625,
+                7109.375,
+                6953.125,
+                6796.875
+              ],
+              "rounds_bytes": [
+                16656.00056,
+                16656.00056,
+                16656.00056,
+                16656.0
+              ]
+            },
+            "fresh_colors_actions_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 110.20625000000001,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                113.605,
+                141.3325,
+                105.1975,
+                106.8075
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 344.4625,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                346.5875,
+                360.8075,
+                342.3375,
+                338.76
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+          }
+        },
+        {
+          "variant": "unreleased candidate override",
+          "index": 2,
+          "results": {
+            "stable_hud": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 99.30875,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                88.075,
+                90.785,
+                107.8325,
+                178.835
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                289.6054,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "stable_outside_fresh_context": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1276.9137500000002,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 1351.2,
+              "rounds_ns": [
+                1317.22,
+                1260.3875,
+                1257.4525,
+                1293.44
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1171.875,
+                1562.5,
+                1171.875
+              ],
+              "rounds_bytes": [
+                1351.2,
+                1351.2,
+                1351.2,
+                1351.2
+              ]
+            },
+            "dynamic_counter": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6194.05725,
+              "thread_cpu_ns_per_operation": 6132.8125,
+              "bytes_per_operation": 16192.00056,
+              "rounds_ns": [
+                6007.191,
+                6242.3205,
+                6478.866,
+                6145.794
+              ],
+              "rounds_thread_cpu_ns": [
+                6015.625,
+                6171.875,
+                6406.25,
+                6093.75
+              ],
+              "rounds_bytes": [
+                16192.00056,
+                16192.00056,
+                16192.0,
+                16192.00056
+              ]
+            },
+            "fresh_colors_actions": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 95.2175,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                107.9325,
+                96.4425,
+                93.9925,
+                93.08
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 289.72,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                286.5975,
+                285.845,
+                292.8425,
+                316.925
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                390.625,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "over_limit_uncached": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1188.46875,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 3856.0,
+              "rounds_ns": [
+                1165.3075,
+                1297.905,
+                1173.485,
+                1203.4525
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1171.875,
+                1171.875,
+                1171.875
+              ],
+              "rounds_bytes": [
+                3856.0,
+                3856.0,
+                3856.0,
+                3856.0
+              ]
+            },
+            "stable_hud_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 126.2825,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                125.4625,
+                126.265,
+                126.975,
+                126.3
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                289.6,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "dynamic_counter_consume": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 6613.694750000001,
+              "thread_cpu_ns_per_operation": 6445.3125,
+              "bytes_per_operation": 16656.00056,
+              "rounds_ns": [
+                6566.5535,
+                6503.5445,
+                6824.106,
+                6660.836
+              ],
+              "rounds_thread_cpu_ns": [
+                6484.375,
+                6406.25,
+                6796.875,
+                6328.125
+              ],
+              "rounds_bytes": [
+                16656.00056,
+                16656.0,
+                16656.00056,
+                16656.00056
+              ]
+            },
+            "fresh_colors_actions_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 111.35125,
+              "thread_cpu_ns_per_operation": 195.3125,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                112.5925,
+                110.11,
+                127.775,
+                100.655
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 360.48375,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                363.2025,
+                357.305,
+                390.2,
+                357.765
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                390.625,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+          }
+        },
+        {
+          "variant": "delivered72 baseline",
+          "index": 3,
+          "results": {
+            "stable_hud": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 100.73875,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                86.6225,
+                93.7225,
+                107.755,
+                186.045
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                390.625,
+                0.0
+              ],
+              "rounds_bytes": [
+                289.6054,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "stable_outside_fresh_context": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1309.3575,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 1351.2,
+              "rounds_ns": [
+                1328.4575,
+                1303.1775,
+                1295.625,
+                1315.5375
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1171.875,
+                1562.5,
+                1171.875
+              ],
+              "rounds_bytes": [
+                1351.2,
+                1351.2,
+                1351.2,
+                1351.203
+              ]
+            },
+            "dynamic_counter": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 5489.74425,
+              "thread_cpu_ns_per_operation": 5312.5,
+              "bytes_per_operation": 16704.00056,
+              "rounds_ns": [
+                5294.5765,
+                5439.145,
+                5684.2195,
+                5540.3435
+              ],
+              "rounds_thread_cpu_ns": [
+                5234.375,
+                5234.375,
+                5468.75,
+                5390.625
+              ],
+              "rounds_bytes": [
+                16704.0036,
+                16704.0,
+                16704.00056,
+                16704.00056
+              ]
+            },
+            "fresh_colors_actions": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 95.20750000000001,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                102.8075,
+                87.345,
+                87.6075,
+                111.9875
+              ],
+              "rounds_thread_cpu_ns": [
+                0.0,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 282.63,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                303.6725,
+                262.8575,
+                302.4025,
+                260.985
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "over_limit_uncached": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 1280.145,
+              "thread_cpu_ns_per_operation": 1171.875,
+              "bytes_per_operation": 3856.0,
+              "rounds_ns": [
+                1273.2725,
+                1287.0175,
+                1259.39,
+                1287.15
+              ],
+              "rounds_thread_cpu_ns": [
+                1171.875,
+                1171.875,
+                1562.5,
+                1171.875
+              ],
+              "rounds_bytes": [
+                3856.0,
+                3856.0,
+                3856.0,
+                3856.0
+              ]
+            },
+            "stable_hud_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 118.74000000000001,
+              "thread_cpu_ns_per_operation": 195.3125,
+              "bytes_per_operation": 289.6,
+              "rounds_ns": [
+                124.1825,
+                119.465,
+                115.9475,
+                118.015
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                0.0,
+                390.625
+              ],
+              "rounds_bytes": [
+                289.6,
+                289.6,
+                289.6,
+                289.6
+              ]
+            },
+            "dynamic_counter_consume": {
+              "measured_operations_per_round": 200000.0,
+              "ns_per_operation": 5839.199,
+              "thread_cpu_ns_per_operation": 5703.125,
+              "bytes_per_operation": 17112.00028,
+              "rounds_ns": [
+                5865.22,
+                5805.649,
+                5824.9535,
+                5853.4445
+              ],
+              "rounds_thread_cpu_ns": [
+                5703.125,
+                5703.125,
+                5468.75,
+                5703.125
+              ],
+              "rounds_bytes": [
+                17112.0,
+                17112.00056,
+                17112.0,
+                17112.00056
+              ]
+            },
+            "fresh_colors_actions_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 107.38875,
+              "thread_cpu_ns_per_operation": 0.0,
+              "bytes_per_operation": 560.0,
+              "rounds_ns": [
+                109.86,
+                135.865,
+                104.9175,
+                103.78
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "rounds_bytes": [
+                560.0,
+                560.0,
+                560.0,
+                560.0
+              ]
+            },
+            "fragmented16_consume": {
+              "measured_operations_per_round": 40000.0,
+              "ns_per_operation": 334.39,
+              "thread_cpu_ns_per_operation": 390.625,
+              "bytes_per_operation": 1000.0,
+              "rounds_ns": [
+                336.2175,
+                349.6425,
+                332.5625,
+                329.52
+              ],
+              "rounds_thread_cpu_ns": [
+                390.625,
+                0.0,
+                390.625,
+                390.625
+              ],
+              "rounds_bytes": [
+                1000.0,
+                1000.0,
+                1000.0,
+                1000.0
+              ]
+            },
+            "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+          }
+        }
+      ],
+      "candidate_classes": [
+        {
+          "sha256": "952C98646CAB62D9A3950173482924BA66C6AE34AFF495E399167F303BF8F93B",
+          "path": "candidate/ru/wither/skyru/OfflineDictionary.class"
+        },
+        {
+          "sha256": "53CD0513048036C2618872DAF2BDC9E62F0E56BA7162BA2FAAA2759491123BAF",
+          "path": "candidate/ru/wither/skyru/OfflineDictionary$1.class"
+        },
+        {
+          "sha256": "D7151D02DAC3B2E2CA664E52A512E1BA00DA4453078626CD80A2DA20C6FCE130",
+          "path": "candidate/ru/wither/skyru/OfflineDictionary$2.class"
+        },
+        {
+          "sha256": "B73B0C62D75F6CCF7E7CB3171CEEF57D23615BAF63ACCD66277543BD6C75B99A",
+          "path": "candidate/ru/wither/skyru/OfflineDictionary$ReorderedTitle.class"
+        },
+        {
+          "sha256": "1E063ABD926786E78848C76E2239CEECA11D791A2F73C51DFE09C939CF10C7DF",
+          "path": "candidate/ru/wither/skyru/OfflineDictionary$Rule.class"
+        },
+        {
+          "sha256": "01F1FB88E4969578FB0A3C5B4FE52F04072413D74D53E6F3204E92EAFC5D21B4",
+          "path": "candidate/ru/wither/skyru/OfflineDictionary$TitleEdit.class"
+        }
+      ],
+      "not_final_jar_evidence": true
+    }
+  ],
+  "final_roster": {
+    "records": [
+      {
+        "variant": "baseline",
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+        "prototype_class_override": false,
+        "index": 0,
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 45.1322,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 120.8,
+            "rounds_ns": [
+              53.7012,
+              41.9558,
+              48.3086,
+              41.6702
+            ],
+            "rounds_cpu_ns": [
+              62.5,
+              31.25,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              120.800432,
+              120.8,
+              120.8,
+              120.8
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 43.6744,
+            "thread_cpu_ns_per_operation": 46.875,
+            "bytes_per_operation": 92.8,
+            "rounds_ns": [
+              45.6986,
+              42.0766,
+              41.8686,
+              45.2722
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              62.5,
+              31.25,
+              62.5
+            ],
+            "rounds_bytes": [
+              92.8,
+              92.8,
+              92.8,
+              92.8
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 116.8589,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 459.2,
+            "rounds_ns": [
+              121.9306,
+              115.8654,
+              117.8524,
+              115.3662
+            ],
+            "rounds_cpu_ns": [
+              93.75,
+              125.0,
+              125.0,
+              125.0
+            ],
+            "rounds_bytes": [
+              459.2,
+              459.2,
+              459.2,
+              459.2
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 142.14260000000002,
+            "thread_cpu_ns_per_operation": 140.625,
+            "bytes_per_operation": 416.8,
+            "rounds_ns": [
+              141.6242,
+              143.836,
+              139.8316,
+              142.661
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              156.25,
+              156.25,
+              125.0
+            ],
+            "rounds_bytes": [
+              416.8,
+              416.8,
+              416.8,
+              416.8
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6145.8595000000005,
+            "thread_cpu_ns_per_operation": 6054.6875,
+            "bytes_per_operation": 16958.0,
+            "rounds_ns": [
+              6032.3925,
+              6069.5175,
+              6222.2015,
+              6438.443
+            ],
+            "rounds_cpu_ns": [
+              5937.5,
+              5859.375,
+              6171.875,
+              6328.125
+            ],
+            "rounds_bytes": [
+              16856.0,
+              16856.0,
+              17060.0,
+              17264.0
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        }
+      },
+      {
+        "variant": "candidate",
+        "jar_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF",
+        "prototype_class_override": false,
+        "index": 1,
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 20.5656,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 10.4,
+            "rounds_ns": [
+              21.3656,
+              20.5458,
+              20.5854,
+              20.4138
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              0.0,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              10.400432,
+              10.4,
+              10.4,
+              10.4
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 23.6079,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 9.6,
+            "rounds_ns": [
+              23.7574,
+              23.558,
+              23.538,
+              23.6578
+            ],
+            "rounds_cpu_ns": [
+              0.0,
+              31.25,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              9.6,
+              9.6,
+              9.6,
+              9.6
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 87.1138,
+            "thread_cpu_ns_per_operation": 93.75,
+            "bytes_per_operation": 316.8,
+            "rounds_ns": [
+              88.6974,
+              89.56,
+              85.5302,
+              84.9848
+            ],
+            "rounds_cpu_ns": [
+              93.75,
+              93.75,
+              93.75,
+              62.5
+            ],
+            "rounds_bytes": [
+              316.8,
+              316.8,
+              316.8,
+              316.8
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 114.65440000000001,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 306.4,
+            "rounds_ns": [
+              119.2004,
+              114.748,
+              114.5608,
+              114.3772
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              125.0,
+              93.75,
+              125.0
+            ],
+            "rounds_bytes": [
+              306.4,
+              306.4,
+              306.4,
+              306.4
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6024.70625,
+            "thread_cpu_ns_per_operation": 5898.4375,
+            "bytes_per_operation": 16831.70808,
+            "rounds_ns": [
+              5948.201,
+              5906.7935,
+              6101.2115,
+              6326.529
+            ],
+            "rounds_cpu_ns": [
+              5859.375,
+              5781.25,
+              5937.5,
+              6171.875
+            ],
+            "rounds_bytes": [
+              16729.64064,
+              16729.76136,
+              16933.6548,
+              17137.67328
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        }
+      },
+      {
+        "variant": "candidate",
+        "jar_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF",
+        "prototype_class_override": false,
+        "index": 2,
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 20.5346,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 10.4,
+            "rounds_ns": [
+              21.1508,
+              20.5864,
+              20.4828,
+              20.467
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              0.0,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              10.400432,
+              10.4,
+              10.4,
+              10.4
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 23.7594,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 9.6,
+            "rounds_ns": [
+              23.7978,
+              23.721,
+              23.8394,
+              23.7118
+            ],
+            "rounds_cpu_ns": [
+              0.0,
+              31.25,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              9.6,
+              9.6,
+              9.6,
+              9.6
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 159.38189999999997,
+            "thread_cpu_ns_per_operation": 140.625,
+            "bytes_per_operation": 316.8,
+            "rounds_ns": [
+              99.5296,
+              142.4996,
+              176.2642,
+              180.5754
+            ],
+            "rounds_cpu_ns": [
+              62.5,
+              125.0,
+              187.5,
+              156.25
+            ],
+            "rounds_bytes": [
+              316.8,
+              316.8,
+              316.8,
+              316.8
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 113.8288,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 306.4,
+            "rounds_ns": [
+              117.787,
+              112.6334,
+              114.371,
+              113.2866
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              125.0,
+              93.75,
+              125.0
+            ],
+            "rounds_bytes": [
+              306.4,
+              306.4,
+              306.4,
+              306.4
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 5973.877,
+            "thread_cpu_ns_per_operation": 5859.375,
+            "bytes_per_operation": 16831.70808,
+            "rounds_ns": [
+              5888.488,
+              5895.574,
+              6052.18,
+              6265.9855
+            ],
+            "rounds_cpu_ns": [
+              5546.875,
+              5781.25,
+              5937.5,
+              6171.875
+            ],
+            "rounds_bytes": [
+              16729.64064,
+              16729.76136,
+              16933.6548,
+              17137.67328
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        }
+      },
+      {
+        "variant": "baseline",
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+        "prototype_class_override": false,
+        "index": 3,
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 44.6026,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 120.8,
+            "rounds_ns": [
+              54.2362,
+              41.904,
+              47.3012,
+              41.7956
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              31.25,
+              31.25,
+              62.5
+            ],
+            "rounds_bytes": [
+              120.800432,
+              120.8,
+              120.8,
+              120.8
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 44.1737,
+            "thread_cpu_ns_per_operation": 46.875,
+            "bytes_per_operation": 92.8,
+            "rounds_ns": [
+              48.2494,
+              42.39,
+              42.466,
+              45.8814
+            ],
+            "rounds_cpu_ns": [
+              62.5,
+              31.25,
+              62.5,
+              31.25
+            ],
+            "rounds_bytes": [
+              92.8,
+              92.8,
+              92.8,
+              92.8
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 119.0449,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 459.2,
+            "rounds_ns": [
+              123.9006,
+              117.3678,
+              120.1926,
+              117.8972
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              93.75,
+              125.0,
+              125.0
+            ],
+            "rounds_bytes": [
+              459.2,
+              459.2,
+              459.2,
+              459.2
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 140.46429999999998,
+            "thread_cpu_ns_per_operation": 140.625,
+            "bytes_per_operation": 416.8,
+            "rounds_ns": [
+              140.3124,
+              140.6162,
+              137.8362,
+              141.0774
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              156.25,
+              125.0,
+              156.25
+            ],
+            "rounds_bytes": [
+              416.8,
+              416.8,
+              416.8,
+              416.8
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6069.40625,
+            "thread_cpu_ns_per_operation": 5976.5625,
+            "bytes_per_operation": 16902.0,
+            "rounds_ns": [
+              5982.7875,
+              6005.574,
+              6133.2385,
+              6271.576
+            ],
+            "rounds_cpu_ns": [
+              5937.5,
+              6015.625,
+              5937.5,
+              6171.875
+            ],
+            "rounds_bytes": [
+              16800.0,
+              16800.0,
+              17004.0,
+              17208.0
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        }
+      }
+    ],
+    "scope": "82-name roster;four isolated JVMs inABBA order;all rounds retained;not game FPS/frame-time proof",
+    "prototype": false,
+    "summary": [
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 31.25,
+            "before_thread_cpu_ns": 31.25,
+            "wall_change_percent": -54.43253375638679,
+            "before_ns": 45.1322,
+            "before_bytes": 120.8,
+            "after_bytes": 10.4,
+            "after_ns": 20.5656
+          },
+          {
+            "after_thread_cpu_ns": 31.25,
+            "before_thread_cpu_ns": 31.25,
+            "wall_change_percent": -53.96097985319241,
+            "before_ns": 44.6026,
+            "before_bytes": 120.8,
+            "after_bytes": 10.4,
+            "after_ns": 20.5346
+          }
+        ],
+        "mode": "index_negative"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 31.25,
+            "before_thread_cpu_ns": 46.875,
+            "wall_change_percent": -45.94567984906489,
+            "before_ns": 43.6744,
+            "before_bytes": 92.8,
+            "after_bytes": 9.6,
+            "after_ns": 23.6079
+          },
+          {
+            "after_thread_cpu_ns": 31.25,
+            "before_thread_cpu_ns": 46.875,
+            "wall_change_percent": -46.21369729046921,
+            "before_ns": 44.1737,
+            "before_bytes": 92.8,
+            "after_bytes": 9.6,
+            "after_ns": 23.7594
+          }
+        ],
+        "mode": "index_positive"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 93.75,
+            "before_thread_cpu_ns": 125.0,
+            "wall_change_percent": -25.45385931238443,
+            "before_ns": 116.8589,
+            "before_bytes": 459.2,
+            "after_bytes": 316.8,
+            "after_ns": 87.1138
+          },
+          {
+            "after_thread_cpu_ns": 140.625,
+            "before_thread_cpu_ns": 125.0,
+            "wall_change_percent": 33.88385390722321,
+            "before_ns": 119.0449,
+            "before_bytes": 459.2,
+            "after_bytes": 316.8,
+            "after_ns": 159.38189999999997
+          }
+        ],
+        "mode": "index_legacy"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 125.0,
+            "before_thread_cpu_ns": 140.625,
+            "wall_change_percent": -19.338467144965687,
+            "before_ns": 142.14260000000002,
+            "before_bytes": 416.8,
+            "after_bytes": 306.4,
+            "after_ns": 114.65440000000001
+          },
+          {
+            "after_thread_cpu_ns": 125.0,
+            "before_thread_cpu_ns": 140.625,
+            "wall_change_percent": -18.962469467330834,
+            "before_ns": 140.46429999999998,
+            "before_bytes": 416.8,
+            "after_bytes": 306.4,
+            "after_ns": 113.8288
+          }
+        ],
+        "mode": "sequence_stable_roster"
+      },
+      {
+        "orders": [
+          {
+            "after_thread_cpu_ns": 5898.4375,
+            "before_thread_cpu_ns": 6054.6875,
+            "wall_change_percent": -1.9712987255891545,
+            "before_ns": 6145.8595000000005,
+            "before_bytes": 16958.0,
+            "after_bytes": 16831.70808,
+            "after_ns": 6024.70625
+          },
+          {
+            "after_thread_cpu_ns": 5859.375,
+            "before_thread_cpu_ns": 5976.5625,
+            "wall_change_percent": -1.5739472044732472,
+            "before_ns": 6069.40625,
+            "before_bytes": 16902.0,
+            "after_bytes": 16831.70808,
+            "after_ns": 5973.877
+          }
+        ],
+        "mode": "sequence_dynamic_roster"
+      }
+    ]
+  },
+  "final_roster_confirmation": {
+    "summary": [
+      {
+        "mode": "index_negative",
+        "orders": [
+          {
+            "after_bytes": 10.4,
+            "after_thread_cpu_ns": 15.625,
+            "wall_change_percent": -54.113285697635845,
+            "after_ns": 20.473,
+            "before_thread_cpu_ns": 46.875,
+            "before_ns": 44.6164,
+            "before_bytes": 120.8
+          },
+          {
+            "after_bytes": 10.4,
+            "after_thread_cpu_ns": 31.25,
+            "wall_change_percent": -53.312685221268616,
+            "after_ns": 20.606099999999998,
+            "before_thread_cpu_ns": 46.875,
+            "before_ns": 44.1364,
+            "before_bytes": 120.8
+          }
+        ]
+      },
+      {
+        "mode": "index_positive",
+        "orders": [
+          {
+            "after_bytes": 9.6,
+            "after_thread_cpu_ns": 31.25,
+            "wall_change_percent": -41.160015206685664,
+            "after_ns": 26.7759,
+            "before_thread_cpu_ns": 31.25,
+            "before_ns": 45.506299999999996,
+            "before_bytes": 92.8
+          },
+          {
+            "after_bytes": 9.6,
+            "after_thread_cpu_ns": 31.25,
+            "wall_change_percent": -44.497015593607756,
+            "after_ns": 24.669800000000002,
+            "before_thread_cpu_ns": 46.875,
+            "before_ns": 44.4477,
+            "before_bytes": 92.8
+          }
+        ]
+      },
+      {
+        "mode": "index_legacy",
+        "orders": [
+          {
+            "after_bytes": 316.8,
+            "after_thread_cpu_ns": 93.75,
+            "wall_change_percent": -25.208038677660127,
+            "after_ns": 90.0033,
+            "before_thread_cpu_ns": 125.0,
+            "before_ns": 120.3382,
+            "before_bytes": 459.2
+          },
+          {
+            "after_bytes": 316.8,
+            "after_thread_cpu_ns": 93.75,
+            "wall_change_percent": -26.945812726153594,
+            "after_ns": 88.0658,
+            "before_thread_cpu_ns": 125.0,
+            "before_ns": 120.5486,
+            "before_bytes": 459.2
+          }
+        ]
+      },
+      {
+        "mode": "sequence_stable_roster",
+        "orders": [
+          {
+            "after_bytes": 250.4,
+            "after_thread_cpu_ns": 109.375,
+            "wall_change_percent": -17.94730821928241,
+            "after_ns": 113.1258,
+            "before_thread_cpu_ns": 140.625,
+            "before_ns": 137.8697,
+            "before_bytes": 360.8
+          },
+          {
+            "after_bytes": 306.4,
+            "after_thread_cpu_ns": 125.0,
+            "wall_change_percent": -15.672995464473638,
+            "after_ns": 117.05869999999999,
+            "before_thread_cpu_ns": 125.0,
+            "before_ns": 138.8152,
+            "before_bytes": 416.8
+          }
+        ]
+      },
+      {
+        "mode": "sequence_dynamic_roster",
+        "orders": [
+          {
+            "after_bytes": 16775.70808,
+            "after_thread_cpu_ns": 6054.6875,
+            "wall_change_percent": -3.6121847710761434,
+            "after_ns": 6295.90775,
+            "before_thread_cpu_ns": 6406.25,
+            "before_ns": 6531.8502499999995,
+            "before_bytes": 16846.0
+          },
+          {
+            "after_bytes": 16831.70808,
+            "after_thread_cpu_ns": 6562.5,
+            "wall_change_percent": 2.496241590555237,
+            "after_ns": 6630.81575,
+            "before_thread_cpu_ns": 6367.1875,
+            "before_ns": 6469.32575,
+            "before_bytes": 16926.0
+          }
+        ]
+      }
+    ],
+    "scope": "82-name roster;four isolated JVMs inABBA order;all rounds retained;not game FPS/frame-time proof",
+    "prototype": false,
+    "records": [
+      {
+        "index": 0,
+        "variant": "baseline",
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 44.6164,
+            "thread_cpu_ns_per_operation": 46.875,
+            "bytes_per_operation": 120.8,
+            "rounds_ns": [
+              53.994,
+              41.893,
+              47.3398,
+              41.6004
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              62.5,
+              31.25,
+              62.5
+            ],
+            "rounds_bytes": [
+              120.800432,
+              120.8,
+              120.8,
+              120.8
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 45.506299999999996,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 92.8,
+            "rounds_ns": [
+              50.0742,
+              43.231,
+              43.0852,
+              47.7816
+            ],
+            "rounds_cpu_ns": [
+              62.5,
+              31.25,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              92.8,
+              92.8,
+              92.8,
+              92.8
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 120.3382,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 459.2,
+            "rounds_ns": [
+              123.0648,
+              119.0304,
+              121.646,
+              118.3948
+            ],
+            "rounds_cpu_ns": [
+              93.75,
+              125.0,
+              125.0,
+              125.0
+            ],
+            "rounds_bytes": [
+              459.2,
+              459.2,
+              459.2,
+              459.2
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 137.8697,
+            "thread_cpu_ns_per_operation": 140.625,
+            "bytes_per_operation": 360.8,
+            "rounds_ns": [
+              138.7968,
+              135.7736,
+              136.9426,
+              139.712
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              156.25,
+              93.75,
+              156.25
+            ],
+            "rounds_bytes": [
+              360.8,
+              360.8,
+              360.8,
+              360.8
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6531.8502499999995,
+            "thread_cpu_ns_per_operation": 6406.25,
+            "bytes_per_operation": 16846.0,
+            "rounds_ns": [
+              6412.819,
+              6550.5325,
+              6513.168,
+              6995.846
+            ],
+            "rounds_cpu_ns": [
+              6250.0,
+              6484.375,
+              6328.125,
+              6953.125
+            ],
+            "rounds_bytes": [
+              16744.0,
+              16744.0,
+              16948.0,
+              17152.0
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        },
+        "prototype_class_override": false,
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D"
+      },
+      {
+        "index": 1,
+        "variant": "candidate",
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 20.473,
+            "thread_cpu_ns_per_operation": 15.625,
+            "bytes_per_operation": 10.4,
+            "rounds_ns": [
+              21.6216,
+              20.5746,
+              20.3108,
+              20.3714
+            ],
+            "rounds_cpu_ns": [
+              0.0,
+              31.25,
+              31.25,
+              0.0
+            ],
+            "rounds_bytes": [
+              10.400432,
+              10.4,
+              10.4,
+              10.4
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 26.7759,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 9.6,
+            "rounds_ns": [
+              29.0586,
+              24.4932,
+              32.5752,
+              23.9806
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              31.25,
+              31.25,
+              31.25
+            ],
+            "rounds_bytes": [
+              9.6,
+              9.6,
+              9.6,
+              9.6
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 90.0033,
+            "thread_cpu_ns_per_operation": 93.75,
+            "bytes_per_operation": 316.8,
+            "rounds_ns": [
+              90.923,
+              91.5772,
+              88.119,
+              89.0836
+            ],
+            "rounds_cpu_ns": [
+              93.75,
+              62.5,
+              93.75,
+              93.75
+            ],
+            "rounds_bytes": [
+              316.8,
+              316.8,
+              316.8,
+              316.8
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 113.1258,
+            "thread_cpu_ns_per_operation": 109.375,
+            "bytes_per_operation": 250.4,
+            "rounds_ns": [
+              110.9902,
+              114.9674,
+              112.8034,
+              113.4482
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              93.75,
+              125.0,
+              93.75
+            ],
+            "rounds_bytes": [
+              250.4,
+              250.4,
+              250.4,
+              250.4
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6295.90775,
+            "thread_cpu_ns_per_operation": 6054.6875,
+            "bytes_per_operation": 16775.70808,
+            "rounds_ns": [
+              6225.6655,
+              6142.214,
+              6366.15,
+              6655.3745
+            ],
+            "rounds_cpu_ns": [
+              5937.5,
+              6015.625,
+              6093.75,
+              6484.375
+            ],
+            "rounds_bytes": [
+              16673.64064,
+              16673.76136,
+              16877.6548,
+              17081.67328
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        },
+        "prototype_class_override": false,
+        "jar_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF"
+      },
+      {
+        "index": 2,
+        "variant": "candidate",
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 20.606099999999998,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 10.4,
+            "rounds_ns": [
+              21.2744,
+              20.6346,
+              20.5776,
+              20.4034
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              31.25,
+              0.0,
+              31.25
+            ],
+            "rounds_bytes": [
+              10.400432,
+              10.4,
+              10.4,
+              10.4
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 24.669800000000002,
+            "thread_cpu_ns_per_operation": 31.25,
+            "bytes_per_operation": 9.6,
+            "rounds_ns": [
+              28.8116,
+              25.2072,
+              23.9876,
+              24.1324
+            ],
+            "rounds_cpu_ns": [
+              31.25,
+              31.25,
+              0.0,
+              31.25
+            ],
+            "rounds_bytes": [
+              9.6,
+              9.6,
+              9.6,
+              9.6
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 88.0658,
+            "thread_cpu_ns_per_operation": 93.75,
+            "bytes_per_operation": 316.8,
+            "rounds_ns": [
+              96.2456,
+              89.3542,
+              86.7774,
+              85.6114
+            ],
+            "rounds_cpu_ns": [
+              93.75,
+              93.75,
+              62.5,
+              93.75
+            ],
+            "rounds_bytes": [
+              316.8,
+              316.8,
+              316.8,
+              316.8
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 117.05869999999999,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 306.4,
+            "rounds_ns": [
+              120.2612,
+              117.3526,
+              116.7648,
+              116.2752
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              125.0,
+              62.5,
+              125.0
+            ],
+            "rounds_bytes": [
+              306.4,
+              306.4,
+              306.4,
+              306.4
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6630.81575,
+            "thread_cpu_ns_per_operation": 6562.5,
+            "bytes_per_operation": 16831.70808,
+            "rounds_ns": [
+              6625.643,
+              6635.9885,
+              6569.0695,
+              6836.496
+            ],
+            "rounds_cpu_ns": [
+              6562.5,
+              6562.5,
+              6328.125,
+              6640.625
+            ],
+            "rounds_bytes": [
+              16729.64064,
+              16729.76136,
+              16933.6548,
+              17137.67328
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        },
+        "prototype_class_override": false,
+        "jar_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF"
+      },
+      {
+        "index": 3,
+        "variant": "baseline",
+        "results": {
+          "index_negative": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 44.1364,
+            "thread_cpu_ns_per_operation": 46.875,
+            "bytes_per_operation": 120.8,
+            "rounds_ns": [
+              53.0834,
+              41.2426,
+              47.0302,
+              40.9144
+            ],
+            "rounds_cpu_ns": [
+              62.5,
+              31.25,
+              62.5,
+              31.25
+            ],
+            "rounds_bytes": [
+              120.800432,
+              120.8,
+              120.8,
+              120.8
+            ]
+          },
+          "index_positive": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 44.4477,
+            "thread_cpu_ns_per_operation": 46.875,
+            "bytes_per_operation": 92.8,
+            "rounds_ns": [
+              47.7422,
+              42.9168,
+              42.8238,
+              45.9786
+            ],
+            "rounds_cpu_ns": [
+              0.0,
+              62.5,
+              31.25,
+              62.5
+            ],
+            "rounds_bytes": [
+              92.8,
+              92.8,
+              92.8,
+              92.8
+            ]
+          },
+          "index_legacy": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 120.5486,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 459.2,
+            "rounds_ns": [
+              121.747,
+              119.3388,
+              123.4922,
+              119.3502
+            ],
+            "rounds_cpu_ns": [
+              93.75,
+              125.0,
+              125.0,
+              125.0
+            ],
+            "rounds_bytes": [
+              459.2,
+              459.2,
+              459.2,
+              459.2
+            ]
+          },
+          "sequence_stable_roster": {
+            "operations_per_round": 500000.0,
+            "ns_per_operation": 138.8152,
+            "thread_cpu_ns_per_operation": 125.0,
+            "bytes_per_operation": 416.8,
+            "rounds_ns": [
+              138.7254,
+              140.4044,
+              137.2974,
+              138.905
+            ],
+            "rounds_cpu_ns": [
+              125.0,
+              156.25,
+              125.0,
+              125.0
+            ],
+            "rounds_bytes": [
+              416.8,
+              416.8,
+              416.8,
+              416.8
+            ]
+          },
+          "sequence_dynamic_roster": {
+            "operations_per_round": 200000.0,
+            "ns_per_operation": 6469.32575,
+            "thread_cpu_ns_per_operation": 6367.1875,
+            "bytes_per_operation": 16926.0,
+            "rounds_ns": [
+              6476.5145,
+              6462.137,
+              6422.431,
+              6588.92
+            ],
+            "rounds_cpu_ns": [
+              6171.875,
+              6406.25,
+              6328.125,
+              6484.375
+            ],
+            "rounds_bytes": [
+              16824.0,
+              16824.0,
+              17028.0,
+              17232.0
+            ]
+          },
+          "scope": "82-name fixed roster. Warm500k operations/mode,4 measured rounds of500k operations except200k dynamic sequences. Name index directly and real sequence API under a fixed caller snapshot. Legacy-format mode keeps original regex stripping. Thread CPU clock quantized on Windows. Not FPS,0.1%low,GPU,frame time,live roster refresh or complete GUI draw."
+        },
+        "prototype_class_override": false,
+        "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D"
+      }
+    ]
+  },
+  "scope": "Twelve final/baseline processes:four main roster benchmarks,four confirming roster benchmarks andfour general-sequence benchmarks,in ABBA orders. All rounds retained,including anomalously slow legacy-format run in the main set. Twenty-four earlier prototype/baseline processes kept separately,not pooled. Local method wall time/allocation,not game FPS,0.1%low,GPU or full-frame proof. Windows thread CPU clock is quantized."
+}

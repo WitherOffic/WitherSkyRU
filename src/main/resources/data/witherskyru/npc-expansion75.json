@@ -1,0 +1,1339 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "Finite source-backed exact NPC additions loaded into the existing story map once at startup. Not every NPC,all branches,dynamic greetings or observed live colour layouts.",
+  "records": [
+    {
+      "source_key": "npc75.0",
+      "speaker": "Lumber Jack",
+      "source": "[NPC] Lumber Jack: Have you enchanted your axe with Efficiency V? It'll help ya break stuff a lot faster.",
+      "translation": "[NPC] Lumber Jack: Ты уже зачаровал топор на Эффективность V? Так ты будешь рубить гораздо быстрее.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Jack",
+      "style_anchors": [
+        {
+          "target": "Эффективность V",
+          "source": "Efficiency V"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.1",
+      "speaker": "Lumber Jack",
+      "source": "[NPC] Lumber Jack: Have you spoken to my mate Charlie over in The Park yet? He could probably use your help.",
+      "translation": "[NPC] Lumber Jack: Ты уже говорил с моим приятелем Чарли в Парке? Ему наверняка пригодится твоя помощь.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Jack",
+      "style_anchors": [
+        {
+          "target": "Чарли",
+          "source": "Charlie"
+        },
+        {
+          "target": "Парке",
+          "source": "The Park"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.2",
+      "speaker": "Lumber Jack",
+      "source": "[NPC] Lumber Jack: I thought you'd be more thankful for the sweet axe my assistant gave you.",
+      "translation": "[NPC] Lumber Jack: Я думал, ты будешь поблагодарнее за отличный топор, который тебе дал мой помощник.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Jack"
+    },
+    {
+      "source_key": "npc75.3",
+      "speaker": "Lumber Jack",
+      "source": "[NPC] Lumber Jack: My assistant is feeling off, and I think we could do with a hearty meal. Do you think you can help us out?",
+      "translation": "[NPC] Lumber Jack: Мой помощник приболел. Думаю, сытный обед нам бы не помешал. Поможешь?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Jack"
+    },
+    {
+      "source_key": "npc75.4",
+      "speaker": "Lumber Jack",
+      "source": "[NPC] Lumber Jack: My mate Charlie has a Treecapitator! With it, he can break down entire trees in a single swipe!",
+      "translation": "[NPC] Lumber Jack: У моего приятеля Чарли есть Древолом! Он срубает целые деревья одним взмахом!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Jack",
+      "style_anchors": [
+        {
+          "target": "Чарли",
+          "source": "Charlie"
+        },
+        {
+          "target": "Древолом",
+          "source": "Treecapitator"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.5",
+      "speaker": "Lumber Jack",
+      "source": "[NPC] Lumber Jack: Thank you! I'm sure this will make him feel better.",
+      "translation": "[NPC] Lumber Jack: Спасибо! Уверен, ему от этого полегчает.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Jack"
+    },
+    {
+      "source_key": "npc75.6",
+      "speaker": "Taylor",
+      "source": "[NPC] Taylor: Hmm.. I don't think this preview will fit here.",
+      "translation": "[NPC] Taylor: Хм... Кажется, здесь не хватит места для предпросмотра.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Taylor"
+    },
+    {
+      "source_key": "npc75.7",
+      "speaker": "Taylor",
+      "source": "[NPC] Taylor: Oh! You can however view this skin on Our Wiki [CLICK HERE]",
+      "translation": "[NPC] Taylor: О! Но этот облик можно посмотреть на нашей вики [НАЖМИТЕ ЗДЕСЬ]",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Taylor",
+      "style_anchors": [
+        {
+          "target": "НАЖМИТЕ ЗДЕСЬ",
+          "source": "CLICK HERE"
+        },
+        {
+          "target": "нашей вики",
+          "source": "Our Wiki"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.8",
+      "speaker": "Jax",
+      "source": "[NPC] Jax: ✆ Consider yourself lucky you only had to pay 10 million, I could easily have added a zero.",
+      "translation": "[NPC] Jax: ✆ Считай, тебе повезло отделаться всего 10 миллионами. Я запросто мог бы приписать ещё один ноль.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jax",
+      "style_anchors": [
+        {
+          "target": "10",
+          "source": "10"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.9",
+      "speaker": "Jax",
+      "source": "[NPC] Jax: ✆ Uh... maybe before you dare get my contact, you should prove yourself as a real archer first.",
+      "translation": "[NPC] Jax: ✆ Э-э... Прежде чем просить мой номер, докажи, что ты настоящий лучник.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jax"
+    },
+    {
+      "source_key": "npc75.10",
+      "speaker": "Jax",
+      "source": "[NPC] Jax: ✆ Yep, that's right, I'm the best.",
+      "translation": "[NPC] Jax: ✆ Ага, всё верно. Я лучший.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jax"
+    },
+    {
+      "source_key": "npc75.11",
+      "speaker": "Jax",
+      "source": "[NPC] Jax: I have only one condition... These are powerful arrows, they can't fall into the wrong hands so keep them in your quiver and don't share them with anyone.",
+      "translation": "[NPC] Jax: Только одно условие... Эти мощные стрелы не должны попасть в дурные руки. Храни их в колчане и ни с кем не делись.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jax",
+      "style_anchors": [
+        {
+          "target": "колчане",
+          "source": "quiver"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.12",
+      "speaker": "Jax",
+      "source": "[NPC] Jax: Ready to test your skills? Step on the pressure plate and all the targets will light up, if you can shoot them all in 25 seconds, I'll know you're the real deal.",
+      "translation": "[NPC] Jax: Готов проверить свои навыки? Встань на нажимную плиту — все мишени загорятся. Попадёшь во все за 25 секунд — докажешь, что ты настоящий лучник.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jax",
+      "style_anchors": [
+        {
+          "target": "25",
+          "source": "25"
+        },
+        {
+          "target": "нажимную плиту",
+          "source": "pressure plate"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.13",
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: ✆ I tell 'em every time that it's open every day, but when they put down the phone I know they'll call 'n ask again tomorrow.",
+      "translation": "[NPC] Bartender: ✆ Каждый раз говорю: мы открыты ежедневно. Но стоит им положить трубку — уже знаю, что завтра позвонят с тем же вопросом.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bartender"
+    },
+    {
+      "source_key": "npc75.14",
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: ✆ Looks like you've reached Spider Slayer 9, so you're as good a choice as any I suppose.",
+      "translation": "[NPC] Bartender: ✆ Вижу, ты достиг 9-го уровня охоты на пауков. Пожалуй, твой номер можно добавить.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bartender",
+      "style_anchors": [
+        {
+          "target": "9",
+          "source": "9"
+        },
+        {
+          "target": "охоты на пауков",
+          "source": "Spider Slayer"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.15",
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: ✆ People always adding me left and right these days, asking if the ol' tav is open or not.",
+      "translation": "[NPC] Bartender: ✆ Сейчас все только и делают, что добавляют меня и спрашивают, открыта ли наша старая таверна.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bartender"
+    },
+    {
+      "source_key": "npc75.16",
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: ✆ You go and reach Spider Slayer 9, and I'll add you.",
+      "translation": "[NPC] Bartender: ✆ Достигни 9-го уровня охоты на пауков — и я тебя добавлю.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bartender",
+      "style_anchors": [
+        {
+          "target": "9",
+          "source": "9"
+        },
+        {
+          "target": "охоты на пауков",
+          "source": "Spider Slayer"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.17",
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: These are trying times, indeed. The Graveyard up ahead is overflowing with monsters! Anyone who comes in is spooked off by the grunts of Zombies in the distance.",
+      "translation": "[NPC] Bartender: Нелёгкие настали времена. Кладбище впереди кишит чудовищами! Стоит кому-то зайти — и рычание зомби тут же обращает его в бегство.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bartender",
+      "style_anchors": [
+        {
+          "target": "Кладбище",
+          "source": "The Graveyard"
+        },
+        {
+          "target": "зомби",
+          "source": "Zombies"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.18",
+      "speaker": "Clerk Seraphine",
+      "source": "[NPC] Clerk Seraphine: Candidates that were either elected as Mayor or Minister the previous Election sit out the following Election and only have a single perk when they return.",
+      "translation": "[NPC] Clerk Seraphine: Кандидаты, ставшие мэром или министром на прошлых выборах, пропускают следующие. Вернувшись, они получают только один бонус.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine",
+      "style_anchors": [
+        {
+          "target": "мэром",
+          "source": "Mayor"
+        },
+        {
+          "target": "министром",
+          "source": "Minister"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.19",
+      "speaker": "Clerk Seraphine",
+      "source": "[NPC] Clerk Seraphine: Do you want to hear more about that?",
+      "translation": "[NPC] Clerk Seraphine: Хотите узнать об этом подробнее?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine"
+    },
+    {
+      "source_key": "npc75.20",
+      "speaker": "Clerk Seraphine",
+      "source": "[NPC] Clerk Seraphine: Each Mayor also has a ✯ Minister Perk, which goes hand-in-hand with the Minister system!",
+      "translation": "[NPC] Clerk Seraphine: У каждого мэра есть и ✯ бонус министра — часть системы министров!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine",
+      "style_anchors": [
+        {
+          "source": "Mayor",
+          "target": "мэра"
+        },
+        {
+          "source": "✯",
+          "target": "✯"
+        },
+        {
+          "source": "Minister Perk",
+          "target": "бонус министра"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.21",
+      "speaker": "Clerk Seraphine",
+      "source": "[NPC] Clerk Seraphine: Each Mayor has a perk marked as a \"✯ Minister Perk\".",
+      "translation": "[NPC] Clerk Seraphine: У каждого мэра один из бонусов помечен как «✯ бонус министра».",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine",
+      "style_anchors": [
+        {
+          "source": "Mayor",
+          "target": "мэра"
+        },
+        {
+          "source": "✯",
+          "target": "✯"
+        },
+        {
+          "source": "Minister Perk",
+          "target": "бонус министра"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.22",
+      "speaker": "Clerk Seraphine",
+      "source": "[NPC] Clerk Seraphine: Once a Mayor is elected, the runner-up with the most votes is selected to act as their Minister.",
+      "translation": "[NPC] Clerk Seraphine: После избрания мэра кандидат, занявший второе место по голосам, становится его министром.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine",
+      "style_anchors": [
+        {
+          "target": "мэра",
+          "source": "Mayor"
+        },
+        {
+          "target": "министром",
+          "source": "Minister"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.23",
+      "speaker": "Clerk Seraphine",
+      "source": "[NPC] Clerk Seraphine: That Minister will provide its ✯ Minister Perk as a nice little bonus!",
+      "translation": "[NPC] Clerk Seraphine: Этот министр добавит свой ✯ бонус министра к бонусам мэра!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine",
+      "style_anchors": [
+        {
+          "source": "Minister",
+          "target": "министр",
+          "whole_word": true,
+          "source_occurrence": 1
+        },
+        {
+          "source": "✯",
+          "target": "✯"
+        },
+        {
+          "source": "Minister Perk",
+          "target": "бонус министра"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.24",
+      "speaker": "Clerk Seraphine",
+      "source": "[NPC] Clerk Seraphine: They'll usually have somewhere from 1-3, with an 8% chance to receive a 4th if they already have 3.",
+      "translation": "[NPC] Clerk Seraphine: Обычно их от 1 до 3. С вероятностью 8% добавляется 4-й, если уже есть 3.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine",
+      "style_anchors": [
+        {
+          "target": "1",
+          "source": "1"
+        },
+        {
+          "target": "8%",
+          "source": "8%"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.25",
+      "speaker": "Clerk Seraphine",
+      "source": "[NPC] Clerk Seraphine: Well, most of the Mayors have a total of 4 perks to choose from, the amount they have at once varying.",
+      "translation": "[NPC] Clerk Seraphine: У большинства мэров есть 4 возможных бонуса, но число действующих одновременно меняется.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine",
+      "style_anchors": [
+        {
+          "target": "4",
+          "source": "4"
+        },
+        {
+          "target": "мэров",
+          "source": "Mayors"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.26",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Are you here to buy an Abiphone?",
+      "translation": "[NPC] Alda: Хотите купить Абифон?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "Абифон",
+          "source": "Abiphone"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.27",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Have ya ever needed to talk to or buy something from an NPC, but they're on a different island?",
+      "translation": "[NPC] Alda: Бывало, что нужно поговорить с NPC или что-то у него купить, а он на другом острове?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "NPC",
+          "source": "NPC"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.28",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: And getting to them would take ages, even if you had a Travel Scroll?",
+      "translation": "[NPC] Alda: И добираться до него долго, даже со свитком перемещения?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "свитком перемещения",
+          "source": "Travel Scroll"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.29",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: That's where the Abiphone comes in!",
+      "translation": "[NPC] Alda: Вот тут и пригодится Абифон!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "Абифон",
+          "source": "Abiphone"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.30",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Simply add an NPC as a Contact and you can call them anytime, anywhere!",
+      "translation": "[NPC] Alda: Просто добавьте NPC в контакты — и звоните ему откуда угодно и когда угодно!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "контакты",
+          "source": "Contact"
+        },
+        {
+          "target": "NPC",
+          "source": "NPC"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.31",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Sounds amazing, right?",
+      "translation": "[NPC] Alda: Здорово, правда?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda"
+    },
+    {
+      "source_key": "npc75.32",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Then why don't ya buy one? I'll do a little discount, just for you.",
+      "translation": "[NPC] Alda: Так почему бы не купить? Только для вас сделаю небольшую скидку.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda"
+    },
+    {
+      "source_key": "npc75.33",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Congratulations on becoming a proud owner of an Abiphone!",
+      "translation": "[NPC] Alda: Поздравляю с покупкой Абифона!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "Абифона",
+          "source": "Abiphone"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.34",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Before you go, let me show you how to add a contact.",
+      "translation": "[NPC] Alda: Перед уходом покажу, как добавить контакт.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda"
+    },
+    {
+      "source_key": "npc75.35",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Simply hold the Abiphone in your hand, and click on an NPC!",
+      "translation": "[NPC] Alda: Возьмите Абифон в руку и нажмите на NPC!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "Абифон",
+          "source": "Abiphone"
+        },
+        {
+          "target": "NPC",
+          "source": "NPC"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.36",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: Why don't you try it out on me now?",
+      "translation": "[NPC] Alda: Попробуйте прямо сейчас на мне!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda"
+    },
+    {
+      "source_key": "npc75.37",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: ✆ Nice job!",
+      "translation": "[NPC] Alda: ✆ Отлично!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda"
+    },
+    {
+      "source_key": "npc75.38",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: ✆ It's really as simple as that. I'll add myself to your Contacts now!",
+      "translation": "[NPC] Alda: ✆ Вот так просто! Сейчас добавлю себя в ваши контакты.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "контакты",
+          "source": "Contacts"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.39",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: ✆ One last thing - not every NPC owns an Abiphone, so you can't add everyone as a Contact.",
+      "translation": "[NPC] Alda: ✆ И последнее: Абифон есть не у каждого NPC, поэтому добавить можно не всех.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "Абифон",
+          "source": "Abiphone"
+        },
+        {
+          "target": "NPC",
+          "source": "NPC"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.40",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: ✆ To see who you can add, simply open up your phone and check the Contacts Directory.",
+      "translation": "[NPC] Alda: ✆ Откройте телефон и загляните в справочник контактов: там указано, кого можно добавить.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "style_anchors": [
+        {
+          "target": "справочник контактов",
+          "source": "Contacts Directory"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.41",
+      "speaker": "Alda",
+      "source": "[NPC] Alda: ✆ That's it. Enjoy your purchase!",
+      "translation": "[NPC] Alda: ✆ Вот и всё. Приятного пользования!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alda"
+    },
+    {
+      "source_key": "npc75.42",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: I'm here to help you with Bingo!",
+      "translation": "[NPC] Alixer: Я здесь, чтобы помочь тебе с Бинго!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer",
+      "style_anchors": [
+        {
+          "target": "Бинго",
+          "source": "Bingo"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.43",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: Come to me if you want some Potion Effects to help you in your journey!",
+      "translation": "[NPC] Alixer: Приходи за эффектами зелий — с ними путешествовать легче!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer",
+      "style_anchors": [
+        {
+          "target": "эффектами зелий",
+          "source": "Potion Effects"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.44",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: I can give you better effects depending on your Bingo Level.",
+      "translation": "[NPC] Alixer: Чем выше твой уровень Бинго, тем лучше эффекты, которые я могу дать.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer",
+      "style_anchors": [
+        {
+          "target": "уровень Бинго",
+          "source": "Bingo Level"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.45",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: Good Luck!!",
+      "translation": "[NPC] Alixer: Удачи!!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.46",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: I gave you potions recently! Give me some time to prepare new ones!",
+      "translation": "[NPC] Alixer: Я совсем недавно дал тебе зелья! Дай время приготовить новые!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.47",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ You want to have my number?",
+      "translation": "[NPC] Alixer: ✆ Хочешь мой номер?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.48",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ I'd love to give you my number!",
+      "translation": "[NPC] Alixer: ✆ С радостью дам тебе свой номер!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.49",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ However, Bingo requests that you have completed at least 4 Bingo Goals before I can give you my number.",
+      "translation": "[NPC] Alixer: ✆ Но Бинго просит сначала выполнить хотя бы 4 цели Бинго. Тогда я смогу дать тебе номер.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer",
+      "style_anchors": [
+        {
+          "source": "4",
+          "target": "4"
+        },
+        {
+          "source": "Bingo",
+          "target": "Бинго",
+          "whole_word": true,
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        },
+        {
+          "source": "Bingo Goals",
+          "target": "цели Бинго"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.50",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ That's a bunch of Bingo Goals you've completed!",
+      "translation": "[NPC] Alixer: ✆ Ничего себе, сколько целей Бинго ты выполнил!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer",
+      "style_anchors": [
+        {
+          "target": "целей Бинго",
+          "source": "Bingo Goals"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.51",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ I'll gladly give you my number!",
+      "translation": "[NPC] Alixer: ✆ С удовольствием дам свой номер!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.52",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ Hi! Did your potions run out?",
+      "translation": "[NPC] Alixer: ✆ Привет! Действие зелий закончилось?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.53",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ I'm not sure how well this works over the phone...",
+      "translation": "[NPC] Alixer: ✆ Не уверен, сработает ли это по телефону...",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.54",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ Wow!",
+      "translation": "[NPC] Alixer: ✆ Ух ты!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.55",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ Potions travel much faster by phone!",
+      "translation": "[NPC] Alixer: ✆ По телефону зелья перемещаются гораздо быстрее!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.56",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ Good luck with the Bingo!",
+      "translation": "[NPC] Alixer: ✆ Удачи в Бинго!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer",
+      "style_anchors": [
+        {
+          "target": "Бинго",
+          "source": "Bingo"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.57",
+      "speaker": "Alixer",
+      "source": "[NPC] Alixer: ✆ I gave you potions recently! Give me some time to prepare new ones!",
+      "translation": "[NPC] Alixer: ✆ Я совсем недавно дал тебе зелья! Дай время приготовить новые!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
+    {
+      "source_key": "npc75.58",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: Whenever you fish, make sure you're using some type of Bait.",
+      "translation": "[NPC] Angler Angus: На рыбалке всегда пользуйся какой-нибудь наживкой.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "target": "наживкой",
+          "source": "Bait"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.59",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: You can store Bait in your inventory or Fishing Bag, which is unlocked at Raw Cod Collection III.",
+      "translation": "[NPC] Angler Angus: Храни наживку в инвентаре или сумке для рыбалки. Сумка открывается на III уровне коллекции сырой трески.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "target": "наживку",
+          "source": "Bait"
+        },
+        {
+          "target": "сумке для рыбалки",
+          "source": "Fishing Bag"
+        },
+        {
+          "target": "III",
+          "source": "III"
+        },
+        {
+          "target": "сырой трески",
+          "source": "Raw Cod"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.60",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: Bait is automatically consumed whenever you cast your rod, so it's easy to use!",
+      "translation": "[NPC] Angler Angus: Наживка расходуется автоматически при забросе удочки — пользоваться ей просто!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "target": "Наживка",
+          "source": "Bait"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.61",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: I craft Fish Bait all the time because it's so easy to do - just a couple of Raw Cod and a Raw Salmon!",
+      "translation": "[NPC] Angler Angus: Я постоянно делаю рыбную наживку: нужна всего пара сырых тресок и один сырой лосось!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "target": "рыбную наживку",
+          "source": "Fish Bait"
+        },
+        {
+          "target": "сырых тресок",
+          "source": "Raw Cod"
+        },
+        {
+          "target": "сырой лосось",
+          "source": "Raw Salmon"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.62",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: Here, I've got some spare Fish Bait for ya!",
+      "translation": "[NPC] Angler Angus: Держи, у меня есть лишняя рыбная наживка!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "target": "рыбная наживка",
+          "source": "Fish Bait"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.63",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: Fish Bait seems to give a really effective ☂ Fishing Speed boost!",
+      "translation": "[NPC] Angler Angus: Рыбная наживка заметно повышает ☂ скорость рыбалки!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "target": "☂ скорость рыбалки",
+          "source": "☂ Fishing Speed"
+        },
+        {
+          "target": "Рыбная наживка",
+          "source": "Fish Bait"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.64",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: All Baits serve some specialized purpose, so be sure to keep some on you at all times!",
+      "translation": "[NPC] Angler Angus: У каждой наживки своё назначение, так что всегда держи запас под рукой!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "target": "наживки",
+          "source": "Baits"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.65",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: If you have any questions about Bait, you can view my Bait Guide at any time!",
+      "translation": "[NPC] Angler Angus: Есть вопросы о наживках? В любой момент загляни в мой справочник наживок!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "source": "Bait",
+          "target": "наживках",
+          "whole_word": true,
+          "source_occurrence": 1
+        },
+        {
+          "source": "Bait Guide",
+          "target": "справочник наживок"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.66",
+      "speaker": "Angler Angus",
+      "source": "[NPC] Angler Angus: You can also use /bait as a shortcut if you aren't feeling like paying me a visit!",
+      "translation": "[NPC] Angler Angus: Если не хочется идти ко мне, открой его командой /bait!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "style_anchors": [
+        {
+          "target": "/bait",
+          "source": "/bait"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.67",
+      "speaker": "Apprentice",
+      "source": "[NPC] Apprentice: The Furniture Shop has many different kinds of cool furniture for you to put in your world!",
+      "translation": "[NPC] Apprentice: В мебельном магазине полно отличной мебели для твоего мира!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Apprentice",
+      "style_anchors": [
+        {
+          "target": "мебельном магазине",
+          "source": "Furniture Shop"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.68",
+      "speaker": "Apprentice",
+      "source": "[NPC] Apprentice: For a price, you can buy it here!",
+      "translation": "[NPC] Apprentice: Купить её можно прямо здесь — за плату, конечно!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Apprentice"
+    },
+    {
+      "source_key": "npc75.69",
+      "speaker": "Apprentice",
+      "source": "[NPC] Apprentice: I'm still learning carpentry. I learn the most when crafting enchanted items!",
+      "translation": "[NPC] Apprentice: Я ещё учусь плотницкому делу. Больше всего опыта получаю, создавая зачарованные предметы!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Apprentice",
+      "style_anchors": [
+        {
+          "target": "плотницкому делу",
+          "source": "carpentry"
+        },
+        {
+          "target": "зачарованные предметы",
+          "source": "enchanted items"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.70",
+      "speaker": "Apprentice",
+      "source": "[NPC] Apprentice: Talk to the Carpenter upstairs to learn more about Carpentry!",
+      "translation": "[NPC] Apprentice: Поговори с Плотником наверху, чтобы узнать больше о плотницком деле!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Apprentice",
+      "style_anchors": [
+        {
+          "target": "Плотником",
+          "source": "Carpenter"
+        },
+        {
+          "target": "плотницком деле",
+          "source": "Carpentry"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.71",
+      "speaker": "Apprentice",
+      "source": "[NPC] Apprentice: Looking for wool? Try the Mushroom Desert!",
+      "translation": "[NPC] Apprentice: Ищешь шерсть? Загляни в Грибную пустыню!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Apprentice",
+      "style_anchors": [
+        {
+          "target": "Грибную пустыню",
+          "source": "Mushroom Desert"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.72",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: Ever thought you'd see a Tier 12 Minion?",
+      "translation": "[NPC] Bulvar: Не думал, что увидишь миньона ранга 12?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+      "style_anchors": [
+        {
+          "target": "12",
+          "source": "12"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.73",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: Well, today's your lucky day!",
+      "translation": "[NPC] Bulvar: Что ж, сегодня твой счастливый день!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar"
+    },
+    {
+      "source_key": "npc75.74",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ Hmm? My Abiphone Contact?",
+      "translation": "[NPC] Bulvar: ✆ Хм? Мой контакт в Абифоне?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+      "style_anchors": [
+        {
+          "target": "Абифоне",
+          "source": "Abiphone"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.75",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ Well, today might just be your lucky day - again.",
+      "translation": "[NPC] Bulvar: ✆ Похоже, сегодня тебе снова повезло.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar"
+    },
+    {
+      "source_key": "npc75.76",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ Abiphones ain't much use down here - you'll seldom get a signal, but I do own one.",
+      "translation": "[NPC] Bulvar: ✆ Здесь от Абифонов мало толку: связь ловит редко. Но у меня один есть.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+      "style_anchors": [
+        {
+          "target": "Абифонов",
+          "source": "Abiphones"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.77",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ Seeing as I'm feeling nice, I'll give you my contact for the small sum of one Silex.",
+      "translation": "[NPC] Bulvar: ✆ Я сегодня добрый, так что дам свой номер всего за один кремень Silex.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+      "style_anchors": [
+        {
+          "target": "кремень Silex",
+          "source": "Silex"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.78",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ How about it?",
+      "translation": "[NPC] Bulvar: ✆ Ну как?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar"
+    },
+    {
+      "source_key": "npc75.79",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ I don't know what ya think that is, but it's not a Silex.",
+      "translation": "[NPC] Bulvar: ✆ Не знаю, за что ты это принимаешь, но это не кремень Silex.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+      "style_anchors": [
+        {
+          "target": "кремень Silex",
+          "source": "Silex"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.80",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ Come back once you've got yourself one.",
+      "translation": "[NPC] Bulvar: ✆ Приходи, когда раздобудешь его.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar"
+    },
+    {
+      "source_key": "npc75.81",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ That'll do it!",
+      "translation": "[NPC] Bulvar: ✆ Вот это подойдёт!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar"
+    },
+    {
+      "source_key": "npc75.82",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ Cheers friend, once I got that on my Drill I'll be mining like Divan!",
+      "translation": "[NPC] Bulvar: ✆ Спасибо, друг! Поставлю это на бур — и буду добывать руду не хуже Дивана!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+      "style_anchors": [
+        {
+          "target": "Дивана",
+          "source": "Divan"
+        },
+        {
+          "target": "бур",
+          "source": "Drill"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.83",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ Oh, and before I forget - here's that contact you were asking for.",
+      "translation": "[NPC] Bulvar: ✆ Да, чуть не забыл: вот номер, который ты просил.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar"
+    },
+    {
+      "source_key": "npc75.84",
+      "speaker": "Bulvar",
+      "source": "[NPC] Bulvar: ✆ Give me a call in case you ever need some Tier XII Mining Minions.",
+      "translation": "[NPC] Bulvar: ✆ Звони, если понадобятся шахтёрские миньоны ранга XII.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+      "style_anchors": [
+        {
+          "target": "шахтёрские миньоны",
+          "source": "Mining Minions"
+        },
+        {
+          "target": "ранга XII",
+          "source": "Tier XII"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.85",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Sales are too good right now, I can't keep up with the demand!",
+      "translation": "[NPC] Carpenter: Продажи идут так хорошо, что я не успеваю пополнять запасы!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter"
+    },
+    {
+      "source_key": "npc75.86",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Could you bring a stack of White Wool to help replenish my stock?",
+      "translation": "[NPC] Carpenter: Принесёшь стопку белой шерсти, чтобы пополнить мои запасы?",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "белой шерсти",
+          "source": "White Wool"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.87",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Sheep over in The Barn drop wool, but you can also purchase it from the Wool Weaver.",
+      "translation": "[NPC] Carpenter: Шерсть выпадает из овец в Амбаре. Ещё её можно купить у Ткача шерсти.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "Амбаре",
+          "source": "The Barn"
+        },
+        {
+          "target": "Ткача шерсти",
+          "source": "Wool Weaver"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.88",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: She lives in a house in the main plaza near the bank.",
+      "translation": "[NPC] Carpenter: Она живёт в доме на главной площади, недалеко от банка.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter"
+    },
+    {
+      "source_key": "npc75.89",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Come back with a stack of White Wool!",
+      "translation": "[NPC] Carpenter: Возвращайся со стопкой белой шерсти!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "белой шерсти",
+          "source": "White Wool"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.90",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Wow, thanks so much for the help!",
+      "translation": "[NPC] Carpenter: Ух ты, огромное спасибо за помощь!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter"
+    },
+    {
+      "source_key": "npc75.91",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Carpentry is my passion, I always love to teach others.",
+      "translation": "[NPC] Carpenter: Плотницкое дело — моя страсть. Всегда рад научить других!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "Плотницкое дело",
+          "source": "Carpentry"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.92",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Here's the recipe for the Carpentry Table. You can place it in your world and craft furniture that you've unlocked!",
+      "translation": "[NPC] Carpenter: Вот рецепт стола столяра. Поставь его в своём мире и создавай мебель по открытым рецептам!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "стола столяра",
+          "source": "Carpentry Table"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.93",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: You can now gain Carpentry XP by crafting items. Leveling your Carpentry Skill unlocks new furniture recipes!",
+      "translation": "[NPC] Carpenter: Теперь создание предметов даёт опыт плотницкого дела. Повышай уровень этого навыка, чтобы открывать новые рецепты мебели!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "source": "Carpentry",
+          "target": "плотницкого дела",
+          "whole_word": true,
+          "source_occurrence": 1
+        },
+        {
+          "source": "XP",
+          "target": "опыт",
+          "whole_word": true
+        },
+        {
+          "source": "Carpentry Skill",
+          "target": "этого навыка"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.94",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Check out the Furniture Shop downstairs!",
+      "translation": "[NPC] Carpenter: Загляни в мебельный магазин внизу!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "мебельный магазин",
+          "source": "Furniture Shop"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.95",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: The Furniture Shop is downstairs. Purchase cool furniture down there!",
+      "translation": "[NPC] Carpenter: Мебельный магазин внизу. Там можно купить отличную мебель!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "Мебельный магазин",
+          "source": "Furniture Shop"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.96",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Ah, hello there! I have some information for you, but you need to finish talking to Sam first!",
+      "translation": "[NPC] Carpenter: А, здравствуйте! Мне есть что вам рассказать, но сначала закончите разговор с Сэмом!",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "Сэмом",
+          "source": "Sam"
+        }
+      ]
+    },
+    {
+      "source_key": "npc75.97",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: No worries, I'll come back later.",
+      "translation": "[NPC] Carpenter: Не беспокойтесь, я зайду позже.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter"
+    },
+    {
+      "source_key": "npc75.98",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: No worries, I'll hang on to it for now. I'll come back later.",
+      "translation": "[NPC] Carpenter: Не беспокойтесь, пока оставлю это у себя. Зайду позже.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter"
+    },
+    {
+      "source_key": "npc75.99",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Thank you! I'll be checking in to see how you're doing with the Greenhouse.",
+      "translation": "[NPC] Carpenter: Спасибо! Буду заглядывать к вам, чтобы узнать, как идут дела с теплицей.",
+      "evidence": "published_community_wiki_exact_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "style_anchors": [
+        {
+          "target": "теплицей",
+          "source": "Greenhouse"
+        }
+      ]
+    }
+  ]
+}

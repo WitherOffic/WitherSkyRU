@@ -1,0 +1,37 @@
+{
+  "scope": "Published ambiguities excluded from exact additions,not assertions that live dialogue does not exist.",
+  "variable_patterns": "\\[[Pp][Ll][Aa][Yy][Ee][Rr]\\]|<[^>]+>|\\[crop\\]|\\[pet\\]|#|abbr>|<sup>",
+  "historical_cutoffs": {
+    "Rusty": "First Interaction\nBefore April 25, 2022"
+  },
+  "exact_exclusions": [
+    {
+      "source": "[NPC] Carnival Leader: Welcome to The Carnival, player!",
+      "reason": "Bare 'player' is a publication placeholder,not a literal observed username."
+    },
+    {
+      "source": "[NPC] Hoppity: ✆ He's a clever one, that fish.",
+      "reason": "Followed by unprefixed 'I can never catch him.'; packet boundary unknown."
+    },
+    {
+      "source": "[NPC] Bingo: Good luck this week.",
+      "reason": "Followed by unprefixed 'And remember...haaaaave fun with it!'; packet boundary unknown."
+    },
+    {
+      "source": "[NPC] Blacksmith: ✆ I owe a lot of money to someone...",
+      "reason": "Followed by unprefixed 'Someone important.'; packet boundary unknown."
+    },
+    {
+      "source": "[SECURITY] Sloth: Here are some helpful support articles that will help you keep your account more secure and avoid losing valuable progress or items. ‎General Security Support Article CLICK HERE SkyBlock Security Support Article CLICK HERE",
+      "reason": "Unprefixed link block with unclear packet and per-link boundaries; preserve original until observed layout is available."
+    }
+  ],
+  "functional_tokens_to_keep": [
+    {
+      "speaker": "St. Jerry",
+      "token": "I love the warmth of the Holidays despite the snow",
+      "reason": "Server asks the player to repeat this exact phrase. Explain in Russian but retain the required English input verbatim;never send it."
+    }
+  ],
+  "unknown_fps_impact": true
+}

@@ -1,0 +1,19 @@
+{
+  "trigger": "Forward pair existing_dynamic+12.86%;other forward modes<=1.91%. Modes selected before inspecting reverse-pair results,not a selected best run.",
+  "modes": [
+    "existing_dynamic",
+    "unknown_system_notifications",
+    "retained_cosmetic_notifications"
+  ],
+  "warmup_calls_at_least": 1000000,
+  "measured_rounds": 4,
+  "calls_per_round_at_least": 1000000,
+  "order": [
+    "108",
+    "109",
+    "109",
+    "108"
+  ],
+  "retain_original_raw": true,
+  "scope": "Receipt only,not render/FPS/frametime/0.1% lows."
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-14",
+  "scope": "Four user screenshot prose groups and the additional reward paragraph visible in Chronomatron; original English reconstruction and closed mixed-language variants, not a complete live GUI capture",
+  "records": [
+    {
+      "key": "chronomatron",
+      "screenshot": "codex-clipboard-42138320-f87f-42f2-a725-37b93c7f97f6.png",
+      "title": "Chronomatron",
+      "variants": {"Repeat":["Repeat","Повторение"]},
+      "source_legacy": ["§aRepeat §7the musical §dpattern §7to form the","§7longest chain of notes."],
+      "expected": ["Повторяйте мелодию, чтобы составить","самую длинную цепочку нот."],
+      "anchors": [[0,"Repeat",0,"Повторяйте"],[0,"pattern",0,"мелодию"]]
+    },
+    {
+      "key": "addon_reward",
+      "screenshot": "codex-clipboard-42138320-f87f-42f2-a725-37b93c7f97f6.png",
+      "title": "Chronomatron",
+      "variants": {"and":["and","и"],"Superpairs":["Superpairs","Суперпары"]},
+      "source_legacy": ["§7Earn extra §3Enchanting Exp §7and","§7extra clicks on your next","§dSuperpairs!"],
+      "expected": ["Даёт дополнительный опыт зачарования и","дополнительные ходы в следующих","Суперпарах!"],
+      "anchors": [[0,"Enchanting Exp",0,"опыт зачарования"],[2,"Superpairs",2,"Суперпарах"]]
+    },
+    {
+      "key": "guesting",
+      "screenshot": "codex-clipboard-5d9e4074-8962-452f-b4e6-b3fc9c823140.png",
+      "title": "Visits & Guesting",
+      "variants": {"players":["players","игроки","Игроки"]},
+      "source_legacy": ["§7Learn all about how to §a/visit §7players","§7across the SkyBlock universe!"],
+      "expected": ["Узнайте, как с помощью /visit посещать игроков","в мире SkyBlock!"],
+      "anchors": [[0,"/visit",0,"/visit"],[1,"SkyBlock",1,"SkyBlock"]]
+    },
+    {
+      "key": "garden_warp",
+      "screenshot": "codex-clipboard-248b4fab-a177-4d5c-b26b-c1557da68689.png",
+      "title": "Warp to Garden",
+      "variants": {"Garden":["Garden","Сад"],"Crops":["Crops","crops","Культуры"]},
+      "source_legacy": ["§7Teleports you to your §aGarden§7,","§7where you can grow and harvest","§eCrops §7and sell them to §bcustomers§7."],
+      "expected": ["Перемещает в ваш Сад,","где можно выращивать и собирать","урожай и продавать его посетителям."],
+      "anchors": [[0,"Garden",0,"Сад"],[2,"Crops",2,"урожай"],[2,"customers",2,"посетителям"]]
+    },
+    {
+      "key": "voidgloom",
+      "screenshot": "codex-clipboard-656585ce-f73c-46a1-8844-500ba7b0964d.png",
+      "title": "☠ Voidgloom Seraph",
+      "variants": {},
+      "source_legacy": ["§7If Necron is the right-hand of","§7the Wither King, this dark","§7demigod is the left-hand."],
+      "expected": ["Если Некрон — правая рука","Короля иссушителей, то этот тёмный","полубог — его левая рука."],
+      "anchors": [[0,"Necron",0,"Некрон"],[1,"Wither King",1,"Короля иссушителей"]]
+    }
+  ]
+}

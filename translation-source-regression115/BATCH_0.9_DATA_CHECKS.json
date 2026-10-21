@@ -1,0 +1,1995 @@
+{
+  "revision": "0.9.0-dev",
+  "check_scope": "Static TSV data and catalogue integrity only; no Java/Fabric/game execution",
+  "new_snapshot_sources": 2947,
+  "delta_reported": 2947,
+  "numeric_roman_icon_id_mismatches": [],
+  "malformed_resource_rows": [],
+  "resource_duplicate_keys": {
+    "continuation.tsv": {
+      "Deep Sea Diver": 2,
+      "Intelligence.": 2
+    },
+    "continuation-patterns.tsv": {},
+    "lexicon.tsv": {
+      "Rabbit": 2
+    }
+  },
+  "previous_targets_changed": [
+    {
+      "source": "Requires: Clay Ball I",
+      "occurrences": 22,
+      "origins": [
+        "config/notenoughupdates/repo/items/CLAY_GENERATOR_1.json",
+        "config/notenoughupdates/repo/items/CLAY_GENERATOR_10.json",
+        "config/notenoughupdates/repo/items/CLAY_GENERATOR_11.json",
+        "config/notenoughupdates/repo/items/CLAY_GENERATOR_2.json",
+        "config/notenoughupdates/repo/items/CLAY_GENERATOR_3.json",
+        "config/notenoughupdates/repo/items/CLAY_GENERATOR_4.json",
+        "config/notenoughupdates/repo/items/CLAY_GENERATOR_5.json",
+        "config/notenoughupdates/repo/items/CLAY_GENERATOR_6.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Глиняный комок I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Clay Ball",
+      "occurrences": 20,
+      "origins": [
+        "config/notenoughupdates/repo/items/CLAY_BALL.json",
+        "config/skyblocker/item-repo/items/CLAY_BALL.json",
+        "skyblock-repo-cache/id_overlays.min.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "name",
+        "text"
+      ],
+      "translation": "Глиняный комок",
+      "translation_origin": "lexicon.tsv"
+    },
+    {
+      "source": "Honeycomb",
+      "occurrences": 15,
+      "origins": [
+        "config/notenoughupdates/repo/items/HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/HONEYCOMB.json",
+        "skyblock-repo-cache/id_overlays.min.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "name",
+        "text"
+      ],
+      "translation": "Медовые соты",
+      "translation_origin": "lexicon.tsv"
+    },
+    {
+      "source": "Honeycomb!",
+      "occurrences": 15,
+      "origins": [
+        "config/notenoughupdates/repo/items/BEHEMOTH_POT_OF_HONEYCOMB.json",
+        "config/notenoughupdates/repo/items/FAMILY_SIZED_POT_OF_HONEYCOMB.json",
+        "config/notenoughupdates/repo/items/FUN_SIZED_POT_OF_HONEYCOMB.json",
+        "config/notenoughupdates/repo/items/JUMBO_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/BEHEMOTH_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/FAMILY_SIZED_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/FUN_SIZED_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/JUMBO_POT_OF_HONEYCOMB.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Медовые соты!",
+      "translation_origin": "decorated-label"
+    },
+    {
+      "source": "Requires: Helix Log VIII",
+      "occurrences": 10,
+      "origins": [
+        "config/notenoughupdates/repo/items/HELIX_ARMOR_BOOTS.json",
+        "config/notenoughupdates/repo/items/HELIX_ARMOR_CHESTPLATE.json",
+        "config/notenoughupdates/repo/items/HELIX_ARMOR_HELMET.json",
+        "config/notenoughupdates/repo/items/HELIX_ARMOR_LEGGINGS.json",
+        "config/notenoughupdates/repo/items/LUMBERJACK_ARTIFACT.json",
+        "config/skyblocker/item-repo/items/HELIX_ARMOR_BOOTS.json",
+        "config/skyblocker/item-repo/items/HELIX_ARMOR_CHESTPLATE.json",
+        "config/skyblocker/item-repo/items/HELIX_ARMOR_HELMET.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Бревно хеликса VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Miner Zombie",
+      "occurrences": 8,
+      "origins": [
+        "config/notenoughupdates/repo/constants/attribute_shards.json",
+        "config/notenoughupdates/repo/constants/bestiary.json",
+        "config/skyblocker/item-repo/constants/attribute_shards.json",
+        "config/skyblocker/item-repo/constants/bestiary.json",
+        "config/skyhanni/repo/constants/Slayer.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "displayName",
+        "name"
+      ],
+      "translation": "Зомби-шахтёр",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Requires: Fig Log VIII",
+      "occurrences": 8,
+      "origins": [
+        "config/notenoughupdates/repo/items/FIG_BOOTS.json",
+        "config/notenoughupdates/repo/items/FIG_CHESTPLATE.json",
+        "config/notenoughupdates/repo/items/FIG_HELMET.json",
+        "config/notenoughupdates/repo/items/FIG_LEGGINGS.json",
+        "config/skyblocker/item-repo/items/FIG_BOOTS.json",
+        "config/skyblocker/item-repo/items/FIG_CHESTPLATE.json",
+        "config/skyblocker/item-repo/items/FIG_HELMET.json",
+        "config/skyblocker/item-repo/items/FIG_LEGGINGS.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Инжирное бревно VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Miner Skeleton",
+      "occurrences": 6,
+      "origins": [
+        "config/notenoughupdates/repo/constants/bestiary.json",
+        "config/skyblocker/item-repo/constants/bestiary.json",
+        "config/skyhanni/repo/constants/Slayer.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скелет-шахтёр",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Golden Jerry",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/constants/bestiary.json",
+        "config/skyblocker/item-repo/constants/bestiary.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Золотой Джерри",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Lava Blaze",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/constants/bestiary.json",
+        "config/skyblocker/item-repo/constants/bestiary.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Лавовый ифрит",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Lava Pigman",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/constants/bestiary.json",
+        "config/skyblocker/item-repo/constants/bestiary.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Лавовый свинозомби",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Lotus Guardian",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/constants/bestiary.json",
+        "config/skyblocker/item-repo/constants/bestiary.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Страж лотосов",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Requires: Fig Log VI",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/FIGSTONE.json",
+        "config/notenoughupdates/repo/items/FIGSTONE_AXE.json",
+        "config/skyblocker/item-repo/items/FIGSTONE.json",
+        "config/skyblocker/item-repo/items/FIGSTONE_AXE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Инжирное бревно VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Helix Log VI",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/HELIX_CHOPPER.json",
+        "config/notenoughupdates/repo/items/HELIXIS.json",
+        "config/skyblocker/item-repo/items/HELIX_CHOPPER.json",
+        "config/skyblocker/item-repo/items/HELIXIS.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Бревно хеликса VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb I",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/FUN_SIZED_POT_OF_HONEYCOMB.json",
+        "config/notenoughupdates/repo/items/HONEYCOMB_TALISMAN.json",
+        "config/skyblocker/item-repo/items/FUN_SIZED_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/HONEYCOMB_TALISMAN.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb III",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/FAMILY_SIZED_POT_OF_HONEYCOMB.json",
+        "config/notenoughupdates/repo/items/HONEYCOMB_RING.json",
+        "config/skyblocker/item-repo/items/FAMILY_SIZED_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/HONEYCOMB_RING.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb V",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/HONEYCOMB_ARTIFACT.json",
+        "config/notenoughupdates/repo/items/JUMBO_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/HONEYCOMB_ARTIFACT.json",
+        "config/skyblocker/item-repo/items/JUMBO_POT_OF_HONEYCOMB.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты V",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Living Metal Heart III",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/BLUETOOTH_RING.json",
+        "config/notenoughupdates/repo/items/NOTHING_IN_A_BOTTLE.json",
+        "config/skyblocker/item-repo/items/BLUETOOTH_RING.json",
+        "config/skyblocker/item-repo/items/NOTHING_IN_A_BOTTLE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сердце живого металла III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Timite I",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/EON_PICKAXE.json",
+        "config/notenoughupdates/repo/items/TIME_GUN.json",
+        "config/skyblocker/item-repo/items/EON_PICKAXE.json",
+        "config/skyblocker/item-repo/items/TIME_GUN.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Тимит I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "◆ Snow Rune I",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/SNOW_RUNE;1.json",
+        "config/skyblocker/item-repo/items/SNOW_RUNE;1.json",
+        "skyblock-repo-cache/runes.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "name",
+        "text"
+      ],
+      "translation": "◆ Руна снега I",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "◆ Snow Rune II",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/SNOW_RUNE;2.json",
+        "config/skyblocker/item-repo/items/SNOW_RUNE;2.json",
+        "skyblock-repo-cache/runes.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "name",
+        "text"
+      ],
+      "translation": "◆ Руна снега II",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "◆ Snow Rune III",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/SNOW_RUNE;3.json",
+        "config/skyblocker/item-repo/items/SNOW_RUNE;3.json",
+        "skyblock-repo-cache/runes.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "name",
+        "text"
+      ],
+      "translation": "◆ Руна снега III",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "◆ Spirit Rune I",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/SPIRIT_RUNE;1.json",
+        "config/skyblocker/item-repo/items/SPIRIT_RUNE;1.json",
+        "skyblock-repo-cache/runes.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "name",
+        "text"
+      ],
+      "translation": "◆ Руна духа I",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "◆ Spirit Rune II",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/SPIRIT_RUNE;2.json",
+        "config/skyblocker/item-repo/items/SPIRIT_RUNE;2.json",
+        "skyblock-repo-cache/runes.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "name",
+        "text"
+      ],
+      "translation": "◆ Руна духа II",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "◆ Spirit Rune III",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/SPIRIT_RUNE;3.json",
+        "config/skyblocker/item-repo/items/SPIRIT_RUNE;3.json",
+        "skyblock-repo-cache/runes.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "name",
+        "text"
+      ],
+      "translation": "◆ Руна духа III",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Clay Ball 1",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок 1",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball 2",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок 2",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball 3",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок 3",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball 4",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок 4",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball 5",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок 5",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball 6",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок 6",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball 7",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок 7",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball I",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок I",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball II",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок II",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball III",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок III",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball IV",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок IV",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball V",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок V",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball VI",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок VI",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Clay Ball VII",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Глиняный комок VII",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Full Set Bonus: Zombie Knight",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ZOMBIE_KNIGHT_SWORD.json",
+        "config/skyblocker/item-repo/items/ZOMBIE_KNIGHT_SWORD.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Бонус полного комплекта: Зомби-рыцарь",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Honeycomb 1",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 1",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb 2",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 2",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb 3",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 3",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb 4",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 4",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb 5",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 5",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb 6",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 6",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb 7",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 7",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb 8",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 8",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb 9",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты 9",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb I",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты I",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb II",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты II",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb III",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты III",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb IV",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты IV",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb IX",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты IX",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb V",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты V",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb VI",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты VI",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb VII",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты VII",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Honeycomb VIII",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Медовые соты VIII",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Requires: Agaricus Cap I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/AGARICUS_CAP_BUNCH.json",
+        "config/skyblocker/item-repo/items/AGARICUS_CAP_BUNCH.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Шляпка шампиньона I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Agaricus Cap II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/AGARICUS_SOUP.json",
+        "config/skyblocker/item-repo/items/AGARICUS_SOUP.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Шляпка шампиньона II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Agaricus Cap III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/AGARICUS_CAP_CAP.json",
+        "config/skyblocker/item-repo/items/AGARICUS_CAP_CAP.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Шляпка шампиньона III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Agaricus Cap IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/AGARICUS_CHUM_CAP.json",
+        "config/skyblocker/item-repo/items/AGARICUS_CHUM_CAP.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Шляпка шампиньона IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Caducous Stem I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/CADUCOUS_STEM_BUNCH.json",
+        "config/skyblocker/item-repo/items/CADUCOUS_STEM_BUNCH.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Опадающий стебель I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Caducous Stem II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/CADUCOUS_LEGUME.json",
+        "config/skyblocker/item-repo/items/CADUCOUS_LEGUME.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Опадающий стебель II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Caducous Stem III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/CADUCOUS_EXTRACT.json",
+        "config/skyblocker/item-repo/items/CADUCOUS_EXTRACT.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Опадающий стебель III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Caducous Stem IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/CADUCOUS_FEEDER.json",
+        "config/skyblocker/item-repo/items/CADUCOUS_FEEDER.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Опадающий стебель IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Chili Pepper I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/REHEATED_GUMMY_POLAR_BEAR.json",
+        "config/skyblocker/item-repo/items/REHEATED_GUMMY_POLAR_BEAR.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Перец чили I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Chili Pepper III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/CAPSAICIN_EYEDROPS_NO_CHARGES.json",
+        "config/skyblocker/item-repo/items/CAPSAICIN_EYEDROPS_NO_CHARGES.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Перец чили III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Chili Pepper IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENTROPY_SUPPRESSOR.json",
+        "config/skyblocker/item-repo/items/ENTROPY_SUPPRESSOR.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Перец чили IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Chili Pepper IX",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/TABASCO;2.json",
+        "config/skyblocker/item-repo/items/TABASCO;2.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Перец чили IX",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Chili Pepper V",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/CAYENNE;4.json",
+        "config/skyblocker/item-repo/items/CAYENNE;4.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Перец чили V",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Chili Pepper VI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/STUFFED_CHILI_PEPPER.json",
+        "config/skyblocker/item-repo/items/STUFFED_CHILI_PEPPER.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Перец чили VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Chili Pepper VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/JALAPENO_BOOK.json",
+        "config/skyblocker/item-repo/items/JALAPENO_BOOK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Перец чили VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Chili Pepper VIII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ULTIMATE_HABANERO_TACTICS;4.json",
+        "config/skyblocker/item-repo/items/ULTIMATE_HABANERO_TACTICS;4.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Перец чили VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Clay Ball III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_CLAY_BALL.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_CLAY_BALL.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Глиняный комок III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Clay Ball IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/CLAY_BRACELET.json",
+        "config/skyblocker/item-repo/items/CLAY_BRACELET.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Глиняный комок IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Clay Ball IX",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/HOTSPOT_ARTIFACT.json",
+        "config/skyblocker/item-repo/items/HOTSPOT_ARTIFACT.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Глиняный комок IX",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Clay Ball V",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/HOTSPOT_TALISMAN.json",
+        "config/skyblocker/item-repo/items/HOTSPOT_TALISMAN.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Глиняный комок V",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Clay Ball VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/HOTSPOT_RING.json",
+        "config/skyblocker/item-repo/items/HOTSPOT_RING.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Глиняный комок VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Clay Ball VIII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_CLAY_BLOCK.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_CLAY_BLOCK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Глиняный комок VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Fig Log I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/TINY_SCAFFOLDING.json",
+        "config/skyblocker/item-repo/items/TINY_SCAFFOLDING.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Инжирное бревно I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Fig Log II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_FIG_LOG.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_FIG_LOG.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Инжирное бревно II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Fig Log III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/MEDIUM_SCAFFOLDING.json",
+        "config/skyblocker/item-repo/items/MEDIUM_SCAFFOLDING.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Инжирное бревно III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Fig Log IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/FIG_AXE.json",
+        "config/skyblocker/item-repo/items/FIG_AXE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Инжирное бревно IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Fig Log V",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LARGE_SCAFFOLDING.json",
+        "config/skyblocker/item-repo/items/LARGE_SCAFFOLDING.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Инжирное бревно V",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Fig Log VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_FIG_COLLECTOR;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_FIG_COLLECTOR;1.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Инжирное бревно VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Half-Eaten Carrot I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/NEARLY_WHOLE_CARROT.json",
+        "config/skyblocker/item-repo/items/NEARLY_WHOLE_CARROT.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Надкусанная морковь I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Half-Eaten Carrot II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ORANGE_CHESTPLATE.json",
+        "config/skyblocker/item-repo/items/ORANGE_CHESTPLATE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Надкусанная морковь II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Half-Eaten Carrot III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/EXPORTABLE_CARROTS.json",
+        "config/skyblocker/item-repo/items/EXPORTABLE_CARROTS.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Надкусанная морковь III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Half-Eaten Carrot IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/NEARLY_COHERENT_ROD.json",
+        "config/skyblocker/item-repo/items/NEARLY_COHERENT_ROD.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Надкусанная морковь IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Helix Log I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/TORRHUS_CANYON_TRAVEL_SCROLL.json",
+        "config/skyblocker/item-repo/items/TORRHUS_CANYON_TRAVEL_SCROLL.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Бревно хеликса I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Helix Log II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_HELIX_LOG.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_HELIX_LOG.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Бревно хеликса II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Helix Log III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LUMBERJACK_TALISMAN.json",
+        "config/skyblocker/item-repo/items/LUMBERJACK_TALISMAN.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Бревно хеликса III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Helix Log V",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LUMBERJACK_RING.json",
+        "config/skyblocker/item-repo/items/LUMBERJACK_RING.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Бревно хеликса V",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Helix Log VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_HELIX_COLLECTOR;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_HELIX_COLLECTOR;1.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Бревно хеликса VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_HONEYCOMB.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_HONEY_SERENDIPITY;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_HONEY_SERENDIPITY;1.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb IX",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/HONEYCOMB_NECKLACE.json",
+        "config/skyblocker/item-repo/items/HONEYCOMB_NECKLACE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты IX",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb VI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_HONEYCOMB_BLOCK.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_HONEYCOMB_BLOCK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_HONEY_REFILL;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_HONEY_REFILL;1.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Honeycomb VIII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/BEE_SALIVA.json",
+        "config/skyblocker/item-repo/items/BEE_SALIVA.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Медовые соты VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Living Metal Heart I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/SNAKE_IN_A_BOOT.json",
+        "config/skyblocker/item-repo/items/SNAKE_IN_A_BOOT.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сердце живого металла I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Living Metal Heart II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LIVING_METAL_ANVIL.json",
+        "config/skyblocker/item-repo/items/LIVING_METAL_ANVIL.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сердце живого металла II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Living Metal Heart IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/POLARVOID_BOOK.json",
+        "config/skyblocker/item-repo/items/POLARVOID_BOOK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сердце живого металла IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/FROGGLES.json",
+        "config/skyblocker/item-repo/items/FROGGLES.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/RED_SWEATER.json",
+        "config/skyblocker/item-repo/items/RED_SWEATER.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LOTUS_SILVER.json",
+        "config/skyblocker/item-repo/items/LOTUS_SILVER.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/FROGGLES_SILVER.json",
+        "config/skyblocker/item-repo/items/FROGGLES_SILVER.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus IX",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/TROPHY_LINE.json",
+        "config/skyblocker/item-repo/items/TROPHY_LINE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос IX",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus VI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LOTUS_GOLD.json",
+        "config/skyblocker/item-repo/items/LOTUS_GOLD.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/FROGGLES_GOLD.json",
+        "config/skyblocker/item-repo/items/FROGGLES_GOLD.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus VIII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/PUDDLE_JUMPER_HOOK.json",
+        "config/skyblocker/item-repo/items/PUDDLE_JUMPER_HOOK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus X",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LOTUS_DIAMOND.json",
+        "config/skyblocker/item-repo/items/LOTUS_DIAMOND.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос X",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Lotus XI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/FROGGLES_DIAMOND.json",
+        "config/skyblocker/item-repo/items/FROGGLES_DIAMOND.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Лотос XI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/TORRHUS_SPRINGS_TRAVEL_SCROLL.json",
+        "config/skyblocker/item-repo/items/TORRHUS_SPRINGS_TRAVEL_SCROLL.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_RUBY_VEILSHROOM.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_RUBY_VEILSHROOM.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ACCRETION_TALISMAN.json",
+        "config/skyblocker/item-repo/items/ACCRETION_TALISMAN.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_TICKET_DISCOUNT;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_TICKET_DISCOUNT;1.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom IX",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/VEILSHROOM_BRACELET.json",
+        "config/skyblocker/item-repo/items/VEILSHROOM_BRACELET.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб IX",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom V",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ACCRETION_RING.json",
+        "config/skyblocker/item-repo/items/ACCRETION_RING.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб V",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom VI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/VEILSHROOM_BUNCH.json",
+        "config/skyblocker/item-repo/items/VEILSHROOM_BUNCH.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ACCRETION_ARTIFACT.json",
+        "config/skyblocker/item-repo/items/ACCRETION_ARTIFACT.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Ruby Veilshroom VIII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LARGE_POCKET_BLACK_HOLE.json",
+        "config/skyblocker/item-repo/items/LARGE_POCKET_BLACK_HOLE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Рубиновый вуалегриб VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/MATCH_STICKS.json",
+        "config/skyblocker/item-repo/items/MATCH_STICKS.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_SULPHUR.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_SULPHUR.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/SMALL_NETHER_SACK.json",
+        "config/skyblocker/item-repo/items/SMALL_NETHER_SACK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/TOTEM_OF_CORRUPTION.json",
+        "config/skyblocker/item-repo/items/TOTEM_OF_CORRUPTION.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur IX",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/IMPLOSION_BELT.json",
+        "config/skyblocker/item-repo/items/IMPLOSION_BELT.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера IX",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur V",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/MEDIUM_NETHER_SACK.json",
+        "config/skyblocker/item-repo/items/MEDIUM_NETHER_SACK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера V",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur VI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_SULPHUR_CUBE.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_SULPHUR_CUBE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/SULPHUR_BOW.json",
+        "config/skyblocker/item-repo/items/SULPHUR_BOW.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Sulphur VIII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LARGE_NETHER_SACK.json",
+        "config/skyblocker/item-repo/items/LARGE_NETHER_SACK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сера VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Timite III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/CHRONO_PICKAXE.json",
+        "config/skyblocker/item-repo/items/CHRONO_PICKAXE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Тимит III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Timite IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/HIGHLITE.json",
+        "config/skyblocker/item-repo/items/HIGHLITE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Тимит IV",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Timite V",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/SATELITE.json",
+        "config/skyblocker/item-repo/items/SATELITE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Тимит V",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Timite VI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/DISCRITE.json",
+        "config/skyblocker/item-repo/items/DISCRITE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Тимит VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Vinesap VIII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/MARSHROOM.json",
+        "config/skyblocker/item-repo/items/MARSHROOM.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Сок лиан VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wild Rose I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_WILD_ROSE.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_WILD_ROSE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Дикая роза I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wild Rose II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/THORNY_VINES.json",
+        "config/skyblocker/item-repo/items/THORNY_VINES.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Дикая роза II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wild Rose III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/COMPACTED_WILD_ROSE.json",
+        "config/skyblocker/item-repo/items/COMPACTED_WILD_ROSE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Дикая роза III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wild Rose VI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/ROSEWATER_FLASK.json",
+        "config/skyblocker/item-repo/items/ROSEWATER_FLASK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Дикая роза VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wild Rose VII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/BACHELOR_ROSE.json",
+        "config/skyblocker/item-repo/items/BACHELOR_ROSE.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Дикая роза VII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wild Rose VIII",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/PRICKLY_KISS.json",
+        "config/skyblocker/item-repo/items/PRICKLY_KISS.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Дикая роза VIII",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wilted Berberis I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/WILTED_BERBERIS_BUNCH.json",
+        "config/skyblocker/item-repo/items/WILTED_BERBERIS_BUNCH.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Увядший барбарис I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wilted Berberis II",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/BERBERIS_BLOWGUN.json",
+        "config/skyblocker/item-repo/items/BERBERIS_BLOWGUN.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Увядший барбарис II",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wilted Berberis III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/VOODOO_DOLL_WILTED.json",
+        "config/skyblocker/item-repo/items/VOODOO_DOLL_WILTED.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Увядший барбарис III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Wilted Berberis IV",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/BERBERIS_FUEL_INJECTOR.json",
+        "config/skyblocker/item-repo/items/BERBERIS_FUEL_INJECTOR.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Увядший барбарис IV",
+      "translation_origin": "label-value"
+    }
+  ],
+  "closed_derivation_categories": {
+    "observed entity role; unknown names preserved": 911,
+    "hand-authored term": 482,
+    "observed named shard; nominative quoted to avoid invented declension": 82,
+    "observed trophy rank": 120,
+    "observed rarity/type/ID; ID preserved": 324,
+    "observed rune symbol and level": 142,
+    "observed stat breakdown; icon preserved": 184,
+    "observed gemstone grade; icon preserved": 60
+  },
+  "npc_name_collision_guard": {
+    "source": "Ant (NPC)",
+    "translation": "Ant (НПС)",
+    "reason": "observed entity role; unknown names preserved"
+  },
+  "npc_dialogues_new_this_batch": 0,
+  "runtime_verified": false,
+  "quality_verified": false
+}

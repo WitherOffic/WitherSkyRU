@@ -1,0 +1,30 @@
+{
+  "after": "0.15.73-dev",
+  "changed": [
+    {
+      "entry": "ru/wither/skyru/PlayerNames$NameIndex.class",
+      "after": "046732D205590688ED93323555B2A95123AF7C9D05DB7B25F0247B42D094A27D",
+      "before": "B61EDCD7BE3E0BC0E428E259DF0B85A3DB4FF48D0CAE2CC862024D37FDE43EC2"
+    },
+    {
+      "entry": "fabric.mod.json",
+      "after": "3D3DB24B3A2BF4473FB24BF7FBB822B1A5E492A0096F6E746E8621F4ABBEBC27",
+      "before": "BAE0C1E87F5584529FB4A406D51CBB7E75D5A12D7C3FB64AF6C55C68751D23CB"
+    },
+    {
+      "entry": "ru/wither/skyru/PlayerNames.class",
+      "after": "2BB83C58038AF70E217666E8CCBB5DE97F33C29B103B6BFD496E14AF3B56F7DA",
+      "before": "66A83EA8471EEF6382E179102C6CA3E21BA881B74AD87252DB43E927224E2B9E"
+    }
+  ],
+  "runtime_entry_count": 165,
+  "removed_entries": [],
+  "added_entries": [],
+  "not_live_fps_proof": true,
+  "before": "0.15.72-dev",
+  "before_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+  "after_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF",
+  "all_translation_resources_byte_identical": true,
+  "unchanged_translation_and_asset_resources": 42,
+  "new_frame_hooks": 0
+}

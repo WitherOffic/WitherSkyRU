@@ -1,0 +1,136 @@
+{
+  "cases": [
+    {
+      "source": "[NPC] Brigette: There are a lot of scams lurking around every corner.",
+      "flat_result": "[NPC] Brigette: За каждым углом подстерегает множество мошеннических уловок.",
+      "legacy": "§e[NPC] Brigette§f: There are a §clot §fof scams lurking around every corner.",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Brigette: There are a lot of scams lurking around every corner.",
+      "flat_result": "[NPC] Brigette: За каждым углом подстерегает множество мошеннических уловок.",
+      "legacy": "§e[NPC] Brigette: §fThere are a lot of §1scams§f lurking around every corner.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Gwendolyn: You should also talk to Emissary Braum, they have more information about commissions.",
+      "flat_result": "[NPC] Gwendolyn: Поговорите также с посланником Браумом — он расскажет подробнее о поручениях.",
+      "legacy": "§e[NPC] §5Gwendolyn§f: You should also talk to §6Emissary Braum§f, they have more information about §ecommissions§f.",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Gwendolyn: You should also talk to Emissary Braum, they have more information about commissions.",
+      "flat_result": "[NPC] Gwendolyn: Поговорите также с посланником Браумом — он расскажет подробнее о поручениях.",
+      "legacy": "§e[NPC] Gwendolyn: §fYou should also talk to §1Emissary Braum§f, they have more information about commissions.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Gwendolyn: Hey! Someone special has been asking to meet you!",
+      "flat_result": "[NPC] Gwendolyn: Эй! Кое-кто особенный просил о встрече с вами!",
+      "legacy": "§e[NPC] §5Gwendolyn§f: Hey! Someone §dspecial §fhas been asking to meet you!",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Gwendolyn: Hey! Someone special has been asking to meet you!",
+      "flat_result": "[NPC] Gwendolyn: Эй! Кое-кто особенный просил о встрече с вами!",
+      "legacy": "§e[NPC] Gwendolyn: §fHey! Someone special has been asking to meet you!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+      "flat_result": "[NPC] Juliette: Ох, люблю Ромеро! Он столько всего умеет.",
+      "legacy": "§e[NPC] Juliette§f: Oh! I love §eRomero§f! §oHe §fhas so many skills.",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+      "flat_result": "[NPC] Juliette: Ох, люблю Ромеро! Он столько всего умеет.",
+      "legacy": "§e[NPC] Juliette: §fOh! I love §1Romero§f! He has so many skills.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Juliette: Thank you for delivering it.",
+      "flat_result": "[NPC] Juliette: Спасибо вам, что принесли его.",
+      "legacy": "§e[NPC] Juliette§f: Thank §dyou §ffor delivering it.",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Juliette: Thank you for delivering it.",
+      "flat_result": "[NPC] Juliette: Спасибо вам, что принесли его.",
+      "legacy": "§e[NPC] Juliette: §fThank you for delivering it.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+      "flat_result": "[NPC] Juliette: Не понимаю, почему Ромеро никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+      "legacy": "§e[NPC] Juliette§f: I don't know §ohow §eRomero §fhas such hard a time understanding that §dI LOVE HIM§f.",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+      "flat_result": "[NPC] Juliette: Не понимаю, почему Ромеро никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+      "legacy": "§e[NPC] Juliette: §fI don't know how §1Romero§f has such hard a time understanding that I LOVE HIM.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Ozanne: Crazy stuff!",
+      "flat_result": "[NPC] Ozanne: Вот это безумие!",
+      "legacy": "§e[NPC] Ozanne§f:§c Crazy §fstuff!",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Ozanne: Crazy stuff!",
+      "flat_result": "[NPC] Ozanne: Вот это безумие!",
+      "legacy": "§e[NPC] Ozanne: §fCrazy stuff!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+      "flat_result": "[NPC] Romero: Я хочу добраться до Луны ради Джульетты.",
+      "legacy": "§e[NPC] Romero§f: I want to reach the §emoon §ffor §eJuliette§f.",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+      "flat_result": "[NPC] Romero: Я хочу добраться до Луны ради Джульетты.",
+      "legacy": "§e[NPC] Romero: §fI want to reach the moon for §1Juliette§f.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+      "flat_result": "[NPC] Romero: Хочу сделать для Джульетты тайный подарок.",
+      "legacy": "§e[NPC] Romero§f: I want to make a §csecret gift §ffor §eJuliette§f.",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+      "flat_result": "[NPC] Romero: Хочу сделать для Джульетты тайный подарок.",
+      "legacy": "§e[NPC] Romero: §fI want to make a secret gift for §1Juliette§f.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Romero: I do like it though!",
+      "flat_result": "[NPC] Romero: И всё же мне это действительно нравится!",
+      "legacy": "§e[NPC] Romero§f: I §ado §flike it though!",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Romero: I do like it though!",
+      "flat_result": "[NPC] Romero: И всё же мне это действительно нравится!",
+      "legacy": "§e[NPC] Romero: §fI do like it though!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+      "flat_result": "[NPC] Romero: Спасибо огромное, что снова свели нас с Джульеттой.",
+      "legacy": "§e[NPC] Romero§f: §aThank you §fso much for reuniting §eJuliette §fand I.",
+      "kind": "published"
+    },
+    {
+      "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+      "flat_result": "[NPC] Romero: Спасибо огромное, что снова свели нас с Джульеттой.",
+      "legacy": "§e[NPC] Romero: §fThank you so much for reuniting §1Juliette§f and I.",
+      "kind": "primary"
+    }
+  ]
+}

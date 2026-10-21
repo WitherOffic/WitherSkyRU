@@ -1,0 +1,48 @@
+{
+  "version": "0.15.108-dev",
+  "runtime_jar_sha256": "00C1829666B04B918D37682D18C9BFAD65A64650A7839EF8D4DCD42CA1DD8D00",
+  "exact_keys": 11416,
+  "total_frozen": 16244,
+  "exact_percent": 70.27825658704752,
+  "without_exact_key": 4828,
+  "without_exact_percent": 29.721743412952478,
+  "new_exact_keys": 102,
+  "new_boss_literals": 102,
+  "new_non_dante_boss_literals": 41,
+  "new_archival_dante_literals": 61,
+  "new_npc_tagged_keys": 0,
+  "static_choice_groups_unchanged": 345,
+  "prior_name_templates103": 135,
+  "selected_style_repaired_cumulative105": 72,
+  "selected_style_gaps_remaining": 0,
+  "fresh_test_groups": 181,
+  "parser_tests": 15,
+  "new_boss_assertions": 83102,
+  "primary_cases": 102,
+  "published_layouts": 102,
+  "byte_identical_runtime_classes": 124,
+  "startup_method_edits_only": {
+    "ru.wither.skyru.NpcDialogueTranslator": [
+      "public static ru.wither.skyru.NpcDialogueTranslator dungeonDialogues() throws java.io.IOException;"
+    ]
+  },
+  "hot_method_instructions_unchanged": true,
+  "historical_test_sources_unchanged": 275,
+  "isolated_count_assertion_updates": 31,
+  "pinned_pages": 4,
+  "performance_not_fps": {
+    "scope": "Isolated equal-output chat receipt,not game FPS/frame times/0.1% lows. New102 useful translations verified separately.",
+    "equal_modes": 14,
+    "order": [
+      "107",
+      "108",
+      "108",
+      "107"
+    ],
+    "min_wall_change_percent": -5.474336336666741,
+    "max_wall_change_percent": 1.2650758142059626,
+    "both_orders_slower_over5": []
+  },
+  "installed_pack_modified": false,
+  "game_fps_measured": false
+}

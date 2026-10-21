@@ -1,0 +1,83 @@
+{
+  "scope": "Fixed proper name Duke X was incorrectly flagged by the old broad X-token extractor;one old negative explicitly upgraded in isolated86 only. No placeholder literal registered.",
+  "record": {
+    "speaker": "Dean",
+    "tag": "NPC",
+    "source": "[NPC] Dean: There is a rogue Barbarian going by the name of Duke X.",
+    "translation": "[NPC] Dean: Есть варвар-отступник по имени Герцог X.",
+    "style_anchors": [
+      {
+        "source": "Duke X",
+        "target": "Герцог X"
+      }
+    ],
+    "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dean?oldid=830417",
+    "queue_row": {
+      "source": "[NPC] Dean: There is a rogue Barbarian going by the name of Duke X.",
+      "tag": "NPC",
+      "speaker": "Dean",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dean?oldid=830417",
+      "revision": 830417,
+      "occurrence_ids": [
+        "p91759-r830417-o13235-l3-f4451"
+      ],
+      "variable_definition": true,
+      "unresolved_markup": false,
+      "nonstandard_tag_layout": false,
+      "historical_heading": false,
+      "alpha_page": false,
+      "original_queue_status": "variable_definition",
+      "exact_registration": false,
+      "registered_targets_not_automatically_certified": [],
+      "review_status": "translation_review_required",
+      "runtime_flat_snapshot_not_quality_proof": null,
+      "runtime_colored_snapshot_not_quality_proof": null,
+      "structural_review_pending86": true,
+      "template_coverage_certified86": false,
+      "single_name_template103": false,
+      "published_style_repair104": false,
+      "wording_revision105": false,
+      "archival_exact_translation106": false,
+      "ordered_choice_group106": false,
+      "exact_system_notification107": false,
+      "exact_boss_translation108": false,
+      "archival_dante_translation108": false,
+      "exact_cosmetic_notification109": false,
+      "exact_gameplay_notification110": false,
+      "exact_literal111": false,
+      "exact_literal112": false
+    },
+    "all_occurrences": [
+      {
+        "occurrence_id": "p91759-r830417-o13235-l3-f4451",
+        "block_id": "p91759-r830417-o13235",
+        "page": "Dean",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dean?oldid=830417",
+        "revision": 830417,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Dean",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Dean: There is a rogue Barbarian going by the name of Duke X.",
+        "source_legacy_line": "§e[NPC] §5Dean§f: There is a rogue Barbarian going by the name of §cDuke X§f.",
+        "payload_line": 3,
+        "status": "variable_definition",
+        "variable_definition": true,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [],
+        "translation_ru": ""
+      }
+    ],
+    "layouts": [
+      "§e[NPC] §5Dean§f: There is a rogue Barbarian going by the name of §cDuke X§f."
+    ],
+    "literal_review_reason": "Duke X is a fixed named character in the full four-message block;old X-token heuristic was a false positive,not a dynamic value."
+  },
+  "baseline_jar_sha256": "866E0C2277F876229F4EFA98C388CE942F8E548181EDDBDC0FEB96A91AA0095B"
+}

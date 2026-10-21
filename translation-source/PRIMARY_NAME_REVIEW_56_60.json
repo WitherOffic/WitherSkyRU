@@ -1,0 +1,857 @@
+{
+  "source_url": "https://api.hypixel.net/v2/resources/skyblock/items",
+  "primary_sha256": "ADB76EAE35CBCE2F18F01B947F9D914967B36E53895ADF615E39EFBD9D2C4FE8",
+  "live_server_tested": false,
+  "reforge_cases_synthetic_not_legality_claim": true,
+  "titles": [
+    {
+      "id": "MINOS_HUNTER_CHESTPLATE",
+      "source": "Minos Hunter Chestplate",
+      "target": "Нагрудник охотника Миноса",
+      "gender": "m"
+    },
+    {
+      "id": "MINOS_HUNTER_HELMET",
+      "source": "Minos Hunter Helmet",
+      "target": "Шлем охотника Миноса",
+      "gender": "m"
+    },
+    {
+      "id": "MINOS_HUNTER_LEGGINGS",
+      "source": "Minos Hunter Leggings",
+      "target": "Поножи охотника Миноса",
+      "gender": "p"
+    },
+    {
+      "id": "MINOS_HUNTER_BOOTS",
+      "source": "Minos Hunter Boots",
+      "target": "Ботинки охотника Миноса",
+      "gender": "p"
+    },
+    {
+      "id": "SEA_WALKER_CHESTPLATE",
+      "source": "Sea Walker Chestplate",
+      "target": "Нагрудник морского ходока",
+      "gender": "m"
+    },
+    {
+      "id": "SEA_WALKER_HELMET",
+      "source": "Sea Walker Helmet",
+      "target": "Шлем морского ходока",
+      "gender": "m"
+    },
+    {
+      "id": "SEA_WALKER_LEGGINGS",
+      "source": "Sea Walker Leggings",
+      "target": "Поножи морского ходока",
+      "gender": "p"
+    },
+    {
+      "id": "SEA_WALKER_BOOTS",
+      "source": "Sea Walker Boots",
+      "target": "Ботинки морского ходока",
+      "gender": "p"
+    },
+    {
+      "id": "VANGUARD_CHESTPLATE",
+      "source": "Vanguard Chestplate",
+      "target": "Нагрудник авангарда",
+      "gender": "m"
+    },
+    {
+      "id": "VANGUARD_HELMET",
+      "source": "Vanguard Helmet",
+      "target": "Шлем авангарда",
+      "gender": "m"
+    },
+    {
+      "id": "VANGUARD_LEGGINGS",
+      "source": "Vanguard Leggings",
+      "target": "Поножи авангарда",
+      "gender": "p"
+    },
+    {
+      "id": "VANGUARD_BOOTS",
+      "source": "Vanguard Boots",
+      "target": "Ботинки авангарда",
+      "gender": "p"
+    },
+    {
+      "id": "HYDRA1_CHESTPLATE",
+      "source": "Water Hydra Chestplate",
+      "target": "Нагрудник водяной гидры",
+      "gender": "m"
+    },
+    {
+      "id": "HYDRA1_LEGGINGS",
+      "source": "Water Hydra Leggings",
+      "target": "Поножи водяной гидры",
+      "gender": "p"
+    },
+    {
+      "id": "HYDRA1_BOOTS",
+      "source": "Water Hydra Boots",
+      "target": "Ботинки водяной гидры",
+      "gender": "p"
+    },
+    {
+      "id": "GHAST_CHESTPLATE",
+      "source": "Ghast Chestplate",
+      "target": "Нагрудник гаста",
+      "gender": "m"
+    },
+    {
+      "id": "GHAST_LEGGINGS",
+      "source": "Ghast Leggings",
+      "target": "Поножи гаста",
+      "gender": "p"
+    },
+    {
+      "id": "GHAST_BOOTS",
+      "source": "Ghast Boots",
+      "target": "Ботинки гаста",
+      "gender": "p"
+    },
+    {
+      "id": "EMPEROR_HEAD",
+      "source": "Emperor Head",
+      "target": "Голова императора",
+      "gender": "f"
+    },
+    {
+      "id": "EMPEROR_LEGGINGS",
+      "source": "Emperor Leggings",
+      "target": "Поножи императора",
+      "gender": "p"
+    },
+    {
+      "id": "EMPEROR_ROBES",
+      "source": "Emperor Robes",
+      "target": "Одеяния императора",
+      "gender": "p"
+    },
+    {
+      "id": "EMPEROR_SHOES",
+      "source": "Emperor Shoes",
+      "target": "Башмаки императора",
+      "gender": "p"
+    },
+    {
+      "id": "FALLEN_STAR_CHESTPLATE",
+      "source": "Fallen Star Chestplate",
+      "target": "Нагрудник упавшей звезды",
+      "gender": "m"
+    },
+    {
+      "id": "FALLEN_STAR_LEGGINGS",
+      "source": "Fallen Star Leggings",
+      "target": "Поножи упавшей звезды",
+      "gender": "p"
+    },
+    {
+      "id": "FALLEN_STAR_BOOTS",
+      "source": "Fallen Star Boots",
+      "target": "Ботинки упавшей звезды",
+      "gender": "p"
+    },
+    {
+      "id": "NETHERITE_HELMET",
+      "source": "Netherite Helmet",
+      "target": "Незеритовый шлем",
+      "gender": "m"
+    },
+    {
+      "id": "SEA_ARCHER_HELMET",
+      "source": "Sea Archer Helmet",
+      "target": "Шлем морского лучника",
+      "gender": "m"
+    },
+    {
+      "id": "ENDERMAN_HAT",
+      "source": "Enderman Hat",
+      "target": "Шапка эндермена",
+      "gender": "f"
+    },
+    {
+      "id": "BIG_SPRING_BOOTS",
+      "source": "Big Spring Boots",
+      "target": "Большие пружинные ботинки",
+      "gender": "p"
+    },
+    {
+      "id": "BIGGER_SPRING_BOOTS",
+      "source": "Bigger Spring Boots",
+      "target": "Ещё большие пружинные ботинки",
+      "gender": "p"
+    },
+    {
+      "id": "CUTLASS",
+      "source": "Cutlass",
+      "target": "Абордажная сабля",
+      "gender": "f"
+    },
+    {
+      "id": "SKELETON_LORD_BOW",
+      "source": "Skeleton Lord Bow",
+      "target": "Лук лорда скелетов",
+      "gender": "m"
+    },
+    {
+      "id": "ARCHER_DUNGEON_ABILITY_2",
+      "source": "Stun Bow",
+      "target": "Оглушающий лук",
+      "gender": "m"
+    },
+    {
+      "id": "ARCHER_DUNGEON_ABILITY_3",
+      "source": "Healing Bow",
+      "target": "Лечебный лук",
+      "gender": "m"
+    },
+    {
+      "id": "WAND_OF_RECALL",
+      "source": "Wand of Recall",
+      "target": "Жезл возвращения",
+      "gender": "m"
+    },
+    {
+      "id": "GATEWAY_WAND",
+      "source": "Gateway Wand",
+      "target": "Жезл портала",
+      "gender": "m"
+    },
+    {
+      "id": "SEISMIC_WAVE_STICK",
+      "source": "Seismic Wave",
+      "target": "Сейсмическая волна",
+      "gender": "f"
+    },
+    {
+      "id": "POLYMORPH_WAND",
+      "source": "Polymorph Wand",
+      "target": "Жезл превращения",
+      "gender": "m"
+    },
+    {
+      "id": "ELECTRIC_WAND_ITEM",
+      "source": "Electric Wand",
+      "target": "Электрический жезл",
+      "gender": "m"
+    },
+    {
+      "id": "VENOMOUS_SWORD",
+      "source": "Venomous Sword",
+      "target": "Ядовитый меч",
+      "gender": "m"
+    },
+    {
+      "id": "HORSEMAN_SCYTHE",
+      "source": "Horseman's Scythe",
+      "target": "Коса всадника",
+      "gender": "f"
+    },
+    {
+      "id": "GHOST_THROWING_AXE",
+      "source": "Ghost Axe",
+      "target": "Призрачный топор",
+      "gender": "m"
+    },
+    {
+      "id": "AIMING_BOW",
+      "source": "Aiming Bow",
+      "target": "Прицельный лук",
+      "gender": "m"
+    },
+    {
+      "id": "HARVESTING_SWORD",
+      "source": "Harvesting Sword",
+      "target": "Меч сбора урожая",
+      "gender": "m"
+    },
+    {
+      "id": "SMALL_RUNES_SACK",
+      "source": "Small Runes Sack",
+      "target": "Малый мешок для рун",
+      "gender": "m"
+    },
+    {
+      "id": "MEDIUM_RUNES_SACK",
+      "source": "Medium Runes Sack",
+      "target": "Средний мешок для рун",
+      "gender": "m"
+    },
+    {
+      "id": "LARGE_RUNES_SACK",
+      "source": "Large Runes Sack",
+      "target": "Большой мешок для рун",
+      "gender": "m"
+    },
+    {
+      "id": "DIAMOND_TROPHY_FISHING_SACK",
+      "source": "Diamond Trophy Sack",
+      "target": "Мешок для алмазных трофеев",
+      "gender": "m"
+    },
+    {
+      "id": "GOLD_TROPHY_FISHING_SACK",
+      "source": "Gold Trophy Sack",
+      "target": "Мешок для золотых трофеев",
+      "gender": "m"
+    }
+  ],
+  "gems": [
+    {
+      "source": "Fine Onyx Gemstone",
+      "id": "FINE_ONYX_GEM",
+      "current": " Оникс — качественный",
+      "iconSource": " Fine Onyx Gemstone",
+      "target": "Оникс — качественный",
+      "gender": "m",
+      "iconTarget": " Оникс — качественный"
+    },
+    {
+      "source": "Perfect Onyx Gemstone",
+      "id": "PERFECT_ONYX_GEM",
+      "current": " Оникс — идеальный",
+      "iconSource": " Perfect Onyx Gemstone",
+      "target": "Оникс — идеальный",
+      "gender": "m",
+      "iconTarget": " Оникс — идеальный"
+    },
+    {
+      "source": "Rough Onyx Gemstone",
+      "id": "ROUGH_ONYX_GEM",
+      "current": " Оникс — грубый",
+      "iconSource": " Rough Onyx Gemstone",
+      "target": "Оникс — необработанный",
+      "gender": "m",
+      "iconTarget": " Оникс — необработанный"
+    },
+    {
+      "source": "Flawless Onyx Gemstone",
+      "id": "FLAWLESS_ONYX_GEM",
+      "current": " Оникс — безупречный",
+      "iconSource": " Flawless Onyx Gemstone",
+      "target": "Оникс — безупречный",
+      "gender": "m",
+      "iconTarget": " Оникс — безупречный"
+    },
+    {
+      "source": "Flawed Onyx Gemstone",
+      "id": "FLAWED_ONYX_GEM",
+      "current": " Оникс — с дефектами",
+      "iconSource": " Flawed Onyx Gemstone",
+      "target": "Оникс — с дефектами",
+      "gender": "m",
+      "iconTarget": " Оникс — с дефектами"
+    },
+    {
+      "source": "Perfect Peridot Gemstone",
+      "id": "PERFECT_PERIDOT_GEM",
+      "current": " Перидот — идеальный",
+      "iconSource": " Perfect Peridot Gemstone",
+      "target": "Перидот — идеальный",
+      "gender": "m",
+      "iconTarget": " Перидот — идеальный"
+    },
+    {
+      "source": "Fine Peridot Gemstone",
+      "id": "FINE_PERIDOT_GEM",
+      "current": " Перидот — качественный",
+      "iconSource": " Fine Peridot Gemstone",
+      "target": "Перидот — качественный",
+      "gender": "m",
+      "iconTarget": " Перидот — качественный"
+    },
+    {
+      "source": "Flawless Peridot Gemstone",
+      "id": "FLAWLESS_PERIDOT_GEM",
+      "current": " Перидот — безупречный",
+      "iconSource": " Flawless Peridot Gemstone",
+      "target": "Перидот — безупречный",
+      "gender": "m",
+      "iconTarget": " Перидот — безупречный"
+    },
+    {
+      "source": "Flawed Peridot Gemstone",
+      "id": "FLAWED_PERIDOT_GEM",
+      "current": " Перидот — с дефектами",
+      "iconSource": " Flawed Peridot Gemstone",
+      "target": "Перидот — с дефектами",
+      "gender": "m",
+      "iconTarget": " Перидот — с дефектами"
+    },
+    {
+      "source": "Rough Peridot Gemstone",
+      "id": "ROUGH_PERIDOT_GEM",
+      "current": " Перидот — грубый",
+      "iconSource": " Rough Peridot Gemstone",
+      "target": "Перидот — необработанный",
+      "gender": "m",
+      "iconTarget": " Перидот — необработанный"
+    },
+    {
+      "source": "Fine Jasper Gemstone",
+      "id": "FINE_JASPER_GEM",
+      "current": " Яшма — качественный",
+      "iconSource": " Fine Jasper Gemstone",
+      "target": "Яшма — качественная",
+      "gender": "f",
+      "iconTarget": " Яшма — качественная"
+    },
+    {
+      "source": "Rough Jasper Gemstone",
+      "id": "ROUGH_JASPER_GEM",
+      "current": " Яшма — грубый",
+      "iconSource": " Rough Jasper Gemstone",
+      "target": "Яшма — необработанная",
+      "gender": "f",
+      "iconTarget": " Яшма — необработанная"
+    },
+    {
+      "source": "Flawed Jasper Gemstone",
+      "id": "FLAWED_JASPER_GEM",
+      "current": " Яшма — с дефектами",
+      "iconSource": " Flawed Jasper Gemstone",
+      "target": "Яшма — с дефектами",
+      "gender": "f",
+      "iconTarget": " Яшма — с дефектами"
+    },
+    {
+      "source": "Perfect Jasper Gemstone",
+      "id": "PERFECT_JASPER_GEM",
+      "current": " Яшма — идеальный",
+      "iconSource": " Perfect Jasper Gemstone",
+      "target": "Яшма — идеальная",
+      "gender": "f",
+      "iconTarget": " Яшма — идеальная"
+    },
+    {
+      "source": "Flawless Jasper Gemstone",
+      "id": "FLAWLESS_JASPER_GEM",
+      "current": " Яшма — безупречный",
+      "iconSource": " Flawless Jasper Gemstone",
+      "target": "Яшма — безупречная",
+      "gender": "f",
+      "iconTarget": " Яшма — безупречная"
+    },
+    {
+      "source": "Flawed Aquamarine Gemstone",
+      "id": "FLAWED_AQUAMARINE_GEM",
+      "current": " Аквамарин — с дефектами",
+      "iconSource": " Flawed Aquamarine Gemstone",
+      "target": "Аквамарин — с дефектами",
+      "gender": "m",
+      "iconTarget": " Аквамарин — с дефектами"
+    },
+    {
+      "source": "Rough Aquamarine Gemstone",
+      "id": "ROUGH_AQUAMARINE_GEM",
+      "current": " Аквамарин — грубый",
+      "iconSource": " Rough Aquamarine Gemstone",
+      "target": "Аквамарин — необработанный",
+      "gender": "m",
+      "iconTarget": " Аквамарин — необработанный"
+    },
+    {
+      "source": "Fine Aquamarine Gemstone",
+      "id": "FINE_AQUAMARINE_GEM",
+      "current": " Аквамарин — качественный",
+      "iconSource": " Fine Aquamarine Gemstone",
+      "target": "Аквамарин — качественный",
+      "gender": "m",
+      "iconTarget": " Аквамарин — качественный"
+    },
+    {
+      "source": "Flawless Aquamarine Gemstone",
+      "id": "FLAWLESS_AQUAMARINE_GEM",
+      "current": " Аквамарин — безупречный",
+      "iconSource": " Flawless Aquamarine Gemstone",
+      "target": "Аквамарин — безупречный",
+      "gender": "m",
+      "iconTarget": " Аквамарин — безупречный"
+    },
+    {
+      "source": "Perfect Aquamarine Gemstone",
+      "id": "PERFECT_AQUAMARINE_GEM",
+      "current": " Аквамарин — идеальный",
+      "iconSource": " Perfect Aquamarine Gemstone",
+      "target": "Аквамарин — идеальный",
+      "gender": "m",
+      "iconTarget": " Аквамарин — идеальный"
+    },
+    {
+      "source": "Fine Amethyst Gemstone",
+      "id": "FINE_AMETHYST_GEM",
+      "current": " Аметист — качественный",
+      "iconSource": " Fine Amethyst Gemstone",
+      "target": "Аметист — качественный",
+      "gender": "m",
+      "iconTarget": " Аметист — качественный"
+    },
+    {
+      "source": "Flawed Amethyst Gemstone",
+      "id": "FLAWED_AMETHYST_GEM",
+      "current": " Аметист — с дефектами",
+      "iconSource": " Flawed Amethyst Gemstone",
+      "target": "Аметист — с дефектами",
+      "gender": "m",
+      "iconTarget": " Аметист — с дефектами"
+    },
+    {
+      "source": "Flawless Amethyst Gemstone",
+      "id": "FLAWLESS_AMETHYST_GEM",
+      "current": " Аметист — безупречный",
+      "iconSource": " Flawless Amethyst Gemstone",
+      "target": "Аметист — безупречный",
+      "gender": "m",
+      "iconTarget": " Аметист — безупречный"
+    },
+    {
+      "source": "Rough Amethyst Gemstone",
+      "id": "ROUGH_AMETHYST_GEM",
+      "current": " Аметист — грубый",
+      "iconSource": " Rough Amethyst Gemstone",
+      "target": "Аметист — необработанный",
+      "gender": "m",
+      "iconTarget": " Аметист — необработанный"
+    },
+    {
+      "source": "Perfect Amethyst Gemstone",
+      "id": "PERFECT_AMETHYST_GEM",
+      "current": " Аметист — идеальный",
+      "iconSource": " Perfect Amethyst Gemstone",
+      "target": "Аметист — идеальный",
+      "gender": "m",
+      "iconTarget": " Аметист — идеальный"
+    },
+    {
+      "source": "Perfect Ruby Gemstone",
+      "id": "PERFECT_RUBY_GEM",
+      "current": " Рубин — идеальный",
+      "iconSource": " Perfect Ruby Gemstone",
+      "target": "Рубин — идеальный",
+      "gender": "m",
+      "iconTarget": " Рубин — идеальный"
+    },
+    {
+      "source": "Flawed Ruby Gemstone",
+      "id": "FLAWED_RUBY_GEM",
+      "current": " Рубин — с дефектами",
+      "iconSource": " Flawed Ruby Gemstone",
+      "target": "Рубин — с дефектами",
+      "gender": "m",
+      "iconTarget": " Рубин — с дефектами"
+    },
+    {
+      "source": "Fine Ruby Gemstone",
+      "id": "FINE_RUBY_GEM",
+      "current": " Рубин — качественный",
+      "iconSource": " Fine Ruby Gemstone",
+      "target": "Рубин — качественный",
+      "gender": "m",
+      "iconTarget": " Рубин — качественный"
+    },
+    {
+      "source": "Rough Ruby Gemstone",
+      "id": "ROUGH_RUBY_GEM",
+      "current": " Рубин — грубый",
+      "iconSource": " Rough Ruby Gemstone",
+      "target": "Рубин — необработанный",
+      "gender": "m",
+      "iconTarget": " Рубин — необработанный"
+    },
+    {
+      "source": "Flawless Ruby Gemstone",
+      "id": "FLAWLESS_RUBY_GEM",
+      "current": " Рубин — безупречный",
+      "iconSource": " Flawless Ruby Gemstone",
+      "target": "Рубин — безупречный",
+      "gender": "m",
+      "iconTarget": " Рубин — безупречный"
+    },
+    {
+      "source": "Rough Amber Gemstone",
+      "id": "ROUGH_AMBER_GEM",
+      "current": " Янтарь — грубый",
+      "iconSource": " Rough Amber Gemstone",
+      "target": "Янтарь — необработанный",
+      "gender": "m",
+      "iconTarget": " Янтарь — необработанный"
+    },
+    {
+      "source": "Fine Amber Gemstone",
+      "id": "FINE_AMBER_GEM",
+      "current": " Янтарь — качественный",
+      "iconSource": " Fine Amber Gemstone",
+      "target": "Янтарь — качественный",
+      "gender": "m",
+      "iconTarget": " Янтарь — качественный"
+    },
+    {
+      "source": "Perfect Amber Gemstone",
+      "id": "PERFECT_AMBER_GEM",
+      "current": " Янтарь — идеальный",
+      "iconSource": " Perfect Amber Gemstone",
+      "target": "Янтарь — идеальный",
+      "gender": "m",
+      "iconTarget": " Янтарь — идеальный"
+    },
+    {
+      "source": "Flawed Amber Gemstone",
+      "id": "FLAWED_AMBER_GEM",
+      "current": " Янтарь — с дефектами",
+      "iconSource": " Flawed Amber Gemstone",
+      "target": "Янтарь — с дефектами",
+      "gender": "m",
+      "iconTarget": " Янтарь — с дефектами"
+    },
+    {
+      "source": "Flawless Amber Gemstone",
+      "id": "FLAWLESS_AMBER_GEM",
+      "current": " Янтарь — безупречный",
+      "iconSource": " Flawless Amber Gemstone",
+      "target": "Янтарь — безупречный",
+      "gender": "m",
+      "iconTarget": " Янтарь — безупречный"
+    },
+    {
+      "source": "Flawless Citrine Gemstone",
+      "id": "FLAWLESS_CITRINE_GEM",
+      "current": " Цитрин — безупречный",
+      "iconSource": " Flawless Citrine Gemstone",
+      "target": "Цитрин — безупречный",
+      "gender": "m",
+      "iconTarget": " Цитрин — безупречный"
+    },
+    {
+      "source": "Fine Citrine Gemstone",
+      "id": "FINE_CITRINE_GEM",
+      "current": " Цитрин — качественный",
+      "iconSource": " Fine Citrine Gemstone",
+      "target": "Цитрин — качественный",
+      "gender": "m",
+      "iconTarget": " Цитрин — качественный"
+    },
+    {
+      "source": "Perfect Citrine Gemstone",
+      "id": "PERFECT_CITRINE_GEM",
+      "current": " Цитрин — идеальный",
+      "iconSource": " Perfect Citrine Gemstone",
+      "target": "Цитрин — идеальный",
+      "gender": "m",
+      "iconTarget": " Цитрин — идеальный"
+    },
+    {
+      "source": "Flawed Citrine Gemstone",
+      "id": "FLAWED_CITRINE_GEM",
+      "current": " Цитрин — с дефектами",
+      "iconSource": " Flawed Citrine Gemstone",
+      "target": "Цитрин — с дефектами",
+      "gender": "m",
+      "iconTarget": " Цитрин — с дефектами"
+    },
+    {
+      "source": "Rough Citrine Gemstone",
+      "id": "ROUGH_CITRINE_GEM",
+      "current": " Цитрин — грубый",
+      "iconSource": " Rough Citrine Gemstone",
+      "target": "Цитрин — необработанный",
+      "gender": "m",
+      "iconTarget": " Цитрин — необработанный"
+    },
+    {
+      "source": "Flawed Jade Gemstone",
+      "id": "FLAWED_JADE_GEM",
+      "current": " Нефрит — с дефектами",
+      "iconSource": " Flawed Jade Gemstone",
+      "target": "Нефрит — с дефектами",
+      "gender": "m",
+      "iconTarget": " Нефрит — с дефектами"
+    },
+    {
+      "source": "Rough Jade Gemstone",
+      "id": "ROUGH_JADE_GEM",
+      "current": " Нефрит — грубый",
+      "iconSource": " Rough Jade Gemstone",
+      "target": "Нефрит — необработанный",
+      "gender": "m",
+      "iconTarget": " Нефрит — необработанный"
+    },
+    {
+      "source": "Flawless Jade Gemstone",
+      "id": "FLAWLESS_JADE_GEM",
+      "current": " Нефрит — безупречный",
+      "iconSource": " Flawless Jade Gemstone",
+      "target": "Нефрит — безупречный",
+      "gender": "m",
+      "iconTarget": " Нефрит — безупречный"
+    },
+    {
+      "source": "Perfect Jade Gemstone",
+      "id": "PERFECT_JADE_GEM",
+      "current": " Нефрит — идеальный",
+      "iconSource": " Perfect Jade Gemstone",
+      "target": "Нефрит — идеальный",
+      "gender": "m",
+      "iconTarget": " Нефрит — идеальный"
+    },
+    {
+      "source": "Fine Jade Gemstone",
+      "id": "FINE_JADE_GEM",
+      "current": " Нефрит — качественный",
+      "iconSource": " Fine Jade Gemstone",
+      "target": "Нефрит — качественный",
+      "gender": "m",
+      "iconTarget": " Нефрит — качественный"
+    },
+    {
+      "source": "Flawless Sapphire Gemstone",
+      "id": "FLAWLESS_SAPPHIRE_GEM",
+      "current": " Сапфир — безупречный",
+      "iconSource": " Flawless Sapphire Gemstone",
+      "target": "Сапфир — безупречный",
+      "gender": "m",
+      "iconTarget": " Сапфир — безупречный"
+    },
+    {
+      "source": "Flawed Sapphire Gemstone",
+      "id": "FLAWED_SAPPHIRE_GEM",
+      "current": " Сапфир — с дефектами",
+      "iconSource": " Flawed Sapphire Gemstone",
+      "target": "Сапфир — с дефектами",
+      "gender": "m",
+      "iconTarget": " Сапфир — с дефектами"
+    },
+    {
+      "source": "Fine Sapphire Gemstone",
+      "id": "FINE_SAPPHIRE_GEM",
+      "current": " Сапфир — качественный",
+      "iconSource": " Fine Sapphire Gemstone",
+      "target": "Сапфир — качественный",
+      "gender": "m",
+      "iconTarget": " Сапфир — качественный"
+    },
+    {
+      "source": "Perfect Sapphire Gemstone",
+      "id": "PERFECT_SAPPHIRE_GEM",
+      "current": " Сапфир — идеальный",
+      "iconSource": " Perfect Sapphire Gemstone",
+      "target": "Сапфир — идеальный",
+      "gender": "m",
+      "iconTarget": " Сапфир — идеальный"
+    },
+    {
+      "source": "Rough Sapphire Gemstone",
+      "id": "ROUGH_SAPPHIRE_GEM",
+      "current": " Сапфир — грубый",
+      "iconSource": " Rough Sapphire Gemstone",
+      "target": "Сапфир — необработанный",
+      "gender": "m",
+      "iconTarget": " Сапфир — необработанный"
+    },
+    {
+      "source": "Flawless Topaz Gemstone",
+      "id": "FLAWLESS_TOPAZ_GEM",
+      "current": " Топаз — безупречный",
+      "iconSource": " Flawless Topaz Gemstone",
+      "target": "Топаз — безупречный",
+      "gender": "m",
+      "iconTarget": " Топаз — безупречный"
+    },
+    {
+      "source": "Flawed Topaz Gemstone",
+      "id": "FLAWED_TOPAZ_GEM",
+      "current": " Топаз — с дефектами",
+      "iconSource": " Flawed Topaz Gemstone",
+      "target": "Топаз — с дефектами",
+      "gender": "m",
+      "iconTarget": " Топаз — с дефектами"
+    },
+    {
+      "source": "Rough Topaz Gemstone",
+      "id": "ROUGH_TOPAZ_GEM",
+      "current": " Топаз — грубый",
+      "iconSource": " Rough Topaz Gemstone",
+      "target": "Топаз — необработанный",
+      "gender": "m",
+      "iconTarget": " Топаз — необработанный"
+    },
+    {
+      "source": "Fine Topaz Gemstone",
+      "id": "FINE_TOPAZ_GEM",
+      "current": " Топаз — качественный",
+      "iconSource": " Fine Topaz Gemstone",
+      "target": "Топаз — качественный",
+      "gender": "m",
+      "iconTarget": " Топаз — качественный"
+    },
+    {
+      "source": "Perfect Topaz Gemstone",
+      "id": "PERFECT_TOPAZ_GEM",
+      "current": " Топаз — идеальный",
+      "iconSource": " Perfect Topaz Gemstone",
+      "target": "Топаз — идеальный",
+      "gender": "m",
+      "iconTarget": " Топаз — идеальный"
+    },
+    {
+      "source": "Perfect Opal Gemstone",
+      "id": "PERFECT_OPAL_GEM",
+      "current": " Опал — идеальный",
+      "iconSource": " Perfect Opal Gemstone",
+      "target": "Опал — идеальный",
+      "gender": "m",
+      "iconTarget": " Опал — идеальный"
+    },
+    {
+      "source": "Fine Opal Gemstone",
+      "id": "FINE_OPAL_GEM",
+      "current": " Опал — качественный",
+      "iconSource": " Fine Opal Gemstone",
+      "target": "Опал — качественный",
+      "gender": "m",
+      "iconTarget": " Опал — качественный"
+    },
+    {
+      "source": "Flawless Opal Gemstone",
+      "id": "FLAWLESS_OPAL_GEM",
+      "current": " Опал — безупречный",
+      "iconSource": " Flawless Opal Gemstone",
+      "target": "Опал — безупречный",
+      "gender": "m",
+      "iconTarget": " Опал — безупречный"
+    },
+    {
+      "source": "Flawed Opal Gemstone",
+      "id": "FLAWED_OPAL_GEM",
+      "current": " Опал — с дефектами",
+      "iconSource": " Flawed Opal Gemstone",
+      "target": "Опал — с дефектами",
+      "gender": "m",
+      "iconTarget": " Опал — с дефектами"
+    },
+    {
+      "source": "Rough Opal Gemstone",
+      "id": "ROUGH_OPAL_GEM",
+      "current": " Опал — грубый",
+      "iconSource": " Rough Opal Gemstone",
+      "target": "Опал — необработанный",
+      "gender": "m",
+      "iconTarget": " Опал — необработанный"
+    }
+  ],
+  "additional": [
+    {
+      "id": "GRUNGLE",
+      "source": "Drone Mod: Grungle",
+      "target": "Модуль дрона: Грангл"
+    },
+    {
+      "id": "SINSEEKER_SCYTHE",
+      "source": "Sinseeker Scythe",
+      "target": "Коса искателя грехов",
+      "legacy": "§4Sin§5seeker Scythe"
+    }
+  ]
+}

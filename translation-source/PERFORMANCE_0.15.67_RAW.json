@@ -1,0 +1,2788 @@
+{
+  "final_benchmarks_after_final118_checks": true,
+  "candidate_game_fps_measured": false,
+  "context_root": "build/context-benchmark67-ca56bc82927443a3a0b2bcf5ddc6aebb",
+  "final_context_runs": [
+    {
+      "result": {
+        "fresh_shallow": {
+          "ms_per10": 0.01131038,
+          "bytes_per10": 10560.034,
+          "rounds_ms": [
+            0.01143158,
+            0.01106738,
+            0.01140559,
+            0.01121517
+          ],
+          "rounds_bytes": [
+            10560.056,
+            10560.0,
+            10588.656,
+            10560.012
+          ]
+        },
+        "fresh_deep32": {
+          "ms_per10": 0.06044263,
+          "bytes_per10": 50240.018,
+          "rounds_ms": [
+            0.06053546,
+            0.0603498,
+            0.060663,
+            0.06029924
+          ],
+          "rounds_bytes": [
+            50240.0144,
+            50240.0144,
+            50240.0216,
+            50240.0216
+          ]
+        },
+        "warm_metadata64": {
+          "ms_per10": 0.026684805,
+          "bytes_per10": 76960.0,
+          "rounds_ms": [
+            0.02667502,
+            0.02661685,
+            0.02670989,
+            0.02669459
+          ],
+          "rounds_bytes": [
+            76960.0,
+            76960.0,
+            76960.0,
+            76960.0
+          ]
+        },
+        "churn_metadata300": {
+          "ms_per10": 0.001070335,
+          "bytes_per10": 4960.0,
+          "rounds_ms": [
+            0.00113332,
+            0.00100735,
+            0.00100047,
+            0.00122025
+          ],
+          "rounds_bytes": [
+            4960.0,
+            4960.0,
+            4960.0,
+            4960.0
+          ]
+        },
+        "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+      },
+      "label": "0-0.15.66-dev"
+    },
+    {
+      "result": {
+        "fresh_shallow": {
+          "ms_per10": 0.01103796,
+          "bytes_per10": 10560.0212,
+          "rounds_ms": [
+            0.01126325,
+            0.01094475,
+            0.01113117,
+            0.01088202
+          ],
+          "rounds_bytes": [
+            10560.0304,
+            10560.0,
+            10588.3896,
+            10560.012
+          ]
+        },
+        "fresh_deep32": {
+          "ms_per10": 0.055445115,
+          "bytes_per10": 50240.019199999995,
+          "rounds_ms": [
+            0.0554603,
+            0.05542649,
+            0.05542993,
+            0.05605754
+          ],
+          "rounds_bytes": [
+            50240.0144,
+            50240.0168,
+            50240.0264,
+            50240.0216
+          ]
+        },
+        "warm_metadata64": {
+          "ms_per10": 0.01981929,
+          "bytes_per10": 76960.0,
+          "rounds_ms": [
+            0.01986673,
+            0.01980658,
+            0.019832,
+            0.0197918
+          ],
+          "rounds_bytes": [
+            76960.0,
+            76960.0,
+            76960.0,
+            76960.0
+          ]
+        },
+        "churn_metadata300": {
+          "ms_per10": 0.00083366,
+          "bytes_per10": 4640.0,
+          "rounds_ms": [
+            0.00096441,
+            0.00083298,
+            0.00083338,
+            0.00083394
+          ],
+          "rounds_bytes": [
+            4640.0,
+            4640.0,
+            4640.0,
+            4640.0
+          ]
+        },
+        "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+      },
+      "label": "1-0.15.67-dev"
+    },
+    {
+      "result": {
+        "fresh_shallow": {
+          "ms_per10": 0.01119548,
+          "bytes_per10": 10560.0152,
+          "rounds_ms": [
+            0.01093951,
+            0.01119569,
+            0.01154523,
+            0.01119527
+          ],
+          "rounds_bytes": [
+            10560.0304,
+            10560.0,
+            10589.916,
+            10560.0
+          ]
+        },
+        "fresh_deep32": {
+          "ms_per10": 0.057694985000000004,
+          "bytes_per10": 50240.012,
+          "rounds_ms": [
+            0.05778548,
+            0.05760449,
+            0.05798196,
+            0.05752922
+          ],
+          "rounds_bytes": [
+            50240.0048,
+            50240.0216,
+            50240.0144,
+            50240.0096
+          ]
+        },
+        "warm_metadata64": {
+          "ms_per10": 0.019796849999999998,
+          "bytes_per10": 76960.0,
+          "rounds_ms": [
+            0.0198161,
+            0.01987424,
+            0.0197776,
+            0.01972574
+          ],
+          "rounds_bytes": [
+            76960.0,
+            76960.0,
+            76960.0,
+            76960.0
+          ]
+        },
+        "churn_metadata300": {
+          "ms_per10": 0.00081573,
+          "bytes_per10": 4640.0,
+          "rounds_ms": [
+            0.00093539,
+            0.00081322,
+            0.00081824,
+            0.00081161
+          ],
+          "rounds_bytes": [
+            4640.0,
+            4640.0,
+            4640.0,
+            4640.0
+          ]
+        },
+        "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+      },
+      "label": "2-0.15.67-dev"
+    },
+    {
+      "result": {
+        "fresh_shallow": {
+          "ms_per10": 0.011493775000000001,
+          "bytes_per10": 10560.034,
+          "rounds_ms": [
+            0.01153531,
+            0.01128827,
+            0.01157499,
+            0.01145224
+          ],
+          "rounds_bytes": [
+            10560.056,
+            10560.0,
+            10589.8176,
+            10560.012
+          ]
+        },
+        "fresh_deep32": {
+          "ms_per10": 0.06021593,
+          "bytes_per10": 50240.0144,
+          "rounds_ms": [
+            0.06032127,
+            0.06033042,
+            0.06011059,
+            0.05984415
+          ],
+          "rounds_bytes": [
+            50240.0144,
+            50240.0144,
+            50240.0264,
+            50240.0096
+          ]
+        },
+        "warm_metadata64": {
+          "ms_per10": 0.026634619999999998,
+          "bytes_per10": 76960.0,
+          "rounds_ms": [
+            0.02684228,
+            0.02664787,
+            0.02662137,
+            0.02654363
+          ],
+          "rounds_bytes": [
+            76960.0,
+            76960.0,
+            76960.0,
+            76960.0
+          ]
+        },
+        "churn_metadata300": {
+          "ms_per10": 0.001040975,
+          "bytes_per10": 4960.0,
+          "rounds_ms": [
+            0.00108642,
+            0.00099553,
+            0.00099205,
+            0.00111733
+          ],
+          "rounds_bytes": [
+            4960.0,
+            4960.0,
+            4960.0,
+            4960.0
+          ]
+        },
+        "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+      },
+      "label": "3-0.15.66-dev"
+    }
+  ],
+  "live_profile_is_installed64_not_new67": true,
+  "common_allocation_medians_only": true,
+  "common_runs": [
+    {
+      "order": "66 then67",
+      "after": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 10000,
+        "measured_batches_per_round": 4000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x4000 batches after10000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "raw_sequence_baseline": {
+          "ms_per10": 0.0001698375,
+          "allocated_bytes_per10": 32.0,
+          "rounds_ms": [
+            0.000164225,
+            0.0001691,
+            0.000170575,
+            0.000173325
+          ]
+        },
+        "stable_scoped": {
+          "ms_per10": 0.0142784875,
+          "allocated_bytes_per10": 14384.0,
+          "rounds_ms": [
+            0.01437585,
+            0.0144072,
+            0.014181125,
+            0.0139631
+          ]
+        },
+        "titles_pipeline": {
+          "ms_per10": 0.0334203125,
+          "allocated_bytes_per10": 37152.036,
+          "rounds_ms": [
+            0.03401,
+            0.032901,
+            0.03271755,
+            0.033939625
+          ]
+        },
+        "stable_deep32": {
+          "ms_per10": 0.0842813125,
+          "allocated_bytes_per10": 66704.027,
+          "rounds_ms": [
+            0.083788825,
+            0.0877401,
+            0.080656,
+            0.0847738
+          ]
+        },
+        "tooltip_components": {
+          "ms_per10": 0.010792662500000001,
+          "allocated_bytes_per10": 13912.0,
+          "rounds_ms": [
+            0.01332755,
+            0.010268625,
+            0.011286475,
+            0.01029885
+          ]
+        },
+        "tooltip_sequences": {
+          "ms_per10": 0.0097723625,
+          "allocated_bytes_per10": 8183.976000000001,
+          "rounds_ms": [
+            0.011047575,
+            0.01053025,
+            0.009014475,
+            0.007620475
+          ]
+        },
+        "reviewed_components": {
+          "ms_per10": 0.0158371375,
+          "allocated_bytes_per10": 34808.03,
+          "rounds_ms": [
+            0.01697555,
+            0.016562775,
+            0.013814025,
+            0.0151115
+          ]
+        },
+        "reviewed_sequences": {
+          "ms_per10": 0.0138056875,
+          "allocated_bytes_per10": 26792.03,
+          "rounds_ms": [
+            0.014426125,
+            0.01434195,
+            0.0128134,
+            0.013269425
+          ]
+        },
+        "disabled_pipeline": {
+          "ms_per10": 0.0008104875,
+          "allocated_bytes_per10": 880.0,
+          "rounds_ms": [
+            0.000810725,
+            0.00081025,
+            0.0008081,
+            0.00081775
+          ]
+        },
+        "roster_lookup": {
+          "ms_per10": 0.0018737250000000001,
+          "allocated_bytes_per10": 3272.0,
+          "rounds_ms": [
+            0.001635725,
+            0.001814875,
+            0.001932575,
+            0.00193825
+          ]
+        },
+        "debug_pipeline": {
+          "ms_per10": 0.002072575,
+          "allocated_bytes_per10": 1472.0,
+          "rounds_ms": [
+            0.0021702,
+            0.002042525,
+            0.002102625,
+            0.0019144
+          ]
+        },
+        "bestiary_titles": {
+          "ms_per10": 0.009092475,
+          "allocated_bytes_per10": 22536.03,
+          "rounds_ms": [
+            0.01000235,
+            0.00913065,
+            0.00875305,
+            0.0090543
+          ]
+        },
+        "bestiary_receipts": {
+          "ms_per10": 0.0281130375,
+          "allocated_bytes_per10": 105600.0,
+          "rounds_ms": [
+            0.037346975,
+            0.026104,
+            0.027241075,
+            0.028985
+          ]
+        },
+        "bestiary_centered_receipts": {
+          "ms_per10": 0.013123662500000001,
+          "allocated_bytes_per10": 61552.0,
+          "rounds_ms": [
+            0.0164871,
+            0.013067475,
+            0.0130273,
+            0.01317985
+          ]
+        },
+        "gui51_components": {
+          "ms_per10": 0.011949475000000001,
+          "allocated_bytes_per10": 35216.03,
+          "rounds_ms": [
+            0.0120009,
+            0.01189805,
+            0.01246575,
+            0.01169595
+          ]
+        },
+        "gui51_sequences": {
+          "ms_per10": 0.0113005625,
+          "allocated_bytes_per10": 25120.015,
+          "rounds_ms": [
+            0.01109805,
+            0.010137475,
+            0.013682375,
+            0.011503075
+          ]
+        },
+        "npc51_receipts": {
+          "ms_per10": 0.023450875,
+          "allocated_bytes_per10": 42715.646,
+          "rounds_ms": [
+            0.02519225,
+            0.02377425,
+            0.0231275,
+            0.01828405
+          ]
+        },
+        "npc51_negative": {
+          "ms_per10": 0.053896324999999995,
+          "allocated_bytes_per10": 233680.0,
+          "rounds_ms": [
+            0.0586509,
+            0.059297875,
+            0.04914175,
+            0.048901575
+          ]
+        },
+        "fuel52_components": {
+          "ms_per10": 0.014009075,
+          "allocated_bytes_per10": 35768.03,
+          "rounds_ms": [
+            0.015469425,
+            0.014060975,
+            0.013821325,
+            0.013957175
+          ]
+        },
+        "fuel52_sequences": {
+          "ms_per10": 0.012975512500000001,
+          "allocated_bytes_per10": 28648.03,
+          "rounds_ms": [
+            0.011789225,
+            0.013882975,
+            0.01206805,
+            0.014651275
+          ]
+        },
+        "slayer53_receipts": {
+          "ms_per10": 0.0136365875,
+          "allocated_bytes_per10": 58504.0,
+          "rounds_ms": [
+            0.0174686,
+            0.01357365,
+            0.013651825,
+            0.01362135
+          ]
+        },
+        "slayer54_counters": {
+          "ms_per10": 0.0193986375,
+          "allocated_bytes_per10": 66216.0,
+          "rounds_ms": [
+            0.0192155,
+            0.0183317,
+            0.01969815,
+            0.019581775
+          ]
+        },
+        "enchant54_components": {
+          "ms_per10": 0.0161511,
+          "allocated_bytes_per10": 45488.03,
+          "rounds_ms": [
+            0.016030175,
+            0.01593005,
+            0.016272025,
+            0.0166076
+          ]
+        },
+        "enchant54_sequences": {
+          "ms_per10": 0.014357475,
+          "allocated_bytes_per10": 36728.03,
+          "rounds_ms": [
+            0.01517205,
+            0.01441,
+            0.01430495,
+            0.014138575
+          ]
+        },
+        "sack55_components": {
+          "ms_per10": 0.013348487499999999,
+          "allocated_bytes_per10": 33536.03,
+          "rounds_ms": [
+            0.01332355,
+            0.013172725,
+            0.01356365,
+            0.013373425
+          ]
+        },
+        "sack55_sequences": {
+          "ms_per10": 0.0106572375,
+          "allocated_bytes_per10": 20048.015,
+          "rounds_ms": [
+            0.012237775,
+            0.0107983,
+            0.010516175,
+            0.0104595
+          ]
+        },
+        "sack55_negative": {
+          "ms_per10": 0.0071056750000000005,
+          "allocated_bytes_per10": 11474.327000000001,
+          "rounds_ms": [
+            0.00889795,
+            0.0081521,
+            0.005779575,
+            0.00605925
+          ]
+        },
+        "upgrade56_components": {
+          "ms_per10": 0.01277785,
+          "allocated_bytes_per10": 35152.03,
+          "rounds_ms": [
+            0.016447475,
+            0.013068775,
+            0.012333225,
+            0.012486925
+          ]
+        },
+        "upgrade56_sequences": {
+          "ms_per10": 0.011523,
+          "allocated_bytes_per10": 25200.015,
+          "rounds_ms": [
+            0.0114402,
+            0.011470775,
+            0.011744875,
+            0.011575225
+          ]
+        },
+        "received56_dates": {
+          "ms_per10": 0.03488395,
+          "allocated_bytes_per10": 75760.072,
+          "rounds_ms": [
+            0.040689625,
+            0.034378325,
+            0.03413995,
+            0.035389575
+          ]
+        },
+        "experiment57_components": {
+          "ms_per10": 0.013478549999999999,
+          "allocated_bytes_per10": 35072.03,
+          "rounds_ms": [
+            0.013439425,
+            0.01397015,
+            0.013517675,
+            0.012949125
+          ]
+        },
+        "experiment57_sequences": {
+          "ms_per10": 0.009449975,
+          "allocated_bytes_per10": 19464.015,
+          "rounds_ms": [
+            0.009501725,
+            0.00969575,
+            0.009376375,
+            0.009398225
+          ]
+        },
+        "experiment57_notices": {
+          "ms_per10": 0.0194457,
+          "allocated_bytes_per10": 76520.0,
+          "rounds_ms": [
+            0.02083925,
+            0.019638525,
+            0.019252875,
+            0.0189497
+          ]
+        },
+        "enchant58_components": {
+          "ms_per10": 0.018942825,
+          "allocated_bytes_per10": 43364.801999999996,
+          "rounds_ms": [
+            0.0224256,
+            0.0200598,
+            0.01782585,
+            0.01539715
+          ]
+        },
+        "enchant58_sequences": {
+          "ms_per10": 0.0138520875,
+          "allocated_bytes_per10": 32920.03,
+          "rounds_ms": [
+            0.013781025,
+            0.01396635,
+            0.01392315,
+            0.013605675
+          ]
+        },
+        "enchant58_negative": {
+          "ms_per10": 0.0059441,
+          "allocated_bytes_per10": 15272.0,
+          "rounds_ms": [
+            0.008170775,
+            0.005810625,
+            0.006013425,
+            0.005874775
+          ]
+        },
+        "enchant59_components": {
+          "ms_per10": 0.022006487499999998,
+          "allocated_bytes_per10": 55384.03,
+          "rounds_ms": [
+            0.019758775,
+            0.02103285,
+            0.022980125,
+            0.02310955
+          ]
+        },
+        "enchant59_sequences": {
+          "ms_per10": 0.020457275,
+          "allocated_bytes_per10": 46128.03,
+          "rounds_ms": [
+            0.020141175,
+            0.020514825,
+            0.021229625,
+            0.020399725
+          ]
+        },
+        "numeric59_negative": {
+          "ms_per10": 0.006633699999999999,
+          "allocated_bytes_per10": 10952.0,
+          "rounds_ms": [
+            0.00665435,
+            0.00654225,
+            0.007051975,
+            0.00661305
+          ]
+        },
+        "npc60_new": {
+          "ms_per10": 0.05614685,
+          "allocated_bytes_per10": 268944.0,
+          "rounds_ms": [
+            0.056007525,
+            0.056286175,
+            0.056759525,
+            0.055920225
+          ]
+        },
+        "npc60_legacy": {
+          "ms_per10": 0.08505152499999999,
+          "allocated_bytes_per10": 332824.0,
+          "rounds_ms": [
+            0.072141825,
+            0.07602405,
+            0.094079,
+            0.09665435
+          ]
+        },
+        "npc60_existing": {
+          "ms_per10": 0.0536164125,
+          "allocated_bytes_per10": 261880.0,
+          "rounds_ms": [
+            0.060299575,
+            0.052029525,
+            0.054629225,
+            0.0526036
+          ]
+        },
+        "npc60_unknown": {
+          "ms_per10": 0.0398892125,
+          "allocated_bytes_per10": 227440.0,
+          "rounds_ms": [
+            0.0394944,
+            0.0406747,
+            0.040284025,
+            0.039429125
+          ]
+        },
+        "npc60_player": {
+          "ms_per10": 0.001009675,
+          "allocated_bytes_per10": 3440.0,
+          "rounds_ms": [
+            0.00065555,
+            0.001077975,
+            0.000941375,
+            0.00118275
+          ]
+        },
+        "sack61_components": {
+          "ms_per10": 0.011194325,
+          "allocated_bytes_per10": 19655.584000000003,
+          "rounds_ms": [
+            0.01206345,
+            0.012363,
+            0.0103252,
+            0.008075875
+          ]
+        },
+        "sack61_sequences": {
+          "ms_per10": 0.0079127875,
+          "allocated_bytes_per10": 11848.015,
+          "rounds_ms": [
+            0.0110369,
+            0.00778745,
+            0.007231925,
+            0.008038125
+          ]
+        },
+        "sack61_negative": {
+          "ms_per10": 0.007565175,
+          "allocated_bytes_per10": 10712.0,
+          "rounds_ms": [
+            0.00909335,
+            0.00876375,
+            0.0063666,
+            0.005422675
+          ]
+        },
+        "numeric62_pipeline": {
+          "ms_per10": 0.014454362500000002,
+          "allocated_bytes_per10": 16448.0,
+          "rounds_ms": [
+            0.014397925,
+            0.014498125,
+            0.01503065,
+            0.0144106
+          ]
+        },
+        "final62_pipeline": {
+          "ms_per10": 0.0147359,
+          "allocated_bytes_per10": 17728.0,
+          "rounds_ms": [
+            0.0152933,
+            0.014734675,
+            0.014651425,
+            0.014737125
+          ]
+        },
+        "numeric62_dictionary": {
+          "ms_per10": 0.0010738875,
+          "allocated_bytes_per10": 1616.0,
+          "rounds_ms": [
+            0.001088625,
+            0.001106975,
+            0.0010577,
+            0.00105915
+          ]
+        },
+        "hypixel62_pipeline": {
+          "ms_per10": 0.0348269125,
+          "allocated_bytes_per10": 30144.021,
+          "rounds_ms": [
+            0.0349711,
+            0.034682725,
+            0.0350391,
+            0.034217775
+          ]
+        },
+        "context63_stable": {
+          "ms_per10": 0.001229025,
+          "allocated_bytes_per10": 112.0,
+          "rounds_ms": [
+            0.00097995,
+            0.001178625,
+            0.001428425,
+            0.001279425
+          ]
+        },
+        "context63_churn": {
+          "ms_per10": 0.016348500000000002,
+          "allocated_bytes_per10": 544.0,
+          "rounds_ms": [
+            0.015654875,
+            0.01598745,
+            0.01670955,
+            0.0174554
+          ]
+        },
+        "context63_oversized": {
+          "ms_per10": 0.0093596125,
+          "allocated_bytes_per10": 717.48,
+          "rounds_ms": [
+            0.012394025,
+            0.01461475,
+            0.0063252,
+            0.00108785
+          ]
+        }
+      },
+      "kind": "54 common scenarios",
+      "before": {
+        "label": "0.15.66-dev",
+        "warmup_batches": 10000,
+        "measured_batches_per_round": 4000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x4000 batches after10000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.66-dev.jar",
+        "raw_sequence_baseline": {
+          "ms_per10": 0.0001701875,
+          "allocated_bytes_per10": 32.0,
+          "rounds_ms": [
+            0.000172575,
+            0.000167225,
+            0.0001678,
+            0.000174675
+          ]
+        },
+        "stable_scoped": {
+          "ms_per10": 0.014732725,
+          "allocated_bytes_per10": 14384.0,
+          "rounds_ms": [
+            0.015683625,
+            0.01465435,
+            0.01470855,
+            0.0147569
+          ]
+        },
+        "titles_pipeline": {
+          "ms_per10": 0.033991337499999996,
+          "allocated_bytes_per10": 36640.036,
+          "rounds_ms": [
+            0.034028225,
+            0.03395445,
+            0.035210425,
+            0.0338339
+          ]
+        },
+        "stable_deep32": {
+          "ms_per10": 0.0785845375,
+          "allocated_bytes_per10": 66704.01800000001,
+          "rounds_ms": [
+            0.08164995,
+            0.07475355,
+            0.075519125,
+            0.091282325
+          ]
+        },
+        "tooltip_components": {
+          "ms_per10": 0.0104891125,
+          "allocated_bytes_per10": 13899.256000000001,
+          "rounds_ms": [
+            0.011550425,
+            0.0130758,
+            0.0094278,
+            0.007595325
+          ]
+        },
+        "tooltip_sequences": {
+          "ms_per10": 0.00975585,
+          "allocated_bytes_per10": 8119.868,
+          "rounds_ms": [
+            0.01079875,
+            0.009000225,
+            0.009151425,
+            0.010360275
+          ]
+        },
+        "reviewed_components": {
+          "ms_per10": 0.0140624875,
+          "allocated_bytes_per10": 34808.03,
+          "rounds_ms": [
+            0.0147011,
+            0.01412105,
+            0.014003925,
+            0.013685425
+          ]
+        },
+        "reviewed_sequences": {
+          "ms_per10": 0.013388725,
+          "allocated_bytes_per10": 26792.03,
+          "rounds_ms": [
+            0.0132424,
+            0.013624675,
+            0.0132116,
+            0.01353505
+          ]
+        },
+        "disabled_pipeline": {
+          "ms_per10": 0.0007592,
+          "allocated_bytes_per10": 880.0,
+          "rounds_ms": [
+            0.0006518,
+            0.0007385,
+            0.0007799,
+            0.0008497
+          ]
+        },
+        "roster_lookup": {
+          "ms_per10": 0.0018674375000000002,
+          "allocated_bytes_per10": 3272.0,
+          "rounds_ms": [
+            0.001368725,
+            0.001846975,
+            0.001918575,
+            0.0018879
+          ]
+        },
+        "debug_pipeline": {
+          "ms_per10": 0.0015833750000000001,
+          "allocated_bytes_per10": 1472.0,
+          "rounds_ms": [
+            0.0012559,
+            0.00175505,
+            0.0014117,
+            0.001899
+          ]
+        },
+        "bestiary_titles": {
+          "ms_per10": 0.0093294875,
+          "allocated_bytes_per10": 21576.03,
+          "rounds_ms": [
+            0.0092427,
+            0.01209435,
+            0.008183325,
+            0.009416275
+          ]
+        },
+        "bestiary_receipts": {
+          "ms_per10": 0.02447965,
+          "allocated_bytes_per10": 112400.0,
+          "rounds_ms": [
+            0.02391465,
+            0.024401725,
+            0.024557575,
+            0.02561145
+          ]
+        },
+        "bestiary_centered_receipts": {
+          "ms_per10": 0.012678700000000001,
+          "allocated_bytes_per10": 61552.0,
+          "rounds_ms": [
+            0.015340675,
+            0.012625575,
+            0.012731825,
+            0.012453
+          ]
+        },
+        "gui51_components": {
+          "ms_per10": 0.011843925,
+          "allocated_bytes_per10": 35456.03,
+          "rounds_ms": [
+            0.0120925,
+            0.0119867,
+            0.0113646,
+            0.01170115
+          ]
+        },
+        "gui51_sequences": {
+          "ms_per10": 0.010412925,
+          "allocated_bytes_per10": 25360.015,
+          "rounds_ms": [
+            0.01039065,
+            0.01036085,
+            0.010630175,
+            0.0104352
+          ]
+        },
+        "npc51_receipts": {
+          "ms_per10": 0.0217781625,
+          "allocated_bytes_per10": 42671.096000000005,
+          "rounds_ms": [
+            0.021863075,
+            0.021588625,
+            0.02169325,
+            0.022535
+          ]
+        },
+        "npc51_negative": {
+          "ms_per10": 0.047464387499999997,
+          "allocated_bytes_per10": 233680.0,
+          "rounds_ms": [
+            0.0493906,
+            0.0475307,
+            0.046055175,
+            0.047398075
+          ]
+        },
+        "fuel52_components": {
+          "ms_per10": 0.0163042,
+          "allocated_bytes_per10": 35984.03,
+          "rounds_ms": [
+            0.0148394,
+            0.018418775,
+            0.017769,
+            0.0140846
+          ]
+        },
+        "fuel52_sequences": {
+          "ms_per10": 0.012489687499999999,
+          "allocated_bytes_per10": 28864.03,
+          "rounds_ms": [
+            0.012258,
+            0.0123736,
+            0.012605775,
+            0.01367035
+          ]
+        },
+        "slayer53_receipts": {
+          "ms_per10": 0.0129399875,
+          "allocated_bytes_per10": 58744.0,
+          "rounds_ms": [
+            0.0125039,
+            0.01273275,
+            0.016681125,
+            0.013147225
+          ]
+        },
+        "slayer54_counters": {
+          "ms_per10": 0.017108925,
+          "allocated_bytes_per10": 66456.0,
+          "rounds_ms": [
+            0.017257225,
+            0.016960625,
+            0.0172746,
+            0.016575225
+          ]
+        },
+        "enchant54_components": {
+          "ms_per10": 0.0161431375,
+          "allocated_bytes_per10": 45704.03,
+          "rounds_ms": [
+            0.0174469,
+            0.016161675,
+            0.0161246,
+            0.01602145
+          ]
+        },
+        "enchant54_sequences": {
+          "ms_per10": 0.0148745625,
+          "allocated_bytes_per10": 36944.03,
+          "rounds_ms": [
+            0.014918125,
+            0.015411625,
+            0.014810725,
+            0.014831
+          ]
+        },
+        "sack55_components": {
+          "ms_per10": 0.0137353375,
+          "allocated_bytes_per10": 33616.03,
+          "rounds_ms": [
+            0.013965275,
+            0.013539,
+            0.013931675,
+            0.01319315
+          ]
+        },
+        "sack55_sequences": {
+          "ms_per10": 0.010422137500000001,
+          "allocated_bytes_per10": 20192.015,
+          "rounds_ms": [
+            0.0103085,
+            0.0107448,
+            0.010342475,
+            0.0105018
+          ]
+        },
+        "sack55_negative": {
+          "ms_per10": 0.0070065375,
+          "allocated_bytes_per10": 11432.0,
+          "rounds_ms": [
+            0.00867355,
+            0.008403425,
+            0.00560965,
+            0.0055507
+          ]
+        },
+        "upgrade56_components": {
+          "ms_per10": 0.014400525,
+          "allocated_bytes_per10": 35392.03,
+          "rounds_ms": [
+            0.014232525,
+            0.0127918,
+            0.014568525,
+            0.01585745
+          ]
+        },
+        "upgrade56_sequences": {
+          "ms_per10": 0.0119015625,
+          "allocated_bytes_per10": 25440.03,
+          "rounds_ms": [
+            0.0119397,
+            0.01127525,
+            0.012019725,
+            0.011863425
+          ]
+        },
+        "received56_dates": {
+          "ms_per10": 0.0373543875,
+          "allocated_bytes_per10": 75440.072,
+          "rounds_ms": [
+            0.03677895,
+            0.037929825,
+            0.041961275,
+            0.035973
+          ]
+        },
+        "experiment57_components": {
+          "ms_per10": 0.0129373875,
+          "allocated_bytes_per10": 34912.03,
+          "rounds_ms": [
+            0.01331415,
+            0.01290245,
+            0.012969125,
+            0.01290565
+          ]
+        },
+        "experiment57_sequences": {
+          "ms_per10": 0.0093835875,
+          "allocated_bytes_per10": 19464.015,
+          "rounds_ms": [
+            0.0093525,
+            0.009414675,
+            0.00896935,
+            0.010085275
+          ]
+        },
+        "experiment57_notices": {
+          "ms_per10": 0.0193397125,
+          "allocated_bytes_per10": 76760.0,
+          "rounds_ms": [
+            0.01913525,
+            0.01923395,
+            0.019445475,
+            0.02187765
+          ]
+        },
+        "enchant58_components": {
+          "ms_per10": 0.0165740125,
+          "allocated_bytes_per10": 43488.03,
+          "rounds_ms": [
+            0.016642325,
+            0.01636625,
+            0.0165057,
+            0.0167803
+          ]
+        },
+        "enchant58_sequences": {
+          "ms_per10": 0.0140715,
+          "allocated_bytes_per10": 33088.03,
+          "rounds_ms": [
+            0.013804225,
+            0.01396225,
+            0.01418075,
+            0.0142959
+          ]
+        },
+        "enchant58_negative": {
+          "ms_per10": 0.0058979875,
+          "allocated_bytes_per10": 15272.0,
+          "rounds_ms": [
+            0.006678525,
+            0.005978325,
+            0.0057721,
+            0.00581765
+          ]
+        },
+        "enchant59_components": {
+          "ms_per10": 0.02030535,
+          "allocated_bytes_per10": 55624.045,
+          "rounds_ms": [
+            0.020193075,
+            0.020417625,
+            0.019751675,
+            0.024194875
+          ]
+        },
+        "enchant59_sequences": {
+          "ms_per10": 0.023038225000000002,
+          "allocated_bytes_per10": 46368.03,
+          "rounds_ms": [
+            0.0184525,
+            0.024928675,
+            0.025364725,
+            0.021147775
+          ]
+        },
+        "numeric59_negative": {
+          "ms_per10": 0.006647875,
+          "allocated_bytes_per10": 10952.0,
+          "rounds_ms": [
+            0.006671075,
+            0.0064481,
+            0.00693925,
+            0.006624675
+          ]
+        },
+        "npc60_new": {
+          "ms_per10": 0.0745915625,
+          "allocated_bytes_per10": 268944.0,
+          "rounds_ms": [
+            0.0751432,
+            0.078435325,
+            0.074039925,
+            0.071984125
+          ]
+        },
+        "npc60_legacy": {
+          "ms_per10": 0.0843181625,
+          "allocated_bytes_per10": 332824.0,
+          "rounds_ms": [
+            0.081124725,
+            0.086978125,
+            0.0816582,
+            0.090704325
+          ]
+        },
+        "npc60_existing": {
+          "ms_per10": 0.0601779875,
+          "allocated_bytes_per10": 261880.0,
+          "rounds_ms": [
+            0.060781375,
+            0.05391175,
+            0.06575915,
+            0.0595746
+          ]
+        },
+        "npc60_unknown": {
+          "ms_per10": 0.046776325,
+          "allocated_bytes_per10": 227440.0,
+          "rounds_ms": [
+            0.04489125,
+            0.043353025,
+            0.05283315,
+            0.0486614
+          ]
+        },
+        "npc60_player": {
+          "ms_per10": 0.0011829499999999999,
+          "allocated_bytes_per10": 3440.0,
+          "rounds_ms": [
+            0.0012554,
+            0.00118045,
+            0.00094625,
+            0.00118545
+          ]
+        },
+        "sack61_components": {
+          "ms_per10": 0.01205005,
+          "allocated_bytes_per10": 19763.057999999997,
+          "rounds_ms": [
+            0.012449175,
+            0.011650925,
+            0.010914975,
+            0.0124693
+          ]
+        },
+        "sack61_sequences": {
+          "ms_per10": 0.009687075,
+          "allocated_bytes_per10": 11968.0,
+          "rounds_ms": [
+            0.0108846,
+            0.010224525,
+            0.009149625,
+            0.0082362
+          ]
+        },
+        "sack61_negative": {
+          "ms_per10": 0.0077051125,
+          "allocated_bytes_per10": 10712.0,
+          "rounds_ms": [
+            0.006970925,
+            0.009144275,
+            0.0084393,
+            0.00649925
+          ]
+        },
+        "numeric62_pipeline": {
+          "ms_per10": 0.0157191125,
+          "allocated_bytes_per10": 16448.0,
+          "rounds_ms": [
+            0.01713285,
+            0.0160075,
+            0.015430725,
+            0.015293925
+          ]
+        },
+        "final62_pipeline": {
+          "ms_per10": 0.019527825,
+          "allocated_bytes_per10": 17728.015,
+          "rounds_ms": [
+            0.01999655,
+            0.019604775,
+            0.019450875,
+            0.017863675
+          ]
+        },
+        "numeric62_dictionary": {
+          "ms_per10": 0.0012950625,
+          "allocated_bytes_per10": 1616.0,
+          "rounds_ms": [
+            0.00135975,
+            0.00130295,
+            0.0011295,
+            0.001287175
+          ]
+        },
+        "hypixel62_pipeline": {
+          "ms_per10": 0.047133375000000005,
+          "allocated_bytes_per10": 30384.007,
+          "rounds_ms": [
+            0.051783475,
+            0.042483275,
+            0.0408523,
+            0.052538325
+          ]
+        },
+        "context63_stable": {
+          "ms_per10": 0.00084,
+          "allocated_bytes_per10": 112.0,
+          "rounds_ms": [
+            0.000846325,
+            0.000833675,
+            0.000818575,
+            0.001096625
+          ]
+        },
+        "context63_churn": {
+          "ms_per10": 0.013124575,
+          "allocated_bytes_per10": 539.456,
+          "rounds_ms": [
+            0.01606695,
+            0.0159946,
+            0.01025455,
+            0.001322925
+          ]
+        },
+        "context63_oversized": {
+          "ms_per10": 0.0014127375,
+          "allocated_bytes_per10": 696.0,
+          "rounds_ms": [
+            0.001200275,
+            0.00121165,
+            0.001613825,
+            0.001871675
+          ]
+        }
+      },
+      "root": "build/render-hotpaths-1fc10339d2b54324a073d079299ee78b"
+    },
+    {
+      "order": "67 then66",
+      "after": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 10000,
+        "measured_batches_per_round": 4000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x4000 batches after10000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "raw_sequence_baseline": {
+          "ms_per10": 0.0001816,
+          "allocated_bytes_per10": 32.0,
+          "rounds_ms": [
+            0.000170775,
+            0.000181125,
+            0.000182075,
+            0.000187075
+          ]
+        },
+        "stable_scoped": {
+          "ms_per10": 0.01429505,
+          "allocated_bytes_per10": 14384.0,
+          "rounds_ms": [
+            0.0147093,
+            0.014473275,
+            0.014116825,
+            0.0139632
+          ]
+        },
+        "titles_pipeline": {
+          "ms_per10": 0.0328674875,
+          "allocated_bytes_per10": 37152.018,
+          "rounds_ms": [
+            0.033166225,
+            0.032435875,
+            0.032926075,
+            0.0328089
+          ]
+        },
+        "stable_deep32": {
+          "ms_per10": 0.07943315000000001,
+          "allocated_bytes_per10": 66704.02100000001,
+          "rounds_ms": [
+            0.070609175,
+            0.0718974,
+            0.08858235,
+            0.0869689
+          ]
+        },
+        "tooltip_components": {
+          "ms_per10": 0.009322674999999999,
+          "allocated_bytes_per10": 13892.862000000001,
+          "rounds_ms": [
+            0.012439575,
+            0.010334625,
+            0.008310725,
+            0.0072745
+          ]
+        },
+        "tooltip_sequences": {
+          "ms_per10": 0.0090110875,
+          "allocated_bytes_per10": 8182.92,
+          "rounds_ms": [
+            0.011457775,
+            0.01000925,
+            0.008012925,
+            0.006872875
+          ]
+        },
+        "reviewed_components": {
+          "ms_per10": 0.0143769125,
+          "allocated_bytes_per10": 34808.03,
+          "rounds_ms": [
+            0.014288075,
+            0.0138685,
+            0.0174342,
+            0.01446575
+          ]
+        },
+        "reviewed_sequences": {
+          "ms_per10": 0.016119975,
+          "allocated_bytes_per10": 26792.03,
+          "rounds_ms": [
+            0.016525875,
+            0.01576765,
+            0.01605855,
+            0.0161814
+          ]
+        },
+        "disabled_pipeline": {
+          "ms_per10": 0.0007128,
+          "allocated_bytes_per10": 880.0,
+          "rounds_ms": [
+            0.000711925,
+            0.000821025,
+            0.000713675,
+            0.00066355
+          ]
+        },
+        "roster_lookup": {
+          "ms_per10": 0.0018555874999999999,
+          "allocated_bytes_per10": 3272.0,
+          "rounds_ms": [
+            0.001794875,
+            0.001857625,
+            0.001920775,
+            0.00185355
+          ]
+        },
+        "debug_pipeline": {
+          "ms_per10": 0.0018187874999999998,
+          "allocated_bytes_per10": 1472.0,
+          "rounds_ms": [
+            0.001815925,
+            0.001972675,
+            0.00182165,
+            0.00170025
+          ]
+        },
+        "bestiary_titles": {
+          "ms_per10": 0.008775112500000001,
+          "allocated_bytes_per10": 22536.03,
+          "rounds_ms": [
+            0.00888515,
+            0.0088079,
+            0.008589925,
+            0.008742325
+          ]
+        },
+        "bestiary_receipts": {
+          "ms_per10": 0.024280475,
+          "allocated_bytes_per10": 113360.0,
+          "rounds_ms": [
+            0.024245975,
+            0.024631025,
+            0.024314975,
+            0.0236583
+          ]
+        },
+        "bestiary_centered_receipts": {
+          "ms_per10": 0.013537912499999999,
+          "allocated_bytes_per10": 61552.0,
+          "rounds_ms": [
+            0.01637765,
+            0.0126722,
+            0.012728675,
+            0.01434715
+          ]
+        },
+        "gui51_components": {
+          "ms_per10": 0.0120211125,
+          "allocated_bytes_per10": 35216.03,
+          "rounds_ms": [
+            0.01127375,
+            0.0125507,
+            0.012463325,
+            0.0115789
+          ]
+        },
+        "gui51_sequences": {
+          "ms_per10": 0.010187024999999999,
+          "allocated_bytes_per10": 25120.015,
+          "rounds_ms": [
+            0.010137775,
+            0.0112981,
+            0.010236275,
+            0.0101373
+          ]
+        },
+        "npc51_receipts": {
+          "ms_per10": 0.023294525,
+          "allocated_bytes_per10": 42668.888,
+          "rounds_ms": [
+            0.023879475,
+            0.022709575,
+            0.022366225,
+            0.0238975
+          ]
+        },
+        "npc51_negative": {
+          "ms_per10": 0.0457324,
+          "allocated_bytes_per10": 233680.0,
+          "rounds_ms": [
+            0.048797275,
+            0.04537575,
+            0.04608905,
+            0.04500145
+          ]
+        },
+        "fuel52_components": {
+          "ms_per10": 0.013533675,
+          "allocated_bytes_per10": 35768.015,
+          "rounds_ms": [
+            0.013089825,
+            0.01601,
+            0.01380435,
+            0.013263
+          ]
+        },
+        "fuel52_sequences": {
+          "ms_per10": 0.01189975,
+          "allocated_bytes_per10": 28648.03,
+          "rounds_ms": [
+            0.0118109,
+            0.011621675,
+            0.0119886,
+            0.01205895
+          ]
+        },
+        "slayer53_receipts": {
+          "ms_per10": 0.0128947625,
+          "allocated_bytes_per10": 58744.0,
+          "rounds_ms": [
+            0.01294435,
+            0.012637375,
+            0.013136275,
+            0.012845175
+          ]
+        },
+        "slayer54_counters": {
+          "ms_per10": 0.017096025,
+          "allocated_bytes_per10": 66456.0,
+          "rounds_ms": [
+            0.0171477,
+            0.0171201,
+            0.01707195,
+            0.016738325
+          ]
+        },
+        "enchant54_components": {
+          "ms_per10": 0.016690725,
+          "allocated_bytes_per10": 45488.03,
+          "rounds_ms": [
+            0.015932675,
+            0.0156209,
+            0.017448775,
+            0.0176045
+          ]
+        },
+        "enchant54_sequences": {
+          "ms_per10": 0.014601337499999999,
+          "allocated_bytes_per10": 36728.03,
+          "rounds_ms": [
+            0.014704575,
+            0.014253375,
+            0.0144981,
+            0.015708425
+          ]
+        },
+        "sack55_components": {
+          "ms_per10": 0.0129372875,
+          "allocated_bytes_per10": 33472.03,
+          "rounds_ms": [
+            0.012940825,
+            0.01293375,
+            0.013078125,
+            0.01286715
+          ]
+        },
+        "sack55_sequences": {
+          "ms_per10": 0.0102304875,
+          "allocated_bytes_per10": 20048.015,
+          "rounds_ms": [
+            0.012245825,
+            0.010198575,
+            0.010107625,
+            0.0102624
+          ]
+        },
+        "sack55_negative": {
+          "ms_per10": 0.0062129625,
+          "allocated_bytes_per10": 11449.880000000001,
+          "rounds_ms": [
+            0.008578775,
+            0.00690185,
+            0.0053678,
+            0.005524075
+          ]
+        },
+        "upgrade56_components": {
+          "ms_per10": 0.013134287500000001,
+          "allocated_bytes_per10": 35152.03,
+          "rounds_ms": [
+            0.013743625,
+            0.0133656,
+            0.012902975,
+            0.012758175
+          ]
+        },
+        "upgrade56_sequences": {
+          "ms_per10": 0.011731125,
+          "allocated_bytes_per10": 25200.015,
+          "rounds_ms": [
+            0.011429625,
+            0.011709775,
+            0.012900775,
+            0.011752475
+          ]
+        },
+        "received56_dates": {
+          "ms_per10": 0.0410598125,
+          "allocated_bytes_per10": 75440.072,
+          "rounds_ms": [
+            0.036849225,
+            0.04214915,
+            0.046886925,
+            0.039970475
+          ]
+        },
+        "experiment57_components": {
+          "ms_per10": 0.013024925,
+          "allocated_bytes_per10": 34912.03,
+          "rounds_ms": [
+            0.012919575,
+            0.013130275,
+            0.014383375,
+            0.0128042
+          ]
+        },
+        "experiment57_sequences": {
+          "ms_per10": 0.008991025,
+          "allocated_bytes_per10": 19464.015,
+          "rounds_ms": [
+            0.01014705,
+            0.00900845,
+            0.008888525,
+            0.0089736
+          ]
+        },
+        "experiment57_notices": {
+          "ms_per10": 0.019593,
+          "allocated_bytes_per10": 76760.0,
+          "rounds_ms": [
+            0.01925705,
+            0.0194419,
+            0.0197441,
+            0.020205225
+          ]
+        },
+        "enchant58_components": {
+          "ms_per10": 0.0235470875,
+          "allocated_bytes_per10": 43352.03,
+          "rounds_ms": [
+            0.0220834,
+            0.02447345,
+            0.02418765,
+            0.022906525
+          ]
+        },
+        "enchant58_sequences": {
+          "ms_per10": 0.0134747375,
+          "allocated_bytes_per10": 32920.03,
+          "rounds_ms": [
+            0.01429095,
+            0.0134554,
+            0.013494075,
+            0.01343965
+          ]
+        },
+        "enchant58_negative": {
+          "ms_per10": 0.0063014375,
+          "allocated_bytes_per10": 15272.0,
+          "rounds_ms": [
+            0.0068887,
+            0.006769575,
+            0.0058333,
+            0.00566615
+          ]
+        },
+        "enchant59_components": {
+          "ms_per10": 0.018824425,
+          "allocated_bytes_per10": 55384.03,
+          "rounds_ms": [
+            0.01915185,
+            0.018936925,
+            0.018711925,
+            0.01864675
+          ]
+        },
+        "enchant59_sequences": {
+          "ms_per10": 0.017110025,
+          "allocated_bytes_per10": 46128.03,
+          "rounds_ms": [
+            0.01701855,
+            0.017139,
+            0.01708105,
+            0.0176637
+          ]
+        },
+        "numeric59_negative": {
+          "ms_per10": 0.0057579499999999995,
+          "allocated_bytes_per10": 10952.015,
+          "rounds_ms": [
+            0.005709675,
+            0.005570025,
+            0.00592495,
+            0.005806225
+          ]
+        },
+        "npc60_new": {
+          "ms_per10": 0.061487362500000003,
+          "allocated_bytes_per10": 268944.0,
+          "rounds_ms": [
+            0.0651077,
+            0.06660065,
+            0.057867025,
+            0.0568683
+          ]
+        },
+        "npc60_legacy": {
+          "ms_per10": 0.092935325,
+          "allocated_bytes_per10": 332824.0,
+          "rounds_ms": [
+            0.0812635,
+            0.093003725,
+            0.094092425,
+            0.092866925
+          ]
+        },
+        "npc60_existing": {
+          "ms_per10": 0.0666874375,
+          "allocated_bytes_per10": 261880.0,
+          "rounds_ms": [
+            0.06817905,
+            0.067726875,
+            0.065257125,
+            0.065648
+          ]
+        },
+        "npc60_unknown": {
+          "ms_per10": 0.042319425,
+          "allocated_bytes_per10": 227440.0,
+          "rounds_ms": [
+            0.0420174,
+            0.04262145,
+            0.044032875,
+            0.040583625
+          ]
+        },
+        "npc60_player": {
+          "ms_per10": 0.0012309999999999999,
+          "allocated_bytes_per10": 3440.0,
+          "rounds_ms": [
+            0.001235225,
+            0.001074475,
+            0.001273775,
+            0.001226775
+          ]
+        },
+        "sack61_components": {
+          "ms_per10": 0.010200062499999999,
+          "allocated_bytes_per10": 19651.36,
+          "rounds_ms": [
+            0.0120669,
+            0.0114764,
+            0.008923725,
+            0.00815895
+          ]
+        },
+        "sack61_sequences": {
+          "ms_per10": 0.007510424999999999,
+          "allocated_bytes_per10": 11848.0,
+          "rounds_ms": [
+            0.010784475,
+            0.00737165,
+            0.0074756,
+            0.00754525
+          ]
+        },
+        "sack61_negative": {
+          "ms_per10": 0.007409662500000001,
+          "allocated_bytes_per10": 10712.0,
+          "rounds_ms": [
+            0.0087275,
+            0.0084705,
+            0.006348825,
+            0.005556175
+          ]
+        },
+        "numeric62_pipeline": {
+          "ms_per10": 0.0145012875,
+          "allocated_bytes_per10": 16448.015,
+          "rounds_ms": [
+            0.0147072,
+            0.01428885,
+            0.01446805,
+            0.014534525
+          ]
+        },
+        "final62_pipeline": {
+          "ms_per10": 0.014963575,
+          "allocated_bytes_per10": 17728.015,
+          "rounds_ms": [
+            0.0149681,
+            0.015454275,
+            0.014795225,
+            0.01495905
+          ]
+        },
+        "numeric62_dictionary": {
+          "ms_per10": 0.0012914625,
+          "allocated_bytes_per10": 1616.0,
+          "rounds_ms": [
+            0.00138345,
+            0.001345675,
+            0.00123725,
+            0.001147425
+          ]
+        },
+        "hypixel62_pipeline": {
+          "ms_per10": 0.033492325,
+          "allocated_bytes_per10": 30144.003,
+          "rounds_ms": [
+            0.0332622,
+            0.03468725,
+            0.0335522,
+            0.03343245
+          ]
+        },
+        "context63_stable": {
+          "ms_per10": 0.0013332125,
+          "allocated_bytes_per10": 112.0,
+          "rounds_ms": [
+            0.001029775,
+            0.001340925,
+            0.0013255,
+            0.001373275
+          ]
+        },
+        "context63_churn": {
+          "ms_per10": 0.0158938625,
+          "allocated_bytes_per10": 544.0,
+          "rounds_ms": [
+            0.01646995,
+            0.015825575,
+            0.01596215,
+            0.009723225
+          ]
+        },
+        "context63_oversized": {
+          "ms_per10": 0.0021175875000000004,
+          "allocated_bytes_per10": 696.0,
+          "rounds_ms": [
+            0.002106825,
+            0.00212835,
+            0.00178745,
+            0.002227425
+          ]
+        }
+      },
+      "kind": "54 common scenarios",
+      "before": {
+        "label": "0.15.66-dev",
+        "warmup_batches": 10000,
+        "measured_batches_per_round": 4000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x4000 batches after10000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.66-dev.jar",
+        "raw_sequence_baseline": {
+          "ms_per10": 0.0001710875,
+          "allocated_bytes_per10": 32.0,
+          "rounds_ms": [
+            0.000168275,
+            0.00017725,
+            0.0001711,
+            0.000171075
+          ]
+        },
+        "stable_scoped": {
+          "ms_per10": 0.015849337499999998,
+          "allocated_bytes_per10": 14224.0,
+          "rounds_ms": [
+            0.0144046,
+            0.015653175,
+            0.0160455,
+            0.017175375
+          ]
+        },
+        "titles_pipeline": {
+          "ms_per10": 0.033293975,
+          "allocated_bytes_per10": 36160.018,
+          "rounds_ms": [
+            0.033385775,
+            0.03320125,
+            0.0348788,
+            0.033202175
+          ]
+        },
+        "stable_deep32": {
+          "ms_per10": 0.0724114625,
+          "allocated_bytes_per10": 66672.01800000001,
+          "rounds_ms": [
+            0.071965025,
+            0.072356475,
+            0.07246645,
+            0.091987475
+          ]
+        },
+        "tooltip_components": {
+          "ms_per10": 0.0091186375,
+          "allocated_bytes_per10": 13912.015,
+          "rounds_ms": [
+            0.008825825,
+            0.008547275,
+            0.00941145,
+            0.013509675
+          ]
+        },
+        "tooltip_sequences": {
+          "ms_per10": 0.009277062499999999,
+          "allocated_bytes_per10": 8099.468,
+          "rounds_ms": [
+            0.011003875,
+            0.0095192,
+            0.009034925,
+            0.00667545
+          ]
+        },
+        "reviewed_components": {
+          "ms_per10": 0.01360625,
+          "allocated_bytes_per10": 34808.03,
+          "rounds_ms": [
+            0.013730225,
+            0.013471625,
+            0.0150445,
+            0.013482275
+          ]
+        },
+        "reviewed_sequences": {
+          "ms_per10": 0.0144255625,
+          "allocated_bytes_per10": 26792.03,
+          "rounds_ms": [
+            0.0161043,
+            0.016045675,
+            0.012639875,
+            0.01280545
+          ]
+        },
+        "disabled_pipeline": {
+          "ms_per10": 0.0007287750000000001,
+          "allocated_bytes_per10": 880.0,
+          "rounds_ms": [
+            0.00057075,
+            0.000676025,
+            0.000781525,
+            0.00078825
+          ]
+        },
+        "roster_lookup": {
+          "ms_per10": 0.0019375375,
+          "allocated_bytes_per10": 3272.0,
+          "rounds_ms": [
+            0.0018837,
+            0.001924,
+            0.001951075,
+            0.001958675
+          ]
+        },
+        "debug_pipeline": {
+          "ms_per10": 0.001145325,
+          "allocated_bytes_per10": 1472.0,
+          "rounds_ms": [
+            0.002093025,
+            0.001542225,
+            0.000748425,
+            0.00068415
+          ]
+        },
+        "bestiary_titles": {
+          "ms_per10": 0.008391725,
+          "allocated_bytes_per10": 21576.03,
+          "rounds_ms": [
+            0.0134717,
+            0.008231275,
+            0.00822515,
+            0.008552175
+          ]
+        },
+        "bestiary_receipts": {
+          "ms_per10": 0.023555725,
+          "allocated_bytes_per10": 106080.0,
+          "rounds_ms": [
+            0.0241385,
+            0.023325525,
+            0.023785925,
+            0.0228711
+          ]
+        },
+        "bestiary_centered_receipts": {
+          "ms_per10": 0.0143901125,
+          "allocated_bytes_per10": 61552.0,
+          "rounds_ms": [
+            0.015550225,
+            0.013626675,
+            0.012491,
+            0.01515355
+          ]
+        },
+        "gui51_components": {
+          "ms_per10": 0.0119417125,
+          "allocated_bytes_per10": 35456.03,
+          "rounds_ms": [
+            0.011598325,
+            0.011521575,
+            0.01584335,
+            0.0122851
+          ]
+        },
+        "gui51_sequences": {
+          "ms_per10": 0.010488975000000001,
+          "allocated_bytes_per10": 25360.015,
+          "rounds_ms": [
+            0.01021315,
+            0.01052545,
+            0.011029375,
+            0.0104525
+          ]
+        },
+        "npc51_receipts": {
+          "ms_per10": 0.022642950000000002,
+          "allocated_bytes_per10": 42711.44,
+          "rounds_ms": [
+            0.021828875,
+            0.0235229,
+            0.02273735,
+            0.02254855
+          ]
+        },
+        "npc51_negative": {
+          "ms_per10": 0.0442046875,
+          "allocated_bytes_per10": 233680.0,
+          "rounds_ms": [
+            0.04478915,
+            0.043620225,
+            0.045741625,
+            0.04340955
+          ]
+        },
+        "fuel52_components": {
+          "ms_per10": 0.013482125000000001,
+          "allocated_bytes_per10": 35984.03,
+          "rounds_ms": [
+            0.01355595,
+            0.013549925,
+            0.01331775,
+            0.013414325
+          ]
+        },
+        "fuel52_sequences": {
+          "ms_per10": 0.012039025,
+          "allocated_bytes_per10": 28864.015,
+          "rounds_ms": [
+            0.01194185,
+            0.01283225,
+            0.011838325,
+            0.0121362
+          ]
+        },
+        "slayer53_receipts": {
+          "ms_per10": 0.012463587500000001,
+          "allocated_bytes_per10": 58744.0,
+          "rounds_ms": [
+            0.012444375,
+            0.01258435,
+            0.0124059,
+            0.0124828
+          ]
+        },
+        "slayer54_counters": {
+          "ms_per10": 0.0167377,
+          "allocated_bytes_per10": 66456.0,
+          "rounds_ms": [
+            0.016734725,
+            0.016605275,
+            0.016740675,
+            0.01715395
+          ]
+        },
+        "enchant54_components": {
+          "ms_per10": 0.01649125,
+          "allocated_bytes_per10": 45704.03,
+          "rounds_ms": [
+            0.017097625,
+            0.016609575,
+            0.01628655,
+            0.016372925
+          ]
+        },
+        "enchant54_sequences": {
+          "ms_per10": 0.01489395,
+          "allocated_bytes_per10": 36944.03,
+          "rounds_ms": [
+            0.01515015,
+            0.0149492,
+            0.0148387,
+            0.01476795
+          ]
+        },
+        "sack55_components": {
+          "ms_per10": 0.0131655,
+          "allocated_bytes_per10": 33680.03,
+          "rounds_ms": [
+            0.013278525,
+            0.01272365,
+            0.01375525,
+            0.013052475
+          ]
+        },
+        "sack55_sequences": {
+          "ms_per10": 0.0101688375,
+          "allocated_bytes_per10": 20192.015,
+          "rounds_ms": [
+            0.0100298,
+            0.010259275,
+            0.010266525,
+            0.0100784
+          ]
+        },
+        "sack55_negative": {
+          "ms_per10": 0.0067874,
+          "allocated_bytes_per10": 11432.0,
+          "rounds_ms": [
+            0.00868605,
+            0.0080182,
+            0.0055566,
+            0.005149375
+          ]
+        },
+        "upgrade56_components": {
+          "ms_per10": 0.012786612499999999,
+          "allocated_bytes_per10": 35392.03,
+          "rounds_ms": [
+            0.01273355,
+            0.012839675,
+            0.01288575,
+            0.0125737
+          ]
+        },
+        "upgrade56_sequences": {
+          "ms_per10": 0.01142645,
+          "allocated_bytes_per10": 25440.03,
+          "rounds_ms": [
+            0.011474075,
+            0.011423725,
+            0.011258125,
+            0.011429175
+          ]
+        },
+        "received56_dates": {
+          "ms_per10": 0.034917125,
+          "allocated_bytes_per10": 75760.072,
+          "rounds_ms": [
+            0.03599445,
+            0.035209875,
+            0.034624375,
+            0.03427955
+          ]
+        },
+        "experiment57_components": {
+          "ms_per10": 0.012927025,
+          "allocated_bytes_per10": 35072.03,
+          "rounds_ms": [
+            0.013031525,
+            0.012918075,
+            0.012935975,
+            0.01278055
+          ]
+        },
+        "experiment57_sequences": {
+          "ms_per10": 0.0090255625,
+          "allocated_bytes_per10": 19464.015,
+          "rounds_ms": [
+            0.009036575,
+            0.00901455,
+            0.00990455,
+            0.0089876
+          ]
+        },
+        "experiment57_notices": {
+          "ms_per10": 0.020873324999999998,
+          "allocated_bytes_per10": 77240.0,
+          "rounds_ms": [
+            0.020112525,
+            0.023063525,
+            0.021027975,
+            0.020718675
+          ]
+        },
+        "enchant58_components": {
+          "ms_per10": 0.02537995,
+          "allocated_bytes_per10": 43552.03,
+          "rounds_ms": [
+            0.025024625,
+            0.0252476,
+            0.027120575,
+            0.0255123
+          ]
+        },
+        "enchant58_sequences": {
+          "ms_per10": 0.013594675,
+          "allocated_bytes_per10": 33088.03,
+          "rounds_ms": [
+            0.015532425,
+            0.0136548,
+            0.01346715,
+            0.01353455
+          ]
+        },
+        "enchant58_negative": {
+          "ms_per10": 0.005705125,
+          "allocated_bytes_per10": 15272.015,
+          "rounds_ms": [
+            0.0073925,
+            0.005704475,
+            0.005624275,
+            0.005705775
+          ]
+        },
+        "enchant59_components": {
+          "ms_per10": 0.01939695,
+          "allocated_bytes_per10": 55624.045,
+          "rounds_ms": [
+            0.0196049,
+            0.019394675,
+            0.019144,
+            0.019399225
+          ]
+        },
+        "enchant59_sequences": {
+          "ms_per10": 0.017632562499999997,
+          "allocated_bytes_per10": 46368.03,
+          "rounds_ms": [
+            0.017641925,
+            0.01786915,
+            0.017598725,
+            0.0176232
+          ]
+        },
+        "numeric59_negative": {
+          "ms_per10": 0.0056216,
+          "allocated_bytes_per10": 10952.0,
+          "rounds_ms": [
+            0.0056048,
+            0.005735875,
+            0.005630925,
+            0.005612275
+          ]
+        },
+        "npc60_new": {
+          "ms_per10": 0.06652105,
+          "allocated_bytes_per10": 269424.0,
+          "rounds_ms": [
+            0.06900255,
+            0.068851175,
+            0.064190925,
+            0.062228275
+          ]
+        },
+        "npc60_legacy": {
+          "ms_per10": 0.0747359,
+          "allocated_bytes_per10": 333304.0,
+          "rounds_ms": [
+            0.0750666,
+            0.0743766,
+            0.0761324,
+            0.0744052
+          ]
+        },
+        "npc60_existing": {
+          "ms_per10": 0.0532001125,
+          "allocated_bytes_per10": 262360.0,
+          "rounds_ms": [
+            0.052763175,
+            0.053114375,
+            0.053645125,
+            0.05328585
+          ]
+        },
+        "npc60_unknown": {
+          "ms_per10": 0.0415592875,
+          "allocated_bytes_per10": 227920.0,
+          "rounds_ms": [
+            0.051249025,
+            0.041416975,
+            0.0413053,
+            0.0417016
+          ]
+        },
+        "npc60_player": {
+          "ms_per10": 0.0012545500000000001,
+          "allocated_bytes_per10": 3440.0,
+          "rounds_ms": [
+            0.001278375,
+            0.001263725,
+            0.001245375,
+            0.001082775
+          ]
+        },
+        "sack61_components": {
+          "ms_per10": 0.0101006625,
+          "allocated_bytes_per10": 19768.58,
+          "rounds_ms": [
+            0.01187305,
+            0.013214725,
+            0.008328275,
+            0.00820255
+          ]
+        },
+        "sack61_sequences": {
+          "ms_per10": 0.0075577375,
+          "allocated_bytes_per10": 11968.015,
+          "rounds_ms": [
+            0.0106539,
+            0.007459225,
+            0.007595075,
+            0.0075204
+          ]
+        },
+        "sack61_negative": {
+          "ms_per10": 0.0059086375,
+          "allocated_bytes_per10": 10712.0,
+          "rounds_ms": [
+            0.009350975,
+            0.006334625,
+            0.00548265,
+            0.005383025
+          ]
+        },
+        "numeric62_pipeline": {
+          "ms_per10": 0.014661175,
+          "allocated_bytes_per10": 16448.015,
+          "rounds_ms": [
+            0.01495455,
+            0.01444965,
+            0.0146246,
+            0.01469775
+          ]
+        },
+        "final62_pipeline": {
+          "ms_per10": 0.0151764,
+          "allocated_bytes_per10": 17728.015,
+          "rounds_ms": [
+            0.0151846,
+            0.0150803,
+            0.0151682,
+            0.015365475
+          ]
+        },
+        "numeric62_dictionary": {
+          "ms_per10": 0.0013086625,
+          "allocated_bytes_per10": 1616.0,
+          "rounds_ms": [
+            0.0013216,
+            0.00131205,
+            0.001305275,
+            0.001296425
+          ]
+        },
+        "hypixel62_pipeline": {
+          "ms_per10": 0.034897012500000005,
+          "allocated_bytes_per10": 30384.003,
+          "rounds_ms": [
+            0.035330575,
+            0.03446345,
+            0.034429475,
+            0.036275275
+          ]
+        },
+        "context63_stable": {
+          "ms_per10": 0.001476775,
+          "allocated_bytes_per10": 112.0,
+          "rounds_ms": [
+            0.001449825,
+            0.0014402,
+            0.001525675,
+            0.001503725
+          ]
+        },
+        "context63_churn": {
+          "ms_per10": 0.007959375,
+          "allocated_bytes_per10": 528.884,
+          "rounds_ms": [
+            0.0131106,
+            0.013084475,
+            0.002834275,
+            0.0020039
+          ]
+        },
+        "context63_oversized": {
+          "ms_per10": 0.0010370125,
+          "allocated_bytes_per10": 696.0,
+          "rounds_ms": [
+            0.0010663,
+            0.0009846,
+            0.001007725,
+            0.001170275
+          ]
+        }
+      },
+      "root": "build/render-hotpaths-edcc9e196b70405eb84e4a905381e0bb"
+    }
+  ],
+  "unreleased_preliminary_context": {
+    "full_checks_interrupted_not_passed": true,
+    "targeted_checks": 3,
+    "root": "build/context-benchmark67-c514cd082df04c75be4a06a0f9ed741f",
+    "candidate_sha256": "AA68ECF6754373EB0CEF78A01508F2896AC4467E3D195B7427231C96B8456B65",
+    "runs": [
+      {
+        "result": {
+          "fresh_shallow": {
+            "ms_per10": 0.012949465,
+            "bytes_per10": 10560.015200000002,
+            "rounds_ms": [
+              0.0119078,
+              0.01312666,
+              0.01392506,
+              0.01277227
+            ],
+            "rounds_bytes": [
+              10560.0184,
+              10560.0,
+              10596.0552,
+              10560.012
+            ]
+          },
+          "fresh_deep32": {
+            "ms_per10": 0.065713255,
+            "bytes_per10": 50240.0144,
+            "rounds_ms": [
+              0.06201974,
+              0.06560919,
+              0.06581732,
+              0.06808447
+            ],
+            "rounds_bytes": [
+              50240.0144,
+              50240.0144,
+              50240.0216,
+              50240.0144
+            ]
+          },
+          "warm_metadata64": {
+            "ms_per10": 0.02808211,
+            "bytes_per10": 76960.0,
+            "rounds_ms": [
+              0.02797556,
+              0.02817898,
+              0.02821078,
+              0.02798524
+            ],
+            "rounds_bytes": [
+              76960.0,
+              76960.0,
+              76960.0,
+              76960.0
+            ]
+          },
+          "churn_metadata300": {
+            "ms_per10": 0.00127399,
+            "bytes_per10": 4960.0,
+            "rounds_ms": [
+              0.00133134,
+              0.00139855,
+              0.00110345,
+              0.00121664
+            ],
+            "rounds_bytes": [
+              4960.0,
+              4960.0,
+              4960.0,
+              4960.0
+            ]
+          },
+          "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+        },
+        "label": "0-0.15.66-dev"
+      },
+      {
+        "result": {
+          "fresh_shallow": {
+            "ms_per10": 0.01109401,
+            "bytes_per10": 10480.0212,
+            "rounds_ms": [
+              0.01112263,
+              0.0110378,
+              0.01106539,
+              0.01188722
+            ],
+            "rounds_bytes": [
+              10480.0304,
+              10480.0,
+              10511.1736,
+              10480.012
+            ]
+          },
+          "fresh_deep32": {
+            "ms_per10": 0.059197065,
+            "bytes_per10": 50160.0096,
+            "rounds_ms": [
+              0.05699304,
+              0.05819737,
+              0.06019676,
+              0.06035847
+            ],
+            "rounds_bytes": [
+              50160.0096,
+              50160.0096,
+              50160.0192,
+              50160.0096
+            ]
+          },
+          "warm_metadata64": {
+            "ms_per10": 0.02123378,
+            "bytes_per10": 76960.0,
+            "rounds_ms": [
+              0.02148212,
+              0.02098544,
+              0.02069941,
+              0.02186837
+            ],
+            "rounds_bytes": [
+              76960.0,
+              76960.0,
+              76960.0,
+              76960.0
+            ]
+          },
+          "churn_metadata300": {
+            "ms_per10": 0.00101211,
+            "bytes_per10": 4640.0,
+            "rounds_ms": [
+              0.00115451,
+              0.00103347,
+              0.00099075,
+              0.0008733
+            ],
+            "rounds_bytes": [
+              4640.0,
+              4640.0,
+              4640.0,
+              4640.0
+            ]
+          },
+          "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+        },
+        "label": "1-0.15.67-dev"
+      },
+      {
+        "result": {
+          "fresh_shallow": {
+            "ms_per10": 0.011512425,
+            "bytes_per10": 10720.0224,
+            "rounds_ms": [
+              0.01112322,
+              0.01190163,
+              0.01108146,
+              0.01317184
+            ],
+            "rounds_bytes": [
+              10720.0304,
+              10720.0,
+              10720.0144,
+              10748.5024
+            ]
+          },
+          "fresh_deep32": {
+            "ms_per10": 0.058718435,
+            "bytes_per10": 50400.025200000004,
+            "rounds_ms": [
+              0.05785388,
+              0.05780485,
+              0.0610517,
+              0.05958299
+            ],
+            "rounds_bytes": [
+              50400.0216,
+              50400.0336,
+              50400.0216,
+              50400.0288
+            ]
+          },
+          "warm_metadata64": {
+            "ms_per10": 0.02115634,
+            "bytes_per10": 76960.0,
+            "rounds_ms": [
+              0.0212583,
+              0.02096166,
+              0.02123694,
+              0.02107574
+            ],
+            "rounds_bytes": [
+              76960.0,
+              76960.0,
+              76960.0,
+              76960.0
+            ]
+          },
+          "churn_metadata300": {
+            "ms_per10": 0.000928035,
+            "bytes_per10": 4640.0,
+            "rounds_ms": [
+              0.00106155,
+              0.00085235,
+              0.00086626,
+              0.00098981
+            ],
+            "rounds_bytes": [
+              4640.0,
+              4640.0,
+              4640.0,
+              4640.0
+            ]
+          },
+          "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+        },
+        "label": "2-0.15.67-dev"
+      },
+      {
+        "result": {
+          "fresh_shallow": {
+            "ms_per10": 0.011706205,
+            "bytes_per10": 10560.0212,
+            "rounds_ms": [
+              0.01185073,
+              0.01141798,
+              0.01187474,
+              0.01156168
+            ],
+            "rounds_bytes": [
+              10560.0304,
+              10560.0,
+              10590.096,
+              10560.012
+            ]
+          },
+          "fresh_deep32": {
+            "ms_per10": 0.06474237999999999,
+            "bytes_per10": 50240.0168,
+            "rounds_ms": [
+              0.06163179,
+              0.06771153,
+              0.06604373,
+              0.06344103
+            ],
+            "rounds_bytes": [
+              50240.0144,
+              50240.0216,
+              50240.0192,
+              50240.0096
+            ]
+          },
+          "warm_metadata64": {
+            "ms_per10": 0.02846697,
+            "bytes_per10": 76960.0,
+            "rounds_ms": [
+              0.02833464,
+              0.02820945,
+              0.02878964,
+              0.0285993
+            ],
+            "rounds_bytes": [
+              76960.0,
+              76960.0,
+              76960.0,
+              76960.0
+            ]
+          },
+          "churn_metadata300": {
+            "ms_per10": 0.0011216,
+            "bytes_per10": 4960.0,
+            "rounds_ms": [
+              0.00117217,
+              0.00105161,
+              0.00107103,
+              0.00122562
+            ],
+            "rounds_bytes": [
+              4960.0,
+              4960.0,
+              4960.0,
+              4960.0
+            ]
+          },
+          "scope": "Fresh context API scopes and metadata only;20k warm batches,4x10k measured batches of10 operations. Not FPS, not GPU or real HUD draw count. All CPU/allocation rounds retained."
+        },
+        "label": "3-0.15.66-dev"
+      }
+    ]
+  },
+  "runtime_jar_sha256": "8676237B43BF896DD362FE7F6C89F84B75A2E42901E9793737593E64583779F7",
+  "runtime": "0.15.67-dev",
+  "date": "2026-10-15",
+  "baseline_jar_sha256": "B36538B44ADD46533576505A186583092CF04E508A1F472BFAC07E6BE5B62A59",
+  "context_allocation_rounds_retained": true,
+  "all_cpu_rounds_retained": true,
+  "zero_fps_impact_proven": false
+}

@@ -1,0 +1,181 @@
+{
+  "status": "LOCAL_DISPLAY_LOG_ONLY_CHANNEL_UNVERIFIED",
+  "scope": "35 observed objectives, not all server quests",
+  "samples": [
+    {
+      "source": "Talk to Sam",
+      "sample": "[02:45:18]   §fTalk to Sam",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Bring 25 Wheat to Sam",
+      "sample": "[02:45:42]   §fBring 25 Wheat to Sam",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Talk to Sam at the Composter",
+      "sample": "[02:46:06]   §fTalk to Sam at the Composter",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Purchase Fuel from SkyMart",
+      "sample": "[02:46:43]   §fPurchase Fuel from SkyMart",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Put Fuel in the Composter",
+      "sample": "[02:50:10]   §fPut Fuel in the Composter",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Take Compost from the Composter",
+      "sample": "[02:50:34]   §fTake Compost from the Composter",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Purchase a Garden Plot at the Desk",
+      "sample": "[02:50:48]   §fPurchase a Garden Plot at the Desk",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Go to your Garden Plot",
+      "sample": "[02:51:33]   §fGo to your Garden Plot",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Clean your Garden Plot",
+      "sample": "[02:52:18]   §fClean your Garden Plot",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Find out what Sam wants",
+      "sample": "[03:00:04]   §fFind out what Sam wants",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Bring Sam 100 Wheat",
+      "sample": "[03:03:10]   §fBring Sam 100 Wheat",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Open a Shop Stand with Sam",
+      "sample": "[03:04:54]   §fOpen a Shop Stand with Sam",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Find Sam at the Shop Stand",
+      "sample": "[03:05:04]   §fFind Sam at the Shop Stand",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Serve your first Customer",
+      "sample": "[03:05:39]   §fServe your first Customer",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Reach Garden Level IV",
+      "sample": "[03:06:43]   §fReach Garden Level IV",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Talk to Jeff in your Barn",
+      "sample": "[04:41:47]   §fTalk to §bJeff §fin your Barn",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Show Jeff a Specialized Farming Tool",
+      "sample": "[04:43:46]   §fShow §bJeff §fa Specialized Farming Tool",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "source": "Give Sam the Greenhouse Blueprint",
+      "sample": "[02:39:39]   §fGive Sam the Greenhouse Blueprint",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "source": "Collect resources for Sam",
+      "sample": "[02:41:39]   §fCollect resources for Sam",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "source": "Paste the Greenhouse on a plot at the Desk",
+      "sample": "[02:42:58]   §fPaste the Greenhouse on a plot at the Desk",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "source": "Use the Garden Chip",
+      "sample": "[04:10:24]   §fUse the Garden Chip",
+      "origin": "2026-10-11-4.log.gz"
+    },
+    {
+      "source": "Wait for the Greenhouse to complete building",
+      "sample": "[04:28:16]   §fWait for the Greenhouse to complete building",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Talk to Sam at the Greenhouse",
+      "sample": "[04:30:43]   §fTalk to Sam at the Greenhouse",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Plant a carrot",
+      "sample": "[04:32:27]   §fPlant a carrot",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Water the carrot",
+      "sample": "[04:33:23]   §fWater the carrot",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Wait for the carrot to grow",
+      "sample": "[04:33:34]   §fWait for the carrot to grow",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Harvest the carrot",
+      "sample": "[04:33:41]   §fHarvest the carrot",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Plant 2 carrots next to each other and water them in your Greenhouse",
+      "sample": "[04:34:26]   §fPlant 2 carrots next to each other and water them in your Greenhouse",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Analyze growing crops in the Greenhouse with the Plant Diagnostics Tool",
+      "sample": "[04:34:52]   §fAnalyze growing crops in the Greenhouse with the Plant Diagnostics Tool",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Spread a mutation in the Greenhouse",
+      "sample": "[04:35:44]   §fSpread a mutation in the Greenhouse",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Harvest the mutation in the Greenhouse",
+      "sample": "[04:35:59]   §fHarvest the mutation in the Greenhouse",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Talk to the Carpenter in the Greenhouse",
+      "sample": "[04:36:13]   §fTalk to the Carpenter §fin the Greenhouse",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Bring Glowing Mushrooms to Moby",
+      "sample": "[05:02:36]   Bring Glowing Mushrooms to Moby",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Complete Beth's commission",
+      "sample": "[05:08:45]   §fComplete Beth's commission",
+      "origin": "latest.log"
+    },
+    {
+      "source": "Wait for Beth to revisit your Garden",
+      "sample": "[05:09:22]   §fWait for Beth to revisit your Garden",
+      "origin": "latest.log"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "version": "0.15.76-dev",
+  "date": "2026-10-16",
+  "scope": "Bounded interaction coverage ledger. Entire server population,all events,all tutorial branches,menus,lore,quests,world labels and live formats are not complete.",
+  "reviewed_in_this_batch": [
+    {
+      "family": "Carnival",
+      "speakers": [
+        "Carnival Leader",
+        "Carnival Fisherman",
+        "Carnival Cowboy",
+        "Carnival Pirateman",
+        "Chantelle",
+        "Doug"
+      ],
+      "surfaces": [
+        "fixed published chat",
+        "14 choice vectors across Carnival/Hoppity"
+      ],
+      "unverified": [
+        "unpublished randomized choice combinations",
+        "all minigame score overlays",
+        "all souvenir menus/lore",
+        "actual live styles"
+      ]
+    },
+    {
+      "family": "Bingo",
+      "speakers": [
+        "Bingo"
+      ],
+      "surfaces": [
+        "nine fixed published chat bodies"
+      ],
+      "unverified": [
+        "month/year-variable welcomes",
+        "current Bingo-card goals",
+        "item transfer menus"
+      ]
+    },
+    {
+      "family": "Hoppity's Hunt",
+      "speakers": [
+        "Hoppity"
+      ],
+      "surfaces": [
+        "21 fixed chat/telephone/Garden bodies",
+        "published Yes/No choice"
+      ],
+      "unverified": [
+        "player-variable greeting",
+        "one unprefixed continuation boundary",
+        "Chocolate Factory full GUI/rabbit catalogue"
+      ]
+    },
+    {
+      "family": "New Year Celebration",
+      "speakers": [
+        "Baker"
+      ],
+      "surfaces": [
+        "five fixed bodies"
+      ],
+      "unverified": [
+        "personalized completion",
+        "all cake/shop metadata"
+      ]
+    },
+    {
+      "family": "Spooky Festival",
+      "speakers": [
+        "Fear Mongerer"
+      ],
+      "surfaces": [
+        "14 fixed chat/phone/Garden bodies"
+      ],
+      "unverified": [
+        "complete event HUD/rewards/shop lore"
+      ]
+    },
+    {
+      "family": "Traveling Zoo",
+      "speakers": [
+        "Oringo"
+      ],
+      "surfaces": [
+        "eight new fixed bodies/two retained"
+      ],
+      "unverified": [
+        "variable pet-offering list",
+        "all pet lore/shop variants"
+      ]
+    },
+    {
+      "family": "Season of Jerry",
+      "speakers": [
+        "Frosty",
+        "St. Jerry"
+      ],
+      "surfaces": [
+        "six new Frosty/twenty-five new St.Jerry bodies",
+        "required English input shown but not sent"
+      ],
+      "unverified": [
+        "player/count placeholders",
+        "malformed published receipt",
+        "all Winter NPCs/minigame menus"
+      ]
+    },
+    {
+      "family": "Tutorial and services",
+      "speakers": [
+        "Blacksmith",
+        "Librarian",
+        "Rusty"
+      ],
+      "surfaces": [
+        "24/4/21 new fixed bodies"
+      ],
+      "unverified": [
+        "player-variable quests",
+        "unprefixed debt continuation",
+        "all service menus/items",
+        "all other interactable service characters"
+      ]
+    },
+    {
+      "family": "Account security",
+      "speakers": [
+        "Sloth"
+      ],
+      "tag": "SECURITY",
+      "surfaces": [
+        "one fixed warning"
+      ],
+      "unverified": [
+        "compound support-article/link block",
+        "all help menus"
+      ]
+    }
+  ],
+  "unchanged_player_authored_surfaces": [
+    "player chat",
+    "signed messages",
+    "input fields",
+    "player names",
+    "click commands and their execution"
+  ],
+  "performance": {
+    "new_frame_hooks": 0,
+    "new_message_providers": 0,
+    "new_draw_time_regexes": 0,
+    "old_frame_code_changes": 0,
+    "dictionary_asset_changes_to_prior44": 0,
+    "new_data_loaded_into_existing_story_map_at_startup": true,
+    "new_version_live_frame_times_measured": false,
+    "zero_fps_effect_proven": false
+  },
+  "remaining_global_work": "Use NPC_REGISTRY_0.15.76_RU.md to continue all572 indexed names,including clearly separated historical entries. Having one exact line is not NPC completion."
+}

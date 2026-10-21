@@ -1,0 +1,67 @@
+# Speaker|exact published body|authored Russian body|optional semantic anchors
+# 65 new literals: Elizabeth17, Kat39 (Hub and Rift), historical Elle of the Nether9.
+Elizabeth|Hello! Welcome to SkyBlock!|Здравствуйте! Добро пожаловать в SkyBlock!|{"SkyBlock":"SkyBlock"}
+Elizabeth|I have powerful items to offer, but only to experienced adventurers!|У меня есть могущественные предметы, но только для опытных искателей приключений!
+Elizabeth|Until then, I suggest leveling up!|А пока советую повысить свой уровень!
+Elizabeth|✆ Hello!|✆ Алло!
+Elizabeth|✆ Ooh, you got yourself an Abiphone!|✆ О, у вас появился абифон!|{"Abiphone":"абифон"}
+Elizabeth|✆ Here, let me be one of your first Abiphone Contacts!|✆ Давайте я стану одним из первых контактов вашего абифона!|{"Abiphone Contacts":"контактов вашего абифона"}
+Elizabeth|✆ That way, you can call me anytime you'd like to use the Community Shop!|✆ Тогда сможете звонить мне всякий раз, когда захотите воспользоваться общественным магазином!|{"Community Shop":"общественным магазином"}
+Elizabeth|✆ There you go!|✆ Вот и готово!
+Elizabeth|✆ I'll also be sure to call you whenever one of your Account & Profile Upgrades are ready.|✆ Я также обязательно позвоню вам сразу, как будет готово одно из улучшений аккаунта и профиля.|{"you ":"вам ","Account & Profile Upgrades ":"улучшений аккаунта и профиля"}
+Elizabeth|✆ Ooh, and I'll also call you whenever a new FIRE Sale starts! You wouldn't want to miss that!|✆ О, я ещё буду звонить вам, когда начнётся новая ОГНЕННАЯ распродажа! Такое нельзя пропускать!|{"FIRE ":"ОГНЕННАЯ ","Sale ":"распродажа"}
+Elizabeth|✆ See you around!|✆ До встречи!
+Elizabeth|✆ That's all, bye!|✆ Это всё, до свидания!
+Elizabeth|✆ Give me a call back or swing by the Community Center in person to get your hands on it!|✆ Чтобы сделать покупку, перезвоните мне или загляните в общественный центр лично!|{"Community Center ":"общественный центр "}
+Elizabeth|✆ Okay, bye now!|✆ Ладно, до свидания!
+Elizabeth|Eating a Booster Cookie also gives you the ability to earn Bits.|Съев печенье-усилитель, вы также сможете зарабатывать биты.|{"Booster Cookie ":"печенье-усилитель","Bits":"биты"}
+Elizabeth|You can spend your Bits in my Bits shop to purchase many useful items.|За биты в моём магазине битов можно купить много полезных предметов.|[{"source":"Bits","target":"биты","source_occurrence":1},{"source":"Bits","target":"битов","source_occurrence":2}]
+Elizabeth|That should be good enough regarding the Booster Cookie. I hope you enjoy using it!|На этом рассказ о печенье-усилителе закончен. Надеюсь, оно вам понравится!|{"Booster Cookie":"печенье-усилителе"}
+Kat|Hey there, I'm Kat the Pet Sitter!|Привет! Я Кэт, смотрительница питомцев!
+Kat|While you're busy adventuring I can take care of your pets.|Пока ты занят приключениями, я могу позаботиться о твоих питомцах.
+Kat|I might even be able to give them new abilities!|Может быть, я даже смогу научить их новым способностям!
+Kat|A flower? For me? How sweet!|Цветок? Мне? Как мило!|{"flower":"Цветок"}
+Kat|A bouquet? For me? How sweet!|Букет? Мне? Как мило!|{"bouquet":"Букет"}
+Kat|✆ Friends? Sure!|✆ Подружиться? Конечно!
+Kat|✆ But hold on, I don't give my contact for everyone.|✆ Но погоди, я не раздаю свой номер кому попало.
+Kat|✆ You don't have what I need! Nice try!|✆ У тебя нет того, что мне нужно! Неплохая попытка!
+Kat|✆ Aww, you shouldn't have! :3|✆ Ой, ну зачем такие подарки! :3|{":3":":3"}
+Kat|✆ Hello?|✆ Алло?
+Kat|✆ Do you want me to train your pet?|✆ Хочешь, чтобы я потренировала твоего питомца?
+Kat|It's so great you're here!|Как же здорово, что ты здесь!
+Kat|I was hired to disinfest this house from the vermin.|Меня наняли очистить этот дом от вредителей.|{"disinfest ":"очистить "}
+Kat|Well, I can't do it myself!|Ну, сама я с этим не справлюсь!
+Kat|Turns out, I'm scared of insects.|Оказывается, я боюсь насекомых.
+Kat|And I'm allergic to dust.|А ещё у меня аллергия на пыль.
+Kat|And the cleaning contract was badly negotiated.|И условия договора на уборку оказались невыгодными.
+Kat|And I have to watch over the disinfestor crew.|И мне надо присматривать за бригадой дезинсекторов.
+Kat|And...|И...
+Kat|Yes, I suffer from arachnophobia, entomophobia and pteronarcophobia.|Да, я страдаю арахнофобией, энтомофобией и птеронаркофобией.
+Kat|You're thinking of Kat the Pet Sitter.|Ты путаешь меня с Кэт, смотрительницей питомцев.|{"Kat ":"Кэт"}
+Kat|I'm Kat the Neuroscientist. I'm purple Kat!|А я Кэт, нейробиолог. Я фиолетовая Кэт!|[{"source":"Kat ","target":"Кэт","source_occurrence":1,"target_occurrence":1},{"source":"Kat","target":"Кэт","source_occurrence":2,"target_occurrence":2}]
+Kat|Quit stalling!|Хватит тянуть время!
+Kat|Am I being investigated?|Ты что, меня допрашиваешь?
+Kat|You have to do this quest!|Ты должен выполнить это задание!
+Kat|Take my vacuum cleaner.|Возьми мой пылесос.
+Kat|Now please deal with the infestation problem.|А теперь, пожалуйста, разберись с нашествием вредителей.|{"infestation ":"нашествием вредителей"}
+Kat|Vacuum the silverfishes, spiders and flies in the area.|Собери пылесосом чешуйниц, пауков и мух поблизости.
+Kat|Make sure to empty the vacuum in the Vermin Bin!|Не забудь опустошить пылесос в бак для вредителей!|{"Vermin Bin":"бак для вредителей"}
+Kat|How did you lose my vacuum?|Как ты умудрился потерять мой пылесос?
+Kat|Ok... take this replacement...|Ладно... возьми другой...
+Kat|It's always good to be well equipped for the job ahead!|К предстоящей работе всегда лучше подходить с хорошим снаряжением!
+Kat|We found this Ferret when cleaning the house.|Мы нашли этого хорька, когда убирали дом.|{"Ferret ":"хорька"}
+Kat|It's very scared and of course I don't know how to deal with pets.|Он очень напуган, а я, разумеется, не знаю, как обращаться с питомцами.
+Kat|I think you should bring it with you to the overworld!|Думаю, тебе стоит забрать его с собой в обычный мир!
+Kat|I've had this pile of unused diplomas for a while.|Эта стопка невостребованных дипломов лежит у меня уже давно.
+Kat|Don't ask me why and let's keep it between us.|Не спрашивай почему, и пусть это останется между нами.
+Kat|Hey you can't click that yet!|Эй, туда пока нельзя нажимать!
+Kat|Help me with the disinfestation and I'll give you a key!|Помоги мне избавиться от вредителей, и я дам тебе ключ!|{"disinfestation":"избавиться от вредителей"}
+Elle of the Nether|I am a conqueror. I've defeated everything from the Nether to the End and back.|Я завоевательница. Я одолела всех на пути от Незера до Энда и обратно.
+Elle of the Nether|There's something about you I don't like. Perhaps it is your lack of fear for the great beast that is the Nether.|Что-то мне в тебе не нравится. Возможно, то, что ты не боишься такого великого чудовища, как Незер.
+Elle of the Nether|I told you not to come crying to me.|Я же говорила: не приходи ко мне жаловаться.
+Elle of the Nether|Collect nether wart and defeat blaze to collect blaze rods!|Собирай адский нарост и побеждай ифритов, чтобы получить огненные стержни!
+Elle of the Nether|Collect glowstone, nether quartz, and magma cream to become a true master of the Nether.|Собирай светокамень, незер-кварц и сгустки магмы, чтобы стать настоящим повелителем Незера.
+Elle of the Nether|I have defeated the Magma Boss more times than I can count!|Я побеждала магмового босса столько раз, что уже со счёта сбилась!
+Elle of the Nether|Many of the creatures on this island drop useful brewing ingredients. Use them in a Brewing Stand to brew strong potions that will aid to your journey.|Из многих существ на этом острове выпадают полезные ингредиенты для зелий. Используй их в зельеварке, чтобы сварить сильные зелья, которые помогут тебе в путешествии.
+Elle of the Nether|I don't know what would I do without my Fire Resistance Potions. Probably burn.|Не знаю, что бы я делала без своих зелий огнестойкости. Наверное, сгорела бы.
+Elle of the Nether|Use them in a Brewing Stand to brew strong potions that will aid in your journey.|Используй их в зельеварке, чтобы сварить сильные зелья, которые помогут тебе в путешествии.

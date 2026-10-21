@@ -1,23 +1,54 @@
-# Источники и сторонние права
+# Third-party assets
 
-WitherSkyRU — неофициальный проект, не связанный с Hypixel, Mojang или Microsoft. Их названия, марки, игровые тексты и ресурсы принадлежат соответствующим правообладателям. Наличие текста в словаре не означает, что авторы WitherSkyRU владеют правами на оригинал.
+## NPC74 dialogue adaptations
 
-## Код и подготовка переводов
+The new `data/witherskyru/npc-expansion74.json` contains Russian adaptations
+of short functional game dialogue documented by contributors to the Hypixel
+SkyBlock Wiki. Each record retains its source-page attribution. Source snapshots
+and a reviewed translation table are included in `translation-source`.
 
-Исходный код WitherSkyRU опубликован по MIT; см. `LICENSE`. Переводы и часть кода подготовлены с использованием ИИ. Лицензия проекта не отменяет прав третьих лиц на исходные игровые тексты. Не заявляем, что все материалы сторонних игр и модов автоматически стали MIT.
+Wiki text is offered under CC BY-NC-SA 3.0:
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+The Russian adaptations in this new resource are offered under that license,
+not under the code's MIT license. Changes: Russian translation and semantic
+style mappings. Original game content remains attributable to Hypixel.
+Bundled attribution: `META-INF/licenses/NPC74-SOURCES.txt`.
 
-## Каталоги игровых данных
+This notice does not relicense the game, the font, or pre-existing project data.
 
-- **NotEnoughUpdates-REPO**: [репозиторий](https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO), MIT, Copyright (c) 2020 Moulberry. Уведомление сохранено в `licenses/NEU-MIT.txt`; оно также включено в JAR в `META-INF/licenses/NEU-MIT.txt`.
-- **SkyHanni-REPO**: [репозиторий данных](https://github.com/hannibal002/SkyHanni-REPO), MIT, Copyright (c) 2022 hannibal2. Уведомление сохранено в `licenses/SkyHanni-REPO-MIT.txt` и прилагается к выпуску. Это лицензия репозитория данных, не утверждение о лицензии кода SkyHanni. Код и бинарные файлы SkyHanni не включены.
-- Локальные каталоги Skyblocker, Catharsis и другие кеши использовались для поиска и контекста строк, отображаемых в игре. Полные репозитории, исходники и бинарные файлы этих модов здесь не публикуются. Использование каталога как источника игрового названия не объявляет права на весь каталог нашей собственностью.
+## NPC75 dialogue additions and five closed choice layouts
 
-## Minecraft
+`data/witherskyru/npc-expansion75.json` and the five NPC75 choice-label
+adaptations in `ChatNotificationTranslator` are attributed to contributors of
+https://hypixelskyblock.minecraft.wiki/ (original game dialogue: Hypixel).
+Retrieved/rechecked 2026-10-16; per-record source URLs and the independent
+snapshot/reviewed targets are in the source package. These Russian adaptations
+are distributed under CC BY-NC-SA 3.0, not the code's MIT license.
+Bundled notice: `META-INF/licenses/NPC75-SOURCES.txt`.
 
-`vanilla-names.tsv` содержит ограниченный набор пар названий, совпавших с игровым каталогом, из локальных `en_us/ru_ru` Minecraft. Полные языковые файлы, текстуры, клиент Minecraft и его библиотеки не распространяются этим репозиторием или выпуском. Для локальной сборки нужны уже установленные зависимости.
+## NPC76 event/tutorial additions and fourteen closed choice layouts
 
-## Что не публикуется
+`data/witherskyru/npc-expansion76.json` and the fourteen NPC76 choice-label
+adaptations in `ChatNotificationTranslator` are attributed to contributors of
+https://hypixelskyblock.minecraft.wiki/ (original game dialogue: Hypixel).
+Retrieved 2026-10-16; source links and independent snapshots/reviewed targets
+are included in the source package. These Russian adaptations use CC BY-NC-SA
+3.0, not the code's MIT license. Bundled notice: `META-INF/licenses/NPC76-SOURCES.txt`.
 
-Сырые игровые журналы, личные сообщения, конфиги пользователя, токены, исходный журнал неизвестных строк, полные выгрузки сторонних каталогов и временные файлы разработки исключены. Контрольные JSON содержат подготовленные пары переводов и выбранные NPC-примеры, а не полный чат пользователя.
+The project code remains MIT licensed. The following bundled font is separately
+licensed under the SIL Open Font License 1.1; the MIT license does not replace it.
 
-Перед публикацией на дополнительных площадках требуется отдельная проверка их правил и происхождения данных. Исправления или обоснованные обращения правообладателей можно направлять через Issues репозитория.
+## Inter Medium (weight 500)
+
+- Copyright (c) 2016 The Inter Project Authors (https://github.com/rsms/inter).
+- Official release: https://github.com/rsms/inter/releases/tag/v4.1
+- Download: https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip
+- Original archive path: `extras/ttf/Inter-Medium.ttf`.
+- Bundled unchanged: `assets/witherskyru/font/inter_medium.ttf`.
+- SHA256: `97ad806f526e41546d46365bb3a393145f75b7b1568913db74549ad8b8dba872`.
+- Full original license and copyright notice are inside the JAR at
+  `META-INF/licenses/Inter-OFL-1.1.txt` (also in `src/main/resources`).
+
+The font is not SF Pro or any other Apple font. The style was chosen as an
+independent interface font for a similar clean visual feel; no Apple affiliation
+or endorsement is claimed. The original font binary/name was not modified.

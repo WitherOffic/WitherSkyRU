@@ -1,0 +1,15 @@
+{
+  "scope": "New mixed-channel fixture contract,not a runtime or target change.",
+  "initial_failed_run": "build/expansion111-checks-0c2471de95f74e2aba01d070226d9fa6",
+  "retained_initial_test_source": "build/expansion111-test-sources/TestExpansion111.java",
+  "second_failed_run": "build/expansion111-checks-e91201c1b7d74ef2a26e1f731fafba42",
+  "retained_second_test_source": "build/expansion111-test-sources-v2/TestExpansion111.java",
+  "second_reason": "A new slot #2 anchor was tested as an overrides.tsv key,although a line starting with # is a comment in the existing file format. Final fixture asserts that comment keys do not override;all recordable semantic keys and full-source replacements retain positive checks.",
+  "reason": "The initial new test incorrectly expected NPC providers to accept SYSTEM-objective leading padding. Existing NPC contract accepts plain prefix or HH:MM:SS plus one space,not arbitrary padding.",
+  "final_checks": "All accepted NPC forms retain full glyph/action checks;the two unsupported padded forms now explicitly assert identity/source immutability. SYSTEM fixtures still check all four padding/timestamp forms.",
+  "production_changed_for_test": false,
+  "translation_targets_changed_for_test": false,
+  "historical_positive_translation_oracles_changed": false,
+  "initial_one_negative_coverage_expectation_supersession": "EXPANSION_COVERAGE_SUPERSESSION_0.15.111.json",
+  "final_closed_negative_coverage_upgrades": "EXPANSION_COVERAGE_ADDITIONS_0.15.111.json"
+}

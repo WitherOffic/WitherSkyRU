@@ -1,0 +1,53 @@
+{
+  "revision": "0.15.0-dev",
+  "previous_targets_updated": 874,
+  "runtime_keys_added": 1630,
+  "runtime_entries": 35582,
+  "new_or_changed_pairs": 2504,
+  "new_numeric_candidates": [],
+  "new_icon_mismatches": [],
+  "new_placeholder_mismatches": [],
+  "item_records_machine_scanned": 8940,
+  "adjacent_repeat_candidates": [
+    {
+      "source": [
+        "dolphin, sometimes a chicken. Cluck",
+        "cluck!"
+      ],
+      "translation": [
+        "дельфин, иногда курица. Ко-ко",
+        "ко-ко!"
+      ]
+    },
+    {
+      "source": [
+        "Freedom",
+        "Freedom from fear."
+      ],
+      "translation": [
+        "Свобода",
+        "Свобода от страха."
+      ]
+    },
+    {
+      "source": [
+        "Slimy Minions",
+        "Slime and Magma Cube minions work"
+      ],
+      "translation": [
+        "Слизистые миньоны",
+        "Миньоны слизня и лавового куба работают"
+      ]
+    }
+  ],
+  "npc_total": 38,
+  "production_java_files_unchanged": 10,
+  "production_java_changed": [
+    "src/main/java/ru/wither/skyru/ChatNotificationTranslator.java",
+    "src/main/java/ru/wither/skyru/OfflineDictionary.java"
+  ],
+  "private_hover_families_removed_from_intermediary_exports": 0,
+  "in_game_tested": false,
+  "full_manual_proofread": false,
+  "full_server_coverage": false
+}

@@ -3,9 +3,116 @@
   "language": "ru",
   "status": "EXACT_CHAT_SUPPORT_IMPLEMENTED_NOT_RUNTIME_TESTED",
   "source": "Local SkyHanni regexes plus user screenshot and latest.log, 2026-10-10",
-  "scope": "38 confirmed literal messages, including 8 Jeff lines and 9 additional 0.15 messages from local logs. Not a complete dialogue dump. NPC names and prefix retained.",
+  "scope": "113 confirmed literal messages; original 112 source/target pairs manually reviewed in continuous pass 6, three clarity refinements. Nine existing Tia directions checked against cached SkyHanni regexesModern 75ca647 in pass 5, four refinements. One new source-backed Carnival daily-status literal reviewed in pass 21. Nineteen separate closed NPC grammars (four Pablo requests, three Jacob results, Trevor hunting direction, Dalir attendance/reward, six Agatha/Miria forest-contest results, Lucius purchase total and three Sirius auction forms) are implemented outside this exact-record resource. NPC names and phone prefixes retained. Not all server NPCs; no live runtime test.",
   "runtime_chat_handler_implemented": true,
   "records": [
+    {
+      "source_key": "continuous-pass21.carnival.tickets.already", "speaker": "Carnival Leader",
+      "source": "[NPC] Carnival Leader: You've already claimed your Carnival Tickets for today, but I'm happy to answer any questions you might have.",
+      "translation": "[NPC] Carnival Leader: Ты уже забрал билеты карнавала на сегодня. Но можешь задать мне вопросы — с радостью отвечу!",
+      "style_anchors": [{"source": "Carnival Tickets", "target": "билеты карнавала"}, {"source": "today", "target": "сегодня"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.real-tool", "speaker": "Jeff",
+      "source": "[NPC] Jeff: Well, well! You got yourself a real Farming Tool, huh?",
+      "translation": "[NPC] Jeff: Ну надо же! Обзавёлся настоящим фермерским инструментом, да?",
+      "style_anchors": [{"source": "Farming Tool", "target": "фермерским инструментом"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.grow", "speaker": "Jeff",
+      "source": "[NPC] Jeff: These don't just sit pretty, they grow stronger the more you use 'em!",
+      "translation": "[NPC] Jeff: Эти инструменты не просто для красоты: чем больше ими пользуешься, тем сильнее они становятся!"
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.experience", "speaker": "Jeff",
+      "source": "[NPC] Jeff: Every crop you harvest gives your tool experience, leveling it up over time.",
+      "translation": "[NPC] Jeff: За каждое собранное растение инструмент получает опыт и постепенно повышает свой уровень.",
+      "style_anchors": [{"source": "experience", "target": "опыт"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.levels", "speaker": "Jeff",
+      "source": "[NPC] Jeff: But here's the catch - once it hits Level 15, you'll need to upgrade it before it can keep growing. Same goes for Level 30.",
+      "translation": "[NPC] Jeff: Но есть нюанс: на 15-м уровне инструмент нужно улучшить, иначе он перестанет развиваться. То же самое на 30-м уровне.",
+      "style_anchors": [{"source": "Level 15", "target": "15-м уровне"}, {"source": "Level 30", "target": "30-м уровне"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.new-sowdust", "speaker": "Jeff",
+      "source": "[NPC] Jeff: Oh, and you might have noticed something new, Sowdust. You'll start earning it just by using your tool from now on.",
+      "translation": "[NPC] Jeff: Кстати, ты мог заметить кое-что новое — посевную пыль. Теперь ты будешь получать её, просто пользуясь инструментом.",
+      "style_anchors": [{"source": "Sowdust", "target": "посевную пыль"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.chip-buffs", "speaker": "Jeff",
+      "source": "[NPC] Jeff: This stuff is important because it lets you upgrade Chips, which will give you permanent buffs.",
+      "translation": "[NPC] Jeff: Эта пыль нужна для улучшения чипов, которые дают постоянные бонусы.",
+      "style_anchors": [{"source": "Chips", "target": "чипов"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.first-chip", "speaker": "Jeff",
+      "source": "[NPC] Jeff: Here, take this, your first Chip. Go ahead and use the chip to unlock it.",
+      "translation": "[NPC] Jeff: Держи свой первый чип. Используй его, чтобы разблокировать.",
+      "style_anchors": [{"source": "Chip", "target": "чип"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.chip-menu", "speaker": "Jeff",
+      "source": "[NPC] Jeff: Nice! I've added the Chip Menu to your SkyBlock Menu while you are on the Garden, so you'll have easier access to them from now on.",
+      "translation": "[NPC] Jeff: Отлично! Теперь в Саду меню чипов доступно прямо из меню SkyBlock. Так пользоваться ими будет удобнее.",
+      "style_anchors": [{"source": "Chip Menu", "target": "меню чипов"}, {"source": "Garden", "target": "Саду"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.chip-count", "speaker": "Jeff",
+      "source": "[NPC] Jeff: You can have as many Chips as you want, just keep upgrading them with Sowdust!",
+      "translation": "[NPC] Jeff: У тебя может быть сколько угодно чипов — просто улучшай их посевной пылью!",
+      "style_anchors": [{"source": "Chips", "target": "чипов"}, {"source": "Sowdust", "target": "посевной пылью"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.find-chips", "speaker": "Jeff",
+      "source": "[NPC] Jeff: Chips can be found all over the place, and once you unlock them, you can start upgrading them.",
+      "translation": "[NPC] Jeff: Чипы можно найти в самых разных местах. Разблокировав их, ты сможешь приступить к улучшению.",
+      "style_anchors": [{"source": "Chips", "target": "Чипы"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.jeff.duplicates", "speaker": "Jeff",
+      "source": "[NPC] Jeff: And if you come across duplicates of the same Chip, don't worry, you'll be able to upgrade them to EPIC and LEGENDARY rarity, boosting their maximum level and effectiveness even further!",
+      "translation": "[NPC] Jeff: А если попадутся дубликаты одного и того же чипа, не переживай: их можно улучшить до редкости EPIC и LEGENDARY. Это ещё сильнее увеличит максимальный уровень и эффективность чипов!",
+      "style_anchors": [{"source": "duplicates", "target": "дубликаты"}, {"source": "Chip", "target": "чипа"}, {"source": "EPIC", "target": "EPIC"}, {"source": "LEGENDARY", "target": "LEGENDARY"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.bramass.gift", "speaker": "Bramass Beastslayer",
+      "source": "[NPC] Bramass Beastslayer: Come and talk to me if you ever reach Bestiary Milestone 50 - I'll have something for you!",
+      "translation": "[NPC] Bramass Beastslayer: Приходи ко мне, когда достигнешь 50-го рубежа Бестиария: у меня будет для тебя подарок!",
+      "style_anchors": [{"source": "Bestiary Milestone 50", "target": "50-го рубежа Бестиария"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.bramass.family", "speaker": "Bramass Beastslayer",
+      "source": "[NPC] Bramass Beastslayer: Killing enough mobs in a given Family unlocks rewards.",
+      "translation": "[NPC] Bramass Beastslayer: Убив достаточно мобов одного семейства, ты разблокируешь награды.",
+      "style_anchors": [{"source": "Family", "target": "семейства"}, {"source": "rewards", "target": "награды"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.bramass.stats", "speaker": "Bramass Beastslayer",
+      "source": "[NPC] Bramass Beastslayer: You can unlock  Magic Find and  Strength bonuses, and loot drop information for that Family!",
+      "translation": "[NPC] Bramass Beastslayer: Ты можешь получить бонусы к  шансу редкой добычи и  силе, а также сведения о добыче мобов этого семейства!",
+      "style_anchors": [{"source": " Magic Find", "target": " шансу редкой добычи"}, {"source": " Strength", "target": " силе"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.bramass.milestones", "speaker": "Bramass Beastslayer",
+      "source": "[NPC] Bramass Beastslayer: Reach Milestones in your Bestiary by unlocking unique Family tiers.",
+      "translation": "[NPC] Bramass Beastslayer: Достигай рубежей Бестиария, открывая новые ступени семейств мобов.",
+      "style_anchors": [{"source": "Milestones", "target": "рубежей"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.bramass.rewards", "speaker": "Bramass Beastslayer",
+      "source": "[NPC] Bramass Beastslayer: Reaching Milestones rewards  Health, Combat Exp, and more!",
+      "translation": "[NPC] Bramass Beastslayer: За достижение рубежей ты получаешь  здоровье, боевой опыт и другие награды!",
+      "style_anchors": [{"source": " Health", "target": " здоровье"}, {"source": "Combat Exp", "target": "боевой опыт"}]
+    },
+    {
+      "source_key": "local-log.0.15.14.bramass.menu", "speaker": "Bramass Beastslayer",
+      "source": "[NPC] Bramass Beastslayer: You can always view your Bestiary in your Combat Skill menu!",
+      "translation": "[NPC] Bramass Beastslayer: Бестиарий всегда можно открыть в меню боевого навыка!",
+      "style_anchors": [{"source": "Combat Skill", "target": "боевого навыка"}]
+    },
     {
       "source_key": "chat-filter.hunting.swoop-axe-message",
       "speaker": "Swoop",
@@ -94,39 +201,39 @@
       "source_key": "relay.chat.3rd",
       "speaker": "Tia the Fairy",
       "source": "[NPC] Tia the Fairy: ✆ The next relay is in the Royal Palace within the Dwarven Mines.",
-      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится в Королевском дворце в Гномьих шахтах.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится в Королевском дворце в Дварфских шахтах.",
       "style_anchors": [{"source": "Royal Palace", "target": "Королевском дворце"}]
     },
     {
       "source_key": "relay.chat.4th",
       "speaker": "Tia the Fairy",
       "source": "[NPC] Tia the Fairy: ✆ The next relay is on the highest spike of The End.",
-      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на вершине самого высокого шпиля в Энде.",
-      "style_anchors": [{"source": "The End", "target": "Энде"}]
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на вершине самого высокого шпиля в Крае.",
+      "style_anchors": [{"source": "The End", "target": "Крае"}]
     },
     {
       "source_key": "relay.chat.5th",
       "speaker": "Tia the Fairy",
       "source": "[NPC] Tia the Fairy: ✆ The next relay was placed by our consultant, Odger.",
-      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор установил наш консультант Одгер."
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор установил наш консультант Odger."
     },
     {
       "source_key": "relay.chat.6th",
       "speaker": "Tia the Fairy",
       "source": "[NPC] Tia the Fairy: ✆ Scarleton itself has one of the most robust connection to the 9f™ Network.",
-      "translation": "[NPC] Tia the Fairy: ✆ Сам Скарлетон имеет одно из самых надёжных подключений к сети 9f™."
+      "translation": "[NPC] Tia the Fairy: ✆ У Скарлетона одна из самых надёжных связей с сетью 9f™."
     },
     {
       "source_key": "relay.chat.7th",
       "speaker": "Tia the Fairy",
       "source": "[NPC] Tia the Fairy: ✆ The next relay is on top of the shack next to the shady inn right here close to the pond.",
-      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на крыше лачуги рядом с подозрительным трактиром, здесь неподалёку от пруда."
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор — на крыше хижины рядом с подозрительной таверной, неподалёку от этого пруда."
     },
     {
       "source_key": "relay.chat.8th",
       "speaker": "Tia the Fairy",
       "source": "[NPC] Tia the Fairy: ✆ The next relay is on top of a statue in the dungeon hub.",
-      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на вершине статуи в центре подземелий."
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на вершине статуи в Хабе подземелий."
     },
     {
       "source_key": "relay.chat.9th",
@@ -152,8 +259,8 @@
       "source_key": "user-screenshot.garden.jeff.shop.2026-10-10",
       "speaker": "Jeff",
       "source": "[NPC] Jeff: If not, no worries! They each have their own unlock requirements, which you can see inside the SkyMart Shop.",
-      "translation": "[NPC] Jeff: Если нет, не переживай! Для каждого инструмента есть свои условия разблокировки. Их можно посмотреть в магазине SkyMart.",
-      "style_anchors": [{"source": "SkyMart Shop", "target": "магазине SkyMart"}]
+      "translation": "[NPC] Jeff: Если нет, не переживай! Для каждого инструмента есть свои условия разблокировки. Их можно посмотреть в магазине Сада (SkyMart).",
+      "style_anchors": [{"source": "SkyMart Shop", "target": "магазине Сада (SkyMart)"}]
     },
     {
       "source_key": "latest-log.garden.jeff.tools",
@@ -166,7 +273,7 @@
       "source_key": "latest-log.garden.jeff.sowdust",
       "speaker": "Jeff",
       "source": "[NPC] Jeff: Farming using one of these tools also gives you Sowdust, which will be essential in upgrading your Chips!",
-      "translation": "[NPC] Jeff: Фермерство с одним из этих инструментов также приносит посевную пыль. Она понадобится для улучшения твоих чипов!",
+      "translation": "[NPC] Jeff: Сбор урожая одним из этих инструментов также приносит посевную пыль. Она нужна для улучшения твоих чипов!",
       "style_anchors": [{"source": "Sowdust", "target": "посевную пыль"}, {"source": "Chips", "target": "чипов"}]
     },
     {
@@ -187,8 +294,8 @@
       "source_key": "latest-log.garden.jeff.get-tool",
       "speaker": "Jeff",
       "source": "[NPC] Jeff: You can get one from SkyMart.",
-      "translation": "[NPC] Jeff: Такой инструмент можно приобрести в SkyMart.",
-      "style_anchors": [{"source": "SkyMart", "target": "SkyMart"}, {"source": ".", "target": "."}]
+      "translation": "[NPC] Jeff: Такой инструмент можно приобрести в магазине Сада (SkyMart).",
+      "style_anchors": [{"source": "SkyMart", "target": "магазине Сада (SkyMart)"}, {"source": ".", "target": "."}]
     },
     {
       "source_key": "local-log.0.15.jacob.contest",
@@ -244,6 +351,325 @@
       "speaker": "Fisherman Gerald",
       "source": "[NPC] Fisherman Gerald: Holy Mackerel! You got me the whole nine yards.",
       "translation": "[NPC] Fisherman Gerald: Вот это улов! Ты принёс мне всё, что нужно."
+
+    },
+    {
+      "source_key": "night-pass9.carpenter.blueprint", "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Hey, I noticed you haven't used that blueprint I gave to you. Did you lose it?",
+      "translation": "[NPC] Carpenter: Эй, я заметил, что ты так и не использовал чертёж, который я тебе дал. Потерял его?"
+    },
+    {
+      "source_key": "night-pass9.carpenter.copy", "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Luckily for you, I made a copy!",
+      "translation": "[NPC] Carpenter: Тебе повезло — я сделал копию!"
+    },
+    {
+      "source_key": "night-pass9.carpenter.return", "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Here you go! Don't misplace it this time. It would've done just the same in my home.",
+      "translation": "[NPC] Carpenter: Вот, держи! На этот раз не потеряй. Он бы так же пригодился и у меня дома."
+    },
+    {
+      "source_key": "night-pass9.duke.wheat", "speaker": "Duke",
+      "source": "[NPC] Duke: You seem new here. You should probably try to get some Enchanted Wheat for me.",
+      "translation": "[NPC] Duke: Похоже, ты здесь впервые. Попробуй раздобыть для меня немного зачарованной пшеницы.",
+      "style_anchors": [{"source": "Enchanted Wheat", "target": "зачарованной пшеницы"}]
+    },
+    {
+      "source_key": "night-pass9.hiker.meat", "speaker": "Friendly Hiker",
+      "source": "[NPC] Friendly Hiker: I'm planning to head back into the gorge to fetch my hiker friend, but I'll need some meat to cook before I head in there.",
+      "translation": "[NPC] Friendly Hiker: Собираюсь вернуться в ущелье за своим другом-путешественником, но сначала мне нужно мясо, чтобы приготовить еду перед походом."
+    },
+    {
+      "source_key": "night-pass9.hiker.thanks", "speaker": "Friendly Hiker",
+      "source": "[NPC] Friendly Hiker: Thanks! I'll be heading to look for him as soon as possible.",
+      "translation": "[NPC] Friendly Hiker: Спасибо! Отправлюсь на его поиски как можно скорее."
+    },
+    {
+      "source_key": "night-pass9.grandma.milestone-x", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: Come back when you've reached Bestiary Milestone X to upgrade it to Rare!",
+      "translation": "[NPC] Grandma Wolf: Вернись, когда достигнешь рубежа Бестиария X, чтобы повысить редкость питомца до Rare!",
+      "style_anchors": [{"source": "Bestiary Milestone X", "target": "рубежа Бестиария X"}, {"source": "Rare", "target": "Rare"}]
+    },
+    {
+      "source_key": "night-pass9.grandma.milestone-xv", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: Come back when you've reached Bestiary Milestone XV to upgrade it to Epic!",
+      "translation": "[NPC] Grandma Wolf: Вернись, когда достигнешь рубежа Бестиария XV, чтобы повысить редкость питомца до Epic!",
+      "style_anchors": [{"source": "Bestiary Milestone XV", "target": "рубежа Бестиария XV"}, {"source": "Epic", "target": "Epic"}]
+    },
+    {
+      "source_key": "night-pass9.grandma.milestone-xx", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: Come back when you've reached Bestiary Milestone XX to upgrade it to Legendary!",
+      "translation": "[NPC] Grandma Wolf: Вернись, когда достигнешь рубежа Бестиария XX, чтобы повысить редкость питомца до Legendary!",
+      "style_anchors": [{"source": "Bestiary Milestone XX", "target": "рубежа Бестиария XX"}, {"source": "Legendary", "target": "Legendary"}]
+    },
+    {
+      "source_key": "night-pass9.grandma.done", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: I'm afraid that's all I can do for you. Thank you for helping this little old Grandma!",
+      "translation": "[NPC] Grandma Wolf: Боюсь, это всё, чем я могу тебе помочь. Спасибо, что помог этой старой бабушке!"
+    },
+    {
+      "source_key": "night-pass9.grandma.maximum", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: I've already upgraded your pet to the maximum tier! Leave this little old Grandma alone!",
+      "translation": "[NPC] Grandma Wolf: Я уже повысила редкость твоего питомца до максимальной! Оставь старую бабушку в покое!"
+    },
+    {
+      "source_key": "night-pass9.grandma.uncommon", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: There you go! I've upgraded your Grandma Wolf Pet to Uncommon!",
+      "translation": "[NPC] Grandma Wolf: Готово! Я повысила редкость твоего питомца «Бабушка-волк» до Uncommon!",
+      "style_anchors": [{"source": "Grandma Wolf Pet", "target": "питомца «Бабушка-волк»"}, {"source": "Uncommon", "target": "Uncommon"}]
+    },
+    {
+      "source_key": "night-pass9.grandma.rare", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: There you go! I've upgraded your Grandma Wolf Pet to Rare!",
+      "translation": "[NPC] Grandma Wolf: Готово! Я повысила редкость твоего питомца «Бабушка-волк» до Rare!",
+      "style_anchors": [{"source": "Grandma Wolf Pet", "target": "питомца «Бабушка-волк»"}, {"source": "Rare", "target": "Rare"}]
+    },
+    {
+      "source_key": "night-pass9.grandma.epic", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: There you go! I've upgraded your Grandma Wolf Pet to Epic!",
+      "translation": "[NPC] Grandma Wolf: Готово! Я повысила редкость твоего питомца «Бабушка-волк» до Epic!",
+      "style_anchors": [{"source": "Grandma Wolf Pet", "target": "питомца «Бабушка-волк»"}, {"source": "Epic", "target": "Epic"}]
+    },
+    {
+      "source_key": "night-pass9.grandma.legendary", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: There you go! I've upgraded your Grandma Wolf Pet to Legendary!",
+      "translation": "[NPC] Grandma Wolf: Готово! Я повысила редкость твоего питомца «Бабушка-волк» до Legendary!",
+      "style_anchors": [{"source": "Grandma Wolf Pet", "target": "питомца «Бабушка-волк»"}, {"source": "Legendary", "target": "Legendary"}]
+    },
+    {
+      "source_key": "night-pass10.grandma.counter2", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: I've already upgraded your pet to the maximum tier! Leave this little old Grandma alone! (x2)",
+      "translation": "[NPC] Grandma Wolf: Я уже повысила редкость твоего питомца до максимальной! Оставь старую бабушку в покое! (x2)",
+      "preserve_suffix": " (x2)"
+    },
+    {
+      "source_key": "night-pass10.grandma.counter3", "speaker": "Grandma Wolf",
+      "source": "[NPC] Grandma Wolf: I've already upgraded your pet to the maximum tier! Leave this little old Grandma alone! (x3)",
+      "translation": "[NPC] Grandma Wolf: Я уже повысила редкость твоего питомца до максимальной! Оставь старую бабушку в покое! (x3)",
+      "preserve_suffix": " (x3)"
+    },
+    {
+      "source_key": "night-pass10.guy.mushrooms", "speaker": "Guy",
+      "source": "[NPC] Guy: Heard you may got some mushrooms...I've been looking for some...",
+      "translation": "[NPC] Guy: Слышал, у тебя, возможно, есть грибы… Как раз ищу немного…"
+    },
+    {
+      "source_key": "night-pass10.guy.later", "speaker": "Guy",
+      "source": "[NPC] Guy: Oh man gee, that's awful man, call me when you got 'em alright?",
+      "translation": "[NPC] Guy: Эх, плохо дело… Позови меня, когда раздобудешь их, ладно?"
+    },
+    {
+      "source_key": "night-pass10.jack.fortune", "speaker": "Jack",
+      "source": "[NPC] Jack: Did you know that you gain additional  Farming Fortune while on the The Garden? You can check it in your SkyBlock Profile!",
+      "translation": "[NPC] Jack: Знаешь, что в Саду ты получаешь дополнительную  удачу фермерства? Её можно посмотреть в своём профиле SkyBlock!",
+      "style_anchors": [{"source": " Farming Fortune", "target": " удачу фермерства"}, {"source": "The Garden", "target": "Саду"}]
+    },
+    {
+      "source_key": "night-pass10.jack.later", "speaker": "Jack",
+      "source": "[NPC] Jack: I'll come by later.",
+      "translation": "[NPC] Jack: Загляну позже."
+    },
+    {
+      "source_key": "night-pass10.jacob.claim", "speaker": "Jacob",
+      "source": "[NPC] Jacob: Come see me in the Hub to claim your reward!",
+      "translation": "[NPC] Jacob: Приходи ко мне в Хаб, чтобы забрать награду!",
+      "style_anchors": [{"source": "Hub", "target": "Хаб"}]
+    },
+    {
+      "source_key": "night-pass10.jacob.count", "speaker": "Jacob",
+      "source": "[NPC] Jacob: Let me count the final results eh?",
+      "translation": "[NPC] Jacob: Дай-ка я подведу итоги, а?"
+    },
+    {
+      "source_key": "night-pass10.jacob.over", "speaker": "Jacob",
+      "source": "[NPC] Jacob: The Farming Contest is over!",
+      "translation": "[NPC] Jacob: Фермерское соревнование закончилось!"
+    },
+    {
+      "source_key": "night-pass10.jacob.unknown", "speaker": "Jacob",
+      "source": "[NPC] Jacob: Uh oh! Couldn't figure out how well ya did!",
+      "translation": "[NPC] Jacob: Ой! Не удалось определить твой результат!"
+    },
+    {
+      "source_key": "night-pass10.jacob.collected", "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 42,602 items!",
+      "translation": "[NPC] Jacob: Ты собрал 42,602 предмета!",
+      "style_anchors": [{"source": "42,602", "target": "42,602"}]
+    },
+    {
+      "source_key": "night-pass10.jacob.record", "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 9,357 items! PERSONAL BEST!",
+      "translation": "[NPC] Jacob: Ты собрал 9,357 предметов! ЛИЧНЫЙ РЕКОРД!",
+      "style_anchors": [{"source": "9,357", "target": "9,357"}, {"source": "PERSONAL BEST", "target": "ЛИЧНЫЙ РЕКОРД"}]
+    },
+    {
+      "source_key": "night-pass10.jacob.participation", "speaker": "Jacob",
+      "source": "[NPC] Jacob: You didn't earn a medal, but you may claim a participation reward in the Wheat Contest!",
+      "translation": "[NPC] Jacob: Ты не получил медаль, но можешь забрать награду за участие в соревновании по сбору пшеницы!",
+      "style_anchors": [{"source": "Wheat Contest", "target": "соревновании по сбору пшеницы"}]
+    },
+    {
+      "source_key": "night-pass10.jacob.bronze", "speaker": "Jacob",
+      "source": "[NPC] Jacob: You placed in the BRONZE bracket in the Carrot Contest!",
+      "translation": "[NPC] Jacob: Твоя категория — «БРОНЗА» на соревновании по культуре «Морковь»!",
+      "style_anchors": [{"source": "BRONZE", "target": "БРОНЗА»"}, {"source": "Carrot Contest", "target": "соревновании по культуре «Морковь»"}]
+    },
+    {
+      "source_key": "night-pass10.jacob.previous", "speaker": "Jacob",
+      "source": "[NPC] Jacob: Your previous Personal Best was 261.",
+      "translation": "[NPC] Jacob: Твой предыдущий личный рекорд — 261.",
+      "style_anchors": [{"source": "261", "target": "261"}]
+    },
+    {
+      "source_key": "night-pass11.kat.wait10", "speaker": "Kat",
+      "source": "[NPC] Kat: Come back in 10 minutes to pick it up!",
+      "translation": "[NPC] Kat: Вернись через 10 минут, чтобы забрать питомца!",
+      "style_anchors": [{"source": "10 minutes", "target": "10 минут"}]
+    },
+    {
+      "source_key": "night-pass11.kat.wait15", "speaker": "Kat",
+      "source": "[NPC] Kat: Come back in 15 minutes to pick it up!",
+      "translation": "[NPC] Kat: Вернись через 15 минут, чтобы забрать питомца!",
+      "style_anchors": [{"source": "15 minutes", "target": "15 минут"}]
+    },
+    {
+      "source_key": "night-pass11.kat.wait30", "speaker": "Kat",
+      "source": "[NPC] Kat: Come back in 30 minutes to pick it up!",
+      "translation": "[NPC] Kat: Вернись через 30 минут, чтобы забрать питомца!",
+      "style_anchors": [{"source": "30 minutes", "target": "30 минут"}]
+    },
+    {
+      "source_key": "night-pass11.kat.dolphin-uncommon", "speaker": "Kat",
+      "source": "[NPC] Kat: I was able to upgrade your pet Dolphin to UNCOMMON.",
+      "translation": "[NPC] Kat: Я повысила редкость твоего питомца «Дельфин» до UNCOMMON.",
+      "style_anchors": [{"source": "Dolphin", "target": "«Дельфин»"}, {"source": "UNCOMMON", "target": "UNCOMMON"}]
+    },
+    {
+      "source_key": "night-pass11.kat.rabbit-epic", "speaker": "Kat",
+      "source": "[NPC] Kat: I was able to upgrade your pet Rabbit to EPIC.",
+      "translation": "[NPC] Kat: Я повысила редкость твоего питомца «Кролик» до EPIC.",
+      "style_anchors": [{"source": "Rabbit", "target": "«Кролик»"}, {"source": "EPIC", "target": "EPIC"}]
+    },
+    {
+      "source_key": "night-pass11.kat.rabbit-legendary", "speaker": "Kat",
+      "source": "[NPC] Kat: I was able to upgrade your pet Rabbit to LEGENDARY.",
+      "translation": "[NPC] Kat: Я повысила редкость твоего питомца «Кролик» до LEGENDARY.",
+      "style_anchors": [{"source": "Rabbit", "target": "«Кролик»"}, {"source": "LEGENDARY", "target": "LEGENDARY"}]
+    },
+    {
+      "source_key": "night-pass11.kat.rabbit-rare", "speaker": "Kat",
+      "source": "[NPC] Kat: I was able to upgrade your pet Rabbit to RARE.",
+      "translation": "[NPC] Kat: Я повысила редкость твоего питомца «Кролик» до RARE.",
+      "style_anchors": [{"source": "Rabbit", "target": "«Кролик»"}, {"source": "RARE", "target": "RARE"}]
+    },
+    {
+      "source_key": "night-pass11.kat.will-epic", "speaker": "Kat",
+      "source": "[NPC] Kat: I'll get your Rabbit upgraded to EPIC in no time!",
+      "translation": "[NPC] Kat: Скоро повышу редкость твоего питомца «Кролик» до EPIC!",
+      "style_anchors": [{"source": "Rabbit", "target": "«Кролик»"}, {"source": "EPIC", "target": "EPIC"}]
+    },
+    {
+      "source_key": "night-pass11.kat.will-legendary", "speaker": "Kat",
+      "source": "[NPC] Kat: I'll get your Rabbit upgraded to LEGENDARY in no time!",
+      "translation": "[NPC] Kat: Скоро повышу редкость твоего питомца «Кролик» до LEGENDARY!",
+      "style_anchors": [{"source": "Rabbit", "target": "«Кролик»"}, {"source": "LEGENDARY", "target": "LEGENDARY"}]
+    },
+    {
+      "source_key": "night-pass11.kat.will-rare", "speaker": "Kat",
+      "source": "[NPC] Kat: I'll get your Rabbit upgraded to RARE in no time!",
+      "translation": "[NPC] Kat: Скоро повышу редкость твоего питомца «Кролик» до RARE!",
+      "style_anchors": [{"source": "Rabbit", "target": "«Кролик»"}, {"source": "RARE", "target": "RARE"}]
+    },
+    {
+      "source_key": "night-pass11.kat.more", "speaker": "Kat",
+      "source": "[NPC] Kat: If you have any other pets you'd like to upgrade, you know where to find me!",
+      "translation": "[NPC] Kat: Если захочешь улучшить других питомцев, ты знаешь, где меня найти!"
+    },
+    {
+      "source_key": "night-pass11.kat.hello", "speaker": "Kat",
+      "source": "[NPC] Kat: Oh, hey!",
+      "translation": "[NPC] Kat: О, привет!"
+    },
+    {
+      "source_key": "night-pass11.liam.sun", "speaker": "Liam",
+      "source": "[NPC] Liam: One day you'll be able to buy the sun, trust me on that mate.",
+      "translation": "[NPC] Liam: Однажды сможешь купить даже солнце — поверь мне, приятель."
+    },
+    {
+      "source_key": "night-pass11.librarian.paper", "speaker": "Librarian",
+      "source": "[NPC] Librarian: Greetings! I've been running low on paper recently for my Enchanted Books, could you bring me some Sugar Cane?",
+      "translation": "[NPC] Librarian: Приветствую! В последнее время бумага для зачарованных книг у меня на исходе. Не принесёшь немного сахарного тростника?",
+      "style_anchors": [{"source": "Enchanted Books", "target": "зачарованных книг"}, {"source": "Sugar Cane", "target": "сахарного тростника"}]
+    },
+    {
+      "source_key": "night-pass11.librarian.thanks", "speaker": "Librarian",
+      "source": "[NPC] Librarian: I'll be sure to make some Enchanted Books out of these, I hope you come around some day!",
+      "translation": "[NPC] Librarian: Обязательно сделаю из этого зачарованные книги. Надеюсь, ещё как-нибудь заглянешь!",
+      "style_anchors": [{"source": "Enchanted Books", "target": "зачарованные книги"}]
+    },
+    {
+      "source_key": "night-pass11.lumina.lanterns", "speaker": "Lumina",
+      "source": "[NPC] Lumina: I'm looking to make some Jack o' Lanterns to help light up the Crystal Hollows - maybe you can help me out?",
+      "translation": "[NPC] Lumina: Хочу сделать светильники Джека, чтобы осветить Кристальные пещеры. Может, поможешь?",
+      "style_anchors": [{"source": "Jack o' Lanterns", "target": "светильники Джека"}, {"source": "Crystal Hollows", "target": "Кристальные пещеры"}]
+    },
+    {
+      "source_key": "night-pass11.lumina.thanks", "speaker": "Lumina",
+      "source": "[NPC] Lumina: Nice doin' business with ya! Here's some copper in return.",
+      "translation": "[NPC] Lumina: Приятно иметь с тобой дело! Вот немного меди в благодарность."
+    },
+    {
+      "source_key": "night-pass11.sam.desk", "speaker": "Sam",
+      "source": "[NPC] Sam: Remember, you should go to the Desk and select one of your plots.",
+      "translation": "[NPC] Sam: Помни: нужно подойти к столу управления и выбрать один из своих участков.",
+      "style_anchors": [{"source": "Desk", "target": "столу управления"}]
+    },
+    {
+      "source_key": "night-pass11.sam.greenhouse", "speaker": "Sam",
+      "source": "[NPC] Sam: Then, you should convert it to a Greenhouse.",
+      "translation": "[NPC] Sam: Затем нужно превратить его в теплицу.",
+      "style_anchors": [{"source": "convert it to a Greenhouse", "target": "превратить его в теплицу"}]
+    },
+    {
+      "source_key": "night-pass11.stella.choice", "speaker": "Stella",
+      "source": "[NPC] Stella: Good choice!",
+      "translation": "[NPC] Stella: Хороший выбор!"
+    },
+    {
+      "source_key": "night-pass11.stella.plots", "speaker": "Stella",
+      "source": "[NPC] Stella: The amount of plots you can unlock here is perfect for a Co-op. So much space!",
+      "translation": "[NPC] Stella: Участков, которые здесь можно открыть, отлично хватит для совместного профиля. Столько места!",
+      "style_anchors": [{"source": "Co-op", "target": "совместного профиля"}]
+    },
+    {
+      "source_key": "night-pass11.tom.crops", "speaker": "Tom",
+      "source": "[NPC] Tom: I don't have a recipe for you, however I'd happily take some crops.",
+      "translation": "[NPC] Tom: У меня нет для тебя рецепта, но я с удовольствием возьму немного урожая."
+    },
+    {
+      "source_key": "night-pass11.tom.later", "speaker": "Tom",
+      "source": "[NPC] Tom: I'll be sure to come by next time.",
+      "translation": "[NPC] Tom: Обязательно загляну в следующий раз."
+    },
+    {
+      "source_key": "night-pass11.vex.offer", "speaker": "Vex",
+      "source": "[NPC] Vex: I have an offer for you that you can't refuse.",
+      "translation": "[NPC] Vex: У меня есть предложение, от которого ты не сможешь отказаться."
+    },
+    {
+      "source_key": "night-pass11.vex.told", "speaker": "Vex",
+      "source": "[NPC] Vex: Told you.",
+      "translation": "[NPC] Vex: Я же говорил."
+    },
+    {
+      "source_key": "night-pass11.zog.thanks", "speaker": "Zog",
+      "source": "[NPC] Zog: Eating enough of these surely should bring back my taste memories. Thank you.",
+      "translation": "[NPC] Zog: Если съем их достаточно, то наверняка вспомню вкус. Спасибо."
+    },
+    {
+      "source_key": "night-pass11.zog.taste", "speaker": "Zog",
+      "source": "[NPC] Zog: I have a big problem. I lost my sense of taste, now I can't tell the difference between a melon and a cactus...",
+      "translation": "[NPC] Zog: У меня большая проблема. Я перестал чувствовать вкус и теперь не могу отличить арбуз от кактуса…"
     }
   ]
 }

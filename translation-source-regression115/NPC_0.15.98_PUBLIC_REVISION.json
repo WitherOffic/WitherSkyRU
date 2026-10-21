@@ -1,0 +1,166 @@
+{
+  "checked_at": "2026-10-19T11:39:54.399542+07:00",
+  "api_url": "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Bonzo%7CGoldor%7CMaxor%7CNecron%7CSadan%7CScarf%7CStorm%7CThe+Professor%7CThe+Watcher%7CThe+Wither+King%7CThorn&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+  "matches_pinned_corpus": false,
+  "expected": {
+    "Bonzo": 852604,
+    "Goldor": 854451,
+    "Maxor": 854452,
+    "Necron": 854453,
+    "Sadan": 857815,
+    "Scarf": 852922,
+    "Storm": 856111,
+    "The Professor": 858132,
+    "The Watcher": 856107,
+    "The Wither King": 851715,
+    "Thorn": 857455
+  },
+  "actual": {
+    "The Watcher": 859488,
+    "Bonzo": 859492,
+    "Scarf": 852922,
+    "The Professor": 858132,
+    "Necron": 854453,
+    "Thorn": 857455,
+    "Sadan": 857815,
+    "Maxor": 854452,
+    "Storm": 856111,
+    "Goldor": 854451,
+    "The Wither King": 851715
+  },
+  "pages": [
+    {
+      "pageid": 38470,
+      "ns": 0,
+      "title": "The Watcher",
+      "revisions": [
+        {
+          "revid": 859488,
+          "parentid": 856107,
+          "timestamp": "2026-10-16T05:14:55Z"
+        }
+      ]
+    },
+    {
+      "pageid": 38479,
+      "ns": 0,
+      "title": "Bonzo",
+      "revisions": [
+        {
+          "revid": 859492,
+          "parentid": 852604,
+          "timestamp": "2026-10-16T05:16:15Z"
+        }
+      ]
+    },
+    {
+      "pageid": 48336,
+      "ns": 0,
+      "title": "Scarf",
+      "revisions": [
+        {
+          "revid": 852922,
+          "parentid": 851722,
+          "timestamp": "2026-10-06T16:15:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 48338,
+      "ns": 0,
+      "title": "The Professor",
+      "revisions": [
+        {
+          "revid": 858132,
+          "parentid": 856497,
+          "timestamp": "2026-10-14T16:24:49Z"
+        }
+      ]
+    },
+    {
+      "pageid": 52231,
+      "ns": 0,
+      "title": "Necron",
+      "revisions": [
+        {
+          "revid": 854453,
+          "parentid": 851716,
+          "timestamp": "2026-10-07T20:55:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 58625,
+      "ns": 0,
+      "title": "Thorn",
+      "revisions": [
+        {
+          "revid": 857455,
+          "parentid": 857428,
+          "timestamp": "2026-10-13T15:10:36Z"
+        }
+      ]
+    },
+    {
+      "pageid": 62108,
+      "ns": 0,
+      "title": "Sadan",
+      "revisions": [
+        {
+          "revid": 857815,
+          "parentid": 852918,
+          "timestamp": "2026-10-14T06:49:14Z"
+        }
+      ]
+    },
+    {
+      "pageid": 62109,
+      "ns": 0,
+      "title": "Maxor",
+      "revisions": [
+        {
+          "revid": 854452,
+          "parentid": 851717,
+          "timestamp": "2026-10-07T20:54:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 62110,
+      "ns": 0,
+      "title": "Storm",
+      "revisions": [
+        {
+          "revid": 856111,
+          "parentid": 854454,
+          "timestamp": "2026-10-10T15:41:10Z"
+        }
+      ]
+    },
+    {
+      "pageid": 66074,
+      "ns": 0,
+      "title": "Goldor",
+      "revisions": [
+        {
+          "revid": 854451,
+          "parentid": 854450,
+          "timestamp": "2026-10-07T20:53:26Z"
+        }
+      ]
+    },
+    {
+      "pageid": 88738,
+      "ns": 0,
+      "title": "The Wither King",
+      "revisions": [
+        {
+          "revid": 851715,
+          "parentid": 851699,
+          "timestamp": "2026-10-05T17:39:49Z"
+        }
+      ]
+    }
+  ],
+  "private_or_unpublished_dialogue_known": false
+}

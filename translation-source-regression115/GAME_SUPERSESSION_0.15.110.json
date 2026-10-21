@@ -1,0 +1,12 @@
+{
+  "scope": "Undelivered editorial candidate superseded before packaging. Its tests and partial benchmark are retained,not counted as final-JAR validation.",
+  "superseded_jar_sha256": "C561B3797FDD62608A17571CC5CA9AC7E3D6B3C820F37755210EE417117674E0",
+  "retained_candidate": "build/game110-superseded-candidate1",
+  "retained_checks": "build/game110-checks-ebed85460f9d49a5a8eb851fefc98aa5",
+  "retained_snapshots": "build/game110-snapshots-6b4fac42ddfd48e5b408c714b703a28c",
+  "retained_dispatch": "build/game110-dispatch-97fa86d3053f448e973c3e492cba850e",
+  "retained_audit": "build/game110-audit-final",
+  "interrupted_benchmark_not_final_evidence": "build/game110-verify-519149538fad4f279319eec999a79040",
+  "reason": "Final three-line editorial pass. No performance-based source selection,handler or algorithm changes.",
+  "changed_probe_indices": [203,1085,1099]
+}

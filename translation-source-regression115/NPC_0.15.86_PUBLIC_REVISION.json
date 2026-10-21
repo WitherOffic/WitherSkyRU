@@ -1,0 +1,190 @@
+{
+  "checked_client_date": "2026-10-17",
+  "checked_at": "2026-10-17T04:36:04.394941+07:00",
+  "api_urls": [
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Alcina%7CBednom%7CCaptain+Ahone%7CChief+Scorn%7CCult+of+the+Fallen+Star%7CDean%7CDr.+Emmett%7CElle%7CIgrupan%7CPomtair%7CRezzus%7CSwoop%7CUgo&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2"
+  ],
+  "matches_pinned_corpus": false,
+  "private_or_unpublished_dialogue_known": false,
+  "pages": [
+    {
+      "pageid": 3861,
+      "ns": 0,
+      "title": "Elle",
+      "revisions": [
+        {
+          "revid": 830430,
+          "parentid": 830068,
+          "timestamp": "2026-09-03T01:25:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76762,
+      "ns": 0,
+      "title": "Cult of the Fallen Star",
+      "revisions": [
+        {
+          "revid": 859622,
+          "parentid": 843725,
+          "timestamp": "2026-10-16T12:05:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76965,
+      "ns": 0,
+      "title": "Bednom",
+      "revisions": [
+        {
+          "revid": 815500,
+          "parentid": 812649,
+          "timestamp": "2026-08-11T20:14:06Z"
+        }
+      ]
+    },
+    {
+      "pageid": 90675,
+      "ns": 0,
+      "title": "Igrupan",
+      "revisions": [
+        {
+          "revid": 830443,
+          "parentid": 823140,
+          "timestamp": "2026-09-03T01:26:52Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91437,
+      "ns": 0,
+      "title": "Pomtair",
+      "revisions": [
+        {
+          "revid": 816207,
+          "parentid": 790095,
+          "timestamp": "2026-08-11T20:33:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91759,
+      "ns": 0,
+      "title": "Dean",
+      "revisions": [
+        {
+          "revid": 830417,
+          "parentid": 823134,
+          "timestamp": "2026-09-03T01:24:05Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91936,
+      "ns": 0,
+      "title": "Chief Scorn",
+      "revisions": [
+        {
+          "revid": 823151,
+          "parentid": 812877,
+          "timestamp": "2026-08-24T06:28:16Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92049,
+      "ns": 0,
+      "title": "Captain Ahone",
+      "revisions": [
+        {
+          "revid": 830406,
+          "parentid": 823137,
+          "timestamp": "2026-09-03T01:23:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92522,
+      "ns": 0,
+      "title": "Ugo",
+      "revisions": [
+        {
+          "revid": 823152,
+          "parentid": 822940,
+          "timestamp": "2026-08-24T06:28:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99452,
+      "ns": 0,
+      "title": "Dr. Emmett",
+      "revisions": [
+        {
+          "revid": 843707,
+          "parentid": 813109,
+          "timestamp": "2026-09-18T17:23:56Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100910,
+      "ns": 0,
+      "title": "Rezzus",
+      "revisions": [
+        {
+          "revid": 811148,
+          "parentid": 790357,
+          "timestamp": "2026-08-09T15:30:32Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107520,
+      "ns": 0,
+      "title": "Swoop",
+      "revisions": [
+        {
+          "revid": 823065,
+          "parentid": 821159,
+          "timestamp": "2026-08-24T05:19:05Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110554,
+      "ns": 0,
+      "title": "Alcina",
+      "revisions": [
+        {
+          "revid": 834035,
+          "parentid": 834028,
+          "timestamp": "2026-09-06T22:30:41Z"
+        }
+      ]
+    }
+  ],
+  "expected": {
+    "Alcina": 834035,
+    "Bednom": 815500,
+    "Captain Ahone": 830406,
+    "Chief Scorn": 823151,
+    "Cult of the Fallen Star": 843725,
+    "Dean": 830417,
+    "Dr. Emmett": 843707,
+    "Elle": 830430,
+    "Igrupan": 830443,
+    "Pomtair": 816207,
+    "Rezzus": 811148,
+    "Swoop": 823065,
+    "Ugo": 823152
+  },
+  "differences": {
+    "Cult of the Fallen Star": {
+      "pinned": 843725,
+      "current": 859622
+    }
+  },
+  "dialogue_unchanged_after_exact_manual_delta_review": true,
+  "delta_review": "Cult of the Fallen Star843725→859622: exact removal of a leading stub notice; every remaining character unchanged"
+}

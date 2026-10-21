@@ -1,0 +1,2505 @@
+{
+  "revision": "0.12.0-dev",
+  "scope": "Static data integrity, not runtime or universal quality verification",
+  "new_snapshot_sources": 2156,
+  "previous_targets_updated": 164,
+  "delta_reported": 2156,
+  "numeric_roman_icon_placeholder_id_mismatches": [],
+  "malformed_rows": [],
+  "duplicate_keys": {
+    "continuation.tsv": {
+      "Deep Sea Diver": 2,
+      "Intelligence.": 2
+    },
+    "continuation-patterns.tsv": {},
+    "lexicon.tsv": {
+      "Rabbit": 2
+    },
+    "BATCH_0.12_AUTHORED.tsv": {},
+    "BATCH_0.12_LOCATIONS.tsv": {},
+    "BATCH_0.12_NUMBERED.tsv": {}
+  },
+  "regressed_previously_processed_sources": [],
+  "context_guards": {
+    "Alligator Skin": "Шкура аллигатора",
+    "Daedalus Stick": "Палка Дедала",
+    "Power.": "аксессуаров.",
+    "Scarf": "Скарф",
+    "Portal to the Murkwater Loch": "Портал к Тёмному озеру",
+    "Travel Scroll to the End": "Свиток перемещения в Край",
+    "Black Holes by 10%.": "чёрных дыр на 10%.",
+    "minion's appearance to an": "вашего миньона на",
+    "Halves your damage for 2s afterwards.": "После этого вдвое снижает ваш урон на 2с."
+  },
+  "updated_previous_sources": [
+    {
+      "source": "Feather Collection",
+      "occurrences": 73,
+      "origins": [
+        "config/notenoughupdates/repo/items/AIMING;1.json",
+        "config/notenoughupdates/repo/items/AIMING;2.json",
+        "config/notenoughupdates/repo/items/AIMING;3.json",
+        "config/notenoughupdates/repo/items/AIMING;4.json",
+        "config/notenoughupdates/repo/items/AIMING;5.json",
+        "config/notenoughupdates/repo/items/FEATHER_FALLING;1.json",
+        "config/notenoughupdates/repo/items/FEATHER_FALLING;2.json",
+        "config/notenoughupdates/repo/items/FEATHER_FALLING;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Перо",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "island will create a portal to the",
+      "occurrences": 45,
+      "origins": [
+        "config/notenoughupdates/repo/items/BASE_CAMP_PORTAL.json",
+        "config/notenoughupdates/repo/items/CRYSTAL_NUCLEUS_PORTAL.json",
+        "config/notenoughupdates/repo/items/DANGER_1_PORTAL.json",
+        "config/notenoughupdates/repo/items/DANGER_2_PORTAL.json",
+        "config/notenoughupdates/repo/items/DRAGON_NEST_PORTAL.json",
+        "config/notenoughupdates/repo/items/DWARVEN_MINES_PORTAL.json",
+        "config/notenoughupdates/repo/items/FARMING_2_PORTAL.json",
+        "config/notenoughupdates/repo/items/FISHING_1_PORTAL.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "острове создаст портал",
+      "translation_origin": "curated.tsv"
+    },
+    {
+      "source": "Diamond Collection",
+      "occurrences": 41,
+      "origins": [
+        "config/notenoughupdates/repo/items/CRITICAL;1.json",
+        "config/notenoughupdates/repo/items/CRITICAL;2.json",
+        "config/notenoughupdates/repo/items/CRITICAL;3.json",
+        "config/notenoughupdates/repo/items/CRITICAL;4.json",
+        "config/notenoughupdates/repo/items/CRITICAL;5.json",
+        "config/notenoughupdates/repo/items/EXECUTE;1.json",
+        "config/notenoughupdates/repo/items/EXECUTE;2.json",
+        "config/notenoughupdates/repo/items/EXECUTE;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Алмаз",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Gunpowder Collection",
+      "occurrences": 41,
+      "origins": [
+        "config/notenoughupdates/repo/items/BLAST_PROTECTION;1.json",
+        "config/notenoughupdates/repo/items/BLAST_PROTECTION;2.json",
+        "config/notenoughupdates/repo/items/BLAST_PROTECTION;3.json",
+        "config/notenoughupdates/repo/items/BLAST_PROTECTION;4.json",
+        "config/notenoughupdates/repo/items/BLAST_PROTECTION;5.json",
+        "config/notenoughupdates/repo/items/THUNDERLORD;1.json",
+        "config/notenoughupdates/repo/items/THUNDERLORD;2.json",
+        "config/notenoughupdates/repo/items/THUNDERLORD;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Порох",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Gravel Collection",
+      "occurrences": 37,
+      "origins": [
+        "config/notenoughupdates/repo/items/FIRST_STRIKE;1.json",
+        "config/notenoughupdates/repo/items/FIRST_STRIKE;2.json",
+        "config/notenoughupdates/repo/items/FIRST_STRIKE;3.json",
+        "config/notenoughupdates/repo/items/FIRST_STRIKE;4.json",
+        "config/notenoughupdates/repo/items/SHARPNESS;1.json",
+        "config/notenoughupdates/repo/items/SHARPNESS;2.json",
+        "config/notenoughupdates/repo/items/SHARPNESS;3.json",
+        "config/notenoughupdates/repo/items/SHARPNESS;4.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Гравий",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❣ Requires Hard Stone Collection V.",
+      "occurrences": 36,
+      "origins": [
+        "config/notenoughupdates/repo/items/ARMOR_OF_YOG_BOOTS.json",
+        "config/notenoughupdates/repo/items/ARMOR_OF_YOG_CHESTPLATE.json",
+        "config/notenoughupdates/repo/items/ARMOR_OF_YOG_HELMET.json",
+        "config/notenoughupdates/repo/items/ARMOR_OF_YOG_LEGGINGS.json",
+        "config/notenoughupdates/repo/items/FLAME_BREAKER_BOOTS.json",
+        "config/notenoughupdates/repo/items/FLAME_BREAKER_CHESTPLATE.json",
+        "config/notenoughupdates/repo/items/FLAME_BREAKER_HELMET.json",
+        "config/notenoughupdates/repo/items/FLAME_BREAKER_LEGGINGS.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Твёрдый камень» V.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Pufferfish Collection",
+      "occurrences": 33,
+      "origins": [
+        "config/notenoughupdates/repo/items/CLEAVE;1.json",
+        "config/notenoughupdates/repo/items/CLEAVE;2.json",
+        "config/notenoughupdates/repo/items/CLEAVE;3.json",
+        "config/notenoughupdates/repo/items/CLEAVE;4.json",
+        "config/notenoughupdates/repo/items/CLEAVE;5.json",
+        "config/notenoughupdates/repo/items/DEPTH_STRIDER;1.json",
+        "config/notenoughupdates/repo/items/DEPTH_STRIDER;2.json",
+        "config/notenoughupdates/repo/items/DEPTH_STRIDER;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Иглобрюх",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "String Collection",
+      "occurrences": 25,
+      "origins": [
+        "config/notenoughupdates/repo/items/INFINITE_QUIVER;1.json",
+        "config/notenoughupdates/repo/items/INFINITE_QUIVER;2.json",
+        "config/notenoughupdates/repo/items/INFINITE_QUIVER;3.json",
+        "config/notenoughupdates/repo/items/INFINITE_QUIVER;4.json",
+        "config/notenoughupdates/repo/items/INFINITE_QUIVER;5.json",
+        "config/notenoughupdates/repo/items/SILK_TOUCH;1.json",
+        "config/skyblocker/item-repo/items/INFINITE_QUIVER;1.json",
+        "config/skyblocker/item-repo/items/INFINITE_QUIVER;2.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Нить",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Gold Collection",
+      "occurrences": 24,
+      "origins": [
+        "config/notenoughupdates/repo/items/FORTUNE;1.json",
+        "config/notenoughupdates/repo/items/FORTUNE;2.json",
+        "config/notenoughupdates/repo/items/FORTUNE;3.json",
+        "config/notenoughupdates/repo/items/LOOTING;1.json",
+        "config/notenoughupdates/repo/items/LOOTING;2.json",
+        "config/notenoughupdates/repo/items/LOOTING;3.json",
+        "config/skyblocker/item-repo/items/FORTUNE;1.json",
+        "config/skyblocker/item-repo/items/FORTUNE;2.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Коллекция: Золото",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Bone Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/POWER;1.json",
+        "config/notenoughupdates/repo/items/POWER;2.json",
+        "config/notenoughupdates/repo/items/POWER;3.json",
+        "config/notenoughupdates/repo/items/POWER;4.json",
+        "config/notenoughupdates/repo/items/POWER;5.json",
+        "config/skyblocker/item-repo/items/POWER;1.json",
+        "config/skyblocker/item-repo/items/POWER;2.json",
+        "config/skyblocker/item-repo/items/POWER;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Кость",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ender Pearl Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENDER_SLAYER;1.json",
+        "config/notenoughupdates/repo/items/ENDER_SLAYER;2.json",
+        "config/notenoughupdates/repo/items/ENDER_SLAYER;3.json",
+        "config/notenoughupdates/repo/items/ENDER_SLAYER;4.json",
+        "config/notenoughupdates/repo/items/ENDER_SLAYER;5.json",
+        "config/skyblocker/item-repo/items/ENDER_SLAYER;1.json",
+        "config/skyblocker/item-repo/items/ENDER_SLAYER;2.json",
+        "config/skyblocker/item-repo/items/ENDER_SLAYER;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Эндер-жемчуг",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ghast Tear Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/GIANT_KILLER;1.json",
+        "config/notenoughupdates/repo/items/GIANT_KILLER;2.json",
+        "config/notenoughupdates/repo/items/GIANT_KILLER;3.json",
+        "config/notenoughupdates/repo/items/GIANT_KILLER;4.json",
+        "config/notenoughupdates/repo/items/GIANT_KILLER;5.json",
+        "config/skyblocker/item-repo/items/GIANT_KILLER;1.json",
+        "config/skyblocker/item-repo/items/GIANT_KILLER;2.json",
+        "config/skyblocker/item-repo/items/GIANT_KILLER;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Слеза гаста",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Magma Cream Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/FIRE_PROTECTION;1.json",
+        "config/notenoughupdates/repo/items/FIRE_PROTECTION;2.json",
+        "config/notenoughupdates/repo/items/FIRE_PROTECTION;3.json",
+        "config/notenoughupdates/repo/items/FIRE_PROTECTION;4.json",
+        "config/notenoughupdates/repo/items/FIRE_PROTECTION;5.json",
+        "config/skyblocker/item-repo/items/FIRE_PROTECTION;1.json",
+        "config/skyblocker/item-repo/items/FIRE_PROTECTION;2.json",
+        "config/skyblocker/item-repo/items/FIRE_PROTECTION;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Сгусток магмы",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Obsidian Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/LETHALITY;1.json",
+        "config/notenoughupdates/repo/items/LETHALITY;2.json",
+        "config/notenoughupdates/repo/items/LETHALITY;3.json",
+        "config/notenoughupdates/repo/items/LETHALITY;4.json",
+        "config/notenoughupdates/repo/items/LETHALITY;5.json",
+        "config/skyblocker/item-repo/items/LETHALITY;1.json",
+        "config/skyblocker/item-repo/items/LETHALITY;2.json",
+        "config/skyblocker/item-repo/items/LETHALITY;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Обсидиан",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Prismarine Crystals Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/BLESSING;1.json",
+        "config/notenoughupdates/repo/items/BLESSING;2.json",
+        "config/notenoughupdates/repo/items/BLESSING;3.json",
+        "config/notenoughupdates/repo/items/BLESSING;4.json",
+        "config/notenoughupdates/repo/items/BLESSING;5.json",
+        "config/skyblocker/item-repo/items/BLESSING;1.json",
+        "config/skyblocker/item-repo/items/BLESSING;2.json",
+        "config/skyblocker/item-repo/items/BLESSING;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Кристаллы призмарина",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Pumpkin Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/CUBISM;1.json",
+        "config/notenoughupdates/repo/items/CUBISM;2.json",
+        "config/notenoughupdates/repo/items/CUBISM;3.json",
+        "config/notenoughupdates/repo/items/CUBISM;4.json",
+        "config/notenoughupdates/repo/items/CUBISM;5.json",
+        "config/skyblocker/item-repo/items/CUBISM;1.json",
+        "config/skyblocker/item-repo/items/CUBISM;2.json",
+        "config/skyblocker/item-repo/items/CUBISM;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Тыква",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Raw Rabbit Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/LUCK;1.json",
+        "config/notenoughupdates/repo/items/LUCK;2.json",
+        "config/notenoughupdates/repo/items/LUCK;3.json",
+        "config/notenoughupdates/repo/items/LUCK;4.json",
+        "config/notenoughupdates/repo/items/LUCK;5.json",
+        "config/skyblocker/item-repo/items/LUCK;1.json",
+        "config/skyblocker/item-repo/items/LUCK;2.json",
+        "config/skyblocker/item-repo/items/LUCK;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Сырая крольчатина",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Redstone Dust Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/EFFICIENCY;1.json",
+        "config/notenoughupdates/repo/items/EFFICIENCY;2.json",
+        "config/notenoughupdates/repo/items/EFFICIENCY;3.json",
+        "config/notenoughupdates/repo/items/EFFICIENCY;4.json",
+        "config/notenoughupdates/repo/items/EFFICIENCY;5.json",
+        "config/skyblocker/item-repo/items/EFFICIENCY;1.json",
+        "config/skyblocker/item-repo/items/EFFICIENCY;2.json",
+        "config/skyblocker/item-repo/items/EFFICIENCY;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Редстоуновая пыль",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Rotten Flesh Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/SMITE;1.json",
+        "config/notenoughupdates/repo/items/SMITE;2.json",
+        "config/notenoughupdates/repo/items/SMITE;3.json",
+        "config/notenoughupdates/repo/items/SMITE;4.json",
+        "config/notenoughupdates/repo/items/SMITE;5.json",
+        "config/skyblocker/item-repo/items/SMITE;1.json",
+        "config/skyblocker/item-repo/items/SMITE;2.json",
+        "config/skyblocker/item-repo/items/SMITE;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Гнилая плоть",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Spider Eye Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/BANE_OF_ARTHROPODS;1.json",
+        "config/notenoughupdates/repo/items/BANE_OF_ARTHROPODS;2.json",
+        "config/notenoughupdates/repo/items/BANE_OF_ARTHROPODS;3.json",
+        "config/notenoughupdates/repo/items/BANE_OF_ARTHROPODS;4.json",
+        "config/notenoughupdates/repo/items/BANE_OF_ARTHROPODS;5.json",
+        "config/skyblocker/item-repo/items/BANE_OF_ARTHROPODS;1.json",
+        "config/skyblocker/item-repo/items/BANE_OF_ARTHROPODS;2.json",
+        "config/skyblocker/item-repo/items/BANE_OF_ARTHROPODS;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Паучий глаз",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Tropical Fish Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/MAGNET;1.json",
+        "config/notenoughupdates/repo/items/MAGNET;2.json",
+        "config/notenoughupdates/repo/items/MAGNET;3.json",
+        "config/notenoughupdates/repo/items/MAGNET;4.json",
+        "config/notenoughupdates/repo/items/MAGNET;5.json",
+        "config/skyblocker/item-repo/items/MAGNET;1.json",
+        "config/skyblocker/item-repo/items/MAGNET;2.json",
+        "config/skyblocker/item-repo/items/MAGNET;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Тропическая рыба",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Wheat Collection",
+      "occurrences": 21,
+      "origins": [
+        "config/notenoughupdates/repo/items/HARVESTING;1.json",
+        "config/notenoughupdates/repo/items/HARVESTING;2.json",
+        "config/notenoughupdates/repo/items/HARVESTING;3.json",
+        "config/notenoughupdates/repo/items/HARVESTING;4.json",
+        "config/notenoughupdates/repo/items/HARVESTING;5.json",
+        "config/skyblocker/item-repo/items/HARVESTING;1.json",
+        "config/skyblocker/item-repo/items/HARVESTING;2.json",
+        "config/skyblocker/item-repo/items/HARVESTING;3.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Пшеница",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Dark Oak Collection",
+      "occurrences": 20,
+      "origins": [
+        "config/notenoughupdates/repo/items/GROWTH;1.json",
+        "config/notenoughupdates/repo/items/GROWTH;2.json",
+        "config/notenoughupdates/repo/items/GROWTH;3.json",
+        "config/notenoughupdates/repo/items/GROWTH;4.json",
+        "config/notenoughupdates/repo/items/GROWTH;5.json",
+        "config/skyblocker/item-repo/items/GROWTH;1.json",
+        "config/skyblocker/item-repo/items/GROWTH;2.json",
+        "config/skyblocker/item-repo/items/GROWTH;3.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Коллекция: Тёмный дуб",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Iron Collection",
+      "occurrences": 20,
+      "origins": [
+        "config/notenoughupdates/repo/items/PROTECTION;1.json",
+        "config/notenoughupdates/repo/items/PROTECTION;2.json",
+        "config/notenoughupdates/repo/items/PROTECTION;3.json",
+        "config/notenoughupdates/repo/items/PROTECTION;4.json",
+        "config/notenoughupdates/repo/items/PROTECTION;5.json",
+        "config/skyblocker/item-repo/items/PROTECTION;1.json",
+        "config/skyblocker/item-repo/items/PROTECTION;2.json",
+        "config/skyblocker/item-repo/items/PROTECTION;3.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Коллекция: Железо",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Salmon Collection",
+      "occurrences": 20,
+      "origins": [
+        "config/notenoughupdates/repo/items/LURE;1.json",
+        "config/notenoughupdates/repo/items/LURE;2.json",
+        "config/notenoughupdates/repo/items/LURE;3.json",
+        "config/notenoughupdates/repo/items/LURE;4.json",
+        "config/notenoughupdates/repo/items/LURE;5.json",
+        "config/skyblocker/item-repo/items/LURE;1.json",
+        "config/skyblocker/item-repo/items/LURE;2.json",
+        "config/skyblocker/item-repo/items/LURE;3.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Коллекция: Лосось",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "island will create a portal to",
+      "occurrences": 18,
+      "origins": [
+        "config/notenoughupdates/repo/items/ARACHNE_SANCTUARY_PORTAL.json",
+        "config/notenoughupdates/repo/items/FORAGING_4_PORTAL.json",
+        "config/notenoughupdates/repo/items/KUUDRA_SKULL_PORTAL.json",
+        "config/notenoughupdates/repo/items/MURKWATER_LOCH_PORTAL.json",
+        "config/notenoughupdates/repo/items/TORRHUS_CANYON_PORTAL.json",
+        "config/notenoughupdates/repo/items/TORRHUS_SPRINGS_PORTAL.json",
+        "config/skyblocker/item-repo/items/ARACHNE_SANCTUARY_PORTAL.json",
+        "config/skyblocker/item-repo/items/FORAGING_4_PORTAL.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "острове создаст портал",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Blaze Rod Collection",
+      "occurrences": 17,
+      "origins": [
+        "config/notenoughupdates/repo/items/FIRE_ASPECT;1.json",
+        "config/notenoughupdates/repo/items/FIRE_ASPECT;2.json",
+        "config/notenoughupdates/repo/items/FLAME;1.json",
+        "config/notenoughupdates/repo/items/FLAME;2.json",
+        "config/skyblocker/item-repo/items/FIRE_ASPECT;1.json",
+        "config/skyblocker/item-repo/items/FIRE_ASPECT;2.json",
+        "config/skyblocker/item-repo/items/FLAME;1.json",
+        "config/skyblocker/item-repo/items/FLAME;2.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Огненный стержень",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Clay Ball Collection",
+      "occurrences": 13,
+      "origins": [
+        "config/notenoughupdates/repo/items/RESPIRATION;1.json",
+        "config/notenoughupdates/repo/items/RESPIRATION;2.json",
+        "config/notenoughupdates/repo/items/RESPIRATION;3.json",
+        "config/skyblocker/item-repo/items/RESPIRATION;1.json",
+        "config/skyblocker/item-repo/items/RESPIRATION;2.json",
+        "config/skyblocker/item-repo/items/RESPIRATION;3.json",
+        "catharsis-repo-cache/guis/collections/fishing/clay_ball.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Глиняный комок",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Lapis Lazuli Collection",
+      "occurrences": 13,
+      "origins": [
+        "config/notenoughupdates/repo/items/EXPERIENCE;1.json",
+        "config/notenoughupdates/repo/items/EXPERIENCE;2.json",
+        "config/notenoughupdates/repo/items/EXPERIENCE;3.json",
+        "config/skyblocker/item-repo/items/EXPERIENCE;1.json",
+        "config/skyblocker/item-repo/items/EXPERIENCE;2.json",
+        "config/skyblocker/item-repo/items/EXPERIENCE;3.json",
+        "catharsis-repo-cache/guis/collections/mining/lapis_lazuli.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Лазурит",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ability: Spawn  RIGHT CLICK",
+      "occurrences": 12,
+      "origins": [
+        "config/notenoughupdates/repo/items/LM_EGG_BOOTS.json",
+        "config/notenoughupdates/repo/items/LM_EGG_CAP.json",
+        "config/notenoughupdates/repo/items/LM_EGG_CHEST.json",
+        "config/notenoughupdates/repo/items/LM_EGG_LEGS.json",
+        "config/skyblocker/item-repo/items/LM_EGG_BOOTS.json",
+        "config/skyblocker/item-repo/items/LM_EGG_CAP.json",
+        "config/skyblocker/item-repo/items/LM_EGG_CHEST.json",
+        "config/skyblocker/item-repo/items/LM_EGG_LEGS.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Точка появления — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Hard Stone Collection II.",
+      "occurrences": 12,
+      "origins": [
+        "config/notenoughupdates/repo/items/HEAT_BOOTS.json",
+        "config/notenoughupdates/repo/items/HEAT_CHESTPLATE.json",
+        "config/notenoughupdates/repo/items/HEAT_HELMET.json",
+        "config/notenoughupdates/repo/items/HEAT_LEGGINGS.json",
+        "config/skyblocker/item-repo/items/HEAT_BOOTS.json",
+        "config/skyblocker/item-repo/items/HEAT_CHESTPLATE.json",
+        "config/skyblocker/item-repo/items/HEAT_HELMET.json",
+        "config/skyblocker/item-repo/items/HEAT_LEGGINGS.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Твёрдый камень» II.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 8,000,000 - 160,000,000",
+      "occurrences": 12,
+      "origins": [
+        "config/notenoughupdates/repo/items/HOLY_LOST_ADVENTURER_MINIBOSS.json",
+        "config/notenoughupdates/repo/items/SUPERIOR_LOST_ADVENTURER_MINIBOSS.json",
+        "config/notenoughupdates/repo/items/UNSTABLE_LOST_ADVENTURER_MINIBOSS.json",
+        "config/notenoughupdates/repo/items/YOUNG_LOST_ADVENTURER_MINIBOSS.json",
+        "config/skyblocker/item-repo/items/HOLY_LOST_ADVENTURER_MINIBOSS.json",
+        "config/skyblocker/item-repo/items/SUPERIOR_LOST_ADVENTURER_MINIBOSS.json",
+        "config/skyblocker/item-repo/items/UNSTABLE_LOST_ADVENTURER_MINIBOSS.json",
+        "config/skyblocker/item-repo/items/YOUNG_LOST_ADVENTURER_MINIBOSS.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 8,000,000 - 160,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ice Collection",
+      "occurrences": 9,
+      "origins": [
+        "config/notenoughupdates/repo/items/FROST_WALKER;1.json",
+        "config/notenoughupdates/repo/items/FROST_WALKER;2.json",
+        "config/skyblocker/item-repo/items/FROST_WALKER;1.json",
+        "config/skyblocker/item-repo/items/FROST_WALKER;2.json",
+        "catharsis-repo-cache/guis/collections/mining/ice.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Лёд",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "island will create a portal to The",
+      "occurrences": 9,
+      "origins": [
+        "config/notenoughupdates/repo/items/FARMING_1_PORTAL.json",
+        "config/notenoughupdates/repo/items/FORGE_PORTAL.json",
+        "config/notenoughupdates/repo/items/WIZARD_TOWER_PORTAL.json",
+        "config/skyblocker/item-repo/items/FARMING_1_PORTAL.json",
+        "config/skyblocker/item-repo/items/FORGE_PORTAL.json",
+        "config/skyblocker/item-repo/items/WIZARD_TOWER_PORTAL.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "острове создаст портал",
+      "translation_origin": "decorated-label"
+    },
+    {
+      "source": "Slimeball Collection",
+      "occurrences": 9,
+      "origins": [
+        "config/notenoughupdates/repo/items/KNOCKBACK;1.json",
+        "config/notenoughupdates/repo/items/KNOCKBACK;2.json",
+        "config/skyblocker/item-repo/items/KNOCKBACK;1.json",
+        "config/skyblocker/item-repo/items/KNOCKBACK;2.json",
+        "catharsis-repo-cache/guis/collections/combat/slimeball.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Слизь",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Slime Collection",
+      "occurrences": 8,
+      "origins": [
+        "config/notenoughupdates/repo/items/PUNCH;1.json",
+        "config/notenoughupdates/repo/items/PUNCH;2.json",
+        "config/skyblocker/item-repo/items/PUNCH;1.json",
+        "config/skyblocker/item-repo/items/PUNCH;2.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Коллекция: Слизень",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Scarf",
+      "occurrences": 6,
+      "origins": [
+        "config/notenoughupdates/repo/constants/attribute_shards.json",
+        "config/skyblocker/item-repo/constants/attribute_shards.json",
+        "skyblock-repo-cache/id_overlays.min.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "displayName",
+        "name"
+      ],
+      "translation": "Скарф",
+      "translation_origin": "names.tsv"
+    },
+    {
+      "source": "Coal Collection",
+      "occurrences": 5,
+      "origins": [
+        "config/notenoughupdates/repo/items/SMELTING_TOUCH;1.json",
+        "config/skyblocker/item-repo/items/SMELTING_TOUCH;1.json",
+        "catharsis-repo-cache/guis/collections/mining/coal.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Уголь",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Raw Mutton Collection",
+      "occurrences": 5,
+      "origins": [
+        "config/notenoughupdates/repo/items/RAINBOW;1.json",
+        "config/skyblocker/item-repo/items/RAINBOW;1.json",
+        "catharsis-repo-cache/guis/collections/farming/raw_mutton.json",
+        "skyblock-repo-cache/enchantments.min.json"
+      ],
+      "roles": [
+        "lore",
+        "title",
+        "text"
+      ],
+      "translation": "Коллекция: Сырая баранина",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ability: Absorption Potion  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/TANK_DUNGEON_ABILITY_2.json",
+        "config/skyblocker/item-repo/items/TANK_DUNGEON_ABILITY_2.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Зелье поглощения — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Ability: Starfall  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/STARLIGHT_WAND.json",
+        "config/skyblocker/item-repo/items/STARLIGHT_WAND.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Звездопад — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Ability: Stun Potion  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/TANK_DUNGEON_ABILITY_1.json",
+        "config/skyblocker/item-repo/items/TANK_DUNGEON_ABILITY_1.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Зелье оглушения — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Arachne's Sanctuary for you to use",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ARACHNE_SANCTUARY_PORTAL.json",
+        "config/skyblocker/item-repo/items/ARACHNE_SANCTUARY_PORTAL.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "в святилище Арахны, которым можно пользоваться",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "destination to your fast travel",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/CRYSTAL_HOLLOWS_TRAVEL_SCROLL.json",
+        "config/skyblocker/item-repo/items/CRYSTAL_HOLLOWS_TRAVEL_SCROLL.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "пункт назначения в меню быстрого",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Enchanted Mithril",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_MITHRIL.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_MITHRIL.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "text"
+      ],
+      "translation": "Зачарованный мифрил",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Enchanted Titanium",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_TITANIUM.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_TITANIUM.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "text"
+      ],
+      "translation": "Зачарованный титан",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Monkey.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/BANANA_MONKEY_PERSONALITY.json",
+        "config/skyblocker/item-repo/items/BANANA_MONKEY_PERSONALITY.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "обезьяну.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Penguin.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/FISHY_PENGUIN_PERSONALITY.json",
+        "config/skyblocker/item-repo/items/FISHY_PENGUIN_PERSONALITY.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "пингвина.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Rabbit.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/CHOCO_RABBIT_PERSONALITY.json",
+        "config/skyblocker/item-repo/items/CHOCO_RABBIT_PERSONALITY.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "кролика.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Scarf 1",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф 1",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf 2",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф 2",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf 3",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф 3",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf 4",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф 4",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf 5",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф 5",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf 6",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф 6",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf I",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф I",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf II",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф II",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf III",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф III",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf IV",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф IV",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf V",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф V",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Scarf VI",
+      "occurrences": 3,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/dungeoneering/scarf.json"
+      ],
+      "roles": [
+        "name"
+      ],
+      "translation": "Скарф VI",
+      "translation_origin": "authored-name-family"
+    },
+    {
+      "source": "Skeleton.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/FESTIVE_SKELETON_PERSONALITY.json",
+        "config/skyblocker/item-repo/items/FESTIVE_SKELETON_PERSONALITY.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "скелета.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Zombie.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/FESTIVE_ZOMBIE_PERSONALITY.json",
+        "config/skyblocker/item-repo/items/FESTIVE_ZOMBIE_PERSONALITY.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "зомби.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❣ Requires Bonzo Collection 7.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DIAMOND_BONZO_HEAD.json",
+        "config/skyblocker/item-repo/items/DIAMOND_BONZO_HEAD.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Бонзо» 7.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Cactus Collection VII.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/NANSORB_ARROW.json",
+        "config/skyblocker/item-repo/items/NANSORB_ARROW.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Кактус» VII.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Coal Collection VII.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/EXPLOSIVE_ARROW.json",
+        "config/skyblocker/item-repo/items/EXPLOSIVE_ARROW.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Уголь» VII.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Gold Ingot Collection X.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENCHANTED_TIME_CLOCK.json",
+        "config/skyblocker/item-repo/items/ENCHANTED_TIME_CLOCK.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Золотой слиток» X.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Honeycomb Collection I.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/FUN_SIZED_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/FUN_SIZED_POT_OF_HONEYCOMB.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Медовые соты» I.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Honeycomb Collection III.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/FAMILY_SIZED_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/FAMILY_SIZED_POT_OF_HONEYCOMB.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Медовые соты» III.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Honeycomb Collection V.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/JUMBO_POT_OF_HONEYCOMB.json",
+        "config/skyblocker/item-repo/items/JUMBO_POT_OF_HONEYCOMB.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Медовые соты» V.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Ice Collection VII.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ICY_ARROW.json",
+        "config/skyblocker/item-repo/items/ICY_ARROW.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Лёд» VII.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Livid Collection 7.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DIAMOND_LIVID_HEAD.json",
+        "config/skyblocker/item-repo/items/DIAMOND_LIVID_HEAD.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Ливид» 7.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Lotus Collection IX.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/TROPHY_LINE.json",
+        "config/skyblocker/item-repo/items/TROPHY_LINE.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Лотос» IX.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Lotus Collection V.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/LOTUS_SINKER.json",
+        "config/skyblocker/item-repo/items/LOTUS_SINKER.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Лотос» V.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Lotus Collection VIII.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/PUDDLE_JUMPER_HOOK.json",
+        "config/skyblocker/item-repo/items/PUDDLE_JUMPER_HOOK.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Лотос» VIII.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Sadan Collection 7.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DIAMOND_SADAN_HEAD.json",
+        "config/skyblocker/item-repo/items/DIAMOND_SADAN_HEAD.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Садан» 7.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Sand Collection VII.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ARMORSHRED_ARROW.json",
+        "config/skyblocker/item-repo/items/ARMORSHRED_ARROW.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Песок» VII.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Scarf Collection 7.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DIAMOND_SCARF_HEAD.json",
+        "config/skyblocker/item-repo/items/DIAMOND_SCARF_HEAD.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Скарф» 7.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Slimeball Collection VII.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/BOUNCY_ARROW.json",
+        "config/skyblocker/item-repo/items/BOUNCY_ARROW.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Слизь» VII.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires The Professor Collection 7.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DIAMOND_PROFESSOR_HEAD.json",
+        "config/skyblocker/item-repo/items/DIAMOND_PROFESSOR_HEAD.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Профессор» 7.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Thorn Collection 7.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DIAMOND_THORN_HEAD.json",
+        "config/skyblocker/item-repo/items/DIAMOND_THORN_HEAD.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Торн» 7.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❣ Requires Umber Collection IX.",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/UMBERELLA.json",
+        "config/skyblocker/item-repo/items/UMBERELLA.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❣ Требуется «Коллекция: Умбра» IX.",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 1,000,000 - 12,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ANGRY_ARCHEOLOGIST_MINIBOSS.json",
+        "config/skyblocker/item-repo/items/ANGRY_ARCHEOLOGIST_MINIBOSS.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 1,000,000 - 12,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 1,050,000 - 20,000,200",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/CRYPT_DREADLORD_MONSTER.json",
+        "config/skyblocker/item-repo/items/CRYPT_DREADLORD_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 1,050,000 - 20,000,200",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 1,100,000 - 20,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/CRYPT_SOULEATER_MONSTER.json",
+        "config/skyblocker/item-repo/items/CRYPT_SOULEATER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 1,100,000 - 20,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 1,300,000 - 6,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/SKELETON_GRUNT_MONSTER.json",
+        "config/skyblocker/item-repo/items/SKELETON_GRUNT_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 1,300,000 - 6,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 1,600,000 - 28,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/SKELETON_SOLDIER_MONSTER.json",
+        "config/skyblocker/item-repo/items/SKELETON_SOLDIER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 1,600,000 - 28,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 1,600,000 - 3,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ZOMBIE_GRUNT_MONSTER.json",
+        "config/skyblocker/item-repo/items/ZOMBIE_GRUNT_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 1,600,000 - 3,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 1,800,000 - 3,300,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/SCARED_SKELETON_MONSTER.json",
+        "config/skyblocker/item-repo/items/SCARED_SKELETON_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 1,800,000 - 3,300,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 140,000 - 2,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/LONELY_SPIDER_MONSTER.json",
+        "config/skyblocker/item-repo/items/LONELY_SPIDER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 140,000 - 2,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 160,000,000 - 250,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ZOMBIE_COMMANDER_MONSTER.json",
+        "config/skyblocker/item-repo/items/ZOMBIE_COMMANDER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 160,000,000 - 250,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 3,450,000 - 42,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/SKELETON_MASTER_MONSTER.json",
+        "config/skyblocker/item-repo/items/SKELETON_MASTER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 3,450,000 - 42,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 4,500,000 - 12,800,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/UNDEAD_SKELETON_MONSTER.json",
+        "config/skyblocker/item-repo/items/UNDEAD_SKELETON_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 4,500,000 - 12,800,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 48,000,000 - 200,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/SUPER_ARCHER_MONSTER.json",
+        "config/skyblocker/item-repo/items/SUPER_ARCHER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 48,000,000 - 200,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 500,000 - 9,500,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/CELLAR_SPIDER_MONSTER.json",
+        "config/skyblocker/item-repo/items/CELLAR_SPIDER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 500,000 - 9,500,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 55,000,000 - 145,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/SHADOW_ASSASSIN_MINIBOSS.json",
+        "config/skyblocker/item-repo/items/SHADOW_ASSASSIN_MINIBOSS.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 55,000,000 - 145,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 6,000,000 - 36,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ZOMBIE_SOLDIER_MONSTER.json",
+        "config/skyblocker/item-repo/items/ZOMBIE_SOLDIER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 6,000,000 - 36,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 60,000 - 225,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/TANK_ZOMBIE_MONSTER.json",
+        "config/skyblocker/item-repo/items/TANK_ZOMBIE_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 60,000 - 225,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 60,000,000 - 160,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/FROZEN_ADVENTURER_MINIBOSS.json",
+        "config/skyblocker/item-repo/items/FROZEN_ADVENTURER_MINIBOSS.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 60,000,000 - 160,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 7,000,000 - 40,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ZOMBIE_KNIGHT_MONSTER.json",
+        "config/skyblocker/item-repo/items/ZOMBIE_KNIGHT_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 7,000,000 - 40,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 8,600,000 - 35,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/KING_MIDAS_MINIBOSS.json",
+        "config/skyblocker/item-repo/items/KING_MIDAS_MINIBOSS.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 8,600,000 - 35,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "❤ Health (MM) : 850,000 - 13,000,000",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/CRYPT_LURKER_MONSTER.json",
+        "config/skyblocker/item-repo/items/CRYPT_LURKER_MONSTER.json",
+        "skyblock-repo-cache/mobs.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "❤ Здоровье (мастер-режим) : 850,000 - 13,000,000",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Grants +{stat} Dwarven Metal Fortune.",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/constants/hotmlayout.json",
+        "config/skyblocker/item-repo/constants/hotmlayout.json"
+      ],
+      "roles": [
+        "lore"
+      ],
+      "translation": "Даёт +{stat} Удача добычи дворфских металлов.",
+      "translation_origin": "continuation-patterns.tsv"
+    },
+    {
+      "source": "Requires: Scarf III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/GOLD_SCARF_HEAD.json",
+        "config/skyblocker/item-repo/items/GOLD_SCARF_HEAD.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Скарф III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Scarf VI",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/DIAMOND_SCARF_HEAD.json",
+        "config/skyblocker/item-repo/items/DIAMOND_SCARF_HEAD.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Скарф VI",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Acacia Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/acacia_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Акациевое бревно",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Agaricus Cap Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/rift/agaricus_cap.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Шляпка шампиньона",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Birch Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/birch_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Берёзовое бревно",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Cactus Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/cactus.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Кактус",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Caducous Stem Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/rift/caducous_stem.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Опадающий стебель",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Carrot Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/carrot.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Морковь",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Cobblestone Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/cobblestone.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Булыжник",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Dark Oak Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/dark_oak_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Бревно тёмного дуба",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Emerald Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/emerald.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Изумруд",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "End Stone Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/end_stone.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Эндерняк",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Fig Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/fig_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Инжирное бревно",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Glacite Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/glacite.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Глацит",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Glowstone Dust Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/glowstone_dust.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Светокаменная пыль",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Gold Ingot Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/gold_ingot.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Золотой слиток",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Half-Eaten Carrot Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/rift/half-eaten_carrot.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Надкусанная морковь",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Hard Stone Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/hard_stone.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Твёрдый камень",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Helix Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/helix_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Бревно хеликса",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Hemovibe Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/rift/hemovibe.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Гемовиб",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Honeycomb Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/honeycomb.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Медовые соты",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ink Sac Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/ink_sac.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Чернильный мешок",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Iron Ingot Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/iron_ingot.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Железный слиток",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Jungle Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/jungle_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Тропическое бревно",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Kuudra Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/kuudra/kuudra.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Куудра",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Leather Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/leather.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Кожа",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Lily Pad Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/lily_pad.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Кувшинка",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Living Metal Heart Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/rift/living_metal_heart.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Сердце живого металла",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Lotus Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/lotus.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Лотос",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Lushlilac Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/lushlilac.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Пышная сирень",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Mangrove Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/mangrove_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Мангровое бревно",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Melon Slice Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/melon_slice.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Ломтик арбуза",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Mithril Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/mithril.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Мифрил",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Mushroom Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/mushroom.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Гриб",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Mycelium Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/mycelium.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Мицелий",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Nether Quartz Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/nether_quartz.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Незер-кварц",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Nether Wart Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/nether_wart.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Адский нарост",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Oak Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/oak_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Дубовое бревно",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Potato Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/potato.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Картофель",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Prismarine Shard Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/prismarine_shard.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Осколок призмарина",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Raw Chicken Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/raw_chicken.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Сырая курятина",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Raw Cod Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/raw_cod.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Сырая треска",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Raw Porkchop Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/raw_porkchop.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Сырая свинина",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Raw Salmon Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/raw_salmon.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Сырой лосось",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Red Sand Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/red_sand.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Красный песок",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ruby Veilshroom Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/ruby_veilshroom.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Рубиновый вуалегриб",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Sand Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/sand.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Песок",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Sea Lumies Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/sea_lumies.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Морские люмии",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Seeds Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/seeds.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Семена пшеницы",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Sponge Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/fishing/sponge.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Губка",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Spruce Log Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/spruce_log.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Еловое бревно",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Sugar Cane Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/sugar_cane.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Сахарный тростник",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Sulphur Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/sulphur.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Сера",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Sunflower Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/sunflower.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Подсолнух",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Tender Wood Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/tender_wood.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Нежная древесина",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Timite Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/rift/timite.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Тимит",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Tungsten Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/tungsten.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Вольфрам",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Umber Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/mining/umber.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Умбра",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Vinesap Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/foraging/vinesap.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Сок лиан",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Wild Rose Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/farming/wild_rose.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Дикая роза",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Wilted Berberis Collection",
+      "occurrences": 1,
+      "origins": [
+        "catharsis-repo-cache/guis/collections/rift/wilted_berberis.json"
+      ],
+      "roles": [
+        "title"
+      ],
+      "translation": "Коллекция: Увядший барбарис",
+      "translation_origin": "continuation.tsv"
+    }
+  ],
+  "non_level_abbreviation_MM_expanded": [
+    "❤ Health (MM) : 17.373.736 - 20.606.060",
+    "❤ Health (MM) : 180,000 - 1.050,000",
+    "❤ Health (MM) : 8,000,000 - 160,000,000",
+    "❤ Health (MM) : 1,000,000 - 12,000,000",
+    "❤ Health (MM) : 1,050,000 - 20,000,200",
+    "❤ Health (MM) : 1,100,000 - 20,000,000",
+    "❤ Health (MM) : 1,300,000 - 6,000,000",
+    "❤ Health (MM) : 1,600,000 - 28,000,000",
+    "❤ Health (MM) : 1,600,000 - 3,000,000",
+    "❤ Health (MM) : 1,800,000 - 3,300,000",
+    "❤ Health (MM) : 140,000 - 2,000,000",
+    "❤ Health (MM) : 160,000,000 - 250,000,000",
+    "❤ Health (MM) : 3,450,000 - 42,000,000",
+    "❤ Health (MM) : 4,500,000 - 12,800,000",
+    "❤ Health (MM) : 48,000,000 - 200,000,000",
+    "❤ Health (MM) : 500,000 - 9,500,000",
+    "❤ Health (MM) : 55,000,000 - 145,000,000",
+    "❤ Health (MM) : 6,000,000 - 36,000,000",
+    "❤ Health (MM) : 60,000 - 225,000",
+    "❤ Health (MM) : 60,000,000 - 160,000,000",
+    "❤ Health (MM) : 7,000,000 - 40,000,000",
+    "❤ Health (MM) : 8,600,000 - 35,000,000",
+    "❤ Health (MM) : 850,000 - 13,000,000"
+  ],
+  "quality_verified": false,
+  "runtime_verified": false
+}

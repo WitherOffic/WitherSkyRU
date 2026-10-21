@@ -1,0 +1,13 @@
+{
+  "scope": "User screenshot observations;not automatically registered or claimed translated. Dynamic values and head glyphs are evidence,not broad substitution contracts.",
+  "observations": [
+    {"source": "Collect Spruce Logs", "surface": ["objective HUD", "sidebar"], "observed_counter": "(100/128)", "source_image": "C:/Users/Wither/AppData/Local/Temp/codex-clipboard-84588032-acd2-42bb-9079-d164f22f20e5.png", "issue": "Objective occurs outside Dialogue in Kelly page;old dialogue-only queue omitted it."},
+    {"source": "Find the Campfire", "surface": ["objective HUD", "sidebar"], "source_image": "C:/Users/Wither/AppData/Local/Temp/codex-clipboard-a42d4b80-115e-440a-9eac-2a260cec7468.png"},
+    {"source": "Collect Dark Oak Logs", "surface": ["objective HUD"], "counter_target": 256, "source_image": "C:/Users/Wither/AppData/Local/Temp/codex-clipboard-62857df2-6c65-483e-b08c-9698a45c8847.png"},
+    {"source_pattern": "[NPC] Ryan: A Campfire Initiate Badge I, for our latest initiate, <head><username>!", "surface": ["NPC chat"], "observed_username": "Wither_101", "source_image": "C:/Users/Wither/AppData/Local/Temp/codex-clipboard-7472fa68-285e-4f63-b214-6aa67abe0e79.png", "issue": "Existing plain-username template is not proof of support for the live head-bearing layout."},
+    {"source": "Travel to the Savanna Woodland", "surface": ["new objective chat"], "source_image": "C:/Users/Wither/AppData/Local/Temp/codex-clipboard-8548bac8-c2cc-4707-876c-3df72156da5c.png"},
+    {"source": "You claimed a Campfire Initiate Badge I!", "surface": ["reward chat"], "source_image": "C:/Users/Wither/AppData/Local/Temp/codex-clipboard-8548bac8-c2cc-4707-876c-3df72156da5c.png"}
+  ],
+  "runtime_automatically_modified": false,
+  "fully_translated": false
+}

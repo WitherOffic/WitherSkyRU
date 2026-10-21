@@ -1,0 +1,517 @@
+{
+  "raw": [
+    {
+      "runs": [
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "unknown": {
+            "ms_per10": 0.0402023625,
+            "bytes_per10": 229520.0,
+            "rounds_ms": [
+              0.0401843,
+              0.040125425,
+              0.041057875,
+              0.040220425
+            ],
+            "rounds_bytes": [
+              229520.0,
+              229520.0,
+              229520.0,
+              229520.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "unknown": {
+            "ms_per10": 0.0385911625,
+            "bytes_per10": 228880.0,
+            "rounds_ms": [
+              0.03864215,
+              0.038853,
+              0.038540175,
+              0.0384372
+            ],
+            "rounds_bytes": [
+              228880.0,
+              228880.0,
+              228880.0,
+              228880.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "unknown": {
+            "ms_per10": 0.0389619125,
+            "bytes_per10": 228880.0,
+            "rounds_ms": [
+              0.03893415,
+              0.0389172,
+              0.039557675,
+              0.038989675
+            ],
+            "rounds_bytes": [
+              228880.0,
+              228880.0,
+              228880.0,
+              228880.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "unknown": {
+            "ms_per10": 0.039244562499999996,
+            "bytes_per10": 228880.0,
+            "rounds_ms": [
+              0.03932025,
+              0.0388372,
+              0.039168875,
+              0.039533975
+            ],
+            "rounds_bytes": [
+              228880.0,
+              228880.0,
+              228880.0,
+              228880.0
+            ]
+          }
+        }
+      ],
+      "mode": "unknown"
+    },
+    {
+      "runs": [
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "existing": {
+            "ms_per10": 0.0107449125,
+            "bytes_per10": 42000.0,
+            "rounds_ms": [
+              0.0088716,
+              0.011551725,
+              0.0099381,
+              0.014548025
+            ],
+            "rounds_bytes": [
+              42000.0,
+              42000.0,
+              42000.0,
+              42000.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "existing": {
+            "ms_per10": 0.009285975,
+            "bytes_per10": 42000.0,
+            "rounds_ms": [
+              0.00917505,
+              0.0093887,
+              0.009408875,
+              0.00918325
+            ],
+            "rounds_bytes": [
+              42000.0,
+              42000.0,
+              42000.0,
+              42000.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "existing": {
+            "ms_per10": 0.0091150125,
+            "bytes_per10": 42000.0,
+            "rounds_ms": [
+              0.009166675,
+              0.009306925,
+              0.00906335,
+              0.00900805
+            ],
+            "rounds_bytes": [
+              42000.0,
+              42000.0,
+              42000.0,
+              42000.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "existing": {
+            "ms_per10": 0.008958075,
+            "bytes_per10": 42000.0,
+            "rounds_ms": [
+              0.009113925,
+              0.009020525,
+              0.0088313,
+              0.008895625
+            ],
+            "rounds_bytes": [
+              42000.0,
+              42000.0,
+              42000.0,
+              42000.0
+            ]
+          }
+        }
+      ],
+      "mode": "existing"
+    },
+    {
+      "runs": [
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "named": {
+            "ms_per10": 0.039025275,
+            "bytes_per10": 227360.0,
+            "rounds_ms": [
+              0.039125275,
+              0.04024865,
+              0.0387815,
+              0.038925275
+            ],
+            "rounds_bytes": [
+              227360.0,
+              227360.0,
+              227360.0,
+              227360.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "named": {
+            "ms_per10": 0.0088090625,
+            "bytes_per10": 40360.0,
+            "rounds_ms": [
+              0.01077825,
+              0.008833825,
+              0.0087843,
+              0.0086995
+            ],
+            "rounds_bytes": [
+              40712.112,
+              40360.0,
+              40360.0,
+              40360.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "named": {
+            "ms_per10": 0.0085160375,
+            "bytes_per10": 40360.0,
+            "rounds_ms": [
+              0.008470675,
+              0.008419725,
+              0.00865225,
+              0.0085614
+            ],
+            "rounds_bytes": [
+              40360.0,
+              40360.0,
+              40360.0,
+              40360.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "named": {
+            "ms_per10": 0.038969275,
+            "bytes_per10": 226720.0,
+            "rounds_ms": [
+              0.0389297,
+              0.040465825,
+              0.03900885,
+              0.03863405
+            ],
+            "rounds_bytes": [
+              226720.0,
+              226720.0,
+              226720.0,
+              226720.0
+            ]
+          }
+        }
+      ],
+      "mode": "named"
+    },
+    {
+      "runs": [
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "duration": {
+            "ms_per10": 0.04116485,
+            "bytes_per10": 230880.0,
+            "rounds_ms": [
+              0.041143375,
+              0.04116115,
+              0.04116855,
+              0.04151185
+            ],
+            "rounds_bytes": [
+              230880.0,
+              230880.0,
+              230880.0,
+              230880.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "duration": {
+            "ms_per10": 0.0134090875,
+            "bytes_per10": 60600.0,
+            "rounds_ms": [
+              0.013427475,
+              0.01295975,
+              0.0133907,
+              0.014067925
+            ],
+            "rounds_bytes": [
+              60600.0,
+              60600.0,
+              60600.0,
+              60600.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "duration": {
+            "ms_per10": 0.01369155,
+            "bytes_per10": 60600.0,
+            "rounds_ms": [
+              0.01415275,
+              0.0129707,
+              0.013691375,
+              0.013691725
+            ],
+            "rounds_bytes": [
+              60600.0,
+              60600.0,
+              60600.0,
+              60600.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "duration": {
+            "ms_per10": 0.040949925,
+            "bytes_per10": 230880.0,
+            "rounds_ms": [
+              0.0409277,
+              0.04097215,
+              0.04081485,
+              0.0411294
+            ],
+            "rounds_bytes": [
+              230880.0,
+              230880.0,
+              230880.0,
+              230880.0
+            ]
+          }
+        }
+      ],
+      "mode": "duration"
+    },
+    {
+      "runs": [
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "contest": {
+            "ms_per10": 0.0449385125,
+            "bytes_per10": 240400.0,
+            "rounds_ms": [
+              0.04404535,
+              0.045831675,
+              0.043895875,
+              0.04634415
+            ],
+            "rounds_bytes": [
+              240400.0,
+              240400.0,
+              240400.0,
+              240400.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "contest": {
+            "ms_per10": 0.0132810125,
+            "bytes_per10": 61680.0,
+            "rounds_ms": [
+              0.013158925,
+              0.0134031,
+              0.012803175,
+              0.013464225
+            ],
+            "rounds_bytes": [
+              61680.0,
+              61680.0,
+              61680.0,
+              61680.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.70-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "contest": {
+            "ms_per10": 0.0133835,
+            "bytes_per10": 61680.0,
+            "rounds_ms": [
+              0.015406275,
+              0.014136925,
+              0.0124991,
+              0.012630075
+            ],
+            "rounds_bytes": [
+              61680.0,
+              61680.0,
+              61680.0,
+              61680.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "Same inputs,isolated fresh JVM;unknown/existing same useful output;named/duration/contest produce additional reviewed output in70. Receipt only;not FPS.",
+          "contest": {
+            "ms_per10": 0.04535665,
+            "bytes_per10": 238720.0,
+            "rounds_ms": [
+              0.045227075,
+              0.04599535,
+              0.04535405,
+              0.04535925
+            ],
+            "rounds_bytes": [
+              238720.0,
+              238720.0,
+              238720.0,
+              238720.0
+            ]
+          }
+        }
+      ],
+      "mode": "contest"
+    }
+  ],
+  "actual_game_fps_measured": false,
+  "zero_fps_impact_proven": false,
+  "scope": "20 fresh JVMs,69/70/70/69 per case;20000 warmup/4x4000 measured batches of10;all timing/allocation rounds retained;receipt cost not FPS;new positives do more useful work",
+  "root": "C:\\Users\\Wither\\Documents\\Codex\\2026-10-09\\referenced-chatgpt-conversation-this-is-an-3\\work\\rebuild\\WitherSkyRU\\build\\npc-benchmark70-b23ab81c363c4856994f8962852d9ade",
+  "date": "2026-10-15",
+  "results": [
+    {
+      "before_microseconds_per_input": [
+        4.02023625,
+        3.9244562499999995
+      ],
+      "after_microseconds_per_input": [
+        3.8591162499999996,
+        3.89619125
+      ],
+      "equal_useful_output": true,
+      "cpu_percent": [
+        -4.007724670409607,
+        -0.7202271652282932
+      ],
+      "mode": "unknown"
+    },
+    {
+      "before_microseconds_per_input": [
+        1.0744912500000001,
+        0.8958075
+      ],
+      "after_microseconds_per_input": [
+        0.9285975,
+        0.91150125
+      ],
+      "equal_useful_output": true,
+      "cpu_percent": [
+        -13.577937465754141,
+        1.7519109853400439
+      ],
+      "mode": "existing"
+    },
+    {
+      "before_microseconds_per_input": [
+        3.9025274999999997,
+        3.8969275
+      ],
+      "after_microseconds_per_input": [
+        0.8809062499999999,
+        0.85160375
+      ],
+      "equal_useful_output": false,
+      "cpu_percent": [
+        -77.42728910942972,
+        -78.14679000314992
+      ],
+      "mode": "named"
+    },
+    {
+      "before_microseconds_per_input": [
+        4.116485,
+        4.0949925
+      ],
+      "after_microseconds_per_input": [
+        1.34090875,
+        1.3691550000000001
+      ],
+      "equal_useful_output": false,
+      "cpu_percent": [
+        -67.42588033237095,
+        -66.56514022919455
+      ],
+      "mode": "duration"
+    },
+    {
+      "before_microseconds_per_input": [
+        4.49385125,
+        4.535665
+      ],
+      "after_microseconds_per_input": [
+        1.32810125,
+        1.33835
+      ],
+      "equal_useful_output": false,
+      "cpu_percent": [
+        -70.44625698280511,
+        -70.49275023618367
+      ],
+      "mode": "contest"
+    }
+  ],
+  "jar_sha256": "32AFF41415A452DCF90AE7D02956F7BC33F0F96725206C13CDDEFB0F66CF3DA5"
+}

@@ -1,0 +1,40 @@
+{
+  "scope": "Existing exact source wins;no old target overwritten or claimed as new",
+  "records": [
+    {
+      "source": "[NPC] Arthur: My wheat minion has been slacking recently, I am thinking about giving it an upgrade. He hasn't produced any wheat in years! Every time I check on him, he's empty.",
+      "reviewed_target": "[NPC] Arthur: Мой пшеничный миньон совсем обленился. Думаю его улучшить: он уже целую вечность не производит пшеницу! Сколько ни проверяю — всегда пусто.",
+      "existing_target": "[NPC] Arthur: Мой пшеничный миньон совсем обленился. Думаю его улучшить: он уже целую вечность не добывает пшеницу! Проверяю его — а он снова пустой."
+    },
+    {
+      "source": "[NPC] Arthur: Holy Macaroni! That should boost my minion to at least Tier 5! Thank you a lot!",
+      "reviewed_target": "[NPC] Arthur: Вот это да! Теперь мой миньон точно достигнет хотя бы 5-го уровня! Огромное спасибо!",
+      "existing_target": "[NPC] Arthur: Вот это да! Теперь мой миньон сможет достичь как минимум уровня 5! Огромное спасибо!"
+    },
+    {
+      "source": "[NPC] Susan: Processing your registration...",
+      "reviewed_target": "[NPC] Susan: Оформляю твою регистрацию...",
+      "existing_target": "[NPC] Susan: Оформляю вашу регистрацию..."
+    },
+    {
+      "source": "[NPC] Susan: Brigette is waiting for you in the Security Hall. Better not keep her waiting!",
+      "reviewed_target": "[NPC] Susan: Бриджет ждёт тебя в Зале охраны. Не заставляй её ждать!",
+      "existing_target": "[NPC] Susan: Brigette ждёт вас в Зале охраны. Лучше не заставлять её ждать!"
+    },
+    {
+      "source": "[NPC] Lucius: You've purchased 7 items from the Dark Auction.",
+      "reviewed_target": "[NPC] Lucius: Ты купил 7 вещей на Тёмном аукционе.",
+      "existing_target": "[NPC] Lucius: Ты купил 7 предметов на Тёмном аукционе."
+    },
+    {
+      "source": "[NPC] Bartender: I want to make some new brews, do you think you can give me some ingredients to work with?",
+      "reviewed_target": "[NPC] Bartender: Хочу приготовить новые напитки. Не поделишься ингредиентами?",
+      "existing_target": "[NPC] Bartender: Хочу приготовить новые напитки. Не найдётся ли у тебя подходящих ингредиентов?"
+    },
+    {
+      "source": "[NPC] Bartender: Many Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course.",
+      "reviewed_target": "[NPC] Bartender: Большое спасибо! Когда всё будет готово, ты попробуешь первым... Со скидкой, разумеется.",
+      "existing_target": "[NPC] Bartender: Большое спасибо! Как только всё будет готово, дам тебе попробовать первым... Разумеется, со скидкой."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": "0.15.113-dev",
+  "runtime_jar_sha256": "4350073540D2C94A291C9D8B9390D9BFA731C2F26B337487741AB5D10768A1BE",
+  "exact_keys": 13745,
+  "total_frozen": 16244,
+  "exact_percent": 84.61585816301404,
+  "without_exact_key": 2499,
+  "new_exact_keys": 1,
+  "new_bounded_patterns": 93,
+  "published_color_repairs": 2,
+  "new_template_resource_rules": 95,
+  "new_numeric_rules": 79,
+  "new_username_rules": 16,
+  "prior_name_rules": 135,
+  "combined_rules": 230,
+  "archival_rules_in_new_resource": 4,
+  "retained_old_patterns_not_new": 13,
+  "speaker_labels": 44,
+  "fresh_test_groups": 186,
+  "parser_tests": 15,
+  "new_assertions": 918356,
+  "primary_cases": 96,
+  "published_layouts": 96,
+  "pinned_pages": 45,
+  "historical_test_sources_unchanged": 294,
+  "isolated_expectation_files": 37,
+  "byte_identical_runtime_classes": 120,
+  "render_hud_and_client_dispatch_byte_identical": true,
+  "method_differences": {
+    "ru.wither.skyru.NpcDialogueTranslator": [
+      "public static ru.wither.skyru.NpcDialogueTranslator storyDialogues() throws java.io.IOException;"
+    ],
+    "ru.wither.skyru.ChatNotificationTranslator": [
+      "private java.util.List<ru.wither.skyru.ChatNotificationTranslator$Edit> planNpcRequest(java.lang.String);"
+    ],
+    "ru.wither.skyru.NamedNpcTemplates": [
+      "java.util.List<ru.wither.skyru.ChatNotificationTranslator$Edit> plan(java.lang.String, ru.wither.skyru.OfflineDictionary);",
+      "private static boolean number(java.lang.String, int, int, int);",
+      "ru.wither.skyru.NamedNpcTemplates();"
+    ]
+  },
+  "performance_not_fps": {
+    "scope": "Isolated receipt,not FPS/frame-time/0.1%low;startup and added useful work not measured.",
+    "modes": 17,
+    "both_orders_slower_over5": [],
+    "min_wall_change_percent": -11.488300548184927,
+    "max_wall_change_percent": 6.932940550126698,
+    "max_absolute_allocation_delta_bytes": 72.0,
+    "all_raw_retained": true
+  },
+  "long_performance_not_fps": {
+    "scope": "Isolated receipt,not FPS/frame-time/0.1%low;startup and added useful work not measured.",
+    "modes": 6,
+    "both_orders_slower_over5": [],
+    "min_wall_change_percent": 0.26092387930489735,
+    "max_wall_change_percent": 10.404432547332632,
+    "max_absolute_allocation_delta_bytes": 0.0,
+    "all_raw_retained": true
+  },
+  "installed_pack_modified": false,
+  "game_fps_measured": false
+}

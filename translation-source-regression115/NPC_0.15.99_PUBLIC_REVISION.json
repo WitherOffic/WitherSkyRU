@@ -1,0 +1,544 @@
+{
+  "checked_at": "2026-10-19T12:33:12.277511+07:00",
+  "api_url": "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Argofay+Trafficker%7CAvorius%7CBomin%7CCentauri%7CChipper+McPickaxe%7CCrag%7CDirt+Guy%7CFake+Enigma+Soul%7CFriendly+Hiker%7CGeonathan+Greatforge%7CGimley%7CHelia%7CHoney%7CHornum%7CIke%7CKiermet%7CLift+Operator%7CNicole%7CPesthunter+Pamela%7CPlate%7CResearcher+Gilbert%7CRibbit%7CRock%7CSargwyn%7CShen+Albedo%7CShen+Rubedo%7CShepherd%7CSludge+%28NPC%29%7CTalbot%7CTalia%7CTarwen%7CThree+Bears%7CTomioka%7CTony%7CUdium%7CVulcan%7CWindmill+Operator%7CWorker+Xavier&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+  "matches_pinned_corpus": false,
+  "expected": {
+    "Argofay Trafficker": 812553,
+    "Avorius": 815475,
+    "Bomin": 787573,
+    "Centauri": 824135,
+    "Chipper McPickaxe": 812882,
+    "Crag": 835613,
+    "Dirt Guy": 817716,
+    "Fake Enigma Soul": 847317,
+    "Friendly Hiker": 788710,
+    "Geonathan Greatforge": 788787,
+    "Gimley": 788822,
+    "Helia": 839603,
+    "Honey": 828537,
+    "Hornum": 789106,
+    "Ike": 789190,
+    "Kiermet": 813874,
+    "Lift Operator": 823091,
+    "Nicole": 814235,
+    "Pesthunter Pamela": 859320,
+    "Plate": 790076,
+    "Researcher Gilbert": 851601,
+    "Ribbit": 852311,
+    "Rock": 790382,
+    "Sargwyn": 790482,
+    "Shen Albedo": 790600,
+    "Shen Rubedo": 790604,
+    "Shepherd": 790609,
+    "Sludge (NPC)": 812334,
+    "Talbot": 830497,
+    "Talia": 807980,
+    "Tarwen": 791045,
+    "Three Bears": 791126,
+    "Tomioka": 830500,
+    "Tony": 830501,
+    "Udium": 832613,
+    "Vulcan": 830506,
+    "Windmill Operator": 847545,
+    "Worker Xavier": 823060
+  },
+  "actual": {
+    "Lift Operator": 823091,
+    "Tomioka": 830500,
+    "Worker Xavier": 823060,
+    "Dirt Guy": 817716,
+    "Hornum": 789106,
+    "Sargwyn": 790482,
+    "Gimley": 788822,
+    "Tarwen": 791045,
+    "Shepherd": 790609,
+    "Friendly Hiker": 788710,
+    "Tony": 830501,
+    "Windmill Operator": 847545,
+    "Three Bears": 791126,
+    "Sludge (NPC)": 812334,
+    "Geonathan Greatforge": 788787,
+    "Avorius": 815475,
+    "Crag": 835613,
+    "Nicole": 814235,
+    "Talbot": 830497,
+    "Vulcan": 830506,
+    "Centauri": 824135,
+    "Argofay Trafficker": 812553,
+    "Ribbit": 852311,
+    "Kiermet": 813874,
+    "Udium": 832613,
+    "Rock": 790382,
+    "Pesthunter Pamela": 859320,
+    "Fake Enigma Soul": 847317,
+    "Chipper McPickaxe": 812882,
+    "Bomin": 787573,
+    "Talia": 807980,
+    "Ike": 789190,
+    "Shen Albedo": 790600,
+    "Shen Rubedo": 790604,
+    "Plate": 790076,
+    "Researcher Gilbert": 851601,
+    "Helia": 839603,
+    "Honey": 859857
+  },
+  "pages": [
+    {
+      "pageid": 2218,
+      "ns": 0,
+      "title": "Lift Operator",
+      "revisions": [
+        {
+          "revid": 823091,
+          "parentid": 789445,
+          "timestamp": "2026-08-24T05:33:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 56858,
+      "ns": 0,
+      "title": "Tomioka",
+      "revisions": [
+        {
+          "revid": 830500,
+          "parentid": 820012,
+          "timestamp": "2026-09-03T01:32:49Z"
+        }
+      ]
+    },
+    {
+      "pageid": 61251,
+      "ns": 0,
+      "title": "Worker Xavier",
+      "revisions": [
+        {
+          "revid": 823060,
+          "parentid": 791512,
+          "timestamp": "2026-08-24T05:17:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76794,
+      "ns": 0,
+      "title": "Dirt Guy",
+      "revisions": [
+        {
+          "revid": 817716,
+          "parentid": 813084,
+          "timestamp": "2026-08-11T23:00:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 78412,
+      "ns": 0,
+      "title": "Hornum",
+      "revisions": [
+        {
+          "revid": 789106,
+          "parentid": 717476,
+          "timestamp": "2026-07-24T00:14:24Z"
+        }
+      ]
+    },
+    {
+      "pageid": 78413,
+      "ns": 0,
+      "title": "Sargwyn",
+      "revisions": [
+        {
+          "revid": 790482,
+          "parentid": 719000,
+          "timestamp": "2026-07-24T01:00:24Z"
+        }
+      ]
+    },
+    {
+      "pageid": 78414,
+      "ns": 0,
+      "title": "Gimley",
+      "revisions": [
+        {
+          "revid": 788822,
+          "parentid": 717163,
+          "timestamp": "2026-07-24T00:04:06Z"
+        }
+      ]
+    },
+    {
+      "pageid": 78415,
+      "ns": 0,
+      "title": "Tarwen",
+      "revisions": [
+        {
+          "revid": 791045,
+          "parentid": 719635,
+          "timestamp": "2026-07-24T01:20:07Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79419,
+      "ns": 0,
+      "title": "Shepherd",
+      "revisions": [
+        {
+          "revid": 790609,
+          "parentid": 754883,
+          "timestamp": "2026-07-24T01:04:29Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79463,
+      "ns": 0,
+      "title": "Friendly Hiker",
+      "revisions": [
+        {
+          "revid": 788710,
+          "parentid": 786156,
+          "timestamp": "2026-07-24T00:00:05Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79529,
+      "ns": 0,
+      "title": "Tony",
+      "revisions": [
+        {
+          "revid": 830501,
+          "parentid": 815087,
+          "timestamp": "2026-09-03T01:32:53Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79759,
+      "ns": 0,
+      "title": "Windmill Operator",
+      "revisions": [
+        {
+          "revid": 847545,
+          "parentid": 816551,
+          "timestamp": "2026-09-28T15:19:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82381,
+      "ns": 0,
+      "title": "Three Bears",
+      "revisions": [
+        {
+          "revid": 791126,
+          "parentid": 733701,
+          "timestamp": "2026-07-24T01:22:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82459,
+      "ns": 0,
+      "title": "Sludge (NPC)",
+      "revisions": [
+        {
+          "revid": 812334,
+          "parentid": 790716,
+          "timestamp": "2026-08-11T17:54:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82510,
+      "ns": 0,
+      "title": "Geonathan Greatforge",
+      "revisions": [
+        {
+          "revid": 788787,
+          "parentid": 717128,
+          "timestamp": "2026-07-24T00:02:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91476,
+      "ns": 0,
+      "title": "Avorius",
+      "revisions": [
+        {
+          "revid": 815475,
+          "parentid": 812589,
+          "timestamp": "2026-08-11T20:13:23Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91852,
+      "ns": 0,
+      "title": "Crag",
+      "revisions": [
+        {
+          "revid": 835613,
+          "parentid": 831550,
+          "timestamp": "2026-09-08T17:07:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92417,
+      "ns": 0,
+      "title": "Nicole",
+      "revisions": [
+        {
+          "revid": 814235,
+          "parentid": 789864,
+          "timestamp": "2026-08-11T19:36:56Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96553,
+      "ns": 0,
+      "title": "Talbot",
+      "revisions": [
+        {
+          "revid": 830497,
+          "parentid": 791017,
+          "timestamp": "2026-09-03T01:32:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96935,
+      "ns": 0,
+      "title": "Vulcan",
+      "revisions": [
+        {
+          "revid": 830506,
+          "parentid": 815264,
+          "timestamp": "2026-09-03T01:33:22Z"
+        }
+      ]
+    },
+    {
+      "pageid": 97546,
+      "ns": 0,
+      "title": "Centauri",
+      "revisions": [
+        {
+          "revid": 824135,
+          "parentid": 817815,
+          "timestamp": "2026-08-26T01:55:26Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98599,
+      "ns": 0,
+      "title": "Argofay Trafficker",
+      "revisions": [
+        {
+          "revid": 812553,
+          "parentid": 794672,
+          "timestamp": "2026-08-11T18:53:05Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98752,
+      "ns": 0,
+      "title": "Ribbit",
+      "revisions": [
+        {
+          "revid": 852311,
+          "parentid": 814548,
+          "timestamp": "2026-10-06T14:13:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98753,
+      "ns": 0,
+      "title": "Kiermet",
+      "revisions": [
+        {
+          "revid": 813874,
+          "parentid": 794733,
+          "timestamp": "2026-08-11T19:28:31Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99960,
+      "ns": 0,
+      "title": "Udium",
+      "revisions": [
+        {
+          "revid": 832613,
+          "parentid": 791270,
+          "timestamp": "2026-09-05T21:58:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100535,
+      "ns": 0,
+      "title": "Rock",
+      "revisions": [
+        {
+          "revid": 790382,
+          "parentid": 754707,
+          "timestamp": "2026-07-24T00:57:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 101428,
+      "ns": 0,
+      "title": "Pesthunter Pamela",
+      "revisions": [
+        {
+          "revid": 859320,
+          "parentid": 859290,
+          "timestamp": "2026-10-15T20:09:13Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105207,
+      "ns": 0,
+      "title": "Fake Enigma Soul",
+      "revisions": [
+        {
+          "revid": 847317,
+          "parentid": 817396,
+          "timestamp": "2026-09-28T05:00:53Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105218,
+      "ns": 0,
+      "title": "Chipper McPickaxe",
+      "revisions": [
+        {
+          "revid": 812882,
+          "parentid": 787825,
+          "timestamp": "2026-08-11T19:03:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107372,
+      "ns": 0,
+      "title": "Bomin",
+      "revisions": [
+        {
+          "revid": 787573,
+          "parentid": 715798,
+          "timestamp": "2026-07-23T22:31:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107591,
+      "ns": 0,
+      "title": "Talia",
+      "revisions": [
+        {
+          "revid": 807980,
+          "parentid": 791018,
+          "timestamp": "2026-08-05T20:34:57Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107644,
+      "ns": 0,
+      "title": "Ike",
+      "revisions": [
+        {
+          "revid": 789190,
+          "parentid": 717553,
+          "timestamp": "2026-07-24T00:17:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108671,
+      "ns": 0,
+      "title": "Shen Albedo",
+      "revisions": [
+        {
+          "revid": 790600,
+          "parentid": 754878,
+          "timestamp": "2026-07-24T01:04:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108674,
+      "ns": 0,
+      "title": "Shen Rubedo",
+      "revisions": [
+        {
+          "revid": 790604,
+          "parentid": 754882,
+          "timestamp": "2026-07-24T01:04:21Z"
+        }
+      ]
+    },
+    {
+      "pageid": 111486,
+      "ns": 0,
+      "title": "Plate",
+      "revisions": [
+        {
+          "revid": 790076,
+          "parentid": 754429,
+          "timestamp": "2026-07-24T00:46:14Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116375,
+      "ns": 0,
+      "title": "Researcher Gilbert",
+      "revisions": [
+        {
+          "revid": 851601,
+          "parentid": 832782,
+          "timestamp": "2026-10-05T14:37:29Z"
+        }
+      ]
+    },
+    {
+      "pageid": 130556,
+      "ns": 0,
+      "title": "Helia",
+      "revisions": [
+        {
+          "revid": 839603,
+          "parentid": 828525,
+          "timestamp": "2026-09-13T04:37:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133267,
+      "ns": 0,
+      "title": "Honey",
+      "revisions": [
+        {
+          "revid": 859857,
+          "parentid": 828537,
+          "timestamp": "2026-10-17T06:09:06Z"
+        }
+      ]
+    }
+  ],
+  "private_or_unpublished_dialogue_known": false
+}

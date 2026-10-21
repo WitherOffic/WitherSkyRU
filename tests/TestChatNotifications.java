@@ -38,7 +38,26 @@ public class TestChatNotifications {
     public static void main(String[] args) throws Exception {
         var db = new OfflineDictionary(Path.of(args[0])); db.setRecordUnknown(false);
         translator = new ChatNotificationTranslator(db);
-        check("families", translator.familyCount() == 11);
+        check("families", translator.familyCount() == 36);
+        eq("You haven't claimed your Spooky Rewards yet!", "Вы ещё не забрали награды Жуткого фестиваля!");
+        eq("Talk to the Spooky Man in the Hub!", "Поговорите с Жутким человеком в Хабе!");
+        eq("Teleported you to The Barn!", "Перемещение: Амбар!");
+        eq("[SkyHanni] You have 2 items in stash. Click to pickup your stash!", "[SkyHanni] В тайнике: 2 предмета. Нажмите, чтобы забрать вещи!");
+        eq("Started pasting Cactus preset on Garden Plot - 7!", "Начато размещение шаблона «Кактус» на участке Сада № 7!");
+        eq("Remember, you have to be on the island for the resources to be planted!", "Для размещения ресурсов вы должны оставаться на острове!");
+        eq("Your Dolphin is Ready to pick up! [call]", "Ваш питомец «Дельфин» готов к получению! [ЗАБРАТЬ]");
+        eq("You need the Cookie Buff to use this feature!", "Для этой функции нужен эффект печенья!");
+        eq("Obtain a Booster Cookie from the community shop in the hub!", "Получите печенье-усилитель в общественном магазине в Хабе!");
+        eq("[DropVision] v3.2.5+26.1.2 loaded  |  Detection OFF · 7/7 rarities · Bazaar + Auction pricing  |  /dp gui",
+            "[DropVision] v3.2.5+26.1.2 загружен  |  Распознавание ВЫКЛ · 7/7 редкостей · Цены Базара и аукциона  |  /dp gui");
+        eq("[03:32:52] [SkyHanni] §eYou have §62 §eitems in stash. §eClick to §6pickup §eyour stash!",
+            "[03:32:52] [SkyHanni] В тайнике: 2 предмета. Нажмите, чтобы забрать вещи!");
+        for(int count=0;count<=250;count++) {
+            int tail=count%100,last=count%10;
+            String noun=tail>=11 && tail<=14?"предметов":last==1?"предмет":last>=2 && last<=4?"предмета":"предметов";
+            eq("[SkyHanni] You have "+count+" items in stash. Click to pickup your stash!",
+                "[SkyHanni] В тайнике: "+count+" "+noun+". Нажмите, чтобы забрать вещи!");
+        }
         eq("RARE DROP! Goblin Egg (+23  Magic Find)", "РЕДКАЯ ДОБЫЧА! Яйцо гоблина (+23  Шанс редкой добычи)");
         eq("[01:56:46] RARE DROP! Goblin Leggings (+23 ★ Magic Find)", "[01:56:46] РЕДКАЯ ДОБЫЧА! Поножи гоблина (+23 ★ Шанс редкой добычи)");
         eq("The [Goblin  head]Goblin was carrying a bag of coins! +6,240 Coins!", "У [Goblin  head]гоблина был мешок монет! +6,240 монет!");
@@ -54,6 +73,16 @@ public class TestChatNotifications {
         eq("[Sacks] +4 items. (Last 5s.) (x2)", "[Мешки] +4 предмета. (За 5 с.) (x2)");
         eq("[Sacks] +1 items. (Last 0.5s.)", "[Мешки] +1 предмет. (За 0.5 с.)");
         eq("[Sacks] +11 items. (Last 5s.)", "[Мешки] +11 предметов. (За 5 с.)");
+        eq("[Sacks] +1 item. (Last 5s.)", "[Мешки] +1 предмет. (За 5 с.)");
+        eq("[Sacks] +20,032 items, -20,160 items. (Last 13s.)", "[Мешки] +20,032 предмета, -20,160 предметов. (За 13 с.)");
+        eq("[Sacks] +30,866 items, -20,160 items. (Last 8s.)", "[Мешки] +30,866 предметов, -20,160 предметов. (За 8 с.)");
+        eq("[Sacks] +1 item, -22 items. (Last 0.5s.) (×3)", "[Мешки] +1 предмет, -22 предмета. (За 0.5 с.) (×3)");
+        for (int count = 0; count <= 250; count++) {
+            int tail = count % 100, last = count % 10;
+            String word = tail >= 11 && tail <= 14 ? "предметов" : last == 1 ? "предмет" : last >= 2 && last <= 4 ? "предмета" : "предметов";
+            eq("[Sacks] +" + count + " items, -" + count + " items. (Last 5s.)",
+                "[Мешки] +" + count + " " + word + ", -" + count + " " + word + ". (За 5 с.)");
+        }
         eq("BESTIARY Goblin reached Tier 10!", "БЕСТИАРИЙ Гоблин: ступень 10!");
         eq("[02:01:03] You reached a 11 Kill Combo!", "[02:01:03] Вы достигли серии из 11 убийств!");
         eq("You reached a 21 Kill Combo!", "Вы достигли серии из 21 убийства!");
@@ -68,6 +97,64 @@ public class TestChatNotifications {
         var click = new ClickEvent.RunCommand("/warp hub");
         Style item = Style.EMPTY.withColor(0x55ffff).withHoverEvent(hover);
         Style action = Style.EMPTY.withColor(0xffff55).withClickEvent(click);
+        Component sacks = Component.empty().append(Component.literal("[Sacks] ").setStyle(action))
+            .append(Component.literal("+20,032 items").setStyle(item))
+            .append(Component.literal(", ").setStyle(action))
+            .append(Component.literal("-20,160 items").setStyle(action))
+            .append(Component.literal(". (Last 13s.)").setStyle(item));
+        Component sacksRu = translate(sacks);
+        check("dual sacks styled text", sacksRu.getString().equals("[Мешки] +20,032 предмета, -20,160 предметов. (За 13 с.)"));
+        check("sacks positive style", styleAt(sacksRu, "предмета").equals(item));
+        check("sacks negative style", styleAt(sacksRu, "предметов").equals(action));
+        check("sacks elapsed time style", styleAt(sacksRu, "13").equals(item));
+        var collectPet = new ClickEvent.RunCommand("/petmenu");
+        Component pet = Component.empty().append(Component.literal("Your ").setStyle(action))
+            .append(Component.literal("Dolphin").setStyle(item))
+            .append(Component.literal(" is Ready to pick up! ").setStyle(action))
+            .append(Component.literal("[call]").setStyle(item.withClickEvent(collectPet)));
+        Component petRu=translate(pet);
+        check("pet display translation",petRu.getString().equals("Ваш питомец «Дельфин» готов к получению! [ЗАБРАТЬ]"));
+        check("pet button keeps command",styleAt(petRu,"[ЗАБРАТЬ]").getClickEvent()==collectPet);
+        check("pet name keeps hover",styleAt(petRu,"Дельфин").getHoverEvent()==hover);
+        Component cookie=Component.empty().append(Component.literal("You need the ").setStyle(action))
+            .append(Component.literal("Cookie Buff").setStyle(item))
+            .append(Component.literal(" to use this feature!").setStyle(action));
+        check("cookie styled clauses",translate(cookie).getString().equals("Для этой функции нужен эффект печенья!"));
+        check("cookie term style/hover",styleAt(translate(cookie),"эффект печенья").equals(item));
+        Component festival=Component.empty().append(Component.literal("Talk to the ").setStyle(action))
+            .append(Component.literal("Spooky Man").setStyle(item))
+            .append(Component.literal(" in the ").setStyle(action))
+            .append(Component.literal("Hub").setStyle(item)).append(Component.literal("!").setStyle(action));
+        check("NPC objective declension",translate(festival).getString().equals("Поговорите с Жутким человеком в Хабе!"));
+        check("NPC objective styles",styleAt(translate(festival),"Жутким").equals(item));
+        Component paste=Component.empty().append(Component.literal("Started pasting ").setStyle(action))
+            .append(Component.literal("Cactus").setStyle(item))
+            .append(Component.literal(" preset on Garden Plot - ").setStyle(action))
+            .append(Component.literal("7").setStyle(item)).append(Component.literal("!").setStyle(action));
+        check("crop translated with plot ID",translate(paste).getString().equals("Начато размещение шаблона «Кактус» на участке Сада № 7!"));
+        check("crop hover retained",styleAt(translate(paste),"Кактус").getHoverEvent()==hover);
+        check("plot ID style retained",styleAt(translate(paste),"7").equals(item));
+        var pickup=new ClickEvent.RunCommand("/pickupstash");
+        Component stash=Component.empty().append(Component.literal("[SkyHanni] You have ").setStyle(action))
+            .append(Component.literal("2").setStyle(item))
+            .append(Component.literal(" items in stash. Click to ").setStyle(action))
+            .append(Component.literal("pickup").setStyle(item.withClickEvent(pickup)))
+            .append(Component.literal(" your stash!").setStyle(action));
+        check("stash coloured number retained",styleAt(translate(stash),"2").equals(item));
+        check("stash pickup command retained",styleAt(translate(stash),"забрать").getClickEvent()==pickup);
+        for(Component notification:java.util.List.of(pet,cookie,festival,paste,stash)) {
+            check("new player channel excluded",translator.translate(notification,GuiMessageSource.PLAYER,false)==notification);
+            check("new signed channel excluded",translator.translate(notification,GuiMessageSource.SYSTEM_SERVER,true)==notification);
+            check("new local mod channel supported",translator.translate(notification,GuiMessageSource.SYSTEM_CLIENT,false)!=notification);
+        }
+        Component ambiguousCookie=Component.literal("You need the Cookie ").setStyle(action)
+            .append(Component.literal("Buff").setStyle(item))
+            .append(Component.literal(" to use this feature!").setStyle(action));
+        check("mixed semantic term fails closed",translate(ambiguousCookie)==ambiguousCookie);
+        Component unknownAction=Component.literal("Your Dolphin is Ready to pick up! [run /op]");
+        check("unknown pet action excluded",translate(unknownAction)==unknownAction);
+        Component playerShape=Component.literal("[VIP] Wither: You need the Cookie Buff to use this feature!");
+        check("new rank-prefixed player text excluded",translate(playerShape)==playerShape);
         Component combo = Component.literal("You reached a ").withColor(0xffff55)
             .append(Component.literal("10").setStyle(action))
             .append(Component.literal(" Kill Combo!").withColor(0xffff55));
@@ -139,6 +226,6 @@ public class TestChatNotifications {
         check("config switch disables notifications", SkyRuClient.npcChat(queue) == queue);
         Component npc = Component.literal("[NPC] Swoop: Wow! I forgot to tell you, monsters around here can only take damage from Axes!");
         check("NPC independent of notification switch", SkyRuClient.npcChat(new GuiMessage(1, npc, null, GuiMessageSource.SYSTEM_SERVER, null)).content().getString().contains("топорами"));
-        System.out.println("PASS: chat notifications " + passed + " assertions; 11 families");
+        System.out.println("PASS: chat notifications " + passed + " assertions; " + translator.familyCount() + " families");
     }
 }

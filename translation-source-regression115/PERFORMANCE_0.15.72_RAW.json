@@ -1,0 +1,5305 @@
+{
+  "main": {
+    "summary": [
+      {
+        "orders": [
+          {
+            "before_bytes": 395.2,
+            "before_thread_cpu_ns": 195.3125,
+            "after_ns": 107.73625000000001,
+            "after_bytes": 289.6,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 0.0,
+            "cpu_change_percent": -32.7798532198816,
+            "before_ns": 160.27375,
+            "thread_cpu_change_percent": -100.0
+          },
+          {
+            "before_bytes": 395.2,
+            "before_thread_cpu_ns": 0.0,
+            "after_ns": 113.22125,
+            "after_bytes": 289.6,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 0.0,
+            "cpu_change_percent": -28.018087465132357,
+            "before_ns": 157.29125,
+            "thread_cpu_change_percent": null
+          }
+        ],
+        "mode": "stable_hud"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 1499.2,
+            "before_thread_cpu_ns": 1367.1875,
+            "after_ns": 1326.10375,
+            "after_bytes": 1351.2015000000001,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 1367.1875,
+            "cpu_change_percent": -3.1046466491608693,
+            "before_ns": 1368.59375,
+            "thread_cpu_change_percent": 0.0
+          },
+          {
+            "before_bytes": 1499.2,
+            "before_thread_cpu_ns": 1367.1875,
+            "after_ns": 1315.9575,
+            "after_bytes": 1351.2,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 1367.1875,
+            "cpu_change_percent": -6.634834455058147,
+            "before_ns": 1409.47375,
+            "thread_cpu_change_percent": 0.0
+          }
+        ],
+        "mode": "stable_outside_fresh_context"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 16672.00032,
+            "before_thread_cpu_ns": 6328.125,
+            "after_ns": 6318.885249999999,
+            "after_bytes": 16704.00056,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 6250.0,
+            "cpu_change_percent": -3.1724693751898236,
+            "before_ns": 6525.918,
+            "thread_cpu_change_percent": -1.2345679012345734
+          },
+          {
+            "before_bytes": 16704.00032,
+            "before_thread_cpu_ns": 6523.4375,
+            "after_ns": 6456.36125,
+            "after_bytes": 16704.00056,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 6367.1875,
+            "cpu_change_percent": -4.110234237674282,
+            "before_ns": 6733.10775,
+            "thread_cpu_change_percent": -2.39520958083832
+          }
+        ],
+        "mode": "dynamic_counter"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 736.0,
+            "before_thread_cpu_ns": 195.3125,
+            "after_ns": 98.25874999999999,
+            "after_bytes": 560.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 0.0,
+            "cpu_change_percent": -23.95642878563621,
+            "before_ns": 129.21375,
+            "thread_cpu_change_percent": -100.0
+          },
+          {
+            "before_bytes": 736.0,
+            "before_thread_cpu_ns": 195.3125,
+            "after_ns": 95.38125,
+            "after_bytes": 560.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 0.0,
+            "cpu_change_percent": -26.63474573826763,
+            "before_ns": 130.00875000000002,
+            "thread_cpu_change_percent": -100.0
+          }
+        ],
+        "mode": "fresh_colors_actions"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 1800.0,
+            "before_thread_cpu_ns": 1171.875,
+            "after_ns": 316.7125,
+            "after_bytes": 1000.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 390.625,
+            "cpu_change_percent": -72.59238185690751,
+            "before_ns": 1155.5637499999998,
+            "thread_cpu_change_percent": -66.66666666666667
+          },
+          {
+            "before_bytes": 1800.0,
+            "before_thread_cpu_ns": 1367.1875,
+            "after_ns": 278.065,
+            "after_bytes": 1000.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 195.3125,
+            "cpu_change_percent": -80.11513363725753,
+            "before_ns": 1398.375,
+            "thread_cpu_change_percent": -85.71428571428572
+          }
+        ],
+        "mode": "fragmented16"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 3856.0,
+            "before_thread_cpu_ns": 1171.875,
+            "after_ns": 1331.7150000000001,
+            "after_bytes": 3856.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 1367.1875,
+            "cpu_change_percent": 9.028278097982723,
+            "before_ns": 1221.44,
+            "thread_cpu_change_percent": 16.666666666666675
+          },
+          {
+            "before_bytes": 3856.0,
+            "before_thread_cpu_ns": 1171.875,
+            "after_ns": 1404.7375000000002,
+            "after_bytes": 3856.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 1367.1875,
+            "cpu_change_percent": 15.780277203404424,
+            "before_ns": 1213.27875,
+            "thread_cpu_change_percent": 16.666666666666675
+          }
+        ],
+        "mode": "over_limit_uncached"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 398.4,
+            "before_thread_cpu_ns": 195.3125,
+            "after_ns": 135.88875000000002,
+            "after_bytes": 289.6,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 0.0,
+            "cpu_change_percent": -19.772848034006362,
+            "before_ns": 169.38,
+            "thread_cpu_change_percent": -100.0
+          },
+          {
+            "before_bytes": 398.4,
+            "before_thread_cpu_ns": 195.3125,
+            "after_ns": 139.2425,
+            "after_bytes": 289.6,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 0.0,
+            "cpu_change_percent": -20.23458310657921,
+            "before_ns": 174.565,
+            "thread_cpu_change_percent": -100.0
+          }
+        ],
+        "mode": "stable_hud_consume"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 17144.00032,
+            "before_thread_cpu_ns": 6640.625,
+            "after_ns": 6680.123750000001,
+            "after_bytes": 17168.00056,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 6601.5625,
+            "cpu_change_percent": -1.2046742781779973,
+            "before_ns": 6761.57875,
+            "thread_cpu_change_percent": -0.588235294117645
+          },
+          {
+            "before_bytes": 17168.00032,
+            "before_thread_cpu_ns": 6601.5625,
+            "after_ns": 6991.8232499999995,
+            "after_bytes": 17112.00056,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 6835.9375,
+            "cpu_change_percent": 4.723992244806596,
+            "before_ns": 6676.42925,
+            "thread_cpu_change_percent": 3.5502958579881616
+          }
+        ],
+        "mode": "dynamic_counter_consume"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 736.0,
+            "before_thread_cpu_ns": 195.3125,
+            "after_ns": 124.3025,
+            "after_bytes": 560.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 195.3125,
+            "cpu_change_percent": -24.14103502990359,
+            "before_ns": 163.86,
+            "thread_cpu_change_percent": 0.0
+          },
+          {
+            "before_bytes": 736.0,
+            "before_thread_cpu_ns": 0.0,
+            "after_ns": 150.08875,
+            "after_bytes": 560.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 195.3125,
+            "cpu_change_percent": -12.215325452006521,
+            "before_ns": 170.97375,
+            "thread_cpu_change_percent": null
+          }
+        ],
+        "mode": "fresh_colors_actions_consume"
+      },
+      {
+        "orders": [
+          {
+            "before_bytes": 1800.0,
+            "before_thread_cpu_ns": 1171.875,
+            "after_ns": 389.65,
+            "after_bytes": 1000.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 390.625,
+            "cpu_change_percent": -69.53473325788362,
+            "before_ns": 1278.9975,
+            "thread_cpu_change_percent": -66.66666666666667
+          },
+          {
+            "before_bytes": 1800.0,
+            "before_thread_cpu_ns": 1367.1875,
+            "after_ns": 400.60249999999996,
+            "after_bytes": 1000.0,
+            "legacy_cpu_change_percent_is_wall_time": true,
+            "after_thread_cpu_ns": 390.625,
+            "cpu_change_percent": -69.94628475830017,
+            "before_ns": 1332.955,
+            "thread_cpu_change_percent": -71.42857142857143
+          }
+        ],
+        "mode": "fragmented16_consume"
+      }
+    ],
+    "runtime_hashes": {
+      "0.15.71-dev": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46",
+      "0.15.72-dev": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D"
+    },
+    "scope": "Four isolated JVMs in71,72,72,71 order; all rounds retained. Pure glyph plans with current styles. Microbenchmark, not game FPS/0.1%low/GPU. No live A/B.",
+    "records": [
+      {
+        "results": {
+          "stable_hud": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 160.27375,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 395.2,
+            "rounds_ns": [
+              183.9375,
+              247.6475,
+              136.505,
+              136.61
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              395.2054,
+              395.2,
+              395.2,
+              395.2
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1368.59375,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 1499.2,
+            "rounds_ns": [
+              1374.1025,
+              1448.25,
+              1363.085,
+              1360.155
+            ],
+            "rounds_thread_cpu_ns": [
+              1562.5,
+              1171.875,
+              1562.5,
+              1171.875
+            ],
+            "rounds_bytes": [
+              1499.2,
+              1499.203,
+              1499.2,
+              1499.2
+            ]
+          },
+          "dynamic_counter": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6525.918,
+            "thread_cpu_ns_per_operation": 6328.125,
+            "bytes_per_operation": 16672.00032,
+            "rounds_ns": [
+              6596.0975,
+              6596.6005,
+              6455.7385,
+              6343.995
+            ],
+            "rounds_thread_cpu_ns": [
+              6406.25,
+              6328.125,
+              6328.125,
+              6015.625
+            ],
+            "rounds_bytes": [
+              16672.00032,
+              16672.00032,
+              16672.0,
+              16672.00032
+            ]
+          },
+          "fresh_colors_actions": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 129.21375,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 736.0,
+            "rounds_ns": [
+              129.015,
+              131.195,
+              128.235,
+              129.4125
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              736.0,
+              736.0,
+              736.0,
+              736.0
+            ]
+          },
+          "fragmented16": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1155.5637499999998,
+            "thread_cpu_ns_per_operation": 1171.875,
+            "bytes_per_operation": 1800.0,
+            "rounds_ns": [
+              1158.5575,
+              1181.4875,
+              1152.57,
+              1144.56
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              1171.875,
+              1171.875
+            ],
+            "rounds_bytes": [
+              1800.0,
+              1800.0,
+              1800.0,
+              1800.0
+            ]
+          },
+          "over_limit_uncached": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1221.44,
+            "thread_cpu_ns_per_operation": 1171.875,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1184.6225,
+              1229.11,
+              1213.77,
+              1298.29
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              781.25,
+              1171.875
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0016,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 169.38,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 398.4,
+            "rounds_ns": [
+              167.5725,
+              169.5225,
+              169.2375,
+              169.7125
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              398.4,
+              398.4,
+              398.4,
+              398.4
+            ]
+          },
+          "dynamic_counter_consume": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6761.57875,
+            "thread_cpu_ns_per_operation": 6640.625,
+            "bytes_per_operation": 17144.00032,
+            "rounds_ns": [
+              6817.284,
+              6683.6805,
+              6705.8735,
+              6827.7295
+            ],
+            "rounds_thread_cpu_ns": [
+              6640.625,
+              6640.625,
+              6640.625,
+              6796.875
+            ],
+            "rounds_bytes": [
+              17144.00032,
+              17144.00032,
+              17144.0,
+              17144.00032
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 163.86,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 736.0,
+            "rounds_ns": [
+              169.12,
+              168.28,
+              159.44,
+              158.515
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              736.0,
+              736.0,
+              736.0,
+              736.0
+            ]
+          },
+          "fragmented16_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1278.9975,
+            "thread_cpu_ns_per_operation": 1171.875,
+            "bytes_per_operation": 1800.0,
+            "rounds_ns": [
+              1276.7925,
+              1281.2025,
+              1291.2875,
+              1265.7675
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              1562.5,
+              1171.875
+            ],
+            "rounds_bytes": [
+              1800.0,
+              1800.0,
+              1800.0,
+              1800.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+        },
+        "version": "0.15.71-dev",
+        "index": 0
+      },
+      {
+        "results": {
+          "stable_hud": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 107.73625000000001,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              92.2875,
+              95.98,
+              119.4925,
+              186.48
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6054,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1326.10375,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 1351.2015000000001,
+            "rounds_ns": [
+              1355.295,
+              1309.705,
+              1306.165,
+              1342.5025
+            ],
+            "rounds_thread_cpu_ns": [
+              1562.5,
+              1171.875,
+              1562.5,
+              781.25
+            ],
+            "rounds_bytes": [
+              1351.203,
+              1351.2,
+              1351.2,
+              1351.203
+            ]
+          },
+          "dynamic_counter": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6318.885249999999,
+            "thread_cpu_ns_per_operation": 6250.0,
+            "bytes_per_operation": 16704.00056,
+            "rounds_ns": [
+              6303.7235,
+              6245.9015,
+              6334.047,
+              6516.9785
+            ],
+            "rounds_thread_cpu_ns": [
+              6171.875,
+              6093.75,
+              6328.125,
+              6406.25
+            ],
+            "rounds_bytes": [
+              16704.00056,
+              16704.00056,
+              16704.0,
+              16704.00056
+            ]
+          },
+          "fresh_colors_actions": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 98.25874999999999,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              105.145,
+              91.3725,
+              89.3025,
+              117.4
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 316.7125,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              294.4325,
+              292.46,
+              356.02,
+              338.9925
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "over_limit_uncached": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1331.7150000000001,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1407.665,
+              1292.68,
+              1346.635,
+              1316.795
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1562.5,
+              1171.875,
+              1562.5
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 135.88875000000002,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              136.79,
+              133.3025,
+              134.9875,
+              137.7975
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "dynamic_counter_consume": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6680.123750000001,
+            "thread_cpu_ns_per_operation": 6601.5625,
+            "bytes_per_operation": 17168.00056,
+            "rounds_ns": [
+              6680.9695,
+              6679.278,
+              6675.662,
+              6927.2935
+            ],
+            "rounds_thread_cpu_ns": [
+              6484.375,
+              6640.625,
+              6562.5,
+              6875.0
+            ],
+            "rounds_bytes": [
+              17168.00056,
+              17168.0,
+              17168.00056,
+              17168.00056
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 124.3025,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              246.305,
+              136.1925,
+              112.4125,
+              104.6575
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 389.65,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              409.2225,
+              382.615,
+              386.6775,
+              392.6225
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              390.625,
+              390.625
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+        },
+        "version": "0.15.72-dev",
+        "index": 1
+      },
+      {
+        "results": {
+          "stable_hud": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 113.22125,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              87.6225,
+              110.235,
+              116.2075,
+              198.555
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              289.6054,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1315.9575,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 1351.2,
+            "rounds_ns": [
+              1335.17,
+              1296.8875,
+              1296.39,
+              1335.0275
+            ],
+            "rounds_thread_cpu_ns": [
+              1562.5,
+              1171.875,
+              1562.5,
+              1171.875
+            ],
+            "rounds_bytes": [
+              1351.2,
+              1351.2,
+              1351.2,
+              1351.2
+            ]
+          },
+          "dynamic_counter": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6456.36125,
+            "thread_cpu_ns_per_operation": 6367.1875,
+            "bytes_per_operation": 16704.00056,
+            "rounds_ns": [
+              6656.8805,
+              6481.404,
+              6431.3185,
+              6408.5525
+            ],
+            "rounds_thread_cpu_ns": [
+              6640.625,
+              6328.125,
+              6406.25,
+              6171.875
+            ],
+            "rounds_bytes": [
+              16704.00056,
+              16704.00056,
+              16704.0,
+              16704.00056
+            ]
+          },
+          "fresh_colors_actions": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 95.38125,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              94.2125,
+              94.2075,
+              96.55,
+              114.7275
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 278.065,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              279.57,
+              276.56,
+              304.385,
+              274.0675
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "over_limit_uncached": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1404.7375000000002,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1409.315,
+              1402.025,
+              1395.555,
+              1407.45
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1562.5,
+              1171.875,
+              1562.5
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 139.2425,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              139.435,
+              139.7325,
+              139.05,
+              137.45
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "dynamic_counter_consume": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6991.8232499999995,
+            "thread_cpu_ns_per_operation": 6835.9375,
+            "bytes_per_operation": 17112.00056,
+            "rounds_ns": [
+              6980.7935,
+              7064.855,
+              6979.1185,
+              7002.853
+            ],
+            "rounds_thread_cpu_ns": [
+              6796.875,
+              6953.125,
+              6875.0,
+              6796.875
+            ],
+            "rounds_bytes": [
+              17112.00056,
+              17112.00056,
+              17112.0,
+              17112.00056
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 150.08875,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              132.67,
+              159.745,
+              140.4325,
+              169.815
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 400.60249999999996,
+            "thread_cpu_ns_per_operation": 390.625,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              363.6325,
+              414.955,
+              393.3,
+              407.905
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              390.625,
+              390.625,
+              390.625
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+        },
+        "version": "0.15.72-dev",
+        "index": 2
+      },
+      {
+        "results": {
+          "stable_hud": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 157.29125,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 395.2,
+            "rounds_ns": [
+              171.0575,
+              219.9925,
+              139.3,
+              143.525
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "rounds_bytes": [
+              395.2054,
+              395.2,
+              395.2,
+              395.2
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1409.47375,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 1499.2,
+            "rounds_ns": [
+              1423.9525,
+              1476.9275,
+              1394.995,
+              1376.385
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1562.5,
+              1562.5,
+              1171.875
+            ],
+            "rounds_bytes": [
+              1499.2,
+              1499.2,
+              1499.2,
+              1499.2
+            ]
+          },
+          "dynamic_counter": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6733.10775,
+            "thread_cpu_ns_per_operation": 6523.4375,
+            "bytes_per_operation": 16704.00032,
+            "rounds_ns": [
+              6873.3195,
+              6638.488,
+              6827.7275,
+              6192.492
+            ],
+            "rounds_thread_cpu_ns": [
+              6875.0,
+              6406.25,
+              6640.625,
+              6093.75
+            ],
+            "rounds_bytes": [
+              16704.00032,
+              16704.00032,
+              16704.00032,
+              16704.0
+            ]
+          },
+          "fresh_colors_actions": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 130.00875000000002,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 736.0,
+            "rounds_ns": [
+              128.4675,
+              129.495,
+              130.5225,
+              156.2925
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              390.625,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              736.0,
+              736.0,
+              736.0,
+              736.0
+            ]
+          },
+          "fragmented16": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1398.375,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 1800.0,
+            "rounds_ns": [
+              1180.9875,
+              1361.665,
+              1515.7125,
+              1435.085
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              1562.5,
+              1562.5
+            ],
+            "rounds_bytes": [
+              1800.0,
+              1800.0,
+              1800.0,
+              1800.0
+            ]
+          },
+          "over_limit_uncached": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1213.27875,
+            "thread_cpu_ns_per_operation": 1171.875,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1222.1625,
+              1204.395,
+              1189.705,
+              1240.9625
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1171.875,
+              1171.875,
+              1171.875
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 174.565,
+            "thread_cpu_ns_per_operation": 195.3125,
+            "bytes_per_operation": 398.4,
+            "rounds_ns": [
+              174.8425,
+              174.2875,
+              177.165,
+              173.7875
+            ],
+            "rounds_thread_cpu_ns": [
+              390.625,
+              0.0,
+              0.0,
+              390.625
+            ],
+            "rounds_bytes": [
+              398.4,
+              398.4,
+              398.4,
+              398.4
+            ]
+          },
+          "dynamic_counter_consume": {
+            "measured_operations_per_round": 200000.0,
+            "ns_per_operation": 6676.42925,
+            "thread_cpu_ns_per_operation": 6601.5625,
+            "bytes_per_operation": 17168.00032,
+            "rounds_ns": [
+              6662.1555,
+              6681.827,
+              6796.2465,
+              6671.0315
+            ],
+            "rounds_thread_cpu_ns": [
+              6406.25,
+              6718.75,
+              6718.75,
+              6484.375
+            ],
+            "rounds_bytes": [
+              17168.00032,
+              17168.00032,
+              17168.0,
+              17168.00032
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 170.97375,
+            "thread_cpu_ns_per_operation": 0.0,
+            "bytes_per_operation": 736.0,
+            "rounds_ns": [
+              171.1175,
+              166.7775,
+              170.83,
+              205.675
+            ],
+            "rounds_thread_cpu_ns": [
+              0.0,
+              0.0,
+              390.625,
+              0.0
+            ],
+            "rounds_bytes": [
+              736.0,
+              736.0,
+              736.0,
+              736.0
+            ]
+          },
+          "fragmented16_consume": {
+            "measured_operations_per_round": 40000.0,
+            "ns_per_operation": 1332.955,
+            "thread_cpu_ns_per_operation": 1367.1875,
+            "bytes_per_operation": 1800.0,
+            "rounds_ns": [
+              1359.33,
+              1306.58,
+              1282.7,
+              1393.84
+            ],
+            "rounds_thread_cpu_ns": [
+              1171.875,
+              1562.5,
+              1171.875,
+              1562.5
+            ],
+            "rounds_bytes": [
+              1800.0,
+              1800.0,
+              1800.0,
+              1800.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4 measured rounds of10-call batches:20k batches for dynamic counters,4k otherwise. Wall nanoTime plus calling-thread CPU counters. CPU clock granularity can distort short modes; only long dynamic-counter rounds used for focused CPU interpretation. Direct HUD modes use fixed caller snapshot;outside includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low,GPU,draw frequencies or full-frame timing."
+        },
+        "version": "0.15.71-dev",
+        "index": 3
+      }
+    ]
+  },
+  "short_final_executable": {
+    "scope": "Four isolated JVMs in71,72,72,71 order; all rounds retained. Pure glyph plans with current styles. Microbenchmark, not game FPS/0.1%low/GPU. No live A/B.",
+    "runtime_hashes": {
+      "0.15.72-dev": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+      "0.15.71-dev": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46"
+    },
+    "summary": [
+      {
+        "mode": "stable_hud",
+        "orders": [
+          {
+            "cpu_change_percent": -34.51184097509101,
+            "after_bytes": 289.6,
+            "before_ns": 152.80625,
+            "before_bytes": 395.2,
+            "after_ns": 100.07
+          },
+          {
+            "cpu_change_percent": -37.11595101534645,
+            "after_bytes": 289.6,
+            "before_ns": 161.27499999999998,
+            "before_bytes": 395.2,
+            "after_ns": 101.41625
+          }
+        ]
+      },
+      {
+        "mode": "stable_outside_fresh_context",
+        "orders": [
+          {
+            "cpu_change_percent": -4.060858103306697,
+            "after_bytes": 1351.2,
+            "before_ns": 1357.995,
+            "before_bytes": 1499.2,
+            "after_ns": 1302.84875
+          },
+          {
+            "cpu_change_percent": -4.409053202780589,
+            "after_bytes": 1351.2015000000001,
+            "before_ns": 1380.285,
+            "before_bytes": 1499.2,
+            "after_ns": 1319.4275
+          }
+        ]
+      },
+      {
+        "mode": "dynamic_counter",
+        "orders": [
+          {
+            "cpu_change_percent": -2.292314760169656,
+            "after_bytes": 16704.0,
+            "before_ns": 7093.32125,
+            "before_bytes": 16672.0,
+            "after_ns": 6930.719999999999
+          },
+          {
+            "cpu_change_percent": 8.665143582501322,
+            "after_bytes": 16704.0,
+            "before_ns": 5932.0425,
+            "before_bytes": 16672.0,
+            "after_ns": 6446.0625
+          }
+        ]
+      },
+      {
+        "mode": "fresh_colors_actions",
+        "orders": [
+          {
+            "cpu_change_percent": -28.442055305341675,
+            "after_bytes": 560.0,
+            "before_ns": 129.05625,
+            "before_bytes": 736.0,
+            "after_ns": 92.35
+          },
+          {
+            "cpu_change_percent": -26.81732335950229,
+            "after_bytes": 560.0,
+            "before_ns": 135.01999999999998,
+            "before_bytes": 736.0,
+            "after_ns": 98.81125
+          }
+        ]
+      },
+      {
+        "mode": "fragmented16",
+        "orders": [
+          {
+            "cpu_change_percent": -76.47541619990905,
+            "after_bytes": 1000.0,
+            "before_ns": 1239.71375,
+            "before_bytes": 1800.0,
+            "after_ns": 291.6375
+          },
+          {
+            "cpu_change_percent": -74.29851238496397,
+            "after_bytes": 1000.0,
+            "before_ns": 1197.7224999999999,
+            "before_bytes": 1800.0,
+            "after_ns": 307.8325
+          }
+        ]
+      },
+      {
+        "mode": "over_limit_uncached",
+        "orders": [
+          {
+            "cpu_change_percent": 2.3886417056802944,
+            "after_bytes": 3856.0,
+            "before_ns": 1291.2150000000001,
+            "before_bytes": 3856.0,
+            "after_ns": 1322.0575
+          },
+          {
+            "cpu_change_percent": -16.12277380367535,
+            "after_bytes": 3856.0,
+            "before_ns": 1251.855,
+            "before_bytes": 3856.0,
+            "after_ns": 1050.02125
+          }
+        ]
+      },
+      {
+        "mode": "stable_hud_consume",
+        "orders": [
+          {
+            "cpu_change_percent": -24.31271710811984,
+            "after_bytes": 289.6,
+            "before_ns": 184.24,
+            "before_bytes": 398.4,
+            "after_ns": 139.44625000000002
+          },
+          {
+            "cpu_change_percent": -33.24855999890023,
+            "after_bytes": 289.6,
+            "before_ns": 181.8575,
+            "before_bytes": 398.4,
+            "after_ns": 121.3925
+          }
+        ]
+      },
+      {
+        "mode": "dynamic_counter_consume",
+        "orders": [
+          {
+            "cpu_change_percent": 4.556446631927913,
+            "after_bytes": 16964.0,
+            "before_ns": 6739.3525,
+            "before_bytes": 16908.0008,
+            "after_ns": 7046.4275
+          },
+          {
+            "cpu_change_percent": 4.791684567744214,
+            "after_bytes": 16908.0,
+            "before_ns": 6590.03625,
+            "before_bytes": 16908.0,
+            "after_ns": 6905.8099999999995
+          }
+        ]
+      },
+      {
+        "mode": "fresh_colors_actions_consume",
+        "orders": [
+          {
+            "cpu_change_percent": -29.687521738525536,
+            "after_bytes": 560.0,
+            "before_ns": 179.6925,
+            "before_bytes": 736.0,
+            "after_ns": 126.34625
+          },
+          {
+            "cpu_change_percent": -40.70228618374458,
+            "after_bytes": 560.0,
+            "before_ns": 176.495,
+            "before_bytes": 736.0,
+            "after_ns": 104.6575
+          }
+        ]
+      },
+      {
+        "mode": "fragmented16_consume",
+        "orders": [
+          {
+            "cpu_change_percent": -69.8080942428273,
+            "after_bytes": 1000.0,
+            "before_ns": 1348.6437500000002,
+            "before_bytes": 1800.0,
+            "after_ns": 407.18125
+          },
+          {
+            "cpu_change_percent": -72.99836446617944,
+            "after_bytes": 1000.0,
+            "before_ns": 1386.3975,
+            "before_bytes": 1800.0,
+            "after_ns": 374.35
+          }
+        ]
+      }
+    ],
+    "records": [
+      {
+        "version": "0.15.71-dev",
+        "index": 0,
+        "results": {
+          "stable_hud": {
+            "ns_per_operation": 152.80625,
+            "bytes_per_operation": 395.2,
+            "rounds_ns": [
+              164.925,
+              255.7725,
+              140.2825,
+              140.6875
+            ],
+            "rounds_bytes": [
+              395.2,
+              395.2,
+              395.2,
+              395.2
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "ns_per_operation": 1357.995,
+            "bytes_per_operation": 1499.2,
+            "rounds_ns": [
+              1344.4225,
+              1388.9475,
+              1347.6075,
+              1368.3825
+            ],
+            "rounds_bytes": [
+              1499.2,
+              1499.203,
+              1499.2,
+              1499.2
+            ]
+          },
+          "dynamic_counter": {
+            "ns_per_operation": 7093.32125,
+            "bytes_per_operation": 16672.0,
+            "rounds_ns": [
+              7240.35,
+              7252.0375,
+              6755.91,
+              6946.2925
+            ],
+            "rounds_bytes": [
+              16672.0016,
+              16672.0,
+              16672.0,
+              16672.0
+            ]
+          },
+          "fresh_colors_actions": {
+            "ns_per_operation": 129.05625,
+            "bytes_per_operation": 736.0,
+            "rounds_ns": [
+              131.51,
+              148.11,
+              121.91,
+              126.6025
+            ],
+            "rounds_bytes": [
+              736.0,
+              736.0,
+              736.0,
+              736.0
+            ]
+          },
+          "fragmented16": {
+            "ns_per_operation": 1239.71375,
+            "bytes_per_operation": 1800.0,
+            "rounds_ns": [
+              1235.14,
+              1218.18,
+              1248.655,
+              1244.2875
+            ],
+            "rounds_bytes": [
+              1800.0,
+              1800.0,
+              1800.0,
+              1800.0
+            ]
+          },
+          "over_limit_uncached": {
+            "ns_per_operation": 1291.2150000000001,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1352.3625,
+              1297.1675,
+              1285.2625,
+              1225.4575
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0016,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "ns_per_operation": 184.24,
+            "bytes_per_operation": 398.4,
+            "rounds_ns": [
+              183.985,
+              205.7325,
+              184.495,
+              180.3325
+            ],
+            "rounds_bytes": [
+              398.4,
+              398.4,
+              398.4,
+              398.4
+            ]
+          },
+          "dynamic_counter_consume": {
+            "ns_per_operation": 6739.3525,
+            "bytes_per_operation": 16908.0008,
+            "rounds_ns": [
+              6550.17,
+              6581.3525,
+              6929.1375,
+              6897.3525
+            ],
+            "rounds_bytes": [
+              16704.0,
+              16704.0016,
+              17112.0,
+              17112.0
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "ns_per_operation": 179.6925,
+            "bytes_per_operation": 736.0,
+            "rounds_ns": [
+              184.98,
+              174.405,
+              173.2125,
+              222.35
+            ],
+            "rounds_bytes": [
+              736.0,
+              736.0,
+              736.0,
+              736.0
+            ]
+          },
+          "fragmented16_consume": {
+            "ns_per_operation": 1348.6437500000002,
+            "bytes_per_operation": 1800.0,
+            "rounds_ns": [
+              1333.0775,
+              1364.21,
+              1323.39,
+              1431.94
+            ],
+            "rounds_bytes": [
+              1800.0,
+              1800.0,
+              1800.0,
+              1800.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+        }
+      },
+      {
+        "version": "0.15.72-dev",
+        "index": 1,
+        "results": {
+          "stable_hud": {
+            "ns_per_operation": 100.07,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              89.135,
+              90.21,
+              109.93,
+              172.855
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "ns_per_operation": 1302.84875,
+            "bytes_per_operation": 1351.2,
+            "rounds_ns": [
+              1342.305,
+              1293.02,
+              1290.0175,
+              1312.6775
+            ],
+            "rounds_bytes": [
+              1351.2,
+              1351.2,
+              1351.2,
+              1351.2
+            ]
+          },
+          "dynamic_counter": {
+            "ns_per_operation": 6930.719999999999,
+            "bytes_per_operation": 16704.0,
+            "rounds_ns": [
+              6171.4325,
+              7060.95,
+              6800.49,
+              7174.685
+            ],
+            "rounds_bytes": [
+              16704.018,
+              16704.0,
+              16704.0,
+              16704.0
+            ]
+          },
+          "fresh_colors_actions": {
+            "ns_per_operation": 92.35,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              106.0575,
+              83.3075,
+              88.7275,
+              95.9725
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16": {
+            "ns_per_operation": 291.6375,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              306.9575,
+              288.0125,
+              291.695,
+              291.58
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "over_limit_uncached": {
+            "ns_per_operation": 1322.0575,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1306.38,
+              1321.97,
+              1329.5975,
+              1322.145
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "ns_per_operation": 139.44625000000002,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              138.6525,
+              154.0125,
+              132.635,
+              140.24
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "dynamic_counter_consume": {
+            "ns_per_operation": 7046.4275,
+            "bytes_per_operation": 16964.0,
+            "rounds_ns": [
+              7052.7875,
+              6804.795,
+              7065.9275,
+              7040.0675
+            ],
+            "rounds_bytes": [
+              16760.0,
+              16760.0,
+              17168.0,
+              17168.0028
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "ns_per_operation": 126.34625,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              170.2575,
+              132.31,
+              117.0025,
+              120.3825
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16_consume": {
+            "ns_per_operation": 407.18125,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              382.335,
+              400.5325,
+              413.83,
+              445.545
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+        }
+      },
+      {
+        "version": "0.15.72-dev",
+        "index": 2,
+        "results": {
+          "stable_hud": {
+            "ns_per_operation": 101.41625,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              89.2775,
+              88.8725,
+              113.555,
+              189.38
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "ns_per_operation": 1319.4275,
+            "bytes_per_operation": 1351.2015000000001,
+            "rounds_ns": [
+              1342.4125,
+              1306.8575,
+              1298.335,
+              1331.9975
+            ],
+            "rounds_bytes": [
+              1351.203,
+              1351.2,
+              1351.2,
+              1351.203
+            ]
+          },
+          "dynamic_counter": {
+            "ns_per_operation": 6446.0625,
+            "bytes_per_operation": 16704.0,
+            "rounds_ns": [
+              6453.08,
+              6425.73,
+              6523.3325,
+              6439.045
+            ],
+            "rounds_bytes": [
+              16704.0028,
+              16704.0,
+              16704.0,
+              16704.0
+            ]
+          },
+          "fresh_colors_actions": {
+            "ns_per_operation": 98.81125,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              106.78,
+              111.8475,
+              90.3675,
+              90.8425
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16": {
+            "ns_per_operation": 307.8325,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              293.3975,
+              317.645,
+              298.02,
+              335.575
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "over_limit_uncached": {
+            "ns_per_operation": 1050.02125,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1045.515,
+              1053.4725,
+              1146.5525,
+              1046.57
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "ns_per_operation": 121.3925,
+            "bytes_per_operation": 289.6,
+            "rounds_ns": [
+              121.1325,
+              121.6525,
+              143.115,
+              119.7625
+            ],
+            "rounds_bytes": [
+              289.6,
+              289.6,
+              289.6,
+              289.6
+            ]
+          },
+          "dynamic_counter_consume": {
+            "ns_per_operation": 6905.8099999999995,
+            "bytes_per_operation": 16908.0,
+            "rounds_ns": [
+              6776.065,
+              6651.47,
+              7081.155,
+              7035.555
+            ],
+            "rounds_bytes": [
+              16704.0,
+              16704.0,
+              17112.0,
+              17112.0028
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "ns_per_operation": 104.6575,
+            "bytes_per_operation": 560.0,
+            "rounds_ns": [
+              106.4675,
+              104.33,
+              104.985,
+              99.53
+            ],
+            "rounds_bytes": [
+              560.0,
+              560.0,
+              560.0,
+              560.0
+            ]
+          },
+          "fragmented16_consume": {
+            "ns_per_operation": 374.35,
+            "bytes_per_operation": 1000.0,
+            "rounds_ns": [
+              384.7275,
+              370.5225,
+              365.925,
+              378.1775
+            ],
+            "rounds_bytes": [
+              1000.0,
+              1000.0,
+              1000.0,
+              1000.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+        }
+      },
+      {
+        "version": "0.15.71-dev",
+        "index": 3,
+        "results": {
+          "stable_hud": {
+            "ns_per_operation": 161.27499999999998,
+            "bytes_per_operation": 395.2,
+            "rounds_ns": [
+              176.2925,
+              231.17,
+              138.5075,
+              146.2575
+            ],
+            "rounds_bytes": [
+              395.2,
+              395.2,
+              395.2,
+              395.2
+            ]
+          },
+          "stable_outside_fresh_context": {
+            "ns_per_operation": 1380.285,
+            "bytes_per_operation": 1499.2,
+            "rounds_ns": [
+              1358.795,
+              1401.155,
+              1381.3675,
+              1379.2025
+            ],
+            "rounds_bytes": [
+              1499.2,
+              1499.203,
+              1499.2,
+              1499.2
+            ]
+          },
+          "dynamic_counter": {
+            "ns_per_operation": 5932.0425,
+            "bytes_per_operation": 16672.0,
+            "rounds_ns": [
+              5649.325,
+              5995.2625,
+              5868.8225,
+              6240.67
+            ],
+            "rounds_bytes": [
+              16672.0016,
+              16672.0,
+              16672.0,
+              16672.0
+            ]
+          },
+          "fresh_colors_actions": {
+            "ns_per_operation": 135.01999999999998,
+            "bytes_per_operation": 736.0,
+            "rounds_ns": [
+              147.885,
+              120.6825,
+              145.9825,
+              124.0575
+            ],
+            "rounds_bytes": [
+              736.0,
+              736.0,
+              736.0,
+              736.0
+            ]
+          },
+          "fragmented16": {
+            "ns_per_operation": 1197.7224999999999,
+            "bytes_per_operation": 1800.0,
+            "rounds_ns": [
+              1259.925,
+              1188.835,
+              1187.19,
+              1206.61
+            ],
+            "rounds_bytes": [
+              1800.0,
+              1800.0,
+              1800.0,
+              1800.0
+            ]
+          },
+          "over_limit_uncached": {
+            "ns_per_operation": 1251.855,
+            "bytes_per_operation": 3856.0,
+            "rounds_ns": [
+              1274.8375,
+              1256.4525,
+              1240.095,
+              1247.2575
+            ],
+            "rounds_bytes": [
+              3856.0,
+              3856.0,
+              3856.0,
+              3856.0
+            ]
+          },
+          "stable_hud_consume": {
+            "ns_per_operation": 181.8575,
+            "bytes_per_operation": 398.4,
+            "rounds_ns": [
+              178.28,
+              184.045,
+              179.67,
+              207.895
+            ],
+            "rounds_bytes": [
+              398.4,
+              398.4,
+              398.4,
+              398.4
+            ]
+          },
+          "dynamic_counter_consume": {
+            "ns_per_operation": 6590.03625,
+            "bytes_per_operation": 16908.0,
+            "rounds_ns": [
+              6265.9025,
+              6303.4125,
+              6876.66,
+              7056.7375
+            ],
+            "rounds_bytes": [
+              16704.0,
+              16704.0,
+              17112.0016,
+              17112.0
+            ]
+          },
+          "fresh_colors_actions_consume": {
+            "ns_per_operation": 176.495,
+            "bytes_per_operation": 736.0,
+            "rounds_ns": [
+              174.96,
+              177.335,
+              175.655,
+              198.08
+            ],
+            "rounds_bytes": [
+              736.0,
+              736.0,
+              736.0,
+              736.0
+            ]
+          },
+          "fragmented16_consume": {
+            "ns_per_operation": 1386.3975,
+            "bytes_per_operation": 1800.0,
+            "rounds_ns": [
+              1390.1675,
+              1372.24,
+              1382.6275,
+              1511.66
+            ],
+            "rounds_bytes": [
+              1800.0,
+              1800.0,
+              1800.0,
+              1800.0
+            ]
+          },
+          "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+        }
+      }
+    ]
+  },
+  "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+  "version": "0.15.72-dev",
+  "unreleased_prototype_runs": [
+    {
+      "results": {
+        "runtime_hashes": {
+          "0.15.72-dev": "BF1EF38332FF356369333B0DDF291C8CC9942144CE25A7E80C65CB62E9892E07",
+          "0.15.71-dev": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46"
+        },
+        "scope": "Four isolated JVMs in71,72,72,71 order; all rounds retained. Pure glyph plans with current styles. Microbenchmark, not game FPS/0.1%low/GPU. No live A/B.",
+        "summary": [
+          {
+            "orders": [
+              {
+                "before_bytes": 395.2,
+                "before_ns": 155.97625,
+                "cpu_change_percent": -50.20556014136768,
+                "after_bytes": 247.2,
+                "after_ns": 77.6675
+              },
+              {
+                "before_bytes": 395.2,
+                "before_ns": 149.97250000000003,
+                "cpu_change_percent": -49.21152211238727,
+                "after_bytes": 247.2,
+                "after_ns": 76.16875
+              }
+            ],
+            "mode": "stable_hud"
+          },
+          {
+            "orders": [
+              {
+                "before_bytes": 1499.2,
+                "before_ns": 1356.7649999999999,
+                "cpu_change_percent": 0.7587902105375743,
+                "after_bytes": 1351.2,
+                "after_ns": 1367.06
+              },
+              {
+                "before_bytes": 1499.2,
+                "before_ns": 1400.9412499999999,
+                "cpu_change_percent": -2.6898879592559433,
+                "after_bytes": 1351.2,
+                "after_ns": 1363.2575000000002
+              }
+            ],
+            "mode": "stable_outside_fresh_context"
+          },
+          {
+            "orders": [
+              {
+                "before_bytes": 16672.0,
+                "before_ns": 6491.81875,
+                "cpu_change_percent": 2.291749904447027,
+                "after_bytes": 16648.0,
+                "after_ns": 6640.595
+              },
+              {
+                "before_bytes": 16648.0,
+                "before_ns": 6325.99625,
+                "cpu_change_percent": 5.014664686214454,
+                "after_bytes": 16704.0,
+                "after_ns": 6643.22375
+              }
+            ],
+            "mode": "dynamic_counter"
+          },
+          {
+            "orders": [
+              {
+                "before_bytes": 736.0,
+                "before_ns": 125.6275,
+                "cpu_change_percent": -27.060158006805835,
+                "after_bytes": 560.0,
+                "after_ns": 91.6325
+              },
+              {
+                "before_bytes": 736.0,
+                "before_ns": 134.17000000000002,
+                "cpu_change_percent": -29.737459938883504,
+                "after_bytes": 560.0,
+                "after_ns": 94.27125000000001
+              }
+            ],
+            "mode": "fresh_colors_actions"
+          },
+          {
+            "orders": [
+              {
+                "before_bytes": 1800.0,
+                "before_ns": 1196.1374999999998,
+                "cpu_change_percent": -16.510957143305006,
+                "after_bytes": 1000.0,
+                "after_ns": 998.64375
+              },
+              {
+                "before_bytes": 1800.0,
+                "before_ns": 1200.72875,
+                "cpu_change_percent": -38.59343752700184,
+                "after_bytes": 1000.0,
+                "after_ns": 737.32625
+              }
+            ],
+            "mode": "fragmented16"
+          },
+          {
+            "orders": [
+              {
+                "before_bytes": 3856.0,
+                "before_ns": 1212.205,
+                "cpu_change_percent": -0.7628660168865764,
+                "after_bytes": 3856.0,
+                "after_ns": 1202.9575
+              },
+              {
+                "before_bytes": 3856.0,
+                "before_ns": 1285.4337500000001,
+                "cpu_change_percent": -14.65448919479515,
+                "after_bytes": 3856.0,
+                "after_ns": 1097.06
+              }
+            ],
+            "mode": "over_limit_uncached"
+          }
+        ],
+        "records": [
+          {
+            "index": 0,
+            "version": "0.15.71-dev",
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 155.97625,
+                "bytes_per_operation": 395.2,
+                "rounds_ns": [
+                  173.7175,
+                  215.6425,
+                  137.68,
+                  138.235
+                ],
+                "rounds_bytes": [
+                  395.2,
+                  395.2,
+                  395.2,
+                  395.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1356.7649999999999,
+                "bytes_per_operation": 1499.2,
+                "rounds_ns": [
+                  1348.47,
+                  1401.9575,
+                  1354.5825,
+                  1358.9475
+                ],
+                "rounds_bytes": [
+                  1499.2,
+                  1499.2,
+                  1499.2,
+                  1499.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6491.81875,
+                "bytes_per_operation": 16672.0,
+                "rounds_ns": [
+                  6894.7625,
+                  6682.155,
+                  6222.4,
+                  6301.4825
+                ],
+                "rounds_bytes": [
+                  16672.0016,
+                  16672.0,
+                  16672.0,
+                  16672.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 125.6275,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  126.02,
+                  119.5325,
+                  142.535,
+                  125.235
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 1196.1374999999998,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1188.35,
+                  1218.29,
+                  1203.925,
+                  1165.715
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1212.205,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1217.0825,
+                  1201.455,
+                  1273.395,
+                  1207.3275
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            }
+          },
+          {
+            "index": 1,
+            "version": "0.15.72-dev",
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 77.6675,
+                "bytes_per_operation": 247.2,
+                "rounds_ns": [
+                  76.3675,
+                  76.715,
+                  78.62,
+                  85.575
+                ],
+                "rounds_bytes": [
+                  247.2,
+                  247.2,
+                  247.2,
+                  247.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1367.06,
+                "bytes_per_operation": 1351.2,
+                "rounds_ns": [
+                  1413.965,
+                  1385.9525,
+                  1348.1675,
+                  1343.8025
+                ],
+                "rounds_bytes": [
+                  1351.203,
+                  1351.2,
+                  1351.2,
+                  1351.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6640.595,
+                "bytes_per_operation": 16648.0,
+                "rounds_ns": [
+                  6522.3,
+                  6356.6675,
+                  6758.89,
+                  6793.1525
+                ],
+                "rounds_bytes": [
+                  16648.0028,
+                  16648.0,
+                  16648.0,
+                  16648.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 91.6325,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  92.445,
+                  90.645,
+                  117.0375,
+                  90.82
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 998.64375,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  994.515,
+                  1026.3225,
+                  982.91,
+                  1002.7725
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1202.9575,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1193.74,
+                  1183.7625,
+                  1326.905,
+                  1212.175
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            }
+          },
+          {
+            "index": 2,
+            "version": "0.15.72-dev",
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 76.16875,
+                "bytes_per_operation": 247.2,
+                "rounds_ns": [
+                  75.4375,
+                  74.8725,
+                  76.9,
+                  82.0875
+                ],
+                "rounds_bytes": [
+                  247.2,
+                  247.2,
+                  247.2,
+                  247.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1363.2575000000002,
+                "bytes_per_operation": 1351.2,
+                "rounds_ns": [
+                  1398.655,
+                  1320.1,
+                  1366.525,
+                  1359.99
+                ],
+                "rounds_bytes": [
+                  1351.2,
+                  1351.2,
+                  1351.2,
+                  1351.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6643.22375,
+                "bytes_per_operation": 16704.0,
+                "rounds_ns": [
+                  6678.4325,
+                  6704.0675,
+                  6608.015,
+                  6607.895
+                ],
+                "rounds_bytes": [
+                  16704.0028,
+                  16704.0,
+                  16704.0,
+                  16704.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 94.27125000000001,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  93.955,
+                  118.31,
+                  92.7225,
+                  94.5875
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 737.32625,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  736.28,
+                  766.535,
+                  727.095,
+                  738.3725
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1097.06,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1145.9625,
+                  1079.2375,
+                  1114.8825,
+                  1072.3775
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            }
+          },
+          {
+            "index": 3,
+            "version": "0.15.71-dev",
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 149.97250000000003,
+                "bytes_per_operation": 395.2,
+                "rounds_ns": [
+                  161.05,
+                  244.9675,
+                  137.6775,
+                  138.895
+                ],
+                "rounds_bytes": [
+                  395.2,
+                  395.2,
+                  395.2,
+                  395.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1400.9412499999999,
+                "bytes_per_operation": 1499.2,
+                "rounds_ns": [
+                  1402.0175,
+                  1445.3925,
+                  1399.865,
+                  1389.625
+                ],
+                "rounds_bytes": [
+                  1499.2,
+                  1499.203,
+                  1499.2,
+                  1499.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6325.99625,
+                "bytes_per_operation": 16648.0,
+                "rounds_ns": [
+                  6218.1425,
+                  6359.695,
+                  6520.385,
+                  6292.2975
+                ],
+                "rounds_bytes": [
+                  16648.0016,
+                  16648.0,
+                  16648.0,
+                  16648.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 134.17000000000002,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  144.16,
+                  124.18,
+                  148.27,
+                  121.155
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 1200.72875,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1201.0225,
+                  1178.4075,
+                  1200.435,
+                  1231.4325
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1285.4337500000001,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1289.5425,
+                  1301.3125,
+                  1281.325,
+                  1271.61
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            }
+          }
+        ]
+      },
+      "relative_root": "build/prepared72-benchmark-625965e8fb5c44b9a3601a07c6b2fb1e",
+      "scope": "Unreleased earlier prototype; not evidence for final executable. All rounds retained, including cold-path regressions."
+    },
+    {
+      "results": {
+        "scope": "Four isolated JVMs in71,72,72,71 order; all rounds retained. Pure glyph plans with current styles. Microbenchmark, not game FPS/0.1%low/GPU. No live A/B.",
+        "summary": [
+          {
+            "mode": "stable_hud",
+            "orders": [
+              {
+                "before_bytes": 395.2,
+                "cpu_change_percent": -49.70233515037138,
+                "after_bytes": 247.2,
+                "after_ns": 77.6225,
+                "before_ns": 154.32625000000002
+              },
+              {
+                "before_bytes": 395.2,
+                "cpu_change_percent": -47.685170269660745,
+                "after_bytes": 247.2,
+                "after_ns": 81.19,
+                "before_ns": 155.195
+              }
+            ]
+          },
+          {
+            "mode": "stable_outside_fresh_context",
+            "orders": [
+              {
+                "before_bytes": 1499.2,
+                "cpu_change_percent": -2.8058244384022712,
+                "after_bytes": 1351.2,
+                "after_ns": 1305.1975,
+                "before_ns": 1342.87625
+              },
+              {
+                "before_bytes": 1499.2,
+                "cpu_change_percent": -2.2979979861611155,
+                "after_bytes": 1351.2015000000001,
+                "after_ns": 1363.28,
+                "before_ns": 1395.3449999999998
+              }
+            ]
+          },
+          {
+            "mode": "dynamic_counter",
+            "orders": [
+              {
+                "before_bytes": 16672.0,
+                "cpu_change_percent": 7.651482681769428,
+                "after_bytes": 16704.0,
+                "after_ns": 7349.8525,
+                "before_ns": 6827.45125
+              },
+              {
+                "before_bytes": 16672.0,
+                "cpu_change_percent": 5.025288506550285,
+                "after_bytes": 16680.0,
+                "after_ns": 7047.52375,
+                "before_ns": 6710.31125
+              }
+            ]
+          },
+          {
+            "mode": "fresh_colors_actions",
+            "orders": [
+              {
+                "before_bytes": 736.0,
+                "cpu_change_percent": -19.344529882593562,
+                "after_bytes": 560.0,
+                "after_ns": 102.53125,
+                "before_ns": 127.1225
+              },
+              {
+                "before_bytes": 736.0,
+                "cpu_change_percent": -26.23981873937926,
+                "after_bytes": 560.0,
+                "after_ns": 94.4075,
+                "before_ns": 127.9925
+              }
+            ]
+          },
+          {
+            "mode": "fragmented16",
+            "orders": [
+              {
+                "before_bytes": 1800.0,
+                "cpu_change_percent": -35.74845026695302,
+                "after_bytes": 1000.0,
+                "after_ns": 777.1112499999999,
+                "before_ns": 1209.4825
+              },
+              {
+                "before_bytes": 1800.0,
+                "cpu_change_percent": -35.88494751479187,
+                "after_bytes": 1000.0,
+                "after_ns": 770.5899999999999,
+                "before_ns": 1201.88625
+              }
+            ]
+          },
+          {
+            "mode": "over_limit_uncached",
+            "orders": [
+              {
+                "before_bytes": 3856.0,
+                "cpu_change_percent": 12.593913962270232,
+                "after_bytes": 3856.0,
+                "after_ns": 1397.28625,
+                "before_ns": 1240.9962500000001
+              },
+              {
+                "before_bytes": 3856.0,
+                "cpu_change_percent": -13.662915418656606,
+                "after_bytes": 3856.0,
+                "after_ns": 1071.5662499999999,
+                "before_ns": 1241.1425
+              }
+            ]
+          },
+          {
+            "mode": "stable_hud_consume",
+            "orders": [
+              {
+                "before_bytes": 398.4,
+                "cpu_change_percent": -41.380255404673505,
+                "after_bytes": 247.2,
+                "after_ns": 112.29124999999999,
+                "before_ns": 191.55875
+              },
+              {
+                "before_bytes": 398.4,
+                "cpu_change_percent": -45.70708129025047,
+                "after_bytes": 247.2,
+                "after_ns": 97.16125,
+                "before_ns": 178.95749999999998
+              }
+            ]
+          },
+          {
+            "mode": "dynamic_counter_consume",
+            "orders": [
+              {
+                "before_bytes": 16964.0008,
+                "cpu_change_percent": 4.073179768771129,
+                "after_bytes": 16852.0014,
+                "after_ns": 6976.4662499999995,
+                "before_ns": 6703.42375
+              },
+              {
+                "before_bytes": 16940.0008,
+                "cpu_change_percent": 6.87216923332552,
+                "after_bytes": 16852.0014,
+                "after_ns": 7340.4575,
+                "before_ns": 6868.44625
+              }
+            ]
+          },
+          {
+            "mode": "fresh_colors_actions_consume",
+            "orders": [
+              {
+                "before_bytes": 736.0,
+                "cpu_change_percent": -33.86036832470154,
+                "after_bytes": 560.0,
+                "after_ns": 105.67625,
+                "before_ns": 159.7775
+              },
+              {
+                "before_bytes": 736.0,
+                "cpu_change_percent": -35.6630284491615,
+                "after_bytes": 560.0,
+                "after_ns": 104.1125,
+                "before_ns": 161.82375
+              }
+            ]
+          },
+          {
+            "mode": "fragmented16_consume",
+            "orders": [
+              {
+                "before_bytes": 1800.0,
+                "cpu_change_percent": -46.52411280343568,
+                "after_bytes": 1000.0,
+                "after_ns": 690.9225,
+                "before_ns": 1292.02625
+              },
+              {
+                "before_bytes": 1800.0,
+                "cpu_change_percent": -48.8508916913286,
+                "after_bytes": 1000.0,
+                "after_ns": 703.65125,
+                "before_ns": 1375.68625
+              }
+            ]
+          }
+        ],
+        "runtime_hashes": {
+          "0.15.71-dev": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46",
+          "0.15.72-dev": "9537B38ED38BC6FE7E43AD9091E71E8ACB65F5E9C4553C00F0EBD73F17760C94"
+        },
+        "records": [
+          {
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 154.32625000000002,
+                "bytes_per_operation": 395.2,
+                "rounds_ns": [
+                  168.3125,
+                  232.05,
+                  140.34,
+                  138.2475
+                ],
+                "rounds_bytes": [
+                  395.2,
+                  395.2,
+                  395.2,
+                  395.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1342.87625,
+                "bytes_per_operation": 1499.2,
+                "rounds_ns": [
+                  1338.825,
+                  1401.995,
+                  1346.9275,
+                  1338.5475
+                ],
+                "rounds_bytes": [
+                  1499.2,
+                  1499.203,
+                  1499.2,
+                  1499.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6827.45125,
+                "bytes_per_operation": 16672.0,
+                "rounds_ns": [
+                  6441.36,
+                  7698.6825,
+                  7138.2075,
+                  6516.695
+                ],
+                "rounds_bytes": [
+                  16672.0016,
+                  16672.0,
+                  16672.0,
+                  16672.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 127.1225,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  126.955,
+                  124.1475,
+                  148.5425,
+                  127.29
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 1209.4825,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1260.33,
+                  1194.8,
+                  1224.165,
+                  1185.8125
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1240.9962500000001,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1194.8925,
+                  1262.96,
+                  1219.0325,
+                  1294.5825
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0016
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 191.55875,
+                "bytes_per_operation": 398.4,
+                "rounds_ns": [
+                  195.705,
+                  177.56,
+                  202.5375,
+                  187.4125
+                ],
+                "rounds_bytes": [
+                  398.4,
+                  398.4,
+                  398.4,
+                  398.4
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 6703.42375,
+                "bytes_per_operation": 16964.0008,
+                "rounds_ns": [
+                  6459.22,
+                  6621.7575,
+                  6854.8825,
+                  6785.09
+                ],
+                "rounds_bytes": [
+                  16760.0,
+                  16760.0016,
+                  17168.0,
+                  17168.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 159.7775,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  161.15,
+                  156.36,
+                  158.405,
+                  176.0525
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 1292.02625,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1290.35,
+                  1293.7025,
+                  1264.1225,
+                  1306.6775
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            },
+            "index": 0,
+            "version": "0.15.71-dev"
+          },
+          {
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 77.6225,
+                "bytes_per_operation": 247.2,
+                "rounds_ns": [
+                  78.905,
+                  76.34,
+                  75.96,
+                  96.385
+                ],
+                "rounds_bytes": [
+                  247.2,
+                  247.2,
+                  247.2,
+                  247.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1305.1975,
+                "bytes_per_operation": 1351.2,
+                "rounds_ns": [
+                  1338.5875,
+                  1283.9875,
+                  1291.2675,
+                  1319.1275
+                ],
+                "rounds_bytes": [
+                  1351.2,
+                  1351.2,
+                  1351.2,
+                  1351.203
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 7349.8525,
+                "bytes_per_operation": 16704.0,
+                "rounds_ns": [
+                  7190.9875,
+                  7290.26,
+                  7409.445,
+                  7696.9275
+                ],
+                "rounds_bytes": [
+                  16704.0028,
+                  16704.0,
+                  16704.0,
+                  16704.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 102.53125,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  139.83,
+                  117.32,
+                  85.6525,
+                  87.7425
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 777.1112499999999,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  772.8725,
+                  781.35,
+                  806.3725,
+                  766.4325
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1397.28625,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1374.675,
+                  1506.0425,
+                  1379.9675,
+                  1414.605
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0028
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 112.29124999999999,
+                "bytes_per_operation": 247.2,
+                "rounds_ns": [
+                  114.1625,
+                  110.42,
+                  110.08,
+                  114.94
+                ],
+                "rounds_bytes": [
+                  247.2,
+                  247.2,
+                  247.2,
+                  247.2
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 6976.4662499999995,
+                "bytes_per_operation": 16852.0014,
+                "rounds_ns": [
+                  6716.3225,
+                  6884.99,
+                  7151.2425,
+                  7067.9425
+                ],
+                "rounds_bytes": [
+                  16648.0,
+                  16648.0028,
+                  17056.0,
+                  17056.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 105.67625,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  107.63,
+                  125.655,
+                  103.24,
+                  103.7225
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 690.9225,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  680.6425,
+                  696.2625,
+                  685.5825,
+                  730.3675
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            },
+            "index": 1,
+            "version": "0.15.72-dev"
+          },
+          {
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 81.19,
+                "bytes_per_operation": 247.2,
+                "rounds_ns": [
+                  83.4675,
+                  76.9225,
+                  78.9125,
+                  89.325
+                ],
+                "rounds_bytes": [
+                  247.2,
+                  247.2,
+                  247.2,
+                  247.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1363.28,
+                "bytes_per_operation": 1351.2015000000001,
+                "rounds_ns": [
+                  1362.2875,
+                  1356.6025,
+                  1369.6425,
+                  1364.2725
+                ],
+                "rounds_bytes": [
+                  1351.203,
+                  1351.2,
+                  1351.2,
+                  1351.203
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 7047.52375,
+                "bytes_per_operation": 16680.0,
+                "rounds_ns": [
+                  6981.9125,
+                  7113.135,
+                  7244.4325,
+                  6444.7725
+                ],
+                "rounds_bytes": [
+                  16680.0028,
+                  16680.0,
+                  16680.0,
+                  16680.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 94.4075,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  93.995,
+                  94.82,
+                  121.2875,
+                  92.75
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 770.5899999999999,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  780.9,
+                  804.4775,
+                  760.28,
+                  758.45
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1071.5662499999999,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1067.0925,
+                  1078.44,
+                  1076.04,
+                  1057.4825
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 97.16125,
+                "bytes_per_operation": 247.2,
+                "rounds_ns": [
+                  97.9225,
+                  103.1975,
+                  96.4,
+                  95.69
+                ],
+                "rounds_bytes": [
+                  247.2,
+                  247.2,
+                  247.2,
+                  247.2
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 7340.4575,
+                "bytes_per_operation": 16852.0014,
+                "rounds_ns": [
+                  6996.0975,
+                  7534.03,
+                  7521.4875,
+                  7159.4275
+                ],
+                "rounds_bytes": [
+                  16648.0,
+                  16648.0028,
+                  17056.0,
+                  17056.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 104.1125,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  104.7375,
+                  128.58,
+                  101.105,
+                  103.4875
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 703.65125,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  710.3975,
+                  710.015,
+                  697.2875,
+                  675.7075
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            },
+            "index": 2,
+            "version": "0.15.72-dev"
+          },
+          {
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 155.195,
+                "bytes_per_operation": 395.2,
+                "rounds_ns": [
+                  171.315,
+                  232.52,
+                  139.075,
+                  136.0
+                ],
+                "rounds_bytes": [
+                  395.2,
+                  395.2,
+                  395.2,
+                  395.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1395.3449999999998,
+                "bytes_per_operation": 1499.2,
+                "rounds_ns": [
+                  1395.0375,
+                  1446.69,
+                  1395.6525,
+                  1389.0575
+                ],
+                "rounds_bytes": [
+                  1499.2,
+                  1499.2,
+                  1499.2,
+                  1499.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6710.31125,
+                "bytes_per_operation": 16672.0,
+                "rounds_ns": [
+                  6721.7675,
+                  6628.86,
+                  6877.5,
+                  6698.855
+                ],
+                "rounds_bytes": [
+                  16672.0016,
+                  16672.0,
+                  16672.0,
+                  16672.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 127.9925,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  127.135,
+                  128.85,
+                  143.45,
+                  124.54
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 1201.88625,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1228.7075,
+                  1197.1825,
+                  1191.3425,
+                  1206.59
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1241.1425,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1289.3675,
+                  1219.9775,
+                  1249.765,
+                  1232.52
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0016,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 178.95749999999998,
+                "bytes_per_operation": 398.4,
+                "rounds_ns": [
+                  181.065,
+                  176.85,
+                  197.9975,
+                  175.475
+                ],
+                "rounds_bytes": [
+                  398.4,
+                  398.4,
+                  398.4,
+                  398.4
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 6868.44625,
+                "bytes_per_operation": 16940.0008,
+                "rounds_ns": [
+                  6483.2025,
+                  6566.1375,
+                  7258.2,
+                  7170.755
+                ],
+                "rounds_bytes": [
+                  16736.0,
+                  16736.0016,
+                  17144.0,
+                  17144.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 161.82375,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  162.0725,
+                  160.8575,
+                  161.575,
+                  187.0425
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 1375.68625,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1381.885,
+                  1369.4875,
+                  1341.4,
+                  1502.225
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            },
+            "index": 3,
+            "version": "0.15.71-dev"
+          }
+        ]
+      },
+      "relative_root": "build/prepared72-benchmark-cd010960e3794bdd8ae87c2eb8e02da2",
+      "scope": "Unreleased earlier prototype; not evidence for final executable. All rounds retained, including cold-path regressions."
+    },
+    {
+      "results": {
+        "scope": "Four isolated JVMs in71,72,72,71 order; all rounds retained. Pure glyph plans with current styles. Microbenchmark, not game FPS/0.1%low/GPU. No live A/B.",
+        "summary": [
+          {
+            "orders": [
+              {
+                "after_ns": 100.45125,
+                "before_bytes": 395.2,
+                "before_ns": 149.77,
+                "after_bytes": 289.6,
+                "cpu_change_percent": -32.92965881017561
+              },
+              {
+                "after_ns": 99.91,
+                "before_bytes": 395.2,
+                "before_ns": 152.2025,
+                "after_bytes": 289.6,
+                "cpu_change_percent": -34.35718861385325
+              }
+            ],
+            "mode": "stable_hud"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 1322.83375,
+                "before_bytes": 1499.2,
+                "before_ns": 1338.3975,
+                "after_bytes": 1351.2,
+                "cpu_change_percent": -1.16286454509964
+              },
+              {
+                "after_ns": 1300.9524999999999,
+                "before_bytes": 1499.2,
+                "before_ns": 1390.245,
+                "after_bytes": 1351.2,
+                "cpu_change_percent": -6.422788789026401
+              }
+            ],
+            "mode": "stable_outside_fresh_context"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 6455.855,
+                "before_bytes": 16672.0,
+                "before_ns": 6394.0625,
+                "after_bytes": 16704.0,
+                "cpu_change_percent": 0.9664043790625909
+              },
+              {
+                "after_ns": 6840.8675,
+                "before_bytes": 16672.0,
+                "before_ns": 6754.686250000001,
+                "after_bytes": 16648.0,
+                "cpu_change_percent": 1.275873472287481
+              }
+            ],
+            "mode": "dynamic_counter"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 93.91624999999999,
+                "before_bytes": 736.0,
+                "before_ns": 125.72875,
+                "after_bytes": 560.0,
+                "cpu_change_percent": -25.30248650368353
+              },
+              {
+                "after_ns": 105.2925,
+                "before_bytes": 736.0,
+                "before_ns": 130.75,
+                "after_bytes": 560.0,
+                "cpu_change_percent": -19.47036328871893
+              }
+            ],
+            "mode": "fresh_colors_actions"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 539.6725,
+                "before_bytes": 1800.0,
+                "before_ns": 1233.2024999999999,
+                "after_bytes": 1000.0,
+                "cpu_change_percent": -56.2381279635745
+              },
+              {
+                "after_ns": 549.3025,
+                "before_bytes": 1800.0,
+                "before_ns": 1213.8375,
+                "after_bytes": 1000.0,
+                "cpu_change_percent": -54.746619708156985
+              }
+            ],
+            "mode": "fragmented16"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 1123.06875,
+                "before_bytes": 3856.0,
+                "before_ns": 1244.8375,
+                "after_bytes": 3856.0,
+                "cpu_change_percent": -9.781899243877223
+              },
+              {
+                "after_ns": 1132.2325,
+                "before_bytes": 3856.0,
+                "before_ns": 1216.625,
+                "after_bytes": 3856.0,
+                "cpu_change_percent": -6.936607418062257
+              }
+            ],
+            "mode": "over_limit_uncached"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 130.32999999999998,
+                "before_bytes": 398.4,
+                "before_ns": 182.57999999999998,
+                "after_bytes": 289.6,
+                "cpu_change_percent": -28.617592288311975
+              },
+              {
+                "after_ns": 125.23875,
+                "before_bytes": 398.4,
+                "before_ns": 183.41375,
+                "after_bytes": 289.6,
+                "cpu_change_percent": -31.717905555063343
+              }
+            ],
+            "mode": "stable_hud_consume"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 6748.5225,
+                "before_bytes": 16908.0,
+                "before_ns": 6743.2125,
+                "after_bytes": 16908.0,
+                "cpu_change_percent": 0.07874584999361112
+              },
+              {
+                "after_ns": 6934.68375,
+                "before_bytes": 16964.0,
+                "before_ns": 6874.7925,
+                "after_bytes": 16908.0,
+                "cpu_change_percent": 0.8711717480927694
+              }
+            ],
+            "mode": "dynamic_counter_consume"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 104.48,
+                "before_bytes": 736.0,
+                "before_ns": 188.19875000000002,
+                "after_bytes": 560.0,
+                "cpu_change_percent": -44.48422213218739
+              },
+              {
+                "after_ns": 99.41874999999999,
+                "before_bytes": 736.0,
+                "before_ns": 166.56875000000002,
+                "after_bytes": 560.0,
+                "cpu_change_percent": -40.31368428952011
+              }
+            ],
+            "mode": "fresh_colors_actions_consume"
+          },
+          {
+            "orders": [
+              {
+                "after_ns": 643.1125,
+                "before_bytes": 1800.0,
+                "before_ns": 1293.5149999999999,
+                "after_bytes": 1000.0,
+                "cpu_change_percent": -50.28179031553557
+              },
+              {
+                "after_ns": 603.58875,
+                "before_bytes": 1800.0,
+                "before_ns": 1302.90625,
+                "after_bytes": 1000.0,
+                "cpu_change_percent": -53.67366224546086
+              }
+            ],
+            "mode": "fragmented16_consume"
+          }
+        ],
+        "runtime_hashes": {
+          "0.15.72-dev": "AE6810B0A52B927BA58863759D80AD50267AFD3057AFBE99734BB7DADBCF8D55",
+          "0.15.71-dev": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46"
+        },
+        "records": [
+          {
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 149.77,
+                "bytes_per_operation": 395.2,
+                "rounds_ns": [
+                  157.3,
+                  254.055,
+                  140.3875,
+                  142.24
+                ],
+                "rounds_bytes": [
+                  395.2,
+                  395.2,
+                  395.2,
+                  395.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1338.3975,
+                "bytes_per_operation": 1499.2,
+                "rounds_ns": [
+                  1337.28,
+                  1376.3025,
+                  1339.515,
+                  1335.0775
+                ],
+                "rounds_bytes": [
+                  1499.2,
+                  1499.2,
+                  1499.2,
+                  1499.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6394.0625,
+                "bytes_per_operation": 16672.0,
+                "rounds_ns": [
+                  6029.8725,
+                  6441.08,
+                  6409.8375,
+                  6378.2875
+                ],
+                "rounds_bytes": [
+                  16672.0016,
+                  16672.0,
+                  16672.0,
+                  16672.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 125.72875,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  125.295,
+                  125.525,
+                  155.4025,
+                  125.9325
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 1233.2024999999999,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1244.435,
+                  1211.3225,
+                  1221.97,
+                  1248.3925
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1244.8375,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1262.9975,
+                  1244.2775,
+                  1232.325,
+                  1245.3975
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 182.57999999999998,
+                "bytes_per_operation": 398.4,
+                "rounds_ns": [
+                  182.8325,
+                  181.36,
+                  214.3225,
+                  182.3275
+                ],
+                "rounds_bytes": [
+                  398.4,
+                  398.4,
+                  398.4,
+                  398.4
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 6743.2125,
+                "bytes_per_operation": 16908.0,
+                "rounds_ns": [
+                  6611.7575,
+                  6443.315,
+                  6874.6675,
+                  7035.9775
+                ],
+                "rounds_bytes": [
+                  16704.0,
+                  16704.0,
+                  17112.0016,
+                  17112.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 188.19875000000002,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  218.775,
+                  179.0275,
+                  178.4275,
+                  197.37
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 1293.5149999999999,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1293.4675,
+                  1408.8275,
+                  1264.695,
+                  1293.5625
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            },
+            "version": "0.15.71-dev",
+            "index": 0
+          },
+          {
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 100.45125,
+                "bytes_per_operation": 289.6,
+                "rounds_ns": [
+                  89.02,
+                  92.56,
+                  108.3425,
+                  183.2675
+                ],
+                "rounds_bytes": [
+                  289.6,
+                  289.6,
+                  289.6,
+                  289.6
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1322.83375,
+                "bytes_per_operation": 1351.2,
+                "rounds_ns": [
+                  1354.665,
+                  1325.4375,
+                  1315.665,
+                  1320.23
+                ],
+                "rounds_bytes": [
+                  1351.2,
+                  1351.2,
+                  1351.2,
+                  1351.203
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6455.855,
+                "bytes_per_operation": 16704.0,
+                "rounds_ns": [
+                  5968.8675,
+                  6374.7675,
+                  6536.9425,
+                  6676.3425
+                ],
+                "rounds_bytes": [
+                  16704.0028,
+                  16704.0,
+                  16704.0,
+                  16704.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 93.91624999999999,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  123.4375,
+                  94.0925,
+                  92.14,
+                  93.74
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 539.6725,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  547.28,
+                  562.6275,
+                  532.065,
+                  526.7925
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1123.06875,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1118.9925,
+                  1127.145,
+                  1107.4925,
+                  1132.125
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 130.32999999999998,
+                "bytes_per_operation": 289.6,
+                "rounds_ns": [
+                  132.82,
+                  183.62,
+                  126.1325,
+                  127.84
+                ],
+                "rounds_bytes": [
+                  289.6,
+                  289.6,
+                  289.6,
+                  289.6
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 6748.5225,
+                "bytes_per_operation": 16908.0,
+                "rounds_ns": [
+                  6576.205,
+                  6560.7625,
+                  6920.84,
+                  6941.6325
+                ],
+                "rounds_bytes": [
+                  16704.0,
+                  16704.0,
+                  17112.0,
+                  17112.0028
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 104.48,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  107.2775,
+                  102.665,
+                  102.7425,
+                  106.2175
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0128,
+                  560.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 643.1125,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  688.62,
+                  639.97,
+                  636.5825,
+                  646.255
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            },
+            "version": "0.15.72-dev",
+            "index": 1
+          },
+          {
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 99.91,
+                "bytes_per_operation": 289.6,
+                "rounds_ns": [
+                  88.2425,
+                  92.62,
+                  107.2,
+                  180.305
+                ],
+                "rounds_bytes": [
+                  289.6,
+                  289.6,
+                  289.6,
+                  289.6
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1300.9524999999999,
+                "bytes_per_operation": 1351.2,
+                "rounds_ns": [
+                  1321.39,
+                  1278.51,
+                  1285.1875,
+                  1316.7175
+                ],
+                "rounds_bytes": [
+                  1351.2,
+                  1351.2,
+                  1351.2,
+                  1351.203
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6840.8675,
+                "bytes_per_operation": 16648.0,
+                "rounds_ns": [
+                  6138.265,
+                  6684.8,
+                  7012.6,
+                  6996.935
+                ],
+                "rounds_bytes": [
+                  16648.0028,
+                  16648.0,
+                  16648.0,
+                  16648.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 105.2925,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  94.8325,
+                  113.245,
+                  97.34,
+                  122.1725
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 549.3025,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  565.64,
+                  557.735,
+                  540.87,
+                  538.6875
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1132.2325,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1156.06,
+                  1068.89,
+                  1137.19,
+                  1127.275
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 125.23875,
+                "bytes_per_operation": 289.6,
+                "rounds_ns": [
+                  125.21,
+                  123.555,
+                  125.2675,
+                  152.7725
+                ],
+                "rounds_bytes": [
+                  289.6,
+                  289.6,
+                  289.6,
+                  289.6
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 6934.68375,
+                "bytes_per_operation": 16908.0,
+                "rounds_ns": [
+                  6789.4725,
+                  6741.4175,
+                  7079.895,
+                  7157.88
+                ],
+                "rounds_bytes": [
+                  16704.0,
+                  16704.0,
+                  17112.0,
+                  17112.0028
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 99.41874999999999,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  99.175,
+                  99.6625,
+                  104.4925,
+                  96.695
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0128,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 603.58875,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  627.335,
+                  599.1275,
+                  598.0625,
+                  608.05
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            },
+            "version": "0.15.72-dev",
+            "index": 2
+          },
+          {
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 152.2025,
+                "bytes_per_operation": 395.2,
+                "rounds_ns": [
+                  163.0425,
+                  247.12,
+                  138.845,
+                  141.3625
+                ],
+                "rounds_bytes": [
+                  395.2,
+                  395.2,
+                  395.2,
+                  395.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1390.245,
+                "bytes_per_operation": 1499.2,
+                "rounds_ns": [
+                  1386.3825,
+                  1408.1875,
+                  1390.6775,
+                  1389.8125
+                ],
+                "rounds_bytes": [
+                  1499.2,
+                  1499.2,
+                  1499.2,
+                  1499.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6754.686250000001,
+                "bytes_per_operation": 16672.0,
+                "rounds_ns": [
+                  6255.4225,
+                  6796.9925,
+                  6712.38,
+                  6847.28
+                ],
+                "rounds_bytes": [
+                  16672.0016,
+                  16672.0,
+                  16672.0,
+                  16672.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 130.75,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  131.5275,
+                  127.2575,
+                  152.8525,
+                  129.9725
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 1213.8375,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1232.125,
+                  1198.2975,
+                  1198.175,
+                  1229.3775
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1216.625,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1194.65,
+                  1197.335,
+                  1244.45,
+                  1235.915
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 183.41375,
+                "bytes_per_operation": 398.4,
+                "rounds_ns": [
+                  174.88,
+                  181.97,
+                  204.4075,
+                  184.8575
+                ],
+                "rounds_bytes": [
+                  398.4,
+                  398.4,
+                  398.4,
+                  398.4
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 6874.7925,
+                "bytes_per_operation": 16964.0,
+                "rounds_ns": [
+                  6692.4125,
+                  6735.4875,
+                  7080.3,
+                  7014.0975
+                ],
+                "rounds_bytes": [
+                  16760.0,
+                  16760.0,
+                  17168.0016,
+                  17168.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 166.56875000000002,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  168.8075,
+                  164.33,
+                  163.9475,
+                  179.2475
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 1302.90625,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1302.805,
+                  1310.0925,
+                  1272.485,
+                  1303.0075
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            },
+            "version": "0.15.71-dev",
+            "index": 3
+          }
+        ]
+      },
+      "relative_root": "build/prepared72-benchmark-f36e947276c54694b319326ecca09bc9",
+      "scope": "Unreleased earlier prototype; not evidence for final executable. All rounds retained, including cold-path regressions."
+    },
+    {
+      "results": {
+        "scope": "Four isolated JVMs in71,72,72,71 order; all rounds retained. Pure glyph plans with current styles. Microbenchmark, not game FPS/0.1%low/GPU. No live A/B.",
+        "summary": [
+          {
+            "orders": [
+              {
+                "cpu_change_percent": -18.939188578657262,
+                "after_bytes": 299.2122,
+                "before_bytes": 395.2,
+                "after_ns": 123.35125,
+                "before_ns": 152.17125
+              },
+              {
+                "cpu_change_percent": -29.84305115068715,
+                "after_bytes": 289.6,
+                "before_bytes": 395.2,
+                "after_ns": 107.84,
+                "before_ns": 153.71249999999998
+              }
+            ],
+            "mode": "stable_hud"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": -19.81984448165367,
+                "after_bytes": 1351.2,
+                "before_bytes": 1499.2,
+                "after_ns": 1318.0475000000001,
+                "before_ns": 1643.8575
+              },
+              {
+                "cpu_change_percent": -3.3965064196654793,
+                "after_bytes": 1351.2015000000001,
+                "before_bytes": 1499.2,
+                "after_ns": 1340.97,
+                "before_ns": 1388.1175
+              }
+            ],
+            "mode": "stable_outside_fresh_context"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": 0.02003089681907877,
+                "after_bytes": 16680.0,
+                "before_bytes": 16672.0,
+                "after_ns": 6703.48875,
+                "before_ns": 6702.14625
+              },
+              {
+                "cpu_change_percent": -2.9492678882623413,
+                "after_bytes": 16704.0,
+                "before_bytes": 16648.0,
+                "after_ns": 6426.641250000001,
+                "before_ns": 6621.94
+              }
+            ],
+            "mode": "dynamic_counter"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": -29.499753597000645,
+                "after_bytes": 560.0,
+                "before_bytes": 736.0,
+                "after_ns": 91.19999999999999,
+                "before_ns": 129.36124999999998
+              },
+              {
+                "cpu_change_percent": -22.34092804952813,
+                "after_bytes": 560.0,
+                "before_bytes": 736.0,
+                "after_ns": 96.5875,
+                "before_ns": 124.37375
+              }
+            ],
+            "mode": "fresh_colors_actions"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": -52.4547615984996,
+                "after_bytes": 1000.0,
+                "before_bytes": 1800.0,
+                "after_ns": 572.9224999999999,
+                "before_ns": 1205.005
+              },
+              {
+                "cpu_change_percent": -53.967844025530034,
+                "after_bytes": 1000.0,
+                "before_bytes": 1800.0,
+                "after_ns": 543.6225,
+                "before_ns": 1180.9625
+              }
+            ],
+            "mode": "fragmented16"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": 13.508473176873693,
+                "after_bytes": 3856.0,
+                "before_bytes": 3856.0,
+                "after_ns": 1374.78625,
+                "before_ns": 1211.1750000000002
+              },
+              {
+                "cpu_change_percent": -15.00286577447939,
+                "after_bytes": 3856.0,
+                "before_bytes": 3856.0,
+                "after_ns": 1039.9325,
+                "before_ns": 1223.49125
+              }
+            ],
+            "mode": "over_limit_uncached"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": -22.25023887886187,
+                "after_bytes": 289.6,
+                "before_bytes": 398.4,
+                "after_ns": 146.465,
+                "before_ns": 188.38
+              },
+              {
+                "cpu_change_percent": -35.30244050576998,
+                "after_bytes": 289.6,
+                "before_bytes": 398.4,
+                "after_ns": 117.17375,
+                "before_ns": 181.11
+              }
+            ],
+            "mode": "stable_hud_consume"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": -0.5205364964606218,
+                "after_bytes": 16908.0,
+                "before_bytes": 16908.0008,
+                "after_ns": 7409.55375,
+                "before_ns": 7448.325000000001
+              },
+              {
+                "cpu_change_percent": 4.843840580385517,
+                "after_bytes": 16908.0,
+                "before_bytes": 16908.0008,
+                "after_ns": 7030.709999999999,
+                "before_ns": 6705.8875
+              }
+            ],
+            "mode": "dynamic_counter_consume"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": -26.46817850404768,
+                "after_bytes": 560.0,
+                "before_bytes": 736.0,
+                "after_ns": 122.2825,
+                "before_ns": 166.29874999999998
+              },
+              {
+                "cpu_change_percent": -38.83430387241344,
+                "after_bytes": 560.0,
+                "before_bytes": 736.0,
+                "after_ns": 102.01750000000001,
+                "before_ns": 166.78875
+              }
+            ],
+            "mode": "fresh_colors_actions_consume"
+          },
+          {
+            "orders": [
+              {
+                "cpu_change_percent": -45.69550754981086,
+                "after_bytes": 1000.0,
+                "before_bytes": 1800.0,
+                "after_ns": 743.4237499999999,
+                "before_ns": 1368.99125
+              },
+              {
+                "cpu_change_percent": -55.73525636537609,
+                "after_bytes": 1000.0,
+                "before_bytes": 1800.0,
+                "after_ns": 592.71875,
+                "before_ns": 1339.03125
+              }
+            ],
+            "mode": "fragmented16_consume"
+          }
+        ],
+        "runtime_hashes": {
+          "0.15.71-dev": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46",
+          "0.15.72-dev": "AE6810B0A52B927BA58863759D80AD50267AFD3057AFBE99734BB7DADBCF8D55"
+        },
+        "records": [
+          {
+            "index": 0,
+            "version": "0.15.71-dev",
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 152.17125,
+                "bytes_per_operation": 395.2,
+                "rounds_ns": [
+                  163.8625,
+                  228.565,
+                  136.0325,
+                  140.48
+                ],
+                "rounds_bytes": [
+                  395.2,
+                  395.2,
+                  395.2,
+                  395.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1643.8575,
+                "bytes_per_operation": 1499.2,
+                "rounds_ns": [
+                  1605.795,
+                  1681.92,
+                  1911.975,
+                  1525.0375
+                ],
+                "rounds_bytes": [
+                  1499.2,
+                  1499.203,
+                  1499.2,
+                  1499.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6702.14625,
+                "bytes_per_operation": 16672.0,
+                "rounds_ns": [
+                  7077.185,
+                  6526.795,
+                  6717.2175,
+                  6687.075
+                ],
+                "rounds_bytes": [
+                  16672.0,
+                  16672.0,
+                  16672.0,
+                  16672.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 129.36124999999998,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  129.6475,
+                  123.3975,
+                  149.3025,
+                  129.075
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 1205.005,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1197.0425,
+                  1197.84,
+                  1264.69,
+                  1212.17
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1211.1750000000002,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1197.895,
+                  1208.9075,
+                  1228.7075,
+                  1213.4425
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0016,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 188.38,
+                "bytes_per_operation": 398.4,
+                "rounds_ns": [
+                  182.0275,
+                  194.7325,
+                  213.8375,
+                  181.495
+                ],
+                "rounds_bytes": [
+                  398.4,
+                  398.4,
+                  398.4,
+                  398.4
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 7448.325000000001,
+                "bytes_per_operation": 16908.0008,
+                "rounds_ns": [
+                  6623.305,
+                  7606.38,
+                  8756.6875,
+                  7290.27
+                ],
+                "rounds_bytes": [
+                  16704.0,
+                  16704.0016,
+                  17112.0,
+                  17112.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 166.29874999999998,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  164.3075,
+                  168.1775,
+                  164.42,
+                  183.3625
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 1368.99125,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1321.225,
+                  1403.51,
+                  1334.4725,
+                  1494.315
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            }
+          },
+          {
+            "index": 1,
+            "version": "0.15.72-dev",
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 123.35125,
+                "bytes_per_operation": 299.2122,
+                "rounds_ns": [
+                  112.305,
+                  114.71,
+                  131.9925,
+                  182.8925
+                ],
+                "rounds_bytes": [
+                  302.4,
+                  302.4,
+                  296.0244,
+                  284.8
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1318.0475000000001,
+                "bytes_per_operation": 1351.2,
+                "rounds_ns": [
+                  1334.8875,
+                  1305.59,
+                  1296.27,
+                  1330.505
+                ],
+                "rounds_bytes": [
+                  1351.203,
+                  1351.2,
+                  1351.2,
+                  1351.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6703.48875,
+                "bytes_per_operation": 16680.0,
+                "rounds_ns": [
+                  6500.5275,
+                  6697.615,
+                  7033.1575,
+                  6709.3625
+                ],
+                "rounds_bytes": [
+                  16680.0028,
+                  16680.0,
+                  16680.0,
+                  16680.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 91.19999999999999,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  96.865,
+                  107.21,
+                  82.39,
+                  85.535
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 572.9224999999999,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  564.7475,
+                  581.0975,
+                  671.12,
+                  563.875
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1374.78625,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1349.265,
+                  1470.8125,
+                  1387.4275,
+                  1362.145
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 146.465,
+                "bytes_per_operation": 289.6,
+                "rounds_ns": [
+                  151.0475,
+                  141.8825,
+                  159.195,
+                  141.64
+                ],
+                "rounds_bytes": [
+                  289.6,
+                  289.6,
+                  289.6,
+                  289.6
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 7409.55375,
+                "bytes_per_operation": 16908.0,
+                "rounds_ns": [
+                  6919.8225,
+                  7967.3725,
+                  7289.495,
+                  7529.6125
+                ],
+                "rounds_bytes": [
+                  16704.0,
+                  16704.0,
+                  17112.0028,
+                  17112.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 122.2825,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  122.7725,
+                  132.465,
+                  116.265,
+                  121.7925
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 743.4237499999999,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  659.08,
+                  756.9925,
+                  729.855,
+                  788.6525
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            }
+          },
+          {
+            "index": 2,
+            "version": "0.15.72-dev",
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 107.84,
+                "bytes_per_operation": 289.6,
+                "rounds_ns": [
+                  94.9475,
+                  95.735,
+                  119.945,
+                  195.4675
+                ],
+                "rounds_bytes": [
+                  289.6,
+                  289.6,
+                  289.6,
+                  289.6
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1340.97,
+                "bytes_per_operation": 1351.2015000000001,
+                "rounds_ns": [
+                  1336.2475,
+                  1355.86,
+                  1295.8525,
+                  1345.6925
+                ],
+                "rounds_bytes": [
+                  1351.203,
+                  1351.2,
+                  1351.2,
+                  1351.203
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6426.641250000001,
+                "bytes_per_operation": 16704.0,
+                "rounds_ns": [
+                  6358.7825,
+                  6463.6225,
+                  6570.5975,
+                  6389.66
+                ],
+                "rounds_bytes": [
+                  16704.0028,
+                  16704.0,
+                  16704.0,
+                  16704.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 96.5875,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  116.115,
+                  99.4125,
+                  93.7625,
+                  92.5175
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 543.6225,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  562.795,
+                  525.715,
+                  536.13,
+                  551.115
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1039.9325,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1036.665,
+                  1037.5225,
+                  1042.3425,
+                  1048.995
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 117.17375,
+                "bytes_per_operation": 289.6,
+                "rounds_ns": [
+                  125.5475,
+                  132.87,
+                  106.115,
+                  108.8
+                ],
+                "rounds_bytes": [
+                  289.6,
+                  289.6,
+                  289.6,
+                  289.6
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 7030.709999999999,
+                "bytes_per_operation": 16908.0,
+                "rounds_ns": [
+                  6613.9075,
+                  6862.73,
+                  8336.2925,
+                  7198.69
+                ],
+                "rounds_bytes": [
+                  16704.0,
+                  16704.0,
+                  17112.0028,
+                  17112.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 102.01750000000001,
+                "bytes_per_operation": 560.0,
+                "rounds_ns": [
+                  98.175,
+                  101.775,
+                  103.4775,
+                  102.26
+                ],
+                "rounds_bytes": [
+                  560.0,
+                  560.0,
+                  560.0,
+                  560.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 592.71875,
+                "bytes_per_operation": 1000.0,
+                "rounds_ns": [
+                  615.5425,
+                  585.6925,
+                  591.6025,
+                  593.835
+                ],
+                "rounds_bytes": [
+                  1000.0,
+                  1000.0,
+                  1000.0,
+                  1000.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            }
+          },
+          {
+            "index": 3,
+            "version": "0.15.71-dev",
+            "results": {
+              "stable_hud": {
+                "ns_per_operation": 153.71249999999998,
+                "bytes_per_operation": 395.2,
+                "rounds_ns": [
+                  168.38,
+                  222.075,
+                  138.7375,
+                  139.045
+                ],
+                "rounds_bytes": [
+                  395.2,
+                  395.2,
+                  395.2,
+                  395.2
+                ]
+              },
+              "stable_outside_fresh_context": {
+                "ns_per_operation": 1388.1175,
+                "bytes_per_operation": 1499.2,
+                "rounds_ns": [
+                  1383.7825,
+                  1392.4525,
+                  1494.4275,
+                  1368.5475
+                ],
+                "rounds_bytes": [
+                  1499.2,
+                  1499.203,
+                  1499.2,
+                  1499.2
+                ]
+              },
+              "dynamic_counter": {
+                "ns_per_operation": 6621.94,
+                "bytes_per_operation": 16648.0,
+                "rounds_ns": [
+                  6656.6275,
+                  6498.07,
+                  6738.4675,
+                  6587.2525
+                ],
+                "rounds_bytes": [
+                  16648.0016,
+                  16648.0,
+                  16648.0,
+                  16648.0
+                ]
+              },
+              "fresh_colors_actions": {
+                "ns_per_operation": 124.37375,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  123.48,
+                  123.5925,
+                  144.9925,
+                  125.155
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16": {
+                "ns_per_operation": 1180.9625,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1188.745,
+                  1177.0925,
+                  1182.2275,
+                  1179.6975
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "over_limit_uncached": {
+                "ns_per_operation": 1223.49125,
+                "bytes_per_operation": 3856.0,
+                "rounds_ns": [
+                  1225.465,
+                  1215.4775,
+                  1248.2325,
+                  1221.5175
+                ],
+                "rounds_bytes": [
+                  3856.0,
+                  3856.0,
+                  3856.0,
+                  3856.0
+                ]
+              },
+              "stable_hud_consume": {
+                "ns_per_operation": 181.11,
+                "bytes_per_operation": 398.4,
+                "rounds_ns": [
+                  179.63,
+                  177.995,
+                  182.59,
+                  203.335
+                ],
+                "rounds_bytes": [
+                  398.4,
+                  398.4,
+                  398.4,
+                  398.4
+                ]
+              },
+              "dynamic_counter_consume": {
+                "ns_per_operation": 6705.8875,
+                "bytes_per_operation": 16908.0008,
+                "rounds_ns": [
+                  6484.475,
+                  6564.245,
+                  6917.77,
+                  6847.53
+                ],
+                "rounds_bytes": [
+                  16704.0,
+                  16704.0016,
+                  17112.0,
+                  17112.0
+                ]
+              },
+              "fresh_colors_actions_consume": {
+                "ns_per_operation": 166.78875,
+                "bytes_per_operation": 736.0,
+                "rounds_ns": [
+                  191.1675,
+                  163.64,
+                  168.2025,
+                  165.375
+                ],
+                "rounds_bytes": [
+                  736.0,
+                  736.0,
+                  736.0,
+                  736.0
+                ]
+              },
+              "fragmented16_consume": {
+                "ns_per_operation": 1339.03125,
+                "bytes_per_operation": 1800.0,
+                "rounds_ns": [
+                  1356.9775,
+                  1350.9375,
+                  1327.125,
+                  1306.5775
+                ],
+                "rounds_bytes": [
+                  1800.0,
+                  1800.0,
+                  1800.0,
+                  1800.0
+                ]
+              },
+              "scope": "Same sequence/sequenceOutsideHud API on71/72.20k warm batches;4x4k measured batches of10. Direct HUD modes use a fixed caller snapshot;outside mode includes fresh StackWalker. Source construction included equally. Not game FPS,0.1%low, GPU, actual draw frequencies or full-frame timing."
+            }
+          }
+        ]
+      },
+      "relative_root": "build/prepared72-benchmark-279482a493ea4bb0ae536247801f125d",
+      "scope": "Unreleased earlier prototype; not evidence for final executable. All rounds retained, including cold-path regressions."
+    }
+  ],
+  "scope": "Eight processes on the final executable/baseline: four main with long counter rounds and CPU counters, four earlier short-round confirmation. Sixteen earlier prototype processes kept separately, not pooled into final results. Legacy cpu_change_percent field is wall nanoTime change; actual thread CPU is separate, meaningful here only for long counter rounds. No game FPS,0.1%low,GPU or full-frame A/B."
+}

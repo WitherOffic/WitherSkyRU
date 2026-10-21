@@ -1,0 +1,12 @@
+{
+  "interrupted_run": "build/eggs114-checks-4469738127994ff2be8d59f5b117fe46",
+  "retained_source": "build/eggs114-checks-4469738127994ff2be8d59f5b117fe46/TestEggs114-before-fixture-cache.java",
+  "before_source_sha256": "35C0B2E5A956F0C1220CEB0BC4D5A410CA592D87380F0974BFCE2E2E31812C8D",
+  "after_source_sha256": "C7303223EC95ECB654509640DDF5675E19A66874C495A9521BD8BA4B75F8D223",
+  "reason": "Unnecessary repeated full dictionary construction in the new test fixture,not a production failure.",
+  "change": "At most8 immutable OfflineDictionary fixtures reused only for identical source override key AND target value. Current message components/styles/actions are not reused or cached.",
+  "case_count": 4480,
+  "all_existing_assertions_and_loops_retained": true,
+  "production_modified": false,
+  "successes_reused": false
+}

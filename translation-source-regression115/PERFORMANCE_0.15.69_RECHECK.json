@@ -1,0 +1,334 @@
+{
+  "results": [
+    {
+      "before_microseconds_per_input": [
+        0.029520499999999998,
+        0.02997475
+      ],
+      "after_microseconds_per_input": [
+        0.0367775,
+        0.0362055
+      ],
+      "cpu_percent": [
+        24.582916956013623,
+        20.786662107273624
+      ],
+      "mode": "world_unknown"
+    },
+    {
+      "before_microseconds_per_input": [
+        0.01430625,
+        0.0141765
+      ],
+      "after_microseconds_per_input": [
+        0.014107999999999999,
+        0.014108250000000001
+      ],
+      "cpu_percent": [
+        -1.3857579729139258,
+        -0.4814305364511551
+      ],
+      "mode": "world_player"
+    },
+    {
+      "before_microseconds_per_input": [
+        2.3688635,
+        2.3282125000000002
+      ],
+      "after_microseconds_per_input": [
+        2.35063175,
+        2.3349105000000003
+      ],
+      "cpu_percent": [
+        -0.769641222468076,
+        0.28768851640474935
+      ],
+      "mode": "world_minion"
+    }
+  ],
+  "scope": "Repeat all three equal-output world scenarios separately,with 100000 warmup/4x20000 measured batches;68,69,69,68 each. Does not overwrite initial28 process results. All timing and allocation rounds retained;not FPS.",
+  "date": "2026-10-15",
+  "raw": [
+    {
+      "mode": "world_unknown",
+      "runs": [
+        {
+          "version": "0.15.68-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_unknown": {
+            "ms_per10": 0.000295205,
+            "bytes_per10": 1936.0,
+            "rounds_ms": [
+              0.000287265,
+              0.000301305,
+              0.000289105,
+              0.00039652
+            ],
+            "rounds_bytes": [
+              1936.0,
+              1936.0,
+              1936.0,
+              1936.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_unknown": {
+            "ms_per10": 0.000367775,
+            "bytes_per10": 1936.0,
+            "rounds_ms": [
+              0.000366765,
+              0.000368785,
+              0.00036164,
+              0.00046745
+            ],
+            "rounds_bytes": [
+              1936.0,
+              1936.0,
+              1936.0,
+              1936.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_unknown": {
+            "ms_per10": 0.000362055,
+            "bytes_per10": 1936.0,
+            "rounds_ms": [
+              0.00035896,
+              0.00036192,
+              0.00036219,
+              0.00047861
+            ],
+            "rounds_bytes": [
+              1936.0,
+              1936.0,
+              1936.0,
+              1936.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.68-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_unknown": {
+            "ms_per10": 0.0002997475,
+            "bytes_per10": 1936.0,
+            "rounds_ms": [
+              0.00029353,
+              0.000305965,
+              0.000292305,
+              0.000412285
+            ],
+            "rounds_bytes": [
+              1936.0,
+              1936.0,
+              1936.0,
+              1936.0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mode": "world_player",
+      "runs": [
+        {
+          "version": "0.15.68-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_player": {
+            "ms_per10": 0.0001430625,
+            "bytes_per10": 856.0,
+            "rounds_ms": [
+              0.000141,
+              0.000143095,
+              0.000143035,
+              0.00014309
+            ],
+            "rounds_bytes": [
+              856.0,
+              856.0,
+              856.0,
+              856.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_player": {
+            "ms_per10": 0.00014108,
+            "bytes_per10": 856.0,
+            "rounds_ms": [
+              0.00014154,
+              0.000141965,
+              0.00014062,
+              0.000140065
+            ],
+            "rounds_bytes": [
+              856.0,
+              856.0,
+              856.0,
+              856.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_player": {
+            "ms_per10": 0.0001410825,
+            "bytes_per10": 856.0,
+            "rounds_ms": [
+              0.000141925,
+              0.000139775,
+              0.00014024,
+              0.000148755
+            ],
+            "rounds_bytes": [
+              856.0,
+              856.0,
+              856.0,
+              856.0
+            ]
+          }
+        },
+        {
+          "version": "0.15.68-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_player": {
+            "ms_per10": 0.000141765,
+            "bytes_per10": 856.0,
+            "rounds_ms": [
+              0.000141195,
+              0.000140075,
+              0.000142335,
+              0.000144235
+            ],
+            "rounds_bytes": [
+              856.0,
+              856.0,
+              856.0,
+              856.0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mode": "world_minion",
+      "runs": [
+        {
+          "version": "0.15.68-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_minion": {
+            "ms_per10": 0.023688635,
+            "bytes_per10": 36672.02099999999,
+            "rounds_ms": [
+              0.023639685,
+              0.023658375,
+              0.023718895,
+              0.023733935
+            ],
+            "rounds_bytes": [
+              36672.0084,
+              36672.0252,
+              36672.0168,
+              36672.0368
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_minion": {
+            "ms_per10": 0.0235063175,
+            "bytes_per10": 36672.0226,
+            "rounds_ms": [
+              0.023410145,
+              0.02351684,
+              0.023495795,
+              0.023718
+            ],
+            "rounds_bytes": [
+              36672.0252,
+              36672.0168,
+              36672.0252,
+              36672.02
+            ]
+          }
+        },
+        {
+          "version": "0.15.69-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_minion": {
+            "ms_per10": 0.023349105000000002,
+            "bytes_per10": 36912.042,
+            "rounds_ms": [
+              0.023383815,
+              0.023333485,
+              0.023330195,
+              0.023364725
+            ],
+            "rounds_bytes": [
+              36912.042,
+              36912.042,
+              36912.0336,
+              36912.0452
+            ]
+          }
+        },
+        {
+          "version": "0.15.68-dev",
+          "scope": "7 isolated text API scenarios;per10 inputs. New roles/NPC positive rows perform more useful output translation than68. CPU elapsed loop timings, no world/font/GPU/FPS. Allocation rounds retained.",
+          "warmup_batches": 100000,
+          "measured_batches": 20000,
+          "world_minion": {
+            "ms_per10": 0.023282125,
+            "bytes_per10": 36672.0226,
+            "rounds_ms": [
+              0.02314083,
+              0.02326586,
+              0.02329839,
+              0.023299675
+            ],
+            "rounds_bytes": [
+              36672.0252,
+              36672.0168,
+              36672.0252,
+              36672.02
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "jar_sha256": "518B5761230191B5ECD80443E3D1369611FE47BD96FFE864FE9198D0C45F3930",
+  "root": "C:\\Users\\Wither\\Documents\\Codex\\2026-10-09\\referenced-chatgpt-conversation-this-is-an-3\\work\\rebuild\\WitherSkyRU\\build\\hub-recheck69-5431c96c56f04025918727c262d92a1d"
+}

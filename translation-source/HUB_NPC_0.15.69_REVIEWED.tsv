@@ -1,0 +1,86 @@
+# speaker|source body|reviewed Russian body|semantic anchors JSON (optional)
+# Observed public NPC speech; exact source samples are independently extracted from local logs.
+Maxwell|Accessories are X magical X pieces of gear.|Аксессуары — X волшебные X предметы снаряжения.|[{"source":"X","target":"X","source_occurrence":1,"target_occurrence":1},{"source":"magical","target":"волшебные"},{"source":"X","target":"X","source_occurrence":2,"target_occurrence":2}]
+Maxwell|To truly harness their power, collect as many as possible and store them in your Accessory Bag!|Чтобы раскрыть их силу, соберите как можно больше аксессуаров и храните их в сумке аксессуаров!|[{"source":"Accessory Bag","target":"сумке аксессуаров"}]
+Maxwell|On top of their existing abilities, each accessory makes your Accessory Bag more powerful!|Помимо собственных способностей, каждый аксессуар усиливает вашу сумку аксессуаров!|[{"source":"Accessory Bag","target":"сумку аксессуаров"}]
+Maxwell|Accessories add some ACCESSORY POWER to the bag depending on their rarity.|Аксессуары добавляют сумке СИЛУ АКСЕССУАРОВ в зависимости от своей редкости.|[{"source":"ACCESSORY POWER","target":"СИЛУ АКСЕССУАРОВ"},{"source":"rarity","target":"редкости"}]
+Maxwell|Yes! The more Accessory Power, the more stats like  Health or  Intelligence you get from your Accessory Bag.|Да! Чем выше сила аксессуаров, тем больше характеристик, например  здоровья или  интеллекта, даёт ваша сумка аксессуаров.|[{"source":"Accessory Power","target":"сила аксессуаров"},{"source":" Health","target":" здоровья"},{"source":" Intelligence","target":" интеллекта"},{"source":"Accessory Bag","target":"сумка аксессуаров"}]
+Maxwell|No, it's magic!|Нет, это волшебство!|[{"source":"magic","target":"волшебство"}]
+Maxwell|Even better, YOU choose what stats you get!|И что ещё лучше: ВЫ сами выбираете, какие характеристики получить!|[{"source":"YOU","target":"ВЫ"}]
+Maxwell|Check it out!|Попробуйте сами!
+Bartender|I want to make some new brews, do you think you can give me some ingredients to work with?|Хочу приготовить новые напитки. Не найдётся ли у тебя подходящих ингредиентов?
+Bartender|Many Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course.|Большое спасибо! Как только всё будет готово, дам тебе попробовать первым... Разумеется, со скидкой.
+Combat Merchant|Exploring the whole wide world makes me hungry, I could take some fresh potatoes.|От путешествий по всему свету разыгрывается аппетит. Не отказался бы от свежей картошки.
+Librarian|Very unfortunate, I really needed that paper...|Очень жаль, мне так нужна была эта бумага...
+Security Clerk|The Security Hall is only for authorized personnel.|В Зал охраны допускаются только уполномоченные сотрудники.|[{"source":"Security Hall","target":"Зал охраны"}]
+Sherry|Check out our new Festive Sinker, which is great for fishing up Gifts!|Взгляните на наше новое праздничное грузило: оно отлично подходит для вылавливания подарков!|[{"source":"Festive Sinker","target":"праздничное грузило"},{"source":"Gifts","target":"подарков"}]
+Sherry|For the holidays, we're offering exclusive doorbuster deals for the whole family to enjoy!|К праздникам у нас особые предложения по невероятным ценам — для всей семьи!
+Sherry|We are also offering Frosty the Snow Blaster, an upgraded Snow Cannon that shoots much farther!|А ещё у нас есть снежный бластер «Фрости» — улучшенная снежная пушка, которая стреляет гораздо дальше!|[{"source":"Frosty the Snow Blaster","target":"снежный бластер «Фрости»"},{"source":"Snow Cannon","target":"снежная пушка"}]
+Trevor|I've been tracking an animal for the past few days. Got anything I could use as bait?|Уже несколько дней выслеживаю одно животное. Найдётся что-нибудь для приманки?
+Trevor|Looks like I'll have to catch it the old fashioned way.|Похоже, придётся ловить его по старинке.
+Adventurer Saul|Have you noticed that it's not possible to enter The Catacombs alone?|Заметили, что в Катакомбы нельзя войти в одиночку?|[{"source":"The Catacombs","target":"Катакомбы"}]
+Adventurer Saul|I've been thinking recently...|В последнее время я тут размышлял...
+Croesus|Complete a run of The Catacombs or Kuudra first!|Сначала завершите забег в Катакомбы или одолейте Куудру!|[{"source":"The Catacombs","target":"Катакомбы"},{"source":"Kuudra","target":"Куудру"}]
+Farmer Jon|Cultivating sugar cane gets boring eventually.|Со временем выращивать сахарный тростник становится скучно.
+Farmer Jon|I've competed in numerous sugar cane contests, but I've never actually tried farming other crops.|Участвовал во множестве соревнований по сбору сахарного тростника, а другие культуры так и не пробовал выращивать.
+Hendrik|Y'know when I'm fishing here it always feels just as fast as up top.|Знаешь, здесь рыба, кажется, клюёт так же быстро, как и наверху.
+Hendrik|I miss Helena...|Скучаю по Хелене...|[{"source":"Helena","target":"Хелене"}]
+Jerry|Jerry!|Джерри!
+Jerry|Jerry?|Джерри?
+Jerry|Jerry.|Джерри.
+Jerry|Jerry...|Джерри...
+Lift Operator|Cheers, that's the stuff!|Спасибо, вот это то, что нужно!
+Lift Operator|Operating that lift all day takes a lot outta ya, you know?|Знаешь, целый день управлять подъёмником — дело изматывающее.
+Mort|Our forces are made of rotting adventurers.|Наши войска состоят из гниющих искателей приключений.|[{"source":"Our forces","target":"Наши войска"}]
+Mort|A /party of 5 players is crucial.|Обязательно соберите группу командой /party: нужно 5 игроков.|[{"source":"/party","target":"/party"},{"source":"5 players","target":"5 игроков"}]
+Mort|Don't forget your Dungeon Orb!|Не забудьте Сферу подземелий!|[{"source":"Dungeon Orb","target":"Сферу подземелий"}]
+Mort|I wish you the best of luck.|Желаю вам удачи.
+Mort|It gives each class 2 unique abilities inside Dungeons!|В подземельях она даёт каждому классу 2 уникальные способности!|[{"source":"2","target":"2"},{"source":"Dungeons","target":"подземельях"}]
+Mort|Preferably, an eternal adventure.|Желательно — вечное приключение.|[{"source":"eternal","target":"вечное"}]
+Mort|Right-click the Orb for spells, and Left-click (or Drop) to use your Ultimate!|Нажмите ПКМ со Сферой в руке, чтобы применить заклинание, а ЛКМ или клавишу выбрасывания предмета — чтобы использовать ультимативную способность!|[{"source":"Right-click","target":"ПКМ"},{"source":"Orb","target":"Сферой"},{"source":"Left-click","target":"ЛКМ"},{"source":"Drop","target":"клавишу выбрасывания предмета"},{"source":"Ultimate","target":"ультимативную способность"}]
+Mort|Time to make friends.|Пора обзавестись друзьями.
+Mort|We hope you have a long stay!|Надеемся, вы задержитесь надолго!
+Pesthunter Phillip|Bring some back for me to, uh...study...and I'll reward you with  Farming Fortune for your troubles!|Принеси мне несколько штук для, э-э... изучения... А я награжу тебя  фермерской удачей за хлопоты!|[{"source":" Farming Fortune","target":" фермерской удачей"}]
+Pesthunter Phillip|Go out there and vacuum a  Pest!|А теперь иди и поймай пылесосом  вредителя!|[{"source":"vacuum","target":"поймай пылесосом"},{"source":" Pest","target":" вредителя"}]
+Pesthunter Phillip|It's not hard. Just aim, hold down the button, and don't stop until the bug's been squashed!|Это несложно. Наведи прицел, зажми кнопку и не отпускай, пока не расправишься с вредителем!
+Pesthunter Phillip|To each their own. I'm fascinated by these little fellers!|Каждому своё. А мне эти малыши очень интересны!
+Pesthunter Phillip|Wow! Look at that ugly thing. Bet you had a blast trying to wrangle it into your vacuum!|Ого, вот уродец! Наверняка было весело загонять его в пылесос!
+Pesthunter Phillip|Come back soon when I can handle more!|Возвращайся, когда я снова смогу принять вредителей!
+Seymour|Looking to buy something fancy?|Хотите прикупить что-нибудь изысканное?
+Shaggy|Hey kid, I haven't seen you in a while. Arachne's powers are growing day by day. Soon she'll take over the Spider's Den.|Давно тебя не видел, малыш. Сила Арахны растёт с каждым днём. Скоро она захватит Паучье логово.|[{"source":"Arachne","target":"Арахны"},{"source":"Spider's Den","target":"Паучье логово"}]
+Shaggy|I wish peace upon you.|Мира тебе.
+Terry|Bring enough hunks back to me and I might even sell you some Reforge Stones for your fishing rods.|Принеси мне достаточно глыб — и я, пожалуй, продам тебе камни перековки для удочек.|[{"source":"Reforge Stones","target":"камни перековки"}]
+Terry|I'm looking for Hunk of Ice and Hunk of Blue Ice.|Мне нужны кусок льда и кусок синего льда.|[{"source":"Hunk of Ice","target":"кусок льда"},{"source":"Hunk of Blue Ice","target":"кусок синего льда"}]
+Terry|You can find these by ice fishing in the pond - break the ice and cast your rod!|Их можно найти при подлёдной рыбалке в пруду: разбей лёд и забрасывай удочку!|[{"source":"ice fishing","target":"подлёдной рыбалке"}]
+Terry|You may have noticed that this pond is full of unique creatures and treasures!|Ты наверняка заметил, что в этом пруду полно необычных существ и сокровищ!
+# Published dialogue variants; not claimed to be current live captures.
+Maxwell|Accessories are magical pieces of gear.|Аксессуары — волшебные предметы снаряжения.|[{"source":"magical","target":"волшебные"}]
+Maxwell|Accessories add some MAGICAL POWER to the bag depending on their rarity.|Аксессуары добавляют сумке МАГИЧЕСКУЮ СИЛУ в зависимости от своей редкости.|[{"source":"MAGICAL POWER","target":"МАГИЧЕСКУЮ СИЛУ"},{"source":"rarity","target":"редкости"}]
+Maxwell|Yes! The more Magical Power, the more stats like ❤ Health or ✎ Intelligence you get from your Accessory Bag.|Да! Чем выше магическая сила, тем больше характеристик, например ❤ здоровья или ✎ интеллекта, даёт ваша сумка аксессуаров.|[{"source":"Magical Power","target":"магическая сила"},{"source":"❤ Health","target":"❤ здоровья"},{"source":"✎ Intelligence","target":"✎ интеллекта"},{"source":"Accessory Bag","target":"сумка аксессуаров"}]
+Maxwell|I'm not so sure about this power, it's used by some dark wizards.|Не уверен насчёт этой силы: ею пользуются некоторые тёмные маги.|[{"source":"dark wizards","target":"тёмные маги"}]
+Maxwell|✆ You want my Abiphone contact?|✆ Хотите добавить меня в контакты Абифона?|[{"source":"Abiphone","target":"Абифона"}]
+Maxwell|✆ That way you'll be able to access my features from anywhere?|✆ Чтобы пользоваться моими услугами откуда угодно?
+Maxwell|✆ Isn't that cheating though?|✆ А это разве не жульничество?
+Maxwell|✆ Don't you know you are supposed to walk all the way here every single time?|✆ Разве вы не знаете, что каждый раз нужно приходить сюда пешком?
+Maxwell|✆ Ah well, times are changing I suppose...|✆ Ну что ж, времена меняются...
+Maxwell|✆ Plus it's a magical object, so it's not that bad.|✆ К тому же это волшебный предмет, так что ничего страшного.|[{"source":"magical","target":"волшебный"}]
+Maxwell|✆ Now let's see, what should I ask for it...|✆ Посмотрим, что бы попросить взамен...
+Maxwell|✆ What about some more Luxurious Spool, hum?|✆ Может, ещё роскошных катушек, а?|[{"source":"Luxurious Spool","target":"роскошных катушек"}]
+Maxwell|✆ I'm joking! Bring me Ultimate Carrot Candy x2.|✆ Шучу! Принесите мне лучшие морковные конфеты x2.|[{"source":"Ultimate Carrot Candy","target":"лучшие морковные конфеты"},{"source":"x2","target":"x2"}]
+Maxwell|✆ I have pets to feed.|✆ Мне нужно кормить питомцев.
+Maxwell|✆ My frogs are going to love that, thanks a lot!|✆ Моим лягушкам понравится! Большое спасибо!
+Maxwell|✆ You don't have what I need! Nice try!|✆ У вас нет того, что мне нужно! Неплохая попытка!
+Jacobus|An investment in knowledge pays the best interest.|Вложения в знания приносят наибольшие проценты.
+Jacobus|Coins aren't everything, but everything needs coins.|Монеты — не всё, но для всего нужны монеты.
+Jacobus|Coins isn't everything, but everything needs coins.|Монеты — не всё, но для всего нужны монеты.
+Jacobus|Wealth consists not in having great possessions, but in having few wants.|Богатство не в том, чтобы много иметь, а в том, чтобы мало желать.
+Jacobus|You must gain control over your coins or the lack of it will forever control you.|Научитесь управлять своими монетами, иначе их нехватка будет вечно управлять вами.
+Jacobus|It's not the Steve who has too little, but the Steve who craves more, who is poor.|Беден не тот Стив, у которого мало, а тот Стив, которому всегда хочется большего.|[{"source":"Steve","target":"Стив","source_occurrence":1,"target_occurrence":1},{"source":"Steve","target":"Стив","source_occurrence":2,"target_occurrence":2}]
+Jacobus|Empty pockets never held anyone back. Only empty heads and empty hearts can do that.|Пустые карманы ещё никого не останавливали. На это способны лишь пустые головы и пустые сердца.
+Jacobus|The real measure of your wealth is how much you'd be worth if you lost all your coins.|Истинная мера богатства — то, что вы представляли бы собой, потеряв все монеты.
+Jacobus|If you live for having it all, what you have is never enough.|Если жить ради обладания всем на свете, того, что есть, всегда будет мало.
+Jacobus|Coins don't buy happiness, but it helps.|Счастье за монеты не купишь, но с ними легче.
+Maths Enjoyer|Hey if you really want to know…|Если тебе и правда интересно…
+Maths Enjoyer|The formula to Magical Power is…|Вот формула магической силы…|[{"source":"Magical Power","target":"магической силы"}]
+Maths Enjoyer|Stats Mult. = 29.97(ln(0.0019 MP+1))^1.2|Множитель характеристик = 29.97(ln(0.0019 MP+1))^1.2|[{"source":"29.97(ln(0.0019 MP+1))^1.2","target":"29.97(ln(0.0019 MP+1))^1.2"}]
+Maths Enjoyer|Have fun with that!|Развлекайся!

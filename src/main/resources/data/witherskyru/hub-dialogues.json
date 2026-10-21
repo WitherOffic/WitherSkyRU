@@ -1,0 +1,938 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "Finite exact NPC additions; all existing providers unchanged. Loaded into the existing story lookup at startup, not a ninth per-message provider. Published legacy variants are not claims about current mechanics.",
+  "records": [
+    {
+      "source_key": "hub69.0",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: Accessories are X magical X pieces of gear.",
+      "translation": "[NPC] Maxwell: Аксессуары — X волшебные X предметы снаряжения.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "X",
+          "target": "X",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        },
+        {
+          "source": "magical",
+          "target": "волшебные"
+        },
+        {
+          "source": "X",
+          "target": "X",
+          "source_occurrence": 2,
+          "target_occurrence": 2
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.1",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: To truly harness their power, collect as many as possible and store them in your Accessory Bag!",
+      "translation": "[NPC] Maxwell: Чтобы раскрыть их силу, соберите как можно больше аксессуаров и храните их в сумке аксессуаров!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Accessory Bag",
+          "target": "сумке аксессуаров"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.2",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: On top of their existing abilities, each accessory makes your Accessory Bag more powerful!",
+      "translation": "[NPC] Maxwell: Помимо собственных способностей, каждый аксессуар усиливает вашу сумку аксессуаров!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Accessory Bag",
+          "target": "сумку аксессуаров"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.3",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: Accessories add some ACCESSORY POWER to the bag depending on their rarity.",
+      "translation": "[NPC] Maxwell: Аксессуары добавляют сумке СИЛУ АКСЕССУАРОВ в зависимости от своей редкости.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "ACCESSORY POWER",
+          "target": "СИЛУ АКСЕССУАРОВ"
+        },
+        {
+          "source": "rarity",
+          "target": "редкости"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.4",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: Yes! The more Accessory Power, the more stats like  Health or  Intelligence you get from your Accessory Bag.",
+      "translation": "[NPC] Maxwell: Да! Чем выше сила аксессуаров, тем больше характеристик, например  здоровья или  интеллекта, даёт ваша сумка аксессуаров.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Accessory Power",
+          "target": "сила аксессуаров"
+        },
+        {
+          "source": " Health",
+          "target": " здоровья"
+        },
+        {
+          "source": " Intelligence",
+          "target": " интеллекта"
+        },
+        {
+          "source": "Accessory Bag",
+          "target": "сумка аксессуаров"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.5",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: No, it's magic!",
+      "translation": "[NPC] Maxwell: Нет, это волшебство!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "magic",
+          "target": "волшебство"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.6",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: Even better, YOU choose what stats you get!",
+      "translation": "[NPC] Maxwell: И что ещё лучше: ВЫ сами выбираете, какие характеристики получить!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "YOU",
+          "target": "ВЫ"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.7",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: Check it out!",
+      "translation": "[NPC] Maxwell: Попробуйте сами!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.8",
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: I want to make some new brews, do you think you can give me some ingredients to work with?",
+      "translation": "[NPC] Bartender: Хочу приготовить новые напитки. Не найдётся ли у тебя подходящих ингредиентов?",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.9",
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: Many Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course.",
+      "translation": "[NPC] Bartender: Большое спасибо! Как только всё будет готово, дам тебе попробовать первым... Разумеется, со скидкой.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.10",
+      "speaker": "Combat Merchant",
+      "source": "[NPC] Combat Merchant: Exploring the whole wide world makes me hungry, I could take some fresh potatoes.",
+      "translation": "[NPC] Combat Merchant: От путешествий по всему свету разыгрывается аппетит. Не отказался бы от свежей картошки.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.11",
+      "speaker": "Librarian",
+      "source": "[NPC] Librarian: Very unfortunate, I really needed that paper...",
+      "translation": "[NPC] Librarian: Очень жаль, мне так нужна была эта бумага...",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.12",
+      "speaker": "Security Clerk",
+      "source": "[NPC] Security Clerk: The Security Hall is only for authorized personnel.",
+      "translation": "[NPC] Security Clerk: В Зал охраны допускаются только уполномоченные сотрудники.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Security Hall",
+          "target": "Зал охраны"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.13",
+      "speaker": "Sherry",
+      "source": "[NPC] Sherry: Check out our new Festive Sinker, which is great for fishing up Gifts!",
+      "translation": "[NPC] Sherry: Взгляните на наше новое праздничное грузило: оно отлично подходит для вылавливания подарков!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Festive Sinker",
+          "target": "праздничное грузило"
+        },
+        {
+          "source": "Gifts",
+          "target": "подарков"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.14",
+      "speaker": "Sherry",
+      "source": "[NPC] Sherry: For the holidays, we're offering exclusive doorbuster deals for the whole family to enjoy!",
+      "translation": "[NPC] Sherry: К праздникам у нас особые предложения по невероятным ценам — для всей семьи!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.15",
+      "speaker": "Sherry",
+      "source": "[NPC] Sherry: We are also offering Frosty the Snow Blaster, an upgraded Snow Cannon that shoots much farther!",
+      "translation": "[NPC] Sherry: А ещё у нас есть снежный бластер «Фрости» — улучшенная снежная пушка, которая стреляет гораздо дальше!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Frosty the Snow Blaster",
+          "target": "снежный бластер «Фрости»"
+        },
+        {
+          "source": "Snow Cannon",
+          "target": "снежная пушка"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.16",
+      "speaker": "Trevor",
+      "source": "[NPC] Trevor: I've been tracking an animal for the past few days. Got anything I could use as bait?",
+      "translation": "[NPC] Trevor: Уже несколько дней выслеживаю одно животное. Найдётся что-нибудь для приманки?",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.17",
+      "speaker": "Trevor",
+      "source": "[NPC] Trevor: Looks like I'll have to catch it the old fashioned way.",
+      "translation": "[NPC] Trevor: Похоже, придётся ловить его по старинке.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.18",
+      "speaker": "Adventurer Saul",
+      "source": "[NPC] Adventurer Saul: Have you noticed that it's not possible to enter The Catacombs alone?",
+      "translation": "[NPC] Adventurer Saul: Заметили, что в Катакомбы нельзя войти в одиночку?",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "The Catacombs",
+          "target": "Катакомбы"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.19",
+      "speaker": "Adventurer Saul",
+      "source": "[NPC] Adventurer Saul: I've been thinking recently...",
+      "translation": "[NPC] Adventurer Saul: В последнее время я тут размышлял...",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.20",
+      "speaker": "Croesus",
+      "source": "[NPC] Croesus: Complete a run of The Catacombs or Kuudra first!",
+      "translation": "[NPC] Croesus: Сначала завершите забег в Катакомбы или одолейте Куудру!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "The Catacombs",
+          "target": "Катакомбы"
+        },
+        {
+          "source": "Kuudra",
+          "target": "Куудру"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.21",
+      "speaker": "Farmer Jon",
+      "source": "[NPC] Farmer Jon: Cultivating sugar cane gets boring eventually.",
+      "translation": "[NPC] Farmer Jon: Со временем выращивать сахарный тростник становится скучно.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.22",
+      "speaker": "Farmer Jon",
+      "source": "[NPC] Farmer Jon: I've competed in numerous sugar cane contests, but I've never actually tried farming other crops.",
+      "translation": "[NPC] Farmer Jon: Участвовал во множестве соревнований по сбору сахарного тростника, а другие культуры так и не пробовал выращивать.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.23",
+      "speaker": "Hendrik",
+      "source": "[NPC] Hendrik: Y'know when I'm fishing here it always feels just as fast as up top.",
+      "translation": "[NPC] Hendrik: Знаешь, здесь рыба, кажется, клюёт так же быстро, как и наверху.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.24",
+      "speaker": "Hendrik",
+      "source": "[NPC] Hendrik: I miss Helena...",
+      "translation": "[NPC] Hendrik: Скучаю по Хелене...",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Helena",
+          "target": "Хелене"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.25",
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry!",
+      "translation": "[NPC] Jerry: Джерри!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.26",
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry?",
+      "translation": "[NPC] Jerry: Джерри?",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.27",
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry.",
+      "translation": "[NPC] Jerry: Джерри.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.28",
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry...",
+      "translation": "[NPC] Jerry: Джерри...",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.29",
+      "speaker": "Lift Operator",
+      "source": "[NPC] Lift Operator: Cheers, that's the stuff!",
+      "translation": "[NPC] Lift Operator: Спасибо, вот это то, что нужно!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.30",
+      "speaker": "Lift Operator",
+      "source": "[NPC] Lift Operator: Operating that lift all day takes a lot outta ya, you know?",
+      "translation": "[NPC] Lift Operator: Знаешь, целый день управлять подъёмником — дело изматывающее.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.31",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: Our forces are made of rotting adventurers.",
+      "translation": "[NPC] Mort: Наши войска состоят из гниющих искателей приключений.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Our forces",
+          "target": "Наши войска"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.32",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: A /party of 5 players is crucial.",
+      "translation": "[NPC] Mort: Обязательно соберите группу командой /party: нужно 5 игроков.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "/party",
+          "target": "/party"
+        },
+        {
+          "source": "5 players",
+          "target": "5 игроков"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.33",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: Don't forget your Dungeon Orb!",
+      "translation": "[NPC] Mort: Не забудьте Сферу подземелий!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Dungeon Orb",
+          "target": "Сферу подземелий"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.34",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: I wish you the best of luck.",
+      "translation": "[NPC] Mort: Желаю вам удачи.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.35",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: It gives each class 2 unique abilities inside Dungeons!",
+      "translation": "[NPC] Mort: В подземельях она даёт каждому классу 2 уникальные способности!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "2",
+          "target": "2"
+        },
+        {
+          "source": "Dungeons",
+          "target": "подземельях"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.36",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: Preferably, an eternal adventure.",
+      "translation": "[NPC] Mort: Желательно — вечное приключение.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "eternal",
+          "target": "вечное"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.37",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: Right-click the Orb for spells, and Left-click (or Drop) to use your Ultimate!",
+      "translation": "[NPC] Mort: Нажмите ПКМ со Сферой в руке, чтобы применить заклинание, а ЛКМ или клавишу выбрасывания предмета — чтобы использовать ультимативную способность!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Right-click",
+          "target": "ПКМ"
+        },
+        {
+          "source": "Orb",
+          "target": "Сферой"
+        },
+        {
+          "source": "Left-click",
+          "target": "ЛКМ"
+        },
+        {
+          "source": "Drop",
+          "target": "клавишу выбрасывания предмета"
+        },
+        {
+          "source": "Ultimate",
+          "target": "ультимативную способность"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.38",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: Time to make friends.",
+      "translation": "[NPC] Mort: Пора обзавестись друзьями.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.39",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: We hope you have a long stay!",
+      "translation": "[NPC] Mort: Надеемся, вы задержитесь надолго!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.40",
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Bring some back for me to, uh...study...and I'll reward you with  Farming Fortune for your troubles!",
+      "translation": "[NPC] Pesthunter Phillip: Принеси мне несколько штук для, э-э... изучения... А я награжу тебя  фермерской удачей за хлопоты!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": " Farming Fortune",
+          "target": " фермерской удачей"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.41",
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Go out there and vacuum a  Pest!",
+      "translation": "[NPC] Pesthunter Phillip: А теперь иди и поймай пылесосом  вредителя!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "vacuum",
+          "target": "поймай пылесосом"
+        },
+        {
+          "source": " Pest",
+          "target": " вредителя"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.42",
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: It's not hard. Just aim, hold down the button, and don't stop until the bug's been squashed!",
+      "translation": "[NPC] Pesthunter Phillip: Это несложно. Наведи прицел, зажми кнопку и не отпускай, пока не расправишься с вредителем!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.43",
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: To each their own. I'm fascinated by these little fellers!",
+      "translation": "[NPC] Pesthunter Phillip: Каждому своё. А мне эти малыши очень интересны!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.44",
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Wow! Look at that ugly thing. Bet you had a blast trying to wrangle it into your vacuum!",
+      "translation": "[NPC] Pesthunter Phillip: Ого, вот уродец! Наверняка было весело загонять его в пылесос!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.45",
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Come back soon when I can handle more!",
+      "translation": "[NPC] Pesthunter Phillip: Возвращайся, когда я снова смогу принять вредителей!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.46",
+      "speaker": "Seymour",
+      "source": "[NPC] Seymour: Looking to buy something fancy?",
+      "translation": "[NPC] Seymour: Хотите прикупить что-нибудь изысканное?",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.47",
+      "speaker": "Shaggy",
+      "source": "[NPC] Shaggy: Hey kid, I haven't seen you in a while. Arachne's powers are growing day by day. Soon she'll take over the Spider's Den.",
+      "translation": "[NPC] Shaggy: Давно тебя не видел, малыш. Сила Арахны растёт с каждым днём. Скоро она захватит Паучье логово.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Arachne",
+          "target": "Арахны"
+        },
+        {
+          "source": "Spider's Den",
+          "target": "Паучье логово"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.48",
+      "speaker": "Shaggy",
+      "source": "[NPC] Shaggy: I wish peace upon you.",
+      "translation": "[NPC] Shaggy: Мира тебе.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.49",
+      "speaker": "Terry",
+      "source": "[NPC] Terry: Bring enough hunks back to me and I might even sell you some Reforge Stones for your fishing rods.",
+      "translation": "[NPC] Terry: Принеси мне достаточно глыб — и я, пожалуй, продам тебе камни перековки для удочек.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Reforge Stones",
+          "target": "камни перековки"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.50",
+      "speaker": "Terry",
+      "source": "[NPC] Terry: I'm looking for Hunk of Ice and Hunk of Blue Ice.",
+      "translation": "[NPC] Terry: Мне нужны кусок льда и кусок синего льда.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Hunk of Ice",
+          "target": "кусок льда"
+        },
+        {
+          "source": "Hunk of Blue Ice",
+          "target": "кусок синего льда"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.51",
+      "speaker": "Terry",
+      "source": "[NPC] Terry: You can find these by ice fishing in the pond - break the ice and cast your rod!",
+      "translation": "[NPC] Terry: Их можно найти при подлёдной рыбалке в пруду: разбей лёд и забрасывай удочку!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "ice fishing",
+          "target": "подлёдной рыбалке"
+        }
+      ]
+    },
+    {
+      "source_key": "hub69.52",
+      "speaker": "Terry",
+      "source": "[NPC] Terry: You may have noticed that this pond is full of unique creatures and treasures!",
+      "translation": "[NPC] Terry: Ты наверняка заметил, что в этом пруду полно необычных существ и сокровищ!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "hub69.53",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: Accessories are magical pieces of gear.",
+      "translation": "[NPC] Maxwell: Аксессуары — волшебные предметы снаряжения.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "magical",
+          "target": "волшебные"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.54",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: Accessories add some MAGICAL POWER to the bag depending on their rarity.",
+      "translation": "[NPC] Maxwell: Аксессуары добавляют сумке МАГИЧЕСКУЮ СИЛУ в зависимости от своей редкости.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "MAGICAL POWER",
+          "target": "МАГИЧЕСКУЮ СИЛУ"
+        },
+        {
+          "source": "rarity",
+          "target": "редкости"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.55",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: Yes! The more Magical Power, the more stats like ❤ Health or ✎ Intelligence you get from your Accessory Bag.",
+      "translation": "[NPC] Maxwell: Да! Чем выше магическая сила, тем больше характеристик, например ❤ здоровья или ✎ интеллекта, даёт ваша сумка аксессуаров.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "Magical Power",
+          "target": "магическая сила"
+        },
+        {
+          "source": "❤ Health",
+          "target": "❤ здоровья"
+        },
+        {
+          "source": "✎ Intelligence",
+          "target": "✎ интеллекта"
+        },
+        {
+          "source": "Accessory Bag",
+          "target": "сумка аксессуаров"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.56",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: I'm not so sure about this power, it's used by some dark wizards.",
+      "translation": "[NPC] Maxwell: Не уверен насчёт этой силы: ею пользуются некоторые тёмные маги.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "dark wizards",
+          "target": "тёмные маги"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.57",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ You want my Abiphone contact?",
+      "translation": "[NPC] Maxwell: ✆ Хотите добавить меня в контакты Абифона?",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "Abiphone",
+          "target": "Абифона"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.58",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ That way you'll be able to access my features from anywhere?",
+      "translation": "[NPC] Maxwell: ✆ Чтобы пользоваться моими услугами откуда угодно?",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.59",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ Isn't that cheating though?",
+      "translation": "[NPC] Maxwell: ✆ А это разве не жульничество?",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.60",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ Don't you know you are supposed to walk all the way here every single time?",
+      "translation": "[NPC] Maxwell: ✆ Разве вы не знаете, что каждый раз нужно приходить сюда пешком?",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.61",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ Ah well, times are changing I suppose...",
+      "translation": "[NPC] Maxwell: ✆ Ну что ж, времена меняются...",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.62",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ Plus it's a magical object, so it's not that bad.",
+      "translation": "[NPC] Maxwell: ✆ К тому же это волшебный предмет, так что ничего страшного.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "magical",
+          "target": "волшебный"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.63",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ Now let's see, what should I ask for it...",
+      "translation": "[NPC] Maxwell: ✆ Посмотрим, что бы попросить взамен...",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.64",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ What about some more Luxurious Spool, hum?",
+      "translation": "[NPC] Maxwell: ✆ Может, ещё роскошных катушек, а?",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "Luxurious Spool",
+          "target": "роскошных катушек"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.65",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ I'm joking! Bring me Ultimate Carrot Candy x2.",
+      "translation": "[NPC] Maxwell: ✆ Шучу! Принесите мне лучшие морковные конфеты x2.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "Ultimate Carrot Candy",
+          "target": "лучшие морковные конфеты"
+        },
+        {
+          "source": "x2",
+          "target": "x2"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.66",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ I have pets to feed.",
+      "translation": "[NPC] Maxwell: ✆ Мне нужно кормить питомцев.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.67",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ My frogs are going to love that, thanks a lot!",
+      "translation": "[NPC] Maxwell: ✆ Моим лягушкам понравится! Большое спасибо!",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.68",
+      "speaker": "Maxwell",
+      "source": "[NPC] Maxwell: ✆ You don't have what I need! Nice try!",
+      "translation": "[NPC] Maxwell: ✆ У вас нет того, что мне нужно! Неплохая попытка!",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maxwell"
+    },
+    {
+      "source_key": "hub69.69",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: An investment in knowledge pays the best interest.",
+      "translation": "[NPC] Jacobus: Вложения в знания приносят наибольшие проценты.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.70",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: Coins aren't everything, but everything needs coins.",
+      "translation": "[NPC] Jacobus: Монеты — не всё, но для всего нужны монеты.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.71",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: Coins isn't everything, but everything needs coins.",
+      "translation": "[NPC] Jacobus: Монеты — не всё, но для всего нужны монеты.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.72",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: Wealth consists not in having great possessions, but in having few wants.",
+      "translation": "[NPC] Jacobus: Богатство не в том, чтобы много иметь, а в том, чтобы мало желать.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.73",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: You must gain control over your coins or the lack of it will forever control you.",
+      "translation": "[NPC] Jacobus: Научитесь управлять своими монетами, иначе их нехватка будет вечно управлять вами.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.74",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: It's not the Steve who has too little, but the Steve who craves more, who is poor.",
+      "translation": "[NPC] Jacobus: Беден не тот Стив, у которого мало, а тот Стив, которому всегда хочется большего.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "Steve",
+          "target": "Стив",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        },
+        {
+          "source": "Steve",
+          "target": "Стив",
+          "source_occurrence": 2,
+          "target_occurrence": 2
+        }
+      ],
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.75",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: Empty pockets never held anyone back. Only empty heads and empty hearts can do that.",
+      "translation": "[NPC] Jacobus: Пустые карманы ещё никого не останавливали. На это способны лишь пустые головы и пустые сердца.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.76",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: The real measure of your wealth is how much you'd be worth if you lost all your coins.",
+      "translation": "[NPC] Jacobus: Истинная мера богатства — то, что вы представляли бы собой, потеряв все монеты.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.77",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: If you live for having it all, what you have is never enough.",
+      "translation": "[NPC] Jacobus: Если жить ради обладания всем на свете, того, что есть, всегда будет мало.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.78",
+      "speaker": "Jacobus",
+      "source": "[NPC] Jacobus: Coins don't buy happiness, but it helps.",
+      "translation": "[NPC] Jacobus: Счастье за монеты не купишь, но с ними легче.",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://wiki.hypixel.net/Jacobus"
+    },
+    {
+      "source_key": "hub69.79",
+      "speaker": "Maths Enjoyer",
+      "source": "[NPC] Maths Enjoyer: Hey if you really want to know…",
+      "translation": "[NPC] Maths Enjoyer: Если тебе и правда интересно…",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maths_Enjoyer"
+    },
+    {
+      "source_key": "hub69.80",
+      "speaker": "Maths Enjoyer",
+      "source": "[NPC] Maths Enjoyer: The formula to Magical Power is…",
+      "translation": "[NPC] Maths Enjoyer: Вот формула магической силы…",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "Magical Power",
+          "target": "магической силы"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maths_Enjoyer"
+    },
+    {
+      "source_key": "hub69.81",
+      "speaker": "Maths Enjoyer",
+      "source": "[NPC] Maths Enjoyer: Stats Mult. = 29.97(ln(0.0019 MP+1))^1.2",
+      "translation": "[NPC] Maths Enjoyer: Множитель характеристик = 29.97(ln(0.0019 MP+1))^1.2",
+      "evidence": "published_exact_variant_not_live_captured",
+      "style_anchors": [
+        {
+          "source": "29.97(ln(0.0019 MP+1))^1.2",
+          "target": "29.97(ln(0.0019 MP+1))^1.2"
+        }
+      ],
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maths_Enjoyer"
+    },
+    {
+      "source_key": "hub69.82",
+      "speaker": "Maths Enjoyer",
+      "source": "[NPC] Maths Enjoyer: Have fun with that!",
+      "translation": "[NPC] Maths Enjoyer: Развлекайся!",
+      "evidence": "published_exact_variant_not_live_captured",
+      "source_url": "https://hypixel-skyblock.fandom.com/wiki/Maths_Enjoyer"
+    }
+  ]
+}

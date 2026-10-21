@@ -1,0 +1,842 @@
+{
+  "scope": "53 authored archival/removed literals separately identified from original source. Other681 are not thereby certified live.",
+  "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925",
+  "explicit_archived_or_removed_authored_literals": 53,
+  "other_authored_literals_not_live_certified": 681,
+  "source_pages": [
+    {
+      "pageid": 90600,
+      "title": "Aura",
+      "revision": 786810,
+      "parent_revision": 752085,
+      "timestamp": "2026-07-23T15:55:01Z",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Aura?oldid=786810",
+      "raw_sha256": "a653313d5d5c2435aa86de3fa18e3bf15ec600d03678d9c30e9ab510195d311e",
+      "origins": [
+        "Category:Non-player characters",
+        "frozen_navigation_2026-10-15:Crimson Isle",
+        "navigation_link:Template:Nav/Characters",
+        "search:insource:/\\[NPC\\]/",
+        "transcludes:Template:Dialogue",
+        "transcludes:Template:Infobox/Character"
+      ],
+      "raw_wikitext": "{{About|Aura before and after their mayorship of SkyBlock Year 458|her appearance as a [[mayor]] candidate|Candidate Aura}}\n{{Infobox/Character\n|location=[[Aura's Lab]]\n|location_page_description = Tasks about her future plans following her [[Candidate Aura|mayorship]].\n}}\n'''Aura''' is an [[NPC]] located in {{Zone|Aura's Lab}}, where she tells the player about creating a new plan following her [[Candidate Aura|mayorship]]. Previously, she told the player about her evil plan.\n\n== Dialogue ==\n{| class=\"wikitable centertext\"\n!Condition\n!Random Dialogue\n|-\n|rowspan=\"6\"|None\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: I learned more than I could have from success alone.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: And I've been taking notes.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: Next time, things will be different, you will see.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: I'm going back to the drawing boards.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: I've noticed how many people have been stopping by.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not take any visitors at the moment.\n&e[NPC] &5Aura&f: Feel free to visit my laboratory.\n&e[NPC] &5Aura&f: I am currently working on my evil plan.\n&e[NPC] &5Aura&f: A few more years and I should be ready.\n}}\n|-\n|rowspan=\"6\"|Random Dialogue\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: Make yourself at home.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: I wish I could serve you some tea.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: Sorry, I'm a terrible host.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: Plotting an evil plan is actually a lot of work.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: Careful, don't stand in my way please.}}\n|-\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &5Aura&f: I'm not ready to show my face to the world yet.}}\n|}\n\n== Trivia ==\n*'''Aura'''{{'}}s skin is that of a plague doctor.<ref>https://www.minecraftskins.net/plaguedoctor</ref>\n*'''Aura'''{{'}}s lab contains a [[Fairy Soul]] in a structure that implies it— or the Fairy that spawned it— were experimented on.\n*'''Aura''' was [[Candidate Aura|a mayor candidate]] in the Year 458 elections, and resigned in Year 468.\n*The official wiki page was changed to say \"good plan\" instead of \"evil plan\" after '''Aura''' became a mayor candidate.<ref>https://wiki.hypixel.net/index.php?title=Aura&diff=prev&oldid=308571</ref>\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/Mar 8|link=none|[[File: Aura.png|26px]] Added '''Aura'''.}}\n|beta=\n{{History|0.13|[[File:Aura.png|26px]] Added '''Aura'''.}}\n{{History|2025/Nov 24|link=none|Removed '''Aura''' from {{zone|Aura's Lab}}.}}\n{{History|2026/Jan 27|Added '''Aura''' back to {{zone|Aura's Lab}}.|Added new dialogue.}}\n}}\n\n== References ==\n<references />\n\n== Navigation ==\n{{Nav/Characters}}"
+    },
+    {
+      "pageid": 109089,
+      "title": "Candidate Aura",
+      "revision": 858864,
+      "parent_revision": 848739,
+      "timestamp": "2026-10-15T12:38:54Z",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Candidate_Aura?oldid=858864",
+      "raw_sha256": "7a903f5de23c43a5ed794a168d66cb54e212fa3af74174232f2a6d6ef9f53eaa",
+      "origins": [
+        "Category:Events",
+        "Category:Mayor Election",
+        "Category:Non-player characters",
+        "frozen_navigation_2026-10-15:Mayors",
+        "navigation_link:Template:Nav/Characters",
+        "search:insource:/\\[NPC\\]/",
+        "transcludes:Template:Dialogue"
+      ],
+      "raw_wikitext": "{{Historical|update=January 19, 2026}}\n{{About|Aura's appearance as a [[mayor]] candidate|Aura before and after her mayorship of SkyBlock Year 458|Aura}}\n{{Infobox/Mayor\n|aka=Mayor Aura\n|shop = n\n}}\n'''Candidate Aura''' was a mayoral candidate that served between the Year 458 and 468 [[Mayor Election]]s. While she was in the office, regular elections were replaced with [[Minister Election]]s.\n\n== Mayoral Perks ==\nMost mayors run with up to four unique perks, but '''Candidate Aura''' has only been seen with three perks and a note: \"*few extra details not worth mentioning.\"\n\n{{MayorPerks|Aura}}\n\n=== UI ===\n{{/UI}}\n\n=== Fundraising ===\nWhile '''Mayor Aura'''{{'}}s {{AN|Fundraising}} perk was active, several additional costs were incurred:\n* Sending any message costs {{c|7}} each time (also applies in [[Stranded]]).\n* Using [[Fast Travel]] costs {{c|2000}} each time (except for the [[Hub]], [[Private Island]], and [[Garden]]).\n* [[Bazaar]] tax and [[Slayer]] spawn costs are doubled.\n* Upgrading pets at {{NPCSprite|Kat}} costs {{Green|50%}} more {{c}}.\n* Certain [[Dungeon]] drops have increased cost.\n\n{| class=\"wikitable centertext\"\n! Slot\n! Item\n! Original Cost\n! Increased Cost\n|-\n| {{Slot|Bonzo's Staff}}\n| [[Bonzo's Staff]]\n| {{c|2.1m}} (Emerald)\n----\n{{c|2.25m}} (Obsidian)\n| {{c|3.1m}} (Emerald)\n----\n{{c|3.25m}} (Obsidian)\n|-\n| {{Slot|Dark Claymore}}\n| [[Dark Claymore]]\n| {{c|150m}}\n| {{c|200m}}\n|-\n| {{Slot|Implosion}}\n| [[Implosion]]\n| {{c|50m}}\n| {{c|80m}}\n|-\n| {{Slot|Necron's Handle}}\n| [[Necron's Handle]]\n| {{c|100m}}\n| {{c|265m}}\n|-\n| {{Slot|Recombobulator 3000}}\n| [[Recombobulator 3000]]\n| {{c|5.5m}} (Floor I–II)\n----\n{{c|6m}} (Floor III+) \n| {{c|5.75m}} (Floor I–II)\n----\n{{c|6.5m}} (Floor III+) <!-- confirmed on Floor IV Obsidian Chest -->\n|-\n| {{Slot|Shadow Fury}}\n| [[Shadow Fury]]\n| {{c|15m}}\n| {{c|20m}}\n|-\n| {{Slot|Shadow Warp}}\n| [[Shadow Warp]]\n| {{c|50m}}\n| {{c|80m}}\n|-\n| {{Slot|Wither Shield}}\n| [[Wither Shield]]\n| {{c|50m}}\n| {{c|80m}}\n|}\n\n=== Minion Union ===\nThis perk actually reduced minion speed by {{Green|33%}} ({{Additive}}).\n\nThis perk was disabled by minister {{rn|yt|im_a_squid_kid}}.\n\n=== Universal Income ===\nThis perk states that {{Green|100%}} of coins gathered via {{AN|Fundraising}} are redistributed equally when in reality it is dictated by this formula:\n\n<math>\\text{Universal Income} = \\left\\lfloor\\frac{\\text{Fundraising Coins}}{\\text{Unique Logins at Current Hour}}\\right\\rfloor \\times \\left(\\frac{\\text{Seconds of Playtime at Current Hour}}{3600\\text{ seconds}}\\right)</math>\n\n=== Work Better ===\n{{Sectionstub|incomplete list of items with boosted chances}}\nThis perk granted {{Stat|Magic Find|+50}} and {{Stat|Tracking|+25}} globally. All [[RNG Meter|{{Pink|RNG Meter}}]] progress was doubled, and the base drop rate of several items from the {{Zone|Crystal Nucleus}} and {{Zone|The Catacombs}} were increased. Items affected included:\n\n* {{Item|Necron's Handle}}\n* {{Item|Divan's Alloy}}\n* {{Item|Quick Claw}}\n<!--Please add more-->\n\n=== Work Harder ===\nThis perk increased the {{Stat|hp}} and {{Stat|dmg}} of mobs by {{Green|10%}}.\n\nThis perk was re-enabled by minister {{rn|VIP|Aura_Stay}} after being disabled by minister {{rn|mvp+|Confused_Goon}}.\n\n=== Work Smarter ===\nThis perk increased all Skill, [[Dungeons|Dungeon]], and [[Slayer]] XP by {{Green|+50%}}.\n\nThis perk was re-enabled by minister {{rn|YouTube|ALAND_}} after being disabled by minister {{rn|mvp++|SnowflakeKiwi}}.\n\n== Ministers ==\n{{Main|Minister Election}} \nEach year, '''Candidate Aura''' held a minister election from Late Spring 30th to Winter 7th, where the SkyBlock community elected their fellow players. Those with the top 7 votes were elected as ministers and got to choose their perks. Ministers who place on the podium, as well as ministers who attempt to remove Aura's perks, cannot be voted for in subsequent elections.\n\nFor perk rotations from ministers who chose the Perkpocalypse perk, see [[Candidate Aura/Perkpocalypse]].\n\n== Dialogue ==\n<!-- The dialogue, except for the first interaction one, uses \"’\", but it has been changed to \"'\" below, because the wiki renders it weirdly -->\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |First Interaction\nIn {{zone|Election Room}}\n|{{Dialogue|\n&b[NPC] Aura&f: It's time we put the people first.\n&b[NPC] Aura&f: No more false promises. No more slacking. No more monarchs...\n}}\n|-\n!Condition\n!Dialogue (in order)\n|-\n| class=\"ct\" rowspan=\"9\" |In {{zone|Election Room}}\n|{{Dialogue|&b[NPC] Aura&f: I'm not asking for your loyalty, I'm offering you a future.}}\n|-\n|{{Dialogue|&b[NPC] Aura&f: Every coin you earn, every drop you sweat, will help &oeveryone&f.}}\n|-\n|{{Dialogue|&b[NPC] Aura&f: The world doesn't need heroes. It needs workers.}}\n|-\n|{{Dialogue|&b[NPC] Aura&f: Under Dante, you worked for him. Under me, you'll work for &oeach other&f.}}\n|-\n|{{Dialogue|&b[NPC] Aura&f: Let's make SkyBlock fair again.}}\n|-\n|{{Dialogue|&b[NPC] Aura&f: Dante wanted order. I want balance.}}\n|-\n|{{Dialogue|&b[NPC] Aura&f: Why should a few have it all when we can &oshare the load&f?}}\n|-\n|{{Dialogue|&b[NPC] Aura&f: Dante made you obey. I'll make you &othrive&f.}}\n|-\n|{{Dialogue|&b[NPC] Aura&f: No more greed. No more chaos. Only fair progress for all.}}\n|-\n| class=\"ct\" |Attempting to vote for an Admin\n| {{Dialogue|&e[NPC] Mayor Aura&f: I do not trust this person. You will not vote for them.}}\n|-\n| class=\"ct\" |Attempting to vote for yourself\n| {{Dialogue|\n&e[NPC] Mayor Aura&f: Voting for yourself...\n&e[NPC] Mayor Aura&f: Where greed and narcissism tread, reprimand follows.\n&e[NPC] Mayor Aura&f: This will not go unseen.\n}}\n|-\n| class=\"ct\" |Attempting to vote for {{RankName|default|dante}}, {{RankName|default|Aura}}, {{RankName|Mvp+|Minikloon}}, {{RankName|Mvp+|hannibal2}}, or {{RankName|Mvp+|duoplurk}}\n| {{Dialogue|&e[NPC] Mayor Aura&f: Please select someone else.}}\n|-\n| class=\"ct\" |Attempting to vote for a player that doesn't have any SkyBlock profile\n| {{Dialogue|&e[NPC] Mayor Aura&f: This citizen is not in my registry.}}\n|-\n| class=\"ct\" rowspan=\"7\" |Attempting to vote for {{RankName|Pig|Technoblade}}\n| {{Dialogue|&e[NPC] Mayor Aura&f: He walked farther than any of us. Let his path remain untouched.}}\n|-\n| {{Dialogue|&e[NPC] Mayor Aura&f: His crown rests in a place no vote can touch.}}\n|-\n| {{Dialogue|&e[NPC] Mayor Aura&f: His journey continues elsewhere. We cannot call him back.}}\n|-\n| {{Dialogue|&e[NPC] Mayor Aura&f: His legacy votes for itself.}}\n|-\n| {{Dialogue|&e[NPC] Mayor Aura&f: Some names belong to the stars, not the ballots.}}\n|-\n| {{Dialogue|&e[NPC] Mayor Aura&f: That warrior's throne is eternal. We cannot elect eternity.}}\n|-\n| {{Dialogue|&e[NPC] Mayor Aura&f: This hero has already ascended beyond out reach.}}\n|-\n| class=\"ct\" | Attempting to vote for {{RankName|YouTube|im_a_squid_kid}}, {{RankName|MVP+|Confused_Goon}}, or {{RN|MVP++|SnowflakeKiwi}}\n|{{Dialogue|&e[NPC] Mayor Aura&f: They were a traitor to our great society. You will not vote for them.}}\n|-\n| class=\"ct\" | Attempting to vote for an already elected player (unless the candidate has {{AN|Long Term Investment}})\n|{{Dialogue|&e[NPC] Mayor Aura&f: This player is currently elected. Give someone else a chance.}}\n|-\n| class=\"ct\" | Attempting to vote for a player who has previously placed on the podium\n|{{Dialogue|\n&e[NPC] Mayor Aura&f: This person has already had their voice heard.\n&e[NPC] Mayor Aura&f: Perhaps give those with fewer influence a chance.\n}}\n|-\n| class=\"ct\" |Sending messages critical of Aura such as: \"Aura sucks\" or \"Aura bad\"\n| {{Dialogue|&e[NPC] Mayor Aura&f: Don't think you're out of my grasp.}}\n|-\n| class=\"ct\" |Issuing <code>/killaura</code>\n| {{Dialogue|&e[NPC] Mayor Aura&f: You fell for my trap, traitor.}}\n|-\n| class=\"ct\" |Attempting to [[Fast Travel]] with under {{c|2000}} in [[Purse]] while the Fundraising Perk is active\n| {{Dialogue|&e[NPC] Mayor Aura&f: Progress comes at a cost. Free transport is gone for the sake of the people...}}\n|-\n| class=\"ct\" |Attempting to send a message in chat with under {{c|7}} in [[Purse]] while the Fundraising Perk is active\n| {{Dialogue|&cThe cost of progress, though brazen, is unruly. Sending messages costs 7 Coins. Feed progress...}}\n|-\n| class=\"ct\" |After the final [[Minister Election]]\n| {{Dialogue|\n&e[NPC] Mayor Aura&f: I hear the votes.\n&e[NPC] Mayor Aura&f: If my presence has become something to end...\n&e[NPC] Mayor Aura&f: Then staying would betray my own principles.\n&e[NPC] Mayor Aura&f: Power only works when it is wanted.\n&e[NPC] Mayor Aura&f: And I will not force myself into permanence.\n&e[NPC] Mayor Aura&f: This was the last Minister Election.\n&e[NPC] Mayor Aura&f: You will now choose without me.\n&e[NPC] Mayor Aura&f: Not because I was overthrown...\n&e[NPC] Mayor Aura&f: But because I am no longer welcome.\n&e[NPC] Mayor Aura&f: This is not defeat. It is restraint.\n&e[NPC] Mayor Aura&f: I will finish what I began elsewhere.\n&e[NPC] Mayor Aura&f: And when I return... it will be with something better.\n}}\n|}\n\n== Trivia ==\n* '''Candidate Aura'''{{'}}s actual perks were revealed through the SkyBlock API prior to them being elected.<ref>https://archive.today/2025.11.25-112520/https://api.hypixel.net/v2/resources/skyblock/election</ref><ref>https://archive.today/2025.11.28-011340/https://api.hypixel.net/v2/resources/skyblock/election</ref>\n**Tablist also shows Aura as having 6 perks.\n*The dialogue starts from a random point, but is otherwise always in the same order.\n* '''Candidate Aura''' has broken the record for most votes received by a candidate in SkyBlock's history, reaching over {{Green|1.5m}} votes on November 28th, 2025.<ref>https://www.youtube.com/watch?v=8Un9h4iux7I&t=42</ref><ref>https://skyblockelections.com/articles/aura-breaks-records.html</ref>\n* Upon initial release, the {{AN|Work Smarter}} perk was also granting {{Stat|Magic Find|+50}} in the [[Rift]].\n* Some candidates were removed after gaining an unfair advantage.\n** {{RankName|Mvp+|hannibal2}} is the creator of the SkyHanni mod.<ref>[[mod:skyhanni|SkyHanni]]</ref> He was blacklisted from the elections due to hannibal2's name being automatically filled in on behalf of the user, assuming they had not edited their vote.<ref>https://github.com/hannibal002/SkyHanni/pull/4902/files#diff-04bfba630aef7d49024d0e7edfb966a85c329773b844efd5e0388ced54d7447d</ref>\n** {{RankName|Mvp+|duoplurk}} was blacklisted after a {{c}} giveaway was hosted to bribe votes.\n*Using {{code|/killaura}} command when '''Aura''' isn't mayor returns {{red|Aura is not mayor.}}.\n\n== History ==\n{{History table\n|beta=\n{{History|2025/Nov 24|link=none|[[File:Aura.png|26px]] Added '''Candidate Aura''' in the year 458 [[Mayor Election]].}}\n{{History|2025/Nov 27|link=none|Slightly reworded '''Candidate Aura'''{{'}}s hidden perks.}}\n{{History|unknown|'''Candidate Aura's''' perks now appear in {{red|red}} rather than {{aqua|aqua}}.}}\n{{History|2025/Dec 4|link=none|'''Candidate Aura's''' \"Minion Union\" perk is now disabled by {{NPCSprite|Im a squid kid}}.}}\n{{History|2025/Dec 12|'''Candidate Aura's''' \"Work Harder\" perk is now disabled by {{NPCSprite|Confused Goon (player);Confused_Goon}}.}}\n{{History|unknown<!--very recent as of Jan. 8, 2026-->|'''Candidate Aura's''' \"Fundraising\" perk no longer inflicts a {{c|7}} fee on messages withheld by the antispam.}}\n{{History|2026/Jan 7|link=none|'''Candidate Aura's''' \"Work Smarter\" perk is now disabled by {{NPCSprite|SnowflakeKiwi}}.}}\n{{History|2026/Jan 13|link=none|'''Candidate Aura's''' \"Work Harder\" perk is now re-enabled by minister {{RN|VIP|Aura_STAY}}.|'''Candidate Aura's''' \"Work Smarter\" perk is now re-enabled by minister {{RN|YT|ALAND_}}.|Added new dialogue.}}\n{{History|2026/Jan 19|link=none|Removed '''Candidate Aura'''.}}\n}}\n\n== References ==\n<references />\n\n== Navigation ==\n{{Nav/Mayors}}\n{{Nav/Characters}}\n{{Nav/Events/Mayor Election}}\n{{Nav/Minister Election}}\n[[Category:Mayor]]"
+    }
+  ],
+  "records": [
+    {
+      "source": "[NPC] Aura: I do not take any visitors at the moment.",
+      "translation": "[NPC] Aura: Сейчас я не принимаю посетителей.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1304-l1-f944",
+          "block_id": "p90600-r786810-o1304",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Feel free to visit my laboratory.",
+      "translation": "[NPC] Aura: Можете осмотреть мою лабораторию.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1304-l2-f945",
+          "block_id": "p90600-r786810-o1304",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: I am currently working on my evil plan.",
+      "translation": "[NPC] Aura: Сейчас я работаю над своим злодейским планом.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1304-l3-f946",
+          "block_id": "p90600-r786810-o1304",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: A few more years and I should be ready.",
+      "translation": "[NPC] Aura: Ещё несколько лет — и я буду готова.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1304-l4-f947",
+          "block_id": "p90600-r786810-o1304",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Make yourself at home.",
+      "translation": "[NPC] Aura: Чувствуйте себя как дома.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1606-l0-f948",
+          "block_id": "p90600-r786810-o1606",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: I wish I could serve you some tea.",
+      "translation": "[NPC] Aura: Жаль, не могу предложить вам чаю.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1690-l0-f949",
+          "block_id": "p90600-r786810-o1690",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Sorry, I'm a terrible host.",
+      "translation": "[NPC] Aura: Простите, я никудышная хозяйка.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1786-l0-f950",
+          "block_id": "p90600-r786810-o1786",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Plotting an evil plan is actually a lot of work.",
+      "translation": "[NPC] Aura: На самом деле разработка злодейского плана требует немало труда.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1875-l0-f951",
+          "block_id": "p90600-r786810-o1875",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Careful, don't stand in my way please.",
+      "translation": "[NPC] Aura: Осторожнее, пожалуйста, не стойте у меня на пути.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o1985-l0-f952",
+          "block_id": "p90600-r786810-o1985",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: I'm not ready to show my face to the world yet.",
+      "translation": "[NPC] Aura: Я ещё не готова показаться миру.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p90600-r786810-o2085-l0-f953",
+          "block_id": "p90600-r786810-o2085",
+          "page": "Aura",
+          "revision": 786810,
+          "reason": "Removed table section;not detected by frozen heading flag",
+          "source_marker": "n: left;\"|{{Dialogue|&e[NPC] &5Aura&f: My lab doesn't feel very secret anymore.}}\n|-\n! colspan=\"2\" |Removed\n|- class=\"article-row-main\"\n|First Interaction\n|style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &5Aura&f: I do not"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: It's time we put the people first.",
+      "translation": "[NPC] Aura: Пора поставить народ на первое место.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o4250-l1-f2181",
+          "block_id": "p109089-r858864-o4250",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: No more false promises. No more slacking. No more monarchs...",
+      "translation": "[NPC] Aura: Хватит лживых обещаний. Хватит безделья. Хватит монархов...",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o4250-l2-f2182",
+          "block_id": "p109089-r858864-o4250",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: I'm not asking for your loyalty, I'm offering you a future.",
+      "translation": "[NPC] Aura: Я не прошу вашей верности, я предлагаю вам будущее.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o4485-l0-f2183",
+          "block_id": "p109089-r858864-o4485",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Every coin you earn, every drop you sweat, will help everyone.",
+      "translation": "[NPC] Aura: Каждая заработанная вами монета, каждая капля вашего пота послужит всем.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o4578-l0-f2184",
+          "block_id": "p109089-r858864-o4578",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: The world doesn't need heroes. It needs workers.",
+      "translation": "[NPC] Aura: Миру нужны не герои. Ему нужны работники.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o4678-l0-f2185",
+          "block_id": "p109089-r858864-o4678",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Under Dante, you worked for him. Under me, you'll work for each other.",
+      "translation": "[NPC] Aura: При Данте вы работали на него. При мне вы будете работать друг на друга.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o4760-l0-f2186",
+          "block_id": "p109089-r858864-o4760",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Let's make SkyBlock fair again.",
+      "translation": "[NPC] Aura: Вернём справедливость в SkyBlock.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o4868-l0-f2187",
+          "block_id": "p109089-r858864-o4868",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Dante wanted order. I want balance.",
+      "translation": "[NPC] Aura: Данте хотел порядка. Я хочу равновесия.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o4933-l0-f2188",
+          "block_id": "p109089-r858864-o4933",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Why should a few have it all when we can share the load?",
+      "translation": "[NPC] Aura: Зачем отдавать всё немногим, если можно разделить бремя?",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5002-l0-f2189",
+          "block_id": "p109089-r858864-o5002",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: Dante made you obey. I'll make you thrive.",
+      "translation": "[NPC] Aura: Данте заставлял вас подчиняться. Я заставлю вас процветать.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5096-l0-f2190",
+          "block_id": "p109089-r858864-o5096",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Aura: No more greed. No more chaos. Only fair progress for all.",
+      "translation": "[NPC] Aura: Хватит алчности. Хватит хаоса. Только справедливый прогресс для всех.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5176-l0-f2191",
+          "block_id": "p109089-r858864-o5176",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: I do not trust this person. You will not vote for them.",
+      "translation": "[NPC] Mayor Aura: Я не доверяю этому человеку. Вы не будете за него голосовать.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5314-l0-f2192",
+          "block_id": "p109089-r858864-o5314",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Voting for yourself...",
+      "translation": "[NPC] Mayor Aura: Голосовать за себя...",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5456-l1-f2193",
+          "block_id": "p109089-r858864-o5456",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Where greed and narcissism tread, reprimand follows.",
+      "translation": "[NPC] Mayor Aura: За алчностью и самовлюблённостью следует порицание.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5456-l2-f2194",
+          "block_id": "p109089-r858864-o5456",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: This will not go unseen.",
+      "translation": "[NPC] Mayor Aura: Это не останется незамеченным.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5456-l3-f2195",
+          "block_id": "p109089-r858864-o5456",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Please select someone else.",
+      "translation": "[NPC] Mayor Aura: Пожалуйста, выберите кого-нибудь другого.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5823-l0-f2196",
+          "block_id": "p109089-r858864-o5823",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: This citizen is not in my registry.",
+      "translation": "[NPC] Mayor Aura: Этого гражданина нет в моём реестре.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o5976-l0-f2197",
+          "block_id": "p109089-r858864-o5976",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: He walked farther than any of us. Let his path remain untouched.",
+      "translation": "[NPC] Mayor Aura: Он прошёл дальше любого из нас. Не будем тревожить его путь.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o6130-l0-f2198",
+          "block_id": "p109089-r858864-o6130",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: His crown rests in a place no vote can touch.",
+      "translation": "[NPC] Mayor Aura: Его корона покоится там, где голосование уже ничего не изменит.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o6235-l0-f2199",
+          "block_id": "p109089-r858864-o6235",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: His journey continues elsewhere. We cannot call him back.",
+      "translation": "[NPC] Mayor Aura: Его путь продолжается в другом месте. Мы не можем призвать его обратно.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o6321-l0-f2200",
+          "block_id": "p109089-r858864-o6321",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: His legacy votes for itself.",
+      "translation": "[NPC] Mayor Aura: Его наследие говорит само за себя.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o6419-l0-f2201",
+          "block_id": "p109089-r858864-o6419",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Some names belong to the stars, not the ballots.",
+      "translation": "[NPC] Mayor Aura: Некоторым именам место среди звёзд, а не в бюллетенях.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o6488-l0-f2202",
+          "block_id": "p109089-r858864-o6488",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: That warrior's throne is eternal. We cannot elect eternity.",
+      "translation": "[NPC] Mayor Aura: Престол этого воина вечен. Вечность не избирают.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o6577-l0-f2203",
+          "block_id": "p109089-r858864-o6577",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: This hero has already ascended beyond out reach.",
+      "translation": "[NPC] Mayor Aura: Этот герой уже вознёсся туда, куда нам не дотянуться.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o6677-l0-f2204",
+          "block_id": "p109089-r858864-o6677",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: They were a traitor to our great society. You will not vote for them.",
+      "translation": "[NPC] Mayor Aura: Этот человек предал наше великое общество. Вы не будете за него голосовать.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o6903-l0-f2205",
+          "block_id": "p109089-r858864-o6903",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: This player is currently elected. Give someone else a chance.",
+      "translation": "[NPC] Mayor Aura: Этот игрок уже избран. Дайте шанс кому-нибудь другому.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o7131-l0-f2206",
+          "block_id": "p109089-r858864-o7131",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: This person has already had their voice heard.",
+      "translation": "[NPC] Mayor Aura: Этот человек уже смог высказаться.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o7319-l1-f2207",
+          "block_id": "p109089-r858864-o7319",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Perhaps give those with fewer influence a chance.",
+      "translation": "[NPC] Mayor Aura: Может, дадим шанс тем, у кого меньше влияния?",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o7319-l2-f2208",
+          "block_id": "p109089-r858864-o7319",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Don't think you're out of my grasp.",
+      "translation": "[NPC] Mayor Aura: Не думайте, что вам удалось ускользнуть от меня.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o7564-l0-f2209",
+          "block_id": "p109089-r858864-o7564",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: You fell for my trap, traitor.",
+      "translation": "[NPC] Mayor Aura: Вы угодили в мою ловушку, предатель.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o7685-l0-f2210",
+          "block_id": "p109089-r858864-o7685",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Progress comes at a cost. Free transport is gone for the sake of the people...",
+      "translation": "[NPC] Mayor Aura: За прогресс приходится платить. Бесплатный транспорт отменён ради народа...",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o7872-l0-f2211",
+          "block_id": "p109089-r858864-o7872",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: I hear the votes.",
+      "translation": "[NPC] Mayor Aura: Я услышала ваш выбор.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l1-f2213",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: If my presence has become something to end...",
+      "translation": "[NPC] Mayor Aura: Если моему присутствию теперь хотят положить конец...",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l2-f2214",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Then staying would betray my own principles.",
+      "translation": "[NPC] Mayor Aura: То, оставшись, я бы предала собственные принципы.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l3-f2215",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Power only works when it is wanted.",
+      "translation": "[NPC] Mayor Aura: Власть имеет силу лишь тогда, когда в ней нуждаются.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l4-f2216",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: And I will not force myself into permanence.",
+      "translation": "[NPC] Mayor Aura: И я не стану силой удерживаться у власти навечно.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l5-f2217",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: This was the last Minister Election.",
+      "translation": "[NPC] Mayor Aura: Это были последние выборы министров.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l6-f2218",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: You will now choose without me.",
+      "translation": "[NPC] Mayor Aura: Теперь вы будете выбирать без меня.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l7-f2219",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: Not because I was overthrown...",
+      "translation": "[NPC] Mayor Aura: Не потому, что меня свергли...",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l8-f2220",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: But because I am no longer welcome.",
+      "translation": "[NPC] Mayor Aura: А потому, что мне здесь больше не рады.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l9-f2221",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: This is not defeat. It is restraint.",
+      "translation": "[NPC] Mayor Aura: Это не поражение. Это сдержанность.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l10-f2222",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: I will finish what I began elsewhere.",
+      "translation": "[NPC] Mayor Aura: Я завершу начатое в другом месте.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l11-f2223",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    },
+    {
+      "source": "[NPC] Mayor Aura: And when I return... it will be with something better.",
+      "translation": "[NPC] Mayor Aura: И когда я вернусь... то с чем-то лучшим.",
+      "all_archival_proofs": [
+        {
+          "occurrence_id": "p109089-r858864-o8280-l12-f2224",
+          "block_id": "p109089-r858864-o8280",
+          "page": "Candidate Aura",
+          "revision": 858864,
+          "reason": "explicit page-level Historical template",
+          "source_marker": "{{Historical|update=January 19, 2026}}"
+        }
+      ],
+      "frozen_historical_heading": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scope": "Same17+6 equal-output modes as113,declared before114 results. No new runtime algorithms;all raw retained,not game FPS.",
+  "short_modes": 17,
+  "long_modes": [
+    "existing_dynamic",
+    "unknown_system_notifications",
+    "retained_cosmetic_notifications",
+    "existing_names103_equal_work",
+    "unknown_named_speaker",
+    "expanded_prefix_misses"
+  ],
+  "order": [
+    "113",
+    "114",
+    "114",
+    "113"
+  ],
+  "short_warmup": 300000,
+  "short_rounds": 4,
+  "short_calls_per_round_at_least": 200000,
+  "long_warmup": 1000000,
+  "long_rounds": 4,
+  "long_calls_per_round_at_least": 1000000
+}

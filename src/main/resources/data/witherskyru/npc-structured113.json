@@ -1,0 +1,2761 @@
+{
+  "schema": 1,
+  "scope": "95 closed one-capture NPC templates:93 new and2 current-color repairs;offline16-length plans,not per-frame work or arbitrary variable substitution.",
+  "templates": [
+    {
+      "prefix": "[NPC] Agent Kapustin: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Agent Kapustin: Hey {value}!",
+        "[NPC] Agent Kapustin: Hey [Player]!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Brian: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Try the Trial of Blue Flames ",
+        "target": "Попробуй испытание синего пламени №",
+        "parts": [
+          {
+            "start": 0,
+            "end": 29,
+            "text": "Попробуй испытание синего пламени №"
+          }
+        ]
+      },
+      "after": {
+        "source": " for a greater challenge!",
+        "target": " — это вызов посерьёзнее!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 25,
+            "text": " — это вызов посерьёзнее!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Brian: Try the Trial of Blue Flames {value} for a greater challenge!",
+        "[NPC] Brian: Try the Trial of Blue Flames # for a greater challenge!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Brian: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "The rarity of your item will be upgraded in ",
+        "target": "До повышения редкости твоего предмета осталось испытаний: ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 44,
+            "text": "До повышения редкости твоего предмета осталось испытаний: "
+          }
+        ]
+      },
+      "after": {
+        "source": " trials!",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Brian: The rarity of your item will be upgraded in {value} trials!",
+        "[NPC] Brian: The rarity of your item will be upgraded in # trials!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Brian: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Congrats on completing tier ",
+        "target": "Поздравляю с прохождением ступени №",
+        "parts": [
+          {
+            "start": 0,
+            "end": 28,
+            "text": "Поздравляю с прохождением ступени №"
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Brian: Congrats on completing tier {value}!",
+        "[NPC] Brian: Congrats on completing tier #!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Brian: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Try the Trial of Blue Flames Trial ",
+        "target": "Попробуй испытание синего пламени №",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": "Попробуй "
+          },
+          {
+            "start": 8,
+            "end": 34,
+            "text": "испытание синего пламени"
+          },
+          {
+            "start": 34,
+            "end": 35,
+            "text": " №"
+          }
+        ]
+      },
+      "after": {
+        "source": " for a greater challenge!",
+        "target": " — это вызов посерьёзнее!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 25,
+            "text": " — это вызов посерьёзнее!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Brian: Try the Trial of Blue Flames Trial {value} for a greater challenge!",
+        "[NPC] Brian: Try the Trial of Blue Flames Trial # for a greater challenge!",
+        "Trial of Blue Flames Trial"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carnival Leader: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Welcome to The Carnival, ",
+        "target": "Добро пожаловать на Карнавал, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Добро пожаловать на "
+          },
+          {
+            "start": 11,
+            "end": 23,
+            "text": "Карнавал"
+          },
+          {
+            "start": 23,
+            "end": 25,
+            "text": ", "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carnival Leader: Welcome to The Carnival, {value}!",
+        "[NPC] Carnival Leader: Welcome to The Carnival, player!",
+        "The Carnival"
+      ],
+      "excluded_names": [
+        "player"
+      ]
+    },
+    {
+      "prefix": "[NPC] Carrolyn: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Nice, only ",
+        "target": "Отлично! Нужно ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отлично! Нужно ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " Carrots to go.",
+        "target": " шт. моркови.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": " шт. моркови"
+          },
+          {
+            "start": 8,
+            "end": 15,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carrolyn: Nice, only {value} Carrots to go.",
+        "[NPC] Carrolyn: Nice, only # Carrots to go.",
+        " Carrots"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carrolyn: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Nice, only ",
+        "target": "Отлично! Нужно ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отлично! Нужно ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " Pumpkins to go.",
+        "target": " шт. тыкв.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": " шт. тыкв"
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carrolyn: Nice, only {value} Pumpkins to go.",
+        "[NPC] Carrolyn: Nice, only # Pumpkins to go.",
+        " Pumpkins"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carrolyn: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Nice, only ",
+        "target": "Отлично! Нужно ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отлично! Нужно ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " Chocolate Bars to go.",
+        "target": " шт. шоколадных плиток.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": " шт. шоколадных плиток"
+          },
+          {
+            "start": 15,
+            "end": 22,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carrolyn: Nice, only {value} Chocolate Bars to go.",
+        "[NPC] Carrolyn: Nice, only # Chocolate Bars to go.",
+        " Chocolate Bars"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carrolyn: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Nice, only ",
+        "target": "Отлично! Нужно ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отлично! Нужно ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " Fine Flours to go.",
+        "target": " шт. хорошей муки.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 12,
+            "text": " шт. хорошей муки"
+          },
+          {
+            "start": 12,
+            "end": 19,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carrolyn: Nice, only {value} Fine Flours to go.",
+        "[NPC] Carrolyn: Nice, only # Fine Flours to go.",
+        " Fine Flours"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carrolyn: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Nice, only ",
+        "target": "Отлично! Нужно ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отлично! Нужно ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " Mushrooms to go.",
+        "target": " шт. грибов.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 10,
+            "text": " шт. грибов"
+          },
+          {
+            "start": 10,
+            "end": 17,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carrolyn: Nice, only {value} Mushrooms to go.",
+        "[NPC] Carrolyn: Nice, only # Mushrooms to go.",
+        " Mushrooms"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carrolyn: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Nice, only ",
+        "target": "Отлично! Нужно ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отлично! Нужно ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " Wartys to go.",
+        "target": " шт. нароста «Бородавчатый».",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": " шт. нароста «Бородавчатый»"
+          },
+          {
+            "start": 7,
+            "end": 14,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carrolyn: Nice, only {value} Wartys to go.",
+        "[NPC] Carrolyn: Nice, only # Wartys to go.",
+        " Wartys"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carrolyn: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Nice, only ",
+        "target": "Отлично! Нужно ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отлично! Нужно ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " Prickly Kisses to go.",
+        "target": " шт. колючих поцелуев.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": " шт. колючих поцелуев"
+          },
+          {
+            "start": 15,
+            "end": 22,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carrolyn: Nice, only {value} Prickly Kisses to go.",
+        "[NPC] Carrolyn: Nice, only # Prickly Kisses to go.",
+        " Prickly Kisses"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carrolyn: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Nice, only ",
+        "target": "Отлично! Нужно ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отлично! Нужно ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " Cactus to go.",
+        "target": " шт. кактусов.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": " шт. кактусов"
+          },
+          {
+            "start": 7,
+            "end": 14,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carrolyn: Nice, only {value} Cactus to go.",
+        "[NPC] Carrolyn: Nice, only # Cactus to go.",
+        " Cactus"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Chef: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Joey ate ",
+        "target": "Джоуи съел ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Джоуи"
+          },
+          {
+            "start": 4,
+            "end": 9,
+            "text": " съел "
+          }
+        ]
+      },
+      "after": {
+        "source": " hot dogs!",
+        "target": " шт. хот-догов!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": " шт. хот-догов"
+          },
+          {
+            "start": 9,
+            "end": 10,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Chef: Joey ate {value} hot dogs!",
+        "[NPC] Chef: Joey ate # hot dogs!",
+        "Joey",
+        " hot dogs"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dr. Edwin: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Come back in about ",
+        "target": "Вернись примерно через ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 19,
+            "text": "Вернись примерно через "
+          }
+        ]
+      },
+      "after": {
+        "source": " seconds.",
+        "target": " с.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": " с."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dr. Edwin: Come back in about {value} seconds.",
+        "[NPC] Dr. Edwin: Come back in about # seconds."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dulin: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Hello, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". Thank you for coming.",
+        "target": ". Спасибо, что пришёл.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 23,
+            "text": ". Спасибо, что пришёл."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dulin: Hello, {value}. Thank you for coming.",
+        "[NPC] Dulin: Hello, {player}. Thank you for coming."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dulin: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Nice to see you here, ",
+        "target": "Приятно видеть тебя здесь, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 22,
+            "text": "Приятно видеть тебя здесь, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dulin: Nice to see you here, {value}.",
+        "[NPC] Dulin: Nice to see you here, {player}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dulin: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! Have you found time to explore the Glacite Tunnels yet?",
+        "target": "! Ты уже успел исследовать Глацитовые туннели?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 37,
+            "text": "! Ты уже успел исследовать "
+          },
+          {
+            "start": 37,
+            "end": 57,
+            "text": "Глацитовые туннели?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dulin: Hey {value}! Have you found time to explore the Glacite Tunnels yet?",
+        "[NPC] Dulin: Hey {player}! Have you found time to explore the Glacite Tunnels yet?",
+        "Glacite Tunnels yet?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Elle of the Nether: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Go forth and conquer, ",
+        "target": "Иди вперёд и побеждай, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 22,
+            "text": "Иди вперёд и побеждай, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". And don't come crying to me when you fail.",
+        "target": ". Только не приходи ко мне плакаться, когда потерпишь неудачу.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 44,
+            "text": ". Только не приходи ко мне плакаться, когда потерпишь неудачу."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Elle of the Nether: Go forth and conquer, {value}. And don't come crying to me when you fail.",
+        "[NPC] Elle of the Nether: Go forth and conquer, [Player's Name]. And don't come crying to me when you fail."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Fetchur: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "i need ",
+        "target": "мне нужно ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "мне нужно "
+          }
+        ]
+      },
+      "after": {
+        "source": " pls",
+        "target": " пж",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": " пж"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Fetchur: i need {value} pls",
+        "[NPC] Fetchur: i need [quantity] pls"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Helia: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Great job, ",
+        "target": "Отличная работа, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Отличная работа, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! I look forward to seeing where your journey takes you next!",
+        "target": "! С нетерпением жду, куда дальше приведёт тебя твой путь!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 61,
+            "text": "! С нетерпением жду, куда дальше приведёт тебя твой путь!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Helia: Great job, {value}! I look forward to seeing where your journey takes you next!",
+        "[NPC] Helia: Great job, Player! I look forward to seeing where your journey takes you next!"
+      ],
+      "excluded_names": [
+        "Player"
+      ]
+    },
+    {
+      "prefix": "[NPC] Hina: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Congratulations ",
+        "target": "Поздравляю, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 16,
+            "text": "Поздравляю, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Hina: Congratulations {value}.",
+        "[NPC] Hina: Congratulations Player."
+      ],
+      "excluded_names": [
+        "Player"
+      ]
+    },
+    {
+      "prefix": "[NPC] Hoppity: ✆ ",
+      "capture_type": "username",
+      "before": {
+        "source": "What's up, ",
+        "target": "Как дела, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Как дела, "
+          }
+        ]
+      },
+      "after": {
+        "source": "?",
+        "target": "?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Hoppity: ✆ What's up, {value}?",
+        "[NPC] Hoppity: ✆ What's up, [PLAYER]?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Hungry Hiker: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Could you get me ",
+        "target": "Можешь принести мне этой еды ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "Можешь принести мне этой еды "
+          }
+        ]
+      },
+      "after": {
+        "source": " of this food?",
+        "target": " шт.?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 14,
+            "text": " шт.?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Hungry Hiker: Could you get me {value} of this food?",
+        "[NPC] Hungry Hiker: Could you get me # of this food?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Jacob: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Your previous personal best was ",
+        "target": "Твой прежний личный рекорд: ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 32,
+            "text": "Твой прежний личный рекорд: "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Jacob: Your previous personal best was {value}.",
+        "[NPC] Jacob: Your previous personal best was #."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Jax: ✆ ",
+      "capture_type": "integer",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": ", really???",
+        "target": ", серьёзно???",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": ", серьёзно???"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Jax: ✆ {value}, really???",
+        "[NPC] Jax: ✆ #, really???"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Juliette: ",
+      "capture_type": "username",
+      "before": {
+        "source": "You're the best, ",
+        "target": "Вы лучше всех, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Вы "
+          },
+          {
+            "start": 11,
+            "end": 15,
+            "text": "лучше всех"
+          },
+          {
+            "start": 15,
+            "end": 17,
+            "text": ", "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Juliette: You're the best, {value}!",
+        "[NPC] Juliette: You're the best, <player>!",
+        "best"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Madame Eleanor Q. Goldsworth II: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Welcome ",
+        "target": "Добро пожаловать, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": "Добро пожаловать, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Madame Eleanor Q. Goldsworth II: Welcome {value}.",
+        "[NPC] Madame Eleanor Q. Goldsworth II: Welcome (Player)."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Marcia: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "A day which lasted ",
+        "target": "А день, между прочим, длился ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 2,
+            "text": "А "
+          },
+          {
+            "start": 2,
+            "end": 5,
+            "text": "день"
+          },
+          {
+            "start": 5,
+            "end": 19,
+            "text": ", между прочим, длился "
+          }
+        ]
+      },
+      "after": {
+        "source": " hours, by the way!",
+        "target": " ч.!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 19,
+            "text": " ч.!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Marcia: A day which lasted {value} hours, by the way!",
+        "[NPC] Marcia: A day which lasted # hours, by the way!",
+        "day"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Phillip: ",
+      "capture_type": "username",
+      "before": {
+        "source": "Thanks for the Pest, ",
+        "target": "Спасибо за вредителя, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": "Спасибо за "
+          },
+          {
+            "start": 15,
+            "end": 19,
+            "text": "вредителя"
+          },
+          {
+            "start": 19,
+            "end": 21,
+            "text": ", "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Phillip: Thanks for the Pest, {value}!",
+        "[NPC] Phillip: Thanks for the Pest, Player!",
+        "Pest"
+      ],
+      "excluded_names": [
+        "Player"
+      ]
+    },
+    {
+      "prefix": "[NPC] Romero: ",
+      "capture_type": "username",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! You're the best person to turn the day into something memorable!",
+        "target": "! Вы поможете сделать этот день незабываемым!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 13,
+            "text": "! Вы "
+          },
+          {
+            "start": 13,
+            "end": 24,
+            "text": "поможете"
+          },
+          {
+            "start": 24,
+            "end": 66,
+            "text": " сделать этот день незабываемым!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Romero: {value}! You're the best person to turn the day into something memorable!",
+        "[NPC] Romero: <Player>! You're the best person to turn the day into something memorable!",
+        "best person"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Shen Chaos: ",
+      "capture_type": "username",
+      "before": {
+        "source": "You must be ",
+        "target": "Ты ведь ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 12,
+            "text": "Ты ведь "
+          }
+        ]
+      },
+      "after": {
+        "source": ", correct?",
+        "target": ", верно?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 10,
+            "text": ", верно?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Shen Chaos: You must be {value}, correct?",
+        "[NPC] Shen Chaos: You must be (Player), correct?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Sirius: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "The poorest player allowed in had ",
+        "target": "У самого бедного допущенного игрока было ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 34,
+            "text": "У самого бедного допущенного игрока было "
+          }
+        ]
+      },
+      "after": {
+        "source": " Coins!",
+        "target": " мон.!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": " мон."
+          },
+          {
+            "start": 6,
+            "end": 7,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Sirius: The poorest player allowed in had {value} Coins!",
+        "[NPC] Sirius: The poorest player allowed in had # Coins!",
+        " Coins"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Sirius: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "The bidding will start in ",
+        "target": "Торги начнутся через ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 26,
+            "text": "Торги начнутся через "
+          }
+        ]
+      },
+      "after": {
+        "source": "s.",
+        "target": " с.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 2,
+            "text": " с."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Sirius: The bidding will start in {value}s.",
+        "[NPC] Sirius: The bidding will start in #s."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] St. Jerry: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "You're so close! Find ",
+        "target": "Ты уже близко! Найди ещё ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 22,
+            "text": "Ты уже близко! Найди ещё "
+          }
+        ]
+      },
+      "after": {
+        "source": " more Gifts and come back to me!",
+        "target": " шт. подарков и возвращайся ко мне!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 32,
+            "text": " шт. подарков и возвращайся ко мне!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] St. Jerry: You're so close! Find {value} more Gifts and come back to me!",
+        "[NPC] St. Jerry: You're so close! Find # more Gifts and come back to me!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] St. Jerry: ✆ ",
+      "capture_type": "integer",
+      "before": {
+        "source": "I have ",
+        "target": "В моём Абифоне ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "В моём Абифоне "
+          }
+        ]
+      },
+      "after": {
+        "source": " contacts on my Abiphone.",
+        "target": " шт. контактов.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": " шт. контактов"
+          },
+          {
+            "start": 9,
+            "end": 25,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] St. Jerry: ✆ I have {value} contacts on my Abiphone.",
+        "[NPC] St. Jerry: ✆ I have # contacts on my Abiphone.",
+        " contacts"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] The Lost Adventurer: ",
+      "capture_type": "username",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": ", you there! Where am I?",
+        "target": ", эй! Где я?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 24,
+            "text": ", эй! Где я?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] The Lost Adventurer: {value}, you there! Where am I?",
+        "[NPC] The Lost Adventurer: <player>, you there! Where am I?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ubik Von Neumann: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Your choice was ",
+        "target": "Ты выбрал ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 16,
+            "text": "Ты выбрал "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ubik Von Neumann: Your choice was {value}.",
+        "[NPC] Ubik Von Neumann: Your choice was #."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Wizard: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Thank you. This should be enough potatoes to generate about ",
+        "target": "Спасибо. Этой картошки должно хватить, чтобы выработать около ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 60,
+            "text": "Спасибо. Этой картошки должно хватить, чтобы выработать около "
+          }
+        ]
+      },
+      "after": {
+        "source": " volts. Might be just enough to cause a reaction.",
+        "target": " В. Возможно, этого будет достаточно для реакции.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 49,
+            "text": " В. Возможно, этого будет достаточно для реакции."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Wizard: Thank you. This should be enough potatoes to generate about {value} volts. Might be just enough to cause a reaction.",
+        "[NPC] Wizard: Thank you. This should be enough potatoes to generate about # volts. Might be just enough to cause a reaction."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Wizard: ",
+      "capture_type": "username",
+      "before": {
+        "source": "My Portal seems to be broken, ",
+        "target": "Кажется, мой портал сломан, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 30,
+            "text": "Кажется, мой портал сломан, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Wizard: My Portal seems to be broken, {value}!",
+        "[NPC] Wizard: My Portal seems to be broken, [player]!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Alwin: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Alwin: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Alwin: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Alwin: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Alwin: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Alwin: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Alwin: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Alwin: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Alwin: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Arba: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Arba: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Arba: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Arba: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Arba: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Arba: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Arba: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Arba: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Arba: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Arbadak: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Arbadak: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Arbadak: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Arbadak: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Arbadak: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Arbadak: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Arbadak: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Arbadak: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Arbadak: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Colore: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Colore: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Colore: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Colore: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Colore: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Colore: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Colore: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Colore: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Colore: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ezekiel: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ezekiel: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Ezekiel: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ezekiel: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ezekiel: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Ezekiel: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ezekiel: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ezekiel: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Ezekiel: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Igrupan: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Igrupan: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Igrupan: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Igrupan: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Igrupan: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Igrupan: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Igrupan: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Igrupan: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Igrupan: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Kheharad: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Kheharad: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Kheharad: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Kheharad: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Kheharad: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Kheharad: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Kheharad: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Kheharad: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Kheharad: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Lys: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Lys: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Lys: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Lys: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Lys: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Lys: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Lys: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Lys: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Lys: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mage Emissary: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mage Emissary: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Mage Emissary: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mage Emissary: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mage Emissary: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Mage Emissary: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mage Emissary: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mage Emissary: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Mage Emissary: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mazakala: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mazakala: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Mazakala: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mazakala: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mazakala: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Mazakala: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mazakala: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mazakala: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Mazakala: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mollim: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mollim: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Mollim: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mollim: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mollim: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Mollim: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mollim: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mollim: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Mollim: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Offea: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Offea: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Offea: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Offea: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Offea: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Offea: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Offea: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Offea: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Offea: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rhanora: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rhanora: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Rhanora: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rhanora: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rhanora: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Rhanora: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rhanora: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rhanora: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Rhanora: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rollim: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rollim: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Rollim: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rollim: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rollim: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Rollim: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rollim: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rollim: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Rollim: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Scholar Alluin: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Scholar Alluin: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Scholar Alluin: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Scholar Alluin: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Scholar Alluin: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Scholar Alluin: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Scholar Alluin: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Scholar Alluin: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Scholar Alluin: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Seffea: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Seffea: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Seffea: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Seffea: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Seffea: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Seffea: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Seffea: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Seffea: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Seffea: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ulyn: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ulyn: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Ulyn: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ulyn: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ulyn: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Ulyn: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ulyn: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ulyn: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Ulyn: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Velyna: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! That's...ok I guess!",
+        "target": " ед. интеллекта! Что ж... сойдёт!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 35,
+            "text": " ед. интеллекта! Что ж... сойдёт!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Velyna: {value} Intelligence! That's...ok I guess!",
+        "[NPC] Velyna: [amount] Intelligence! That's...ok I guess!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Velyna: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! Wow that's not bad at all!",
+        "target": " ед. интеллекта! Ого, весьма неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": " ед. интеллекта! Ого, весьма неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Velyna: {value} Intelligence! Wow that's not bad at all!",
+        "[NPC] Velyna: [amount] Intelligence! Wow that's not bad at all!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Velyna: ",
+      "capture_type": "stat_number",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " Intelligence! What, how? Who are you even?",
+        "target": " ед. интеллекта! Что? Как? Да кто ты вообще?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": " ед. интеллекта! Что? Как? Да кто ты вообще?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Velyna: {value} Intelligence! What, how? Who are you even?",
+        "[NPC] Velyna: [amount] Intelligence! What, how? Who are you even?"
+      ],
+      "excluded_names": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.15.105-dev",
+  "runtime_jar_sha256": "9D19995EED91114A500A98AD540A41D1765B12BAC665340D6E1C68F20F9C627B",
+  "exact_keys": 11092,
+  "total_frozen": 16244,
+  "exact_percent": 68.2836739719281,
+  "without_exact_key": 5152,
+  "new_exact_keys": 0,
+  "prior_name_templates103": 135,
+  "wording_revisions": 11,
+  "new_style_repairs": 5,
+  "selected_style_gap_before103": 72,
+  "selected_style_repaired_cumulative105": 72,
+  "selected_style_gap_remaining": 0,
+  "selected_style_repair_percent": 100.0,
+  "selected_latin_name_revisions": 6,
+  "fresh_test_groups": 177,
+  "parser_tests": 15,
+  "new_wording_assertions": 25769,
+  "unchanged_runtime_classes": 125,
+  "historical_test_sources_unchanged": 264,
+  "historical_lookup_test_intentionally_updated": true,
+  "isolated_expectation_supersession_files": 24,
+  "performance_not_fps": {
+    "scope": "Isolated equal-output receipt benchmark;not FPS/frametime/0.1% low. Revised eleven outputs are not presented as equal work.",
+    "equal_modes": 10,
+    "four_jvm_order": [
+      "104",
+      "105",
+      "105",
+      "104"
+    ],
+    "min_wall_change_percent": -6.144890834046679,
+    "max_wall_change_percent": 3.9068418307891095,
+    "both_orders_slower_over5": []
+  },
+  "installed_pack_modified": false,
+  "game_fps_or_frame_times_measured": false
+}

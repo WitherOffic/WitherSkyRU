@@ -1,0 +1,76 @@
+{
+  "style_pending": [
+    {
+      "source": "[NPC] Brigette: There are a lot of scams lurking around every corner.",
+      "reason": "В переводе не выражено выделенное lot («много»)."
+    },
+    {
+      "source": "[NPC] Gwendolyn: Hey! Someone special has been asking to meet you!",
+      "reason": "В переводе отсутствует special («особенный»)."
+    },
+    {
+      "source": "[NPC] Juliette: Thank you for delivering it.",
+      "reason": "Нет отдельного местоимения для выделенного you («вам»)."
+    },
+    {
+      "source": "[NPC] Ozanne: Crazy stuff!",
+      "reason": "Нужна редактура идиомы Crazy stuff, прежде чем назначать её выделение."
+    },
+    {
+      "source": "[NPC] Romero: I do like it though!",
+      "reason": "В переводе не выражен усилительный смысл do."
+    }
+  ],
+  "preexisting_latin_name_rows_in_repaired_set": [
+    {
+      "source": "[NPC] Gwendolyn: You should also talk to Emissary Braum, they have more information about commissions.",
+      "translation": "[NPC] Gwendolyn: Поговорите также с посланником Braum — он расскажет подробнее о поручениях.",
+      "remaining_body_tokens": [
+        "Braum"
+      ],
+      "reason": "Preexisting proper names retained; this batch changes semantic style plans only,not wording."
+    },
+    {
+      "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+      "translation": "[NPC] Juliette: Ох, люблю Romero! Он столько всего умеет.",
+      "remaining_body_tokens": [
+        "Romero"
+      ],
+      "reason": "Preexisting proper names retained; this batch changes semantic style plans only,not wording."
+    },
+    {
+      "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+      "translation": "[NPC] Juliette: Не понимаю, почему Romero никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+      "remaining_body_tokens": [
+        "Romero"
+      ],
+      "reason": "Preexisting proper names retained; this batch changes semantic style plans only,not wording."
+    },
+    {
+      "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+      "translation": "[NPC] Romero: Я хочу добраться до Луны ради Juliette.",
+      "remaining_body_tokens": [
+        "Juliette"
+      ],
+      "reason": "Preexisting proper names retained; this batch changes semantic style plans only,not wording."
+    },
+    {
+      "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+      "translation": "[NPC] Romero: Хочу сделать для Juliette тайный подарок.",
+      "remaining_body_tokens": [
+        "Juliette"
+      ],
+      "reason": "Preexisting proper names retained; this batch changes semantic style plans only,not wording."
+    },
+    {
+      "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+      "translation": "[NPC] Romero: Спасибо огромное, что снова свели нас с Juliette.",
+      "remaining_body_tokens": [
+        "Juliette"
+      ],
+      "reason": "Preexisting proper names retained; this batch changes semantic style plans only,not wording."
+    }
+  ],
+  "unsupported_counter_scope": "Two Tia relay lines retain the existing base-provider restriction: extra repeat suffix not enabled.",
+  "server_input_exception": "The St. Jerry holiday phrase deliberately stays English for exact server input; Russian instruction already present."
+}

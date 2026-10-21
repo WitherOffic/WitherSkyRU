@@ -1,0 +1,676 @@
+{
+  "records": [
+    {
+      "source": "[NPC] Agent Kapustin: Hey {value}!",
+      "probe_source": "[NPC] Agent Kapustin: Hey Wither_101!",
+      "layouts": [
+        "§e[NPC] §cAgent Kapustin§f: Hey Wither_101!"
+      ]
+    },
+    {
+      "source": "[NPC] Brian: Try the Trial of Blue Flames {value} for a greater challenge!",
+      "probe_source": "[NPC] Brian: Try the Trial of Blue Flames 137 for a greater challenge!",
+      "layouts": [
+        "§e[NPC]§3 Brian§f: §3Try the Trial of Blue Flames 137 §ffor a greater challenge!"
+      ]
+    },
+    {
+      "source": "[NPC] Brian: The rarity of your item will be upgraded in {value} trials!",
+      "probe_source": "[NPC] Brian: The rarity of your item will be upgraded in 137 trials!",
+      "layouts": [
+        "§e[NPC]§3 Brian§f: The rarity of your item will be upgraded in §a137 §ftrials!"
+      ]
+    },
+    {
+      "source": "[NPC] Brian: Congrats on completing tier {value}!",
+      "probe_source": "[NPC] Brian: Congrats on completing tier 137!",
+      "layouts": [
+        "§e[NPC]§3 Brian§a: Congrats on completing tier 137!"
+      ]
+    },
+    {
+      "source": "[NPC] Brian: Try the Trial of Blue Flames Trial {value} for a greater challenge!",
+      "probe_source": "[NPC] Brian: Try the Trial of Blue Flames Trial 137 for a greater challenge!",
+      "layouts": [
+        "§e[NPC]§3 Brian§f: Try the §3Trial of Blue Flames Trial 137 §ffor a greater challenge!"
+      ]
+    },
+    {
+      "source": "[NPC] Carnival Leader: Welcome to The Carnival, {value}!",
+      "probe_source": "[NPC] Carnival Leader: Welcome to The Carnival, Wither_101!",
+      "layouts": [
+        "§e[NPC] §aCarnival Leader§f: Welcome to §eThe Carnival§f, §7Wither_101§f!"
+      ]
+    },
+    {
+      "source": "[NPC] Carrolyn: Nice, only {value} Carrots to go.",
+      "probe_source": "[NPC] Carrolyn: Nice, only 137 Carrots to go.",
+      "layouts": [
+        "§e[NPC] §5Carrolyn§f: Nice, only §6137 Carrots§f to go."
+      ]
+    },
+    {
+      "source": "[NPC] Carrolyn: Nice, only {value} Pumpkins to go.",
+      "probe_source": "[NPC] Carrolyn: Nice, only 137 Pumpkins to go.",
+      "layouts": [
+        "§e[NPC] §5Carrolyn§f: Nice, only §6137 Pumpkins§f to go."
+      ]
+    },
+    {
+      "source": "[NPC] Carrolyn: Nice, only {value} Chocolate Bars to go.",
+      "probe_source": "[NPC] Carrolyn: Nice, only 137 Chocolate Bars to go.",
+      "layouts": [
+        "§e[NPC] §5Carrolyn§f: Nice, only §6137 Chocolate Bars§f to go."
+      ]
+    },
+    {
+      "source": "[NPC] Carrolyn: Nice, only {value} Fine Flours to go.",
+      "probe_source": "[NPC] Carrolyn: Nice, only 137 Fine Flours to go.",
+      "layouts": [
+        "§e[NPC] §5Carrolyn§f: Nice, only §6137 Fine Flours§f to go."
+      ]
+    },
+    {
+      "source": "[NPC] Carrolyn: Nice, only {value} Mushrooms to go.",
+      "probe_source": "[NPC] Carrolyn: Nice, only 137 Mushrooms to go.",
+      "layouts": [
+        "§e[NPC] §5Carrolyn§f: Nice, only §6137 Mushrooms§f to go."
+      ]
+    },
+    {
+      "source": "[NPC] Carrolyn: Nice, only {value} Wartys to go.",
+      "probe_source": "[NPC] Carrolyn: Nice, only 137 Wartys to go.",
+      "layouts": [
+        "§e[NPC] §5Carrolyn§f: Nice, only §6137 Wartys§f to go."
+      ]
+    },
+    {
+      "source": "[NPC] Carrolyn: Nice, only {value} Prickly Kisses to go.",
+      "probe_source": "[NPC] Carrolyn: Nice, only 137 Prickly Kisses to go.",
+      "layouts": [
+        "§e[NPC] §5Carrolyn§f: Nice, only §6137 Prickly Kisses§f to go."
+      ]
+    },
+    {
+      "source": "[NPC] Carrolyn: Nice, only {value} Cactus to go.",
+      "probe_source": "[NPC] Carrolyn: Nice, only 137 Cactus to go.",
+      "layouts": [
+        "§e[NPC] §5Carrolyn§f: Nice, only §6137 Cactus§f to go."
+      ]
+    },
+    {
+      "source": "[NPC] Chef: Joey ate {value} hot dogs!",
+      "probe_source": "[NPC] Chef: Joey ate 137 hot dogs!",
+      "layouts": [
+        "§e[NPC] §6Chef§f: §cJoey§f ate §c137 hot dogs§f!"
+      ]
+    },
+    {
+      "source": "[NPC] Dr. Edwin: Come back in about {value} seconds.",
+      "probe_source": "[NPC] Dr. Edwin: Come back in about 137 seconds.",
+      "layouts": [
+        "§e[NPC] Dr. Edwin§f: Come back in about 137 seconds."
+      ]
+    },
+    {
+      "source": "[NPC] Dulin: Hello, {value}. Thank you for coming.",
+      "probe_source": "[NPC] Dulin: Hello, Wither_101. Thank you for coming.",
+      "layouts": [
+        "§e[NPC] Dulin§f: §fHello, §6Wither_101§f. Thank you for coming."
+      ]
+    },
+    {
+      "source": "[NPC] Dulin: Nice to see you here, {value}.",
+      "probe_source": "[NPC] Dulin: Nice to see you here, Wither_101.",
+      "layouts": [
+        "§e[NPC] Dulin§f: §fNice to see you here, §6Wither_101§f."
+      ]
+    },
+    {
+      "source": "[NPC] Dulin: Hey {value}! Have you found time to explore the Glacite Tunnels yet?",
+      "probe_source": "[NPC] Dulin: Hey Wither_101! Have you found time to explore the Glacite Tunnels yet?",
+      "layouts": [
+        "§e[NPC] Dulin§f: §fHey §6Wither_101§f! Have you found time to explore the §bGlacite Tunnels yet?"
+      ]
+    },
+    {
+      "source": "[NPC] Elle of the Nether: Go forth and conquer, {value}. And don't come crying to me when you fail.",
+      "probe_source": "[NPC] Elle of the Nether: Go forth and conquer, Wither_101. And don't come crying to me when you fail.",
+      "layouts": [
+        "§e[NPC] §cElle of the Nether§f: Go forth and conquer, Wither_101. And don't come crying to me when you fail."
+      ]
+    },
+    {
+      "source": "[NPC] Fetchur: i need {value} pls",
+      "probe_source": "[NPC] Fetchur: i need 137 pls",
+      "layouts": [
+        "§e[NPC] Fetchur§f: i need 137 pls"
+      ]
+    },
+    {
+      "source": "[NPC] Helia: Great job, {value}! I look forward to seeing where your journey takes you next!",
+      "probe_source": "[NPC] Helia: Great job, Wither_101! I look forward to seeing where your journey takes you next!",
+      "layouts": [
+        "§e[NPC] §2Helia§f: Great job, Wither_101! I look forward to seeing where your journey takes you next!"
+      ]
+    },
+    {
+      "source": "[NPC] Hina: Congratulations {value}.",
+      "probe_source": "[NPC] Hina: Congratulations Wither_101.",
+      "layouts": [
+        "§e[NPC] §bHina§f: Congratulations §bWither_101§f."
+      ]
+    },
+    {
+      "source": "[NPC] Hoppity: ✆ What's up, {value}?",
+      "probe_source": "[NPC] Hoppity: ✆ What's up, Wither_101?",
+      "layouts": [
+        "§e[NPC] §aHoppity§f: §b✆ §f§rWhat's up, §bWither_101§f?"
+      ]
+    },
+    {
+      "source": "[NPC] Hungry Hiker: Could you get me {value} of this food?",
+      "probe_source": "[NPC] Hungry Hiker: Could you get me 137 of this food?",
+      "layouts": [
+        "§e[NPC] Hungry Hiker§f: Could you get me §7137 §fof this food?"
+      ]
+    },
+    {
+      "source": "[NPC] Jacob: Your previous personal best was {value}.",
+      "probe_source": "[NPC] Jacob: Your previous personal best was 137.",
+      "layouts": [
+        "§e[NPC] Jacob§f: Your previous personal best was §e137§f."
+      ]
+    },
+    {
+      "source": "[NPC] Jax: ✆ {value}, really???",
+      "probe_source": "[NPC] Jax: ✆ 137, really???",
+      "layouts": [
+        "§e[NPC] Jax§f: §b✆ §f137, really???"
+      ]
+    },
+    {
+      "source": "[NPC] Juliette: You're the best, {value}!",
+      "probe_source": "[NPC] Juliette: You're the best, Wither_101!",
+      "layouts": [
+        "§e[NPC] Juliette§f: You're the §dbest§f, Wither_101!"
+      ]
+    },
+    {
+      "source": "[NPC] Madame Eleanor Q. Goldsworth II: Welcome {value}.",
+      "probe_source": "[NPC] Madame Eleanor Q. Goldsworth II: Welcome Wither_101.",
+      "layouts": [
+        "§e[NPC] §6Madame Eleanor Q. Goldsworth II§f: Welcome Wither_101."
+      ]
+    },
+    {
+      "source": "[NPC] Marcia: A day which lasted {value} hours, by the way!",
+      "probe_source": "[NPC] Marcia: A day which lasted 137 hours, by the way!",
+      "layouts": [
+        "§e[NPC] Marcia§f: A §aday §rwhich lasted §b137 §rhours, by the way!"
+      ]
+    },
+    {
+      "source": "[NPC] Phillip: Thanks for the Pest, {value}!",
+      "probe_source": "[NPC] Phillip: Thanks for the Pest, Wither_101!",
+      "layouts": [
+        "§e[NPC] §6Phillip§f: Thanks for the §6Pest§f, Wither_101!"
+      ]
+    },
+    {
+      "source": "[NPC] Romero: {value}! You're the best person to turn the day into something memorable!",
+      "probe_source": "[NPC] Romero: Wither_101! You're the best person to turn the day into something memorable!",
+      "layouts": [
+        "§e[NPC] Romero§f: Wither_101! You're the §ebest person §fto turn the day into something memorable!"
+      ]
+    },
+    {
+      "source": "[NPC] Shen Chaos: You must be {value}, correct?",
+      "probe_source": "[NPC] Shen Chaos: You must be Wither_101, correct?",
+      "layouts": [
+        "§e[NPC] §8Shen Chaos§f: You must be Wither_101, correct?"
+      ]
+    },
+    {
+      "source": "[NPC] Sirius: The poorest player allowed in had {value} Coins!",
+      "probe_source": "[NPC] Sirius: The poorest player allowed in had 137 Coins!",
+      "layouts": [
+        "§e[NPC] §6Sirius§f: The poorest player allowed in had §6137 Coins§f!"
+      ]
+    },
+    {
+      "source": "[NPC] Sirius: The bidding will start in {value}s.",
+      "probe_source": "[NPC] Sirius: The bidding will start in 137s.",
+      "layouts": [
+        "§e[NPC] §6Sirius§f: The bidding will start in 137s."
+      ]
+    },
+    {
+      "source": "[NPC] St. Jerry: You're so close! Find {value} more Gifts and come back to me!",
+      "probe_source": "[NPC] St. Jerry: You're so close! Find 137 more Gifts and come back to me!",
+      "layouts": [
+        "§e[NPC] §cSt. Jerry§f: You're so close! Find §a137 §fmore Gifts and come back to me!"
+      ]
+    },
+    {
+      "source": "[NPC] St. Jerry: ✆ I have {value} contacts on my Abiphone.",
+      "probe_source": "[NPC] St. Jerry: ✆ I have 137 contacts on my Abiphone.",
+      "layouts": [
+        "§e[NPC] §cSt. Jerry§f: §b✆§f I have §c137 contacts §fon my Abiphone."
+      ]
+    },
+    {
+      "source": "[NPC] The Lost Adventurer: {value}, you there! Where am I?",
+      "probe_source": "[NPC] The Lost Adventurer: Wither_101, you there! Where am I?",
+      "layouts": [
+        "§5§l[§kNPC§5§l] §5The Lost Adventurer§d: §7Wither_101§d, you there! Where am I?"
+      ]
+    },
+    {
+      "source": "[NPC] Ubik Von Neumann: Your choice was {value}.",
+      "probe_source": "[NPC] Ubik Von Neumann: Your choice was 137.",
+      "layouts": [
+        "§e[NPC] Ubik Von Neumann§f: §fYour choice was §a137§f."
+      ]
+    },
+    {
+      "source": "[NPC] Wizard: Thank you. This should be enough potatoes to generate about {value} volts. Might be just enough to cause a reaction.",
+      "probe_source": "[NPC] Wizard: Thank you. This should be enough potatoes to generate about 137 volts. Might be just enough to cause a reaction.",
+      "layouts": [
+        "§e[NPC] §aWizard§f: Thank you. This should be enough potatoes to generate about §b137§f volts. Might be just enough to cause a reaction."
+      ]
+    },
+    {
+      "source": "[NPC] Wizard: My Portal seems to be broken, {value}!",
+      "probe_source": "[NPC] Wizard: My Portal seems to be broken, Wither_101!",
+      "layouts": [
+        "§e[NPC] Wizard§f: My Portal seems to be broken, §7Wither_101!"
+      ]
+    },
+    {
+      "source": "[NPC] Alwin: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Alwin: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §cAlwin§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Alwin: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Alwin: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §cAlwin§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Alwin: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Alwin: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §cAlwin§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Arba: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Arba: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §dArba§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Arba: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Arba: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §dArba§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Arba: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Arba: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §dArba§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Arbadak: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Arbadak: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §dArbadak§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Arbadak: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Arbadak: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §dArbadak§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Arbadak: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Arbadak: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §dArbadak§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Colore: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Colore: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Colore§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Colore: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Colore: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Colore§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Colore: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Colore: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Colore§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Ezekiel: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Ezekiel: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Ezekiel§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Ezekiel: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Ezekiel: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Ezekiel§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Ezekiel: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Ezekiel: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Ezekiel§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Igrupan: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Igrupan: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Igrupan§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Igrupan: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Igrupan: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Igrupan§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Igrupan: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Igrupan: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Igrupan§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Kheharad: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Kheharad: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Kheharad§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Kheharad: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Kheharad: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Kheharad§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Kheharad: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Kheharad: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Kheharad§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Lys: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Lys: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Lys§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Lys: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Lys: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Lys§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Lys: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Lys: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Lys§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Mage Emissary: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Mage Emissary: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Mage Emissary§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Mage Emissary: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Mage Emissary: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Mage Emissary§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Mage Emissary: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Mage Emissary: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Mage Emissary§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Mazakala: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Mazakala: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §dMazakala§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Mazakala: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Mazakala: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §dMazakala§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Mazakala: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Mazakala: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §dMazakala§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Mollim: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Mollim: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Mollim§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Mollim: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Mollim: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Mollim§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Mollim: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Mollim: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Mollim§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Offea: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Offea: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Offea§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Offea: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Offea: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Offea§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Offea: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Offea: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Offea§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Rhanora: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Rhanora: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Rhanora§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Rhanora: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Rhanora: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Rhanora§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Rhanora: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Rhanora: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Rhanora§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Rollim: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Rollim: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Rollim§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Rollim: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Rollim: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Rollim§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Rollim: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Rollim: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Rollim§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Scholar Alluin: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Scholar Alluin: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Scholar Alluin§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Scholar Alluin: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Scholar Alluin: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Scholar Alluin§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Scholar Alluin: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Scholar Alluin: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Scholar Alluin§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Seffea: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Seffea: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Seffea§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Seffea: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Seffea: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Seffea§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Seffea: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Seffea: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Seffea§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Ulyn: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Ulyn: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Ulyn§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Ulyn: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Ulyn: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Ulyn§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Ulyn: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Ulyn: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Ulyn§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Velyna: {value} Intelligence! That's...ok I guess!",
+      "probe_source": "[NPC] Velyna: 137 Intelligence! That's...ok I guess!",
+      "layouts": [
+        "§e[NPC] §5Velyna§f: §b137 §fIntelligence! That's...ok I guess!"
+      ]
+    },
+    {
+      "source": "[NPC] Velyna: {value} Intelligence! Wow that's not bad at all!",
+      "probe_source": "[NPC] Velyna: 137 Intelligence! Wow that's not bad at all!",
+      "layouts": [
+        "§e[NPC] §5Velyna§f: §b137 §fIntelligence! Wow that's not bad at all!"
+      ]
+    },
+    {
+      "source": "[NPC] Velyna: {value} Intelligence! What, how? Who are you even?",
+      "probe_source": "[NPC] Velyna: 137 Intelligence! What, how? Who are you even?",
+      "layouts": [
+        "§e[NPC] §5Velyna§f: §b137 §fIntelligence! What, how? Who are you even?"
+      ]
+    },
+    {
+      "source": "[NPC] Dean: There is a rogue Barbarian going by the name of Duke X.",
+      "probe_source": "[NPC] Dean: There is a rogue Barbarian going by the name of Duke X.",
+      "layouts": [
+        "§e[NPC] §5Dean§f: There is a rogue Barbarian going by the name of §cDuke X§f."
+      ]
+    }
+  ]
+}

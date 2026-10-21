@@ -1,0 +1,1511 @@
+{
+  "version": "0.15.14-dev",
+  "corpus_sources": 33126,
+  "dictionary_changed_sources": 32613,
+  "unchanged_sources": 513,
+  "unchanged_with_latin_candidates": 509,
+  "changed_with_remaining_latin_candidates": 5669,
+  "latin_is_not_automatically_an_error": true,
+  "log_chat_lines": 3859,
+  "unclassified_chat_lines_not_exported": 3208,
+  "reviewed_notification_unique": 244,
+  "reviewed_notification_changed": 244,
+  "reviewed_notification_categories": {
+    "bestiary": 9,
+    "broodmother": 1,
+    "cookie_obtain": 1,
+    "cookie_required": 1,
+    "dropvision_startup": 1,
+    "garden_pest": 5,
+    "garden_presence": 1,
+    "garden_preset": 1,
+    "inventory_full": 1,
+    "pest_fortune": 5,
+    "pet_ready": 2,
+    "powder_ghast": 2,
+    "rare_drop": 2,
+    "sack_full": 1,
+    "sack_transfer": 1,
+    "sacks": 189,
+    "skyhanni_stash": 12,
+    "spooky_objective": 1,
+    "spooky_rewards": 1,
+    "teleport": 7
+  },
+  "reviewed_notifications": [
+    {
+      "category": "bestiary",
+      "source": "                                  BESTIARY",
+      "translation": "                                  БЕСТИАРИЙ",
+      "changed": true
+    },
+    {
+      "category": "pest_fortune",
+      "source": "    Farming Fortune has been reduced by 15%!",
+      "translation": "    Удача фермерства снижена на 15%!",
+      "changed": true
+    },
+    {
+      "category": "pest_fortune",
+      "source": "    Farming Fortune has been reduced by 30%!",
+      "translation": "    Удача фермерства снижена на 30%!",
+      "changed": true
+    },
+    {
+      "category": "pest_fortune",
+      "source": "    Farming Fortune has been reduced by 5%!",
+      "translation": "    Удача фермерства снижена на 5%!",
+      "changed": true
+    },
+    {
+      "category": "pest_fortune",
+      "source": "    Farming Fortune has been reduced by 50%!",
+      "translation": "    Удача фермерства снижена на 50%!",
+      "changed": true
+    },
+    {
+      "category": "pest_fortune",
+      "source": "    Farming Fortune has been reduced by 75%!",
+      "translation": "    Удача фермерства снижена на 75%!",
+      "changed": true
+    },
+    {
+      "category": "bestiary",
+      "source": "BESTIARY Beetle I",
+      "translation": "БЕСТИАРИЙ Жук I",
+      "changed": true
+    },
+    {
+      "category": "bestiary",
+      "source": "BESTIARY Cricket IV ➡ V",
+      "translation": "БЕСТИАРИЙ Сверчок IV ➡ V",
+      "changed": true
+    },
+    {
+      "category": "bestiary",
+      "source": "BESTIARY Cricket V ➡ VI",
+      "translation": "БЕСТИАРИЙ Сверчок V ➡ VI",
+      "changed": true
+    },
+    {
+      "category": "bestiary",
+      "source": "BESTIARY Locust VI ➡ VII",
+      "translation": "БЕСТИАРИЙ Саранча VI ➡ VII",
+      "changed": true
+    },
+    {
+      "category": "bestiary",
+      "source": "BESTIARY Mosquito VI ➡ VII",
+      "translation": "БЕСТИАРИЙ Комар VI ➡ VII",
+      "changed": true
+    },
+    {
+      "category": "bestiary",
+      "source": "BESTIARY Moth II ➡ III",
+      "translation": "БЕСТИАРИЙ Моль II ➡ III",
+      "changed": true
+    },
+    {
+      "category": "bestiary",
+      "source": "BESTIARY Moth III ➡ IV",
+      "translation": "БЕСТИАРИЙ Моль III ➡ IV",
+      "changed": true
+    },
+    {
+      "category": "bestiary",
+      "source": "BESTIARY Slug I ➡ II",
+      "translation": "БЕСТИАРИЙ Слизняк I ➡ II",
+      "changed": true
+    },
+    {
+      "category": "powder_ghast",
+      "source": "Find the Powder Ghast near the Divan\u0027s Gateway!",
+      "translation": "Найдите Порошкового гаста: Врата Дивана!",
+      "changed": true
+    },
+    {
+      "category": "garden_pest",
+      "source": "GROSS! A  Pest has appeared in Plot - 1!",
+      "translation": "ФУ!  Вредитель появился на участке № 1!",
+      "changed": true
+    },
+    {
+      "category": "garden_pest",
+      "source": "GROSS! A  Pest has appeared in Plot - 3!",
+      "translation": "ФУ!  Вредитель появился на участке № 3!",
+      "changed": true
+    },
+    {
+      "category": "garden_pest",
+      "source": "GROSS! A  Pest has appeared in Plot - 4!",
+      "translation": "ФУ!  Вредитель появился на участке № 4!",
+      "changed": true
+    },
+    {
+      "category": "garden_pest",
+      "source": "GROSS! A  Pest has appeared in Plot - 5!",
+      "translation": "ФУ!  Вредитель появился на участке № 5!",
+      "changed": true
+    },
+    {
+      "category": "garden_pest",
+      "source": "GROSS! A  Pest has appeared in Plot - 7!",
+      "translation": "ФУ!  Вредитель появился на участке № 7!",
+      "changed": true
+    },
+    {
+      "category": "inventory_full",
+      "source": "Inventory full? Don\u0027t forget to check out your Storage inside the SkyBlock Menu!",
+      "translation": "Инвентарь заполнен? Загляните в хранилище в меню SkyBlock!",
+      "changed": true
+    },
+    {
+      "category": "cookie_obtain",
+      "source": "Obtain a Booster Cookie from the community shop in the hub!",
+      "translation": "Получите печенье-усилитель в общественном магазине в Хабе!",
+      "changed": true
+    },
+    {
+      "category": "rare_drop",
+      "source": "RARE DROP! Cicada Symphony Vinyl (+1.5)",
+      "translation": "РЕДКАЯ ДОБЫЧА! Пластинка «Симфония цикад» (+1.5)",
+      "changed": true
+    },
+    {
+      "category": "rare_drop",
+      "source": "RARE DROP! Enchanted Melon x15 (+4)",
+      "translation": "РЕДКАЯ ДОБЫЧА! Зачарованный арбуз x15 (+4)",
+      "changed": true
+    },
+    {
+      "category": "garden_presence",
+      "source": "Remember, you have to be on the island for the resources to be planted!",
+      "translation": "Для размещения ресурсов вы должны оставаться на острове!",
+      "changed": true
+    },
+    {
+      "category": "garden_preset",
+      "source": "Started pasting Cactus preset on Garden Plot - 7!",
+      "translation": "Начато размещение шаблона «Кактус» на участке Сада № 7!",
+      "changed": true
+    },
+    {
+      "category": "spooky_objective",
+      "source": "Talk to the Spooky Man in the Hub!",
+      "translation": "Поговорите с Жутким человеком в Хабе!",
+      "changed": true
+    },
+    {
+      "category": "teleport",
+      "source": "Teleported you to Plot - 1!",
+      "translation": "Перемещение: Участок - 1!",
+      "changed": true
+    },
+    {
+      "category": "teleport",
+      "source": "Teleported you to Plot - 2!",
+      "translation": "Перемещение: Участок - 2!",
+      "changed": true
+    },
+    {
+      "category": "teleport",
+      "source": "Teleported you to Plot - 3!",
+      "translation": "Перемещение: Участок - 3!",
+      "changed": true
+    },
+    {
+      "category": "teleport",
+      "source": "Teleported you to Plot - 4!",
+      "translation": "Перемещение: Участок - 4!",
+      "changed": true
+    },
+    {
+      "category": "teleport",
+      "source": "Teleported you to Plot - 5!",
+      "translation": "Перемещение: Участок - 5!",
+      "changed": true
+    },
+    {
+      "category": "teleport",
+      "source": "Teleported you to Plot - 7!",
+      "translation": "Перемещение: Участок - 7!",
+      "changed": true
+    },
+    {
+      "category": "teleport",
+      "source": "Teleported you to The Barn!",
+      "translation": "Перемещение: Амбар!",
+      "changed": true
+    },
+    {
+      "category": "powder_ghast",
+      "source": "The sound of pickaxes clashing against the rock has attracted the attention of the POWDER GHAST!",
+      "translation": "Стук кирок по камню привлёк внимание ПОРОШКОВОГО ГАСТА!",
+      "changed": true
+    },
+    {
+      "category": "sack_transfer",
+      "source": "You cannot transfer anything into sacks!",
+      "translation": "Не удаётся переложить предметы в мешки!",
+      "changed": true
+    },
+    {
+      "category": "spooky_rewards",
+      "source": "You haven\u0027t claimed your Spooky Rewards yet!",
+      "translation": "Вы ещё не забрали награды Жуткого фестиваля!",
+      "changed": true
+    },
+    {
+      "category": "cookie_required",
+      "source": "You need the Cookie Buff to use this feature!",
+      "translation": "Для этой функции нужен эффект печенья!",
+      "changed": true
+    },
+    {
+      "category": "sack_full",
+      "source": "Your Agronomy Sack is full of Seeds!",
+      "translation": "Ваш мешок для урожая заполнен семенами!",
+      "changed": true
+    },
+    {
+      "category": "pet_ready",
+      "source": "Your Dolphin is Ready to pick up! [call]",
+      "translation": "Ваш питомец «Дельфин» готов к получению! [ЗАБРАТЬ]",
+      "changed": true
+    },
+    {
+      "category": "pet_ready",
+      "source": "Your Rabbit is Ready to pick up! [call]",
+      "translation": "Ваш питомец «Кролик» готов к получению! [ЗАБРАТЬ]",
+      "changed": true
+    },
+    {
+      "category": "dropvision_startup",
+      "source": "[DropVision] v3.2.5+26.1.2 loaded  |  Detection OFF · 7/7 rarities · Bazaar + Auction pricing  |  /dp gui",
+      "translation": "[DropVision] v3.2.5+26.1.2 загружен  |  Распознавание ВЫКЛ · 7/7 редкостей · Цены Базара и аукциона  |  /dp gui",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1 item. (Last 5s.)",
+      "translation": "[Мешки] +1 предмет. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1 item. (Last 5s.) (x2)",
+      "translation": "[Мешки] +1 предмет. (За 5 с.) (x2)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1 item. (Last 5s.) (x3)",
+      "translation": "[Мешки] +1 предмет. (За 5 с.) (x3)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,009 items. (Last 30s.)",
+      "translation": "[Мешки] +1,009 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,011 items. (Last 30s.)",
+      "translation": "[Мешки] +1,011 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,034 items. (Last 30s.)",
+      "translation": "[Мешки] +1,034 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,037 items, -137 items. (Last 15s.)",
+      "translation": "[Мешки] +1,037 предметов, -137 предметов. (За 15 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,060 items. (Last 30s.)",
+      "translation": "[Мешки] +1,060 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,071 items. (Last 30s.)",
+      "translation": "[Мешки] +1,071 предмет. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,093 items, -41,516 items. (Last 30s.)",
+      "translation": "[Мешки] +1,093 предмета, -41,516 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,110 items, -234 items. (Last 21s.)",
+      "translation": "[Мешки] +1,110 предметов, -234 предмета. (За 21 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,127 items. (Last 30s.)",
+      "translation": "[Мешки] +1,127 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,150 items. (Last 30s.)",
+      "translation": "[Мешки] +1,150 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,170 items. (Last 30s.)",
+      "translation": "[Мешки] +1,170 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,177 items. (Last 30s.)",
+      "translation": "[Мешки] +1,177 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,199 items, -253 items. (Last 20s.)",
+      "translation": "[Мешки] +1,199 предметов, -253 предмета. (За 20 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,208 items. (Last 30s.)",
+      "translation": "[Мешки] +1,208 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,211 items. (Last 30s.)",
+      "translation": "[Мешки] +1,211 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,212 items, -251 items. (Last 23s.)",
+      "translation": "[Мешки] +1,212 предметов, -251 предмет. (За 23 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,227 items. (Last 30s.)",
+      "translation": "[Мешки] +1,227 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,229 items. (Last 30s.)",
+      "translation": "[Мешки] +1,229 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,231 items, -190 items. (Last 19s.)",
+      "translation": "[Мешки] +1,231 предмет, -190 предметов. (За 19 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,231 items, -268 items. (Last 23s.)",
+      "translation": "[Мешки] +1,231 предмет, -268 предметов. (За 23 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,233 items. (Last 30s.)",
+      "translation": "[Мешки] +1,233 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,236 items, -16,897 items. (Last 23s.)",
+      "translation": "[Мешки] +1,236 предметов, -16,897 предметов. (За 23 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,250 items. (Last 30s.)",
+      "translation": "[Мешки] +1,250 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,251 items. (Last 30s.)",
+      "translation": "[Мешки] +1,251 предмет. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,259 items. (Last 30s.)",
+      "translation": "[Мешки] +1,259 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,268 items, -230 items. (Last 19s.)",
+      "translation": "[Мешки] +1,268 предметов, -230 предметов. (За 19 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,284 items. (Last 30s.)",
+      "translation": "[Мешки] +1,284 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,289 items. (Last 30s.)",
+      "translation": "[Мешки] +1,289 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,297 items. (Last 30s.)",
+      "translation": "[Мешки] +1,297 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,301 items. (Last 30s.)",
+      "translation": "[Мешки] +1,301 предмет. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,310 items. (Last 30s.)",
+      "translation": "[Мешки] +1,310 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,312 items. (Last 30s.)",
+      "translation": "[Мешки] +1,312 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,322 items, -281 items. (Last 30s.)",
+      "translation": "[Мешки] +1,322 предмета, -281 предмет. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,329 items. (Last 30s.)",
+      "translation": "[Мешки] +1,329 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,333 items. (Last 30s.)",
+      "translation": "[Мешки] +1,333 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,406 items. (Last 30s.)",
+      "translation": "[Мешки] +1,406 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,412 items, -264 items. (Last 25s.)",
+      "translation": "[Мешки] +1,412 предметов, -264 предмета. (За 25 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,432 items. (Last 30s.)",
+      "translation": "[Мешки] +1,432 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,478 items, -311 items. (Last 30s.)",
+      "translation": "[Мешки] +1,478 предметов, -311 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,501 items, -138 items. (Last 14s.)",
+      "translation": "[Мешки] +1,501 предмет, -138 предметов. (За 14 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,515 items, -317 items. (Last 30s.)",
+      "translation": "[Мешки] +1,515 предметов, -317 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,608 items, -2,945 items. (Last 23s.)",
+      "translation": "[Мешки] +1,608 предметов, -2,945 предметов. (За 23 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,635 items, -321 items. (Last 30s.)",
+      "translation": "[Мешки] +1,635 предметов, -321 предмет. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,642 items, -270 items. (Last 22s.)",
+      "translation": "[Мешки] +1,642 предмета, -270 предметов. (За 22 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,661 items, -348 items. (Last 30s.)",
+      "translation": "[Мешки] +1,661 предмет, -348 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,765 items, -326 items. (Last 27s.)",
+      "translation": "[Мешки] +1,765 предметов, -326 предметов. (За 27 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1,800 items, -373 items. (Last 30s.)",
+      "translation": "[Мешки] +1,800 предметов, -373 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +11 items. (Last 5s.)",
+      "translation": "[Мешки] +11 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +117 items, -26 items. (Last 7s.)",
+      "translation": "[Мешки] +117 предметов, -26 предметов. (За 7 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +12 items. (Last 5s.)",
+      "translation": "[Мешки] +12 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +126 items, -20,096 items. (Last 5s.)",
+      "translation": "[Мешки] +126 предметов, -20,096 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +135 items, -20,128 items. (Last 7s.)",
+      "translation": "[Мешки] +135 предметов, -20,128 предметов. (За 7 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +18 items. (Last 5s.)",
+      "translation": "[Мешки] +18 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +181 items. (Last 5s.)",
+      "translation": "[Мешки] +181 предмет. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +19 items. (Last 5s.)",
+      "translation": "[Мешки] +19 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2 items. (Last 10s.)",
+      "translation": "[Мешки] +2 предмета. (За 10 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2 items. (Last 8s.)",
+      "translation": "[Мешки] +2 предмета. (За 8 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,026 items, -422 items. (Last 30s.)",
+      "translation": "[Мешки] +2,026 предметов, -422 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,086 items, -306 items. (Last 30s.)",
+      "translation": "[Мешки] +2,086 предметов, -306 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,167 items, -450 items. (Last 30s.)",
+      "translation": "[Мешки] +2,167 предметов, -450 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,189 items, -410 items. (Last 30s.)",
+      "translation": "[Мешки] +2,189 предметов, -410 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,226 items, -413 items. (Last 30s.)",
+      "translation": "[Мешки] +2,226 предметов, -413 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,281 items, -180 items. (Last 22s.)",
+      "translation": "[Мешки] +2,281 предмет, -180 предметов. (За 22 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,492 items, -215 items. (Last 20s.)",
+      "translation": "[Мешки] +2,492 предмета, -215 предметов. (За 20 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,541 items, -469 items. (Last 30s.)",
+      "translation": "[Мешки] +2,541 предмет, -469 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,545 items, -438 items. (Last 30s.)",
+      "translation": "[Мешки] +2,545 предметов, -438 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,802 items, -422 items. (Last 30s.)",
+      "translation": "[Мешки] +2,802 предмета, -422 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +2,895 items, -261 items. (Last 30s.)",
+      "translation": "[Мешки] +2,895 предметов, -261 предмет. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +20 items. (Last 5s.)",
+      "translation": "[Мешки] +20 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +20,032 items, -20,160 items. (Last 13s.)",
+      "translation": "[Мешки] +20,032 предмета, -20,160 предметов. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +20,320 items. (Last 5s.)",
+      "translation": "[Мешки] +20,320 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +203 items, -38 items. (Last 8s.)",
+      "translation": "[Мешки] +203 предмета, -38 предметов. (За 8 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +21 items. (Last 5s.)",
+      "translation": "[Мешки] +21 предмет. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +21 items. (Last 8s.)",
+      "translation": "[Мешки] +21 предмет. (За 8 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +21,179 items. (Last 5s.)",
+      "translation": "[Мешки] +21,179 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +213 items, -38 items. (Last 8s.)",
+      "translation": "[Мешки] +213 предметов, -38 предметов. (За 8 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +22 items. (Last 5s.)",
+      "translation": "[Мешки] +22 предмета. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +23 items. (Last 30s.)",
+      "translation": "[Мешки] +23 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +234 items. (Last 13s.)",
+      "translation": "[Мешки] +234 предмета. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +237 items. (Last 17s.)",
+      "translation": "[Мешки] +237 предметов. (За 17 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +24 items. (Last 27s.)",
+      "translation": "[Мешки] +24 предмета. (За 27 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +24 items. (Last 29s.)",
+      "translation": "[Мешки] +24 предмета. (За 29 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +26 items, -4,452 items. (Last 9s.)",
+      "translation": "[Мешки] +26 предметов, -4,452 предмета. (За 9 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +261 items, -1,472 items. (Last 13s.)",
+      "translation": "[Мешки] +261 предмет, -1,472 предмета. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +296 items, -1 item. (Last 13s.)",
+      "translation": "[Мешки] +296 предметов, -1 предмет. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3 items. (Last 11s.)",
+      "translation": "[Мешки] +3 предмета. (За 11 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3 items. (Last 14s.)",
+      "translation": "[Мешки] +3 предмета. (За 14 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3,178 items, -278 items. (Last 30s.)",
+      "translation": "[Мешки] +3,178 предметов, -278 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3,211 items, -285 items. (Last 25s.)",
+      "translation": "[Мешки] +3,211 предметов, -285 предметов. (За 25 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3,395 items, -300 items. (Last 30s.)",
+      "translation": "[Мешки] +3,395 предметов, -300 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3,669 items, -398 items. (Last 30s.)",
+      "translation": "[Мешки] +3,669 предметов, -398 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3,923 items, -328 items. (Last 30s.)",
+      "translation": "[Мешки] +3,923 предмета, -328 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3,944 items, -417 items. (Last 30s.)",
+      "translation": "[Мешки] +3,944 предмета, -417 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +3,994 items, -411 items. (Last 30s.)",
+      "translation": "[Мешки] +3,994 предмета, -411 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +30,866 items, -20,160 items. (Last 8s.)",
+      "translation": "[Мешки] +30,866 предметов, -20,160 предметов. (За 8 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +319 items, -64 items. (Last 13s.)",
+      "translation": "[Мешки] +319 предметов, -64 предмета. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +328 items. (Last 5s.)",
+      "translation": "[Мешки] +328 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +33 items. (Last 6s.)",
+      "translation": "[Мешки] +33 предмета. (За 6 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +344 items, -5,431 items. (Last 12s.)",
+      "translation": "[Мешки] +344 предмета, -5,431 предмет. (За 12 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +364 items. (Last 15s.)",
+      "translation": "[Мешки] +364 предмета. (За 15 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +384 items, -357 items. (Last 30s.)",
+      "translation": "[Мешки] +384 предмета, -357 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +386 items. (Last 14s.)",
+      "translation": "[Мешки] +386 предметов. (За 14 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4 items. (Last 15s.)",
+      "translation": "[Мешки] +4 предмета. (За 15 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4 items. (Last 16s.)",
+      "translation": "[Мешки] +4 предмета. (За 16 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4 items. (Last 16s.) (x2)",
+      "translation": "[Мешки] +4 предмета. (За 16 с.) (x2)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4 items. (Last 5s.)",
+      "translation": "[Мешки] +4 предмета. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4,037 items, -331 items. (Last 30s.)",
+      "translation": "[Мешки] +4,037 предметов, -331 предмет. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4,211 items, -333 items. (Last 28s.)",
+      "translation": "[Мешки] +4,211 предметов, -333 предмета. (За 28 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4,369 items, -344 items. (Last 30s.)",
+      "translation": "[Мешки] +4,369 предметов, -344 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4,647 items, -387 items. (Last 30s.)",
+      "translation": "[Мешки] +4,647 предметов, -387 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4,665 items, -384 items. (Last 30s.)",
+      "translation": "[Мешки] +4,665 предметов, -384 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +4,825 items, -417 items. (Last 30s.)",
+      "translation": "[Мешки] +4,825 предметов, -417 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +42,058 items. (Last 5s.)",
+      "translation": "[Мешки] +42,058 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +423 items, -25 items. (Last 26s.)",
+      "translation": "[Мешки] +423 предмета, -25 предметов. (За 26 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +425 items, -395 items. (Last 30s.)",
+      "translation": "[Мешки] +425 предметов, -395 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +455 items. (Last 5s.)",
+      "translation": "[Мешки] +455 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +458 items. (Last 30s.)",
+      "translation": "[Мешки] +458 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +459 items, -427 items. (Last 30s.)",
+      "translation": "[Мешки] +459 предметов, -427 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +46 items. (Last 5s.)",
+      "translation": "[Мешки] +46 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +471 items. (Last 14s.)",
+      "translation": "[Мешки] +471 предмет. (За 14 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +477 items. (Last 19s.)",
+      "translation": "[Мешки] +477 предметов. (За 19 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +479 items, -445 items. (Last 30s.)",
+      "translation": "[Мешки] +479 предметов, -445 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +5 items. (Last 19s.)",
+      "translation": "[Мешки] +5 предметов. (За 19 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +5 items. (Last 20s.)",
+      "translation": "[Мешки] +5 предметов. (За 20 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +5 items. (Last 5s.)",
+      "translation": "[Мешки] +5 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +5,401 items, -453 items. (Last 30s.)",
+      "translation": "[Мешки] +5,401 предмет, -453 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +5,425 items, -486 items. (Last 30s.)",
+      "translation": "[Мешки] +5,425 предметов, -486 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +5,536 items, -153 items. (Last 30s.)",
+      "translation": "[Мешки] +5,536 предметов, -153 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +5,576 items, -476 items. (Last 30s.)",
+      "translation": "[Мешки] +5,576 предметов, -476 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +51 items. (Last 7s.)",
+      "translation": "[Мешки] +51 предмет. (За 7 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +515 items, -11,362 items. (Last 20s.)",
+      "translation": "[Мешки] +515 предметов, -11,362 предмета. (За 20 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +518 items. (Last 5s.)",
+      "translation": "[Мешки] +518 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +527 items. (Last 24s.)",
+      "translation": "[Мешки] +527 предметов. (За 24 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +539 items, -34,887 items. (Last 27s.)",
+      "translation": "[Мешки] +539 предметов, -34,887 предметов. (За 27 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +548 items. (Last 18s.)",
+      "translation": "[Мешки] +548 предметов. (За 18 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +559 items, -45 items. (Last 8s.)",
+      "translation": "[Мешки] +559 предметов, -45 предметов. (За 8 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +562 items. (Last 23s.)",
+      "translation": "[Мешки] +562 предмета. (За 23 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +579 items, -1,067 items. (Last 12s.)",
+      "translation": "[Мешки] +579 предметов, -1,067 предметов. (За 12 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +579 items, -20,140 items. (Last 21s.)",
+      "translation": "[Мешки] +579 предметов, -20,140 предметов. (За 21 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +586 items. (Last 16s.)",
+      "translation": "[Мешки] +586 предметов. (За 16 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +590 items, -128 items. (Last 19s.)",
+      "translation": "[Мешки] +590 предметов, -128 предметов. (За 19 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +593 items, -6,994 items. (Last 21s.)",
+      "translation": "[Мешки] +593 предмета, -6,994 предмета. (За 21 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +6 items, -40,782 items. (Last 5s.)",
+      "translation": "[Мешки] +6 предметов, -40,782 предмета. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +6 items. (Last 26s.)",
+      "translation": "[Мешки] +6 предметов. (За 26 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +6 items. (Last 5s.)",
+      "translation": "[Мешки] +6 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +6,486 items, -497 items. (Last 30s.)",
+      "translation": "[Мешки] +6,486 предметов, -497 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +6,904 items. (Last 30s.)",
+      "translation": "[Мешки] +6,904 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +600 items, -108 items. (Last 13s.)",
+      "translation": "[Мешки] +600 предметов, -108 предметов. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +624 items. (Last 18s.)",
+      "translation": "[Мешки] +624 предмета. (За 18 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +626 items, -92 items. (Last 13s.)",
+      "translation": "[Мешки] +626 предметов, -92 предмета. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +64 items, -64 items. (Last 9s.)",
+      "translation": "[Мешки] +64 предмета, -64 предмета. (За 9 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +64 items. (Last 5s.)",
+      "translation": "[Мешки] +64 предмета. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +660 items. (Last 30s.)",
+      "translation": "[Мешки] +660 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +664 items. (Last 30s.)",
+      "translation": "[Мешки] +664 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +665 items, -61 items. (Last 9s.)",
+      "translation": "[Мешки] +665 предметов, -61 предмет. (За 9 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +680 items. (Last 30s.)",
+      "translation": "[Мешки] +680 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +689 items, -139 items. (Last 15s.)",
+      "translation": "[Мешки] +689 предметов, -139 предметов. (За 15 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +696 items, -150 items. (Last 19s.)",
+      "translation": "[Мешки] +696 предметов, -150 предметов. (За 19 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +7 items. (Last 26s.)",
+      "translation": "[Мешки] +7 предметов. (За 26 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +7 items. (Last 27s.)",
+      "translation": "[Мешки] +7 предметов. (За 27 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +7 items. (Last 28s.)",
+      "translation": "[Мешки] +7 предметов. (За 28 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +7 items. (Last 28s.) (x2)",
+      "translation": "[Мешки] +7 предметов. (За 28 с.) (x2)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +7 items. (Last 29s.)",
+      "translation": "[Мешки] +7 предметов. (За 29 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +712 items, -101 items. (Last 11s.)",
+      "translation": "[Мешки] +712 предметов, -101 предмет. (За 11 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +714 items. (Last 21s.)",
+      "translation": "[Мешки] +714 предметов. (За 21 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +732 items, -62 items. (Last 9s.)",
+      "translation": "[Мешки] +732 предмета, -62 предмета. (За 9 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +78 items, -11,648 items. (Last 8s.)",
+      "translation": "[Мешки] +78 предметов, -11,648 предметов. (За 8 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +795 items. (Last 22s.)",
+      "translation": "[Мешки] +795 предметов. (За 22 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +8 items. (Last 30s.)",
+      "translation": "[Мешки] +8 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +8 items. (Last 5s.)",
+      "translation": "[Мешки] +8 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +810 items. (Last 29s.)",
+      "translation": "[Мешки] +810 предметов. (За 29 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +83 items, -48 items. (Last 21s.)",
+      "translation": "[Мешки] +83 предмета, -48 предметов. (За 21 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +846 items. (Last 29s.)",
+      "translation": "[Мешки] +846 предметов. (За 29 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +85 items, -18 items. (Last 6s.)",
+      "translation": "[Мешки] +85 предметов, -18 предметов. (За 6 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +850 items, -74 items. (Last 10s.)",
+      "translation": "[Мешки] +850 предметов, -74 предмета. (За 10 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +863 items, -863 items. (Last 13s.)",
+      "translation": "[Мешки] +863 предмета, -863 предмета. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +868 items. (Last 30s.)",
+      "translation": "[Мешки] +868 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +89 items, -18 items. (Last 6s.)",
+      "translation": "[Мешки] +89 предметов, -18 предметов. (За 6 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +895 items, -181 items. (Last 16s.)",
+      "translation": "[Мешки] +895 предметов, -181 предмет. (За 16 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +9 items. (Last 30s.)",
+      "translation": "[Мешки] +9 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +90 items. (Last 5s.)",
+      "translation": "[Мешки] +90 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +923 items, -194 items. (Last 30s.)",
+      "translation": "[Мешки] +923 предмета, -194 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +95 items. (Last 5s.)",
+      "translation": "[Мешки] +95 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +970 items. (Last 28s.)",
+      "translation": "[Мешки] +970 предметов. (За 28 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +987 items. (Last 30s.)",
+      "translation": "[Мешки] +987 предметов. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +992 items. (Last 30s.)",
+      "translation": "[Мешки] +992 предмета. (За 30 с.)",
+      "changed": true
+    },
+    {
+      "category": "broodmother",
+      "source": "[SkyHanni] The Broodmother was killed!",
+      "translation": "[SkyHanni] Матка пауков убита!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 107k materials in stash, totalling 17 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 107k материалов, видов: 17. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 13k materials in stash, totalling 13 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 13k материалов, видов: 13. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 2 items in stash. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 2 предмета. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 30k materials in stash, totalling 13 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 30k материалов, видов: 13. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 34k materials in stash, totalling 14 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 34k материалов, видов: 14. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 35k materials in stash, totalling 14 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 35k материалов, видов: 14. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 55k materials in stash, totalling 14 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 55k материалов, видов: 14. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 55k materials in stash, totalling 18 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 55k материалов, видов: 18. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 56k materials in stash, totalling 16 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 56k материалов, видов: 16. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 56k materials in stash, totalling 17 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 56k материалов, видов: 17. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 56k materials in stash, totalling 18 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 56k материалов, видов: 18. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 6.6k materials in stash, totalling 4 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 6.6k материалов, видов: 4. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    }
+  ],
+  "npc_observed_unique": 76,
+  "npc_observed_changed": 19,
+  "unknown_display_unique": 58475,
+  "unknown_display_now_changed_by_dictionary": 18391,
+  "private_chat_or_unknown_text_exported": false,
+  "chat_replayed_as_unsigned_system_notification": true,
+  "actual_log_channel_metadata_unavailable": true,
+  "full_manual_proofread": false,
+  "live_server_total_known": false,
+  "game_launched": false
+}

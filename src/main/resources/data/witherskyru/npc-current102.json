@@ -1,0 +1,42 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "Three authored current API additions; one already translated line retained separately. Outside frozen16244-row denominator. Jeff/Phillip have alpha/update caveats.",
+  "records": [
+    {
+      "source_key": "npc-current102.0",
+      "speaker": "Jeff",
+      "tag": "NPC",
+      "source": "[NPC] Jeff: I'm helping a friend complete her Chip collection, could you spare any?",
+      "translation": "[NPC] Jeff: Помогаю подруге собрать коллекцию чипов. Не поделишься?",
+      "style_anchors": [
+        {
+          "source": "Chip",
+          "target": "чипов"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jeff?oldid=859505",
+      "evidence": "current_public_revision_not_frozen_denominator_not_live_packet"
+    },
+    {
+      "source_key": "npc-current102.1",
+      "speaker": "Jeff",
+      "tag": "NPC",
+      "source": "[NPC] Jeff: Thanks! I'll make sure to give this to her right away.",
+      "translation": "[NPC] Jeff: Спасибо! Обязательно передам ей прямо сейчас.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jeff?oldid=859505",
+      "evidence": "current_public_revision_not_frozen_denominator_not_live_packet"
+    },
+    {
+      "source_key": "npc-current102.2",
+      "speaker": "Ghost of Armorsmith",
+      "tag": "NPC",
+      "source": "[NPC] Ghost of Armorsmith: Thanks! I'm planning on making a Turtle Helmet, and this seemed easier than mass-breeding Turtles on a beach for their scutes.",
+      "translation": "[NPC] Ghost of Armorsmith: Спасибо! Я собираюсь сделать черепаший шлем, и это показалось проще, чем массово разводить черепах на пляже ради щитков.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Armorsmith?oldid=860696",
+      "evidence": "current_public_revision_not_frozen_denominator_not_live_packet"
+    }
+  ]
+}

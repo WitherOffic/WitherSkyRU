@@ -1037,7 +1037,7 @@ Ability: Firestorm  RIGHT CLICK	Способность: Огненная бур�
 Ability: Flay  RIGHT CLICK	Способность: Свежевание — ПКМ
 Ability: Forced Metamorphosis	Способность: принудительное превращение
 Ability: Forta	Способность: Форта
-Ability: Frenzy	Способность: бешенство
+Ability: Frenzy	Способность: Бешенство
 Ability: Friendship is Power	Способность: дружба — сила
 Ability: Future Footsteps RIGHT CLICK	Способность: Шаги из будущего — ПКМ
 Ability: Giant's Slam  RIGHT CLICK	Способность: Удар великана — ПКМ
@@ -1089,7 +1089,7 @@ Ability: Love Tap	Способность: любовный удар
 Ability: ME SMASH HEAD  RIGHT CLICK	Способность: Я БИТЬ ПО ГОЛОВЕ — ПКМ
 Ability: Mechamind	Способность: механический разум
 Ability: Medium Heal  RIGHT CLICK	Способность: Среднее исцеление — ПКМ
-Ability: Mega Frenzy	Способность: мега-бешенство
+Ability: Mega Frenzy	Способность: Мега-бешенство
 Ability: Meliora	Способность: Мелиора
 Ability: Meownar  RIGHT CLICK	Способность: Мяунар — ПКМ
 Ability: Mithril's Protection	Способность: защита мифрила
@@ -1906,7 +1906,7 @@ Applies the Pitchin' reforge when	Накладывает перековку «М
 Applies the Precise reforge when	Накладывает перековку «Точный» при
 Applies the Refined reforge when	Накладывает перековку «Усовершенствованный» при
 Applies the Reinforced reforge when	Накладывает перековку «Укреплённый» при
-Applies the Renowned reforge when	Применяет перековку «Прославленная», если
+Applies the Renowned reforge when	Накладывает перековку «Прославленный» при
 Applies the Ridiculous reforge when	Накладывает перековку «Нелепый» при
 Applies the Rooted reforge when	Накладывает перековку «Укоренённый» при
 Applies the Royal reforge when	Накладывает перековку «Королевский» при
@@ -1914,7 +1914,7 @@ Applies the Salty reforge when	Накладывает перековку «Со�
 Applies the Scraped reforge when	Накладывает перековку «Потёртый» при
 Applies the Shadow Warp Ability when	Добавляет способность «Теневой перенос»,
 Applies the Snowy reforge when	Накладывает перековку «Снежный» при
-Applies the Spiked reforge when	Применяет перековку «Шипастая», если
+Applies the Spiked reforge when	Накладывает перековку «Шипастый» при
 Applies the Spiritual reforge when	Применяет перековку «Духовная»
 Applies the Squeaky reforge when	Накладывает перековку «Пищащий» при
 Applies the Stellar reforge when	Накладывает перековку «Звёздный» при
@@ -1933,11 +1933,11 @@ Applies the Warped reforge when	Накладывает перековку «Ис
 Applies the Waxed reforge when	Накладывает перековку «Вощёный» при
 Applies the Wither Shield Ability when	Добавляет способность «Щит иссушителя»,
 Applies the Withered reforge when	Накладывает перековку «Иссушенный»
-Applies the ४ Fighting booster when	Накладывает ४ боевой усилитель при
-Applies the ⎋ Foraging Fortune	Накладывает ⎋ усилитель удачи лесорубства
-Applies the ☯ Common Hunting Wisdom	Накладывает ☯ обычный усилитель мудрости охоты
-Applies the ⸙ Foraging Wisdom	Накладывает ⸙ усилитель мудрости лесорубства
-Applies the ꕮ Sweep booster when	Накладывает ꕮ усилитель рубки при
+Applies the ४ Fighting booster when	При объединении добавляет ४ боевой усилитель для
+Applies the ⎋ Foraging Fortune	Добавляет усилитель ⎋ удачи лесорубства
+Applies the ☯ Common Hunting Wisdom	Добавляет усилитель ☯ обычной мудрости охоты
+Applies the ⸙ Foraging Wisdom	Добавляет усилитель ⸙ мудрости лесорубства
+Applies the ꕮ Sweep booster when	При объединении добавляет усилитель ꕮ размаха для
 Applies ᛃ on wands or deployables,	Накладывает ᛃ на палочки или размещаемые предметы,
 Apply Aligned to yourself for 6s,	Накладывает на вас «Выравнивание» на 6 с,
 Apply Cost: 250 Exp Levels	Стоимость применения: 250 уровней опыта
@@ -1956,8 +1956,8 @@ Apply this rune to throwing axe or	Нанесите эту руну на мет�
 Apply this rune to weapons at the	Нанесите эту руну на оружие на
 Apply this rune to weapons or	Нанесите эту руну на оружие или
 Apply this rune to weapons or fuse	Нанесите эту руну на оружие или объедините
-Apply to an item with a Common	Примените к предмету с ОБЫЧНЫМ
-Apply to an item with a Common Sweep	Примените к предмету с обычной рубкой
+Apply to an item with a Common	Примените к предмету с обычным
+Apply to an item with a Common Sweep	Примените к предмету с обычным усилителем размаха,
 Apprentice	Подмастерье
 Apprentice (NPC)	Apprentice (НПС)
 April 20th, 2023	20 апреля 2023
@@ -2200,7 +2200,7 @@ Armor of Magma Chestplate	Магмовый нагрудник
 Armor of Magma Helmet	Магмовый шлем
 Armor of Magma Leggings	Магмовые поножи
 Armor to Tier XIII.	броню до уровня XIII.
-Armor, Equipment, or Axes.	Броня, экипировка или топоры.
+Armor, Equipment, or Axes.	бронёй, экипировкой или топорами.
 ArmorStand	Стойка для брони
 Armored Tank	Бронированный танк
 Armorshred Arrow	Бронебойная стрела
@@ -3361,7 +3361,7 @@ Booster Cookie	Печенье-усилитель
 Booster Cookie (FREE)	Печенье-усилитель (БЕСПЛАТНО)
 Booster Cookie (Quest)	Печенье-усилитель (задание)
 Booster Cookie (Untradable)	Печенье-усилитель (нельзя передать)
-Booster to upgrade it to an	усилителем, чтобы улучшить до
+Booster to upgrade it to an	чтобы улучшить этот усилитель до
 Booster, which increases the amount	усилителя, увеличивающего количество
 Boosts potions duration by {1}%.	Продлевает действие зелий на {1}%.
 Boosts the chance to find treasure	Повышает шанс найти сокровища
@@ -5392,27 +5392,27 @@ Cookie given for free! (Untradable!)	Бесплатное печенье! (Не�
 Cool Rock Skin	Облик камня «Крутой»
 Cool Sloth Hat of Celebration	Праздничная шапка крутого ленивца
 Coolada Barn Skin on The Garden!	облик амбара «Coolada» в Саду!
-Cooldown: 0.5s	Перезарядка: 0.5s
-Cooldown: 100s	Перезарядка: 100s
-Cooldown: 10s	Перезарядка: 10s
-Cooldown: 120s	Перезарядка: 120s
-Cooldown: 140s	Перезарядка: 140s
-Cooldown: 15s	Перезарядка: 15s
-Cooldown: 1m	Перезарядка: 1m
-Cooldown: 1s	Перезарядка: 1s
-Cooldown: 20s	Перезарядка: 20s
-Cooldown: 25s	Перезарядка: 25s
-Cooldown: 2h	Перезарядка: 2h
-Cooldown: 2s	Перезарядка: 2s
-Cooldown: 30s	Перезарядка: 30s
-Cooldown: 360s	Перезарядка: 360s
-Cooldown: 3s	Перезарядка: 3s
-Cooldown: 48 hours	Перезарядка: 48ч
-Cooldown: 4s	Перезарядка: 4s
-Cooldown: 50s	Перезарядка: 50s
-Cooldown: 5s	Перезарядка: 5s
-Cooldown: 60s	Перезарядка: 60s
-Cooldown: 9s	Перезарядка: 9s
+Cooldown: 0.5s	Перезарядка: 0.5 с
+Cooldown: 100s	Перезарядка: 100 с
+Cooldown: 10s	Перезарядка: 10 с
+Cooldown: 120s	Перезарядка: 120 с
+Cooldown: 140s	Перезарядка: 140 с
+Cooldown: 15s	Перезарядка: 15 с
+Cooldown: 1m	Перезарядка: 1 мин
+Cooldown: 1s	Перезарядка: 1 с
+Cooldown: 20s	Перезарядка: 20 с
+Cooldown: 25s	Перезарядка: 25 с
+Cooldown: 2h	Перезарядка: 2 ч
+Cooldown: 2s	Перезарядка: 2 с
+Cooldown: 30s	Перезарядка: 30 с
+Cooldown: 360s	Перезарядка: 360 с
+Cooldown: 3s	Перезарядка: 3 с
+Cooldown: 48 hours	Перезарядка: 48 ч
+Cooldown: 4s	Перезарядка: 4 с
+Cooldown: 50s	Перезарядка: 50 с
+Cooldown: 5s	Перезарядка: 5 с
+Cooldown: 60s	Перезарядка: 60 с
+Cooldown: 9s	Перезарядка: 9 с
 Cooldown: {statCooldown}s	Перезарядка: {statCooldown}с
 Cooldown: {stat}s	Перезарядка: {stat}с
 Cooled Forges	Охлаждённые кузницы
@@ -7141,7 +7141,7 @@ Eagle's Advantage	Преимущество орла
 Early Bird	Ранняя пташка
 Earn +0.2 Coins every time you	Даёт +0.2 монеты за каждую
 Earn +0.2 Coins every time you harvest a Crop.	Получайте +0.2 монеты при каждом сборе урожая.
-Earn +1 pelt from tracker quests.	Получайте +1 шкур за задания выслеживания.
+Earn +1 pelt from tracker quests.	Даёт +1 шкуру за задания охотника.
 Earn +1% Forest Whispers from	Получайте на +1% больше шёпота леса за
 Earn +1% Forest Whispers from foraging.	Получайте на +1% больше шёпота леса за лесозаготовку.
 Earn +100% more Exp when mining.	Даёт на 100% больше опыта при добыче.
@@ -7164,7 +7164,7 @@ Earn +{2}% Gemstone Powder from all	Даёт на {2}% больше самоцв
 Earn +{3}% Sowdust while farming.	Получайте на +{3}% больше агропыли за фермерство.
 Earn 25% more Slayer XP.	Получайте на 25% больше опыта охотника на боссов.
 Earn half stats while alone!	В одиночку даёт половину бонусов!
-Earn x1.1 Pelts from tracker quests.	Получайте x1.1 шкур за задания выслеживания.
+Earn x1.1 Pelts from tracker quests.	Количество шкур за задания охотника: x1.1.
 Earned by [MVP+]	Получено игроком [MVP+]
 Earned by: [MVP+] Alea1337	Получено: [MVP+] Alea1337
 Earned by: [MVP+] Alex33856	Получено: [MVP+] Alex33856
@@ -7992,7 +7992,7 @@ Ephemeral Gratitude	Мимолётная благодарность
 Ephemeral Stability	Эфемерная устойчивость
 Epic Griffin Upgrade Stone	Эпический камень улучшения грифона
 Epic to Legendary.	с эпического до легендарного.
-Equipment, or Axes.	экипировка или топоры.
+Equipment, or Axes.	экипировки или топоров.
 Erihann (NPC)	Erihann (НПС)
 Erudite	Эрудированный
 Erudite Bonus	Бонус эрудированной перековки
@@ -8645,7 +8645,7 @@ Fig Tree Gifts	Дары инжирных деревьев
 Fig Trousers	Инжирные штаны
 Fig/Mangrove logs cut.	срубленных инжирных/мангровых брёвен.
 Fight alongside your pet Snowman!	Сражайтесь вместе со своим снеговиком!
-Fighting Booster to upgrade it to an	боевым усилителем, чтобы улучшить до
+Fighting Booster to upgrade it to an	боевым усилителем, чтобы улучшить его до
 Figmail	Инжирная кольчуга
 Figstone	Инжирный камень
 Figstone Splitter	Раскалыватель инжирного камня
@@ -9949,8 +9949,8 @@ Gains +5 Damage per Taming level	Получает +5 урона за ка�
 Gains +{2} Sweep and +{3}	Даёт +{2} размаха и +{3}
 Gains 1 static charge every 30	Получает 1 статический заряд каждые 30
 Gains 1 Sweep every 10,000 Logs	Получает 1 размаха за каждые 10,000 брёвен
-Gains 1 Sweep every 2,000 Logs	Получает 1 размаха за каждые 2,000 брёвен
-Gains 1 Sweep every 20,000 Logs	Получает 1 размаха за каждые 20,000 брёвен
+Gains 1 Sweep every 2,000 Logs	Получает 1 размаха за каждые 2,000 брёвен,
+Gains 1 Sweep every 20,000 Logs	Получает 1 размаха за каждые 20,000 брёвен,
 Gains Efficiency I after breaking 10	Получает «Эффективность I» после разрушения 10
 Gains Efficiency I after breaking 50	Получает «Эффективность I» после разрушения 50
 Gains stats based on how many 	Получает характеристики в зависимости от числа 
@@ -11703,7 +11703,7 @@ Grants {1} Foraging Fortune for	Даёт {1} удачи лесорубст
 Grants {stat}☯ Foraging Wisdom.	Даёт {stat}☯ мудрости лесорубства.
 Grants ☯ Foraging Wisdom.	Даёт ☯ мудрость лесорубства.
 Grants ☯ Hunting Wisdom.	Даёт ☯ мудрость охоты.
-Grants  Sweep.	Даёт  рубку.
+Grants  Sweep.	Даёт  размах.
 Grants  Foraging Fortune.	Даёт  удачу лесорубства.
 Grapes, Kiwi, Lemon, Lime, Mango, Orange,	Виноград, Киви, Лимон, Лайм, Манго, Апельсин,
 Grappling Hook	Крюк-кошка
@@ -13399,7 +13399,7 @@ Increases bow damage by 65%.	Увеличивает урон лука на 65%.
 Increases bow damage by 75%.	Увеличивает урон лука на 75%.
 Increases bow damage by 8%.	Увеличивает урон лука на 8%.
 Increases chances of finding a	Увеличивает шанс найти
-Increases damage against Foraging	Увеличивает урон по существам
+Increases damage against Foraging	Увеличивает урон по существам острова
 Increases damage dealt	Повышает наносимый урон
 Increases damage dealt by 0.1%	Увеличивает наносимый урон на 0.1%
 Increases damage dealt by 0.2%	Увеличивает наносимый урон на 0.2%
@@ -13572,7 +13572,7 @@ Increases  Crit Chance by 15% and	Повышает  шанс критич�
 Increases  Crit Chance by 20% and	Повышает  шанс критического удара на 20% и
 Incredibly heavy. Put one on each	Невероятно тяжёлый. Положите по одному на каждый
 Independent SkyBlock Wiki	Независимая вики SkyBlock
-Indicates the approximate height difference	Показывает примерную разницу высоты
+Indicates the approximate height difference	Показывает примерный перепад высот
 Infection	Заражение
 Infection I	Заражение I
 Infernal Aurora Boots	Адские ботинки авроры
@@ -13905,9 +13905,9 @@ Is it glowing? And pulsating?!	Оно светится? И пульсирует?
 Is this thing rotten? And the smell,	Это что, гнилое? А запах,
 Island Browser	Обзор островов
 Island NPC	Островной NPC
-Island creatures.	островов лесорубства.
+Island creatures.	лесорубства.
 Island for you to use whenever you	им можно пользоваться, когда
-Island mobs.	островных мобов.
+Island mobs.	лесорубства.
 Island!	Остров!
 Island.	Остров.
 Island: Backwater Bayou	Остров: Заводь
@@ -16499,7 +16499,7 @@ Mob kills grant a stack of +{0} 	За убийство существа да�
 Mob kills grant a stack of +{0} 	За убийство существа даёт заряд: +{0} 
 Mob the Fish	Рыба-моб
 Mobs are +1% more likely to drop	Шанс выпадения из мобов выше на +1% для
-Mobs are 1% more likely to drop	Шанс выпадения из мобов выше на 1% для
+Mobs are 1% more likely to drop	Мобы на 1% чаще оставляют
 Mobs are 1% more likely to drop candy during the Spooky Festival.	Во время жуткого фестиваля мобы на 1% чаще роняют конфеты.
 Mobs crossing the line(s) receive a	Мобы, пересекающие линии, получают
 Mobs hit by this stick will gain +1 Typo.	Мобы, задетые этой палкой, получают +1 опечатку.
@@ -20663,7 +20663,7 @@ Revive a player who has died in a dungeon.	Воскресите игрока, п
 Revived Heart	Возрождённое сердце
 Reward for completing the Safety Quest! (Untradable)	Награда за задание по безопасности! (Нельзя передать!)
 Reward is secret!	Награда пока скрыта!
-Rewarded to every Necromancer who	Выдано каждому некроманту, который
+Rewarded to every Necromancer who	Выдаётся каждому некроманту, который
 Rewards claimed!	Награды получены!
 Rezar® Abicase	Чехол Абикейс Rezar®
 Rhanora (NPC)	Rhanora (НПС)
@@ -22875,7 +22875,7 @@ Star Decorations	Звёздные украшения
 Star Sentry	Звёздный часовой
 Star Sentry (Monster)	Звёздный часовой (существо)
 Star Sentry Shard	Осколок «Звёздный часовой»
-Star meeting.	Звёздная встреча.
+Star meeting.	звезды.
 Starborn	Звёздорождённый
 Starborn Century Cake	Звёздный торт столетия
 Starborn I	Звёздорождённый I
@@ -25685,15 +25685,15 @@ Unaware it even eats critters, just	Даже не знает, что ест зв
 Unbreaking	Прочность
 Unbridled Rage	Необузданная ярость
 Uncommon Fighting Booster Upgrade	Необычное улучшение боевого усилителя
-Uncommon Fighting Booster, which	необычный боевой усилитель, который
-Uncommon Foraging Fortune Booster Upgrade	Необычное улучшение усилителя удачи лесоруба
-Uncommon Foraging Wisdom Booster Upgrade	Необычное улучшение усилителя мудрости лесоруба
+Uncommon Fighting Booster, which	необычного боевого усилителя, который
+Uncommon Foraging Fortune Booster Upgrade	Необычное улучшение усилителя удачи лесорубства
+Uncommon Foraging Wisdom Booster Upgrade	Необычное улучшение усилителя мудрости лесорубства
 Uncommon Griffin Upgrade Stone	Необычный камень улучшения грифона
 Uncommon Hunting Wisdom Booster Upgrade	Необычное улучшение усилителя охотничьей мудрости
 Uncommon Loot	Необычная добыча
 Uncommon Party Hat	Необычная праздничная шляпа
 Uncommon Sweep Booster Upgrade	Необычное улучшение усилителя размаха
-Uncommon Sweep Booster, which	необычный усилитель рубки, который
+Uncommon Sweep Booster, which	необычного усилителя размаха, который
 Uncommon to Rare.	с необычного до редкого.
 Undead	Нежить
 Undead (Master)	Нежить (мастер)
@@ -26363,7 +26363,7 @@ Weaponsmith (NPC)	Оружейник (НПС)
 Wear Enigma's Cloak	Наденьте плащ Энигмы
 Wear gloves when handling, and be	Надевайте перчатки при работе и будьте
 Wear the Wyld Armor Set	Наденьте комплект брони дикой природы
-Wear this hat to a Cult of the Fallen	Наденьте эту шляпу на собрание культа павшей
+Wear this hat to a Cult of the Fallen	Наденьте этот шлем на встречу Культа Падшей
 Wear this mask to show your support	Наденьте эту маску в знак поддержки
 Wear to prove you love Jerry, or	Наденьте, чтобы показать свою любовь к Джерри, или
 Weather Node	Погодный узел
@@ -27496,7 +27496,7 @@ accepted. Why are these a thing?	принимают. Зачем они вооб�
 accepting offers. Invites 5 unique	выполнение заказов. Приглашает 5 уникальных
 accessories	устрашения.
 accessory increases every 50	аксессуара возрастает каждые 50
-accessory to UNCOMMON.	аксессуара до НЕОБЫЧНОЙ.
+accessory to UNCOMMON.	аксессуар до редкости UNCOMMON.
 accessory to the Basket of Seeds!	дополнение к корзине семян!
 accessory.	Аксессуар.
 according to the local youth.	по мнению местной молодёжи.
@@ -27605,7 +27605,7 @@ and Youngite.	и янгит.
 and a 30.54% chance to spawn from Obsidian nodes.	и 30.54% шанса появиться из обсидиановых узлов.
 and a lot of love and caring to	и много любви и заботы, чтобы
 and all players within 10 blocks.	и всем игрокам в радиусе 10 блоков.
-and angle between you and your tracked mob.	и угол между вами и отслеживаемым мобом.
+and angle between you and your tracked mob.	и угол между вами и отслеживаемой целью.
 and are nothing more than just buffed Pack Spirits.	и являются лишь усиленными духами стаи.
 and attack nearby enemies, dealing	и атакуют ближайших врагов, нанося
 and attacks the player.	и атакует игрока.
@@ -27941,7 +27941,7 @@ bonuses:	бонусов:
 books in Superpairs.	книги в суперпарах.
 books.	книги.
 boost the duration of consumed God	продлевает действие выпитых зелий бога
-booster when combined with Foraging	усиление при сочетании с лесной
+booster when combined with Foraging	при объединении с лесорубской
 bosses and mini-bosses.	боссов и мини-боссов.
 bounce dealing 15% less damage.	отскока, нанося на 15% меньше урона.
 bounce to another target after it	отскочить к другой цели после
@@ -28039,7 +28039,7 @@ candies from mobs by 10% during the	конфет из мобов на 10% во �
 candies from mobs by 15% during the	конфет из мобов на 15% во время
 candies from mobs by 20% during the	конфет из мобов на 20% во время
 candies from mobs by 5% during the	конфет из мобов на 5% во время
-candy during the Spooky Festival.	конфеты во время жуткого фестиваля.
+candy during the Spooky Festival.	конфеты во время Жуткого фестиваля.
 canes! Requires an area that is	тростник! Нужно место,
 cannot cause a fatal blow.	не может нанести смертельный удар.
 cap by +{0}.	предел скорости на +{0}.
@@ -28134,12 +28134,12 @@ color to this item.	уровня SkyBlock в этот предмет.
 colors!	расцветок!
 combine rather than to try to reduce.	объединить, а не пытаться уменьшить.
 combined with Ancestral Spade,	лопатой предков,
-combined with Armor.	применить к броне.
+combined with Armor.	объединении с бронёй.
 combined with Aspect of the End and	совместить с аспектом Края и
 combined with Aspect of the Jerry	Аспектом Джерри
 combined with Canopy Sandals, Fig	совместить с сандалиями кроны, фиговой
 combined with Equipment.	применить к снаряжению.
-combined with Foraging Armor,	совместить с лесной бронёй,
+combined with Foraging Armor,	лесорубской брони,
 combined with Froggles, Silver	лягушачьими очками: обычными, серебряными,
 combined with Midas Staff,  Midas	применить к посоху Мидаса,  посоху
 combined with Safari Belt.	совместить с поясом сафари.
@@ -29091,7 +29091,7 @@ honey. Its smell attracts all sorts of	мёда. Его запах привле�
 hoodie variants.	вариантов в худи.
 hooks a Rare Fish Shard.	подцепляет редкий рыбный осколок.
 hoping that one day he could bring	надеясь однажды принести
-hottest part...also the hardest. Giant	самая горячая часть... и самая трудная. Гигантские
+hottest part...also the hardest. Giant	самая горячая и самая твёрдая часть. Гигантские
 hours!	часов!
 house.	дом.
 how much I care for them." - End	как они мне дороги». —
@@ -29187,7 +29187,7 @@ increases all incoming damage by	увеличивает весь получае�
 increases by 100% every	увеличивается на 100% каждую
 increases by 100% every second for 5	возрастает на 100% каждую секунду в течение 5
 increases by 3 every time its axe hits you.	возрастает на 3 при каждом попадании его топора.
-increases damage against Foraging	Увеличивает урон по существам
+increases damage against Foraging	увеличивает урон по мобам острова
 increases its Bane of Arthropods	повышает уровень «Бич членистоногих»
 increases its Charm level by 1!	повышает уровень «Очарование» на 1!
 increases its Efficiency level by 1!	повышает уровень «Эффективность» на 1!
@@ -29197,7 +29197,7 @@ increases its Piscary level by 1!	повышает уровень «Рыбный
 increases its Spiked Hook level by 1!	повышает уровень «Шипастый крючок» на 1!
 increases minion speed by 10%.	увеличивает скорость миньонов на 10%.
 increases the amount of time you	увеличивает время, которое вы
-increases the amount of  Sweep it	увеличивает количество  размаха, которое он
+increases the amount of  Sweep it	увеличивает количество  размаха,
 increases the chance of fishing	увеличивает шанс выловить
 increases the chance to improve the	повышает шанс улучшить
 increases the speed of	Увеличивает скорость работы
@@ -29428,7 +29428,7 @@ likely to be GREAT or OUTSTANDING.	оказываются ВЕЛИКОЛЕПНЫ
 likely to be GREAT.	оказаться ОТЛИЧНЫМИ.
 likely to be OUTSTANDING.	оказаться ВЫДАЮЩИМИСЯ.
 likely to catch  Critters.	ловят  зверьков.
-likely to show up.	посетителей на 20%.
+likely to show up.	появиться.
 limits.	пределы.
 little guys before the guilt becomes	малышей, прежде чем чувство вины станет
 location (15s cooldown)	к себе (перезарядка: 15 с).
@@ -29829,7 +29829,7 @@ on your island by 1 hour	на вашем острове на 1 час
 on your private island.	на вашем личном острове.
 on.	Вкл.
 once a colossal and bloodthirsty	некогда громадного и кровожадного
-once brimming with eager love.	когда-то переполненное пылкой любовью.
+once brimming with eager love.	когда-то было полно пылкой любви.
 once you realize it can fly.	когда поймёте, что он умеет летать.
 once.	большую площадь.
 one Pet Item, but you can swap it at	один предмет, который можно сменить в
@@ -29839,7 +29839,7 @@ one in control here?	кто здесь главный?
 one piece despite having been	целым, несмотря на то, что
 one skin can be active at a time!	один облик может быть активен одновременно!
 ones are even more sturdy, but it	они ещё прочнее, но это
-ones can even create stones like	могут даже создавать камни вроде
+ones can even create stones like	кубы могут даже создавать такие камни, как
 only Mythological Creature that can be damaged	единственное мифологическое существо, которому можно
 only place one campfire every 5	можно поставить только раз в 5
 only works while in The Catacombs!	работает только в Катакомбах!
@@ -30958,7 +30958,7 @@ used to fish.	использоваться для рыбалки.
 used to test out weapons and other	использовать для проверки оружия и других
 useful items!	полезные предметы!
 useless.	бесполезен.
-using a Transmission ability.	используя способность перемещения.
+using a Transmission ability.	использования способности перемещения.
 using a legendary Griffin Pet. It reduces	с легендарным питомцем-грифоном. Он уменьшает
 using a phosphate-based crystalline	с использованием фосфатного кристаллического
 using your RIGHT CLICK Item	применении способности предмета

@@ -1,0 +1,61 @@
+{
+  "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925",
+  "scope": "Five exact keys have both Removed and other published occurrences;not live certification. Four unique Removed-only keys remain excluded.",
+  "overlapping_keys": [
+    {
+      "source": "[NPC] Simon: It's time for celebration!",
+      "archival_occurrences": [
+        "p45423-r790660-o6986-l1-f14271"
+      ],
+      "other_published_occurrences": [
+        "p103229-r857998-o999-l1-f34",
+        "p106326-r857999-o999-l1-f40",
+        "p126063-r786577-o1480-l1-f46",
+        "p45423-r790660-o4026-l1-f14245"
+      ]
+    },
+    {
+      "source": "[NPC] Simon: Time sure flies when you're grinding SkyBlock, eh?",
+      "archival_occurrences": [
+        "p45423-r790660-o6986-l3-f14273"
+      ],
+      "other_published_occurrences": [
+        "p103229-r857998-o999-l3-f36"
+      ]
+    },
+    {
+      "source": "[NPC] Simon: I've already given you a Balloon Hat for this year! Happy Anniversary!",
+      "archival_occurrences": [
+        "p45423-r790660-o7608-l0-f14278"
+      ],
+      "other_published_occurrences": [
+        "p103229-r857998-o1456-l0-f39",
+        "p106326-r857999-o1463-l0-f45"
+      ]
+    },
+    {
+      "source": "[NPC] Simon: I've already given you a Crab Hat for this year! Happy Anniversary!",
+      "archival_occurrences": [
+        "p45423-r790660-o6420-l0-f14267"
+      ],
+      "other_published_occurrences": [
+        "p45322-r825991-o2439-l0-f3703"
+      ]
+    },
+    {
+      "source": "[NPC] Simon: We hope you enjoyed it!",
+      "archival_occurrences": [
+        "p45423-r790660-o7212-l2-f14275"
+      ],
+      "other_published_occurrences": [
+        "p45423-r790660-o5548-l1-f14261"
+      ]
+    }
+  ],
+  "excluded_removed_only": [
+    "[NPC] Drakuu: You might be someone worth taking to, but the time isn't right.",
+    "[NPC] Drakuu: I could talk to you, but the conditions don't seem right.",
+    "[NPC] Simon: I've already given you a Sloth Hat for this year! Happy Anniversary!",
+    "[NPC] Simon: The century celebration is over."
+  ]
+}

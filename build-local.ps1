@@ -12,9 +12,32 @@ $libraries = @($required | ForEach-Object {
     if (!(Test-Path -LiteralPath $file)) { throw "Missing dependency: $file" }
     $file
 })
-$libraries += @(Get-ChildItem -LiteralPath $libraryRoot -Filter *.jar -Recurse |
-    Where-Object { $_.FullName -notmatch '[\\/]net[\\/]fabricmc[\\/]|[\\/]com[\\/]mojang[\\/]minecraft[\\/]|natives' } |
-    ForEach-Object FullName)
+# Use the actual version manifests, not every installed historical library.
+# Old authlib versions have incompatible GameProfile methods.
+$taskMinecraftMeta = Get-Content -LiteralPath (Join-Path $PrismRoot 'meta/net.minecraft/26.1.2.json') -Raw | ConvertFrom-Json
+$libraries += @($taskMinecraftMeta.libraries | Where-Object {
+    $taskAllowed = !$_.rules
+    foreach ($taskRule in $_.rules) {
+        if (!$taskRule.os -or $taskRule.os.name -eq 'windows') { $taskAllowed = $taskRule.action -eq 'allow' }
+    }
+    $taskAllowed -and $_.name -notmatch 'natives'
+} | ForEach-Object {
+    $taskArtifact = $_.downloads.artifact
+    if ($taskArtifact.url) {
+        $taskPath = Join-Path $libraryRoot ([Uri]$taskArtifact.url).AbsolutePath.TrimStart('/')
+        if (!(Test-Path -LiteralPath $taskPath)) { throw "Missing Minecraft dependency: $taskPath" }
+        $taskPath
+    }
+})
+$taskFabricMeta = Get-Content -LiteralPath (Join-Path $PrismRoot 'meta/net.fabricmc.fabric-loader/0.19.5.json') -Raw | ConvertFrom-Json
+$libraries += @($taskFabricMeta.libraries | ForEach-Object {
+    $taskParts = $_.name.Split(':')
+    $taskRelative = $taskParts[0].Replace('.','/') + '/' + $taskParts[1] + '/' + $taskParts[2] + '/' + $taskParts[1] + '-' + $taskParts[2] + '.jar'
+    $taskPath = Join-Path $libraryRoot $taskRelative
+    if (!(Test-Path -LiteralPath $taskPath)) { throw "Missing Fabric dependency: $taskPath" }
+    $taskPath
+})
+$libraries = @($libraries | Select-Object -Unique)
 $version = (Get-Content -LiteralPath (Join-Path $PSScriptRoot 'src\main\resources\fabric.mod.json') -Raw | ConvertFrom-Json).version
 $className = "local-classes-$version-" + [Guid]::NewGuid().ToString('N')
 $classes = Join-Path $PSScriptRoot (Join-Path 'build' $className)
@@ -33,6 +56,6 @@ Copy-Item -Path (Join-Path $PSScriptRoot 'src\main\resources\*') -Destination $c
 $version = (Get-Content -LiteralPath (Join-Path $PSScriptRoot 'src\main\resources\fabric.mod.json') -Raw | ConvertFrom-Json).version
 $jarPath = Join-Path $libsDir "WitherSkyRU-26.1.2-fabric-$version.jar"
 # Compiler manifest is an intermediate build file, not a mod resource.
-& (Join-Path $jbin 'jar.exe') --create --file $jarPath -C $classes ru -C $classes data -C $classes META-INF -C $classes fabric.mod.json -C $classes witherskyru.mixins.json
+& (Join-Path $jbin 'jar.exe') --create --file $jarPath -C $classes ru -C $classes data -C $classes assets -C $classes META-INF -C $classes fabric.mod.json -C $classes witherskyru.mixins.json
 if ($LASTEXITCODE -ne 0) { throw 'Packaging failed' }
 Write-Output $jarPath

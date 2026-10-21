@@ -1,0 +1,1225 @@
+{
+  "build": "0.14.3-dev",
+  "physical_pair_rows_scanned": 54881,
+  "runtime_unique_trimmed_keys": 33937,
+  "previous_targets_changed": 1185,
+  "rarity_prefix_or_token_changes": 643,
+  "additional_runtime_support_keys": {
+    "Talk to Frosty": "Поговорите с Фрости",
+    "+1 Coins": "+1 монета",
+    "contain double loot.": "содержат двойную добычу.",
+    "Talk to Jeff": "Поговорите с Jeff",
+    "Talk to Jeff in your Barn": "Поговорите с Jeff в своём амбаре",
+    "Talk to": "Поговорите с",
+    "in your Barn": "в своём амбаре",
+    "Visitor Shopping List:": "Покупки для посетителей:",
+    "Visitors' Logbook": "Журнал посетителей",
+    "Visitor's Logbook": "Журнал посетителей",
+    "Waiting for a visitor...": "Ожидание посетителя...",
+    "Cultivating Needed": "Нужно зачарование «Культивация»",
+    "Crops/min": "Урожай/мин",
+    "Coins/min": "Монеты/мин",
+    "Blocks/s": "Блоки/с",
+    "Farming Level": "Уровень фермерства",
+    "Farming XP/h": "Опыт фермерства/ч",
+    "Yaw": "Поворот",
+    "Pitch": "Наклон",
+    "Next": "Далее",
+    "Sawdust": "Опилки",
+    "Sowdust": "Посевная пыль",
+    "Specialized Farming Tool": "Специализированный фермерский инструмент",
+    "Specialized Farming Tools": "Специализированные фермерские инструменты"
+  },
+  "full_item_descriptions_machine_scanned": 8940,
+  "adjacent_repeat_exceptions_reviewed": [
+    {
+      "source": [
+        "dolphin, sometimes a chicken. Cluck",
+        "cluck!"
+      ],
+      "target": [
+        "дельфин, иногда курица. Ко-ко",
+        "ко-ко!"
+      ]
+    },
+    {
+      "source": [
+        "Freedom",
+        "Freedom from fear."
+      ],
+      "target": [
+        "Свобода",
+        "Свобода от страха."
+      ]
+    },
+    {
+      "source": [
+        "Slimy Minions",
+        "Slime and Magma Cube minions work"
+      ],
+      "target": [
+        "Слизистые миньоны",
+        "Миньоны слизня и лавового куба работают"
+      ]
+    }
+  ],
+  "full_item_numeric_candidates_not_automatically_errors": [
+    {
+      "item": "ARMADILLO;2",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ARMADILLO;3",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ARMADILLO;4",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ARMADILLO;5",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "BAT_PERSON_BOOTS",
+      "missing": {
+        "2": 1,
+        "3": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "BAT_PERSON_CHESTPLATE",
+      "missing": {
+        "2": 1,
+        "3": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "BAT_PERSON_HELMET",
+      "missing": {
+        "2": 1,
+        "3": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "BAT_PERSON_LEGGINGS",
+      "missing": {
+        "2": 1,
+        "3": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "BLAZETEKK_HAM_RADIO",
+      "missing": {
+        "4": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "CHALLENGER_BELT",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "CHALLENGER_BOOTS",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "CHALLENGER_BRACELET",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "CHALLENGER_CHESTPLATE",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "CHALLENGER_CLOAK",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "CHALLENGER_HELMET",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "CHALLENGER_LEGGINGS",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "CHALLENGER_NECKLACE",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "DIAMOND_BONZO_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "DIAMOND_LIVID_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "DIAMOND_PROFESSOR_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "DIAMOND_SADAN_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "DIAMOND_SCARF_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "DIAMOND_THORN_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "DROPLET_WISP;1",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "FROST_WISP;2",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "GOLD_BONZO_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "GOLD_LIVID_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "GOLD_PROFESSOR_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "GOLD_SADAN_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "GOLD_SCARF_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "GOLD_THORN_HEAD",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MAGIC_8_BALL",
+      "missing": {
+        "8": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MARINA_MAYOR_MONSTER",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MYTHOS_BELT",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MYTHOS_BOOTS",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MYTHOS_BRACELET",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MYTHOS_CHESTPLATE",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MYTHOS_CLOAK",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MYTHOS_HELMET",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MYTHOS_LEGGINGS",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "MYTHOS_NECKLACE",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "NECRON_BOSS",
+      "missing": {
+        "7": 1,
+        "4": 1,
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "SECRET_BINGO_MEMENTO",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "SUBZERO_WISP;4",
+      "missing": {
+        "2": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_BANK;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_BANK;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_BANK;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_BANK;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_BANK;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_BOBBIN_TIME;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_BOBBIN_TIME;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_BOBBIN_TIME;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CHIMERA;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CHIMERA;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CHIMERA;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CHIMERA;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CHIMERA;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_COMBO;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_COMBO;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_COMBO;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_COMBO;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_COMBO;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CROP_FEVER;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CROP_FEVER;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CROP_FEVER;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CROP_FEVER;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_CROP_FEVER;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FATAL_TEMPO;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FATAL_TEMPO;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FATAL_TEMPO;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FATAL_TEMPO;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FATAL_TEMPO;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FIRST_IMPRESSION;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FIRST_IMPRESSION;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FIRST_IMPRESSION;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FIRST_IMPRESSION;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FIRST_IMPRESSION;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FLASH;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FLASH;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FLASH;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FLASH;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FLASH;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FLOWSTATE;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FLOWSTATE;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_FLOWSTATE;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_HABANERO_TACTICS;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_HABANERO_TACTICS;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_INFERNO;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_INFERNO;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_INFERNO;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_INFERNO;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_INFERNO;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_JERRY;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_JERRY;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_JERRY;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_JERRY;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_JERRY;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LAST_STAND;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LAST_STAND;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LAST_STAND;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LAST_STAND;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LAST_STAND;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LEGION;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LEGION;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LEGION;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LEGION;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_LEGION;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_MISSILE;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_MISSILE;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_MISSILE;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_MISSILE;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_MISSILE;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_NO_PAIN_NO_GAIN;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_NO_PAIN_NO_GAIN;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_NO_PAIN_NO_GAIN;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_NO_PAIN_NO_GAIN;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_NO_PAIN_NO_GAIN;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_ONE_FOR_ALL;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REFRIGERATE;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REFRIGERATE;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REFRIGERATE;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REFRIGERATE;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REFRIGERATE;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REITERATE;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REITERATE;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REITERATE;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REITERATE;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REITERATE;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REND;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REND;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REND;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REND;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_REND;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SOUL_EATER;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SOUL_EATER;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SOUL_EATER;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SOUL_EATER;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SOUL_EATER;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SUNSET;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SUNSET;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SUNSET;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SUNSET;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SUNSET;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SWARM;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SWARM;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SWARM;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SWARM;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_SWARM;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_THE_ONE;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_THE_ONE;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISDOM;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISDOM;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISDOM;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISDOM;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISDOM;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISE;1",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISE;2",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISE;3",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISE;4",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    },
+    {
+      "item": "ULTIMATE_WISE;5",
+      "missing": {
+        "1": 1
+      },
+      "added": {}
+    }
+  ],
+  "changed_numeric_candidates_reviewed": [
+    {
+      "source": "RIGHT CLICK Item Ability. Has a 5s",
+      "old": "способности предмета по ПКМ. Перезарядка:",
+      "new": "способности предмета по ПКМ. 5 с"
+    },
+    {
+      "source": "Grants 2x stats on The Catacombs",
+      "old": "Даёт 2x stats on The Catacombs",
+      "new": "Удваивает характеристики в Катакомбах на"
+    }
+  ],
+  "changed_numeric_review_resolutions": [
+    "Restored the missing sapphire scroll 5-second cooldown",
+    "2x expressed as Удваивает; multiplier meaning preserved"
+  ],
+  "changed_icon_multisets": [],
+  "new_double_periods": 0,
+  "placeholder_mismatches": 0,
+  "jar_sha256": "315311740CCE32A1A105AA8570A7F21C0DC05D2C39990AFD809D4438E3D12175",
+  "jar_bytes": 1147968,
+  "jar_resource_byte_matches": 28,
+  "jar_classes": 21,
+  "mixin_classes": 5,
+  "installed_0_14_2_jar_hash_unchanged": true,
+  "full_manual_proofread_of_all_items": false,
+  "in_game_visual_verification": false,
+  "full_server_coverage": false,
+  "limits": "Machine scan is not full manual proofread. 3D name tags/holograms and unknown NPC dialogues are not covered by the GUI hooks."
+}

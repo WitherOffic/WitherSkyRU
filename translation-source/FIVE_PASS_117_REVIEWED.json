@@ -1,0 +1,32 @@
+{
+  "scope": "Manually authored Russian targets for source-backed review. Not automatically imported into the mod;variable shapes,styles and runtime reachability still require dedicated acceptance tests. Alpha/archival status is attached from full source,not guessed from wording.",
+  "records": [
+    {"source":"[BOSS] Bonzo: Sike","translation":"[BOSS] Bonzo: Попался!","kind":"literal"},
+    {"source":"[NPC] Calvin: Hey, you're a familiar face!","translation":"[NPC] Calvin: О, знакомое лицо!","kind":"literal"},
+    {"source":"[NPC] Calvin: I don't have any Returning Player Rewards for you right now. Thanks for playing SkyBlock!","translation":"[NPC] Calvin: Сейчас у меня нет для тебя наград за возвращение. Спасибо, что играешь в SkyBlock!","kind":"literal"},
+    {"source":"[NPC] Ghost of Game Agent: I need something to pass the time while I wait to be reincarnated.","translation":"[NPC] Ghost of Game Agent: Нужно чем-то заняться, пока я жду перерождения.","kind":"literal"},
+    {"source":"[NPC] Ghost of Game Agent: Well hopefully I can't bore myself to death given the fact I'm already dead!","translation":"[NPC] Ghost of Game Agent: Что ж, надеюсь, от скуки я не умру — я ведь уже мёртв!","kind":"literal"},
+    {"source":"[NPC] Ghost of Warren: Curse your investments!","translation":"[NPC] Ghost of Warren: Будь прокляты твои вложения!","kind":"literal"},
+    {"source":"[NPC] Ghost of Warren: Even in death I am obsessed with the prospect of something that just keeps growing, and growing, and growing.","translation":"[NPC] Ghost of Warren: Даже после смерти меня не отпускает мысль о том, что может расти, расти и расти без конца.","kind":"literal"},
+    {"source":"[NPC] Ghost of Warren: These look promising, thanks!","translation":"[NPC] Ghost of Warren: Выглядит многообещающе, спасибо!","kind":"literal"},
+    {"source":"[NPC] Pesthunter Pamela: Hi! I want to reforge my Peony Bracelet to Blooming. Would you happen to have a Flowering Bouquet?","translation":"[NPC] Pesthunter Pamela: Привет! Хочу наложить на свой браслет пиона перековку «Цветущий». У тебя случайно нет цветущего букета?","kind":"literal","style_anchors":[{"source":"Peony Bracelet","target":"браслет пиона"},{"source":"Blooming","target":"«Цветущий»"},{"source":"Flowering Bouquet","target":"цветущего букета"}]},
+    {"source":"[NPC] Sam: I hope you aren't denying too many Visitors...","translation":"[NPC] Sam: Надеюсь, ты не слишком часто отказываешь посетителям...","kind":"literal"},
+    {"source":"[NPC] Tyashoi Alchemist: Amateurism at its finest!","translation":"[NPC] Tyashoi Alchemist: Верх дилетантства!","kind":"literal"},
+    {"source":"[NPC] Tyashoi Alchemist: I see...","translation":"[NPC] Tyashoi Alchemist: Понятно...","kind":"literal"},
+    {"source":"[NPC] Tyashoi Alchemist: Oh my!","translation":"[NPC] Tyashoi Alchemist: Вот это да!","kind":"literal"},
+    {"source":"[NPC] Tyashoi Alchemist: Still... progress.","translation":"[NPC] Tyashoi Alchemist: И всё же... прогресс.","kind":"literal"},
+    {"source":"[NPC] Tyashoi Alchemist: We are only a few more terrible ideas away from success.","translation":"[NPC] Tyashoi Alchemist: Ещё несколько ужасных идей — и нас ждёт успех.","kind":"literal"},
+    {"source":"[NPC] Tyashoi Alchemist: Well well well.","translation":"[NPC] Tyashoi Alchemist: Так-так-так.","kind":"literal"},
+    {"source":"[NPC] Ryan: A Campfire Initiate Badge I, for our latest initiate, <username>!","translation":"[NPC] Ryan: Значок посвящённого костра I — нашему новому посвящённому, <username>!","kind":"variable_template_review","runtime_constraint":"Preserve actual username and observed player-head component without expanding the global username guard."},
+    {"source":"[NPC] Ryan: Congrats! Your <old badge item name> was upgraded to a <new badge item name>!","translation":"[NPC] Ryan: Поздравляю! Значок улучшен: <old badge item name> → <new badge item name>!","kind":"variable_template_review","runtime_constraint":"Closed known badge names/tiers only;do not accept arbitrary item or player text."},
+    {"source":"[NPC] Ryan: I need you to hold your <badge item name> so I can upgrade it!","translation":"[NPC] Ryan: Возьми в руку «<badge item name>», чтобы я мог улучшить значок!","kind":"variable_template_review","runtime_constraint":"Copy current component and styles of the closed known badge name."},
+    {"source":"[NPC] Ryan: Next step is the Trial of Fire <tier>! (<amount> damage)","translation":"[NPC] Ryan: Следующее испытание огня — <tier>! (<amount> урона)","kind":"variable_template_review","runtime_constraint":"Validate Roman tier and bounded numeric damage separately;preserve both current components."},
+    {"source":"[NPC] Ryan: Try the Trial of Fire Trial <tier> for a greater challenge!","translation":"[NPC] Ryan: Попробуй испытание огня <tier>, если хочешь задачу посложнее!","kind":"variable_template_review","runtime_constraint":"Closed valid published Trial of Fire tiers only."},
+    {"source":"[NPC] Ryan: Y'know, someone as stealthy as you could be a useful member of the Campfire Cult.","translation":"[NPC] Ryan: Знаешь, такой скрытный, как ты, мог бы пригодиться Культу костра.","kind":"literal"},
+    {"source":"Collect Spruce Logs","translation":"Соберите еловые брёвна","kind":"objective","runtime_constraint":"Preserve live counter and its styles;do not enumerate every progress value or cache them without bounds."},
+    {"source":"Collect Dark Oak Logs","translation":"Соберите брёвна тёмного дуба","kind":"objective","runtime_constraint":"Preserve live counter and its styles;do not enumerate every progress value or cache them without bounds."},
+    {"source":"Find the Campfire","translation":"Найдите костёр","kind":"objective","runtime_constraint":"Preserve goal arrow separately."},
+    {"source":"Travel to the Savanna Woodland","translation":"Отправляйтесь в саванну","kind":"objective"},
+    {"source":"You claimed a Campfire Initiate Badge I!","translation":"Вы получили значок посвящённого костра I!","kind":"system_notification","style_anchors":[{"source":"Campfire Initiate Badge I","target":"значок посвящённого костра I"}]}
+  ]
+}

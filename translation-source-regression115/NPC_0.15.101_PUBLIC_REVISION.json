@@ -1,0 +1,1178 @@
+{
+  "checked_at": "2026-10-19T17:39:20.436742+07:00",
+  "api_urls": [
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Agnes%7CAlbert%7CAlixer%7CAnt+%28NPC%29%7CArgofay+Sonfather%7CArgofay+Treemerger%7CAviar%7CBanker+Broadjaw%7CBrigette%7CBromm%7CCampfire+Adept%7CChunk%7CCombat+Merchant%7CCurator%7CDalbrek%7CDante+Goon%7CDefunct+Wizardman%7CDr.+Edwin%7CDuncan%7CElmar%7CEludore%7CEmissaries%7CFafnir%7CFarmer+Jon%7CFeast+Baker+Scott%7CFragilis%7CGavin%7CGnyl%7CGold+Forger%7CGrelius&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Grumblefoot%7CGuard%7CGuildford%7CGulliver%7CGuy%7CHound%7CHunter+Billy%7CHunter+Harry%7CHunter+Jasper%7CHunter+Lennard%7CHunter+Luigi%7CHunter+Reeves%7CHuntress+Melissa%7CIan%7CIncredible+Raffle+Box%7CIsland+NPC%7CJade+Dragon%7CJimmy%7CJoey+McPizza%7CJonesy%7CKaris%7CKrevius%7CLumina%7CMaddox+the+Slayer%7CMason%7CMaster+Tactician+Funk%7CMushroom+Guy%7CObo%7COld+Man+Garry%7CProfessor+Wynd&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Puzzler%7CRescue+Recruiter%7CResearcher+Beryl%7CResearcher+Ribery%7CResident+Snooty%7CRoy%7CRoyal+Guards%7CSawyer%7CScout+Plinius%7CShen+Citrinitas%7CSkylark%7CSoul+Campfire+Adept%7CSoul+Campfire+Initiate%7CSpike+%28NPC%29%7CSunny%7CTammy%7CTilus%7CTornora%7CTorrhus+Canyon+%28NPC%29%7CTreehugger+Timothy%7CVaeri%7CYoshua%7CZarina&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2"
+  ],
+  "matches_pinned_corpus": false,
+  "expected": {
+    "Agnes": 826255,
+    "Albert": 786644,
+    "Alixer": 851966,
+    "Ant (NPC)": 828432,
+    "Argofay Sonfather": 786755,
+    "Argofay Treemerger": 786760,
+    "Aviar": 786830,
+    "Banker Broadjaw": 812615,
+    "Brigette": 843624,
+    "Bromm": 787612,
+    "Campfire Adept": 812805,
+    "Chunk": 812900,
+    "Combat Merchant": 812933,
+    "Curator": 856578,
+    "Dalbrek": 788017,
+    "Dante Goon": 859382,
+    "Defunct Wizardman": 813056,
+    "Dr. Edwin": 813108,
+    "Duncan": 830423,
+    "Elmar": 788250,
+    "Eludore": 788251,
+    "Emissaries": 823096,
+    "Fafnir": 813315,
+    "Farmer Jon": 813332,
+    "Feast Baker Scott": 857537,
+    "Fragilis": 847514,
+    "Gavin": 813500,
+    "Gnyl": 788863,
+    "Gold Forger": 816852,
+    "Grelius": 813635,
+    "Grumblefoot": 813646,
+    "Guard": 788981,
+    "Guildford": 823088,
+    "Gulliver": 823087,
+    "Guy": 815926,
+    "Hound": 813736,
+    "Hunter Billy": 851036,
+    "Hunter Harry": 828550,
+    "Hunter Jasper": 828551,
+    "Hunter Lennard": 828553,
+    "Hunter Luigi": 828554,
+    "Hunter Reeves": 828556,
+    "Huntress Melissa": 828560,
+    "Ian": 789168,
+    "Incredible Raffle Box": 789194,
+    "Island NPC": 833417,
+    "Jade Dragon": 817000,
+    "Jimmy": 843502,
+    "Joey McPizza": 789271,
+    "Jonesy": 789275,
+    "Karis": 789315,
+    "Krevius": 813887,
+    "Lumina": 789497,
+    "Maddox the Slayer": 830457,
+    "Mason": 789610,
+    "Master Tactician Funk": 814046,
+    "Mushroom Guy": 814193,
+    "Obo": 814258,
+    "Old Man Garry": 789925,
+    "Professor Wynd": 852931,
+    "Puzzler": 790202,
+    "Rescue Recruiter": 790321,
+    "Researcher Beryl": 839615,
+    "Researcher Ribery": 852310,
+    "Resident Snooty": 796402,
+    "Roy": 816293,
+    "Royal Guards": 790415,
+    "Sawyer": 814627,
+    "Scout Plinius": 790524,
+    "Shen Citrinitas": 826413,
+    "Skylark": 807974,
+    "Soul Campfire Adept": 814807,
+    "Soul Campfire Initiate": 814808,
+    "Spike (NPC)": 828104,
+    "Sunny": 856509,
+    "Tammy": 791025,
+    "Tilus": 791148,
+    "Tornora": 791192,
+    "Torrhus Canyon (NPC)": 828664,
+    "Treehugger Timothy": 828674,
+    "Vaeri": 791305,
+    "Yoshua": 807973,
+    "Zarina": 816574
+  },
+  "actual": {
+    "Combat Merchant": 812933,
+    "Gold Forger": 816852,
+    "Duncan": 830423,
+    "Emissaries": 823096,
+    "Dalbrek": 788017,
+    "Banker Broadjaw": 812615,
+    "Farmer Jon": 813332,
+    "Fragilis": 847514,
+    "Chunk": 812900,
+    "Curator": 856578,
+    "Alixer": 851966,
+    "Elmar": 788250,
+    "Eludore": 788251,
+    "Bromm": 787612,
+    "Aviar": 786830,
+    "Gnyl": 788863,
+    "Grelius": 813635,
+    "Campfire Adept": 812805,
+    "Dr. Edwin": 813108,
+    "Argofay Sonfather": 786755,
+    "Fafnir": 813315,
+    "Argofay Treemerger": 786760,
+    "Gavin": 813500,
+    "Albert": 786644,
+    "Dante Goon": 859382,
+    "Agnes": 826255,
+    "Feast Baker Scott": 857537,
+    "Defunct Wizardman": 813056,
+    "Brigette": 843624,
+    "Ant (NPC)": 828432,
+    "Maddox the Slayer": 830457,
+    "Master Tactician Funk": 814046,
+    "Guy": 815926,
+    "Gulliver": 823087,
+    "Guildford": 823088,
+    "Island NPC": 833417,
+    "Old Man Garry": 789925,
+    "Mason": 789610,
+    "Lumina": 789497,
+    "Krevius": 813887,
+    "Hound": 813736,
+    "Mushroom Guy": 814193,
+    "Joey McPizza": 789271,
+    "Incredible Raffle Box": 789194,
+    "Grumblefoot": 813646,
+    "Jade Dragon": 817000,
+    "Karis": 789315,
+    "Obo": 814258,
+    "Ian": 789168,
+    "Guard": 788981,
+    "Jonesy": 789275,
+    "Jimmy": 843502,
+    "Huntress Melissa": 828560,
+    "Hunter Harry": 828550,
+    "Hunter Reeves": 828556,
+    "Hunter Billy": 851036,
+    "Hunter Lennard": 828553,
+    "Hunter Luigi": 828554,
+    "Hunter Jasper": 828551,
+    "Professor Wynd": 860232,
+    "Puzzler": 790202,
+    "Tornora": 791192,
+    "Royal Guards": 790415,
+    "Resident Snooty": 796402,
+    "Tammy": 791025,
+    "Rescue Recruiter": 790321,
+    "Yoshua": 807973,
+    "Skylark": 807974,
+    "Roy": 816293,
+    "Scout Plinius": 790524,
+    "Zarina": 816574,
+    "Vaeri": 791305,
+    "Tilus": 791148,
+    "Sawyer": 814627,
+    "Shen Citrinitas": 826413,
+    "Spike (NPC)": 828104,
+    "Soul Campfire Initiate": 814808,
+    "Soul Campfire Adept": 814807,
+    "Researcher Beryl": 839615,
+    "Researcher Ribery": 852310,
+    "Treehugger Timothy": 828674,
+    "Torrhus Canyon (NPC)": 828664,
+    "Sunny": 856509
+  },
+  "pages": [
+    {
+      "pageid": 906,
+      "ns": 0,
+      "title": "Combat Merchant",
+      "revisions": [
+        {
+          "revid": 812933,
+          "parentid": 806258,
+          "timestamp": "2026-08-11T19:04:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 8318,
+      "ns": 0,
+      "title": "Gold Forger",
+      "revisions": [
+        {
+          "revid": 816852,
+          "parentid": 815887,
+          "timestamp": "2026-08-11T21:44:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 39523,
+      "ns": 0,
+      "title": "Duncan",
+      "revisions": [
+        {
+          "revid": 830423,
+          "parentid": 818393,
+          "timestamp": "2026-09-03T01:24:56Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76641,
+      "ns": 0,
+      "title": "Emissaries",
+      "revisions": [
+        {
+          "revid": 823096,
+          "parentid": 788264,
+          "timestamp": "2026-08-24T05:35:08Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76851,
+      "ns": 0,
+      "title": "Dalbrek",
+      "revisions": [
+        {
+          "revid": 788017,
+          "parentid": 752663,
+          "timestamp": "2026-07-23T23:36:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 77887,
+      "ns": 0,
+      "title": "Banker Broadjaw",
+      "revisions": [
+        {
+          "revid": 812615,
+          "parentid": 786864,
+          "timestamp": "2026-08-11T18:55:28Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79423,
+      "ns": 0,
+      "title": "Farmer Jon",
+      "revisions": [
+        {
+          "revid": 813332,
+          "parentid": 788531,
+          "timestamp": "2026-08-11T19:14:36Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82184,
+      "ns": 0,
+      "title": "Fragilis",
+      "revisions": [
+        {
+          "revid": 847514,
+          "parentid": 828397,
+          "timestamp": "2026-09-28T13:56:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82631,
+      "ns": 0,
+      "title": "Chunk",
+      "revisions": [
+        {
+          "revid": 812900,
+          "parentid": 787846,
+          "timestamp": "2026-08-11T19:04:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 85748,
+      "ns": 0,
+      "title": "Curator",
+      "revisions": [
+        {
+          "revid": 856578,
+          "parentid": 856564,
+          "timestamp": "2026-10-11T23:07:39Z"
+        }
+      ]
+    },
+    {
+      "pageid": 88617,
+      "ns": 0,
+      "title": "Alixer",
+      "revisions": [
+        {
+          "revid": 851966,
+          "parentid": 786653,
+          "timestamp": "2026-10-05T21:56:08Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91468,
+      "ns": 0,
+      "title": "Elmar",
+      "revisions": [
+        {
+          "revid": 788250,
+          "parentid": 752866,
+          "timestamp": "2026-07-23T23:44:07Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91562,
+      "ns": 0,
+      "title": "Eludore",
+      "revisions": [
+        {
+          "revid": 788251,
+          "parentid": 752867,
+          "timestamp": "2026-07-23T23:44:09Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91647,
+      "ns": 0,
+      "title": "Bromm",
+      "revisions": [
+        {
+          "revid": 787612,
+          "parentid": 752327,
+          "timestamp": "2026-07-23T22:32:50Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91648,
+      "ns": 0,
+      "title": "Aviar",
+      "revisions": [
+        {
+          "revid": 786830,
+          "parentid": 752105,
+          "timestamp": "2026-07-23T15:55:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91649,
+      "ns": 0,
+      "title": "Gnyl",
+      "revisions": [
+        {
+          "revid": 788863,
+          "parentid": 753414,
+          "timestamp": "2026-07-24T00:05:40Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91671,
+      "ns": 0,
+      "title": "Grelius",
+      "revisions": [
+        {
+          "revid": 813635,
+          "parentid": 788968,
+          "timestamp": "2026-08-11T19:22:51Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96676,
+      "ns": 0,
+      "title": "Campfire Adept",
+      "revisions": [
+        {
+          "revid": 812805,
+          "parentid": 787724,
+          "timestamp": "2026-08-11T19:01:51Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98572,
+      "ns": 0,
+      "title": "Dr. Edwin",
+      "revisions": [
+        {
+          "revid": 813108,
+          "parentid": 788143,
+          "timestamp": "2026-08-11T19:09:02Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98605,
+      "ns": 0,
+      "title": "Argofay Sonfather",
+      "revisions": [
+        {
+          "revid": 786755,
+          "parentid": 715481,
+          "timestamp": "2026-07-23T15:52:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98629,
+      "ns": 0,
+      "title": "Fafnir",
+      "revisions": [
+        {
+          "revid": 813315,
+          "parentid": 788509,
+          "timestamp": "2026-08-11T19:14:15Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99070,
+      "ns": 0,
+      "title": "Argofay Treemerger",
+      "revisions": [
+        {
+          "revid": 786760,
+          "parentid": 715486,
+          "timestamp": "2026-07-23T15:52:58Z"
+        }
+      ]
+    },
+    {
+      "pageid": 106075,
+      "ns": 0,
+      "title": "Gavin",
+      "revisions": [
+        {
+          "revid": 813500,
+          "parentid": 788768,
+          "timestamp": "2026-08-11T19:19:06Z"
+        }
+      ]
+    },
+    {
+      "pageid": 106839,
+      "ns": 0,
+      "title": "Albert",
+      "revisions": [
+        {
+          "revid": 786644,
+          "parentid": 751956,
+          "timestamp": "2026-07-23T15:40:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 109999,
+      "ns": 0,
+      "title": "Dante Goon",
+      "revisions": [
+        {
+          "revid": 859382,
+          "parentid": 859332,
+          "timestamp": "2026-10-15T22:29:23Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110553,
+      "ns": 0,
+      "title": "Agnes",
+      "revisions": [
+        {
+          "revid": 826255,
+          "parentid": 751951,
+          "timestamp": "2026-08-28T12:35:21Z"
+        }
+      ]
+    },
+    {
+      "pageid": 111171,
+      "ns": 0,
+      "title": "Feast Baker Scott",
+      "revisions": [
+        {
+          "revid": 857537,
+          "parentid": 857534,
+          "timestamp": "2026-10-13T16:39:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 111487,
+      "ns": 0,
+      "title": "Defunct Wizardman",
+      "revisions": [
+        {
+          "revid": 813056,
+          "parentid": 788073,
+          "timestamp": "2026-08-11T19:07:44Z"
+        }
+      ]
+    },
+    {
+      "pageid": 126017,
+      "ns": 0,
+      "title": "Brigette",
+      "revisions": [
+        {
+          "revid": 843624,
+          "parentid": 823083,
+          "timestamp": "2026-09-18T14:10:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133536,
+      "ns": 0,
+      "title": "Ant (NPC)",
+      "revisions": [
+        {
+          "revid": 828432,
+          "parentid": 807027,
+          "timestamp": "2026-09-01T09:05:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 6336,
+      "ns": 0,
+      "title": "Maddox the Slayer",
+      "revisions": [
+        {
+          "revid": 830457,
+          "parentid": 814003,
+          "timestamp": "2026-09-03T01:28:39Z"
+        }
+      ]
+    },
+    {
+      "pageid": 10522,
+      "ns": 0,
+      "title": "Master Tactician Funk",
+      "revisions": [
+        {
+          "revid": 814046,
+          "parentid": 789614,
+          "timestamp": "2026-08-11T19:32:15Z"
+        }
+      ]
+    },
+    {
+      "pageid": 11855,
+      "ns": 0,
+      "title": "Guy",
+      "revisions": [
+        {
+          "revid": 815926,
+          "parentid": 813657,
+          "timestamp": "2026-08-11T20:26:09Z"
+        }
+      ]
+    },
+    {
+      "pageid": 13685,
+      "ns": 0,
+      "title": "Gulliver",
+      "revisions": [
+        {
+          "revid": 823087,
+          "parentid": 813652,
+          "timestamp": "2026-08-24T05:31:59Z"
+        }
+      ]
+    },
+    {
+      "pageid": 51592,
+      "ns": 0,
+      "title": "Guildford",
+      "revisions": [
+        {
+          "revid": 823088,
+          "parentid": 788990,
+          "timestamp": "2026-08-24T05:32:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76316,
+      "ns": 0,
+      "title": "Island NPC",
+      "revisions": [
+        {
+          "revid": 833417,
+          "parentid": 813806,
+          "timestamp": "2026-09-06T21:51:25Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76909,
+      "ns": 0,
+      "title": "Old Man Garry",
+      "revisions": [
+        {
+          "revid": 789925,
+          "parentid": 786323,
+          "timestamp": "2026-07-24T00:40:56Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79418,
+      "ns": 0,
+      "title": "Mason",
+      "revisions": [
+        {
+          "revid": 789610,
+          "parentid": 786268,
+          "timestamp": "2026-07-24T00:30:19Z"
+        }
+      ]
+    },
+    {
+      "pageid": 81716,
+      "ns": 0,
+      "title": "Lumina",
+      "revisions": [
+        {
+          "revid": 789497,
+          "parentid": 717904,
+          "timestamp": "2026-07-24T00:26:57Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91672,
+      "ns": 0,
+      "title": "Krevius",
+      "revisions": [
+        {
+          "revid": 813887,
+          "parentid": 789357,
+          "timestamp": "2026-08-11T19:28:47Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98568,
+      "ns": 0,
+      "title": "Hound",
+      "revisions": [
+        {
+          "revid": 813736,
+          "parentid": 789120,
+          "timestamp": "2026-08-11T19:25:14Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98959,
+      "ns": 0,
+      "title": "Mushroom Guy",
+      "revisions": [
+        {
+          "revid": 814193,
+          "parentid": 789806,
+          "timestamp": "2026-08-11T19:35:48Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99144,
+      "ns": 0,
+      "title": "Joey McPizza",
+      "revisions": [
+        {
+          "revid": 789271,
+          "parentid": 753729,
+          "timestamp": "2026-07-24T00:19:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100892,
+      "ns": 0,
+      "title": "Incredible Raffle Box",
+      "revisions": [
+        {
+          "revid": 789194,
+          "parentid": 783604,
+          "timestamp": "2026-07-24T00:17:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105261,
+      "ns": 0,
+      "title": "Grumblefoot",
+      "revisions": [
+        {
+          "revid": 813646,
+          "parentid": 811073,
+          "timestamp": "2026-08-11T19:23:07Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107205,
+      "ns": 0,
+      "title": "Jade Dragon",
+      "revisions": [
+        {
+          "revid": 817000,
+          "parentid": 815992,
+          "timestamp": "2026-08-11T22:32:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108016,
+      "ns": 0,
+      "title": "Karis",
+      "revisions": [
+        {
+          "revid": 789315,
+          "parentid": 717687,
+          "timestamp": "2026-07-24T00:21:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108687,
+      "ns": 0,
+      "title": "Obo",
+      "revisions": [
+        {
+          "revid": 814258,
+          "parentid": 789902,
+          "timestamp": "2026-08-11T19:37:31Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108783,
+      "ns": 0,
+      "title": "Ian",
+      "revisions": [
+        {
+          "revid": 789168,
+          "parentid": 717532,
+          "timestamp": "2026-07-24T00:16:16Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110744,
+      "ns": 0,
+      "title": "Guard",
+      "revisions": [
+        {
+          "revid": 788981,
+          "parentid": 733668,
+          "timestamp": "2026-07-24T00:09:50Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116378,
+      "ns": 0,
+      "title": "Jonesy",
+      "revisions": [
+        {
+          "revid": 789275,
+          "parentid": 753732,
+          "timestamp": "2026-07-24T00:20:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 126037,
+      "ns": 0,
+      "title": "Jimmy",
+      "revisions": [
+        {
+          "revid": 843502,
+          "parentid": 843165,
+          "timestamp": "2026-09-18T01:36:57Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133466,
+      "ns": 0,
+      "title": "Huntress Melissa",
+      "revisions": [
+        {
+          "revid": 828560,
+          "parentid": 817452,
+          "timestamp": "2026-09-01T09:07:41Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133469,
+      "ns": 0,
+      "title": "Hunter Harry",
+      "revisions": [
+        {
+          "revid": 828550,
+          "parentid": 817450,
+          "timestamp": "2026-09-01T09:07:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133472,
+      "ns": 0,
+      "title": "Hunter Reeves",
+      "revisions": [
+        {
+          "revid": 828556,
+          "parentid": 821451,
+          "timestamp": "2026-09-01T09:07:39Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133480,
+      "ns": 0,
+      "title": "Hunter Billy",
+      "revisions": [
+        {
+          "revid": 851036,
+          "parentid": 828548,
+          "timestamp": "2026-10-04T13:48:33Z"
+        }
+      ]
+    },
+    {
+      "pageid": 137214,
+      "ns": 0,
+      "title": "Hunter Lennard",
+      "revisions": [
+        {
+          "revid": 828553,
+          "parentid": 807227,
+          "timestamp": "2026-09-01T09:07:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 138221,
+      "ns": 0,
+      "title": "Hunter Luigi",
+      "revisions": [
+        {
+          "revid": 828554,
+          "parentid": 821452,
+          "timestamp": "2026-09-01T09:07:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 138224,
+      "ns": 0,
+      "title": "Hunter Jasper",
+      "revisions": [
+        {
+          "revid": 828551,
+          "parentid": 821453,
+          "timestamp": "2026-09-01T09:07:36Z"
+        }
+      ]
+    },
+    {
+      "pageid": 138480,
+      "ns": 0,
+      "title": "Professor Wynd",
+      "revisions": [
+        {
+          "revid": 860232,
+          "parentid": 852931,
+          "timestamp": "2026-10-18T10:18:40Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76713,
+      "ns": 0,
+      "title": "Puzzler",
+      "revisions": [
+        {
+          "revid": 790202,
+          "parentid": 786373,
+          "timestamp": "2026-07-24T00:51:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 77888,
+      "ns": 0,
+      "title": "Tornora",
+      "revisions": [
+        {
+          "revid": 791192,
+          "parentid": 755366,
+          "timestamp": "2026-07-24T01:25:03Z"
+        }
+      ]
+    },
+    {
+      "pageid": 78401,
+      "ns": 0,
+      "title": "Royal Guards",
+      "revisions": [
+        {
+          "revid": 790415,
+          "parentid": 733681,
+          "timestamp": "2026-07-24T00:58:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79082,
+      "ns": 0,
+      "title": "Resident Snooty",
+      "revisions": [
+        {
+          "revid": 796402,
+          "parentid": 796401,
+          "timestamp": "2026-07-27T18:55:43Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79531,
+      "ns": 0,
+      "title": "Tammy",
+      "revisions": [
+        {
+          "revid": 791025,
+          "parentid": 786488,
+          "timestamp": "2026-07-24T01:19:22Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91737,
+      "ns": 0,
+      "title": "Rescue Recruiter",
+      "revisions": [
+        {
+          "revid": 790321,
+          "parentid": 754654,
+          "timestamp": "2026-07-24T00:55:32Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98950,
+      "ns": 0,
+      "title": "Yoshua",
+      "revisions": [
+        {
+          "revid": 807973,
+          "parentid": 791538,
+          "timestamp": "2026-08-05T20:24:21Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98951,
+      "ns": 0,
+      "title": "Skylark",
+      "revisions": [
+        {
+          "revid": 807974,
+          "parentid": 790697,
+          "timestamp": "2026-08-05T20:25:28Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99749,
+      "ns": 0,
+      "title": "Roy",
+      "revisions": [
+        {
+          "revid": 816293,
+          "parentid": 814587,
+          "timestamp": "2026-08-11T20:36:06Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102900,
+      "ns": 0,
+      "title": "Scout Plinius",
+      "revisions": [
+        {
+          "revid": 790524,
+          "parentid": 754803,
+          "timestamp": "2026-07-24T01:01:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 103136,
+      "ns": 0,
+      "title": "Zarina",
+      "revisions": [
+        {
+          "revid": 816574,
+          "parentid": 815391,
+          "timestamp": "2026-08-11T20:44:53Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107770,
+      "ns": 0,
+      "title": "Vaeri",
+      "revisions": [
+        {
+          "revid": 791305,
+          "parentid": 719937,
+          "timestamp": "2026-07-24T01:28:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107771,
+      "ns": 0,
+      "title": "Tilus",
+      "revisions": [
+        {
+          "revid": 791148,
+          "parentid": 733215,
+          "timestamp": "2026-07-24T01:23:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107837,
+      "ns": 0,
+      "title": "Sawyer",
+      "revisions": [
+        {
+          "revid": 814627,
+          "parentid": 790488,
+          "timestamp": "2026-08-11T19:47:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108672,
+      "ns": 0,
+      "title": "Shen Citrinitas",
+      "revisions": [
+        {
+          "revid": 826413,
+          "parentid": 814707,
+          "timestamp": "2026-08-28T12:41:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108709,
+      "ns": 0,
+      "title": "Spike (NPC)",
+      "revisions": [
+        {
+          "revid": 828104,
+          "parentid": 790826,
+          "timestamp": "2026-08-31T15:46:02Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110374,
+      "ns": 0,
+      "title": "Soul Campfire Initiate",
+      "revisions": [
+        {
+          "revid": 814808,
+          "parentid": 790766,
+          "timestamp": "2026-08-11T19:52:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110375,
+      "ns": 0,
+      "title": "Soul Campfire Adept",
+      "revisions": [
+        {
+          "revid": 814807,
+          "parentid": 790764,
+          "timestamp": "2026-08-11T19:52:44Z"
+        }
+      ]
+    },
+    {
+      "pageid": 112000,
+      "ns": 0,
+      "title": "Researcher Beryl",
+      "revisions": [
+        {
+          "revid": 839615,
+          "parentid": 816270,
+          "timestamp": "2026-09-13T04:54:12Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116404,
+      "ns": 0,
+      "title": "Researcher Ribery",
+      "revisions": [
+        {
+          "revid": 852310,
+          "parentid": 816271,
+          "timestamp": "2026-10-06T14:13:25Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133508,
+      "ns": 0,
+      "title": "Treehugger Timothy",
+      "revisions": [
+        {
+          "revid": 828674,
+          "parentid": 807139,
+          "timestamp": "2026-09-01T09:09:43Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133509,
+      "ns": 0,
+      "title": "Torrhus Canyon (NPC)",
+      "revisions": [
+        {
+          "revid": 828664,
+          "parentid": 819522,
+          "timestamp": "2026-09-01T09:09:33Z"
+        }
+      ]
+    },
+    {
+      "pageid": 138552,
+      "ns": 0,
+      "title": "Sunny",
+      "revisions": [
+        {
+          "revid": 856509,
+          "parentid": 852992,
+          "timestamp": "2026-10-11T18:47:08Z"
+        }
+      ]
+    }
+  ],
+  "private_or_unpublished_dialogue_known": false
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "One independently reviewed corrected raw-wiki line. Not a new key in the immutable16244queue;separately counted.",
+  "records": [
+    {
+      "source_key": "npc88.raw_repair.0",
+      "speaker": "Ramero",
+      "tag": "NPC",
+      "source": "[NPC] Ramero: Let us employ these planks to fortify the entrance.",
+      "translation": "[NPC] Ramero: Используем эти доски, чтобы укрепить вход.",
+      "style_anchors": [
+        {
+          "source": "planks ",
+          "target": "доски"
+        },
+        {
+          "source": "entrance",
+          "target": "вход"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ramero?oldid=814480",
+      "evidence": "exact_raw_legacy_source_repair_not_frozen_queue_key"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-15",
+  "scope": "Independent published dialogue sections captured before authoring translations. Wiki annotations/placeholders are not server messages; historical/ambiguous entries must be separately excluded. Not all NPC scripts.",
+  "pages": [
+    {
+      "name": "Enchantment Nerd",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Enchantment_Nerd",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst interaction  | [NPC] Enchantment Nerd: There are many, many, many enchantments that exist in SkyBlock.[NPC] Enchantment Nerd: Most enchantments require you to be a certain Enchanting Level to use them, though.[NPC] Enchantment Nerd: The Experimentation Table, which is unlocked at Enchanting X, is definitely the fastest way to level up quickly![NPC] Enchantment Nerd: Anyways, I've been writing down every enchantment I've come across so far. Here, take a look!"
+    },
+    {
+      "name": "Alchemist",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Alchemist",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Alchemist: There is a darkness in you, [player].[NPC] Alchemist: I've seen it in my flames, you are destined for great things.[NPC] Alchemist: For now, you shouldn't let it get to your head.\nAbiphone Contact | None  | [NPC] Alchemist: ✆ An Abiphone? What kind of witchcraft is that?[SHOW ABIPHONE]\nSelecting [SHOW ABIPHONE]  | [NPC] Alchemist: ✆ I see.[NPC] Alchemist: ✆ Turns out I own one too. I never knew what it was called.[NPC] Alchemist: ✆ So, you want me to add you?[NPC] Alchemist: ✆ Get me a stack of Mutant Nether Wart.\nSelecting [GIVE ITEM] without  Mutant Nether Wart .  | [NPC] Alchemist: ✆ You have less warts than I have on my face!\nSelecting [GIVE ITEM] with  Mutant Nether Wart .  | [NPC] Alchemist: ✆ I was right, you are indeed destined for great things.\n The Garden | None  | [NPC] Alchemist: Been running low on my brewing supplies, Nether Warts are quite hard to come by these days.\nCompleting  | [NPC] Alchemist: Project Centurion can finally begin. You've been quite the help.\nDenying  | [NPC] Alchemist: Unfortunate, I'll see if I can find some Nether Warts from someone else."
+    },
+    {
+      "name": "Christopher",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Christopher",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Christopher: The world is filled with incredibly talented people![NPC] Christopher: I like to visit people's private islands with my hot air balloon.[NPC] Christopher: I can show you some of the best islands I've ever visited!\nDisabled\n9 October, 2022  | [NPC] Christopher: Hello![NPC] Christopher: Sometime this week I'll let you check out the coolest player islands in SkyBlock!\nDisabled\nMay 2023  | This feature is currently disabled!This menu has been temporarily disabled!Error loading island browser! Please try again later."
+    },
+    {
+      "name": "Plumber Joe",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Plumber_Joe",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nNone  | [NPC] Plumber Joe: Water troubles? No problem!\n The Garden | None  | [NPC] Plumber Joe: I once dumped a magical water bucket into the toilet. It won't stop overflowing. Anyway, you got something for me?\nCompleting  | [NPC] Plumber Joe: Thanks. That should help me fix my water troubles.\nDenying  | [NPC] Plumber Joe: I guess I'll just try to fix it myself.\nAbiphone Contact | None  | [NPC] Plumber Joe: ✆ My abiphone? You got it![NPC] Plumber Joe: ✆ Call me during business hours and I'll help with your water troubles at a discount!\nCalling\nDaytime  | [NPC] Plumber Joe: Water troubles? You know I'm on it!\nCondition  | Random Dialogue\n--- | ---\nAbiphone Contact | Calling\nNight-time  | ✆ No answer.\n[NPC] Plumber Joe: ✆ Please only call me during business hours.[NPC] Plumber Joe: ✆ If there's really an emergency, come and see me!"
+    },
+    {
+      "name": "Lumber Merchant",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Merchant",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Lumber Merchant: Buy and sell Wooden Axes with me!\nAbiphone Contact | None  | [NPC] Lumber Merchant: ✆ You want my contact? Sure.[NPC] Lumber Merchant: ✆ Let's see...[NPC] Lumber Merchant: ✆ My Axe could do with an upgrade...[NPC] Lumber Merchant: ✆ That's right! A Spruce Axe is what I desire![GIVE ITEM]\nWithout Spruce Axe | [NPC] Lumber Merchant: ✆ You don't have what I need! Nice try!\nGiving Spruce Axe | [NPC] Lumber Merchant: ✆ A Spruce Axe! I sure owe you one![NPC] Lumber Merchant: ✆ A deal is a deal and I'm a man of my word. Here's my contact."
+    },
+    {
+      "name": "Fishing Merchant",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Fishing_Merchant",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Fishing Merchant: Welcome! Feel free to browse my fishing wares!\nBuying any piece of Angler Equipment | [NPC] Fishing Merchant: Good choice! You can equip that beauty by right-clicking it while it's in your hand.[NPC] Fishing Merchant: Or, you can type /equipment to access your equipment menu.\n"
+    },
+    {
+      "name": "Mining Merchant",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Mine_Merchant",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Mining Merchant: My specialites are ores, stone, and mining equipment!"
+    },
+    {
+      "name": "Farm Merchant",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Farm_Merchant",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\n Village | First Interaction  | [NPC] Farm Merchant: You can buy and sell harvested crops with me![NPC] Farm Merchant: Wheat, carrots, potatoes, and melon are my specialities!\n The Garden | None  | [NPC] Farm Merchant: I'm hungry...whatcha got?\nCompleting  | [NPC] Farm Merchant: Ooh, this is exactly what I wanted!\nDenying  | [NPC] Farm Merchant: Back to standing still for hours on end!"
+    },
+    {
+      "name": "Auction Master",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Auction_Master",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Auction Master: Hey there, I'm the Auction Master.[NPC] Auction Master: At the auction house you can put your valuable items up for auction![NPC] Auction Master: You may also want to check back here to see what items other players are selling to see if you can get a good deal.[NPC] Auction Master: Talk to me if you would like to start your first auction or if you want to see the items currently being sold."
+    },
+    {
+      "name": "Banker",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Banker",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Banker: Hello there![NPC] Banker: You may want to store your Coins in a safe place while you are off adventuring.[NPC] Banker: Storing them in your Bank keeps them safe and allows you to earn interest at the start of every season!"
+    },
+    {
+      "name": "Bea",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Bea",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nGrammar and/or punctuation mistakes are intentional, as they appear so in the dialogue in-game.\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Bea: Hello! Do you have a pet?[NPC] Bea: Pets are little companions for your adventures in SkyBlock![NPC] Bea: Personally, I prefer the bee pet!\n"
+    },
+    {
+      "name": "Dusk",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Dusk",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nNone  | [NPC] Dusk: Runes are cosmetic effects that drop from Runic mobs![NPC] Dusk: Most mobs have a chance to spawn as Runic, so keep your eye out![NPC] Dusk: You can apply runes to weapons and armor with the Rune Pedestal behind me.[NPC] Dusk: You can also combine two runes for a chance to create a higher level rune with a better effect![NPC] Dusk: If you're having trouble storing all the runes you've been collecting, you can buy a Rune Sack from Elizabeth in the Community Center!\nAbiphone Contact | None  | [NPC] Dusk: ✆ Shhhh![NPC] Dusk: ✆ Don't talk so loud.[NPC] Dusk: ✆ I can give you my contact but you need to do something for me.[NPC] Dusk: ✆ Could you kill a Runic Enderman? It HAS to be an enderman. Please.\nKilling Runic Enderman | [NPC] Dusk: ✆ Ohhhh, you did it.[NPC] Dusk: ✆ Perfect.[NPC] Dusk: ✆ Here take my contact, but don't give it to anyone else!\n The Garden | None  | [NPC] Dusk: Dusk needs some watermelon to quench his thirst. Dusk would appreciate it.\nCompleting  | [NPC] Dusk: Dusk thanks you. Dusk will make sure to visit your farm again.\nDenying  | [NPC] Dusk: Dusk is disappointed. Dusk goes away now."
+    },
+    {
+      "name": "George",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/George",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nGrammar and/or punctuation mistakes are intentional, as they appear so in the dialogue in-game.\n\nThis section needs more information. Please help expand it .\n\nSee more stubs. Condition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] George: Hey there, I'm George the Pet Collector![NPC] George: I travel the world searching far and wide for the rarest pets I can find![NPC] George: If you have any pets which need a new home I'd be happy to buy them off you!\nFirst Interaction\nAfter reaching  Taming L (50) | [NPC] George: Ah, a seasoned tamer, I see! Welcome![NPC] George: You've mastered the art of Taming to level 50, a commendable feat.[NPC] George: You see, I have a penchant for collecting exotic pets.[NPC] George: A hobby that's not as easy for me as it is for a skilled tamer like yourself.[NPC] George: In exchange for your help in expanding my collection, I offer a unique opportunity.[NPC] George: For each rare pet you bring to me, starting with the elusive Epic Rift Ferret, I'll unlock an additional level in your Taming skill.[NPC] George: Why the Rift Ferret you ask?[NPC] George: Ah, the Rift is a place of mystery, one I've longed to explore but alas, have never had the chance.[NPC] George: Bring me this creature from beyond, and let's advance your taming prowess together!\nGiving MYTHIC Enderman Pet | [NPC] George: Thank you for bringing me the Mythic Enderman.[NPC] George: Their enigmatic presence and otherworldly aura have always captivated me.[NPC] George: Your Taming level cap has been increased!\nGiving LEGENDARY or better  Black Cat Pet | [NPC] George: Shhhh. Don't disturb the Legendary Black Cat.[NPC] George: I've always been fascinated by their mysterious charm.[NPC] George: Your Taming level cap has been increased!\nGiving EPIC Rift Ferret Pet | [NPC] George: Ah, the Rift is a place of mystery, one I've longed to explore but alas, have never had the chance.[NPC] George: Thank you for bringing me this pet![NPC] George: Your Taming level cap has been increased!\nGiving EPIC or better  Slug Pet | [NPC] George: Oh yes, an Epic Slug.[NPC] George: My garden seems to miss having one around![NPC] George: Your Taming level cap has been increased!\nGiving EPIC or better  Spirit Pet | [NPC] George: Is that a Epic Spirit?[NPC] George: Their mysterious aura has always intrigued me.[NPC] George: Your Taming level cap has been increased!\nGiving EPIC or better  Giraffe Pet | [NPC] George: I've always wanted a Epic Giraffe?[NPC] George: I'm curious to see if they really are as tall as the legends say.[NPC] George: Your Taming level cap has been increased!\nGiving EPIC or better  Jellyfish Pet | [NPC] George: Do you think the Epic Jellyfish can dance?[NPC] George: I've always been mesmerized by their underwater ballet.[NPC] George: Your Taming level cap has been increased!\nGiving EPIC or better  Bal Pet | [NPC] George: Thank you for getting the Epic Bal.[NPC] George: It's a bit too hot for me down there![NPC] George: Your Taming level cap has been increased!\nGiving EPIC or better  Baby Yeti Pet | [NPC] George: I'm glad you could fetch me a Epic Baby Yeti?[NPC] George: I cannot stand the cold![NPC] George: Your Taming level cap has been increased!\nGiving RARE or better  Frost Wisp Pet | [NPC] George: Now, I am be delighted to see a Rare Frost Wisp.[NPC] George: Their icy presence is said to be quite refreshing.[NPC] George: Your Taming level cap has been increased!\nMaxing out Taming Level Cap  | [NPC] George: You've done it![NPC] George: You've brought me all the pets I've asked for, and in doing so, have shown exceptional dedication and skill.[NPC] George: Your Taming level cap can now reach the maximum level of 60, thanks to your efforts.[NPC] George: You've not only helped me complete my collection but also demonstrated the true spirit of a master tamer.[NPC] George: Remember, the world of taming is vast and ever-changing.[NPC] George: May your adventures continue to be as fruitful and exciting as this quest has been!\nAbiphone Contact | None  | [NPC] George: ✆ Oh absolutely you can have my contact info.[NPC] George: ✆ It may look like I'm always here at my desk, but really I'm always traveling.[NPC] George: ✆ Lately I've been looking across the universe for 3 specific pets.[NPC] George: ✆ The [pet], [pet] and [pet] pets.[NPC] George: ✆ If you can bring me ALL of those, you can have my contact![NPC] George: ✆ Oh, by the way, they should all be Lvl 1.[GIVE PETS]\nGiving Pets | [NPC] George: ✆ That's fantastic![NPC] George: ✆ I love pets![NPC] George: ✆ Here take my contact.[NPC] George: ✆ You'll be able to reach me while I am or you are in the wilderness.\nCondition  | Random Dialogue\n--- | ---\nNone\nBetween  Taming L (50) and  Taming LIX (59) | [NPC] George: Have you found the Mythic Enderman yet?\n[NPC] George: Have you found the Legendary Black Cat yet?\n[NPC] George: Have you found the Epic Rift Ferret yet?\n[NPC] George: Have you found the Epic Slug yet?\n[NPC] George: Have you found the Epic Spirit yet?\n[NPC] George: Have you found the Epic Giraffe yet?\n[NPC] George: Have you found the Epic Jellyfish yet?\n[NPC] George: Have you found the Epic Bal yet?\n[NPC] George: Have you found the Epic Baby Yeti yet?\n[NPC] George: Have you found the Rare Frost Wisp yet?"
+    },
+    {
+      "name": "Lumber Jack",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Jack",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nBefore starting the quest  | [NPC] Lumber Jack: Timber![NPC] Lumber Jack: My woodcutting assistant has fallen quite ill! Do you think you could take over for him?Select an option: [Sure] [Nah, I'm good]\nSelecting [Nah, I'm good]  | [NPC] Lumber Jack: Oh okay... maybe come back later!\nSelecting [Sure]  | [NPC] Lumber Jack: Cheers! Let me tell ya a little about what we're going to be doing.[NPC] Lumber Jack: We will be Foraging! As one of SkyBlock's core skills, Foraging involves cutting down lots of different types of trees![NPC] Lumber Jack: As you do this, you'll unlock various crafts and useful stat boosts that will help in other areas of your adventure.[NPC] Lumber Jack: Here, let me unlock the Foraging skill for you, and then you can get started![NPC] Lumber Jack: To get you started, please bring me 20 Oak Logs! You can break the trees just off the trail to get 'em.[NPC] Lumber Jack: Use your fists for now - I'll give you my previous assistant's axe if you can prove your worth!\nBefore giving 20 Oak Logs | [NPC] Lumber Jack: Please collect and then bring to me 20 Oak Logs! You can get 'em from the Forest just off the trail.\nGiving 20 Oak Logs | [NPC] Lumber Jack: Nice job! In return for those logs, I'll give ya this Promising Axe.[NPC] Lumber Jack: It's far less painful than using your fists to punch trees, I'll tell ya that much![NPC] Lumber Jack: If you feel like Foraging is the thing for you, continue down the path and head towards The Park.[NPC] Lumber Jack: My friend Charlie can be found there. I'm sure he'll have some work for you!\nAfter completing the quest  | [NPC] Lumber Jack: My mate Charlie has a Treecapitator! With it, he can break down entire trees in a single swipe!\n[NPC] Lumber Jack: Have you spoken to my mate Charlie over in The Park yet? He could probably use your help.\n[NPC] Lumber Jack: Have you enchanted your axe with Efficiency V? It'll help ya break stuff a lot faster.\n The Garden | None  | [NPC] Lumber Jack: My assistant is feeling off, and I think we could do with a hearty meal. Do you think you can help us out?\nCompleting  | [NPC] Lumber Jack: Thank you! I'm sure this will make him feel better.\nDenying  | [NPC] Lumber Jack: I thought you'd be more thankful for the sweet axe my assistant gave you."
+    },
+    {
+      "name": "Pat",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Pat",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Pat: You like flint? I like flint! I sell flint![NPC] Pat: My brother is mining the gravel from the Spider's Den. We are the Flint Bros!\n"
+    },
+    {
+      "name": "Shania",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Shania",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Random Dialogue\n--- | ---\nNone  | [NPC] Shania: Moo.\n[NPC] Shania: Moo!\n[NPC] Shania: Moooooo!"
+    },
+    {
+      "name": "Taylor",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Taylor",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Taylor: Hey there adventurer![NPC] Taylor: You look like someone who values fashion as much as fighting![NPC] Taylor: Want to stand out while you slash and dash?[NPC] Taylor: Check out my cosmetic collection!\nPreviewing a Barn Skin | [NPC] Taylor: Hmm.. I don't think this preview will fit here.[NPC] Taylor: Oh! You can however view this skin on Our Wiki [CLICK HERE]\nAbiphone Contact | [NPC] Taylor: ✆ Hey adventurer![NPC] Taylor: ✆ You're looking quite dapper today![NPC] Taylor: ✆ Hm, my Abiphone Contact?[NPC] Taylor: ✆ Sure, I guess I can do that.[NPC] Taylor: ✆ Give me a call whenever you want to access Taylor's Shop!✆ Taylor has been added to your Abiphone's contacts!\nPicking up an Abiphone call  | [NPC] Taylor: ✆ Hey [player]![NPC] Taylor: ✆ Just to let you know, my [Bundle Name] is now available for purchase![NPC] Taylor: ✆ Give me a call anytime or drop by in person to check out what I've got for sale!\n The Garden | None  | [NPC] Taylor: Hi adventurer.[NPC] Taylor: I have a pretty dashing cosmetic if you would care to exchange it for some rare crops.\nCompleting  | [NPC] Taylor: I can see you value fashion over most farmers![NPC] Taylor: Cheers!\nDenying  | [NPC] Taylor: Such a shame.[NPC] Taylor: Make sure to check out my Fashion Shop in the Hub to see if there's something you'd like more.\nCondition  | Dialogue\n--- | ---\nNone  | [NPC] Taylor: Hello![NPC] Taylor: You look dashing today!"
+    },
+    {
+      "name": "Wool Weaver",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Wool_Weaver",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Wool Weaver: If wool shrinks when you wash it...[NPC] Wool Weaver: ...why don't sheep get smaller when it rains?\nAbiphone Contact | None  | [NPC] Wool Weaver: ✆ You want to add m-me... as a contact?[NPC] Wool Weaver: ✆ I'm so happy!![NPC] Wool Weaver: ✆ I'd gladly supply you with colorful blocks anywhere, but I'm running out of supplies.[NPC] Wool Weaver: ✆ Would you mind getting me 512 Enchanted Wool?[GIVE ITEM]\nMeeting Requirements  | [NPC] Wool Weaver: ✆ Thanks a lot. Call me any time to make your island more v i b r a n t!\nNot Meeting Requirements  | [NPC] Wool Weaver: ✆ You don't have what I need! Nice try!"
+    },
+    {
+      "name": "Rosetta",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Rosetta",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Rosetta: Hey <player name>!!![NPC] Rosetta: Don't know what equipment to aim for?[NPC] Rosetta: Try some of my starter gear!"
+    },
+    {
+      "name": "Arthur",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Arthur",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nTrying to pick up or modify the nearby Wheat Minion | [NPC] Arthur: Sorry, but that's mine!\nNone  | [NPC] Arthur: Fuel makes your Minion work harder for a limited time.[NPC] Arthur: There are multiple types of Fuel, like Coal, Enchanted Bread and many more!\n[NPC] Arthur: If you place your Minions poorly, they will complain![NPC] Arthur: Open their Menu and look for their Perfect Layout!\n[NPC] Arthur: Once you unlock a Minion, you also unlock all their Level up recipes!\n[NPC] Arthur: Use a Budget Hopper to make your Minions automatically sell their items once full!\n[NPC] Arthur: My favorite Minion Upgrade is the Compactor, soooo useful![NPC] Arthur: I have one in my Minion, look!\n[NPC] Arthur: People always empty the storage of my Minion when I'm not looking!\n[NPC] Arthur: Minions always have 4 Upgrade Slots where you can place Fuel or other items.\n The Garden | None  | [NPC] Arthur: My wheat minion has been slacking recently, I am thinking about giving it an upgrade. He hasn't produced any wheat in years! Every time I check on him, he's empty.\nCompleting  | [NPC] Arthur: Holy Macaroni! That should boost my minion to at least Tier 5! Thank you a lot!\nDenying  | [NPC] Arthur: I guess I'll have to keep going like this."
+    },
+    {
+      "name": "Amelia",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Amelia",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Amelia: You seem like quite the social butterfly![NPC] Amelia: Why not buy some social items for your island?\n"
+    },
+    {
+      "name": "Biblio",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Biblio",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst interaction  | [NPC] Biblio: Not everything in this world is immediately obvious.[NPC] Biblio: I've dedicated my life to collecting all the information I can about this place.[NPC] Biblio: Keep your eye out for anyone with ⚑ GUIDE above their head. They tend to have useful information![NPC] Biblio: You can use /guides to view all of the guides you've learned about.\nAfter closing UI  | [NPC] Biblio: You can use /guides to view all of the guides you've learned about."
+    },
+    {
+      "name": "Ozanne",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Ozanne",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nNone  | [NPC] Ozanne: Did you know that for the longest time...[NPC] Ozanne: The Blacksmith would reforge your accessories?[NPC] Ozanne: Crazy stuff![NPC] Ozanne: If you find reforged accessories, I'll buy their reforges from you for coins!"
+    },
+    {
+      "name": "Scoop",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Scoop",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nOpening Shop  | [NPC] Scoop: I love the snow![NPC] Scoop: I've got the perfect tool to make your island a winter wonderland!"
+    },
+    {
+      "name": "Susan",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Susan",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nBefore reaching SkyBlock Level 10 | [NPC] Susan: You look like you're still getting the hang of things. Come back when you're SkyBlock Level 10!\nFirst interaction  | [NPC] Susan: Hey, are you here to volunteer for the Safety Squad?Select an option: [Absolutely!] [Tell me more about the Safety Squad.] [Not right now.]\nSelecting Absolutely!  | [NPC] Susan: Good heavens, that's great news![NPC] Susan: With dangerous activity running rampant recently, we could really use your help.[NPC] Susan: You'll need to undergo some training to become a Safety Advocate.[NPC] Susan: Is this fine with you? I promise it won't take long.Select an option: [Sounds good with me!] [Give me a moment.]\nSelecting [Tell me more about the Safety Squad.]  | [NPC] Susan: The Safety Squad is dedicated to keeping SkyBlock safe.[NPC] Susan: A lot of incidents can be avoided if there just was more awareness about safety.[NPC] Susan: As such, we are recruiting Safety Advocates to help spread the importance of safety in SkyBlock.[NPC] Susan: Are you willing to become a Safety Advocate?[NPC] Susan: The world needs your help!Select an option: [Absolutely!] [Let me think about it a bit more.]\nSelecting [Not right now.] or [Let me think about it a bit more.]  | [NPC] Susan: That's fine, you can always come back later.\nSelecting [Give me a moment.]  | [NPC] Susan: Talk to me when you're ready.\nInteracting after selecting [Give me a moment.]  | [NPC] Susan: Are you ready for your Safety Advocate training?Select an option: [I'm good to go!] [Give me a moment.]\nSelecting [Sounds good to me!] or [I'm good to go!]  | [NPC] Susan: Processing your registration...Susan will repeatedly interact with the player while holding an  Abiphone Basic . [NPC] Susan: Awesome! You're our #th volunteer![NPC] Susan: Head into the doorway next to me, she'll be waiting for you!\nInteracting again before following into the  Security Hall | [NPC] Susan: Brigette is waiting for you in the Security Hall. Better not keep her waiting!\nFuture interactions  | [NPC] Susan: Stay safe out there, recruit!"
+    },
+    {
+      "name": "Jax",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Jax",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Guranteed Dialogue\n--- | ---\nFirst Interaction  | [NPC] Jax: Hello [player]! What brings you to my workshop? I forge the newest and most powerful arrows in all of SkyBlock![NPC] Jax: If you can prove to me you're a real archer I'll forge you arrows whenever you need them.[NPC] Jax: Ready to test your skills? Step on the pressure plate and all the targets will light up, if you can shoot them all in 25 seconds, I'll know you're the real deal.\nCompleting Quest  | [NPC] Jax: Wow, you can really shoot a bow![NPC] Jax: Well, a deal's a deal! Come to me any time and I'll forge you whatever arrows you need for adventures.[NPC] Jax: I have only one condition... These are powerful arrows, they can't fall into the wrong hands so keep them in your quiver and don't share them with anyone.\nAbiphone Contact | Before Completing Target Practice III  | [NPC] Jax: ✆ Uh... maybe before you dare get my contact, you should prove yourself as a real archer first.\nAfter Completing Target Practice III  | [NPC] Jax: ✆ My Abiphone contact?[NPC] Jax: ✆ Listen pal, I've been nice with you but it's strictly business etiquette.[NPC] Jax: ✆ I'm freaking Jax the Archer, you see those lanterns? I can clear them all in 11 seconds![NPC] Jax: ✆ I'm just that good![NPC] Jax: ✆ If you want my contact you'll have to show me you can hit them all in UNDER 11 seconds.[NPC] Jax: ✆ Otherwise you'll have to give me 10M coins to get my contact, no less.[NPC] Jax: ✆ What do you say, buddy?[PAY 10 MILLION COINS] [ATTEMPT CHALLENGE]\nSelecting [ATTEMPT CHALLENGE]  | [NPC] Jax: ✆ Delusional are we today?[NPC] Jax: ✆ Alright let me know when you realize the massive skill gap between us.[NPC] Jax: ✆ I unlocked Target Partice IV for you, good luck kiddo.\nCompleting Challenge Under 11s  | [NPC] Jax: ✆ #, really???[NPC] Jax: ✆ Did you...[NPC] Jax: ✆ I mean...[NPC] Jax: ✆ ...[NPC] Jax: ✆ wat. How??[NPC] Jax: ✆ Take my contact and go.\nWithout Enough Coins  | [NPC] Jax: ✆ You're poor too, huh?[NPC] Jax: ✆ Come back when you have the money.\nPaying 10,000,000 Coins | [NPC] Jax: ✆ Yep, that's right, I'm the best.[NPC] Jax: ✆ Consider yourself lucky you only had to pay 10 million, I could easily have added a zero."
+    },
+    {
+      "name": "Lucius",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Lucius",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nBefore purchasing an item from Dark Auction | [NPC] Lucius: Psst! Listen here![NPC] Lucius: Not too loud![NPC] Lucius: My cousin Sirius leads an... organization.[NPC] Lucius: It's a... business, auctioning sweet items.[NPC] Lucius: He regularly runs events at a nearby house, but only under the cover of night.[NPC] Lucius: Buy a few items from Sirius and come back!\nPurchasing less than 3 items from the Dark Auction | [NPC] Lucius: You've purchased <number> items from the Dark Auction.[NPC] Lucius: Come back when you've purchased 3. I'll have something for you then.\nPurchasing less than 7 items from the Dark Auction | [NPC] Lucius: You've purchased <number> items from the Dark Auction.[NPC] Lucius: Come back when you've purchased 7. I'll have something for you then.\nAfter purchasing 7\nitems from Dark Auction | [NPC] Lucius: You've purchased 7 items from the Dark Auction.[NPC] Lucius: You're basically family at this point."
+    },
+    {
+      "name": "Shifty",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Shifty",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nAbiphone Contact | None  | [NPC] Shifty: ✆ There ain't many customers around here, so I spend all my time playing Snake on my Abiphone.[NPC] Shifty: ✆ The controls are really bad, right?[NPC] Shifty: ✆ Anyway, I get bored by this job.[NPC] Shifty: ✆ Not just because of the lack of action, but there's nothing to be proud about the drinks I serve.[NPC] Shifty: ✆ I'm a fan of fancy drinks![NPC] Shifty: ✆ And yet Lucius makes me sell addictive garbage![NPC] Shifty: ✆ Look...\nI'll add you as a contact if you can bring me some good drinks, such as a Scarleton Premium and a Red Thornleaf Tea.[HAND OVER FANCY DRINKS]\nWithout  Red Thornleaf Tea and  Scarleton Premium | [NPC] Shifty: ✆ You don't have both beverages in your inventory!\nGiving  Red Thornleaf Tea and  Scarleton Premium | [NPC] Shifty: ✆ Sadly, Lucius heard of our little deal and asked me to hold the drinks for him.[NPC] Shifty: ✆ Here, take my contact anyway.[NPC] Shifty: ✆ ...[NPC] Shifty: ✆ ... ...[NPC] Shifty: ✆ This place is terrible.\n The Garden | None  | [NPC] Shifty: It seems like my brew selection is rather small...I've recently heard that melon juice is really sought after so maybe it can enhance my drinks' flavors!\nCompleting  | [NPC] Shifty: Well done! I'm sure that even Sirius will enjoy my revolutionary melon refreshments.\nDenying  | [NPC] Shifty: What a pity! Enjoy the Bartender's terrible and unrefreshing mixins."
+    },
+    {
+      "name": "Smithmonger",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Smithmonger",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "MISSING SECTION"
+    },
+    {
+      "name": "Bartender",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Bartender",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nFirst Interaction  | [NPC] Bartender: Ah! You look like someone strong.[NPC] Bartender: These are trying times, indeed. The Graveyard up ahead is overflowing with monsters! Anyone who comes in is spooked off by the grunts of Zombies in the distance.[NPC] Bartender: Could you give me a hand? If you help clear out some of these monsters, I'll pay you for it!\nAfter killing 10 Zombies or Graveyard Zombies | [NPC] Bartender: Words cannot describe how thankful I am, [player].[NPC] Bartender: If you're up for the challenge, both the Graveyard and the Spider's Den beyond it are great training grounds for improving your Combat Skill.[NPC] Bartender: For now, here's a reward for helping me out!\nBefore moving to the  Tavern after the player switches servers  | [NPC] Bartender: Be careful in the Graveyard during the night time, the Zombies are stronger and even more of them like to show up!\nAbiphone Contact while\nbelow Spider Slayer 9 | [NPC] Bartender: ✆ Sorry mate, not much space in the old handheld.[NPC] Bartender: ✆ People always adding me left and right these days, asking if the ol' tav is open or not.[NPC] Bartender: ✆ I tell 'em every time that it's open every day, but when they put down the phone I know they'll call 'n ask again tomorrow.[NPC] Bartender: ✆ Since I'm so limited on space, I've got to be quite particular on who I add.[NPC] Bartender: ✆ You go and reach Spider Slayer 9, and I'll add you.\nHow's that sound?\nAbiphone Contact while Spider Slayer 9 | [NPC] Bartender: ✆ You want me to add ya to my handheld, huh?[NPC] Bartender: ✆ Looks like you've reached Spider Slayer 9, so you're as good a choice as any I suppose.[NPC] Bartender: ✆ Just don't call me asking when the tavern is open, okay?[NPC] Bartender: ✆ We're always open...\n The Garden | None  | [NPC] Bartender: I want to make some new brews, do you think you can give me some ingredients to work with?\nCompleting  | [NPC] Bartender: Many Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course.\nDenying  | [NPC] Bartender: Hard times we are in. Take care!"
+    },
+    {
+      "name": "Gladiator",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Gladiator",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\n\nCondition  | Dialogue\n--- | ---\nNone  | [NPC] Gladiator: Welcome to the Colosseum![NPC] Gladiator: Oh...wait. Nevermind.[NPC] Gladiator: Here, you can join me in drinking away your sorrows.\nFirst Interaction\n0.1–0.17  | [NPC] Gladiator: Welcome to the Colosseum![NPC] Gladiator: Here you can prove your fighting skills to everyone.\nNone\n0.1–0.17  | [NPC] Gladiator: Welcome to the Colosseum![NPC] Gladiator: The arena is temporarily closed for renovations!"
+    },
+    {
+      "name": "Clerk Seraphine",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine",
+      "retrieved": "2026-10-15",
+      "evidence": "published_community_wiki_not_live_packet",
+      "section": "## Dialogue\n\n[edit | edit source ]\nCondition  | Dialogue\n--- | ---\nNone\nCommunity Center | [NPC] Clerk Seraphine: Welcome to the Community Center![NPC] Clerk Seraphine: Contribute to community projects, upgrade your account, and more by talking to Elizabeth!\nNone\nElection Room | [NPC] Clerk Seraphine: Welcome to the Election Room![NPC] Clerk Seraphine: Is there anything I can help you with?Select an option: ➜ [How are perks chosen?] ➜ [What's the deal with Ministers?] ➜ [What are Special Mayors?] ➜ [I think I'm good.]\nSelecting [How are the perks chosen?]  | [NPC] Clerk Seraphine: Well, most of the Mayors have a total of 4 perks to choose from, the amount they have at once varying.[NPC] Clerk Seraphine: They'll usually have somewhere from 1-3, with an 8% chance to receive a 4th if they already have 3.[NPC] Clerk Seraphine: Candidates that were either elected as Mayor or Minister the previous Election sit out the following Election and only have a single perk when they return.[NPC] Clerk Seraphine: Each Mayor also has a ✯ Minister Perk, which goes hand-in-hand with the Minister system![NPC] Clerk Seraphine: Do you want to hear more about that?Select an option: ➜ [Sure.] ➜ [I'd rather talk about special Mayors.] ➜ [Nah.]\nSelecting [What's the deal with Ministers?] / [Sure.]  | [NPC] Clerk Seraphine: Each Mayor has a perk marked as a \"✯ Minister Perk\".[NPC] Clerk Seraphine: Once a Mayor is elected, the runner-up with the most votes is selected to act as their Minister.[NPC] Clerk Seraphine: That Minister will provide its ✯ Minister Perk as a nice little bonus![NPC] Clerk Seraphine: Was there anything else you wanted to know about?Select an option: ➜ [How are perks chosen?] ➜ [I'd rather talk about special Mayors.] ➜ [Nah.]\nSelecting [What are Special Mayors?] / [I'd rather talk about special Mayors.]  | [NPC] Clerk Seraphine: Every few months, a Special Mayor enters the running.[NPC] Clerk Seraphine: Their perks are much stronger and crazier![NPC] Clerk Seraphine: They're always sure to shake things up.[NPC] Clerk Seraphine: Was there anything else you wanted to know about?Select an option: ➜ [How are perks chosen?] ➜ [What's the deal with Ministers?] ➜ [I think I'm good.]\nSelecting [I think I'm good.] / [Nah.]  | [NPC] Clerk Seraphine: If you say so.\nNo Election Taking Place  | [NPC] Clerk Seraphine: The mayor elections are currently closed but come back later and check them out!\nElection Taking Place  | [NPC] Clerk Seraphine: You can also vote in the mayor elections by heading through the warp to the left!\nAbiphone Contact | [NPC] Clerk Seraphine: ✆ Nice to see you, [Player]![NPC] Clerk Seraphine: ✆ Hm, you'd like my Abiphone Contact?[NPC] Clerk Seraphine: ✆ Sure, I'd be honored![NPC] Clerk Seraphine: ✆ Give me a call if you ever want to vote remotely in a Mayor Election![NPC] Clerk Seraphine: ✆ I'll also give you a call each year to let you know when voting's begun!✆ Clerk Seraphine has been added to your Abiphone's contacts!\nPicking up an Abiphone call  | [NPC] Clerk Seraphine: ✆ Hi, [player]![NPC] Clerk Seraphine: ✆ I just wanted to call to let you know that voting for this year's Mayor Election has begun![NPC] Clerk Seraphine: ✆ Here, take a look at the candidates!\nCalling with an Abiphone before the next Mayor Election has begun  | [NPC] Clerk Seraphine: ✆ Hey, [player]! Voting for the next Mayor Election hasn't opened yet, check back in [time]!\n The Garden | None  | [NPC] Clerk Seraphine: Hey <player>, the mayor elections are coming up and I've ran out of ballot paper! Could you help me out?\nCompleting  | [NPC] Clerk Seraphine: Thank you very much! I'll make sure to give these extra ballots to only the elites!\nDenying  | [NPC] Clerk Seraphine: Oh no... I might have to cancel the elections now...\nNone\n4-5 April 2021  | [NPC] Clerk Seraphine: Talk to me later for information about the resistance...\nFirst Interaction\n5-12 April 2021  | [NPC] Seraphine: If you are here, it probably means you want to join the resistance.[NPC] Seraphine: Dante needs to be overthrown, it'll take time but we are organizing a coup.[NPC] Seraphine: However we have not decided who should be our leader, and we believe we should go back to a vote.[NPC] Seraphine: Please let me know which community member you believe should lead the resistance.[NPC] Seraphine: You can vote for any player you deem worthy.\nPlayer elects an [ADMIN] or [OWNER] | [NPC] Seraphine: But those are on the side of Dante... are you sure it's a good idea to vote for them? Please choose someone else.\nPlayer has less than 8h of Playtime  | [NPC] Seraphine: Come talk to me once you've played some more!\nNone\n12-16 April 2021\nBefore Giving Gear  | [NPC] Seraphine: Thanks for voting, the Leader and his generals have been selected![NPC] Seraphine: We have a lot of work now before the revolt can happen.[NPC] Seraphine: I'll let you know soon on the day and place it will happen.[NPC] Seraphine: Please take this Armor and Hope of the Resistance![NPC] Seraphine: Courage, we can win!\nNone\n12-16 April 2021\nAfter Giving Gear  | [NPC] Seraphine: Thanks for collecting your resistance gear![NPC] Seraphine: You should now start training ready for the fight![NPC] Seraphine: I will give you more information soon about when the rebellion will happen.\nDuring The Uprising | [NPC] Seraphine: SEND YOUR ENERGY TO YOUR LEADER, LOOK UP TO THE SKY!\nAfter The Uprising | [NPC] Clerk Seraphine: I managed to undo some of Dante's damage! Pets should be back!\nNone\n0.9-0.20.3 in Election Room | [NPC] Clerk Seraphine: Welcome to the mayor elections![NPC] Clerk Seraphine: Democracy has never been this simple![NPC] Clerk Seraphine: Everyone votes for their favorite candidate...[NPC] Clerk Seraphine: ... and whoever has the most votes becomes mayor for a year![NPC] Clerk Seraphine: The elected mayor offers perks for everyone!\nNone\n0.8.1-0.9  | [NPC] Clerk Seraphine: Welcome to the Community Center![NPC] Clerk Seraphine: We're still decorating since the building renovations!\nNone\n0.1-0.8.1  | [NPC] Clerk Seraphine: The Community Center will be finished soon![NPC] Clerk Seraphine: Check back later for updates![NPC] Clerk Seraphine: This is going to be our Village's Community Center![NPC] Clerk Seraphine: Right now, it's under construction.[NPC] Clerk Seraphine: Check back later to view leaderboards and the latest news!"
+    }
+  ]
+}

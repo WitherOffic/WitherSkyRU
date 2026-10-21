@@ -1,0 +1,25 @@
+{
+  "scope": "Declared before any113 performance result. Original112 fifteen short/three long controls plus old135 names short/long,unknown named speaker long,and unknown sentences for all44 newly expanded NPC prefixes short/long. All raw retained;isolated receipt,not FPS.",
+  "baseline_sha256": "866E0C2277F876229F4EFA98C388CE942F8E548181EDDBDC0FEB96A91AA0095B",
+  "short_modes": 17,
+  "long_modes": [
+    "existing_dynamic",
+    "unknown_system_notifications",
+    "retained_cosmetic_notifications",
+    "existing_names103_equal_work",
+    "unknown_named_speaker",
+    "expanded_prefix_misses"
+  ],
+  "order": [
+    "112",
+    "113",
+    "113",
+    "112"
+  ],
+  "short_warmup": 300000,
+  "short_rounds": 4,
+  "short_calls_per_round_at_least": 200000,
+  "long_warmup": 1000000,
+  "long_rounds": 4,
+  "long_calls_per_round_at_least": 1000000
+}

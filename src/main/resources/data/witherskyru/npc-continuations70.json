@@ -1,0 +1,215 @@
+{
+  "scope": "22 exact public NPC lines independently retained from historical user display logs;not all scripts,current existence,channels or interactions. Loaded into existing story map at startup.",
+  "records": [
+    {
+      "source_key": "npc70.0",
+      "speaker": "Station Master",
+      "source": "[NPC] Station Master: Last guy who was in this cart didn't feel too well so watch out he might have left a surprise in there.",
+      "translation": "[NPC] Station Master: Последнему пассажиру этой вагонетки было нехорошо. Осторожнее: он мог оставить внутри сюрприз.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.1",
+      "speaker": "Station Master",
+      "source": "[NPC] Station Master: Goblin's are not the only creatures that dwell here. Rumor has it dirt monsters linger in these parts too...",
+      "translation": "[NPC] Station Master: Здесь обитают не только гоблины. Поговаривают, в этих краях водятся и грязевые чудовища...",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.2",
+      "speaker": "Lynn",
+      "source": "[NPC] Lynn: Maybe next time.",
+      "translation": "[NPC] Lynn: Может, в следующий раз.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.3",
+      "speaker": "Lynn",
+      "source": "[NPC] Lynn: If you ever get lost, you should check on the Desk on what to do next.",
+      "translation": "[NPC] Lynn: Если запутаешься, загляни в меню рабочего стола: там подскажут, что делать дальше.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Desk",
+          "target": "рабочего стола"
+        }
+      ]
+    },
+    {
+      "source_key": "npc70.4",
+      "speaker": "Emissary Sisko",
+      "source": "[NPC] Emissary Sisko: I've heard I can find the best mushrooms here, and as the King's favorite emissary I will bring them to him!",
+      "translation": "[NPC] Emissary Sisko: Слышал, здесь растут лучшие грибы! Как любимый посланник короля, я непременно доставлю их ему!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "King",
+          "target": "короля"
+        }
+      ]
+    },
+    {
+      "source_key": "npc70.5",
+      "speaker": "Gary",
+      "source": "[NPC] Gary: Wow, I just love snow.",
+      "translation": "[NPC] Gary: Ох, как же я люблю снег.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.6",
+      "speaker": "Gary",
+      "source": "[NPC] Gary: I love it so much that I bought an industrial strength snow machine so that I can have snow on demand!",
+      "translation": "[NPC] Gary: Так люблю, что купил промышленный снегогенератор! Теперь у меня есть снег в любое время!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.7",
+      "speaker": "Ophelia",
+      "source": "[NPC] Ophelia: Thanks! I'm headed back to my shop, hope to see you there soon!",
+      "translation": "[NPC] Ophelia: Спасибо! Возвращаюсь в свой магазин. Надеюсь, скоро увидимся там!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.8",
+      "speaker": "Ophelia",
+      "source": "[NPC] Ophelia: Restocking, restocking!",
+      "translation": "[NPC] Ophelia: Пополняю запасы, пополняю!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.9",
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: Keep it up!",
+      "translation": "[NPC] Jacob: Так держать!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.10",
+      "speaker": "Liam",
+      "source": "[NPC] Liam: Alright...",
+      "translation": "[NPC] Liam: Ладно...",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.11",
+      "speaker": "Lazy Miner",
+      "source": "[NPC] Lazy Miner: It's Tuesday, my resting day! I earned myself a little treat, maybe you could bring me some chocolate?",
+      "translation": "[NPC] Lazy Miner: Сегодня вторник — мой выходной! Я заслужил маленькое угощение. Может, принесёшь мне шоколада?",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Tuesday",
+          "target": "вторник"
+        }
+      ]
+    },
+    {
+      "source_key": "npc70.12",
+      "speaker": "Ticket Master",
+      "source": "[NPC] Ticket Master: Welcome to the Far Reserve!",
+      "translation": "[NPC] Ticket Master: Добро пожаловать в Дальний заповедник!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Far Reserve",
+          "target": "Дальний заповедник"
+        }
+      ]
+    },
+    {
+      "source_key": "npc70.13",
+      "speaker": "Oringo",
+      "source": "[NPC] Oringo: Hey, you got some wheat for my pets by any chance? Gotta keep those little monsters fed, haha!",
+      "translation": "[NPC] Oringo: Привет! Не найдётся пшеницы для моих питомцев? Этих маленьких монстров надо кормить, ха-ха!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.14",
+      "speaker": "Oringo",
+      "source": "[NPC] Oringo: You know how it is, they never stop eating haha, thank you very much!",
+      "translation": "[NPC] Oringo: Сам знаешь, они едят без остановки, ха-ха! Огромное спасибо!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.15",
+      "speaker": "Jack",
+      "source": "[NPC] Jack: Thanks for the crops. See ya around.",
+      "translation": "[NPC] Jack: Спасибо за урожай. До встречи!",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.16",
+      "speaker": "Emissary Carlton",
+      "source": "[NPC] Emissary Carlton: How dare you reject me, the King's favorite emissary?!",
+      "translation": "[NPC] Emissary Carlton: Как ты смеешь отказывать мне, любимому посланнику короля?!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "King",
+          "target": "короля"
+        }
+      ]
+    },
+    {
+      "source_key": "npc70.17",
+      "speaker": "Emissary Carlton",
+      "source": "[NPC] Emissary Carlton: The King has sent me to go shopping for I am his favorite emissary!",
+      "translation": "[NPC] Emissary Carlton: Король отправил меня за покупками, ведь я его любимый посланник!",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "King",
+          "target": "Король"
+        }
+      ]
+    },
+    {
+      "source_key": "npc70.18",
+      "speaker": "Moby",
+      "source": "[NPC] Moby: Listen. Glowing Mushrooms don't seem to be too good for my health. About time I tried something else. You got anything, chum?",
+      "translation": "[NPC] Moby: Слушай, светящиеся грибы, кажется, не очень полезны для моего здоровья. Пора попробовать что-нибудь другое. Что-нибудь найдётся, приятель?",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Glowing Mushrooms",
+          "target": "светящиеся грибы"
+        }
+      ]
+    },
+    {
+      "source_key": "npc70.19",
+      "speaker": "Moby",
+      "source": "[NPC] Moby: That's good.",
+      "translation": "[NPC] Moby: Вот и хорошо.",
+      "evidence": "observed_public_npc_line"
+    },
+    {
+      "source_key": "npc70.20",
+      "speaker": "Duke",
+      "source": "[NPC] Duke: You seem new here. You should probably try to get some Enchanted Golden Carrot for me.",
+      "translation": "[NPC] Duke: Похоже, ты здесь новичок. Попробуй раздобыть для меня зачарованную золотую морковь.",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Enchanted Golden Carrot",
+          "target": "зачарованную золотую морковь"
+        }
+      ]
+    },
+    {
+      "source_key": "npc70.21",
+      "speaker": "Rusty",
+      "source": "[NPC] Rusty: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their Enchanted Golden Carrot. Can you find that for me?",
+      "translation": "[NPC] Rusty: Хочешь знать, как я нахожу вещи, потерянные другими игроками? Поручаю поиски другим. Вот сейчас кто-то ищет зачарованную золотую морковь. Найдёшь её для меня?",
+      "evidence": "observed_public_npc_line",
+      "style_anchors": [
+        {
+          "source": "Enchanted Golden Carrot",
+          "target": "зачарованную золотую морковь"
+        }
+      ]
+    }
+  ],
+  "language": "ru",
+  "format_version": 1
+}

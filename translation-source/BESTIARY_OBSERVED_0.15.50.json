@@ -1,0 +1,15 @@
+{
+  "review_date": "2026-10-14",
+  "scope": "User screenshots plus read-only latest.log display text. Color/action tests are reconstructed fixtures, not captured network packets or a live game test.",
+  "screenshots": ["codex-clipboard-f7f57fa5-8b99-40c6-b8a3-4ce49e2647b5.png", "codex-clipboard-bbb3bde7-5732-430e-a292-e90780fb8075.png"],
+  "menu": {"source": "Bestiary Milestone XLV", "translation": "Этап Бестиария XLV"},
+  "claim": {"source": ">>> CLICK HERE to claim it! <<<", "translation": ">>> НАЖМИТЕ ЗДЕСЬ чтобы забрать награду! <<<", "original_actions_retained_not_executed": true},
+  "observed_log_time": "00:06:30",
+  "observed_separate_display_messages": [
+    {"leading_spaces": 25, "source": "BESTIARY MILESTONE", "translation": "ЭТАП БЕСТИАРИЯ"},
+    {"leading_spaces": 34, "source": "XLII➡XLIII", "translation": "XLII➡XLIII"},
+    {"leading_spaces": 35, "source": "REWARD", "translation": "НАГРАДА"},
+    {"leading_spaces": 33, "source": "+1 Health", "translation": "+1 Здоровье"}
+  ],
+  "note": "ChatComponent.logChatMessage escapes embedded newlines; these log entries are separate display messages. Support both the complete closed block and exact centered unsigned SYSTEM_SERVER reward lines. Unpadded REWARD/Health, player/client/signed messages, unknown words and actions remain original. No historical state or per-frame scan."
+}

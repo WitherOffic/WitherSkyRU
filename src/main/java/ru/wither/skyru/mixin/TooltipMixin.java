@@ -1,17 +1,42 @@
 package ru.wither.skyru.mixin;
 
 import ru.wither.skyru.SkyRuClient;
+import ru.wither.skyru.TooltipTextFit;
+import ru.wither.skyru.TooltipTranslation;
+import ru.wither.skyru.OriginalItemTitle;
+import ru.wither.skyru.TooltipFont;
 import net.minecraft.client.gui.GuiGraphicsExtractor;
+import net.minecraft.client.gui.Font;
+import net.minecraft.client.gui.screens.inventory.tooltip.ClientTooltipComponent;
+import net.minecraft.client.gui.screens.inventory.tooltip.ClientTooltipPositioner;
+import net.minecraft.resources.Identifier;
 import net.minecraft.network.chat.Component;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyVariable;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.Unique;
 import java.util.List;
-import java.util.ArrayList;
 
 /** Item lore/hover text; never mutates the actual ItemStack or click handlers. */
 @Mixin(GuiGraphicsExtractor.class)
 public abstract class TooltipMixin {
+    @Unique private boolean witherskyru$layingOutTooltip;
+
+    @Inject(method="tooltip(Lnet/minecraft/client/gui/Font;Ljava/util/List;IILnet/minecraft/client/gui/screens/inventory/tooltip/ClientTooltipPositioner;Lnet/minecraft/resources/Identifier;)V",
+        at=@At("HEAD"), cancellable=true, require=1)
+    private void witherskyru$readableTooltip(Font font, List<ClientTooltipComponent> rows,
+        int x, int y, ClientTooltipPositioner positioner, Identifier background, CallbackInfo ci) {
+        if (witherskyru$layingOutTooltip || rows == null || !(SkyRuClient.tooltipTextFitActive() || TooltipFont.active())) return;
+        GuiGraphicsExtractor graphics = (GuiGraphicsExtractor)(Object)this;
+        var prepared = TooltipTextFit.prepare(font, rows, graphics.guiWidth());
+        if (prepared == rows) return;
+        witherskyru$layingOutTooltip = true;
+        try { graphics.tooltip(font, prepared, x, y, positioner, background); }
+        finally { witherskyru$layingOutTooltip = false; }
+        ci.cancel();
+    }
     @ModifyVariable(
         method={
             "setTooltipForNextFrame(Ljava/util/List;II)V",
@@ -20,11 +45,7 @@ public abstract class TooltipMixin {
         },
         at=@At("HEAD"), argsOnly=true, ordinal=0, require=3)
     private List<net.minecraft.util.FormattedCharSequence> witherskyru$styledTooltips(List<net.minecraft.util.FormattedCharSequence> text) {
-        if(text==null || !SkyRuClient.active()) return text;
-        List<net.minecraft.util.FormattedCharSequence> out=new ArrayList<>(text.size());
-        boolean changed=false;
-        for(var row:text) { var next=SkyRuClient.sequence(row); out.add(next); changed |= row!=next; }
-        return changed ? out : text;
+        return TooltipTranslation.styled(text, OriginalItemTitle.held());
     }
 
     @ModifyVariable(
@@ -34,11 +55,7 @@ public abstract class TooltipMixin {
         },
         at=@At("HEAD"), argsOnly=true, ordinal=0, require=2)
     private List<Component> witherskyru$tooltips(List<Component> text) {
-        if(text==null || !SkyRuClient.active()) return text;
-        List<Component> out=new ArrayList<>(text.size());
-        boolean changed=false;
-        for(Component row:text) { Component newRow=SkyRuClient.component(row); out.add(newRow); if(row!=newRow) changed=true; }
-        return changed ? out : text;
+        return TooltipTranslation.components(text, OriginalItemTitle.held());
     }
 
     @ModifyVariable(

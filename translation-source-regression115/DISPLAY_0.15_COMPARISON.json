@@ -1,0 +1,18 @@
+{
+  "snapshot_sha256": "2FEB5546E8C58D9AB89BB4CB5CFCCD144BB28160ABE0C17088C71103685DEC9B",
+  "physical_lines": 41319,
+  "unique_nonempty_lines": 31330,
+  "before_version": "0.14.4-dev",
+  "after_version": "0.15.0-dev",
+  "before_changed_physical": 12235,
+  "after_changed_physical": 23754,
+  "before_changed_unique": 8343,
+  "after_changed_unique": 16314,
+  "newly_changed_unique": 7971,
+  "ceased_to_change_unique": 0,
+  "both_actual_core_versions_used": true,
+  "counts_include_partial_style_run_translation": true,
+  "numeric_variants_are_not_distinct_authored_phrases": true,
+  "snapshot_packaged": false,
+  "live_game_test": false
+}

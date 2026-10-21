@@ -1,0 +1,9 @@
+{
+  "scope": "Two new undelivered location wordings refined before final tests;old113 translations/goldens untouched. Preliminary114 JAR and authored/generated sources retained separately,not installable delivery.",
+  "retained_draft": "build/eggs114-editorial-draft",
+  "changes": [
+    {"id":"2842","source":"looking towards the windmill","before":"со стороны ветряной мельницы","after":"с видом на ветряную мельницу","reason":"Preserve facing/view direction,not the opposite side relation."},
+    {"id":"3005","source":"atop the Murkwater Outpost","before":"на Заставе Мутноводья","after":"наверху Заставы Мутноводья","reason":"Explicitly preserve atop,not just at the location."}
+  ],
+  "tests_claimed_on_draft": false
+}

@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-14",
+  "revision": "8e9793b8b05922b7c37407f891c572c40908c93e",
+  "scope": "Eight current repository fuel item cards, not a live component capture/all minion fuels",
+  "records": [
+    {
+      "id": "HAMSTER_WHEEL",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/HAMSTER_WHEEL.json",
+      "source_sha256": "C6F12505D28A0172EA74D99F6AB5A4FDA07A59E1457A5C7C1DDCC5472E884756",
+      "title_legacy": "§9Hamster Wheel",
+      "lore_legacy": [
+        "§8Minion Fuel",
+        "",
+        "§7Increases the speed of",
+        "§7your minion by §a50%§7 for 24",
+        "§7hours!",
+        "",
+        "§9§lRARE"
+      ],
+      "crafttext": ""
+    },
+    {
+      "id": "FOUL_FLESH",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/FOUL_FLESH.json",
+      "source_sha256": "849AE5BFFBCC568ED9724562669F0665A4AEDF52DCA6A43754D952A45D25B825",
+      "title_legacy": "§9Foul Flesh",
+      "lore_legacy": [
+        "§8Minion Fuel",
+        "§8Brewing Ingredient",
+        "",
+        "§7Increases the speed of",
+        "§7your minion by §a90%§7 for 5",
+        "§7hours!",
+        "",
+        "§9§lRARE"
+      ],
+      "crafttext": ""
+    },
+    {
+      "id": "CHARCOAL",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/CHARCOAL.json",
+      "source_sha256": "91900D4B54F91EBE43D53A8D8FEB88F50A0C42694853047C5844AF652A1BAF59",
+      "title_legacy": "§fCharcoal",
+      "lore_legacy": [
+        "§8Minion Fuel",
+        "",
+        "§7Increases the speed of",
+        "§7your minion by §a5%§7 for 30",
+        "§7minutes!",
+        "",
+        "§f§lCOMMON"
+      ],
+      "crafttext": ""
+    },
+    {
+      "id": "COAL",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/COAL.json",
+      "source_sha256": "351434D509CCF6FF2FB148C272D0347AD667DD5364FF6389F5FB48B8FED51E02",
+      "title_legacy": "§fCoal",
+      "lore_legacy": [
+        "§8Minion Fuel",
+        "§8Brewing Ingredient",
+        "§8Collection Item",
+        "",
+        "§7Increases the speed of",
+        "§7your minion by §a5%§7 for 30",
+        "§7minutes!",
+        "",
+        "§f§lCOMMON ORE"
+      ],
+      "crafttext": ""
+    },
+    {
+      "id": "COAL_BLOCK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/COAL_BLOCK.json",
+      "source_sha256": "6822359F34D8C6FA4BC4CE87B9FBE77CFD2358C5A9FC8267836052D92E910A98",
+      "title_legacy": "§fBlock of Coal",
+      "lore_legacy": [
+        "§8Minion Fuel",
+        "",
+        "§7Increases the speed of",
+        "§7your minion by §a5%§7 for 5",
+        "§7hours!",
+        "",
+        "§f§lCOMMON"
+      ],
+      "crafttext": ""
+    },
+    {
+      "id": "ENCHANTED_CHARCOAL",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/ENCHANTED_CHARCOAL.json",
+      "source_sha256": "780122553BDFBA74BD5B0D5CD0D447C9193DF35ABE563B7DF7786EDE8307FB94",
+      "title_legacy": "§aEnchanted Charcoal",
+      "lore_legacy": [
+        "§8Minion Fuel",
+        "",
+        "§7Increases the speed of",
+        "§7your minion by §a20%§7 for 36",
+        "§7hours!",
+        "",
+        "§a§lUNCOMMON"
+      ],
+      "crafttext": "Requires: Coal V"
+    },
+    {
+      "id": "ENCHANTED_COAL",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/ENCHANTED_COAL.json",
+      "source_sha256": "7BB2EC5A93DE63F267C2C99FF9C2FD6E22CB17DE3EDC57950941993DB1463C40",
+      "title_legacy": "§aEnchanted Coal",
+      "lore_legacy": [
+        "§8Minion Fuel",
+        "§8Collection Item",
+        "",
+        "§7Increases the speed of",
+        "§7your minion by §a10%§7 for 24",
+        "§7hours!",
+        "",
+        "§a§lUNCOMMON ORE"
+      ],
+      "crafttext": "Requires: Coal III"
+    },
+    {
+      "id": "ENCHANTED_BREAD",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/ENCHANTED_BREAD.json",
+      "source_sha256": "99C210750899D730A1F728EA4542419A757376B605B58BD3A5F13AD714B26000",
+      "title_legacy": "§fEnchanted Bread",
+      "lore_legacy": [
+        "§8Minion Fuel",
+        "§8Collection Item",
+        "",
+        "§7Increases the speed of",
+        "§7your minion by §a5%§7 for 12",
+        "§7hours!",
+        "",
+        "§f§lCOMMON"
+      ],
+      "crafttext": "Requires: Wheat V"
+    }
+  ]
+}

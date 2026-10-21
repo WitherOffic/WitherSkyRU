@@ -1,0 +1,783 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "65 literal rows:Elizabeth17,Kat39(Hub and Rift),historical Elle of the Nether9. Sixteen old keys retained;ten variable sources excluded,not private/live completeness.",
+  "records": [
+    {
+      "source_key": "npc82.0",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: Hello! Welcome to SkyBlock!",
+      "translation": "[NPC] Elizabeth: Здравствуйте! Добро пожаловать в SkyBlock!",
+      "style_anchors": [
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.1",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: I have powerful items to offer, but only to experienced adventurers!",
+      "translation": "[NPC] Elizabeth: У меня есть могущественные предметы, но только для опытных искателей приключений!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.2",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: Until then, I suggest leveling up!",
+      "translation": "[NPC] Elizabeth: А пока советую повысить свой уровень!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.3",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ Hello!",
+      "translation": "[NPC] Elizabeth: ✆ Алло!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.4",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ Ooh, you got yourself an Abiphone!",
+      "translation": "[NPC] Elizabeth: ✆ О, у вас появился абифон!",
+      "style_anchors": [
+        {
+          "source": "Abiphone",
+          "target": "абифон"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.5",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ Here, let me be one of your first Abiphone Contacts!",
+      "translation": "[NPC] Elizabeth: ✆ Давайте я стану одним из первых контактов вашего абифона!",
+      "style_anchors": [
+        {
+          "source": "Abiphone Contacts",
+          "target": "контактов вашего абифона"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.6",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ That way, you can call me anytime you'd like to use the Community Shop!",
+      "translation": "[NPC] Elizabeth: ✆ Тогда сможете звонить мне всякий раз, когда захотите воспользоваться общественным магазином!",
+      "style_anchors": [
+        {
+          "source": "Community Shop",
+          "target": "общественным магазином"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.7",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ There you go!",
+      "translation": "[NPC] Elizabeth: ✆ Вот и готово!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.8",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ I'll also be sure to call you whenever one of your Account & Profile Upgrades are ready.",
+      "translation": "[NPC] Elizabeth: ✆ Я также обязательно позвоню вам сразу, как будет готово одно из улучшений аккаунта и профиля.",
+      "style_anchors": [
+        {
+          "source": "you ",
+          "target": "вам "
+        },
+        {
+          "source": "Account & Profile Upgrades ",
+          "target": "улучшений аккаунта и профиля"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.9",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ Ooh, and I'll also call you whenever a new FIRE Sale starts! You wouldn't want to miss that!",
+      "translation": "[NPC] Elizabeth: ✆ О, я ещё буду звонить вам, когда начнётся новая ОГНЕННАЯ распродажа! Такое нельзя пропускать!",
+      "style_anchors": [
+        {
+          "source": "FIRE ",
+          "target": "ОГНЕННАЯ "
+        },
+        {
+          "source": "Sale ",
+          "target": "распродажа"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.10",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ See you around!",
+      "translation": "[NPC] Elizabeth: ✆ До встречи!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.11",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ That's all, bye!",
+      "translation": "[NPC] Elizabeth: ✆ Это всё, до свидания!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.12",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ Give me a call back or swing by the Community Center in person to get your hands on it!",
+      "translation": "[NPC] Elizabeth: ✆ Чтобы сделать покупку, перезвоните мне или загляните в общественный центр лично!",
+      "style_anchors": [
+        {
+          "source": "Community Center ",
+          "target": "общественный центр "
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.13",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: ✆ Okay, bye now!",
+      "translation": "[NPC] Elizabeth: ✆ Ладно, до свидания!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.14",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: Eating a Booster Cookie also gives you the ability to earn Bits.",
+      "translation": "[NPC] Elizabeth: Съев печенье-усилитель, вы также сможете зарабатывать биты.",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie ",
+          "target": "печенье-усилитель"
+        },
+        {
+          "source": "Bits",
+          "target": "биты"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.15",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: You can spend your Bits in my Bits shop to purchase many useful items.",
+      "translation": "[NPC] Elizabeth: За биты в моём магазине битов можно купить много полезных предметов.",
+      "style_anchors": [
+        {
+          "source": "Bits",
+          "target": "биты",
+          "source_occurrence": 1
+        },
+        {
+          "source": "Bits",
+          "target": "битов",
+          "source_occurrence": 2
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.16",
+      "speaker": "Elizabeth",
+      "tag": "NPC",
+      "source": "[NPC] Elizabeth: That should be good enough regarding the Booster Cookie. I hope you enjoy using it!",
+      "translation": "[NPC] Elizabeth: На этом рассказ о печенье-усилителе закончен. Надеюсь, оно вам понравится!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье-усилителе"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elizabeth?oldid=830426",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.17",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Hey there, I'm Kat the Pet Sitter!",
+      "translation": "[NPC] Kat: Привет! Я Кэт, смотрительница питомцев!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.18",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: While you're busy adventuring I can take care of your pets.",
+      "translation": "[NPC] Kat: Пока ты занят приключениями, я могу позаботиться о твоих питомцах.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.19",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: I might even be able to give them new abilities!",
+      "translation": "[NPC] Kat: Может быть, я даже смогу научить их новым способностям!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.20",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: A flower? For me? How sweet!",
+      "translation": "[NPC] Kat: Цветок? Мне? Как мило!",
+      "style_anchors": [
+        {
+          "source": "flower",
+          "target": "Цветок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.21",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: A bouquet? For me? How sweet!",
+      "translation": "[NPC] Kat: Букет? Мне? Как мило!",
+      "style_anchors": [
+        {
+          "source": "bouquet",
+          "target": "Букет"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.22",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: ✆ Friends? Sure!",
+      "translation": "[NPC] Kat: ✆ Подружиться? Конечно!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.23",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: ✆ But hold on, I don't give my contact for everyone.",
+      "translation": "[NPC] Kat: ✆ Но погоди, я не раздаю свой номер кому попало.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.24",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: ✆ You don't have what I need! Nice try!",
+      "translation": "[NPC] Kat: ✆ У тебя нет того, что мне нужно! Неплохая попытка!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.25",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: ✆ Aww, you shouldn't have! :3",
+      "translation": "[NPC] Kat: ✆ Ой, ну зачем такие подарки! :3",
+      "style_anchors": [
+        {
+          "source": ":3",
+          "target": ":3"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.26",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: ✆ Hello?",
+      "translation": "[NPC] Kat: ✆ Алло?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.27",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: ✆ Do you want me to train your pet?",
+      "translation": "[NPC] Kat: ✆ Хочешь, чтобы я потренировала твоего питомца?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat?oldid=842631",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.28",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: It's so great you're here!",
+      "translation": "[NPC] Kat: Как же здорово, что ты здесь!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.29",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: I was hired to disinfest this house from the vermin.",
+      "translation": "[NPC] Kat: Меня наняли очистить этот дом от вредителей.",
+      "style_anchors": [
+        {
+          "source": "disinfest ",
+          "target": "очистить "
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.30",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Well, I can't do it myself!",
+      "translation": "[NPC] Kat: Ну, сама я с этим не справлюсь!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.31",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Turns out, I'm scared of insects.",
+      "translation": "[NPC] Kat: Оказывается, я боюсь насекомых.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.32",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: And I'm allergic to dust.",
+      "translation": "[NPC] Kat: А ещё у меня аллергия на пыль.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.33",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: And the cleaning contract was badly negotiated.",
+      "translation": "[NPC] Kat: И условия договора на уборку оказались невыгодными.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.34",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: And I have to watch over the disinfestor crew.",
+      "translation": "[NPC] Kat: И мне надо присматривать за бригадой дезинсекторов.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.35",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: And...",
+      "translation": "[NPC] Kat: И...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.36",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Yes, I suffer from arachnophobia, entomophobia and pteronarcophobia.",
+      "translation": "[NPC] Kat: Да, я страдаю арахнофобией, энтомофобией и птеронаркофобией.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.37",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: You're thinking of Kat the Pet Sitter.",
+      "translation": "[NPC] Kat: Ты путаешь меня с Кэт, смотрительницей питомцев.",
+      "style_anchors": [
+        {
+          "source": "Kat ",
+          "target": "Кэт"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.38",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: I'm Kat the Neuroscientist. I'm purple Kat!",
+      "translation": "[NPC] Kat: А я Кэт, нейробиолог. Я фиолетовая Кэт!",
+      "style_anchors": [
+        {
+          "source": "Kat ",
+          "target": "Кэт",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        },
+        {
+          "source": "Kat",
+          "target": "Кэт",
+          "source_occurrence": 2,
+          "target_occurrence": 2
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.39",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Quit stalling!",
+      "translation": "[NPC] Kat: Хватит тянуть время!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.40",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Am I being investigated?",
+      "translation": "[NPC] Kat: Ты что, меня допрашиваешь?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.41",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: You have to do this quest!",
+      "translation": "[NPC] Kat: Ты должен выполнить это задание!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.42",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Take my vacuum cleaner.",
+      "translation": "[NPC] Kat: Возьми мой пылесос.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.43",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Now please deal with the infestation problem.",
+      "translation": "[NPC] Kat: А теперь, пожалуйста, разберись с нашествием вредителей.",
+      "style_anchors": [
+        {
+          "source": "infestation ",
+          "target": "нашествием вредителей"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.44",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Vacuum the silverfishes, spiders and flies in the area.",
+      "translation": "[NPC] Kat: Собери пылесосом чешуйниц, пауков и мух поблизости.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.45",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Make sure to empty the vacuum in the Vermin Bin!",
+      "translation": "[NPC] Kat: Не забудь опустошить пылесос в бак для вредителей!",
+      "style_anchors": [
+        {
+          "source": "Vermin Bin",
+          "target": "бак для вредителей"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.46",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: How did you lose my vacuum?",
+      "translation": "[NPC] Kat: Как ты умудрился потерять мой пылесос?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.47",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Ok... take this replacement...",
+      "translation": "[NPC] Kat: Ладно... возьми другой...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.48",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: It's always good to be well equipped for the job ahead!",
+      "translation": "[NPC] Kat: К предстоящей работе всегда лучше подходить с хорошим снаряжением!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.49",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: We found this Ferret when cleaning the house.",
+      "translation": "[NPC] Kat: Мы нашли этого хорька, когда убирали дом.",
+      "style_anchors": [
+        {
+          "source": "Ferret ",
+          "target": "хорька"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.50",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: It's very scared and of course I don't know how to deal with pets.",
+      "translation": "[NPC] Kat: Он очень напуган, а я, разумеется, не знаю, как обращаться с питомцами.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.51",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: I think you should bring it with you to the overworld!",
+      "translation": "[NPC] Kat: Думаю, тебе стоит забрать его с собой в обычный мир!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.52",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: I've had this pile of unused diplomas for a while.",
+      "translation": "[NPC] Kat: Эта стопка невостребованных дипломов лежит у меня уже давно.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.53",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Don't ask me why and let's keep it between us.",
+      "translation": "[NPC] Kat: Не спрашивай почему, и пусть это останется между нами.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.54",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Hey you can't click that yet!",
+      "translation": "[NPC] Kat: Эй, туда пока нельзя нажимать!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.55",
+      "speaker": "Kat",
+      "tag": "NPC",
+      "source": "[NPC] Kat: Help me with the disinfestation and I'll give you a key!",
+      "translation": "[NPC] Kat: Помоги мне избавиться от вредителей, и я дам тебе ключ!",
+      "style_anchors": [
+        {
+          "source": "disinfestation",
+          "target": "избавиться от вредителей"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_(Rift)?oldid=828115",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc82.56",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: I am a conqueror. I've defeated everything from the Nether to the End and back.",
+      "translation": "[NPC] Elle of the Nether: Я завоевательница. Я одолела всех на пути от Незера до Энда и обратно.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    },
+    {
+      "source_key": "npc82.57",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: There's something about you I don't like. Perhaps it is your lack of fear for the great beast that is the Nether.",
+      "translation": "[NPC] Elle of the Nether: Что-то мне в тебе не нравится. Возможно, то, что ты не боишься такого великого чудовища, как Незер.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    },
+    {
+      "source_key": "npc82.58",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: I told you not to come crying to me.",
+      "translation": "[NPC] Elle of the Nether: Я же говорила: не приходи ко мне жаловаться.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    },
+    {
+      "source_key": "npc82.59",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: Collect nether wart and defeat blaze to collect blaze rods!",
+      "translation": "[NPC] Elle of the Nether: Собирай адский нарост и побеждай ифритов, чтобы получить огненные стержни!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    },
+    {
+      "source_key": "npc82.60",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: Collect glowstone, nether quartz, and magma cream to become a true master of the Nether.",
+      "translation": "[NPC] Elle of the Nether: Собирай светокамень, незер-кварц и сгустки магмы, чтобы стать настоящим повелителем Незера.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    },
+    {
+      "source_key": "npc82.61",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: I have defeated the Magma Boss more times than I can count!",
+      "translation": "[NPC] Elle of the Nether: Я побеждала магмового босса столько раз, что уже со счёта сбилась!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    },
+    {
+      "source_key": "npc82.62",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: Many of the creatures on this island drop useful brewing ingredients. Use them in a Brewing Stand to brew strong potions that will aid to your journey.",
+      "translation": "[NPC] Elle of the Nether: Из многих существ на этом острове выпадают полезные ингредиенты для зелий. Используй их в зельеварке, чтобы сварить сильные зелья, которые помогут тебе в путешествии.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    },
+    {
+      "source_key": "npc82.63",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: I don't know what would I do without my Fire Resistance Potions. Probably burn.",
+      "translation": "[NPC] Elle of the Nether: Не знаю, что бы я делала без своих зелий огнестойкости. Наверное, сгорела бы.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    },
+    {
+      "source_key": "npc82.64",
+      "speaker": "Elle of the Nether",
+      "tag": "NPC",
+      "source": "[NPC] Elle of the Nether: Use them in a Brewing Stand to brew strong potions that will aid in your journey.",
+      "translation": "[NPC] Elle of the Nether: Используй их в зельеварке, чтобы сварить сильные зелья, которые помогут тебе в путешествии.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle_of_the_Nether?oldid=815694",
+      "evidence": "historical_public_wiki_revision"
+    }
+  ]
+}

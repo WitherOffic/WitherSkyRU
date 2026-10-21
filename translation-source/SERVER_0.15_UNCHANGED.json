@@ -1,0 +1,6017 @@
+[
+  {
+    "source": "COMMON",
+    "occurrences": 4322,
+    "origins": [
+      "config/notenoughupdates/repo/items/ABIPHONE_BASIC.json",
+      "config/notenoughupdates/repo/items/ABSORB;1.json",
+      "config/notenoughupdates/repo/items/ACACIA_DOOR_ITEM.json",
+      "config/notenoughupdates/repo/items/ACACIA_FENCE.json",
+      "config/notenoughupdates/repo/items/ACACIA_FENCE_GATE.json",
+      "config/notenoughupdates/repo/items/ACACIA_STAIRS.json",
+      "config/notenoughupdates/repo/items/ACTIVATOR_RAIL.json",
+      "config/notenoughupdates/repo/items/AGARICUS_CAP.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "RARE",
+    "occurrences": 3848,
+    "origins": [
+      "config/notenoughupdates/repo/items/AATROX_BADPHONE.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_XII_MEGA.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_XII_MEGA_COLOR.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_XIII_PRO.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_XIII_PRO_GIGA.json",
+      "config/notenoughupdates/repo/items/ABSOLUTE_ENDER_PEARL.json",
+      "config/notenoughupdates/repo/items/ACACIA_GENERATOR_1.json",
+      "config/notenoughupdates/repo/items/ACACIA_GENERATOR_10.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "UNCOMMON",
+    "occurrences": 1888,
+    "origins": [
+      "config/notenoughupdates/repo/items/AATROX_BATPHONE.json",
+      "config/notenoughupdates/repo/items/AATROX_PHONE_NUMBER.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_X_PLUS.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_X_PLUS_SPECIAL_EDITION.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_XI_ULTRA.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_XI_ULTRA_STYLE.json",
+      "config/notenoughupdates/repo/items/AGARICUS_CAP_BUNCH.json",
+      "config/notenoughupdates/repo/items/AGARICUS_CHUM_CAP.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "EPIC",
+    "occurrences": 1309,
+    "origins": [
+      "config/notenoughupdates/repo/items/ABIPHONE_XIV_ENORMOUS.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_XIV_ENORMOUS_BLACK.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_XIV_ENORMOUS_PURPLE.json",
+      "config/notenoughupdates/repo/items/ADVENT_CALENDAR_DISPLAY.json",
+      "config/notenoughupdates/repo/items/ALCHEMIST_RECIPE.json",
+      "config/notenoughupdates/repo/items/ALLIGATOR_SKIN.json",
+      "config/notenoughupdates/repo/items/AMBER_POWER_SCROLL.json",
+      "config/notenoughupdates/repo/items/AMETHYST_POWER_SCROLL.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "LEGENDARY",
+    "occurrences": 599,
+    "origins": [
+      "config/notenoughupdates/repo/items/ABIPHONE_FLIP_DRAGON.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_FLIP_NUCLEUS.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_FLIP_PLUS_CLOCKWORK.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_FLIP_PLUS_FLOWER.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_FLIP_PLUS_LUNAR.json",
+      "config/notenoughupdates/repo/items/ABIPHONE_FLIP_VOLCANO.json",
+      "config/notenoughupdates/repo/items/ALLIGATOR_SC.json",
+      "config/notenoughupdates/repo/items/ARCHERY_CUBE.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "SPECIAL",
+    "occurrences": 411,
+    "origins": [
+      "config/notenoughupdates/repo/items/ABINGOPHONE.json",
+      "config/notenoughupdates/repo/items/AMBER_CRYSTAL.json",
+      "config/notenoughupdates/repo/items/AMETHYST_CRYSTAL.json",
+      "config/notenoughupdates/repo/items/ANCIENT_ELEVATOR.json",
+      "config/notenoughupdates/repo/items/AQUAMARINE_CRYSTAL.json",
+      "config/notenoughupdates/repo/items/AUTO_REVIVE_PERK_ITEM.json",
+      "config/notenoughupdates/repo/items/AUTOPET_RULES_2.json",
+      "config/notenoughupdates/repo/items/BACHELOR_ROSE.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "MYTHIC",
+    "occurrences": 153,
+    "origins": [
+      "config/notenoughupdates/repo/items/BLACK_WOOLEN_YARN.json",
+      "config/notenoughupdates/repo/items/BUCKET_OF_FROGSPAWN.json",
+      "config/notenoughupdates/repo/items/CAKE_SOUL.json",
+      "config/notenoughupdates/repo/items/ENCHANTED_TURBO_GOURD.json",
+      "config/notenoughupdates/repo/items/ENDERMAN_CORTEX_REWRITER.json",
+      "config/notenoughupdates/repo/items/FEATHER_FALLING;10.json",
+      "config/notenoughupdates/repo/items/FEATHER_FALLING;9.json",
+      "config/notenoughupdates/repo/items/FEROCIOUS_MANA;10.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "a SPECIAL a",
+    "occurrences": 65,
+    "origins": [
+      "config/notenoughupdates/repo/items/MAXED_ENCHANT_BOOK.json",
+      "config/notenoughupdates/repo/items/SKYBLOCK_BINGO_POINT.json",
+      "config/notenoughupdates/repo/items/SKYBLOCK_BIT.json",
+      "config/notenoughupdates/repo/items/SKYBLOCK_BRONZE_MEDAL.json",
+      "config/notenoughupdates/repo/items/SKYBLOCK_CARNIVAL_POINT.json",
+      "config/notenoughupdates/repo/items/SKYBLOCK_COPPER.json",
+      "config/notenoughupdates/repo/items/SKYBLOCK_CORPSE_LAPIS.json",
+      "config/notenoughupdates/repo/items/SKYBLOCK_CORPSE_TUNGSTEN.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "0.6x.",
+    "occurrences": 12,
+    "origins": [
+      "config/notenoughupdates/repo/items/SORROW_BOOTS.json",
+      "config/notenoughupdates/repo/items/SORROW_CHESTPLATE.json",
+      "config/notenoughupdates/repo/items/SORROW_HELMET.json",
+      "config/notenoughupdates/repo/items/SORROW_LEGGINGS.json",
+      "config/skyblocker/item-repo/items/SORROW_BOOTS.json",
+      "config/skyblocker/item-repo/items/SORROW_CHESTPLATE.json",
+      "config/skyblocker/item-repo/items/SORROW_HELMET.json",
+      "config/skyblocker/item-repo/items/SORROW_LEGGINGS.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "numeric_only"
+  },
+  {
+    "source": "B.I.N.G.O.",
+    "occurrences": 12,
+    "origins": [
+      "config/notenoughupdates/repo/items/BINGO_ARTIFACT.json",
+      "config/notenoughupdates/repo/items/BINGO_RELIC.json",
+      "config/notenoughupdates/repo/items/BINGO_RING.json",
+      "config/notenoughupdates/repo/items/BINGO_TALISMAN.json",
+      "config/skyblocker/item-repo/items/BINGO_ARTIFACT.json",
+      "config/skyblocker/item-repo/items/BINGO_RELIC.json",
+      "config/skyblocker/item-repo/items/BINGO_RING.json",
+      "config/skyblocker/item-repo/items/BINGO_TALISMAN.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Frosty",
+    "occurrences": 5,
+    "origins": [
+      "config/notenoughupdates/repo/constants/bestiary.json",
+      "config/skyblocker/item-repo/constants/bestiary.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Rusty",
+    "occurrences": 5,
+    "origins": [
+      "config/notenoughupdates/repo/items/TELEKINESIS;1.json",
+      "config/skyblocker/item-repo/items/TELEKINESIS;1.json",
+      "skyblock-repo-cache/enchantments.min.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text",
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "0/1M",
+    "occurrences": 4,
+    "origins": [
+      "config/notenoughupdates/repo/items/OWL;4.json",
+      "config/skyblocker/item-repo/items/OWL;4.json",
+      "skyblock-repo-cache/pets.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "numeric_only"
+  },
+  {
+    "source": "Crag",
+    "occurrences": 4,
+    "origins": [
+      "config/notenoughupdates/repo/items/FACTION_RABBIT_CRAG.json",
+      "config/skyblocker/item-repo/items/FACTION_RABBIT_CRAG.json",
+      "skyblock-repo-cache/items.min.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text",
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Plhlegblast",
+    "occurrences": 4,
+    "origins": [
+      "config/notenoughupdates/repo/constants/bestiary.json",
+      "config/skyblocker/item-repo/constants/bestiary.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Stray",
+    "occurrences": 4,
+    "origins": [
+      "config/notenoughupdates/repo/mobs/chillblade.json",
+      "config/notenoughupdates/repo/mobs/chillshot.json",
+      "config/skyblocker/item-repo/mobs/chillblade.json",
+      "config/skyblocker/item-repo/mobs/chillshot.json"
+    ],
+    "roles": [
+      "entity"
+    ],
+    "category": "entity_identifier"
+  },
+  {
+    "source": "!sepicer weiv ot kcilc-thgiR",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "config/skyblocker/item-repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": ".wohemoS",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/TINY_HAMMER.json",
+      "config/skyblocker/item-repo/items/TINY_HAMMER.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "3x.",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/MAGNETIC_TALISMAN.json",
+      "config/skyblocker/item-repo/items/MAGNETIC_TALISMAN.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "numeric_only"
+  },
+  {
+    "source": "AquaMaster™ Hydromax",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/AQUAMASTER_HYDROMAX.json",
+      "config/skyblocker/item-repo/items/AQUAMASTER_HYDROMAX.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "AquaMaster™ X",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/AQUAMASTER_X.json",
+      "config/skyblocker/item-repo/items/AQUAMASTER_X.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Bingonimbus 2000",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/BINGONIMBUS_2000.json",
+      "config/skyblocker/item-repo/items/BINGONIMBUS_2000.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Bob-omb",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/BOB_OMB.json",
+      "config/skyblocker/item-repo/items/BOB_OMB.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Cobble",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/FACTION_RABBIT_COBBLE.json",
+      "config/skyblocker/item-repo/items/FACTION_RABBIT_COBBLE.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "daeL",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/MIRRORED_LEASH.json",
+      "config/skyblocker/item-repo/items/MIRRORED_LEASH.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "doR gnihsiF",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/MIRRORED_FISHING_ROD.json",
+      "config/skyblocker/item-repo/items/MIRRORED_FISHING_ROD.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "ekaC yrutneC tfiR",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/EPOCH_CAKE_MAGENTA.json",
+      "config/skyblocker/item-repo/items/EPOCH_CAKE_MAGENTA.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "elabitur.",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/RETIA_SUPREMA.json",
+      "config/skyblocker/item-repo/items/RETIA_SUPREMA.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "ERAR",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "config/skyblocker/item-repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "eroC enotS egrofeR",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "config/skyblocker/item-repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "etalptsehC norI",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/ETALPTSEHC_NORI.json",
+      "config/skyblocker/item-repo/items/ETALPTSEHC_NORI.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "EZPZ",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/PAUL_MAYOR_MONSTER.json",
+      "config/skyblocker/item-repo/items/PAUL_MAYOR_MONSTER.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "FTX 3070",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/FTX_3070.json",
+      "config/skyblocker/item-repo/items/FTX_3070.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "gnirtS",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/MIRRORED_STRING.json",
+      "config/skyblocker/item-repo/items/MIRRORED_STRING.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "gorF",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/constants/bestiary.json",
+      "config/skyblocker/item-repo/constants/bestiary.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "Horizon",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/FACTION_RABBIT_HORIZON.json",
+      "config/skyblocker/item-repo/items/FACTION_RABBIT_HORIZON.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "hsiF ehT gorF",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/GORF_THE_FISH.json",
+      "config/skyblocker/item-repo/items/GORF_THE_FISH.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "HydroMax.",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/IRIDIUM.json",
+      "config/skyblocker/item-repo/items/IRIDIUM.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "kcitS",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/MIRRORED_STICK.json",
+      "config/skyblocker/item-repo/items/MIRRORED_STICK.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "knalP dooW kaO",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/MIRRORED_WOOD.json",
+      "config/skyblocker/item-repo/items/MIRRORED_WOOD.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "llabemilS",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/MIRRORED_SLIME_BALL.json",
+      "config/skyblocker/item-repo/items/MIRRORED_SLIME_BALL.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "Mistral",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/FACTION_RABBIT_MISTRAL.json",
+      "config/skyblocker/item-repo/items/FACTION_RABBIT_MISTRAL.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "mrahcemiT esrevrorriM",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/RIFT_TROPHY_MIRRORED.json",
+      "config/skyblocker/item-repo/items/RIFT_TROPHY_MIRRORED.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "Pickson.",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/ALPHA_PICK.json",
+      "config/skyblocker/item-repo/items/ALPHA_PICK.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "PlantBoy Advance",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/PLANTBOY_ADVANCE.json",
+      "config/skyblocker/item-repo/items/PLANTBOY_ADVANCE.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "remmaH yniT",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/TINY_HAMMER.json",
+      "config/skyblocker/item-repo/items/TINY_HAMMER.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "siht si htrae no tahW",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "config/skyblocker/item-repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "SkyBlock.",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/FUDGE_MINT_CORE.json",
+      "config/skyblocker/item-repo/items/FUDGE_MINT_CORE.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "VERY SPECIAL",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/GAME_ANNIHILATOR.json",
+      "config/skyblocker/item-repo/items/GAME_ANNIHILATOR.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "woB",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/MIRRORED_BOW.json",
+      "config/skyblocker/item-repo/items/MIRRORED_BOW.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "displayname",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "⸮morf emoc ti did erehw dna ,gniht",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "config/skyblocker/item-repo/items/REVERSE_REFORGE_STONE_CORE.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "⸮tibbiR",
+    "occurrences": 3,
+    "origins": [
+      "config/notenoughupdates/repo/items/GORF_THE_FISH.json",
+      "config/skyblocker/item-repo/items/GORF_THE_FISH.json",
+      "skyblock-repo-cache/items.min.json"
+    ],
+    "roles": [
+      "lore",
+      "text"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "- Ascynx, CrypticPlasma, Cobble8,",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- Ascynx, godofpro, KingsRabbit,",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- CarelessHippo, Vixid, CalMWolfs,",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- DeDiamondPro, DoKM, Soopyboo32,",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- efefury, hannibal2, CrypticPlasma,",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- hasnu777, bestower apotato1",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- IRONM00N, Lulonaut",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- jani270, nopothegamer",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- lulonaut, dokm, georgefw",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- mistercheezecake, seraid",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- MisterCheezeCake, Swedengamer100, lucy",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- MotorGorilla1, Erymanthus",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- nopo, jani270, nea89,",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- t.y.y, demon.core",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- ThatGravyBoat, CraftyOldMiner, whalker,",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- thatgravyboat, ironm00n",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "- TymanWasTaken, apotato321, Some1sm",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/misc.json",
+      "config/skyblocker/item-repo/constants/misc.json"
+    ],
+    "roles": [
+      "lore"
+    ],
+    "category": "player_credits"
+  },
+  {
+    "source": "Backwater Bayou(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Crimson Isle(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Crystal Hollows(?: - Entrance)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Damia",
+    "occurrences": 2,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Deep Caverns(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Dungeon Hub(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Dwarven Mines(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Eisengolem",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/mobs/endstone_protector.json",
+      "config/skyblocker/item-repo/mobs/endstone_protector.json"
+    ],
+    "roles": [
+      "entity"
+    ],
+    "category": "entity_identifier"
+  },
+  {
+    "source": "Eleanor",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/rift_guide.json",
+      "config/skyblocker/item-repo/constants/rift_guide.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Eleanor I",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/rift_guide.json",
+      "config/skyblocker/item-repo/constants/rift_guide.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Eleanor IX",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/rift_guide.json",
+      "config/skyblocker/item-repo/constants/rift_guide.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Eleanor V",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/rift_guide.json",
+      "config/skyblocker/item-repo/constants/rift_guide.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Eleanor VII",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/rift_guide.json",
+      "config/skyblocker/item-repo/constants/rift_guide.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Eleanor X",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/rift_guide.json",
+      "config/skyblocker/item-repo/constants/rift_guide.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Elise",
+    "occurrences": 2,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Epic",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/reforges.json",
+      "config/skyblocker/item-repo/constants/reforges.json"
+    ],
+    "roles": [
+      "reforgeName"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "Fairylosopher",
+    "occurrences": 2,
+    "origins": [
+      "config/skyhanni/repo/constants/EnigmaSouls.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Fleespook",
+    "occurrences": 2,
+    "origins": [
+      "config/skyhanni/repo/constants/EnigmaSouls.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gold Mine(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Hendrik",
+    "occurrences": 2,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Hoglin",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/mobs/honeyhog.json",
+      "config/skyblocker/item-repo/mobs/honeyhog.json"
+    ],
+    "roles": [
+      "entity"
+    ],
+    "category": "entity_identifier"
+  },
+  {
+    "source": "Legendary",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/reforges.json",
+      "config/skyblocker/item-repo/constants/reforges.json"
+    ],
+    "roles": [
+      "reforgeName"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "Lotus Atoll(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Moonglade Marsh(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Mythic",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/reforges.json",
+      "config/skyblocker/item-repo/constants/reforges.json"
+    ],
+    "roles": [
+      "reforgeName"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "Roy",
+    "occurrences": 2,
+    "origins": [
+      "config/skyhanni/repo/constants/EnigmaSouls.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Seymour",
+    "occurrences": 2,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Shania",
+    "occurrences": 2,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "SiNelverfish",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/mobs/necron.json",
+      "config/skyblocker/item-repo/mobs/necron.json"
+    ],
+    "roles": [
+      "entity"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "SkeletonHorse",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/mobs/skeletonhorse.json",
+      "config/skyblocker/item-repo/mobs/skeletonhorse.json"
+    ],
+    "roles": [
+      "entity"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Sniffer",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/mobs/hewver.json",
+      "config/skyblocker/item-repo/mobs/hewver.json"
+    ],
+    "roles": [
+      "entity"
+    ],
+    "category": "entity_identifier"
+  },
+  {
+    "source": "Spider's Den(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Strider",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/mobs/stridersurfer.json",
+      "config/skyblocker/item-repo/mobs/stridersurfer.json"
+    ],
+    "roles": [
+      "entity"
+    ],
+    "category": "entity_identifier"
+  },
+  {
+    "source": "Taylor",
+    "occurrences": 2,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Tel Kar",
+    "occurrences": 2,
+    "origins": [
+      "config/skyhanni/repo/constants/EnigmaSouls.json",
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "The Barn(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "The End(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "The Park(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "The Rift(?: - Wizard Tower)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Tiki",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/bestiary.json",
+      "config/skyblocker/item-repo/constants/bestiary.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Torrhus Canyon(?: - Spawn)?",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/fast_travel/fast_travel.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Volt",
+    "occurrences": 2,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "XYZ",
+    "occurrences": 2,
+    "origins": [
+      "config/notenoughupdates/repo/constants/attribute_shards.json",
+      "config/skyblocker/item-repo/constants/attribute_shards.json"
+    ],
+    "roles": [
+      "displayName"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Alchemy Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/alchemy/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Carpentry Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/carpentry/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Combat Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/combat/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Enchanting Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/enchanting/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Farming Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/farming/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Fishing Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/fishing/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Foraging Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/foraging/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Hunting Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/hunting/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Mining Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/mining/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Runecrafting Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/runecrafting/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Social Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/social/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "☯ Taming Wisdom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/wisdom/taming/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Attack Speed [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/attack_speed/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Ability Damage [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/ability_damage/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Intelligence [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/intelligence/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Mana Regen [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/rift/mana_regen/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Breaking Power [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/breaking_power/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Cold Resistance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/cold_resistance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Crit Damage [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/crit_damage/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Defense [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/defense/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Double Hook Chance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/fishing/double_hook_chance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Fear [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/fear/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Ferocity [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/ferocity/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Fishing Speed [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/fishing/fishing_speed/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Strength [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/strength/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Gemstone Spread [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/gemstone_spread/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Health [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/health/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Health Regen [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/health_regen/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Heat Resistance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/heat_resistance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Pet Luck [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/pet_luck/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Mending [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/mending/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Mining Speed [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/mining_speed/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Mining Spread [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/mining_spread/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Bonus Pest Chance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/bonus_pest_chance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Magic Find [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/magic_find/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Pressure Resistance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/pressure_resistance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Pristine [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/pristine/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Respiration [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/respiration/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Rift Damage [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/rift/rift_damage/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Hearts [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/rift/hearts/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Rift Time [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/rift/rift_time/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Sea Creature Chance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/fishing/sea_creature_chance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Speed [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/speed/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Sweep [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/foraging/sweep/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Swing Range [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/swing_range/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Treasure Chance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/fishing/treasure_chance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " True Defense [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/true_defense/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Vitality [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/vitality/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Trophy Chance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/fishing/trophy_chance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Overbloom [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/overbloom/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Crit Chance [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/combat/crit_chance/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Pull [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/hunting/pull/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Cactus Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/cactus_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Carrot Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/carrot_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Farming Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/farming_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Moonflower Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/moonflower_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Mushroom Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/mushroom_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Nether Wart Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/nether_wart_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Potato Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/potato_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Pumpkin Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/pumpkin_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Sugar Cane Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/sugar_cane_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Sunflower Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/sunflower_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Wheat Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/wheat_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Wild Rose Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/wild_rose_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Block Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/block_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Dwarven Metal Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/dwarven_metal_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Gemstone Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/gemstone_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Mining Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/mining_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Ore Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/mining/ore_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Fig Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/foraging/fig_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Foraging Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/foraging/foraging_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Mangrove Fortune [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/foraging/mangrove_fortune/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Tracking [\\d,.]+",
+    "occurrences": 2,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/miscellaneous/tracking/stats.json",
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "(?:(?:Late|Early) )?(?:Spring|Summer|Autumn|Winter), Year \\d+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skyblock_menu/calendar.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": ".+Backpack \\(Slot #[\\d]+\\)",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/storage/backpack.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": ".+Equipment Sets",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/equipment_sets.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": ".+Minion [IVXLC]+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/minion/minion.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Alchemy Recipes",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/recipe_book/alchemy/alchemy.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Catacombs \\(F7\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/f7/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Catacombs \\(M7\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/m7/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Experimentation Table RNG",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/experimentation_table/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Farming Recipes",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/recipe_book/farming/farming.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Fishing Recipes",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/recipe_book/fishing/fishing.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Foraging Recipes",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/recipe_book/foraging/foraging.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Inferno Demonlord Recipes",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/recipe_book/slayer/inferno_demonlord/inferno_demonlord.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Mining Recipes",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/recipe_book/mining/mining.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\(\\d+?\\/\\d+?\\) Voidgloom Seraph Recipes",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/recipe_book/slayer/voidgloom_seraph/voidgloom_seraph.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\d+(?:st|nd|rd|th) Election Booth Opens",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skyblock_menu/calendar_and_events.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\d+(?:st|nd|rd|th) Election Over!",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skyblock_menu/calendar_and_events.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\d+(?:st|nd|rd|th) Hoppity's Hunt",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skyblock_menu/calendar_and_events.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\d+(?:st|nd|rd|th) New Year Celebration",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skyblock_menu/calendar_and_events.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\d+(?:st|nd|rd|th) Season of Jerry",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skyblock_menu/calendar_and_events.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "\\d+(?:st|nd|rd|th) Spooky Festival",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skyblock_menu/calendar_and_events.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "AGING_ITEMS",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/misc/EnchantedClock.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Agnes",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Alan",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Alatar",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Albert",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Alda",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Alwin",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Amaury",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Amelia",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "An",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Andrea",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Andrew",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Aranya",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Arba",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Arbadak",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Arch",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Archer(?: \\d+)?",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skills/dungeoneering/dungeoneering.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Archie",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Argofay Branchstrutter",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Argofay Threebrother 1",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Argofay Threebrother 2",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Argofay Threebrother 3",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Arora",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Arthur",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ashera",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "at.hannibal2.skyhanni.data.MiningApi.onBlockChange(at.hannibal2.skyhanni.events.ServerBlockChangeEvent)",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/DisabledEvents.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "at.hannibal2.skyhanni.data.MiningApi.onBlockClick(at.hannibal2.skyhanni.events.BlockClickEvent)",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/DisabledEvents.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "at.hannibal2.skyhanni.data.MiningApi.onPlaySound(at.hannibal2.skyhanni.events.PlaySoundEvent)",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/DisabledEvents.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Auryon",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Aviar",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Avorius",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Baar",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Barter",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bazaar ➜ (Farming|Mining|Combat|Woods & Fishes|Oddities|\".+\")",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/bazaar/bazaar.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Bea",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bednom",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Belanor",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Berserk(?: \\d+)?",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skills/dungeoneering/dungeoneering.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Biblio",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Billy Joe",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bobby Joe",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bomin",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Boris",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Brian",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Brigette",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bromm",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bruto",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bruuh",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Brynmor",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bubu",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bulvar",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Bylma",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Calvin",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Carly",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Carrolyn",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Catacombs \\(F1\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/f1/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(F2\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/f2/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(F3\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/f3/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(F4\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/f4/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(F5\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/f5/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(F6\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/f6/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(M1\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/m1/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(M2\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/m2/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(M3\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/m3/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(M4\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/m4/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(M5\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/m5/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Catacombs \\(M6\\) RNG Meter",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/rng_meter/catacombs/m6/rng_meter.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Chantelle",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Charlie",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Chester",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Chihai",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "CHOCOLATE_FACTORY",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/misc/EnchantedClock.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Christopher",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Chunk",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Colore",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Coral",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Corm",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Cosmo",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Croesus",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Crossed",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/dungeons/LividSolver.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Cryptosis",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Cyndarin",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Dackinoru",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Dalbrek",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "David Hunterborough",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Dax",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Dean",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Dev Env",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/Launchers.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Dory",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Doug",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Drakuu",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Dulin",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Duncan",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Edelis",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Einary",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Elle",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Elmar",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ender Chest \\([\\d]+\\/[\\d]+\\)",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/storage/enderchest.json"
+    ],
+    "roles": [
+      "title"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Erihann",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ezekiel",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Fafnir",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Fann",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Feather Client",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/Launchers.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Felix",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Fetchur",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Finplex",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Fragilis",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Fred",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Freddy",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Garden Level [XIV]+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skills/farming.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Garden Level \\d+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skills/farming.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Garlacius",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gary",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gavin",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gemma",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Geo",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "George",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gerald",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gimley",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gnyl",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gorf",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gregory",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Grelius",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gris",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Grog",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Guber",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Guildford",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gulliver",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gunther",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gustave",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Guy",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gwendolyn",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Gwynnie",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Hattie",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Haymitch",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Healer(?: \\d+)?",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skills/dungeoneering/dungeoneering.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Helia",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Hilda",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Hina",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Hockey",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/dungeons/LividSolver.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Hootie",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Hornum",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "HYPIXEL DISCORD",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Ian",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Igor",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Igrupan",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ike",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ikrus",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/EnigmaSouls.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ivan",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ivy",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jack",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jacobus",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jacquelle",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jaeger",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jake",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jamie",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jax",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jim Bob",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jimmy",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jine",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Joey McPizza",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Jonesy",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Karis",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Kaus",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Kay",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Keran",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Kheharad",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Kiara",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Krevius",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Kutral",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Kysha",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Lasea",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Lazarus",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Leo",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Liam",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Liz",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Loras",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Lucius",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ludleth",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Lumina",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Lunar Client",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/Launchers.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Lynn",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Lys",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Maaike",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Mage(?: \\d+)?",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skills/dungeoneering/dungeoneering.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Malik",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Marco",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Marthos",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Martin",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Mason",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Maxim",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Maxwell",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Mazakala",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Michael",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Minikloon",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "MINIONS",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/misc/EnchantedClock.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Miria",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "MMage OutlawM",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Moby",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Modrinth",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/Launchers.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Mollim",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "MultiMC",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/Launchers.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Nall",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Nemo",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Nene",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Next Page|(?:Levels|Mastery) \\d+ - \\d+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/generic/generic.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Nicole",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Odawa",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Oden",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Odexar",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Oen",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Offea",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ophelia",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "OreMinedEvent",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/DisabledEvents.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Oringo",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ozanne",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Pablo",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Pam",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Pat",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "PET_SITTER",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/misc/EnchantedClock.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "PET_TRAINING",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/misc/EnchantedClock.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Phaser",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Plenk",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Pomtair",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Porc",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Porhtal",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Prie",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Prism",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/Launchers.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Puzzler",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Reed",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Rhanora",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Rhys",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Richard",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Rick",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Roger",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Rollim",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Rornora",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Rosemary",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Rulenor",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ryan",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ryu",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Sanger",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Sargwyn",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Sawyer",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Scoop",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Seffea",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Selenar",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Shaggy",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Sherry",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Shifty",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Silnar",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Sirih",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Sirius",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Slot.+Belt",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/equipment_sets.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Slot.+Boots",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/armor_sets.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Slot.+Chestplate",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/armor_sets.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Slot.+Cloak",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/equipment_sets.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Slot.+Gloves/Bracelet",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/equipment_sets.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Slot.+Helmet",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/armor_sets.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Slot.+Leggings",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/armor_sets.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Slot.+Necklace",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/loadouts/equipment_sets.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Stella",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Strux",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Supreme",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/FameRank.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "intentional_english_rarity"
+  },
+  {
+    "source": "Suus",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Tal Ker",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Talbot",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Talia",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Tammy",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Tank(?: \\d+)?",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skills/dungeoneering/dungeoneering.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Tarwen",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Teddy",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Terry",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "The Catacombs(?: \\d+)?",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/skills/dungeoneering/dungeoneering.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Tilus",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "To .+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/bazaar/subtabs/subtabs.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Tom",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Tomioka",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Tony",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Trevor",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Truu",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "ttemme .rD",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "mirrored_puzzle"
+  },
+  {
+    "source": "Tybalt",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Tyzzo",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ubik Von Neumann",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Udel",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Udium",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ulyn",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Vaeri",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Vanessa",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Vanilla Launcher",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/Launchers.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "brand"
+  },
+  {
+    "source": "Velyna",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Vendetta",
+    "occurrences": 1,
+    "origins": [
+      "config/skyhanni/repo/constants/dungeons/LividSolver.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Vesuvius",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Vex",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Vincent",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Vreike",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Vulcan",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Walter",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Winona",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Yoink",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Yoshua",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "You need [\\d]+ more.+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/minion/minion.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": "Zarina",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Ziri",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Zodd",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": "Zog",
+    "occurrences": 1,
+    "origins": [
+      "skyblock-repo-cache/mobs.min.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "proper_name_candidate"
+  },
+  {
+    "source": " Cocoa Beans Fortune [\\d,.]+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Cocoa Fortune [\\d,.]+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/cocoa_beans_fortune/stats.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Melon Fortune [\\d,.]+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/farming/melon_fortune/stats.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Melon Slice Fortune [\\d,.]+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Hunter Fortune [\\d,.]+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/your_stats_breakdown.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  },
+  {
+    "source": " Hunting Fortune [\\d,.]+",
+    "occurrences": 1,
+    "origins": [
+      "catharsis-repo-cache/guis/stats/hunting/hunting_fortune/stats.json"
+    ],
+    "roles": [
+      "name"
+    ],
+    "category": "technical_pattern_or_identifier"
+  }
+]

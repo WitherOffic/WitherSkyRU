@@ -1,0 +1,3972 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "316 authored NPC literals across142 labels. Pinned public sources including archival mayor material;not live/private completeness. Startup merge into existing story provider.",
+  "records": [
+    {
+      "source_key": "npc100.0",
+      "speaker": "Mayor Aatrox",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Aatrox: Thank for voting me mayor. Me need food.",
+      "translation": "[NPC] Mayor Aatrox: Спасибо, что выбрать меня мэром. Мне нужна еда.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Aatrox?oldid=842882",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.1",
+      "speaker": "Mayor Aatrox",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Aatrox: You slay.",
+      "translation": "[NPC] Mayor Aatrox: Ты убивать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Aatrox?oldid=842882",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.2",
+      "speaker": "Mayor Aatrox",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Aatrox: Me find you.",
+      "translation": "[NPC] Mayor Aatrox: Я тебя найти.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Aatrox?oldid=842882",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.3",
+      "speaker": "Alabaster",
+      "tag": "NPC",
+      "source": "[NPC] Alabaster: I don't know who the supplier is, but I know someone who does.",
+      "translation": "[NPC] Alabaster: Я не знаю, кто поставщик, но знаю того, кто знает.",
+      "style_anchors": [
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alabaster?oldid=812492",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.4",
+      "speaker": "Alabaster",
+      "tag": "NPC",
+      "source": "[NPC] Alabaster: I can tell you their name for 20 Motes.",
+      "translation": "[NPC] Alabaster: За 20 пылинок я назову тебе его имя.",
+      "style_anchors": [
+        {
+          "source": "20 Motes",
+          "target": "20 пылинок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alabaster?oldid=812492",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.5",
+      "speaker": "Alabaster",
+      "tag": "NPC",
+      "source": "[NPC] Alabaster: I heard that Dackinoru might know who the supplier is.",
+      "translation": "[NPC] Alabaster: Слышал, Дакинору может знать, кто поставщик.",
+      "style_anchors": [
+        {
+          "source": "Dackinoru",
+          "target": "Дакинору"
+        },
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alabaster?oldid=812492",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.6",
+      "speaker": "Argofay Bugshopper",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Bugshopper: Uh... talk to Bughunter first.",
+      "translation": "[NPC] Argofay Bugshopper: Эм... сначала поговори с охотником за жуками.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Bugshopper?oldid=815463",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.7",
+      "speaker": "Argofay Bugshopper",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Bugshopper: Awkward!",
+      "translation": "[NPC] Argofay Bugshopper: Неловко!",
+      "style_anchors": [
+        {
+          "source": "Awkward!",
+          "target": "Неловко!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Bugshopper?oldid=815463",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.8",
+      "speaker": "Argofay Doorholder",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Doorholder: You can enter here only if you obtained the Supreme Timecharm.",
+      "translation": "[NPC] Argofay Doorholder: Сюда можно войти, только получив Высший оберег времени.",
+      "style_anchors": [
+        {
+          "source": "Supreme Timecharm",
+          "target": "Высший оберег времени"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Doorholder?oldid=786753",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.9",
+      "speaker": "Argofay Doorholder",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Doorholder: Oh! Very well then, you may enter.",
+      "translation": "[NPC] Argofay Doorholder: О! Что ж, тогда можешь войти.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Doorholder?oldid=786753",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.10",
+      "speaker": "Argofay Doorholder",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Doorholder: Wizardman is waiting for you in his bureau.",
+      "translation": "[NPC] Argofay Doorholder: Волшебник ждёт тебя в своём кабинете.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Doorholder?oldid=786753",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.11",
+      "speaker": "Argofay Serialbather",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Serialbather: Can't you see I'm busy?",
+      "translation": "[NPC] Argofay Serialbather: Не видишь, я занят?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Serialbather?oldid=815464",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.12",
+      "speaker": "Argofay Serialbather",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Serialbather: Yes, I'm totally an alchemist...",
+      "translation": "[NPC] Argofay Serialbather: Да-да, я, конечно же, алхимик...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Serialbather?oldid=815464",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.13",
+      "speaker": "Argofay Serialbather",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Serialbather: Here, I've been marinating this potion.",
+      "translation": "[NPC] Argofay Serialbather: Вот, я как раз выдерживал это зелье.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Serialbather?oldid=815464",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.14",
+      "speaker": "Argofay Tencounter",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Tencounter: That was 10 seconds.",
+      "translation": "[NPC] Argofay Tencounter: Прошло 10 секунд.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Tencounter?oldid=786756",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.15",
+      "speaker": "Argofay Trailblazer",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Trailblazer: Why do bees hum?",
+      "translation": "[NPC] Argofay Trailblazer: Почему пчёлы жужжат?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Trailblazer?oldid=786759",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.16",
+      "speaker": "Argofay Trailblazer",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Trailblazer: They don't remember the lyrics!",
+      "translation": "[NPC] Argofay Trailblazer: Они не помнят слов песни!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Trailblazer?oldid=786759",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.17",
+      "speaker": "Argofay Trailblazer",
+      "tag": "NPC",
+      "source": "[NPC] Argofay Trailblazer: Get up there!",
+      "translation": "[NPC] Argofay Trailblazer: Забирайся наверх!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Trailblazer?oldid=786759",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.18",
+      "speaker": "Ashera",
+      "tag": "NPC",
+      "source": "[NPC] Ashera: I don't know who the supplier is, but I know someone who does.",
+      "translation": "[NPC] Ashera: Я не знаю, кто поставщик, но знаю того, кто знает.",
+      "style_anchors": [
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ashera?oldid=812562",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.19",
+      "speaker": "Ashera",
+      "tag": "NPC",
+      "source": "[NPC] Ashera: I can tell you their name for 20 Motes.",
+      "translation": "[NPC] Ashera: За 20 пылинок я назову тебе его имя.",
+      "style_anchors": [
+        {
+          "source": "20 Motes",
+          "target": "20 пылинок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ashera?oldid=812562",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.20",
+      "speaker": "Ashera",
+      "tag": "NPC",
+      "source": "[NPC] Ashera: I heard that Garlacius might know who the supplier is.",
+      "translation": "[NPC] Ashera: Слышала, Гарлаций может знать, кто поставщик.",
+      "style_anchors": [
+        {
+          "source": "Garlacius",
+          "target": "Гарлаций"
+        },
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ashera?oldid=812562",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.21",
+      "speaker": "Autonull",
+      "tag": "NPC",
+      "source": "[NPC] Autonull: Chirr-chirr-bing-bong Living Timecharm?",
+      "translation": "[NPC] Autonull: Чирр-чирр-динь-дон Живой оберег времени?",
+      "style_anchors": [
+        {
+          "source": "Chirr-chirr-bing-bong",
+          "target": "Чирр-чирр-динь-дон"
+        },
+        {
+          "source": "Living Timecharm",
+          "target": "Живой оберег времени"
+        },
+        {
+          "source": "?",
+          "target": "?"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Autonull_(NPC)?oldid=828102",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.22",
+      "speaker": "Autonull",
+      "tag": "NPC",
+      "source": "[NPC] Autonull: Zzt-zzt-vrrrrrm-tink...",
+      "translation": "[NPC] Autonull: Ззт-ззт-вр-р-р-дзинь...",
+      "style_anchors": [
+        {
+          "source": "Zzt-zzt-vrrrrrm-tink...",
+          "target": "Ззт-ззт-вр-р-р-дзинь..."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Autonull_(NPC)?oldid=828102",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.23",
+      "speaker": "Autonull",
+      "tag": "NPC",
+      "source": "[NPC] Autonull: Ting-ting-krzzzph!",
+      "translation": "[NPC] Autonull: Динь-динь-кр-ззз-пф!",
+      "style_anchors": [
+        {
+          "source": "Ting-ting-krzzzph!",
+          "target": "Динь-динь-кр-ззз-пф!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Autonull_(NPC)?oldid=828102",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.24",
+      "speaker": "Bartender",
+      "tag": "NPC",
+      "source": "[NPC] Bartender: ✆ You go and reach Spider Slayer 9, and I'll add you. How's that sound?",
+      "translation": "[NPC] Bartender: ✆ Достигни 9-го уровня истребителя пауков, и я тебя добавлю. Как тебе?",
+      "style_anchors": [
+        {
+          "source": "Spider Slayer 9",
+          "target": "9-го уровня истребителя пауков"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bartender?oldid=830399",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.25",
+      "speaker": "Belanor",
+      "tag": "NPC",
+      "source": "[NPC] Belanor: Deposit your Coins before the Mushroom Bulls get to you!",
+      "translation": "[NPC] Belanor: Положи монеты в банк, пока до тебя не добрались грибные быки!",
+      "style_anchors": [
+        {
+          "source": "Coins",
+          "target": "монеты"
+        },
+        {
+          "source": "Mushroom Bulls",
+          "target": "грибные быки"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Belanor?oldid=812656",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.26",
+      "speaker": "Bingo",
+      "tag": "NPC",
+      "source": "[NPC] Bingo: Good luck this week. And remember...haaaaave fun with it!",
+      "translation": "[NPC] Bingo: Удачи на этой неделе. И помни... развлека-а-айся!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)?oldid=815507",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.27",
+      "speaker": "Blobbercyst",
+      "tag": "NPC",
+      "source": "[NPC] Blobbercyst: Squish-squorp-plop Globulate Timecharm gloop-glop-blurp?",
+      "translation": "[NPC] Blobbercyst: Хлюп-хлюп-плюх Шаровидный оберег времени буль-буль-хлюп?",
+      "style_anchors": [
+        {
+          "source": "Squish-squorp-plop",
+          "target": "Хлюп-хлюп-плюх"
+        },
+        {
+          "source": "Globulate Timecharm",
+          "target": "Шаровидный оберег времени"
+        },
+        {
+          "source": "gloop-glop-blurp?",
+          "target": "буль-буль-хлюп?"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blobbercyst_(NPC)?oldid=828103",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.28",
+      "speaker": "Blobbercyst",
+      "tag": "NPC",
+      "source": "[NPC] Blobbercyst: Squelch-squish-gurgle blob-blob-splort slurp-slop-squidge.",
+      "translation": "[NPC] Blobbercyst: Хлюп-чавк-бульк плюх-плюх-хлюп чавк-плюх-хлюп.",
+      "style_anchors": [
+        {
+          "source": "Squelch-squish-gurgle blob-blob-splort slurp-slop-squidge.",
+          "target": "Хлюп-чавк-бульк плюх-плюх-хлюп чавк-плюх-хлюп."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blobbercyst_(NPC)?oldid=828103",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.29",
+      "speaker": "Bob",
+      "tag": "NPC",
+      "source": "[NPC] Bob: Oi, get back in line!",
+      "translation": "[NPC] Bob: Эй, вернись в очередь!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bob?oldid=787567",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.30",
+      "speaker": "Bruto",
+      "tag": "NPC",
+      "source": "[NPC] Bruto: Deposit your Coins before the Flaming Spiders get to you!",
+      "translation": "[NPC] Bruto: Положи монеты в банк, пока до тебя не добрались пылающие пауки!",
+      "style_anchors": [
+        {
+          "source": "Coins",
+          "target": "монеты"
+        },
+        {
+          "source": "Flaming Spiders",
+          "target": "пылающие пауки"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bruto?oldid=812774",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.31",
+      "speaker": "Bubu",
+      "tag": "NPC",
+      "source": "[NPC] Bubu: You'll be needing some stronger pickaxes to mine down here!",
+      "translation": "[NPC] Bubu: Для добычи здесь понадобятся кирки покрепче!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bubu?oldid=856555",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.32",
+      "speaker": "Bubu",
+      "tag": "NPC",
+      "source": "[NPC] Bubu: Conveniently for you, I've got just what you need!",
+      "translation": "[NPC] Bubu: На твоё счастье, у меня есть именно то, что нужно!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bubu?oldid=856555",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.33",
+      "speaker": "Bylma",
+      "tag": "NPC",
+      "source": "[NPC] Bylma: According to the legends, this bridge is very big.",
+      "translation": "[NPC] Bylma: Согласно легендам, этот мост очень большой.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bylma?oldid=787705",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.34",
+      "speaker": "Calvin",
+      "tag": "NPC",
+      "source": "[NPC] Calvin: Hey, welcome back to Hypixel SkyBlock!",
+      "translation": "[NPC] Calvin: Привет, с возвращением в Hypixel SkyBlock!",
+      "style_anchors": [
+        {
+          "source": "Hypixel SkyBlock",
+          "target": "Hypixel SkyBlock"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Calvin?oldid=857885",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.35",
+      "speaker": "Calvin",
+      "tag": "NPC",
+      "source": "[NPC] Calvin: While you were gone, I prepared a small gift for you.",
+      "translation": "[NPC] Calvin: Пока тебя не было, я приготовил для тебя небольшой подарок.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Calvin?oldid=857885",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.36",
+      "speaker": "Calvin",
+      "tag": "NPC",
+      "source": "[NPC] Calvin: Hope to see you around!",
+      "translation": "[NPC] Calvin: Надеюсь, ещё увидимся!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Calvin?oldid=857885",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.37",
+      "speaker": "Campfire Initiate",
+      "tag": "NPC",
+      "source": "[NPC] Campfire Initiate: Hey I'm just here cause Ryan promised marshmallows.",
+      "translation": "[NPC] Campfire Initiate: Эй, я здесь только потому, что Райан обещал зефир.",
+      "style_anchors": [
+        {
+          "source": "Ryan",
+          "target": "Райан"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Campfire_Initiate?oldid=812807",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.38",
+      "speaker": "Campfire Initiate",
+      "tag": "NPC",
+      "source": "[NPC] Campfire Initiate: Prove yourself in the Trials of Fire!",
+      "translation": "[NPC] Campfire Initiate: Докажи свою силу в Испытаниях огня!",
+      "style_anchors": [
+        {
+          "source": "Trials of Fire",
+          "target": "Испытаниях огня"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Campfire_Initiate?oldid=812807",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.39",
+      "speaker": "Campfire Initiate",
+      "tag": "NPC",
+      "source": "[NPC] Campfire Initiate: Some call us the campfire cult!",
+      "translation": "[NPC] Campfire Initiate: Некоторые называют нас культом костра!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Campfire_Initiate?oldid=812807",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.40",
+      "speaker": "Carly",
+      "tag": "NPC",
+      "source": "[NPC] Carly: You gotta be careful ‘round these parts.",
+      "translation": "[NPC] Carly: В этих краях нужно быть осторожнее.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carly?oldid=787743",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.41",
+      "speaker": "Carly",
+      "tag": "NPC",
+      "source": "[NPC] Carly: Lotsa dangerous stuff livin’ in this here bayou.",
+      "translation": "[NPC] Carly: Много опасных тварей водится в этой заводи.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carly?oldid=787743",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.42",
+      "speaker": "Carly",
+      "tag": "NPC",
+      "source": "[NPC] Carly: ‘ere, take a look!",
+      "translation": "[NPC] Carly: Вот, взгляни!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carly?oldid=787743",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.43",
+      "speaker": "Carpenter",
+      "tag": "NPC",
+      "source": "[NPC] Carpenter: Some furniture is available exclusively in the Furniture Shop downstairs. Check it out!",
+      "translation": "[NPC] Carpenter: Некоторую мебель можно купить только в мебельном магазине внизу. Загляни туда!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter?oldid=823112",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.44",
+      "speaker": "Carrot King Avatar",
+      "tag": "NPC",
+      "source": "[NPC] Carrot King Avatar: I crave vast heaps of carrots, my hunger ferrets!",
+      "translation": "[NPC] Carrot King Avatar: Я жажду огромных гор моркови, мои голодные хорьки!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carrot_King_Avatar?oldid=812832",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.45",
+      "speaker": "Carrot King Avatar",
+      "tag": "NPC",
+      "source": "[NPC] Carrot King Avatar: I will hunger no longer.",
+      "translation": "[NPC] Carrot King Avatar: Больше я не буду голодать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carrot_King_Avatar?oldid=812832",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.46",
+      "speaker": "Carrot King Avatar",
+      "tag": "NPC",
+      "source": "[NPC] Carrot King Avatar: How dare you let this hare hunger.",
+      "translation": "[NPC] Carrot King Avatar: Как ты смеешь оставлять этого зайца голодным?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carrot_King_Avatar?oldid=812832",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.47",
+      "speaker": "Cashier",
+      "tag": "NPC",
+      "source": "[NPC] Cashier: I've watched a lot of contestants and I've noticed one trick...",
+      "translation": "[NPC] Cashier: Я наблюдал за многими участниками и заметил одну хитрость...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cashier?oldid=787764",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.48",
+      "speaker": "Cashier",
+      "tag": "NPC",
+      "source": "[NPC] Cashier: All the big winners have been extremely lucky.",
+      "translation": "[NPC] Cashier: Всем крупным победителям очень везло.",
+      "style_anchors": [
+        {
+          "source": "extremely lucky",
+          "target": "очень везло"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cashier?oldid=787764",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.49",
+      "speaker": "Chester",
+      "tag": "NPC",
+      "source": "[NPC] Chester: I don't know who the supplier is, but I know someone who does.",
+      "translation": "[NPC] Chester: Я не знаю, кто поставщик, но знаю того, кто знает.",
+      "style_anchors": [
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chester?oldid=812870",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.50",
+      "speaker": "Chester",
+      "tag": "NPC",
+      "source": "[NPC] Chester: I can tell you their name for 20 Motes.",
+      "translation": "[NPC] Chester: За 20 пылинок я назову тебе его имя.",
+      "style_anchors": [
+        {
+          "source": "20 Motes",
+          "target": "20 пылинок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chester?oldid=812870",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.51",
+      "speaker": "Chester",
+      "tag": "NPC",
+      "source": "[NPC] Chester: I heard that Lazarus might know who the supplier is.",
+      "translation": "[NPC] Chester: Слышал, Лазарус может знать, кто поставщик.",
+      "style_anchors": [
+        {
+          "source": "Lazarus",
+          "target": "Лазарус"
+        },
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chester?oldid=812870",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.52",
+      "speaker": "Chicken",
+      "tag": "NPC",
+      "source": "[NPC] Chicken: * cluck *",
+      "translation": "[NPC] Chicken: * ко *",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chicken_(NPC)?oldid=828106",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.53",
+      "speaker": "Chicken",
+      "tag": "NPC",
+      "source": "[NPC] Chicken: * cluck cluck *",
+      "translation": "[NPC] Chicken: * ко-ко *",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chicken_(NPC)?oldid=828106",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.54",
+      "speaker": "Christopher",
+      "tag": "NPC",
+      "source": "[NPC] Christopher: Hello!",
+      "translation": "[NPC] Christopher: Привет!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Christopher?oldid=787838",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.55",
+      "speaker": "Christopher",
+      "tag": "NPC",
+      "source": "[NPC] Christopher: Sometime this week I'll let you check out the coolest player islands in SkyBlock!",
+      "translation": "[NPC] Christopher: На этой неделе я дам тебе взглянуть на самые крутые острова игроков в SkyBlock!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Christopher?oldid=787838",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.56",
+      "speaker": "Mayor Cole",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Cole: Nothin's better than a full belly after a hard day of work!",
+      "translation": "[NPC] Mayor Cole: Нет ничего лучше сытного ужина после тяжёлого рабочего дня!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cole?oldid=855335",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.57",
+      "speaker": "Mayor Cole",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Cole: Break is over, back to the mines I go!",
+      "translation": "[NPC] Mayor Cole: Перерыв окончен, пора обратно в шахты!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cole?oldid=855335",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.58",
+      "speaker": "Mayor Cole",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Cole: Out of stock? sigh",
+      "translation": "[NPC] Mayor Cole: Всё закончилось? Вздох.",
+      "style_anchors": [
+        {
+          "source": "sigh",
+          "target": "Вздох."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cole?oldid=855335",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.59",
+      "speaker": "Counsellor",
+      "tag": "NPC",
+      "source": "[NPC] Counsellor: I'm not that smart, they just needed a third person.",
+      "translation": "[NPC] Counsellor: Я не такой уж умный, просто им нужен был третий.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Counsellor?oldid=823138",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.60",
+      "speaker": "Counsellor",
+      "tag": "NPC",
+      "source": "[NPC] Counsellor: I like voicing my opinion.",
+      "translation": "[NPC] Counsellor: Люблю высказывать своё мнение.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Counsellor?oldid=823138",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.61",
+      "speaker": "Counsellor",
+      "tag": "NPC",
+      "source": "[NPC] Counsellor: This side of the table isn't as valuable as the other side.",
+      "translation": "[NPC] Counsellor: Эта сторона стола не так ценна, как противоположная.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Counsellor?oldid=823138",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.62",
+      "speaker": "Cow",
+      "tag": "NPC",
+      "source": "[NPC] Cow: * moo *",
+      "translation": "[NPC] Cow: * му *",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cow_(NPC)?oldid=828105",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.63",
+      "speaker": "Cow",
+      "tag": "NPC",
+      "source": "[NPC] Cow: * very moo *",
+      "translation": "[NPC] Cow: * очень му *",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cow_(NPC)?oldid=828105",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.64",
+      "speaker": "Cyndarin",
+      "tag": "NPC",
+      "source": "[NPC] Cyndarin: I like to use this path to go to the Cathedral.",
+      "translation": "[NPC] Cyndarin: Мне нравится ходить к Собору этой тропой.",
+      "style_anchors": [
+        {
+          "source": "Cathedral",
+          "target": "Собору"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cyndarin?oldid=788011",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.65",
+      "speaker": "Cyndarin",
+      "tag": "NPC",
+      "source": "[NPC] Cyndarin: It's much more quiet around here, I can clear my head.",
+      "translation": "[NPC] Cyndarin: Здесь гораздо тише, можно проветрить голову.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Cyndarin?oldid=788011",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.66",
+      "speaker": "Dackinoru",
+      "tag": "NPC",
+      "source": "[NPC] Dackinoru: I don't know who the supplier is, but I know someone who does.",
+      "translation": "[NPC] Dackinoru: Я не знаю, кто поставщик, но знаю того, кто знает.",
+      "style_anchors": [
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dackinoru?oldid=813016",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.67",
+      "speaker": "Dackinoru",
+      "tag": "NPC",
+      "source": "[NPC] Dackinoru: I can tell you their name for 20 Motes.",
+      "translation": "[NPC] Dackinoru: За 20 пылинок я назову тебе его имя.",
+      "style_anchors": [
+        {
+          "source": "20 Motes",
+          "target": "20 пылинок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dackinoru?oldid=813016",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.68",
+      "speaker": "Dackinoru",
+      "tag": "NPC",
+      "source": "[NPC] Dackinoru: I heard that Chester might know who the supplier is.",
+      "translation": "[NPC] Dackinoru: Слышал, Честер может знать, кто поставщик.",
+      "style_anchors": [
+        {
+          "source": "Chester",
+          "target": "Честер"
+        },
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dackinoru?oldid=813016",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.69",
+      "speaker": "Dante Goon",
+      "tag": "NPC",
+      "source": "[NPC] Dante Goon: where am i? oh i am here now.",
+      "translation": "[NPC] Dante Goon: где я? а, теперь я здесь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dante_Goon?oldid=859382",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.70",
+      "speaker": "Darr",
+      "tag": "NPC",
+      "source": "[NPC] Darr: Gave you: Grand Experience Bottle x32",
+      "translation": "[NPC] Darr: Выдано: Большой пузырёк опыта x32",
+      "style_anchors": [
+        {
+          "source": "Grand Experience Bottle",
+          "target": "Большой пузырёк опыта"
+        },
+        {
+          "source": "x32",
+          "target": "x32"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Darr?oldid=815649",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.71",
+      "speaker": "Deer",
+      "tag": "NPC",
+      "source": "[NPC] Deer: Hey are you looking to get to the castle?",
+      "translation": "[NPC] Deer: Эй, хочешь добраться до замка?",
+      "style_anchors": [
+        {
+          "source": "castle",
+          "target": "замка"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Deer?oldid=821435",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.72",
+      "speaker": "Deer",
+      "tag": "NPC",
+      "source": "[NPC] Deer: All you need is a flying boat!",
+      "translation": "[NPC] Deer: Нужна всего лишь летающая лодка!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Deer?oldid=821435",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.73",
+      "speaker": "Deng",
+      "tag": "NPC",
+      "source": "[NPC] Deng: I need to think. I need to think.",
+      "translation": "[NPC] Deng: Нужно подумать. Нужно подумать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Deng?oldid=788079",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.74",
+      "speaker": "Desperate Engineer",
+      "tag": "NPC",
+      "source": "[NPC] Desperate Engineer: I hate Blazes. Blazes are terrible. Blazes hurt. Blazes make me cry.",
+      "translation": "[NPC] Desperate Engineer: Ненавижу ифритов. Ифриты ужасны. Ифриты делают больно. Из-за ифритов я плачу.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Desperate_Engineer?oldid=813064",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.75",
+      "speaker": "Mayor Diana",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Diana: My Griffin's getting reaaal hungry. I need to find some food QUICKLY!",
+      "translation": "[NPC] Mayor Diana: Мой грифон о-о-очень проголодался. Нужно СРОЧНО найти еду!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Diana?oldid=815664",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.76",
+      "speaker": "Mayor Diana",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Diana: I was worried he would take a nab at me!",
+      "translation": "[NPC] Mayor Diana: Я уже боялась, что он меня цапнет!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Diana?oldid=815664",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.77",
+      "speaker": "Mayor Diana",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Diana: If you ran for mayor, I would not vote for you.",
+      "translation": "[NPC] Mayor Diana: Если бы ты баллотировался в мэры, я бы за тебя не проголосовала.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Diana?oldid=815664",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.78",
+      "speaker": "Mayor Diaz",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Diaz: Made a bil profit this morning through some Bazaar flipping, always makes me real hungry.",
+      "translation": "[NPC] Mayor Diaz: Сегодня утром заработала миллиард на перепродаже на Базаре. От этого всегда разыгрывается аппетит.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Diaz?oldid=856138",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.79",
+      "speaker": "Mayor Diaz",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Diaz: Tudelu, the profits never sleep.",
+      "translation": "[NPC] Mayor Diaz: Пока-пока, прибыль не дремлет.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Diaz?oldid=856138",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.80",
+      "speaker": "Mayor Diaz",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Diaz: I'll undercut your orders, just watch.",
+      "translation": "[NPC] Mayor Diaz: Я перебью твои заявки, вот увидишь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Diaz?oldid=856138",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.81",
+      "speaker": "Dr. Phear",
+      "tag": "NPC",
+      "source": "[NPC] Dr. Phear: See ya!",
+      "translation": "[NPC] Dr. Phear: Увидимся!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dr._Phear?oldid=788145",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.82",
+      "speaker": "----",
+      "tag": "NPC",
+      "source": "[NPC] ----: Oink",
+      "translation": "[NPC] ----: Хрю",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elle?oldid=830430",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.83",
+      "speaker": "Emissary Lissandra",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Lissandra: I'd advise against going ahead.",
+      "translation": "[NPC] Emissary Lissandra: Я бы не советовала идти дальше.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.84",
+      "speaker": "Emissary Lissandra",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Lissandra: But, if you do, the current \"King\" has some tasks he would appreciate your help with.",
+      "translation": "[NPC] Emissary Lissandra: Но если всё же пойдёшь, у нынешнего «короля» есть задания, с которыми он был бы рад твоей помощи.",
+      "style_anchors": [
+        {
+          "source": "\"King\"",
+          "target": "«короля»"
+        },
+        {
+          "source": "your help",
+          "target": "твоей помощи"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.85",
+      "speaker": "Emissary Lissandra",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Lissandra: I say King, but ever since Dulin returned, whispers are going around of him being the true king.",
+      "translation": "[NPC] Emissary Lissandra: Я говорю «король», но с тех пор, как вернулся Дулин, ходят слухи, что именно он настоящий король.",
+      "style_anchors": [
+        {
+          "source": "King",
+          "target": "король",
+          "target_occurrence": 1
+        },
+        {
+          "source": "Dulin",
+          "target": "Дулин"
+        },
+        {
+          "source": "true",
+          "target": "настоящий"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.86",
+      "speaker": "Emissary Carlton",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Carlton: This will make me gain even more favor with the King!",
+      "translation": "[NPC] Emissary Carlton: Теперь король будет ещё больше ко мне благоволить!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.87",
+      "speaker": "Emissary Ceanna",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Ceanna: The King's favorite emissary is here to request potatoes for the King's great feast!",
+      "translation": "[NPC] Emissary Ceanna: Любимая посланница короля прибыла за картофелем для великого королевского пира!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.88",
+      "speaker": "Emissary Ceanna",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Ceanna: Maybe the King will even announce me as his favorite at the feast!",
+      "translation": "[NPC] Emissary Ceanna: Может, на пиру король даже объявит меня своей любимой посланницей!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.89",
+      "speaker": "Emissary Ceanna",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Ceanna: I will inform the King about this disgrace!",
+      "translation": "[NPC] Emissary Ceanna: Я сообщу королю об этом безобразии!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.90",
+      "speaker": "Emissary Fraiser",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Fraiser: I know what all the others say, but I am the King's true favorite emissary.",
+      "translation": "[NPC] Emissary Fraiser: Знаю, что говорят остальные, но настоящий любимый посланник короля — я.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.91",
+      "speaker": "Emissary Fraiser",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Fraiser: As the King's true favorite only I know he secretly loves melon.",
+      "translation": "[NPC] Emissary Fraiser: Только я, его настоящий любимец, знаю, что втайне король обожает арбузы.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.92",
+      "speaker": "Emissary Fraiser",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Fraiser: The King will surely punish you for this disrespect!",
+      "translation": "[NPC] Emissary Fraiser: Король непременно накажет тебя за такое неуважение!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.93",
+      "speaker": "Emissary Sisko",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Sisko: My standing as the King's favorite emissary is secured as soon as I bring these back home!",
+      "translation": "[NPC] Emissary Sisko: Стоит принести это домой — и положение любимого посланника короля мне обеспечено!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.94",
+      "speaker": "Emissary Sisko",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Sisko: You are going to regret this!",
+      "translation": "[NPC] Emissary Sisko: Ты об этом пожалеешь!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.95",
+      "speaker": "Emissary Wilson",
+      "tag": "NPC",
+      "source": "[NPC] Emissary Wilson: I'm not sure if the carrots would have worked anyways...",
+      "translation": "[NPC] Emissary Wilson: Не уверен, что морковь вообще помогла бы...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Emissaries?oldid=823096",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.96",
+      "speaker": "Finance Rabbit",
+      "tag": "NPC",
+      "source": "[NPC] Finance Rabbit: We're managing money!",
+      "translation": "[NPC] Finance Rabbit: Мы управляем деньгами!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Finance_Rabbit?oldid=788585",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.97",
+      "speaker": "Finance Rabbit",
+      "tag": "NPC",
+      "source": "[NPC] Finance Rabbit: Nothing to see here.",
+      "translation": "[NPC] Finance Rabbit: Здесь не на что смотреть.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Finance_Rabbit?oldid=788585",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.98",
+      "speaker": "Finance Rabbit",
+      "tag": "NPC",
+      "source": "[NPC] Finance Rabbit: We went to school for this.",
+      "translation": "[NPC] Finance Rabbit: Мы этому учились.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Finance_Rabbit?oldid=788585",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.99",
+      "speaker": "Mayor Finnegan",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Finnegan: All this farming is making me hungry!",
+      "translation": "[NPC] Mayor Finnegan: От всей этой работы на ферме ужасно хочется есть!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Finnegan?oldid=844132",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.100",
+      "speaker": "Mayor Finnegan",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Finnegan: Back to farming I go! These PBs ain't gonna beat themselves!",
+      "translation": "[NPC] Mayor Finnegan: Пора обратно на ферму! Личные рекорды сами себя не побьют!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Finnegan?oldid=844132",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.101",
+      "speaker": "Mayor Finnegan",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Finnegan: Guess I'll have to go gather the crops myself...",
+      "translation": "[NPC] Mayor Finnegan: Видимо, придётся самому собирать урожай...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Finnegan?oldid=844132",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.102",
+      "speaker": "Finplex",
+      "tag": "NPC",
+      "source": "[NPC] Finplex: You might think it's expensive...",
+      "translation": "[NPC] Finplex: Может показаться, что это дорого...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Finplex?oldid=813368",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.103",
+      "speaker": "Finplex",
+      "tag": "NPC",
+      "source": "[NPC] Finplex: ... and it is.",
+      "translation": "[NPC] Finplex: ...так и есть.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Finplex?oldid=813368",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.104",
+      "speaker": "Fisherman Gerald",
+      "tag": "NPC",
+      "source": "[NPC] Fisherman Gerald: S'alright, we are all busy some days.",
+      "translation": "[NPC] Fisherman Gerald: Ничего, у всех бывают занятые дни.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fisherman_Gerald?oldid=823116",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.105",
+      "speaker": "Forager Daniel",
+      "tag": "NPC",
+      "source": "[NPC] Forager Daniel: When cutting Helix Trees, you should always start with the Beige logs.",
+      "translation": "[NPC] Forager Daniel: Рубя спиральные деревья, всегда начинай с бежевых брёвен.",
+      "style_anchors": [
+        {
+          "source": "Helix Trees",
+          "target": "спиральные деревья"
+        },
+        {
+          "source": "Beige",
+          "target": "бежевых"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Forager_Daniel?oldid=828507",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.106",
+      "speaker": "Forager Daniel",
+      "tag": "NPC",
+      "source": "[NPC] Forager Daniel: Once those have been dealt with, you can move on to the Red ones.",
+      "translation": "[NPC] Forager Daniel: Когда закончишь с ними, переходи к красным.",
+      "style_anchors": [
+        {
+          "source": "Red",
+          "target": "красным"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Forager_Daniel?oldid=828507",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.107",
+      "speaker": "Forager Daniel",
+      "tag": "NPC",
+      "source": "[NPC] Forager Daniel: Make sure you do it in the right order, or you'll get a Sweep Penalty and the Tree will take longer to cut…",
+      "translation": "[NPC] Forager Daniel: Соблюдай порядок, иначе получишь штраф за взмах и дерево придётся рубить дольше…",
+      "style_anchors": [
+        {
+          "source": "Sweep Penalty",
+          "target": "штраф за взмах"
+        },
+        {
+          "source": "Tree",
+          "target": "дерево"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Forager_Daniel?oldid=828507",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.108",
+      "speaker": "Forager Rowan",
+      "tag": "NPC",
+      "source": "[NPC] Forager Rowan: The axe forgets, but the tree remembers.",
+      "translation": "[NPC] Forager Rowan: Топор забывает, а дерево помнит.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Forager_Rowan?oldid=828508",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.109",
+      "speaker": "Forast",
+      "tag": "NPC",
+      "source": "[NPC] Forast: Can't stop, won't stop!",
+      "translation": "[NPC] Forast: Не могу остановиться и не собираюсь!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Forast?oldid=788675",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.110",
+      "speaker": "Forast",
+      "tag": "NPC",
+      "source": "[NPC] Forast: I was probably a rabbit in another life!",
+      "translation": "[NPC] Forast: Наверное, в прошлой жизни я был кроликом!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Forast?oldid=788675",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.111",
+      "speaker": "Forast",
+      "tag": "NPC",
+      "source": "[NPC] Forast: I love running and jumping.",
+      "translation": "[NPC] Forast: Обожаю бегать и прыгать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Forast?oldid=788675",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.112",
+      "speaker": "Forger",
+      "tag": "NPC",
+      "source": "[NPC] Forger: You need to unlock Heart of the Mountain Tier 2 to access the Forge!",
+      "translation": "[NPC] Forger: Для доступа к Кузнице нужен 2-й уровень Сердца горы!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Forger?oldid=788682",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.113",
+      "speaker": "Mayor Foxy",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Foxy: Yoooo! FOXY is in TOWN!",
+      "translation": "[NPC] Mayor Foxy: Йо-о-о! ФОКСИ в ГОРОДЕ!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Foxy?oldid=788690",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.114",
+      "speaker": "Mayor Foxy",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Foxy: Let's get this party started!",
+      "translation": "[NPC] Mayor Foxy: Пора начинать вечеринку!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Foxy?oldid=788690",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.115",
+      "speaker": "Mayor Foxy",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Foxy: You are soooo boring.",
+      "translation": "[NPC] Mayor Foxy: Какой же ты ску-у-учный.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Foxy?oldid=788690",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.116",
+      "speaker": "Frozen Alex",
+      "tag": "NPC",
+      "source": "[NPC] Frozen Alex: Brrrrr, I've been stuck down here ever since I fell into the pond with Steve.",
+      "translation": "[NPC] Frozen Alex: Бр-р-р, я застряла здесь с тех пор, как мы со Стивом свалились в пруд.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frozen_Alex?oldid=830437",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.117",
+      "speaker": "Frozen Alex",
+      "tag": "NPC",
+      "source": "[NPC] Frozen Alex: Here, let me share some of my ice with you.",
+      "translation": "[NPC] Frozen Alex: Вот, поделюсь с тобой своим льдом.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frozen_Alex?oldid=830437",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.118",
+      "speaker": "Garlacius",
+      "tag": "NPC",
+      "source": "[NPC] Garlacius: I don't know who the supplier is, but I know someone who does.",
+      "translation": "[NPC] Garlacius: Я не знаю, кто поставщик, но знаю того, кто знает.",
+      "style_anchors": [
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Garlacius?oldid=813498",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.119",
+      "speaker": "Garlacius",
+      "tag": "NPC",
+      "source": "[NPC] Garlacius: I can tell you their name for 20 Motes.",
+      "translation": "[NPC] Garlacius: За 20 пылинок я назову тебе его имя.",
+      "style_anchors": [
+        {
+          "source": "20 Motes",
+          "target": "20 пылинок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Garlacius?oldid=813498",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.120",
+      "speaker": "Garlacius",
+      "tag": "NPC",
+      "source": "[NPC] Garlacius: I heard that Fafnir might know who the supplier is.",
+      "translation": "[NPC] Garlacius: Слышал, Фафнир может знать, кто поставщик.",
+      "style_anchors": [
+        {
+          "source": "Fafnir",
+          "target": "Фафнир"
+        },
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Garlacius?oldid=813498",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.121",
+      "speaker": "Ghost of Armorsmith",
+      "tag": "NPC",
+      "source": "[NPC] Ghost of Armorsmith: Apparently dying didn't void my employment contract so I'm still working my 9-5...",
+      "translation": "[NPC] Ghost of Armorsmith: Похоже, смерть не расторгла мой трудовой договор, так что я всё ещё работаю с 9 до 5...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Armorsmith?oldid=859451",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.122",
+      "speaker": "Ghost of Armorsmith",
+      "tag": "NPC",
+      "source": "[NPC] Ghost of Armorsmith: I'm gonna need some exotic materials for an armor set I'm making a client.",
+      "translation": "[NPC] Ghost of Armorsmith: Мне нужны экзотические материалы для комплекта брони, который я делаю заказчику.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Armorsmith?oldid=859451",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.123",
+      "speaker": "Ghost of Armorsmith",
+      "tag": "NPC",
+      "source": "[NPC] Ghost of Armorsmith: Well, thanks anyways.",
+      "translation": "[NPC] Ghost of Armorsmith: Что ж, всё равно спасибо.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Armorsmith?oldid=859451",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.124",
+      "speaker": "Gladiator",
+      "tag": "NPC",
+      "source": "[NPC] Gladiator: Here you can prove your fighting skills to everyone.",
+      "translation": "[NPC] Gladiator: Здесь ты можешь доказать всем своё боевое мастерство.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gladiator?oldid=788845",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.125",
+      "speaker": "Gladiator",
+      "tag": "NPC",
+      "source": "[NPC] Gladiator: The arena is temporarily closed for renovations!",
+      "translation": "[NPC] Gladiator: Арена временно закрыта на ремонт!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gladiator?oldid=788845",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.126",
+      "speaker": "Golden Dragon",
+      "tag": "NPC",
+      "source": "[NPC] Golden Dragon: Do not think I am sleeping, thief.",
+      "translation": "[NPC] Golden Dragon: Не думай, что я сплю, вор.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Golden_Dragon?oldid=851594",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.127",
+      "speaker": "Golden Dragon",
+      "tag": "NPC",
+      "source": "[NPC] Golden Dragon: Those eggs are mine, but I would be willing to sell them against pure gold and gemstones.",
+      "translation": "[NPC] Golden Dragon: Эти яйца мои, но я готов продать их за чистое золото и самоцветы.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Golden_Dragon?oldid=851594",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.128",
+      "speaker": "Golden Dragon",
+      "tag": "NPC",
+      "source": "[NPC] Golden Dragon: But are you rich enough?",
+      "translation": "[NPC] Golden Dragon: Но хватит ли у тебя богатства?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Golden_Dragon?oldid=851594",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.129",
+      "speaker": "Grandma",
+      "tag": "NPC",
+      "source": "[NPC] Grandma: Back in my day, booster cookies were 800k.",
+      "translation": "[NPC] Grandma: В моё время печенья-усилители стоили 800к.",
+      "style_anchors": [
+        {
+          "source": "800k",
+          "target": "800к"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma?oldid=813611",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.130",
+      "speaker": "Gregory",
+      "tag": "NPC",
+      "source": "[NPC] Gregory: Hey, I'm an opportunist!",
+      "translation": "[NPC] Gregory: Привет, я не упускаю выгодных возможностей!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gregory?oldid=845369",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.131",
+      "speaker": "Gregory",
+      "tag": "NPC",
+      "source": "[NPC] Gregory: I sell Arrows and Bows for a truly overpriced amount!",
+      "translation": "[NPC] Gregory: Я продаю стрелы и луки по совершенно завышенным ценам!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gregory?oldid=845369",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.132",
+      "speaker": "Gwendolyn",
+      "tag": "NPC",
+      "source": "[NPC] Gwendolyn: One day I will be useful.",
+      "translation": "[NPC] Gwendolyn: Когда-нибудь и от меня будет польза.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwendolyn?oldid=823095",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.133",
+      "speaker": "Gwynnie",
+      "tag": "NPC",
+      "source": "[NPC] Gwynnie: Before I can get Fishing, I have to make sure I understand the fish themselves.",
+      "translation": "[NPC] Gwynnie: Прежде чем заняться рыбалкой, нужно как следует разобраться в самих рыбах.",
+      "style_anchors": [
+        {
+          "source": "Fishing",
+          "target": "рыбалкой"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwynnie?oldid=813658",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.134",
+      "speaker": "Gwynnie",
+      "tag": "NPC",
+      "source": "[NPC] Gwynnie: There are 4 Fishing stats you need to know about.",
+      "translation": "[NPC] Gwynnie: Нужно знать о 4 характеристиках рыбалки.",
+      "style_anchors": [
+        {
+          "source": "4 Fishing",
+          "target": "4 характеристиках рыбалки"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwynnie?oldid=813658",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.135",
+      "speaker": "Gwynnie",
+      "tag": "NPC",
+      "source": "[NPC] Gwynnie: Here, read my notes!",
+      "translation": "[NPC] Gwynnie: Вот, прочитай мои записи!",
+      "style_anchors": [
+        {
+          "source": "notes",
+          "target": "записи"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwynnie?oldid=813658",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.136",
+      "speaker": "Hilda",
+      "tag": "NPC",
+      "source": "[NPC] Hilda: Morning, adventurer!",
+      "translation": "[NPC] Hilda: Доброе утро, искатель приключений!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hilda?oldid=789086",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.137",
+      "speaker": "Hilda",
+      "tag": "NPC",
+      "source": "[NPC] Hilda: Wait, is it? I'm not sure; it's always so dark here...",
+      "translation": "[NPC] Hilda: Погоди, а точно утро? Не уверена: здесь всегда так темно...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hilda?oldid=789086",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.138",
+      "speaker": "Hilda",
+      "tag": "NPC",
+      "source": "[NPC] Hilda: Oh well, anyway, I can provide all manners of fun minions to you!",
+      "translation": "[NPC] Hilda: Впрочем, я могу предложить тебе самых разных забавных миньонов!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hilda?oldid=789086",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.139",
+      "speaker": "Hoppity",
+      "tag": "NPC",
+      "source": "[NPC] Hoppity: ✆ He's a clever one, that fish. I can never catch him.",
+      "translation": "[NPC] Hoppity: ✆ Хитрая эта рыба. Никак не могу её поймать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity?oldid=857890",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.140",
+      "speaker": "Andrew",
+      "tag": "NPC",
+      "source": "[NPC] Andrew: See you around!",
+      "translation": "[NPC] Andrew: До встречи!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.141",
+      "speaker": "Andrew",
+      "tag": "NPC",
+      "source": "[NPC] Andrew: I guess I'll come back in a bit.",
+      "translation": "[NPC] Andrew: Пожалуй, вернусь попозже.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.142",
+      "speaker": "Hunter Ava",
+      "tag": "NPC",
+      "source": "[NPC] Hunter Ava: I'm hunting an Elusive animal.",
+      "translation": "[NPC] Hunter Ava: Я охочусь на неуловимое животное.",
+      "style_anchors": [
+        {
+          "source": "Elusive",
+          "target": "неуловимое"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Ava?oldid=843516",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.143",
+      "speaker": "Hunter Ava",
+      "tag": "NPC",
+      "source": "[NPC] Hunter Ava: If you want to hunt animals too, go talk to Trevor!",
+      "translation": "[NPC] Hunter Ava: Если тоже хочешь охотиться на животных, поговори с Тревором!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Ava?oldid=843516",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.144",
+      "speaker": "Hunter Ava",
+      "tag": "NPC",
+      "source": "[NPC] Hunter Ava: You can find him just past the bridge in his den.",
+      "translation": "[NPC] Hunter Ava: Найдёшь его в логове сразу за мостом.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Ava?oldid=843516",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.145",
+      "speaker": "Hunter Jean",
+      "tag": "NPC",
+      "source": "[NPC] Hunter Jean: I don't really hunt  Critters, it's not enough of a challenge.",
+      "translation": "[NPC] Hunter Jean: Я не охочусь на  существ — слишком просто.",
+      "style_anchors": [
+        {
+          "source": " Critters",
+          "target": " существ"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Jean?oldid=837484",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.146",
+      "speaker": "Hunter Jean",
+      "tag": "NPC",
+      "source": "[NPC] Hunter Jean: Torrhus Sea Creatures, though? That's more like it.",
+      "translation": "[NPC] Hunter Jean: А вот морские существа Торрхуса — другое дело.",
+      "style_anchors": [
+        {
+          "source": "Torrhus Sea Creatures",
+          "target": "морские существа Торрхуса"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Jean?oldid=837484",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.147",
+      "speaker": "Hunter Jean",
+      "tag": "NPC",
+      "source": "[NPC] Hunter Jean: Here's all of the ones that I've found throughout my time in Torrhus Springs.",
+      "translation": "[NPC] Hunter Jean: Вот все, кого мне удалось найти за время пребывания в Источниках Торрхуса.",
+      "style_anchors": [
+        {
+          "source": "Torrhus Springs",
+          "target": "Источниках Торрхуса"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Jean?oldid=837484",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.148",
+      "speaker": "Hunter McNeil",
+      "tag": "NPC",
+      "source": "[NPC] Hunter McNeil: That there Fishing Hotspot is the only place to catch Giant Water Bug shards.",
+      "translation": "[NPC] Hunter McNeil: Та рыболовная точка — единственное место, где можно добыть осколки гигантского водяного клопа.",
+      "style_anchors": [
+        {
+          "source": "Fishing Hotspot",
+          "target": "рыболовная точка"
+        },
+        {
+          "source": "Giant Water Bug",
+          "target": "гигантского водяного клопа"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_McNeil?oldid=828555",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.149",
+      "speaker": "Hunter McNeil",
+      "tag": "NPC",
+      "source": "[NPC] Hunter McNeil: Who knows why they like it so much down here?",
+      "translation": "[NPC] Hunter McNeil: Кто знает, почему им здесь внизу так нравится?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_McNeil?oldid=828555",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.150",
+      "speaker": "Hunter McNeil",
+      "tag": "NPC",
+      "source": "[NPC] Hunter McNeil: Getting all the way down here dang near killed me...",
+      "translation": "[NPC] Hunter McNeil: Пока сюда добрался, чуть не помер...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_McNeil?oldid=828555",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.151",
+      "speaker": "Huntress Alissa",
+      "tag": "NPC",
+      "source": "[NPC] Huntress Alissa: There are lots of useful things lying about on the ground in the Critter Safari.",
+      "translation": "[NPC] Huntress Alissa: На земле в сафари существ валяется много полезных вещей.",
+      "style_anchors": [
+        {
+          "source": "Critter Safari",
+          "target": "сафари существ"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Huntress_Alissa?oldid=828559",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.152",
+      "speaker": "Huntress Alissa",
+      "tag": "NPC",
+      "source": "[NPC] Huntress Alissa: Us hunters like to call them Floor Drops.",
+      "translation": "[NPC] Huntress Alissa: Мы, охотники, называем их наземными находками.",
+      "style_anchors": [
+        {
+          "source": "Floor Drops",
+          "target": "наземными находками"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Huntress_Alissa?oldid=828559",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.153",
+      "speaker": "Huntress Alissa",
+      "tag": "NPC",
+      "source": "[NPC] Huntress Alissa: Certain  Critters can only be found with the help of specific floor drops. How exciting!",
+      "translation": "[NPC] Huntress Alissa: Некоторых  существ можно найти только с помощью определённых наземных находок. Как интересно!",
+      "style_anchors": [
+        {
+          "source": " Critters",
+          "target": " существ"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Huntress_Alissa?oldid=828559",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.154",
+      "speaker": "Husbandry Merchant",
+      "tag": "NPC",
+      "source": "[NPC] Husbandry Merchant: Are you in the market for a Husbandry Axe?",
+      "translation": "[NPC] Husbandry Merchant: Не хочешь купить животноводческий топор?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Husbandry_Merchant?oldid=806107",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.155",
+      "speaker": "Husbandry Merchant",
+      "tag": "NPC",
+      "source": "[NPC] Husbandry Merchant: They'll help you gather drops from animals faster!",
+      "translation": "[NPC] Husbandry Merchant: С ним ты будешь быстрее собирать добычу с животных!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Husbandry_Merchant?oldid=806107",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.156",
+      "speaker": "Iron Forger",
+      "tag": "NPC",
+      "source": "[NPC] Iron Forger: I've recently got into cooking, yesterday I made pasta carbonara, today I'm planning on baking a carrot cake.",
+      "translation": "[NPC] Iron Forger: Недавно я увлёкся готовкой. Вчера сделал пасту карбонара, а сегодня собираюсь испечь морковный торт.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Iron_Forger?oldid=827790",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.157",
+      "speaker": "Iron Forger",
+      "tag": "NPC",
+      "source": "[NPC] Iron Forger: Will have to order some food today then.",
+      "translation": "[NPC] Iron Forger: Тогда сегодня придётся заказать еду.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Iron_Forger?oldid=827790",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.158",
+      "speaker": "Ivan",
+      "tag": "NPC",
+      "source": "[NPC] Ivan: psssst...",
+      "translation": "[NPC] Ivan: Пс-с-с...",
+      "style_anchors": [
+        {
+          "source": "psssst...",
+          "target": "Пс-с-с..."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ivan?oldid=789231",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.159",
+      "speaker": "Ivan",
+      "tag": "NPC",
+      "source": "[NPC] Ivan: Don't tell anyone here but I actually transferred back to a Normal profile.",
+      "translation": "[NPC] Ivan: Никому здесь не говори, но я вообще-то вернулся на обычный профиль.",
+      "style_anchors": [
+        {
+          "source": "Don't tell anyone here but I actually transferred back to a Normal profile.",
+          "target": "Никому здесь не говори, но я вообще-то вернулся на обычный профиль."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ivan?oldid=789231",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.160",
+      "speaker": "Ivan",
+      "tag": "NPC",
+      "source": "[NPC] Ivan: I just enjoy the vibes of this place.",
+      "translation": "[NPC] Ivan: Мне просто нравится здешняя атмосфера.",
+      "style_anchors": [
+        {
+          "source": "I just enjoy the vibes of this place.",
+          "target": "Мне просто нравится здешняя атмосфера."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ivan?oldid=789231",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.161",
+      "speaker": "Ivy",
+      "tag": "NPC",
+      "source": "[NPC] Ivy: We also mine a lot, something Ironman is well known for.",
+      "translation": "[NPC] Ivy: Мы также много добываем — этим и славится режим «Железный человек».",
+      "style_anchors": [
+        {
+          "source": "Ironman",
+          "target": "режим «Железный человек»"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ivy?oldid=789232",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.162",
+      "speaker": "Ivy",
+      "tag": "NPC",
+      "source": "[NPC] Ivy: Being self-reliant is a major facet of Dwarf culture, so ♲ Ironman is quite popular around here.",
+      "translation": "[NPC] Ivy: Самостоятельность — важная часть культуры дворфов, поэтому режим ♲ «Железный человек» здесь очень популярен.",
+      "style_anchors": [
+        {
+          "source": "♲ Ironman",
+          "target": "♲ «Железный человек»"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ivy?oldid=789232",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.163",
+      "speaker": "Jeff",
+      "tag": "NPC",
+      "source": "[NPC] Jeff: You can now have as many Chips as you want, just keep upgrading them with Sowdust!",
+      "translation": "[NPC] Jeff: Теперь можно иметь сколько угодно чипов — просто продолжай улучшать их посевной пылью!",
+      "style_anchors": [
+        {
+          "source": "Chips",
+          "target": "чипов"
+        },
+        {
+          "source": "Sowdust",
+          "target": "посевной пылью"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jeff?oldid=823111",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.164",
+      "speaker": "Jeff",
+      "tag": "NPC",
+      "source": "[NPC] Jeff: And if you come accross duplicates of the same Chip, don't worry, you'll be able to upgrade them to EPIC and LEGENDARY rarity, boosting their maximum level and effectiveness even further!",
+      "translation": "[NPC] Jeff: Если попадутся дубликаты одного чипа, не переживай: их можно улучшить до ЭПИЧЕСКОЙ и ЛЕГЕНДАРНОЙ редкости, ещё сильнее повышая максимальный уровень и эффективность!",
+      "style_anchors": [
+        {
+          "source": "duplicates",
+          "target": "дубликаты"
+        },
+        {
+          "source": "Chip",
+          "target": "чипа"
+        },
+        {
+          "source": "EPIC",
+          "target": "ЭПИЧЕСКОЙ"
+        },
+        {
+          "source": "LEGENDARY",
+          "target": "ЛЕГЕНДАРНОЙ"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jeff?oldid=823111",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.165",
+      "speaker": "Jimmy",
+      "tag": "NPC",
+      "source": "[NPC] Jimmy: I'm just checking out the security here. It's top notch!",
+      "translation": "[NPC] Jimmy: Просто проверяю здешнюю безопасность. На высшем уровне!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jimmy?oldid=843502",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.166",
+      "speaker": "Kalhuiki Door Guardian",
+      "tag": "NPC",
+      "source": "[NPC] Kalhuiki Door Guardian: This temple is locked, you will need to bring me a key open the door!",
+      "translation": "[NPC] Kalhuiki Door Guardian: Этот храм заперт. Чтобы открыть дверь, принеси мне ключ!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kalhuiki_Door_Guardian?oldid=823097",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.167",
+      "speaker": "Kalhuiki Door Guardian",
+      "tag": "NPC",
+      "source": "[NPC] Kalhuiki Door Guardian: A Jungle Key! I will open the door for you.",
+      "translation": "[NPC] Kalhuiki Door Guardian: Ключ джунглей! Я открою тебе дверь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kalhuiki_Door_Guardian?oldid=823097",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.168",
+      "speaker": "Kalhuiki Door Guardian",
+      "tag": "NPC",
+      "source": "[NPC] Kalhuiki Door Guardian: This temple does not have the treasure you are seeking at this time.",
+      "translation": "[NPC] Kalhuiki Door Guardian: Сейчас в этом храме нет сокровища, которое ты ищешь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kalhuiki_Door_Guardian?oldid=823097",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.169",
+      "speaker": "Kuudra Archaeologist",
+      "tag": "NPC",
+      "source": "[NPC] Kuudra Archaeologist: Ah yes the Exquisite Kuudra Teeth Plaque!",
+      "translation": "[NPC] Kuudra Archaeologist: Ах да, изысканная табличка с зубами Куудры!",
+      "style_anchors": [
+        {
+          "source": "Exquisite Kuudra Teeth Plaque",
+          "target": "изысканная табличка с зубами Куудры"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kuudra_Archeologist?oldid=813890",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.170",
+      "speaker": "Kuudra Archaeologist",
+      "tag": "NPC",
+      "source": "[NPC] Kuudra Archaeologist: I'll go ahead and help break that down for you!",
+      "translation": "[NPC] Kuudra Archaeologist: Я помогу тебе это разобрать!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kuudra_Archeologist?oldid=813890",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.171",
+      "speaker": "Kuudra Archaeologist",
+      "tag": "NPC",
+      "source": "[NPC] Kuudra Archaeologist: You know... this item can be very helpful to unlock something special!",
+      "translation": "[NPC] Kuudra Archaeologist: Знаешь... этот предмет может очень пригодиться, чтобы открыть кое-что особенное!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kuudra_Archeologist?oldid=813890",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.172",
+      "speaker": "Lazarus",
+      "tag": "NPC",
+      "source": "[NPC] Lazarus: I don't know who the supplier is, but I know someone who does.",
+      "translation": "[NPC] Lazarus: Я не знаю, кто поставщик, но знаю того, кто знает.",
+      "style_anchors": [
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lazarus?oldid=813926",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.173",
+      "speaker": "Lazarus",
+      "tag": "NPC",
+      "source": "[NPC] Lazarus: I can tell you their name for 20 Motes.",
+      "translation": "[NPC] Lazarus: За 20 пылинок я назову тебе его имя.",
+      "style_anchors": [
+        {
+          "source": "20 Motes",
+          "target": "20 пылинок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lazarus?oldid=813926",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.174",
+      "speaker": "Lazarus",
+      "tag": "NPC",
+      "source": "[NPC] Lazarus: I heard that Vreike might know who the supplier is.",
+      "translation": "[NPC] Lazarus: Слышал, Врейке может знать, кто поставщик.",
+      "style_anchors": [
+        {
+          "source": "Vreike",
+          "target": "Врейке"
+        },
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lazarus?oldid=813926",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.175",
+      "speaker": "Lonely Philosopher",
+      "tag": "NPC",
+      "source": "[NPC] Lonely Philosopher: I'm sorry, I have nothing for you.",
+      "translation": "[NPC] Lonely Philosopher: Прости, у меня для тебя ничего нет.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lonely_Philosopher?oldid=858604",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.176",
+      "speaker": "Lonely Philosopher",
+      "tag": "NPC",
+      "source": "[NPC] Lonely Philosopher: To fast travel or not to fast travel?",
+      "translation": "[NPC] Lonely Philosopher: Быстро перемещаться или не перемещаться?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lonely_Philosopher?oldid=858604",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.177",
+      "speaker": "Lost Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Lost Wizard: ?mrahcemiT esrevrorriM eht deniatbo uoy evaH",
+      "translation": "[NPC] Lost Wizard: ?инемерв геребо йынтарбо-оньлакреЗ личулоп ыТ",
+      "style_anchors": [
+        {
+          "source": "mrahcemiT esrevrorriM",
+          "target": "инемерв геребо йынтарбо-оньлакреЗ"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lost_Wizard?oldid=789478",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.178",
+      "speaker": "Lost Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Lost Wizard: .ssap yam uoy ,llew yreV",
+      "translation": "[NPC] Lost Wizard: .итйорп ьшежом ,ошорох ьнечО",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lost_Wizard?oldid=789478",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.179",
+      "speaker": "Ludleth",
+      "tag": "NPC",
+      "source": "[NPC] Ludleth: You've amassed quite a fortune. I have an antiquity that might interest you. However, I wouldn't sell it to just anybody, you know? I need something in return. So, what do you say?",
+      "translation": "[NPC] Ludleth: Ты сколотил немалое состояние. У меня есть древность, которая может тебя заинтересовать. Но первому встречному я её не продам, понимаешь? Мне нужно кое-что взамен. Ну что скажешь?",
+      "style_anchors": [
+        {
+          "source": "anybody",
+          "target": "первому встречному"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ludleth?oldid=816048",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.180",
+      "speaker": "Ludleth",
+      "tag": "NPC",
+      "source": "[NPC] Ludleth: Not everyone can afford my lifestyle!",
+      "translation": "[NPC] Ludleth: Не каждый может позволить себе мой образ жизни!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ludleth?oldid=816048",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.181",
+      "speaker": "Ludleth",
+      "tag": "NPC",
+      "source": "[NPC] Ludleth: Every rose has its...claws!",
+      "translation": "[NPC] Ludleth: У каждой розы есть... когти!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ludleth?oldid=816048",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.182",
+      "speaker": "Maggie",
+      "tag": "NPC",
+      "source": "[NPC] Maggie: Maggie.",
+      "translation": "[NPC] Maggie: Мэгги.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Maggie?oldid=789532",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.183",
+      "speaker": "Mayor Marina",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Marina: Caught a big fish today, you got anything to pair it with?",
+      "translation": "[NPC] Mayor Marina: Сегодня поймала большую рыбу. Есть что-нибудь к ней на гарнир?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Marina?oldid=844765",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.184",
+      "speaker": "Mayor Marina",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Marina: Perfect, just what I needed!",
+      "translation": "[NPC] Mayor Marina: Отлично, именно то, что нужно!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Marina?oldid=844765",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.185",
+      "speaker": "Mayor Marina",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Marina: No worries, the sea provides.",
+      "translation": "[NPC] Mayor Marina: Ничего, море прокормит.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Marina?oldid=844765",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.186",
+      "speaker": "Marthos",
+      "tag": "NPC",
+      "source": "[NPC] Marthos: Evening, adventurer!",
+      "translation": "[NPC] Marthos: Добрый вечер, искатель приключений!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Marthos?oldid=789608",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.187",
+      "speaker": "Marthos",
+      "tag": "NPC",
+      "source": "[NPC] Marthos: Wait, is it? I'm not sure; it's always so bright in here...",
+      "translation": "[NPC] Marthos: Погоди, а точно вечер? Не уверен: здесь всегда так светло...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Marthos?oldid=789608",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.188",
+      "speaker": "Marthos",
+      "tag": "NPC",
+      "source": "[NPC] Marthos: Oh well, anyway, I can sell all kinds of functional minions to you!",
+      "translation": "[NPC] Marthos: Впрочем, я могу продать тебе самых разных полезных миньонов!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Marthos?oldid=789608",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.189",
+      "speaker": "Martin",
+      "tag": "NPC",
+      "source": "[NPC] Martin: Isn't this place fascinating?",
+      "translation": "[NPC] Martin: Разве это место не удивительно?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Martin?oldid=814043",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.190",
+      "speaker": "Martin",
+      "tag": "NPC",
+      "source": "[NPC] Martin: Absolutely no sea creatures here, can you believe it?",
+      "translation": "[NPC] Martin: Ни одного морского существа, представляешь?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Martin?oldid=814043",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.191",
+      "speaker": "Martin",
+      "tag": "NPC",
+      "source": "[NPC] Martin: Still, you can catch some rare materials to craft top-quality fishing nets.",
+      "translation": "[NPC] Martin: Зато здесь можно выловить редкие материалы для создания отличных рыболовных сетей.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Martin?oldid=814043",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.192",
+      "speaker": "Maths Enjoyer",
+      "tag": "NPC",
+      "source": "[NPC] Maths Enjoyer: The formula to Accessory Power is…",
+      "translation": "[NPC] Maths Enjoyer: Формула силы аксессуаров выглядит так…",
+      "style_anchors": [
+        {
+          "source": "Accessory Power",
+          "target": "силы аксессуаров"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Maths_Enjoyer?oldid=789622",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.193",
+      "speaker": "Maths Enjoyer",
+      "tag": "NPC",
+      "source": "[NPC] Maths Enjoyer: Stats Mult. = 29.97(ln(0.0019AP+1))^1.2",
+      "translation": "[NPC] Maths Enjoyer: Множитель характ. = 29.97(ln(0.0019AP+1))^1.2",
+      "style_anchors": [
+        {
+          "source": "Stats Mult.",
+          "target": "Множитель характ."
+        },
+        {
+          "source": "29.97",
+          "target": "29.97"
+        },
+        {
+          "source": "(",
+          "target": "(",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        },
+        {
+          "source": "ln(",
+          "target": "ln("
+        },
+        {
+          "source": "0.0019",
+          "target": "0.0019"
+        },
+        {
+          "source": "AP",
+          "target": "AP"
+        },
+        {
+          "source": "+1)",
+          "target": "+1)"
+        },
+        {
+          "source": ")^",
+          "target": ")^"
+        },
+        {
+          "source": "1.2",
+          "target": "1.2"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Maths_Enjoyer?oldid=789622",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.194",
+      "speaker": "Maxim",
+      "tag": "NPC",
+      "source": "[NPC] Maxim: You know them Boosters you can get from the Moonglade Marsh?",
+      "translation": "[NPC] Maxim: Знаешь усилители, которые можно получить на Болоте Лунной поляны?",
+      "style_anchors": [
+        {
+          "source": "Boosters",
+          "target": "усилители"
+        },
+        {
+          "source": "Moonglade Marsh",
+          "target": "Болоте Лунной поляны"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Maxim?oldid=828580",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.195",
+      "speaker": "Maxim",
+      "tag": "NPC",
+      "source": "[NPC] Maxim: Well, those puny things ain't gonna cut it 'round these parts.",
+      "translation": "[NPC] Maxim: Так вот, здесь от этих слабеньких штучек толку мало.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Maxim?oldid=828580",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.196",
+      "speaker": "Maxim",
+      "tag": "NPC",
+      "source": "[NPC] Maxim: Luckily for you, I offer Booster Upgrades, for a price.",
+      "translation": "[NPC] Maxim: К счастью для тебя, я предлагаю улучшения усилителей. За плату.",
+      "style_anchors": [
+        {
+          "source": "Booster Upgrades",
+          "target": "улучшения усилителей"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Maxim?oldid=828580",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.197",
+      "speaker": "Melancholic Viking",
+      "tag": "NPC",
+      "source": "[NPC] Melancholic Viking: I wish I could remember what it felt like!",
+      "translation": "[NPC] Melancholic Viking: Хотел бы я вспомнить, каково это было!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Melancholic_Viking?oldid=843990",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.198",
+      "speaker": "Melancholic Viking",
+      "tag": "NPC",
+      "source": "[NPC] Melancholic Viking: Sadly, my memory is now my worst enemy.",
+      "translation": "[NPC] Melancholic Viking: Увы, теперь память — мой злейший враг.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Melancholic_Viking?oldid=843990",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.199",
+      "speaker": "Melancholic Viking",
+      "tag": "NPC",
+      "source": "[NPC] Melancholic Viking: Please, help me remember the sea!",
+      "translation": "[NPC] Melancholic Viking: Пожалуйста, помоги мне вспомнить море!",
+      "style_anchors": [
+        {
+          "source": "sea",
+          "target": "море"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Melancholic_Viking?oldid=843990",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.200",
+      "speaker": "Mino",
+      "tag": "NPC",
+      "source": "[NPC] Mino: Boy do I have everything you could ever need!",
+      "translation": "[NPC] Mino: У меня есть всё, что тебе только может понадобиться!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mino?oldid=754105",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.201",
+      "speaker": "Mino",
+      "tag": "NPC",
+      "source": "[NPC] Mino: As long as you need equipment that is anyway...",
+      "translation": "[NPC] Mino: Если, конечно, тебе нужно снаряжение...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mino?oldid=754105",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.202",
+      "speaker": "Mino",
+      "tag": "NPC",
+      "source": "[NPC] Mino: They're even exclusive to the Alpha Network. Enjoy!",
+      "translation": "[NPC] Mino: К тому же оно доступно только в альфа-сети. Наслаждайся!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mino?oldid=754105",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.203",
+      "speaker": "Motes Grubber",
+      "tag": "NPC",
+      "source": "[NPC] Motes Grubber: Me eat items, give Motes.",
+      "translation": "[NPC] Motes Grubber: Я есть предметы, давать пылинки.",
+      "style_anchors": [
+        {
+          "source": "Motes",
+          "target": "пылинки"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Motes_Grubber?oldid=814176",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.204",
+      "speaker": "Motes Grubber",
+      "tag": "NPC",
+      "source": "[NPC] Motes Grubber: Before, me items, give Coins!",
+      "translation": "[NPC] Motes Grubber: Раньше я предметы, давать монеты!",
+      "style_anchors": [
+        {
+          "source": "Coins",
+          "target": "монеты"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Motes_Grubber?oldid=814176",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.205",
+      "speaker": "Motes Grubber",
+      "tag": "NPC",
+      "source": "[NPC] Motes Grubber: But now, me eat items, give Motes.",
+      "translation": "[NPC] Motes Grubber: А теперь я есть предметы, давать пылинки.",
+      "style_anchors": [
+        {
+          "source": "Motes",
+          "target": "пылинки"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Motes_Grubber?oldid=814176",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.206",
+      "speaker": "Mayor Nancy",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Nancy: I'm just a placeholder because apparently no one voted on the previous election.",
+      "translation": "[NPC] Mayor Nancy: Я просто замена, потому что на прошлых выборах, похоже, никто не проголосовал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nancy?oldid=789830",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.207",
+      "speaker": "Minister Nancy",
+      "tag": "NPC",
+      "source": "[NPC] Minister Nancy: Hi!",
+      "translation": "[NPC] Minister Nancy: Привет!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nancy?oldid=789830",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.208",
+      "speaker": "Minister Nancy",
+      "tag": "NPC",
+      "source": "[NPC] Minister Nancy: I'm just a placeholder because there is no Minister this election.",
+      "translation": "[NPC] Minister Nancy: Я просто замена, потому что на этих выборах нет министра.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nancy?oldid=789830",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.209",
+      "speaker": "Mayor Nancy",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Nancy: Hello!",
+      "translation": "[NPC] Mayor Nancy: Здравствуйте!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nancy?oldid=789830",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.210",
+      "speaker": "Nene",
+      "tag": "NPC",
+      "source": "[NPC] Nene: Nice day to go fishing, isn't it?",
+      "translation": "[NPC] Nene: Хороший день для рыбалки, правда?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nene?oldid=848449",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.211",
+      "speaker": "Noway",
+      "tag": "NPC",
+      "source": "[NPC] Noway: Have you got the SkyBlock Citizen Timecharm?",
+      "translation": "[NPC] Noway: У тебя есть оберег времени гражданина SkyBlock?",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Citizen Timecharm",
+          "target": "оберег времени гражданина SkyBlock"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Noway?oldid=789884",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.212",
+      "speaker": "Noway",
+      "tag": "NPC",
+      "source": "[NPC] Noway: I think you should run for office.",
+      "translation": "[NPC] Noway: Думаю, тебе стоит баллотироваться.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Noway?oldid=789884",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.213",
+      "speaker": "Noway",
+      "tag": "NPC",
+      "source": "[NPC] Noway: You may pass.",
+      "translation": "[NPC] Noway: Можешь пройти.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Noway?oldid=789884",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.214",
+      "speaker": "Old Shaman Nyko",
+      "tag": "NPC",
+      "source": "[NPC] Old Shaman Nyko: Where I live, vegetables aren't really an option. No sunlight, you see. Could you get me some?",
+      "translation": "[NPC] Old Shaman Nyko: Там, где я живу, овощи не растут. Солнечного света нет, понимаешь. Не раздобудешь мне немного?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Old_Shaman_Nyko?oldid=814273",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.215",
+      "speaker": "Old Shaman Nyko",
+      "tag": "NPC",
+      "source": "[NPC] Old Shaman Nyko: You know you should live life in moderation. Too much of anything is no good. Balance is key.",
+      "translation": "[NPC] Old Shaman Nyko: Знаешь, во всём нужна мера. Любой избыток вреден. Главное — равновесие.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Old_Shaman_Nyko?oldid=814273",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.216",
+      "speaker": "Old Shaman Nyko",
+      "tag": "NPC",
+      "source": "[NPC] Old Shaman Nyko: Welp. Meat is good too, I suppose.",
+      "translation": "[NPC] Old Shaman Nyko: Ну что ж. Мясо, наверное, тоже неплохо.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Old_Shaman_Nyko?oldid=814273",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.217",
+      "speaker": "Mayor Paul",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Paul: All this paperwork is making me hungry.",
+      "translation": "[NPC] Mayor Paul: От всей этой бумажной работы разыгрался аппетит.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Paul?oldid=842883",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.218",
+      "speaker": "Mayor Paul",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Paul: Being a mayor is downtime, anyways.",
+      "translation": "[NPC] Mayor Paul: Быть мэром — всё равно что сидеть без дела.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Paul?oldid=842883",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.219",
+      "speaker": "Pest Wrangler",
+      "tag": "NPC",
+      "source": "[NPC] Pest Wrangler: There's pests everywhere. I can smell 'em in the walls!",
+      "translation": "[NPC] Pest Wrangler: Вредители повсюду. Чую их даже в стенах!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pest_Wrangler?oldid=816181",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.220",
+      "speaker": "Pest Wrangler",
+      "tag": "NPC",
+      "source": "[NPC] Pest Wrangler: Thanks mate, this should help me catch 'em!",
+      "translation": "[NPC] Pest Wrangler: Спасибо, приятель, это поможет мне их поймать!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pest_Wrangler?oldid=816181",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.221",
+      "speaker": "Pest Wrangler",
+      "tag": "NPC",
+      "source": "[NPC] Pest Wrangler: Hm, how strange.. you smell just like 'em..",
+      "translation": "[NPC] Pest Wrangler: Хм, странно... Ты пахнешь прямо как они...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pest_Wrangler?oldid=816181",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.222",
+      "speaker": "Pest Wrangler?",
+      "tag": "NPC",
+      "source": "[NPC] Pest Wrangler?: The figure hands you a slip of paper.",
+      "translation": "[NPC] Pest Wrangler?: Фигура протягивает тебе клочок бумаги.",
+      "style_anchors": [
+        {
+          "source": "The figure hands you a slip of paper.",
+          "target": "Фигура протягивает тебе клочок бумаги."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pest_Wrangler%3F?oldid=816182",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.223",
+      "speaker": "Pest Wrangler?",
+      "tag": "NPC",
+      "source": "[NPC] Pest Wrangler?: The figure nods at you and shambles away.",
+      "translation": "[NPC] Pest Wrangler?: Фигура кивает тебе и шаркает прочь.",
+      "style_anchors": [
+        {
+          "source": "The figure nods at you and shambles away.",
+          "target": "Фигура кивает тебе и шаркает прочь."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pest_Wrangler%3F?oldid=816182",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.224",
+      "speaker": "Pest Wrangler?",
+      "tag": "NPC",
+      "source": "[NPC] Pest Wrangler?: The figure glares at you and shambles away.",
+      "translation": "[NPC] Pest Wrangler?: Фигура сердито смотрит на тебя и шаркает прочь.",
+      "style_anchors": [
+        {
+          "source": "The figure glares at you and shambles away.",
+          "target": "Фигура сердито смотрит на тебя и шаркает прочь."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pest_Wrangler%3F?oldid=816182",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.225",
+      "speaker": "Phillip",
+      "tag": "NPC",
+      "source": "[NPC] Phillip: Vacuum more Pests and exchange them with me to gain even more ☘ Farming Fortune!",
+      "translation": "[NPC] Phillip: Всасывай больше вредителей и обменивай их у меня, чтобы получить ещё больше ☘ фермерской удачи!",
+      "style_anchors": [
+        {
+          "source": "☘ Farming Fortune",
+          "target": "☘ фермерской удачи"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pesthunter_Phillip?oldid=859295",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.226",
+      "speaker": "Phaser",
+      "tag": "NPC",
+      "source": "[NPC] Phaser: You can either cross on your own and experience anger.",
+      "translation": "[NPC] Phaser: Можешь перейти сам и испытать гнев.",
+      "style_anchors": [
+        {
+          "source": "anger",
+          "target": "гнев"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Phaser?oldid=790046",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.227",
+      "speaker": "Phaser",
+      "tag": "NPC",
+      "source": "[NPC] Phaser: Or pay 150,000 Motes and experience despair.",
+      "translation": "[NPC] Phaser: Или заплатить 150,000 пылинок и испытать отчаяние.",
+      "style_anchors": [
+        {
+          "source": "150,000 Motes",
+          "target": "150,000 пылинок"
+        },
+        {
+          "source": "despair",
+          "target": "отчаяние"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Phaser?oldid=790046",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.228",
+      "speaker": "Phaser",
+      "tag": "NPC",
+      "source": "[NPC] Phaser: Enjoy.",
+      "translation": "[NPC] Phaser: Наслаждайся.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Phaser?oldid=790046",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.229",
+      "speaker": "Piglin Guard",
+      "tag": "NPC",
+      "source": "[NPC] Piglin Guard: Hey, this is a restricted area. Leave now!",
+      "translation": "[NPC] Piglin Guard: Эй, сюда нельзя. Немедленно уходи!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Piglin_Guard?oldid=790060",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.230",
+      "speaker": "Rabbit Security",
+      "tag": "NPC",
+      "source": "[NPC] Rabbit Security: Move along here, please.",
+      "translation": "[NPC] Rabbit Security: Проходите, пожалуйста.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Security?oldid=857899",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.231",
+      "speaker": "Rabbit Security",
+      "tag": "NPC",
+      "source": "[NPC] Rabbit Security: Don't be snootin' around here now.",
+      "translation": "[NPC] Rabbit Security: Нечего тут вынюхивать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Security?oldid=857899",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.232",
+      "speaker": "Rabbit Security",
+      "tag": "NPC",
+      "source": "[NPC] Rabbit Security: Get back to finding them eggs!",
+      "translation": "[NPC] Rabbit Security: Возвращайся искать яйца!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Security?oldid=857899",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.233",
+      "speaker": "Ravenous Rhino",
+      "tag": "NPC",
+      "source": "[NPC] Ravenous Rhino: I'm very hungry. Give me the Enchanted Cake!",
+      "translation": "[NPC] Ravenous Rhino: Я очень голоден. Дай мне зачарованный торт!",
+      "style_anchors": [
+        {
+          "source": "Enchanted Cake",
+          "target": "зачарованный торт"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ravenous_Rhino?oldid=851532",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.234",
+      "speaker": "Ravenous Rhino",
+      "tag": "NPC",
+      "source": "[NPC] Ravenous Rhino: You know, that wasn't too bad.",
+      "translation": "[NPC] Ravenous Rhino: Знаешь, очень даже неплохо.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ravenous_Rhino?oldid=851532",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.235",
+      "speaker": "Ravenous Rhino",
+      "tag": "NPC",
+      "source": "[NPC] Ravenous Rhino: No! I don't want that!",
+      "translation": "[NPC] Ravenous Rhino: Нет! Я этого не хочу!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ravenous_Rhino?oldid=851532",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.236",
+      "speaker": "Researcher Betty",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Betty: Hi! I assume you are here to help with our Trophy Frog research.",
+      "translation": "[NPC] Researcher Betty: Привет! Полагаю, ты пришёл помочь нам исследовать трофейных лягушек.",
+      "style_anchors": [
+        {
+          "source": "Trophy Frog",
+          "target": "трофейных лягушек"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Betty?oldid=790323",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.237",
+      "speaker": "Researcher Betty",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Betty: I've got your list of tasks to complete while on the Lotus Atoll.",
+      "translation": "[NPC] Researcher Betty: У меня есть список твоих заданий на Атолле лотосов.",
+      "style_anchors": [
+        {
+          "source": "tasks",
+          "target": "заданий"
+        },
+        {
+          "source": "Lotus Atoll",
+          "target": "Атолле лотосов"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Betty?oldid=790323",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.238",
+      "speaker": "Researcher Betty",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Betty: Complete them all and you'll be rewarded. Here, take a look!",
+      "translation": "[NPC] Researcher Betty: Выполни их все и получишь награду. Вот, взгляни!",
+      "style_anchors": [
+        {
+          "source": "rewarded",
+          "target": "получишь награду"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Betty?oldid=790323",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.239",
+      "speaker": "Researcher Jade",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Jade: Working as part of the Fossil Research Team wasn't my first choice.",
+      "translation": "[NPC] Researcher Jade: Работа в команде исследователей окаменелостей была не первым моим выбором.",
+      "style_anchors": [
+        {
+          "source": "Fossil Research Team",
+          "target": "команде исследователей окаменелостей"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Jade?oldid=839612",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.240",
+      "speaker": "Researcher Jade",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Jade: I actually wanted to be a part of our sister team, who works on a tropical island studying cute little frogs.",
+      "translation": "[NPC] Researcher Jade: Вообще-то я хотела попасть в нашу соседнюю команду, которая работает на тропическом острове и изучает милых маленьких лягушек.",
+      "style_anchors": [
+        {
+          "source": "tropical",
+          "target": "тропическом"
+        },
+        {
+          "source": "frogs",
+          "target": "лягушек"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Jade?oldid=839612",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.241",
+      "speaker": "Researcher Jade",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Jade: As you can see, things didn't really work out...",
+      "translation": "[NPC] Researcher Jade: Как видишь, не сложилось...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Jade?oldid=839612",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.242",
+      "speaker": "Researcher Jessica",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Jessica: Hey!",
+      "translation": "[NPC] Researcher Jessica: Привет!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Jessica?oldid=814533",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.243",
+      "speaker": "Researcher Jessica",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Jessica: A Tewtil just snatched a Trophy Frog right out of my hands!",
+      "translation": "[NPC] Researcher Jessica: Тьютил только что выхватил трофейную лягушку прямо у меня из рук!",
+      "style_anchors": [
+        {
+          "source": "Tewtil",
+          "target": "Тьютил"
+        },
+        {
+          "source": "Trophy Frog",
+          "target": "трофейную лягушку"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Jessica?oldid=814533",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.244",
+      "speaker": "Researcher Jessica",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Jessica: Unlucky for him! These Tewtils have a tendency to get bigger when eating Trophy Frogs...",
+      "translation": "[NPC] Researcher Jessica: Ему не повезло! Эти тьютилы обычно увеличиваются, когда едят трофейных лягушек...",
+      "style_anchors": [
+        {
+          "source": "Tewtils",
+          "target": "тьютилы"
+        },
+        {
+          "source": "bigger",
+          "target": "увеличиваются"
+        },
+        {
+          "source": "Trophy Frogs",
+          "target": "трофейных лягушек"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Jessica?oldid=814533",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.245",
+      "speaker": "Researcher Kay",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Kay: YEET!",
+      "translation": "[NPC] Researcher Kay: ЙУХУ!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Kay?oldid=790327",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.246",
+      "speaker": "Researcher Tay",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Tay: Yeet!",
+      "translation": "[NPC] Researcher Tay: Йуху!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Tay?oldid=790330",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.247",
+      "speaker": "Researcher Timmy",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Timmy: The frequent rain throughout the Atoll means we see a lot of Wetlands Frogs!",
+      "translation": "[NPC] Researcher Timmy: Из-за частых дождей на атолле встречается много болотных лягушек!",
+      "style_anchors": [
+        {
+          "source": "rain",
+          "target": "дождей"
+        },
+        {
+          "source": "Wetlands Frogs",
+          "target": "болотных лягушек"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.248",
+      "speaker": "Researcher Timmy",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Timmy: I love the rain!",
+      "translation": "[NPC] Researcher Timmy: Обожаю дождь!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.249",
+      "speaker": "Researcher Timmy",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Timmy: I hate the sun!",
+      "translation": "[NPC] Researcher Timmy: Ненавижу солнце!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.250",
+      "speaker": "Researcher Tina",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Tina: You can increase your chance of catching Trophy Frogs by increasing your ♔ Trophy Chance stat!",
+      "translation": "[NPC] Researcher Tina: Повышая характеристику ♔ шанса трофея, ты увеличиваешь вероятность поймать трофейных лягушек!",
+      "style_anchors": [
+        {
+          "source": "Trophy Frogs",
+          "target": "трофейных лягушек"
+        },
+        {
+          "source": "♔ Trophy Chance",
+          "target": "♔ шанса трофея"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Tina?oldid=814536",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.251",
+      "speaker": "Researcher Tina",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Tina: The higher your ♔ Trophy Chance, the faster you'll catch whatever Frog you're after!",
+      "translation": "[NPC] Researcher Tina: Чем выше твой ♔ шанс трофея, тем быстрее ты поймаешь нужную лягушку!",
+      "style_anchors": [
+        {
+          "source": "♔ Trophy Chance",
+          "target": "♔ шанс трофея"
+        },
+        {
+          "source": "Frog",
+          "target": "лягушку"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Tina?oldid=814536",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.252",
+      "speaker": "Researcher Tina",
+      "tag": "NPC",
+      "source": "[NPC] Researcher Tina: The Lotus Collection has some useful items that will give you some ♔ Trophy Chance.",
+      "translation": "[NPC] Researcher Tina: В коллекции лотосов есть полезные предметы, повышающие ♔ шанс трофея.",
+      "style_anchors": [
+        {
+          "source": "Lotus Collection",
+          "target": "коллекции лотосов"
+        },
+        {
+          "source": "♔ Trophy Chance",
+          "target": "♔ шанс трофея"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Tina?oldid=814536",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.253",
+      "speaker": "Resident Neighbor",
+      "tag": "NPC",
+      "source": "[NPC] Resident Neighbor: My neighbor is the most narcissistic guy I have ever seen.",
+      "translation": "[NPC] Resident Neighbor: Мой сосед — самый самовлюблённый тип из всех, кого я встречал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Resident_Neighbor?oldid=790333",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.254",
+      "speaker": "Resident Neighbor",
+      "tag": "NPC",
+      "source": "[NPC] Resident Neighbor: My neighbor told me to get off his property, but he doesn't even own this place!",
+      "translation": "[NPC] Resident Neighbor: Сосед велел мне уйти с его территории, хотя это место ему даже не принадлежит!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Resident_Neighbor?oldid=790333",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.255",
+      "speaker": "Resistance Leader",
+      "tag": "NPC",
+      "source": "[NPC] Resistance Leader: The sun will rise again!",
+      "translation": "[NPC] Resistance Leader: Солнце снова взойдёт!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Resistance_Leader?oldid=790336",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.256",
+      "speaker": "Rhanora Cat",
+      "tag": "NPC",
+      "source": "[NPC] Rhanora Cat: Meow.",
+      "translation": "[NPC] Rhanora Cat: Мяу.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rhanora?oldid=822232",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.257",
+      "speaker": "Rhanora Cat",
+      "tag": "NPC",
+      "source": "[NPC] Rhanora Cat: Meeow.",
+      "translation": "[NPC] Rhanora Cat: Мя-ау.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rhanora?oldid=822232",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.258",
+      "speaker": "Rhanora Cat",
+      "tag": "NPC",
+      "source": "[NPC] Rhanora Cat: Meeeow.",
+      "translation": "[NPC] Rhanora Cat: Мя-а-ау.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rhanora?oldid=822232",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.259",
+      "speaker": "Roger",
+      "tag": "NPC",
+      "source": "[NPC] Roger: Need a Travel Scroll to The Rift?",
+      "translation": "[NPC] Roger: Нужен свиток путешествия в Разлом?",
+      "style_anchors": [
+        {
+          "source": "The Rift",
+          "target": "Разлом"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Roger?oldid=814575",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.260",
+      "speaker": "Roger",
+      "tag": "NPC",
+      "source": "[NPC] Roger: You can't activate it here...too much magic in the air I guess?",
+      "translation": "[NPC] Roger: Здесь его не активировать... Наверное, в воздухе слишком много магии?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Roger?oldid=814575",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.261",
+      "speaker": "Roger",
+      "tag": "NPC",
+      "source": "[NPC] Roger: But it's Rift Transferable! That hand-stand Dark Auction man in the Wyld Woods can help you get it back to the real world.",
+      "translation": "[NPC] Roger: Зато его можно перенести из Разлома! Тот человек с Тёмного аукциона, что стоит на руках в Диких лесах, поможет вернуть его в обычный мир.",
+      "style_anchors": [
+        {
+          "source": "Rift Transferable",
+          "target": "можно перенести из Разлома"
+        },
+        {
+          "source": "Dark Auction",
+          "target": "Тёмного аукциона"
+        },
+        {
+          "source": "Wyld Woods",
+          "target": "Диких лесах"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Roger?oldid=814575",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.262",
+      "speaker": "Romero",
+      "tag": "NPC",
+      "source": "[NPC] Romero: I can't cook a gourmet  stew with tiny mushrooms!",
+      "translation": "[NPC] Romero: Из крошечных грибов не приготовить изысканное рагу!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.263",
+      "speaker": "Roosterzilla",
+      "tag": "NPC",
+      "source": "[NPC] Roosterzilla: Puck puck, puck Chicken N Egg Timecharm?",
+      "translation": "[NPC] Roosterzilla: Ко-ко, кудах, Оберег времени «Курица и яйцо»?",
+      "style_anchors": [
+        {
+          "source": "Chicken N Egg Timecharm",
+          "target": "Оберег времени «Курица и яйцо»"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Roosterzilla?oldid=790403",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.264",
+      "speaker": "Roosterzilla",
+      "tag": "NPC",
+      "source": "[NPC] Roosterzilla: Puk.",
+      "translation": "[NPC] Roosterzilla: Ко.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Roosterzilla?oldid=790403",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.265",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: It drives me insane, everyone should be using Telekinesis on their tools!",
+      "translation": "[NPC] Rusty: С ума сойти, на инструментах у каждого должен быть телекинез!",
+      "style_anchors": [
+        {
+          "source": "Telekinesis",
+          "target": "телекинез"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty?oldid=834155",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.266",
+      "speaker": "Rusty",
+      "tag": "NPC",
+      "source": "[NPC] Rusty: If you want I can apply Telekinesis on any of your items for 100 coins.",
+      "translation": "[NPC] Rusty: Если хочешь, наложу телекинез на любой твой предмет за 100 монет.",
+      "style_anchors": [
+        {
+          "source": "100 coins",
+          "target": "100 монет"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty?oldid=834155",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.267",
+      "speaker": "Safari Shill",
+      "tag": "NPC",
+      "source": "[NPC] Safari Shill: I came all the way to Torrhus Canyon just to experience the Critter Safari!",
+      "translation": "[NPC] Safari Shill: Я проделал весь путь до Каньона Торрхуса только ради сафари существ!",
+      "style_anchors": [
+        {
+          "source": "Torrhus Canyon",
+          "target": "Каньона Торрхуса"
+        },
+        {
+          "source": "Critter Safari",
+          "target": "сафари существ"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Safari_Shill?oldid=828621",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.268",
+      "speaker": "Safari Shill",
+      "tag": "NPC",
+      "source": "[NPC] Safari Shill: However, I can't seem to place high enough in Miria's Contests to win any Safari Tickets...",
+      "translation": "[NPC] Safari Shill: Но никак не могу занять достаточно высокое место в состязаниях Мирии, чтобы выиграть билеты на сафари...",
+      "style_anchors": [
+        {
+          "source": "Miria's Contests",
+          "target": "состязаниях Мирии"
+        },
+        {
+          "source": "Safari Tickets",
+          "target": "билеты на сафари"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Safari_Shill?oldid=828621",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.269",
+      "speaker": "Salesman",
+      "tag": "NPC",
+      "source": "[NPC] Salesman: Thank you for supporting the server and allowing us to maintain SkyBlock!",
+      "translation": "[NPC] Salesman: Спасибо за поддержку сервера: благодаря вам мы можем поддерживать SkyBlock!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Salesman?oldid=856373",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.270",
+      "speaker": "Salesman",
+      "tag": "NPC",
+      "source": "[NPC] Salesman: If you want to support us, head over to the Hypixel Store at store.hypixel.net",
+      "translation": "[NPC] Salesman: Если хочешь нас поддержать, загляни в магазин Hypixel по адресу store.hypixel.net",
+      "style_anchors": [
+        {
+          "source": "store.hypixel.net",
+          "target": "store.hypixel.net"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Salesman?oldid=856373",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.271",
+      "speaker": "Salvage Old Attributes",
+      "tag": "NPC",
+      "source": "[NPC] Salvage Old Attributes: Beep boop.",
+      "translation": "[NPC] Salvage Old Attributes: Бип-буп.",
+      "style_anchors": [
+        {
+          "source": "Beep boop.",
+          "target": "Бип-буп."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Salvage_Old_Attributes?oldid=814617",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.272",
+      "speaker": "Salvage Old Attributes",
+      "tag": "NPC",
+      "source": "[NPC] Salvage Old Attributes: This is a Bio-Anvil. Beep.",
+      "translation": "[NPC] Salvage Old Attributes: Это био-наковальня. Бип.",
+      "style_anchors": [
+        {
+          "source": "Beep",
+          "target": "Бип"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Salvage_Old_Attributes?oldid=814617",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.273",
+      "speaker": "Salvage Old Attributes",
+      "tag": "NPC",
+      "source": "[NPC] Salvage Old Attributes: If you still have attributes on items, you can use it to transfer them into your Hunting Box. Boop.",
+      "translation": "[NPC] Salvage Old Attributes: Если на предметах ещё остались атрибуты, с её помощью можно перенести их в охотничью шкатулку. Буп.",
+      "style_anchors": [
+        {
+          "source": "Hunting Box",
+          "target": "охотничью шкатулку"
+        },
+        {
+          "source": "Boop",
+          "target": "Буп"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Salvage_Old_Attributes?oldid=814617",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.274",
+      "speaker": "Mayor Scorpius",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Scorpius: Now that I'm mayor, I can truly serve the underground community.",
+      "translation": "[NPC] Mayor Scorpius: Теперь, когда я мэр, я могу по-настоящему служить подпольному сообществу.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Scorpius?oldid=828186",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.275",
+      "speaker": "Mayor Scorpius",
+      "tag": "NPC",
+      "source": "[NPC] Mayor Scorpius: This Auction will have more rounds and upgraded items.",
+      "translation": "[NPC] Mayor Scorpius: На этом аукционе будет больше раундов и улучшенные предметы.",
+      "style_anchors": [
+        {
+          "source": "more",
+          "target": "больше"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Scorpius?oldid=828186",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.276",
+      "speaker": "Scout Scardius",
+      "tag": "NPC",
+      "source": "[NPC] Scout Scardius: Do you have any pumpkins I can wear as a mask while down in the Glacite Tunnels?",
+      "translation": "[NPC] Scout Scardius: Есть тыквы, которые я мог бы надеть как маску в ледниковых туннелях?",
+      "style_anchors": [
+        {
+          "source": "Glacite Tunnels",
+          "target": "ледниковых туннелях"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Scout_Scardius?oldid=754804",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.277",
+      "speaker": "Scout Scardius",
+      "tag": "NPC",
+      "source": "[NPC] Scout Scardius: Thanks, hopefully I'll be safe with this to hide behind!",
+      "translation": "[NPC] Scout Scardius: Спасибо! Надеюсь, с таким укрытием я буду в безопасности!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Scout_Scardius?oldid=754804",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.278",
+      "speaker": "Scout Scardius",
+      "tag": "NPC",
+      "source": "[NPC] Scout Scardius: You want me to go back down there with nothing to hide behind? Bro...",
+      "translation": "[NPC] Scout Scardius: Хочешь, чтобы я вернулся туда, даже не имея за чем спрятаться? Братан...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Scout_Scardius?oldid=754804",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.279",
+      "speaker": "Sheep",
+      "tag": "NPC",
+      "source": "[NPC] Sheep: * baeaeaeea *",
+      "translation": "[NPC] Sheep: * бе-е-е *",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sheep_(NPC)?oldid=828107",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.280",
+      "speaker": "Sheep",
+      "tag": "NPC",
+      "source": "[NPC] Sheep: * baaaaaeee *",
+      "translation": "[NPC] Sheep: * бе-е-е-е *",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sheep_(NPC)?oldid=828107",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.281",
+      "speaker": "Sheep",
+      "tag": "NPC",
+      "source": "[NPC] Sheep: * baeaeaeaeaaeaeaeaeaeaeaeaeaeaeaeaeeaeae *",
+      "translation": "[NPC] Sheep: * бе-е-е-е-е-е-е-е-е-е-е-е-е-е-е *",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sheep_(NPC)?oldid=828107",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.282",
+      "speaker": "Sherry",
+      "tag": "NPC",
+      "source": "[NPC] Sherry: My helmet is constantly breaking. Could you provide me with some Pumpkins to help with maintenance?",
+      "translation": "[NPC] Sherry: Мой шлем постоянно ломается. Не принесёшь тыкв для ремонта?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sherry?oldid=857909",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.283",
+      "speaker": "Sherry",
+      "tag": "NPC",
+      "source": "[NPC] Sherry: Thank you, I'll never run out of Pumpkins!",
+      "translation": "[NPC] Sherry: Спасибо, теперь тыкв хватит надолго!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sherry?oldid=857909",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.284",
+      "speaker": "Sherry",
+      "tag": "NPC",
+      "source": "[NPC] Sherry: I'll look elsewhere for more Pumpkins.",
+      "translation": "[NPC] Sherry: Поищу тыквы в другом месте.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sherry?oldid=857909",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.285",
+      "speaker": "Shifty",
+      "tag": "NPC",
+      "source": "[NPC] Shifty: ✆ Look... I'll add you as a contact if you can bring me some good drinks, such as a Scarleton Premium and a Red Thornleaf Tea.",
+      "translation": "[NPC] Shifty: ✆ Слушай... добавлю тебя в контакты, если принесёшь хорошие напитки: «Премиум Скарлетона» и чай из красного шиполиста.",
+      "style_anchors": [
+        {
+          "source": "Scarleton Premium",
+          "target": "«Премиум Скарлетона»"
+        },
+        {
+          "source": "Red Thornleaf Tea",
+          "target": "чай из красного шиполиста"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Shifty?oldid=830486",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.286",
+      "speaker": "☣ Sick Farmer ☣",
+      "tag": "NPC",
+      "source": "[NPC] ☣ Sick Farmer ☣: * sick farmer noises *",
+      "translation": "[NPC] ☣ Sick Farmer ☣: * звуки больного фермера *",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sick_Farmer?oldid=790639",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.287",
+      "speaker": "Yoshua",
+      "tag": "NPC",
+      "source": "[NPC] Yoshua: Do you ever feel like we're just programmed to do certain things in life?",
+      "translation": "[NPC] Yoshua: Не кажется тебе порой, что мы просто запрограммированы делать определённые вещи в жизни?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Skylark?oldid=807974",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.288",
+      "speaker": "Yoshua",
+      "tag": "NPC",
+      "source": "[NPC] Yoshua: What made you change your mind?",
+      "translation": "[NPC] Yoshua: Что заставило тебя передумать?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Skylark?oldid=807974",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.289",
+      "speaker": " St. Jerry",
+      "tag": "NPC",
+      "source": "[NPC]  St. Jerry: If you haven't already, be sure to give your other Gifts away to others. Giving Gifts benefits both you and the receiver!",
+      "translation": "[NPC]  St. Jerry: Если ещё не сделал этого, обязательно подари оставшиеся подарки другим. Подарки приносят пользу и дарителю, и получателю!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry?oldid=857911",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.290",
+      "speaker": "The Lotus Eater",
+      "tag": "NPC",
+      "source": "[NPC] The Lotus Eater: Ribbit!",
+      "translation": "[NPC] The Lotus Eater: Ква!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/The_Lotus_Eater?oldid=816460",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.291",
+      "speaker": "Unbound Explorer",
+      "tag": "NPC",
+      "source": "[NPC] Unbound Explorer: I've traveled this far..",
+      "translation": "[NPC] Unbound Explorer: Я забрался так далеко...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Unbound_Explorer?oldid=791282",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.292",
+      "speaker": "Unbound Explorer",
+      "tag": "NPC",
+      "source": "[NPC] Unbound Explorer: And there's nothing here!",
+      "translation": "[NPC] Unbound Explorer: А здесь ничего нет!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Unbound_Explorer?oldid=791282",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.293",
+      "speaker": "Uvia",
+      "tag": "NPC",
+      "source": "[NPC] Uvia: I enjoy long strolls in Scarleton.",
+      "translation": "[NPC] Uvia: Люблю подолгу гулять по Скарлетону.",
+      "style_anchors": [
+        {
+          "source": "Scarleton",
+          "target": "Скарлетону"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Uvia?oldid=791299",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.294",
+      "speaker": "Uvia",
+      "tag": "NPC",
+      "source": "[NPC] Uvia: It's so refreshing to see some new faces in the town!",
+      "translation": "[NPC] Uvia: Как приятно видеть новые лица в городе!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Uvia?oldid=791299",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.295",
+      "speaker": "Vanessa",
+      "tag": "NPC",
+      "source": "[NPC] Vanessa: I have the power to conjure rain from the skies.",
+      "translation": "[NPC] Vanessa: Я могу призывать дождь с небес.",
+      "style_anchors": [
+        {
+          "source": "rain",
+          "target": "дождь"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vanessa?oldid=791313",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.296",
+      "speaker": "Vanessa",
+      "tag": "NPC",
+      "source": "[NPC] Vanessa: But it'll cost you!",
+      "translation": "[NPC] Vanessa: Но придётся заплатить!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vanessa?oldid=791313",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.297",
+      "speaker": "Vargul",
+      "tag": "NPC",
+      "source": "[NPC] Vargul: Sometimes, Dark Candy is not enough to satiate a gnawing hunger. Something...more, is needed.",
+      "translation": "[NPC] Vargul: Иногда тёмных конфет недостаточно, чтобы утолить мучительный голод. Нужно что-то... большее.",
+      "style_anchors": [
+        {
+          "source": "Dark Candy",
+          "target": "тёмных конфет"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vargul_the_Unearthed?oldid=858592",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.298",
+      "speaker": "Vargul",
+      "tag": "NPC",
+      "source": "[NPC] Vargul: Your offering is appreciated.",
+      "translation": "[NPC] Vargul: Твоё подношение принято с благодарностью.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vargul_the_Unearthed?oldid=858592",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.299",
+      "speaker": "Vesuvius",
+      "tag": "NPC",
+      "source": "[NPC] Vesuvius: Kuudra runs are full of goodies.",
+      "translation": "[NPC] Vesuvius: В походах на Куудру полно ценной добычи.",
+      "style_anchors": [
+        {
+          "source": "Kuudra",
+          "target": "Куудру"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vesuvius?oldid=791330",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.300",
+      "speaker": "Vesuvius",
+      "tag": "NPC",
+      "source": "[NPC] Vesuvius: If you don't have time to claim them, I got your back.",
+      "translation": "[NPC] Vesuvius: Если не успеешь её забрать, я тебя подстрахую.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vesuvius?oldid=791330",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.301",
+      "speaker": "Vinyl Collector",
+      "tag": "NPC",
+      "source": "[NPC] Vinyl Collector: Hey man, I just need one more vinyl to complete the full Pest Vinyl collection.",
+      "translation": "[NPC] Vinyl Collector: Эй, дружище, мне нужна ещё одна пластинка для полной коллекции пластинок вредителей.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vinyl_Collector?oldid=816537",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.302",
+      "speaker": "Vinyl Collector",
+      "tag": "NPC",
+      "source": "[NPC] Vinyl Collector: Finally! Thanks man, now I have another complete set!",
+      "translation": "[NPC] Vinyl Collector: Наконец-то! Спасибо, дружище, теперь у меня ещё один полный набор!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vinyl_Collector?oldid=816537",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.303",
+      "speaker": "Vinyl Collector",
+      "tag": "NPC",
+      "source": "[NPC] Vinyl Collector: Aw man, guess I'll have to look somewhere else.",
+      "translation": "[NPC] Vinyl Collector: Эх, придётся поискать в другом месте.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vinyl_Collector?oldid=816537",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.304",
+      "speaker": "Vreike",
+      "tag": "NPC",
+      "source": "[NPC] Vreike: I don't know who the supplier is, but I know someone who does.",
+      "translation": "[NPC] Vreike: Я не знаю, кто поставщик, но знаю того, кто знает.",
+      "style_anchors": [
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vreike?oldid=815263",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.305",
+      "speaker": "Vreike",
+      "tag": "NPC",
+      "source": "[NPC] Vreike: I can tell you their name for 20 Motes.",
+      "translation": "[NPC] Vreike: За 20 пылинок я назову тебе его имя.",
+      "style_anchors": [
+        {
+          "source": "20 Motes",
+          "target": "20 пылинок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vreike?oldid=815263",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.306",
+      "speaker": "Vreike",
+      "tag": "NPC",
+      "source": "[NPC] Vreike: I heard that Ashera might know who the supplier is.",
+      "translation": "[NPC] Vreike: Слышал, Ашера может знать, кто поставщик.",
+      "style_anchors": [
+        {
+          "source": "Ashera",
+          "target": "Ашера"
+        },
+        {
+          "source": "supplier",
+          "target": "поставщик"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Vreike?oldid=815263",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.307",
+      "speaker": "Weaponsmith",
+      "tag": "NPC",
+      "source": "[NPC] Weaponsmith: You'll need some strong weapons to survive out in the wild! Lucky for you, I've got some!",
+      "translation": "[NPC] Weaponsmith: Чтобы выжить в диких краях, понадобится мощное оружие! На твоё счастье, у меня оно есть!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Weaponsmith?oldid=830023",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.308",
+      "speaker": "Weaponsmith",
+      "tag": "NPC",
+      "source": "[NPC] Weaponsmith: Click me again to open the Weaponsmith Shop!",
+      "translation": "[NPC] Weaponsmith: Нажми на меня ещё раз, чтобы открыть магазин оружейника!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Weaponsmith?oldid=830023",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.309",
+      "speaker": "Weaponsmith",
+      "tag": "NPC",
+      "source": "[NPC] Weaponsmith: Too bad, I guess I'll have to look for actual metal next time...",
+      "translation": "[NPC] Weaponsmith: Жаль. В следующий раз придётся искать настоящий металл...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Weaponsmith?oldid=830023",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.310",
+      "speaker": "Wool Weaver",
+      "tag": "NPC",
+      "source": "[NPC] Wool Weaver: ✆ Thanks a lot. Call me any time to make your island more vibrant!",
+      "translation": "[NPC] Wool Weaver: ✆ Большое спасибо. Звони в любое время, чтобы сделать свой остров красочней!",
+      "style_anchors": [
+        {
+          "source": "v",
+          "target": "кр",
+          "source_occurrence": 1
+        },
+        {
+          "source": "i",
+          "target": "а",
+          "source_occurrence": 3,
+          "target_occurrence": 3
+        },
+        {
+          "source": "b",
+          "target": "с",
+          "source_occurrence": 1,
+          "target_occurrence": 6
+        },
+        {
+          "source": "r",
+          "target": "о",
+          "source_occurrence": 3,
+          "target_occurrence": 10
+        },
+        {
+          "source": "a",
+          "target": "ч",
+          "source_occurrence": 7,
+          "target_occurrence": 2
+        },
+        {
+          "source": "n",
+          "target": "н",
+          "source_occurrence": 4,
+          "target_occurrence": 2
+        },
+        {
+          "source": "t",
+          "target": "ей",
+          "source_occurrence": 4
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wool_Weaver?oldid=830508",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.311",
+      "speaker": "yrreJ",
+      "tag": "NPC",
+      "source": "[NPC] yrreJ: There is all sorts of strange magic in this world.",
+      "translation": "[NPC] yrreJ: В этом мире полно странной магии.",
+      "style_anchors": [
+        {
+          "source": "magic",
+          "target": "магии"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/YrreJ?oldid=793678",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.312",
+      "speaker": "yrreJ",
+      "tag": "NPC",
+      "source": "[NPC] yrreJ: Sometimes, experiments go wrong.",
+      "translation": "[NPC] yrreJ: Иногда эксперименты идут не так.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/YrreJ?oldid=793678",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.313",
+      "speaker": "yrreJ",
+      "tag": "NPC",
+      "source": "[NPC] yrreJ: But nothing that can't be repaired!",
+      "translation": "[NPC] yrreJ: Но нет ничего, что нельзя исправить!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/YrreJ?oldid=793678",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.314",
+      "speaker": "Ziri",
+      "tag": "NPC",
+      "source": "[NPC] Ziri: I know people!",
+      "translation": "[NPC] Ziri: У меня есть связи!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ziri?oldid=857539",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc100.315",
+      "speaker": "Ziri",
+      "tag": "NPC",
+      "source": "[NPC] Ziri: If you ever removed an Abiphone Contact by accident and don't know how to reach them, maybe I can hook you up!",
+      "translation": "[NPC] Ziri: Если случайно удалишь контакт Абифона и не будешь знать, как с ним связаться, возможно, я помогу!",
+      "style_anchors": [
+        {
+          "source": "Abiphone Contact",
+          "target": "контакт Абифона"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ziri?oldid=857539",
+      "evidence": "pinned_public_wiki_revision_not_live_packet"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "version": "0.15.13-dev",
+  "corpus_sources": 33126,
+  "dictionary_changed_sources": 32613,
+  "unchanged_sources": 513,
+  "unchanged_with_latin_candidates": 509,
+  "changed_with_remaining_latin_candidates": 5669,
+  "latin_is_not_automatically_an_error": true,
+  "log_chat_lines": 692,
+  "unclassified_chat_lines_not_exported": 608,
+  "reviewed_notification_unique": 17,
+  "reviewed_notification_changed": 17,
+  "reviewed_notification_categories": {
+    "cookie_obtain": 1,
+    "cookie_required": 1,
+    "dropvision_startup": 1,
+    "garden_presence": 1,
+    "garden_preset": 1,
+    "pet_ready": 1,
+    "sacks": 4,
+    "skyhanni_stash": 4,
+    "spooky_objective": 1,
+    "spooky_rewards": 1,
+    "teleport": 1
+  },
+  "reviewed_notifications": [
+    {
+      "category": "cookie_obtain",
+      "source": "Obtain a Booster Cookie from the community shop in the hub!",
+      "translation": "Получите печенье-усилитель в общественном магазине в Хабе!",
+      "changed": true
+    },
+    {
+      "category": "garden_presence",
+      "source": "Remember, you have to be on the island for the resources to be planted!",
+      "translation": "Для размещения ресурсов вы должны оставаться на острове!",
+      "changed": true
+    },
+    {
+      "category": "garden_preset",
+      "source": "Started pasting Cactus preset on Garden Plot - 7!",
+      "translation": "Начато размещение шаблона «Кактус» на участке Сада № 7!",
+      "changed": true
+    },
+    {
+      "category": "spooky_objective",
+      "source": "Talk to the Spooky Man in the Hub!",
+      "translation": "Поговорите с Жутким человеком в Хабе!",
+      "changed": true
+    },
+    {
+      "category": "teleport",
+      "source": "Teleported you to The Barn!",
+      "translation": "Перемещение: Амбар!",
+      "changed": true
+    },
+    {
+      "category": "spooky_rewards",
+      "source": "You haven\u0027t claimed your Spooky Rewards yet!",
+      "translation": "Вы ещё не забрали награды Жуткого фестиваля!",
+      "changed": true
+    },
+    {
+      "category": "cookie_required",
+      "source": "You need the Cookie Buff to use this feature!",
+      "translation": "Для этой функции нужен эффект печенья!",
+      "changed": true
+    },
+    {
+      "category": "pet_ready",
+      "source": "Your Dolphin is Ready to pick up! [call]",
+      "translation": "Ваш питомец «Дельфин» готов к получению! [ЗАБРАТЬ]",
+      "changed": true
+    },
+    {
+      "category": "dropvision_startup",
+      "source": "[DropVision] v3.2.5+26.1.2 loaded  |  Detection OFF · 7/7 rarities · Bazaar + Auction pricing  |  /dp gui",
+      "translation": "[DropVision] v3.2.5+26.1.2 загружен  |  Распознавание ВЫКЛ · 7/7 редкостей · Цены Базара и аукциона  |  /dp gui",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +1 item. (Last 5s.)",
+      "translation": "[Мешки] +1 предмет. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +20,032 items, -20,160 items. (Last 13s.)",
+      "translation": "[Мешки] +20,032 предмета, -20,160 предметов. (За 13 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +30,866 items, -20,160 items. (Last 8s.)",
+      "translation": "[Мешки] +30,866 предметов, -20,160 предметов. (За 8 с.)",
+      "changed": true
+    },
+    {
+      "category": "sacks",
+      "source": "[Sacks] +8 items. (Last 5s.)",
+      "translation": "[Мешки] +8 предметов. (За 5 с.)",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 107k materials in stash, totalling 17 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 107k материалов, видов: 17. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 2 items in stash. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 2 предмета. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 56k materials in stash, totalling 16 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 56k материалов, видов: 16. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    },
+    {
+      "category": "skyhanni_stash",
+      "source": "[SkyHanni] You have 56k materials in stash, totalling 17 types. Click to pickup your stash!",
+      "translation": "[SkyHanni] В тайнике: 56k материалов, видов: 17. Нажмите, чтобы забрать вещи!",
+      "changed": true
+    }
+  ],
+  "npc_observed_unique": 21,
+  "npc_observed_changed": 1,
+  "unknown_display_unique": 52918,
+  "unknown_display_now_changed_by_dictionary": 17499,
+  "private_chat_or_unknown_text_exported": false,
+  "chat_replayed_as_unsigned_system_notification": true,
+  "actual_log_channel_metadata_unavailable": true,
+  "full_manual_proofread": false,
+  "live_server_total_known": false,
+  "game_launched": false
+}

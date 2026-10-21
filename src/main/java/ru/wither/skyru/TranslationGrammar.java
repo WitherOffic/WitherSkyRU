@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 /** Closed numeric noun policy, mirrored by tools/translation_quality.py. */
 public final class TranslationGrammar {
     private TranslationGrammar() {}
-    private static final Pattern NUMBER = Pattern.compile("(?<![\\d.,])(\\d+(?:[ ,._]\\d+)*) (секунд(?:а|у|ы)?|монет(?:а|у|ы)?|предмет(?:ов|а)?|бит(?:ов|а)?|шахтёрск(?:ое задание|их задания|их заданий))(?![\\p{L}\\p{N}_])", Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE);
+    private static final Pattern NUMBER = Pattern.compile("(?<![\\d.,])(\\d+(?:[ ,._]\\d+)*) (секунд(?:а|у|ы)?|монет(?:а|у|ы)?|предмет(?:ов|а)?|бит(?:ов|а)?|очк(?:о|а|ов)|блок(?:а|ов)?|уров(?:ень|ня|ней)|вредител(?:ь|я|ей)|раз(?:а)?|шахтёрск(?:ое задание|их задания|их заданий))(?![\\p{L}\\p{N}_])", Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE);
     private static String numberCase(String prefix, String unit) {
         String[] clauses = prefix.toLowerCase(java.util.Locale.ROOT).replaceAll("[ +\\-]+$", "").split("[.!?;\\n]", -1);
         String clause = clauses[clauses.length - 1];
@@ -17,6 +17,8 @@ public final class TranslationGrammar {
         } else if (unit.startsWith("секунд")) {
             if (clause.matches("(?s).*(?:в течение|не менее|не более|дольше|меньше|больше|до|после|около)\\s*$")) return "gen";
             if (clause.matches("(?s).*(?:на|за|через|каждую|каждые)\\s*$")) return "acc";
+        } else if (unit.startsWith("блок") || unit.startsWith("уров") || unit.startsWith("очк")) {
+            if (clause.matches("(?s).*(?:в радиусе|в пределах|не менее|не более|больше|меньше|до|около|от|из|с)\\s*$")) return "gen";
         }
         return "nom";
     }
@@ -40,8 +42,15 @@ public final class TranslationGrammar {
                     grammaticalCase.equals("acc") ? new String[]{"секунду", "секунды", "секунд"} : new String[]{"секунда", "секунды", "секунд"};
             } else if (unit.startsWith("предмет")) forms = new String[]{"предмет", "предмета", "предметов"};
             else if (unit.startsWith("бит")) forms = new String[]{"бит", "бита", "битов"};
+            else if (unit.startsWith("очк")) forms = grammaticalCase.equals("gen") ? new String[]{"очка", "очков", "очков"} : new String[]{"очко", "очка", "очков"};
+            else if (unit.startsWith("блок")) forms = grammaticalCase.equals("gen") ? new String[]{"блока", "блоков", "блоков"} : new String[]{"блок", "блока", "блоков"};
+            else if (unit.startsWith("уров")) forms = grammaticalCase.equals("gen") ? new String[]{"уровня", "уровней", "уровней"} : new String[]{"уровень", "уровня", "уровней"};
+            else if (unit.startsWith("вредител")) forms = new String[]{"вредитель", "вредителя", "вредителей"};
+            else if (unit.startsWith("раз")) forms = new String[]{"раз", "раза", "раз"};
             else forms = new String[]{"шахтёрское задание", "шахтёрских задания", "шахтёрских заданий"};
-            String word = decimal && unit.startsWith("монет") ? "монеты" : decimal && unit.startsWith("секунд") ? "секунды" : forms[index];
+            String word = decimal && unit.startsWith("монет") ? "монеты" : decimal && unit.startsWith("секунд") ? "секунды" :
+                decimal && unit.startsWith("блок") ? "блока" : decimal && unit.startsWith("уров") ? "уровня" :
+                decimal && unit.startsWith("очк") ? "очка" : forms[index];
             m.appendReplacement(result, Matcher.quoteReplacement(raw + " " + word));
         }
         m.appendTail(result);

@@ -19,9 +19,9 @@
   "processed_snapshot_strings": 32620,
   "translated_strings_with_remaining_latin_terms": 1612,
   "remaining_snapshot_strings": 506,
-  "runtime_dictionary_entries": 35582,
-  "runtime_identity_entries": 30,
-  "runtime_templates": 1199,
+  "runtime_dictionary_entries": 36066,
+  "runtime_identity_entries": 32,
+  "runtime_templates": 1231,
   "snapshot_occurrences": 267084,
   "translated_or_partially_translated_occurrences": 253732,
   "translation_origins": {
@@ -51,5 +51,7 @@
   },
   "full_server_coverage": false,
   "runtime_tested": false,
-  "note": "Counts are authored catalogue coverage, not quality assertions or live game tests. English rarity labels intentionally retained by user request and counted separately, not untranslated. Latin terms include preserved rarity/brands/ranks and unlocalized arguments."
+  "note": "Counts are authored catalogue coverage, not quality assertions or live game tests. English rarity labels intentionally retained by user request and counted separately, not untranslated. Latin terms include preserved rarity/brands/ranks and unlocalized arguments.",
+  "runtime_reference_version": "0.15.88-dev",
+  "snapshot_coverage_note": "Frozen snapshot statistics above have not been recalculated for 0.15.88-dev; only runtime entry counts/reference are current. The canonical translations.json snapshot metadata remains frozen. Full server denominator remains unknown."
 }

@@ -1,0 +1,30 @@
+{
+  "revision": "0.15.0-dev",
+  "frozen_snapshot_unique": 33126,
+  "unchanged_snapshot_sources_including_rarities": 518,
+  "unchanged_categories": {
+    "intentional_english_rarity": 12,
+    "technical_pattern_or_identifier": 167,
+    "numeric_only": 3,
+    "brand": 17,
+    "proper_name_candidate": 276,
+    "entity_identifier": 5,
+    "mirrored_puzzle": 21,
+    "player_credits": 17
+  },
+  "partial_translations_with_non_rarity_latin": 984,
+  "partial_is_not_automatically_incorrect": true,
+  "map_graph_files": 20,
+  "map_unique_readable_labels": 1213,
+  "map_missing_exact_labels": 274,
+  "map_unchanged_categories": {
+    "proper_name_or_label_needs_context": 258,
+    "repository_annotation_not_server_text": 14,
+    "brand": 2
+  },
+  "npc_observed_unique_full_messages": 11,
+  "npc_missing_exact_messages": 0,
+  "live_server_total_unknown": true,
+  "game_launched": false,
+  "frozen_denominator_unchanged": true
+}

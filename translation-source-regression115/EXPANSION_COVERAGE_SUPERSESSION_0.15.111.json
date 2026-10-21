@@ -1,0 +1,15 @@
+{
+  "scope": "One explicit negative-coverage supersession,not a historical Russian target/style rewrite. Original TestNpc102.java and NPC_SOURCES_0.15.102.json remain unchanged.",
+  "source": "[NPC] [Eye]: Quit it!",
+  "translation": "[NPC] [Eye]: Прекрати!",
+  "source_url": "https://hypixelskyblock.minecraft.wiki/w/Porhtal?oldid=828211",
+  "occurrence_id": "p98643-r828211-o1304-l0-f11911",
+  "published_legacy": "§e[NPC] §a[Eye]§f: Quit it!",
+  "reason": "The literal speaker name [Eye] contains brackets but is not a variable. The pinned queue marks variable_definition=false and publishes the full fixed phrase under Dialogue. The old102 review bucket had conservatively treated it as pending_variables.",
+  "affected_generated_test": "TestNpc102.java",
+  "other_pending_variable_negative_cases_unchanged": 42,
+  "replacement_assertion": "Only this exact source must now produce the independently authored111 target;all other pending variables retain the old unchanged-object assertion.",
+  "failed_pre_supersession_run": "build/expansion111-checks-83d7b6aecdcd4676b23a5b83e85f6f55",
+  "retained_pre_supersession_test_source": "build/expansion111-test-sources-v3/TestNpc102.java",
+  "new_production_algorithm": false
+}

@@ -1,0 +1,927 @@
+{
+  "all_npc_script_denominators_known": false,
+  "version": "0.15.69-dev",
+  "known_exact_speakers": [
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Adventurer Saul",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Anita",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Arthur",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Avorius",
+      "exact_dialogue_records": 3
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Bartender",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json",
+        "story-dialogues.json"
+      ],
+      "speaker": "Beth",
+      "exact_dialogue_records": 20
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Bramass Beastslayer",
+      "exact_dialogue_records": 6
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Brigette",
+      "exact_dialogue_records": 89
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Captain Baha",
+      "exact_dialogue_records": 7
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Carnival Cowboy",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Carnival Leader",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Carnival Pirateman",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "garden-dialogues.json",
+        "npc-dialogues.json",
+        "quest-dialogues.json"
+      ],
+      "speaker": "Carpenter",
+      "exact_dialogue_records": 8
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Charlotte",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Combat Merchant",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Croesus",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Don Expresso",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Duke",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Elizabeth",
+      "exact_dialogue_records": 13
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Elle",
+      "exact_dialogue_records": 10
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Emissary Wilson",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Farmer Jon",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Farmer Rigby",
+      "exact_dialogue_records": 11
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json",
+        "story-dialogues.json"
+      ],
+      "speaker": "Farmhand",
+      "exact_dialogue_records": 28
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Felix",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Fisherman Gerald",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Friendly Hiker",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "winter-dialogues.json"
+      ],
+      "speaker": "Frosty",
+      "exact_dialogue_records": 6
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "dungeon-dialogues.json"
+      ],
+      "speaker": "Goldor",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Grandma Wolf",
+      "exact_dialogue_records": 11
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Gulliver",
+      "exact_dialogue_records": 7
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Guy",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json",
+        "story-dialogues.json"
+      ],
+      "speaker": "Gwendolyn",
+      "exact_dialogue_records": 24
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Hendrik",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Iron Forger",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Jack",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "garden-dialogues.json",
+        "npc-dialogues.json"
+      ],
+      "speaker": "Jacob",
+      "exact_dialogue_records": 15
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json",
+        "npc-dialogues.json"
+      ],
+      "speaker": "Jacobus",
+      "exact_dialogue_records": 11
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Jake",
+      "exact_dialogue_records": 9
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Jamie",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Jeff",
+      "exact_dialogue_records": 19
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json",
+        "quest-dialogues.json"
+      ],
+      "speaker": "Jerry",
+      "exact_dialogue_records": 6
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Jimmy",
+      "exact_dialogue_records": 16
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Jotraeline Greatforge",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Juliette",
+      "exact_dialogue_records": 69
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json",
+        "story-dialogues.json"
+      ],
+      "speaker": "Kat",
+      "exact_dialogue_records": 13
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "King Yolkar",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json",
+        "story-dialogues.json"
+      ],
+      "speaker": "Lapis Miner",
+      "exact_dialogue_records": 13
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "garden-dialogues.json"
+      ],
+      "speaker": "Lazy Miner",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Leo",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Liam",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json",
+        "npc-dialogues.json"
+      ],
+      "speaker": "Librarian",
+      "exact_dialogue_records": 3
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json",
+        "npc-dialogues.json"
+      ],
+      "speaker": "Lift Operator",
+      "exact_dialogue_records": 3
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Lumina",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Maddox",
+      "exact_dialogue_records": 8
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Malik",
+      "exact_dialogue_records": 7
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Marigold",
+      "exact_dialogue_records": 6
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Maths Enjoyer",
+      "exact_dialogue_records": 4
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "dungeon-dialogues.json"
+      ],
+      "speaker": "Maxor",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Maxwell",
+      "exact_dialogue_records": 24
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Moby",
+      "exact_dialogue_records": 6
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "dungeon-dialogues.json",
+        "hub-dialogues.json"
+      ],
+      "speaker": "Mort",
+      "exact_dialogue_records": 13
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "dungeon-dialogues.json"
+      ],
+      "speaker": "Necron",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "dungeon-dialogues.json"
+      ],
+      "speaker": "Oruo the Omniscient",
+      "exact_dialogue_records": 9
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "garden-dialogues.json",
+        "hub-dialogues.json"
+      ],
+      "speaker": "Pesthunter Phillip",
+      "exact_dialogue_records": 8
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Queen Mismyla",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Rescue Recruiter",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Researcher Gilbert",
+      "exact_dialogue_records": 22
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Researcher Lily",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Researcher Ribery",
+      "exact_dialogue_records": 8
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Romero",
+      "exact_dialogue_records": 115
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Rusty",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "dungeon-dialogues.json"
+      ],
+      "speaker": "Sadan",
+      "exact_dialogue_records": 3
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "garden-dialogues.json",
+        "npc-dialogues.json",
+        "quest-dialogues.json",
+        "story-dialogues.json"
+      ],
+      "speaker": "Sam",
+      "exact_dialogue_records": 119
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json",
+        "story-dialogues.json"
+      ],
+      "speaker": "Security Clerk",
+      "exact_dialogue_records": 6
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Seymour",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Shaggy",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Sherry",
+      "exact_dialogue_records": 3
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "winter-dialogues.json"
+      ],
+      "speaker": "St. Jerry",
+      "exact_dialogue_records": 4
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Stella",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "dungeon-dialogues.json"
+      ],
+      "speaker": "Storm",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Stranger",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "story-dialogues.json"
+      ],
+      "speaker": "Susan",
+      "exact_dialogue_records": 8
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Swoop",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Terry",
+      "exact_dialogue_records": 4
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "dungeon-dialogues.json"
+      ],
+      "speaker": "The Watcher",
+      "exact_dialogue_records": 1
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Tia the Fairy",
+      "exact_dialogue_records": 9
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Tom",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "hub-dialogues.json"
+      ],
+      "speaker": "Trevor",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Undercover Agent",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Vex",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "quest-dialogues.json"
+      ],
+      "speaker": "Weaponsmith",
+      "exact_dialogue_records": 2
+    },
+    {
+      "full_npc_script_denominator_known": false,
+      "resources": [
+        "npc-dialogues.json"
+      ],
+      "speaker": "Zog",
+      "exact_dialogue_records": 2
+    }
+  ],
+  "after": {
+    "unchanged": 0,
+    "changed_not_complete": 79
+  },
+  "batch": [
+    {
+      "new_exact_lines": 2,
+      "observed_source_bodies": 2,
+      "complete_npc_script_certified": false,
+      "speaker": "Adventurer Saul",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 2,
+      "observed_source_bodies": 2,
+      "complete_npc_script_certified": false,
+      "speaker": "Bartender",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 1,
+      "observed_source_bodies": 1,
+      "complete_npc_script_certified": false,
+      "speaker": "Combat Merchant",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 1,
+      "observed_source_bodies": 1,
+      "complete_npc_script_certified": false,
+      "speaker": "Croesus",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 2,
+      "observed_source_bodies": 2,
+      "complete_npc_script_certified": false,
+      "speaker": "Farmer Jon",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 2,
+      "observed_source_bodies": 2,
+      "complete_npc_script_certified": false,
+      "speaker": "Hendrik",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 10,
+      "observed_source_bodies": 0,
+      "complete_npc_script_certified": false,
+      "speaker": "Jacobus",
+      "published_only_variants": 10
+    },
+    {
+      "new_exact_lines": 4,
+      "observed_source_bodies": 4,
+      "complete_npc_script_certified": false,
+      "speaker": "Jerry",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 1,
+      "observed_source_bodies": 1,
+      "complete_npc_script_certified": false,
+      "speaker": "Librarian",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 2,
+      "observed_source_bodies": 2,
+      "complete_npc_script_certified": false,
+      "speaker": "Lift Operator",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 4,
+      "observed_source_bodies": 0,
+      "complete_npc_script_certified": false,
+      "speaker": "Maths Enjoyer",
+      "published_only_variants": 4
+    },
+    {
+      "new_exact_lines": 24,
+      "observed_source_bodies": 8,
+      "complete_npc_script_certified": false,
+      "speaker": "Maxwell",
+      "published_only_variants": 16
+    },
+    {
+      "new_exact_lines": 9,
+      "observed_source_bodies": 9,
+      "complete_npc_script_certified": false,
+      "speaker": "Mort",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 6,
+      "observed_source_bodies": 6,
+      "complete_npc_script_certified": false,
+      "speaker": "Pesthunter Phillip",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 1,
+      "observed_source_bodies": 1,
+      "complete_npc_script_certified": false,
+      "speaker": "Security Clerk",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 1,
+      "observed_source_bodies": 1,
+      "complete_npc_script_certified": false,
+      "speaker": "Seymour",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 2,
+      "observed_source_bodies": 2,
+      "complete_npc_script_certified": false,
+      "speaker": "Shaggy",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 3,
+      "observed_source_bodies": 3,
+      "complete_npc_script_certified": false,
+      "speaker": "Sherry",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 4,
+      "observed_source_bodies": 4,
+      "complete_npc_script_certified": false,
+      "speaker": "Terry",
+      "published_only_variants": 0
+    },
+    {
+      "new_exact_lines": 2,
+      "observed_source_bodies": 2,
+      "complete_npc_script_certified": false,
+      "speaker": "Trevor",
+      "published_only_variants": 0
+    }
+  ],
+  "jar_sha256": "518B5761230191B5ECD80443E3D1369611FE47BD96FFE864FE9198D0C45F3930",
+  "before": {
+    "unchanged": 66,
+    "changed_not_complete": 13
+  },
+  "remaining_observed_unchanged": [],
+  "all_hypixel_npcs_translated": false,
+  "scope": "Exact finite public NPC fixture and pinned catalogue differential;not a server-wide NPC/script census. Changed text is not proof of full translation. Actual reviewed targets checked separately by TestHubNpcs69.",
+  "check_root": "build/hub69-2689a861e4fe4abcb55395f2b7cc737d",
+  "catalogue_changed_record_ids": [],
+  "catalogue_cards_compared": 8937,
+  "private_full_logs_exported": false,
+  "date": "2026-10-15"
+}

@@ -1,0 +1,1010 @@
+{
+  "date": "2026-10-14",
+  "status": "LOCAL_DISPLAY_LOG_CHANNEL_UNVERIFIED",
+  "scope": "Distinct NPC-labelled English display lines not in exact resources; dynamic handlers may already support them. No player chat exported. Not complete scripts/server/channel capture.",
+  "files_read": 37,
+  "known_exact_union_count": 750,
+  "records": [
+    {
+      "speaker": "Station Master",
+      "source": "[NPC] Station Master: Last guy who was in this cart didn't feel too well so watch out he might have left a surprise in there.",
+      "sample": "[02:09:09] [NPC] Station Master: Last guy who was in this cart didn't feel too well so watch out he might have left a surprise in there.",
+      "origin": "2026-10-10-2.log.gz",
+      "line": 9669
+    },
+    {
+      "speaker": "Lynn",
+      "source": "[NPC] Lynn: Maybe next time.",
+      "sample": "[NPC] Lynn: §fMaybe next time.",
+      "origin": "2026-10-13-7.log.gz",
+      "line": 15136
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 46,131 items!",
+      "sample": "[17:35:11] [NPC] Jacob: You collected §e46,131 §fitems!",
+      "origin": "2026-10-13-7.log.gz",
+      "line": 19270
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: Do you thirst for adventure?",
+      "sample": "[01:54:51] [NPC] Maddox: §fDo you thirst for adventure?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 2421
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: Do you wish to slay the mightiest beasts of the land?",
+      "sample": "[01:54:53] [NPC] Maddox: §fDo you wish to slay the mightiest beasts of the land?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 2422
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: Complete Slayer Quests and fight bosses to unlock exotic rewards!",
+      "sample": "[01:54:56] [NPC] Maddox: §fComplete §5Slayer Quests §fand fight bosses to unlock exotic rewards!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 2423
+    },
+    {
+      "speaker": "Hendrik",
+      "source": "[NPC] Hendrik: I miss Helena...",
+      "sample": "[02:37:50] [NPC] Hendrik: I miss Helena...",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6386
+    },
+    {
+      "speaker": "Emissary Sisko",
+      "source": "[NPC] Emissary Sisko: I've heard I can find the best mushrooms here, and as the King's favorite emissary I will bring them to him!",
+      "sample": "[17:02:14] [NPC] Emissary Sisko: §fI've heard I can find the best mushrooms here, and as the King's favorite emissary I will bring them to him!",
+      "origin": "2026-10-13-7.log.gz",
+      "line": 15097
+    },
+    {
+      "speaker": "Hendrik",
+      "source": "[NPC] Hendrik: Y'know when I'm fishing here it always feels just as fast as up top.",
+      "sample": "[02:37:50] [NPC] Hendrik: §fY'know when I'm fishing here it always feels just as fast as up top.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6387
+    },
+    {
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry?",
+      "sample": "[02:38:20] [NPC] Jerry: §fJerry?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6399
+    },
+    {
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry!",
+      "sample": "[02:38:21] [NPC] Jerry: §fJerry!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6401
+    },
+    {
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry...",
+      "sample": "[02:38:23] [NPC] Jerry: §fJerry...",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6403
+    },
+    {
+      "speaker": "Sherry",
+      "source": "[NPC] Sherry: For the holidays, we're offering exclusive doorbuster deals for the whole family to enjoy!",
+      "sample": "[02:39:11] [NPC] Sherry: §fFor the holidays, we're offering exclusive doorbuster deals for the whole family to enjoy!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6489
+    },
+    {
+      "speaker": "Sherry",
+      "source": "[NPC] Sherry: Check out our new Festive Sinker, which is great for fishing up Gifts!",
+      "sample": "[02:39:13] [NPC] Sherry: §fCheck out our new §fFestive Sinker§f, which is great for fishing up §aGifts§f!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6497
+    },
+    {
+      "speaker": "Sherry",
+      "source": "[NPC] Sherry: We are also offering Frosty the Snow Blaster, an upgraded Snow Cannon that shoots much farther!",
+      "sample": "[02:39:15] [NPC] Sherry: §fWe are also offering §5Frosty the Snow Blaster§f, an upgraded Snow Cannon that shoots much farther!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6498
+    },
+    {
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry.",
+      "sample": "[02:38:19] [NPC] Jerry: §fJerry.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6397
+    },
+    {
+      "speaker": "Terry",
+      "source": "[NPC] Terry: You may have noticed that this pond is full of unique creatures and treasures!",
+      "sample": "[02:40:13] [NPC] Terry: §fYou may have noticed that this pond is full of unique creatures and treasures!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6530
+    },
+    {
+      "speaker": "Trevor",
+      "source": "[NPC] Trevor: Looks like I'll have to catch it the old fashioned way.",
+      "sample": "[NPC] Trevor: §fLooks like I'll have to catch it the old fashioned way.",
+      "origin": "2026-10-13-7.log.gz",
+      "line": 15096
+    },
+    {
+      "speaker": "Librarian",
+      "source": "[NPC] Librarian: Very unfortunate, I really needed that paper...",
+      "sample": "[NPC] Librarian: §fVery unfortunate, I really needed that paper...",
+      "origin": "2026-10-13-7.log.gz",
+      "line": 13057
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: They look super realistic, but no animal was harmed when making them!",
+      "sample": "[05:04:48] [NPC] Jake: They look super realistic, but no §banimal §fwas harmed when making them!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7257
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: I can prove it! Here, take this. This is one of the plushies I made, you can have it!",
+      "sample": "[05:04:53] [NPC] Jake: I can prove it! Here, take this. This is one of the §bplushies §fI made, you can have it!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7258
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: So really, I am not harming them at all!",
+      "sample": "[05:04:56] [NPC] Jake: So really, I am not harming them at all!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7260
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: Everything makes sense now...I'm sorry I yelled at you Jake. I'm so sorry.",
+      "sample": "[05:04:59] [NPC] Beth: Everything makes sense now...I'm sorry I yelled at you Jake. I'm so sorry.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7262
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: It's alright now. I was wrong to lie about it and I should have told you sooner.",
+      "sample": "[05:05:02] [NPC] Jake: It's alright now. I was wrong to lie about it and I should have told you sooner.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7264
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: I have to go now, I hope to see you guys soon.",
+      "sample": "[05:05:10] [NPC] Beth: I have to go now, I hope to see you guys soon.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7270
+    },
+    {
+      "speaker": "Trevor",
+      "source": "[NPC] Trevor: I've been tracking an animal for the past few days. Got anything I could use as bait?",
+      "sample": "[NPC] Trevor: §fI've been tracking an animal for the past few days. Got anything I could use as bait?",
+      "origin": "2026-10-13-7.log.gz",
+      "line": 15090
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I was able to upgrade your pet Mithril Golem to LEGENDARY.",
+      "sample": "[05:13:41] [NPC] Kat: I was able to upgrade your pet §5Mithril Golem§f to §6§lLEGENDARY§f.",
+      "origin": "2026-10-13-4.log.gz",
+      "line": 1967
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: Come back in 2 days to pick it up!",
+      "sample": "[05:15:32] [NPC] Kat: Come back in §e2 days §fto pick it up!",
+      "origin": "2026-10-13-4.log.gz",
+      "line": 2109
+    },
+    {
+      "speaker": "Lift Operator",
+      "source": "[NPC] Lift Operator: Operating that lift all day takes a lot outta ya, you know?",
+      "sample": "[NPC] Lift Operator: §fOperating that lift all day takes a lot outta ya, you know?",
+      "origin": "2026-10-13-5.log.gz",
+      "line": 2150
+    },
+    {
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: I want to make some new brews, do you think you can give me some ingredients to work with?",
+      "sample": "[NPC] Bartender: §fI want to make some new brews, do you think you can give me some ingredients to work with?",
+      "origin": "2026-10-13-5.log.gz",
+      "line": 2156
+    },
+    {
+      "speaker": "Lift Operator",
+      "source": "[NPC] Lift Operator: Cheers, that's the stuff!",
+      "sample": "[NPC] Lift Operator: §fCheers, that's the stuff!",
+      "origin": "2026-10-13-5.log.gz",
+      "line": 2278
+    },
+    {
+      "speaker": "Bartender",
+      "source": "[NPC] Bartender: Many Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course.",
+      "sample": "[NPC] Bartender: §fMany Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course.",
+      "origin": "2026-10-13-7.log.gz",
+      "line": 11779
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 63,773 items!",
+      "sample": "[16:35:11] [NPC] Jacob: You collected §e63,773 §fitems!",
+      "origin": "2026-10-13-7.log.gz",
+      "line": 12882
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I'll get your Monkey upgraded to RARE in no time!",
+      "sample": "[05:15:28] [NPC] Kat: I'll get your §aMonkey §fupgraded to §9§lRARE §fin no time!",
+      "origin": "2026-10-13-4.log.gz",
+      "line": 2104
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: Those are my plushies! I preserve them in Jelly so they stay fresh!",
+      "sample": "[05:04:44] [NPC] Jake: Those are my §bplushies§f! I preserve them in Jelly so they stay fresh!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7256
+    },
+    {
+      "speaker": "Terry",
+      "source": "[NPC] Terry: I'm looking for Hunk of Ice and Hunk of Blue Ice.",
+      "sample": "[02:40:15] [NPC] Terry: §fI'm looking for §aHunk of Ice §fand §9Hunk of Blue Ice§f.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6531
+    },
+    {
+      "speaker": "Terry",
+      "source": "[NPC] Terry: Bring enough hunks back to me and I might even sell you some Reforge Stones for your fishing rods.",
+      "sample": "[02:40:19] [NPC] Terry: §fBring enough hunks back to me and I might even sell you some §aReforge Stones §ffor your fishing rods.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6533
+    },
+    {
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: It's not hard. Just aim, hold down the button, and don't stop until the bug's been squashed!",
+      "sample": "[04:12:35] [NPC] Pesthunter Phillip: §fIt's not hard. Just aim, hold down the button, and don't stop until the bug's been squashed!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 14806
+    },
+    {
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Wow! Look at that ugly thing. Bet you had a blast trying to wrangle it into your vacuum!",
+      "sample": "[04:14:15] [NPC] Pesthunter Phillip: §fWow! Look at that ugly thing. Bet you had a blast trying to wrangle it into your vacuum!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 14876
+    },
+    {
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: To each their own. I'm fascinated by these little fellers!",
+      "sample": "[04:14:20] [NPC] Pesthunter Phillip: §fTo each their own. I'm fascinated by these little fellers!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 14878
+    },
+    {
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Bring some back for me to, uh...study...and I'll reward you with  Farming Fortune for your troubles!",
+      "sample": "[04:14:22] [NPC] Pesthunter Phillip: §fBring some back for me to, uh...study...and I'll reward you with §6 Farming Fortune §ffor your troubles!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 14879
+    },
+    {
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: In exchange for 40 Pests, I've given you +200 Farming Fortune for 30m!",
+      "sample": "[04:15:39] [NPC] Pesthunter Phillip: In exchange for §240 Pests§f, I've given you §6+200 Farming Fortune §ffor §a30m§f!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 14906
+    },
+    {
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: You've exchanged enough Pests with me recently. You still have 133 Pests in your Vacuum Bag!",
+      "sample": "[04:15:44] [NPC] Pesthunter Phillip: You've exchanged enough Pests with me recently. You still have §2133 Pests §fin your §6Vacuum Bag§f!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 14909
+    },
+    {
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Go out there and vacuum a  Pest!",
+      "sample": "[04:12:33] [NPC] Pesthunter Phillip: §fGo out there and §avacuum §fa §2§2 Pest§f!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 14805
+    },
+    {
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Come back soon when I can handle more!",
+      "sample": "[04:15:49] [NPC] Pesthunter Phillip: Come back soon when I can handle more!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 14934
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: You can pick it up in 1 day 0 hours 1 minute 2 seconds.",
+      "sample": "[05:14:27] [NPC] Kat: You can pick it up in §e1 day 0 hours 1 minute 2 seconds§f.",
+      "origin": "latest.log",
+      "line": 8783
+    },
+    {
+      "speaker": "Malik",
+      "source": "[NPC] Malik: Hello.",
+      "sample": "[05:33:23] [NPC] Malik: Hello.",
+      "origin": "latest.log",
+      "line": 12078
+    },
+    {
+      "speaker": "Malik",
+      "source": "[NPC] Malik: The Catacombs are an old maze under the island.",
+      "sample": "[05:33:24] [NPC] Malik: The §cCatacombs §rare an old maze under the island.",
+      "origin": "latest.log",
+      "line": 12079
+    },
+    {
+      "speaker": "Malik",
+      "source": "[NPC] Malik: Tunnels in the caves were created to bury victims of the Calamity.",
+      "sample": "[05:33:26] [NPC] Malik: Tunnels in the caves were created to bury victims of the Calamity.",
+      "origin": "latest.log",
+      "line": 12080
+    },
+    {
+      "speaker": "Malik",
+      "source": "[NPC] Malik: An evil force took control of the graves.",
+      "sample": "[05:33:28] [NPC] Malik: An §4evil force §rtook control of the graves.",
+      "origin": "latest.log",
+      "line": 12081
+    },
+    {
+      "speaker": "Malik",
+      "source": "[NPC] Malik: Corpses are raised into a powerful army fueled by pain, misery and anguish.",
+      "sample": "[05:33:30] [NPC] Malik: Corpses are raised into a §apowerful army §rfueled by pain, misery and anguish.",
+      "origin": "latest.log",
+      "line": 12083
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I'm currently taking care of your Monkey!",
+      "sample": "[05:14:24] [NPC] Kat: I'm currently taking care of your §aMonkey§f!",
+      "origin": "latest.log",
+      "line": 8775
+    },
+    {
+      "speaker": "Terry",
+      "source": "[NPC] Terry: You can find these by ice fishing in the pond - break the ice and cast your rod!",
+      "sample": "[02:40:17] [NPC] Terry: §fYou can find these by §bice fishing §fin the pond - break the ice and cast your rod!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6532
+    },
+    {
+      "speaker": "Duke",
+      "source": "[NPC] Duke: You seem new here. You should probably try to get some Enchanted Golden Carrot for me.",
+      "sample": "[NPC] Duke: You seem new here. You should probably try to get some §9Enchanted Golden Carrot §ffor me.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 13855
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: ✆ How does a lobster answer? Shello!",
+      "sample": "[03:40:02] [NPC] Maddox: ✆ How does a lobster answer? Shello!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 11267
+    },
+    {
+      "speaker": "Gary",
+      "source": "[NPC] Gary: Wow, I just love snow.",
+      "sample": "[02:40:57] [NPC] Gary: Wow, I just love snow.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6556
+    },
+    {
+      "speaker": "Gary",
+      "source": "[NPC] Gary: I love it so much that I bought an industrial strength snow machine so that I can have snow on demand!",
+      "sample": "[02:40:58] [NPC] Gary: I love it so much that I bought an industrial strength snow machine so that I can have snow on demand!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6564
+    },
+    {
+      "speaker": "Gulliver",
+      "source": "[NPC] Gulliver: Bukawk. Coot Coot Cluck, Puk Puk Pukaaak.",
+      "sample": "[02:41:15] [NPC] Gulliver: Bukawk. Coot Coot Cluck, Puk Puk Pukaaak.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6570
+    },
+    {
+      "speaker": "Gulliver",
+      "source": "[NPC] Gulliver: Buk bawk bakok Cluckpoint 1 puk pock < 33s?",
+      "sample": "[02:41:16] [NPC] Gulliver: Buk bawk bakok §eCluckpoint 1§r puk pock §e< 33s§r?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6571
+    },
+    {
+      "speaker": "Gulliver",
+      "source": "[NPC] Gulliver: Puk Puk Pukaaak.",
+      "sample": "[02:41:18] [NPC] Gulliver: Puk Puk Pukaaak.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6572
+    },
+    {
+      "speaker": "Gulliver",
+      "source": "[NPC] Gulliver: Cluck cluck! Bacawk! Red Gift bakok.",
+      "sample": "[02:43:09] [NPC] Gulliver: Cluck cluck! Bacawk! §9Red Gift§r bakok.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6646
+    },
+    {
+      "speaker": "Combat Merchant",
+      "source": "[NPC] Combat Merchant: Exploring the whole wide world makes me hungry, I could take some fresh potatoes.",
+      "sample": "[NPC] Combat Merchant: §fExploring the whole wide world makes me hungry, I could take some fresh potatoes.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 13839
+    },
+    {
+      "speaker": "Gulliver",
+      "source": "[NPC] Gulliver: Buk bawk bakok Cluckpoint 2 puk pock < 52s?",
+      "sample": "[02:43:11] [NPC] Gulliver: Buk bawk bakok §eCluckpoint 2§r puk pock §e< 52s§r?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6648
+    },
+    {
+      "speaker": "Gulliver",
+      "source": "[NPC] Gulliver: Buk bawk bakok Cluckpoint 3 puk pock < 68s?",
+      "sample": "[02:46:27] [NPC] Gulliver: Buk bawk bakok §eCluckpoint 3§r puk pock §e< 68s§r?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6738
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: ✆ Hello?",
+      "sample": "[03:25:58] [NPC] Maddox: ✆ Hello?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 9132
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: ✆ Hey, what do you need?",
+      "sample": "[03:27:32] [NPC] Maddox: ✆ Hey, what do you need?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 9246
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: ✆ You again? What do you want this time?",
+      "sample": "[03:28:12] [NPC] Maddox: ✆ You again? What do you want this time?",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 9312
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: ✆ You hear the line pick up...",
+      "sample": "[03:29:46] [NPC] Maddox: ✆ You hear the line pick up...",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 9470
+    },
+    {
+      "speaker": "Maddox",
+      "source": "[NPC] Maddox: ✆ Someone answers!",
+      "sample": "[03:38:25] [NPC] Maddox: ✆ Someone answers!",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 11066
+    },
+    {
+      "speaker": "Gulliver",
+      "source": "[NPC] Gulliver: Cluck cluck! Bacawk! Gift Compass bakok.",
+      "sample": "[02:46:25] [NPC] Gulliver: Cluck cluck! Bacawk! §aGift Compass§r bakok.",
+      "origin": "2026-10-14-2.log.gz",
+      "line": 6735
+    },
+    {
+      "speaker": "Malik",
+      "source": "[NPC] Malik: Anyway!",
+      "sample": "[05:33:33] [NPC] Malik: Anyway!",
+      "origin": "latest.log",
+      "line": 12085
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: We know that you are experimenting with animals down here, how do you explain this tank?",
+      "sample": "[05:04:41] [NPC] Beth: We know that you are experimenting with §banimals §fdown here, how do you explain this tank?",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7254
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: I am just making toys for animals...",
+      "sample": "[05:04:34] [NPC] Jake: I am just making §btoys §ffor §banimals§f...",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7251
+    },
+    {
+      "speaker": "Ophelia",
+      "source": "[NPC] Ophelia: Thanks! I'm headed back to my shop, hope to see you there soon!",
+      "sample": "[NPC] Ophelia: §fThanks! I'm headed back to my shop, hope to see you there soon!",
+      "origin": "2026-10-11-2.log.gz",
+      "line": 11482
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: PERSONAL BEST! You've surpassed your previous record of 1,280 items collected in the Sugar Cane Contest!",
+      "sample": "[03:21:36] [NPC] Jacob: §d§lPERSONAL BEST§f! You've surpassed your previous record of §e1,280 §fitems collected in the §aSugar Cane Contest§f!",
+      "origin": "2026-10-11-3.log.gz",
+      "line": 11470
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: Keep it up!",
+      "sample": "[03:21:43] [NPC] Jacob: Keep it up!",
+      "origin": "2026-10-11-3.log.gz",
+      "line": 11472
+    },
+    {
+      "speaker": "Pesthunter Pamela",
+      "source": "[NPC] Pesthunter Pamela: Let Phillip finish teaching you about  Pests, then come chat with me!",
+      "sample": "[04:07:03] [NPC] Pesthunter Pamela: §fLet §6Phillip §ffinish teaching you about §2§2 Pests§f, then come chat with me!",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 7303
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 717 items!",
+      "sample": "[04:35:10] [NPC] Jacob: You collected §e717 §fitems!",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 9353
+    },
+    {
+      "speaker": "Liam",
+      "source": "[NPC] Liam: Alright...",
+      "sample": "[NPC] Liam: §fAlright...",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 11130
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 30,111 items!",
+      "sample": "[01:35:07] [NPC] Jacob: You collected §e30,111 §fitems!",
+      "origin": "2026-10-11-2.log.gz",
+      "line": 11293
+    },
+    {
+      "speaker": "Lazy Miner",
+      "source": "[NPC] Lazy Miner: It's Tuesday, my resting day! I earned myself a little treat, maybe you could bring me some chocolate?",
+      "sample": "[NPC] Lazy Miner: It's Tuesday, my resting day! I earned myself a little treat, maybe you could bring me some chocolate?",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 11131
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You placed in the SILVER bracket in the Carrot Contest!",
+      "sample": "[05:35:05] [NPC] Jacob: You placed in the §f§lSILVER §fbracket in the §aCarrot Contest§f!",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 12195
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 187,857 items! PERSONAL BEST!",
+      "sample": "[05:35:08] [NPC] Jacob: You collected §e187,857 §fitems! §d§lPERSONAL BEST§f!",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 12207
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: Your previous Personal Best was 73,468.",
+      "sample": "[05:35:11] [NPC] Jacob: Your previous Personal Best was §e73,468§f.",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 12210
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I'll get your Mithril Golem upgraded to EPIC in no time!",
+      "sample": "[05:53:10] [NPC] Kat: I'll get your §9Mithril Golem §fupgraded to §5§lEPIC §fin no time!",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 14908
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I'm currently taking care of your Mithril Golem!",
+      "sample": "[05:53:16] [NPC] Kat: I'm currently taking care of your §9Mithril Golem§f!",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 14917
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: You can pick it up in 14 minutes 54 seconds.",
+      "sample": "[05:53:19] [NPC] Kat: You can pick it up in §e14 minutes 54 seconds§f.",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 14919
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: PERSONAL BEST! You've surpassed your previous record of 73,468 items collected in the Carrot Contest!",
+      "sample": "[05:22:59] [NPC] Jacob: §d§lPERSONAL BEST§f! You've surpassed your previous record of §e73,468 §fitems collected in the §aCarrot Contest§f!",
+      "origin": "2026-10-12-3.log.gz",
+      "line": 11924
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I was able to upgrade your pet Mithril Golem to EPIC.",
+      "sample": "[22:18:12] [NPC] Kat: I was able to upgrade your pet §9Mithril Golem§f to §5§lEPIC§f.",
+      "origin": "2026-10-12-4.log.gz",
+      "line": 2045
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You placed in the BRONZE bracket in the Potato Contest!",
+      "sample": "[01:35:04] [NPC] Jacob: You placed in the §c§lBRONZE §fbracket in the §aPotato Contest§f!",
+      "origin": "2026-10-11-2.log.gz",
+      "line": 11291
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: You can pick it up in 20 hours 57 minutes 25 seconds.",
+      "sample": "[06:36:23] [NPC] Kat: You can pick it up in §e20 hours 57 minutes 25 seconds§f.",
+      "origin": "2026-10-10-4.log.gz",
+      "line": 9345
+    },
+    {
+      "speaker": "Station Master",
+      "source": "[NPC] Station Master: Goblin's are not the only creatures that dwell here. Rumor has it dirt monsters linger in these parts too...",
+      "sample": "[02:09:13] [NPC] Station Master: Goblin's are not the only creatures that dwell here. Rumor has it dirt monsters linger in these parts too...",
+      "origin": "2026-10-10-2.log.gz",
+      "line": 9673
+    },
+    {
+      "speaker": "Ticket Master",
+      "source": "[NPC] Ticket Master: Welcome to the Far Reserve!",
+      "sample": "[02:09:19] [NPC] Ticket Master: Welcome to the §3Far Reserve§f!",
+      "origin": "2026-10-10-2.log.gz",
+      "line": 9674
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I'll get your Rabbit upgraded to UNCOMMON in no time!",
+      "sample": "[03:25:08] [NPC] Kat: I'll get your §fRabbit §fupgraded to §a§lUNCOMMON §fin no time!",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 8740
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: Come back in 5 minutes to pick it up!",
+      "sample": "[03:25:11] [NPC] Kat: Come back in §e5 minutes §fto pick it up!",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 8751
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I was able to upgrade your pet Rabbit to UNCOMMON.",
+      "sample": "[03:32:49] [NPC] Kat: I was able to upgrade your pet §fRabbit§f to §a§lUNCOMMON§f.",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 9508
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I'll get your Dolphin upgraded to UNCOMMON in no time!",
+      "sample": "[03:33:45] [NPC] Kat: I'll get your §fDolphin §fupgraded to §a§lUNCOMMON §fin no time!",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 9690
+    },
+    {
+      "speaker": "Ophelia",
+      "source": "[NPC] Ophelia: Restocking, restocking!",
+      "sample": "[NPC] Ophelia: §fRestocking, restocking!",
+      "origin": "2026-10-11-2.log.gz",
+      "line": 10619
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: Come back in 1 day to pick it up!",
+      "sample": "[03:33:49] [NPC] Kat: Come back in §e1 day §fto pick it up!",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 9725
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: You can pick it up in 23 hours 59 minutes 54 seconds.",
+      "sample": "[03:33:54] [NPC] Kat: You can pick it up in §e23 hours 59 minutes 54 seconds§f.",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 9727
+    },
+    {
+      "speaker": "Oringo",
+      "source": "[NPC] Oringo: Hey, you got some wheat for my pets by any chance? Gotta keep those little monsters fed, haha!",
+      "sample": "[NPC] Oringo: §fHey, you got some wheat for my pets by any chance? Gotta keep those little monsters fed, haha!",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 14416
+    },
+    {
+      "speaker": "Oringo",
+      "source": "[NPC] Oringo: You know how it is, they never stop eating haha, thank you very much!",
+      "sample": "[NPC] Oringo: §fYou know how it is, they never stop eating haha, thank you very much!",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 14428
+    },
+    {
+      "speaker": "Jack",
+      "source": "[NPC] Jack: Thanks for the crops. See ya around.",
+      "sample": "[NPC] Jack: §fThanks for the crops. See ya around.",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 15579
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You didn't earn a medal, but you may claim a participation reward in the Sugar Cane Contest!",
+      "sample": "[06:35:04] [NPC] Jacob: You didn't earn a medal, but you may claim a participation reward in the §aSugar Cane Contest§f!",
+      "origin": "2026-10-10-4.log.gz",
+      "line": 9187
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 1,280 items!",
+      "sample": "[06:35:10] [NPC] Jacob: You collected §e1,280 §fitems!",
+      "origin": "2026-10-10-4.log.gz",
+      "line": 9197
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I'm currently taking care of your Dolphin!",
+      "sample": "[03:33:51] [NPC] Kat: I'm currently taking care of your §fDolphin§f!",
+      "origin": "2026-10-10-3.log.gz",
+      "line": 9726
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: Oh really? Do you really think we are that naive?",
+      "sample": "[05:04:38] [NPC] Beth: Oh really? Do you really think we are that naive?",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7253
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You placed in the BRONZE bracket in the Cactus Contest!",
+      "sample": "[22:35:08] [NPC] Jacob: You placed in the §c§lBRONZE §fbracket in the §aCactus Contest§f!",
+      "origin": "2026-10-12-4.log.gz",
+      "line": 2851
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: Your previous Personal Best was 3,000.",
+      "sample": "[22:35:15] [NPC] Jacob: Your previous Personal Best was §e3,000§f.",
+      "origin": "2026-10-12-4.log.gz",
+      "line": 2856
+    },
+    {
+      "speaker": "Security Clerk",
+      "source": "[NPC] Security Clerk: The Security Hall is only for authorized personnel.",
+      "sample": "[04:46:28] [NPC] Security Clerk: §f§fThe §bSecurity Hall§f is only for authorized personnel.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 5392
+    },
+    {
+      "speaker": "Charlotte",
+      "source": "[NPC] Charlotte: It's Charlotte, not Salad!!",
+      "sample": "[04:52:22] [NPC] Charlotte: It's Charlotte, not Salad!!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 6464
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: This is so strange... ",
+      "sample": "[05:03:34] [NPC] Beth: This is so strange... ",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7219
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: I can't believe this has been down here for all this time... I am speechless.",
+      "sample": "[05:03:36] [NPC] Beth: I can't believe this has been down here for all this time... I am speechless.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7220
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: WHAT? There are animals inside of here?!?! Jake is doing horrible experiments with these animals that he catches...",
+      "sample": "[05:03:44] [NPC] Beth: WHAT? There are §banimals §finside of here?!?! §cJake §fis doing §chorrible experiments §fwith these §banimals §fthat he catches...",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7222
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: He has gone completely mad! He's a psychopath!",
+      "sample": "[05:03:51] [NPC] Beth: He has gone completely mad! He's a psychopath!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7223
+    },
+    {
+      "speaker": "Susan",
+      "source": "[NPC] Susan: Awesome! You're our 286218th volunteer!",
+      "sample": "[04:44:39] [NPC] Susan: §f§fAwesome! You're our §c286218th §f§fvolunteer!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 5336
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: And look at all of these tools he has laying around here... a SAW?... a HAMMER? ",
+      "sample": "[05:03:54] [NPC] Beth: And look at all of these tools he has laying around here... a SAW?... a HAMMER? ",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7224
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: Jake has a lot of explaining to do!",
+      "sample": "[05:04:02] [NPC] Beth: §cJake §fhas a lot of explaining to do!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7231
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: IT'S NOT WHAT IT LOOKS LIKE!",
+      "sample": "[05:04:17] [NPC] Jake: IT'S NOT WHAT IT LOOKS LIKE!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7235
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: WE KNOW WHAT YOU ARE DOING IN HERE, YOU PSYCHO! YOU WILL PAY FOR WHAT YOU ARE DOING TO THESE ANIMALS!",
+      "sample": "[05:04:20] [NPC] Beth: WE KNOW WHAT YOU ARE DOING IN HERE, YOU PSYCHO! YOU WILL PAY FOR WHAT YOU ARE DOING TO THESE §bANIMALS§f!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7242
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: ANIMALS? I CAN EXPLAIN, I SWEAR!",
+      "sample": "[05:04:23] [NPC] Jake: §bANIMALS§f? I CAN EXPLAIN, I SWEAR!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7245
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: WELL GO ON THEN, EXPLAIN YOURSELF!",
+      "sample": "[05:04:26] [NPC] Beth: WELL GO ON THEN, EXPLAIN YOURSELF!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7248
+    },
+    {
+      "speaker": "Jake",
+      "source": "[NPC] Jake: I don't know what you guys think I am doing here, but this is just my workshop!",
+      "sample": "[05:04:30] [NPC] Jake: I don't know what you guys think I am doing here, but this is just my §2workshop§f!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7250
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: What is this psycho doing with these animals???",
+      "sample": "[05:03:59] [NPC] Beth: What is this psycho doing with these §banimals§f???",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 7228
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 17,145 items! PERSONAL BEST!",
+      "sample": "[22:35:12] [NPC] Jacob: You collected §e17,145 §fitems! §d§lPERSONAL BEST§f!",
+      "origin": "2026-10-12-4.log.gz",
+      "line": 2853
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: You can pick it up in 29 minutes 55 seconds.",
+      "sample": "[04:43:44] [NPC] Kat: You can pick it up in §e29 minutes 55 seconds§f.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 5309
+    },
+    {
+      "speaker": "Emissary Carlton",
+      "source": "[NPC] Emissary Carlton: How dare you reject me, the King's favorite emissary?!",
+      "sample": "[NPC] Emissary Carlton: §fHow dare you reject me, the King's favorite emissary?!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 4052
+    },
+    {
+      "speaker": "Beth",
+      "source": "[NPC] Beth: I followed him today to where he brings all the animals he catches. He goes down some weird cave...",
+      "sample": "[22:43:30] [NPC] Beth: I followed him today to where he brings all the animals he catches. He goes down some weird cave...",
+      "origin": "2026-10-12-4.log.gz",
+      "line": 3793
+    },
+    {
+      "speaker": "Moby",
+      "source": "[NPC] Moby: Listen. Glowing Mushrooms don't seem to be too good for my health. About time I tried something else. You got anything, chum?",
+      "sample": "[NPC] Moby: §fListen. Glowing Mushrooms don't seem to be too good for my health. About time I tried something else. You got anything, chum?",
+      "origin": "2026-10-12-4.log.gz",
+      "line": 4266
+    },
+    {
+      "speaker": "Moby",
+      "source": "[NPC] Moby: That's good.",
+      "sample": "[NPC] Moby: §fThat's good.",
+      "origin": "2026-10-12-4.log.gz",
+      "line": 4314
+    },
+    {
+      "speaker": "Farmer Jon",
+      "source": "[NPC] Farmer Jon: I've competed in numerous sugar cane contests, but I've never actually tried farming other crops.",
+      "sample": "[NPC] Farmer Jon: §fI've competed in numerous sugar cane contests, but I've never actually tried farming other crops.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 1950
+    },
+    {
+      "speaker": "Rusty",
+      "source": "[NPC] Rusty: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their Enchanted Golden Carrot. Can you find that for me?",
+      "sample": "[NPC] Rusty: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their §9Enchanted Golden Carrot§f. Can you find that for me?",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 1958
+    },
+    {
+      "speaker": "Shaggy",
+      "source": "[NPC] Shaggy: Hey kid, I haven't seen you in a while. Arachne's powers are growing day by day. Soon she'll take over the Spider's Den.",
+      "sample": "[NPC] Shaggy: §fHey kid, I haven't seen you in a while. Arachne's powers are growing day by day. Soon she'll take over the §cSpider's Den§f.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 1963
+    },
+    {
+      "speaker": "Kat",
+      "source": "[NPC] Kat: I'll get your Mithril Golem upgraded to LEGENDARY in no time!",
+      "sample": "[04:43:36] [NPC] Kat: I'll get your §5Mithril Golem §fupgraded to §6§lLEGENDARY §fin no time!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 5275
+    },
+    {
+      "speaker": "Farmer Jon",
+      "source": "[NPC] Farmer Jon: Cultivating sugar cane gets boring eventually.",
+      "sample": "[NPC] Farmer Jon: §fCultivating sugar cane gets boring eventually.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 1973
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: PERSONAL BEST! You've surpassed your previous record of 14,581 items collected in the Pumpkin Contest!",
+      "sample": "[04:21:04] [NPC] Jacob: §d§lPERSONAL BEST§f! You've surpassed your previous record of §e14,581 §fitems collected in the §aPumpkin Contest§f!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 3321
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You placed in the SILVER bracket in the Pumpkin Contest!",
+      "sample": "[04:35:07] [NPC] Jacob: You placed in the §f§lSILVER §fbracket in the §aPumpkin Contest§f!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 3653
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You collected 48,093 items! PERSONAL BEST!",
+      "sample": "[04:35:11] [NPC] Jacob: You collected §e48,093 §fitems! §d§lPERSONAL BEST§f!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 3657
+    },
+    {
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: Your previous Personal Best was 14,581.",
+      "sample": "[04:35:14] [NPC] Jacob: Your previous Personal Best was §e14,581§f.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 3660
+    },
+    {
+      "speaker": "Lynn",
+      "source": "[NPC] Lynn: If you ever get lost, you should check on the Desk on what to do next.",
+      "sample": "[04:37:26] [NPC] Lynn: §fIf you ever get lost, you should check on the Desk on what to do next.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 4010
+    },
+    {
+      "speaker": "Emissary Carlton",
+      "source": "[NPC] Emissary Carlton: The King has sent me to go shopping for I am his favorite emissary!",
+      "sample": "[04:37:27] [NPC] Emissary Carlton: §fThe King has sent me to go shopping for I am his favorite emissary!",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 4011
+    },
+    {
+      "speaker": "Shaggy",
+      "source": "[NPC] Shaggy: I wish peace upon you.",
+      "sample": "[NPC] Shaggy: §fI wish peace upon you.",
+      "origin": "2026-10-13-3.log.gz",
+      "line": 1980
+    },
+    {
+      "speaker": "Malik",
+      "source": "[NPC] Malik: If you find gear inside, I can upgrade it for you!",
+      "sample": "[05:33:34] [NPC] Malik: If you find gear inside, I can §eupgrade §rit for you!",
+      "origin": "latest.log",
+      "line": 12086
+    }
+  ]
+}

@@ -1,0 +1,1795 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "119 exact current-publication system notifications. Offline finite labels;not a runtime regex,translation API or new receipt pass.",
+  "records": [
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You've elevated your Abiphone contacts limit by +3!",
+      "translation": "Вы увеличили лимит контактов Абифона на +3!",
+      "style_anchors": [
+        {
+          "source": "elevated ",
+          "target": "увеличили"
+        },
+        {
+          "source": "+3",
+          "target": "+3"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphone_Contacts_Trio?oldid=825576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You've reached the addons limit of 25!",
+      "translation": "Достигнут лимит в 25 дополнений!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphone_Contacts_Trio?oldid=825576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] You cannot add this NPC as a contact...",
+      "translation": "[✆] Этого персонажа нельзя добавить в контакты...",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] This NPC doesn't own an Abiphone...",
+      "translation": "[✆] У этого персонажа нет Абифона...",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] This NPC is scared of the advent of cyborgs in SkyBlock and therefore refuses to own an Abiphone…",
+      "translation": "[✆] Этот персонаж боится появления киборгов в SkyBlock и поэтому отказывается пользоваться Абифоном…",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] The NPC slips you a piece of map with numbers written on it. Sadly they wrote it too small…",
+      "translation": "[✆] Персонаж протягивает вам клочок карты с записанным номером. Увы, он написал слишком мелко…",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] This NPC has an allergy to electromagnetism. It's a rare condition that isn't catalogued yet by the medicine community...",
+      "translation": "[✆] У этого персонажа аллергия на электромагнетизм. Это редкое заболевание, ещё не описанное медицинским сообществом...",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] This NPC's Abiphone plan doesn't include unlimited calls and texts, so they prefer keeping their contact to themselves...",
+      "translation": "[✆] В тариф Абифона этого персонажа не входят безлимитные звонки и сообщения, поэтому он предпочитает не давать свой номер...",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] The NPC is nonplussed by the technology you present them...",
+      "translation": "[✆] Персонаж растерянно смотрит на технологическое чудо, которое вы ему показываете...",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] This NPC had their Abiphone stolen by a Dante goon and the warranty has expired…",
+      "translation": "[✆] Громила Данте украл Абифон этого персонажа, а срок гарантии уже истёк…",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "[✆] This NPC is already in your contacts list!",
+      "translation": "[✆] Этот персонаж уже есть в вашем списке контактов!",
+      "style_anchors": [
+        {
+          "source": "[✆]",
+          "target": "[✆]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abiphones?oldid=857930"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "✆ Agatha has been added to your Abiphone's contacts!",
+      "translation": "✆ Агата добавлена в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Agatha ",
+          "target": "Агата"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Agatha?oldid=850439"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "⚑ The 2x Powder event starts in 20 seconds!",
+      "translation": "⚑ Событие «Порошок ×2» начнётся через 20 секунд!",
+      "style_anchors": [
+        {
+          "source": "⚑",
+          "target": "⚑"
+        },
+        {
+          "source": "2x Powder",
+          "target": "Порошок ×2"
+        },
+        {
+          "source": "20",
+          "target": "20"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/2x_Powder?oldid=812452"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "This is a passive event! It's happening everywhere in the Crystal Hollows!",
+      "translation": "Это пассивное событие! Оно проходит повсюду в Кристальных пещерах!",
+      "style_anchors": [
+        {
+          "source": "It's happening everywhere in the Crystal Hollows!",
+          "target": "Оно проходит повсюду в Кристальных пещерах!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/2x_Powder?oldid=812452"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "This is a passive event! It's happening everywhere in the Dwarven Mines!",
+      "translation": "Это пассивное событие! Оно проходит повсюду в Дварфских шахтах!",
+      "style_anchors": [
+        {
+          "source": "It's happening everywhere in the Dwarven Mines!",
+          "target": "Оно проходит повсюду в Дварфских шахтах!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/2x_Powder?oldid=812452"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "An Abyssal Miner breaks out of the water!",
+      "translation": "Из воды вырывается Шахтёр бездны!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Abyssal_Miner?oldid=852540"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "This doesn't go on your head! Place this in the Accessory Bag found in the Bags section of the SkyBlock Menu!",
+      "translation": "Это не надевают на голову! Поместите предмет в Мешок аксессуаров, который находится в разделе «Сумки» меню SkyBlock!",
+      "style_anchors": [
+        {
+          "source": "Accessory Bag ",
+          "target": "Мешок аксессуаров"
+        },
+        {
+          "source": "Bags ",
+          "target": "Сумки"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Accessories?oldid=856834"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You claimed a Saul's Recommendation!",
+      "translation": "Вы получили Рекомендацию Сола!",
+      "style_anchors": [
+        {
+          "source": "Saul's Recommendation",
+          "target": "Рекомендацию Сола"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Adventurer_Saul?oldid=812485"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "A long snout breaks the surface of the water. It's an Alligator!",
+      "translation": "Над водой появляется длинная морда. Это Аллигатор!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alligator?oldid=852542"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You were thrown by the Alligator!",
+      "translation": "Аллигатор подбросил вас!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alligator?oldid=852542"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "The Alligator has you in a DEATH ROLL!",
+      "translation": "Аллигатор схватил вас и устроил СМЕРТЕЛЬНОЕ ВРАЩЕНИЕ!",
+      "style_anchors": [
+        {
+          "source": "DEATH ROLL",
+          "target": "СМЕРТЕЛЬНОЕ ВРАЩЕНИЕ"
+        },
+        {
+          "source": "!",
+          "target": "!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alligator?oldid=852542"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You destroyed an anthill, angering the ants inside!",
+      "translation": "Вы разрушили муравейник и разозлили муравьёв внутри!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ant?oldid=854927"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "The Ants are protecting their Queen! You'll have to kill them first!",
+      "translation": "Муравьи защищают свою королеву! Сначала придётся убить их!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ant?oldid=854927"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You destroyed an anthill and angered its residents!",
+      "translation": "Вы разрушили муравейник и разозлили его обитателей!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ant%27s_Cave?oldid=844278"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "☄ You placed an Arachne's Calling! (1/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (1/4)",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(1/4)",
+          "target": "(1/4)"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Sanctuary?oldid=786723"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "☄ You placed an Arachne's Calling! (2/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (2/4)",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(2/4)",
+          "target": "(2/4)"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Sanctuary?oldid=786723"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "☄ You placed an Arachne's Calling! (3/4)",
+      "translation": "☄ Вы установили Призыв Арахны! (3/4)",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(3/4)",
+          "target": "(3/4)"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Sanctuary?oldid=786723"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "☄ You placed an Arachne's Calling! Something is awakening! (4/4)",
+      "translation": "☄ Вы установили Призыв Арахны! Что-то пробуждается! (4/4)",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Calling",
+          "target": "Призыв Арахны"
+        },
+        {
+          "source": "(4/4)",
+          "target": "(4/4)"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Sanctuary?oldid=786723"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "☄ You placed an Arachne's Crystal! Something is awakening!",
+      "translation": "☄ Вы установили Кристалл Арахны! Что-то пробуждается!",
+      "style_anchors": [
+        {
+          "source": "☄",
+          "target": "☄"
+        },
+        {
+          "source": "Arachne's Crystal",
+          "target": "Кристалл Арахны"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Sanctuary?oldid=786723"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You can only use this item in dungeons!",
+      "translation": "Этот предмет можно использовать только в подземельях!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Architect%27s_First_Draft?oldid=849261"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "There are no failed puzzles to reset... for now ;)",
+      "translation": "Нет проваленных головоломок, которые можно начать заново... пока ;)",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Architect%27s_First_Draft?oldid=849261"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "Your armadillo is Exhausted! *pant pant*",
+      "translation": "Ваш броненосец выдохся! *тяжело дышит*",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Armadillo_Pet?oldid=812554"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "Your armadillo is full of energy!",
+      "translation": "Ваш броненосец полон сил!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Armadillo_Pet?oldid=812554"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "Rolling miner granted you double drops!",
+      "translation": "Катящийся шахтёр принёс вам двойную добычу!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Armadillo_Pet?oldid=812554"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "The Armadillo Pet is currently disabled!",
+      "translation": "Питомец Броненосец временно отключён!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Armadillo_Pet?oldid=812554"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You can only use this item on your private island!",
+      "translation": "Этот предмет можно использовать только на вашем личном острове!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Aspiring_Leap?oldid=815470"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip and...nothing happens? For now, at least.",
+      "translation": "Вы делаете глоток и... ничего не происходит? По крайней мере, пока.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip and briefly lose sight in your eyes. Not good!",
+      "translation": "Вы делаете глоток и ненадолго теряете зрение. Ничего хорошего!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip, and then find yourself laughing. Nervously at first, but then heartily.",
+      "translation": "Вы делаете глоток и вдруг начинаете смеяться. Сначала нервно, а потом от души.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip and bite your lip. Hot hot hot!",
+      "translation": "Вы делаете глоток и прикусываете губу. Горячо, горячо, горячо!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip and sigh as your bones begin to feel heavier.",
+      "translation": "Вы делаете глоток и вздыхаете, чувствуя, как тяжелеют кости.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip, and then realise you need to chew. A lot.",
+      "translation": "Вы делаете глоток и понимаете, что придётся жевать. Очень долго.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip and shoot up into the sky. Don't look down!",
+      "translation": "Вы делаете глоток и взмываете в небо. Не смотрите вниз!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip, and then find yourself sneezing. Again, and again, and again.",
+      "translation": "Вы делаете глоток и начинаете чихать. Снова, снова и снова.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "You take a sip and the wisdom of generations gone by reaches out to you: pineapple has no place on pizza.",
+      "translation": "Вы делаете глоток, и к вам приходит мудрость былых поколений: ананасу не место на пицце.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Mayfly Stew. Was it worth it?",
+      "translation": "ФУ! Вы попробовали похлёбку из подёнок. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Mayfly Stew",
+          "target": "похлёбку из подёнок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Void Porridge. Was it worth it?",
+      "translation": "ФУ! Вы попробовали кашу пустоты. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Void Porridge",
+          "target": "кашу пустоты"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Spider Eye Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали суп из паучьих глаз. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Spider Eye Soup",
+          "target": "суп из паучьих глаз"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Hopefully-not-human Hodgepodge. Was it worth it?",
+      "translation": "ФУ! Вы попробовали солянку не из людей (надеюсь). Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Hopefully-not-human Hodgepodge",
+          "target": "солянку не из людей (надеюсь)"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Flaming Hot Chilli. Was it worth it?",
+      "translation": "ФУ! Вы попробовали обжигающий чили. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Flaming Hot Chilli",
+          "target": "обжигающий чили"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Smelly Jelly. Was it worth it?",
+      "translation": "ФУ! Вы попробовали вонючее желе. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Smelly Jelly",
+          "target": "вонючее желе"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Straight Ice Slushie. Was it worth it?",
+      "translation": "ФУ! Вы попробовали слаш из чистого льда. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Straight Ice Slushie",
+          "target": "слаш из чистого льда"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Withering Purée. Was it worth it?",
+      "translation": "ФУ! Вы попробовали иссушающее пюре. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Withering Purée",
+          "target": "иссушающее пюре"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Gemstone Goulash. Was it worth it?",
+      "translation": "ФУ! Вы попробовали самоцветный гуляш. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Gemstone Goulash",
+          "target": "самоцветный гуляш"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Waterlice Liquor. Was it worth it?",
+      "translation": "ФУ! Вы попробовали ликёр из водяных вшей. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Waterlice Liquor",
+          "target": "ликёр из водяных вшей"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Frogspawn Chowder. Was it worth it?",
+      "translation": "ФУ! Вы попробовали чаудер из лягушачьей икры. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Frogspawn Chowder",
+          "target": "чаудер из лягушачьей икры"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Effervescent Bouillon. Was it worth it?",
+      "translation": "ФУ! Вы попробовали шипучий бульон. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Effervescent Bouillon",
+          "target": "шипучий бульон"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Electronic Elixir. Was it worth it?",
+      "translation": "ФУ! Вы попробовали электронный эликсир. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Electronic Elixir",
+          "target": "электронный эликсир"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Spellweaver's Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали суп ткача заклинаний. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Spellweaver's Soup",
+          "target": "суп ткача заклинаний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Dusty Bisque. Was it worth it?",
+      "translation": "ФУ! Вы попробовали пыльный биск. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Dusty Bisque",
+          "target": "пыльный биск"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Aerodynamic Potpourri. Was it worth it?",
+      "translation": "ФУ! Вы попробовали аэродинамическое попурри. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Aerodynamic Potpourri",
+          "target": "аэродинамическое попурри"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Bone Broth. Was it worth it?",
+      "translation": "ФУ! Вы попробовали костный бульон. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Bone Broth",
+          "target": "костный бульон"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Knockoff Glacite Gumbo. Was it worth it?",
+      "translation": "ФУ! Вы попробовали поддельный глацитовый гамбо. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Knockoff Glacite Gumbo",
+          "target": "поддельный глацитовый гамбо"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Cremated Cereal. Was it worth it?",
+      "translation": "ФУ! Вы попробовали кремированные хлопья. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Cremated Cereal",
+          "target": "кремированные хлопья"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Leafy Lentil Soup. Was it worth it?",
+      "translation": "ФУ! Вы попробовали чечевичный суп с листвой. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Leafy Lentil Soup",
+          "target": "чечевичный суп с листвой"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "EW! You ate a Insect Casserole. Was it worth it?",
+      "translation": "ФУ! Вы попробовали запеканку из насекомых. Оно того стоило?",
+      "style_anchors": [
+        {
+          "source": "EW!",
+          "target": "ФУ!"
+        },
+        {
+          "source": "Insect Casserole",
+          "target": "запеканку из насекомых"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Alcina?oldid=834035"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Gold Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Золотой малыш»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Gold Baby",
+          "target": "Золотой малыш"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Blue Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Синий малыш»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Blue Baby",
+          "target": "Синий малыш"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Green Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Зелёный малыш»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Green Baby",
+          "target": "Зелёный малыш"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Red Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Красный малыш»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Red Baby",
+          "target": "Красный малыш"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Purple Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Фиолетовый малыш»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Purple Baby",
+          "target": "Фиолетовый малыш"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Black Baby skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Чёрный малыш»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Black Baby",
+          "target": "Чёрный малыш"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Gold Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Золотой древний»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Gold Ancient",
+          "target": "Золотой древний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Blue Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Синий древний»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Blue Ancient",
+          "target": "Синий древний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Green Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Зелёный древний»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Green Ancient",
+          "target": "Зелёный древний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Red Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Красный древний»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Red Ancient",
+          "target": "Красный древний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Purple Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Фиолетовый древний»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Purple Ancient",
+          "target": "Фиолетовый древний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "ANCIENT! You swapped to the Black Ancient skin!",
+      "translation": "ДРЕВНИЙ! Вы сменили облик на «Чёрный древний»!",
+      "style_anchors": [
+        {
+          "source": "ANCIENT!",
+          "target": "ДРЕВНИЙ!"
+        },
+        {
+          "source": "Black Ancient",
+          "target": "Чёрный древний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ancient_Golden_Dragon_Skin?oldid=758659"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Necron skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Некрон»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Necron",
+          "target": "Некрон"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Storm skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Шторм»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Storm",
+          "target": "Шторм"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Maxor skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Максор»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Maxor",
+          "target": "Максор"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Goldor skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Голдор»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Goldor",
+          "target": "Голдор"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Black Ice skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Чёрный лёд»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Black Ice",
+          "target": "Чёрный лёд"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Purple skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Фиолетовый»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Purple",
+          "target": "Фиолетовый"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Portal skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Портал»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Portal",
+          "target": "Портал"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Azure skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Лазурный»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Azure",
+          "target": "Лазурный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Teal skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Сине-зелёный»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Teal",
+          "target": "Сине-зелёный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Aurora skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Северное сияние»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Aurora",
+          "target": "Северное сияние"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Blue skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Синий»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Blue",
+          "target": "Синий"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Pastel skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Пастельный»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Pastel",
+          "target": "Пастельный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Oasis skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Оазис»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Oasis",
+          "target": "Оазис"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Snowflake skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Снежинка»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Snowflake",
+          "target": "Снежинка"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Sunset skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Закат»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Sunset",
+          "target": "Закат"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Pink skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Розовый»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Pink",
+          "target": "Розовый"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Rose skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Роза»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Rose",
+          "target": "Роза"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Red skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Красный»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Red",
+          "target": "Красный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Orange skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Оранжевый»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Orange",
+          "target": "Оранжевый"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Gold skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Золотой»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Gold",
+          "target": "Золотой"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Lime skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Лаймовый»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Lime",
+          "target": "Лаймовый"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "AWAKENED! You swapped to the Green skin!",
+      "translation": "ПРОБУЖДЕНИЕ! Вы сменили облик на «Зелёный»!",
+      "style_anchors": [
+        {
+          "source": "AWAKENED!",
+          "target": "ПРОБУЖДЕНИЕ!"
+        },
+        {
+          "source": "Green",
+          "target": "Зелёный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Awakened_Wither_Helmet_Skin?oldid=745422"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Jade skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Нефрит»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Jade",
+          "target": "Нефрит"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Emerald skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Изумруд»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Emerald",
+          "target": "Изумруд"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Peridot skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Хризолит»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Peridot",
+          "target": "Хризолит"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Topaz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Топаз»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Topaz",
+          "target": "Топаз"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Amber skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Янтарь»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Amber",
+          "target": "Янтарь"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Rutile skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Рутил»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Rutile",
+          "target": "Рутил"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Ruby skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Рубин»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Ruby",
+          "target": "Рубин"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Agate skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Агат»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Agate",
+          "target": "Агат"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Rose Quartz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Розовый кварц»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Rose Quartz",
+          "target": "Розовый кварц"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Amethyst skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Аметист»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Amethyst",
+          "target": "Аметист"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Purpurite skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Пурпурит»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Purpurite",
+          "target": "Пурпурит"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Lapis Lazuli skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Лазурит»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Lapis Lazuli",
+          "target": "Лазурит"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Sapphire skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Сапфир»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Sapphire",
+          "target": "Сапфир"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Turquiose skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Бирюза»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Turquiose",
+          "target": "Бирюза"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Diamond skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Алмаз»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Diamond",
+          "target": "Алмаз"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Quartz skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Кварц»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Quartz",
+          "target": "Кварц"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Moonstone skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Лунный камень»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Moonstone",
+          "target": "Лунный камень"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Hematite skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Гематит»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Hematite",
+          "target": "Гематит"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    },
+    {
+      "speaker": "",
+      "tag": "SYSTEM",
+      "source": "CUTE! You swapped to the Onyx skin!",
+      "translation": "МИЛОТА! Вы сменили облик на «Оникс»!",
+      "style_anchors": [
+        {
+          "source": "CUTE!",
+          "target": "МИЛОТА!"
+        },
+        {
+          "source": "Onyx",
+          "target": "Оникс"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin?oldid=758576"
+    }
+  ]
+}

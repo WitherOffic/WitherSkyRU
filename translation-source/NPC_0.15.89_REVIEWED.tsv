@@ -1,0 +1,735 @@
+# Combined authored source; edit individual NPC89 files.
+Alchemage|Hello there, adventurer!|Привет, искатель приключений!
+Alchemage|You look like someone who could help me with my research!|Похоже, ты мог бы помочь мне с исследованиями!
+Alchemage|If you join our faction I might have some tasks for you.|Если вступишь в нашу фракцию, у меня найдётся для тебя работа.
+Alchemage|I'll make it worth your while.|В долгу не останусь.
+Alchemage|You have no business talking to me.|Нам с тобой не о чем говорить.
+Alchemage|I'm the local alchemist, I do research on different types of gold.|Я местный алхимик, изучаю разные виды золота.
+Alchemage|If you have some time maybe you could help me with some tasks.|Если есть свободное время, может, поможешь мне с несколькими делами?
+Alchemage|I'll make sure it's worth your time.|Постараюсь, чтобы ты не пожалел о потраченном времени.
+Alchemage|Talk to me again if you want to help out.|Поговори со мной ещё раз, если хочешь помочь.
+Alchemage|To start out I'll need some generic gold to experiment on, could you get me a stack?|Для начала мне нужно обычное золото для опытов. Принесёшь стак?
+Alchemage|Next I need some flat gold to test how reflective gold is, could you try forging gold into 5 gold plates?|Теперь нужно плоское золото: хочу проверить, как оно отражает свет. Попробуешь выковать 5 золотых пластин?
+Alchemage|I heard there exists a golden helmet that helps you swim faster in water. I would like to test its magical properties, could you bring me one?|Слышал, есть золотой шлем, с которым быстрее плаваешь. Хочу изучить его магические свойства. Принесёшь такой?
+Alchemage|It seems like the first piece you brought me is only 25% of the magical power, could you get me the leggings?|Похоже, в первой принесённой тобой части лишь 25% магической силы. Достанешь мне поножи?
+Alchemage|Now I need a lot of compacted gold, it has to be extremely dense. A half stack should do.|Теперь нужно много спрессованного золота, очень плотного. Полстака хватит.
+Alchemage|There is a fine-grained gold substance somewhere in the Hub, I'll need 5 of that.|Где-то в Хабе есть мелкозернистое золотое вещество. Мне нужно 5 порций.
+Alchemage|Next I'm going to need a vegetable that is made out of solid gold. I want to experiment with how gold interacts with organics, maybe you could find some, like a half stack?|Дальше нужен овощ из чистого золота. Хочу изучить взаимодействие золота с органикой. Найдёшь примерно полстака?
+Alchemage|I just need one last thing, there's an extremely dangerous scientist who sells an assortment of items, he has a special rounded type of gold. Try to convince him to sell you it.|Осталась последняя вещь. Один крайне опасный учёный торгует разными предметами. У него есть особое округлое золото. Попробуй уговорить его продать тебе эту вещь.
+Alchemage|Finally, my research is complete!|Наконец-то мои исследования завершены!
+Alchemage|You have single-handedly sped up my research by several years.|Ты в одиночку ускорил мои исследования на несколько лет.
+Alchemage|As promised, here is your reward.|Как и обещал, вот твоя награда.
+Alchemage|If I ever need your help, I will be sure to let you know!|Если снова понадобится помощь, я обязательно дам знать!
+Alchemage|This isn't the correct amount of the item I asked for.|Ты принёс не то количество предметов, которое я просил.
+Alchemage|I need the EXACT amount I asked for!|Мне нужно РОВНО столько, сколько я просил!
+Alchemage|I miscalculated, I need more for my research.|Я просчитался, для исследований нужно ещё.
+Alchemage|You have single-handedly slowed down my research by several years.|Ты в одиночку задержал мои исследования на несколько лет.
+Aranya|Welcome to my Den!|Добро пожаловать в моё логово!
+Aranya|I'm a spider, I eat humans, I'm evil, etc... Just bear with me.|Я паучиха, ем людей, я злая и всё такое... Просто потерпи меня.
+Aranya|I can't eat people wearing armor like you are.|Не могу есть людей в броне, как у тебя.
+Aranya|So why don't we make a deal?|Так почему бы нам не договориться?
+Aranya|You bring me a delicious meal, one without any armor. I'll take them out and you get a reward!|Ты принесёшь мне вкусный обед, без всякой брони. Я с ним покончу, а ты получишь награду!|{"meal":"обед"}
+Aranya|What say you? Are you in?|Что скажешь? Ты в деле?
+Aranya|✆ Hey you! Psst!|✆ Эй, ты! Пс-с!
+Aranya|✆ I'm hungry again and I need a meal.|✆ Я снова голодна, мне нужна еда.|{"meal":"еда"}
+Aranya|✆ Could you come help me out at my Den? And bring a friend. ;)|✆ Заглянешь ко мне в логово, поможешь? И друга прихвати. ;)|{";)":";)"}
+Aranya|Yummy yummy in my tummy!|Вкуснятина — прямо в животик!
+Aranya|What a feast!|Вот это пир!
+Aranya|You are quite unscrupulous! Maybe we can be friends!|А у тебя никаких принципов! Может, подружимся!
+Aranya|I mean that works too!|Ну, так тоже сойдёт!
+Aranya|Nom nom nom.|Ням-ням-ням.
+Aranya|Mmmm, mmm, MMMMM!|М-м-м, м-м-м, М-М-М!
+Aranya|I'll give you something pretty useful. You'll see.|Дам тебе кое-что весьма полезное. Вот увидишь.
+Aranya|It has to be a human, and they cannot be wearing any armor. That's all I'm asking!|Это должен быть человек без какой-либо брони. Только об этом и прошу!
+Aranya|✆ I am famished! Bring me a meal and I will reward you!|✆ Я умираю с голоду! Принеси мне еду, и я тебя награжу!|{"meal":"еду"}
+Aranya|✆ Bring me a human meal. No armor! Thank you!|✆ Принеси мне человека на обед. Без брони! Спасибо!|{"human meal":"человека на обед"}
+Aranya|✆ Hey, just the one I needed to hear from!|✆ О, вот кого мне нужно было услышать!
+Aranya| Maybe you can lure another unsuspecting meal when I'm hungry again?| Может, приманишь ещё один ничего не подозревающий обед, когда я снова проголодаюсь?
+Aranya| I dunno, just a though.| Не знаю, просто мысль вслух.
+Aranya| I'm full!| Я наелась!
+Aranya| I was famished! Thanks!| Я ужасно проголодалась! Спасибо!
+Aura|I learned more than I could have from success alone.|Я узнала больше, чем смогла бы узнать благодаря одним лишь успехам.
+Aura|And I've been taking notes.|И всё это время делала записи.
+Aura|Next time, things will be different, you will see.|В следующий раз всё будет иначе, вот увидите.
+Aura|I'm going back to the drawing boards.|Вернусь к чертежам.
+Aura|I've noticed how many people have been stopping by.|Я заметила, как много людей сюда заглядывает.
+Aura|My lab doesn't feel very secret anymore.|Моя лаборатория уже не кажется такой уж тайной.
+Aura|I do not take any visitors at the moment.|Сейчас я не принимаю посетителей.
+Aura|Feel free to visit my laboratory.|Можете осмотреть мою лабораторию.
+Aura|I am currently working on my evil plan.|Сейчас я работаю над своим злодейским планом.
+Aura|A few more years and I should be ready.|Ещё несколько лет — и я буду готова.
+Aura|Make yourself at home.|Чувствуйте себя как дома.
+Aura|I wish I could serve you some tea.|Жаль, не могу предложить вам чаю.
+Aura|Sorry, I'm a terrible host.|Простите, я никудышная хозяйка.
+Aura|Plotting an evil plan is actually a lot of work.|На самом деле разработка злодейского плана требует немало труда.
+Aura|Careful, don't stand in my way please.|Осторожнее, пожалуйста, не стойте у меня на пути.
+Aura|I'm not ready to show my face to the world yet.|Я ещё не готова показаться миру.
+Aura|It's time we put the people first.|Пора поставить народ на первое место.
+Aura|No more false promises. No more slacking. No more monarchs...|Хватит лживых обещаний. Хватит безделья. Хватит монархов...
+Aura|I'm not asking for your loyalty, I'm offering you a future.|Я не прошу вашей верности, я предлагаю вам будущее.
+Aura|Every coin you earn, every drop you sweat, will help everyone.|Каждая заработанная вами монета, каждая капля вашего пота послужит всем.|{"everyone":"всем"}
+Aura|The world doesn't need heroes. It needs workers.|Миру нужны не герои. Ему нужны работники.
+Aura|Under Dante, you worked for him. Under me, you'll work for each other.|При Данте вы работали на него. При мне вы будете работать друг на друга.|{"each other":"друг на друга"}
+Aura|Let's make SkyBlock fair again.|Вернём справедливость в SkyBlock.
+Aura|Dante wanted order. I want balance.|Данте хотел порядка. Я хочу равновесия.
+Aura|Why should a few have it all when we can share the load?|Зачем отдавать всё немногим, если можно разделить бремя?|{"share the load":"разделить бремя"}
+Aura|Dante made you obey. I'll make you thrive.|Данте заставлял вас подчиняться. Я заставлю вас процветать.|{"thrive":"процветать"}
+Aura|No more greed. No more chaos. Only fair progress for all.|Хватит алчности. Хватит хаоса. Только справедливый прогресс для всех.
+Mayor Aura|I do not trust this person. You will not vote for them.|Я не доверяю этому человеку. Вы не будете за него голосовать.
+Mayor Aura|Voting for yourself...|Голосовать за себя...
+Mayor Aura|Where greed and narcissism tread, reprimand follows.|За алчностью и самовлюблённостью следует порицание.
+Mayor Aura|This will not go unseen.|Это не останется незамеченным.
+Mayor Aura|Please select someone else.|Пожалуйста, выберите кого-нибудь другого.
+Mayor Aura|This citizen is not in my registry.|Этого гражданина нет в моём реестре.
+Mayor Aura|He walked farther than any of us. Let his path remain untouched.|Он прошёл дальше любого из нас. Не будем тревожить его путь.
+Mayor Aura|His crown rests in a place no vote can touch.|Его корона покоится там, где голосование уже ничего не изменит.
+Mayor Aura|His journey continues elsewhere. We cannot call him back.|Его путь продолжается в другом месте. Мы не можем призвать его обратно.
+Mayor Aura|His legacy votes for itself.|Его наследие говорит само за себя.
+Mayor Aura|Some names belong to the stars, not the ballots.|Некоторым именам место среди звёзд, а не в бюллетенях.
+Mayor Aura|That warrior's throne is eternal. We cannot elect eternity.|Престол этого воина вечен. Вечность не избирают.
+Mayor Aura|This hero has already ascended beyond out reach.|Этот герой уже вознёсся туда, куда нам не дотянуться.
+Mayor Aura|They were a traitor to our great society. You will not vote for them.|Этот человек предал наше великое общество. Вы не будете за него голосовать.
+Mayor Aura|This player is currently elected. Give someone else a chance.|Этот игрок уже избран. Дайте шанс кому-нибудь другому.
+Mayor Aura|This person has already had their voice heard.|Этот человек уже смог высказаться.
+Mayor Aura|Perhaps give those with fewer influence a chance.|Может, дадим шанс тем, у кого меньше влияния?
+Mayor Aura|Don't think you're out of my grasp.|Не думайте, что вам удалось ускользнуть от меня.
+Mayor Aura|You fell for my trap, traitor.|Вы угодили в мою ловушку, предатель.
+Mayor Aura|Progress comes at a cost. Free transport is gone for the sake of the people...|За прогресс приходится платить. Бесплатный транспорт отменён ради народа...
+Mayor Aura|I hear the votes.|Я услышала ваш выбор.
+Mayor Aura|If my presence has become something to end...|Если моему присутствию теперь хотят положить конец...
+Mayor Aura|Then staying would betray my own principles.|То, оставшись, я бы предала собственные принципы.
+Mayor Aura|Power only works when it is wanted.|Власть имеет силу лишь тогда, когда в ней нуждаются.
+Mayor Aura|And I will not force myself into permanence.|И я не стану силой удерживаться у власти навечно.
+Mayor Aura|This was the last Minister Election.|Это были последние выборы министров.
+Mayor Aura|You will now choose without me.|Теперь вы будете выбирать без меня.
+Mayor Aura|Not because I was overthrown...|Не потому, что меня свергли...
+Mayor Aura|But because I am no longer welcome.|А потому, что мне здесь больше не рады.
+Mayor Aura|This is not defeat. It is restraint.|Это не поражение. Это сдержанность.
+Mayor Aura|I will finish what I began elsewhere.|Я завершу начатое в другом месте.
+Mayor Aura|And when I return... it will be with something better.|И когда я вернусь... то с чем-то лучшим.
+Bruuh|Hold it right there!|А ну стой!
+Bruuh|I have a Fairy Soul inside my property. If you want it you will have to pay!|У меня на участке есть душа феи. Хочешь её получить — придётся заплатить!|{"Fairy Soul ":"душа феи"}
+Bruuh|You can get access to my house for 1,000,000 coins!|Можешь получить доступ в мой дом за 1,000,000 монет!|{"1,000,000 coins!":"1,000,000 монет!"}
+Bruuh|Do you want access?|Хочешь получить доступ?
+Bruuh|Congratulations! You can now come and go as you please!|Поздравляю! Теперь можешь приходить и уходить когда пожелаешь!
+Bruuh|In that case you better get off my property before I call the guards!|Тогда убирайся с моего участка, пока я не позвал стражу!
+Bruuh|Are you trying to scam me, bruh? Get off my property!|Решил меня надуть, братан? Убирайся с моего участка!
+Bruuh|Nice try, bruh! Pay the toll to get the soul!|Неплохая попытка, братан! Чтобы получить душу, нужно заплатить за проход!
+Bruuh|Once I found this Fairy Soul I decided to build my house around it.|Когда я нашёл эту душу феи, то решил построить вокруг неё дом.
+Bruuh|I actually use the Fairy Soul as a lamp. They kinda glow in the dark a bit.|Я вообще-то использую душу феи как лампу. Они ведь немного светятся в темноте.
+Bruuh|Are you a Wizard?|Ты волшебник?
+Bruuh|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.
+Bruuh|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.
+Bruuh|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?
+Bruuh|What a fantastic choice!|Какой прекрасный выбор!
+Bruuh|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.
+Bruuh|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!
+Bruuh|Sul-phur|Се-ра
+Bruuh|Sulphur?|Сера?
+Bruuh|Me Sulphur.|Я сера.
+Bruuh|Are you a Hero?|Ты герой?
+Bruuh|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?
+Bruuh|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?
+Bruuh|You seem suspicious.|Ты выглядишь подозрительно.
+Bruuh|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.
+Bruuh|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.
+Bruuh|I have a business deal to propose to you. I have something that you need, and you have something that I need. Let's make a deal, shall we?|Хочу предложить тебе сделку. У меня есть кое-что нужное тебе, а у тебя — кое-что нужное мне. Договоримся?
+Bruuh|Yo.|Йо.
+Bruuh|I knew you would come to terms. Pleasure doing business with you.|Знал, что ты согласишься на условия. Приятно иметь с тобой дело.
+Bruuh|Thanks.|Спасибо.
+Bruuh|Are you trying to scam me, bruh? Get out of here! Oh wait, this is your house...I'll get out of here!|Решил меня надуть, братан? Убирайся отсюда! Хотя погоди, это же твой дом... Тогда я сам уйду!
+Bruuh|Okay, bye.|Ладно, пока.
+Corm|Are you a tourist?|Ты турист?
+Corm|This is my favorite site, I know everything about the great Dragons.|Это моё любимое место. Я знаю всё о великих драконах.|{"Dragons":"драконах"}
+Corm|This is of course Jythar, the Eternal One.|А это, конечно же, Джитар Вечный.|{"Jythar":"Джитар"}
+Corm|The dragon army attacked our dimension many centuries ago and sent the world into pieces.|Много веков назад армия драконов напала на наше измерение и расколола мир на части.
+Corm|The skeleton of Chozon can be seen on the island south of here. He was one of the generals of Jythar.|Скелет Чозона можно увидеть на острове к югу отсюда. Он был одним из полководцев Джитара.|{"Chozon":"Чозона"}
+Corm|Dogen, Kirva, and Daydro perished and fell in the void, to my knowledge.|Насколько мне известно, Доген, Кирва и Дэйдро погибли, рухнув в пустоту.
+Corm|The 4 generals were so huge that their reach could cover the sun and bring shadows upon entire cities.|Эти 4 полководца были так огромны, что могли закрыть собой солнце и погрузить целые города во тьму.
+Corm|Thousands of Dragons attacked that day and all were defeated, but did they fail?|В тот день напали тысячи драконов, и все были повержены. Но потерпели ли они неудачу?
+Corm|What even was their purpose?|Какова вообще была их цель?
+Corm|I think they decided to break the world to weaken us, and by us I mean everyone in this dimension.|Думаю, они решили расколоть мир, чтобы ослабить нас — всех обитателей этого измерения.
+Corm|Despite the wars raging at the time, we were still able to unite and beat this common enemy.|Несмотря на бушевавшие тогда войны, мы сумели объединиться и победить общего врага.
+Corm|Jythar knew there would be no path to victory against us for as long as we could unite.|Джитар знал: пока мы способны объединиться, ему нас не одолеть.
+Corm|But why not retreat?|Но почему он не отступил?
+Corm|Why did he keep attacking us until his death?|Почему продолжал нападать на нас до самой смерти?
+Corm|I doubt it was madness. Dragons live for millennia, their Emperor surely wasn't mad.|Не думаю, что это было безумие. Драконы живут тысячелетиями, и их император наверняка не был безумен.
+Corm|So why would he give up his life to guarantee a potential victory in the future?|Так зачем он отдал жизнь ради шанса на победу в будущем?
+Corm|It's impossible for us to know, but we can theorize.|Мы не можем знать наверняка, но можем строить предположения.
+Corm|It is known from the Dragons summoned nowadays that they worship their Queen.|От драконов, которых призывают в наши дни, известно, что они поклоняются своей королеве.|{"Queen":"королеве"}
+Corm|Queen, Empress - the exact word might have been lost in translation.|Королева, императрица — точное слово могло потеряться при переводе.
+Corm|I think Jythar did it for her.|Думаю, Джитар сделал это ради неё.
+Corm|I think the reason is love.|Думаю, причина — любовь.|{"love":"любовь"}
+Corm|Maybe I am wrong, but I choose to believe it.|Возможно, я ошибаюсь, но предпочитаю в это верить.
+Corm|This titan next to us is known by many names, some call them the Calamity.|У этого титана рядом с нами много имён. Некоторые зовут его Бедствием.|{"Calamity":"Бедствием"}
+Corm|They are the enemies, but if they are motivated by love, maybe we can communicate with them.|Они враги, но если ими движет любовь, может, с ними удастся договориться.
+Corm|What do you think? Am I too romantic, or did my explanation make sense?|А ты как думаешь? Я слишком романтичен или в моих словах есть смысл?
+Don Expresso|THIS ISN'T WHAT I ASKED FOR! BRING TASTY MITHRIL TO ME NOW!|ЭТО НЕ ТО, ЧТО Я ПРОСИЛ! НЕСИТЕ МНЕ ВКУСНЫЙ МИФРИЛ, ЖИВО!|{"TASTY MITHRIL":"ВКУСНЫЙ МИФРИЛ"}
+Don Expresso|DISGUSTING! I'M GONNA GET YOU FIRED FOR FEEDING ME THIS GARBAGE!|МЕРЗОСТЬ! Я ДОБЬЮСЬ ВАШЕГО УВОЛЬНЕНИЯ ЗА ТО, ЧТО КОРМИТЕ МЕНЯ ЭТОЙ ДРЯНЬЮ!
+Don Expresso|EWWW WHAT IS THIS?|ФУ-У-У, ЭТО ЧТО ТАКОЕ?
+Don Expresso|I HUNGER|Я ГОЛОДЕН
+Don Expresso|BRING ME EDIBLE MITHRIL|ПРИНЕСИТЕ МНЕ СЪЕДОБНЫЙ МИФРИЛ
+Don Expresso|THIS OLD MITHRIL IS STALE! DON'T EVER FEED THIS TO ME AGAIN!|ЭТОТ СТАРЫЙ МИФРИЛ УЖЕ ЗАЧЕРСТВЕЛ! БОЛЬШЕ НИКОГДА МНЕ ТАКОЕ НЕ ДАВАЙТЕ!
+Don Expresso|I FORGOT TO BRING A SNACK|Я ЗАБЫЛ ВЗЯТЬ С СОБОЙ ПЕРЕКУС
+Don Expresso|0/10, WOULD NOT RECOMMEND, TAKING TOO LONG|0/10, НЕ РЕКОМЕНДУЮ, СЛИШКОМ ДОЛГО
+Don Expresso|WHAT ARE YOU GUYS WAITING FOR|ЧЕГО ВЫ ВСЕ ЖДЁТЕ
+Don Expresso|I AM LEAVING A BAD RATING FOR THIS PLACE ON MINEADVISOR|Я ОСТАВЛЮ ЭТОМУ МЕСТУ ПЛОХУЮ ОЦЕНКУ НА МАЙНЭДВАЙЗОРЕ
+Don Expresso|I WANT TO SPEAK TO YOUR MANAGER|ХОЧУ ПОГОВОРИТЬ С ВАШИМ УПРАВЛЯЮЩИМ
+Don Expresso|THEY LOOK SO GOOD|ОНИ ТАК АППЕТИТНО ВЫГЛЯДЯТ
+Don Expresso|I MIGHT JUST STAY HERE FOREVER THEN|ТОГДА Я, ПОЖАЛУЙ, ОСТАНУСЬ ЗДЕСЬ НАВСЕГДА
+Don Expresso|DO YOU EVEN KNOW WHO I AM|ДА ВЫ ВООБЩЕ ЗНАЕТЕ, КТО Я ТАКОЙ
+Don Expresso|MY FATHER WILL HEAR ABOUT THIS|МОЙ ОТЕЦ ОБ ЭТОМ УЗНАЕТ
+Don Expresso|WHY IS THIS TAKING SO LONG|ПОЧЕМУ ЭТО ТАК ДОЛГО
+Don Expresso|I AM RATING THIS ESTABLISHMENT ONE STAR ON DWELP|Я ПОСТАВЛЮ ЭТОМУ ЗАВЕДЕНИЮ ОДНУ ЗВЕЗДУ НА ДВЕЛПЕ
+Don Expresso|I DON'T HAVE ALL DAY, I ONLY WANT THE BEST LOOKING MITHRIL PIECES!|У МЕНЯ НЕ ВЕСЬ ДЕНЬ ВПЕРЕДИ, МНЕ НУЖНЫ ТОЛЬКО САМЫЕ АППЕТИТНЫЕ КУСКИ МИФРИЛА!
+Don Expresso|MY MEALS SHOULD HAVE ALREADY BEEN READY|МОЯ ЕДА УЖЕ ДАВНО ДОЛЖНА БЫТЬ ГОТОВА
+Don Expresso|I AM NOT HAPPY WITH HOW LONG THIS IS TAKING|МЕНЯ НЕ УСТРАИВАЕТ, КАК ДОЛГО ЭТО ДЛИТСЯ
+Don Expresso|I AM NOT OKAY WITH THIS|МЕНЯ ЭТО НЕ УСТРАИВАЕТ
+Don Expresso|YOU SHOULD ALL BE ASHAMED OF YOURSELVES|ВАМ ВСЕМ ДОЛЖНО БЫТЬ СТЫДНО
+Don Expresso|FEED ME|НАКОРМИТЕ МЕНЯ
+Don Expresso|I THINK I MIGHT HAVE ROCK POISONING, I NEED TO LAY DOWN!|КАЖЕТ, Я ОТРАВИЛСЯ КАМНЯМИ, МНЕ НУЖНО ПРИЛЕЧЬ!
+Fairylosopher|No vampires here!|Здесь нет вампиров!
+Fairylosopher|Fairies lived in the castle for a while, you know?|Знаешь, какое-то время в замке жили феи.
+Fairylosopher|To fairy or not to fairy?|Быть феей или не быть?
+Fairylosopher|Well...considering some fairies get thrown off towers...|Что ж... учитывая, что некоторых фей сбрасывают с башен...
+Fairylosopher|Let's stick to NOT fairy...|Тогда выбираем НЕ быть феей...|{"NOT":"НЕ"}
+Fairylosopher|Oh, wondrous sprite of fairy kind,|О дивное созданье, фея,
+Fairylosopher|Whose soul is light and free,|Чья душа светла и вольна,
+Fairylosopher|Thy nature is a thing divine,|Твоя природа божественна,
+Fairylosopher|A joy for all to see.|Ты — радость всем, кто видит тебя.
+Fairylosopher|Thy wings are like the morning mist,|Твои крылья — как утренний туман,
+Fairylosopher|Thy laughter like the breeze,|Твой смех — как дуновенье ветра,
+Fairylosopher|Thy voice, a sound that can't be missed,|Твой голос невозможно не услышать,
+Fairylosopher|A song of sweet release.|В нём песнь сладостного освобожденья.
+Fairylosopher|So let us revel in thy glee,|Позволь нам разделить твоё веселье,
+Fairylosopher|And bask in thy sweet glow,|И нежиться в твоём нежном сиянье,
+Fairylosopher|For in thy soul, we all can see,|Ведь в твоей душе все мы видим
+Fairylosopher|The love that doth bestow.|Любовь, которую ты даришь.
+Fairylosopher|Oh, fairy soul, how bright thou art,|О душа феи, как ярко ты сияешь,
+Fairylosopher|Thy beauty doth astound,|Твоя краса нас поражает,
+Fairylosopher|Thy presence fills my grateful heart,|Ты наполняешь благодарное сердце —
+Fairylosopher|A treasure that I've found.|Сокровище, что удалось мне отыскать.
+Fairylosopher|Thou art a creature of delight,|Ты — восхитительное созданье,
+Fairylosopher|A being full of grace,|Существо, исполненное грации,
+Fairylosopher|Thy soul doth glow with inner light,|Твоя душа сияет внутренним светом,
+Fairylosopher|A light that doth embrace.|Светом, что обнимает нас.
+Fairylosopher|What a punt!|Вот это пинок!
+Fairylosopher|Congratulations on getting the first ever fairy soul!|Поздравляю с получением первой в истории души феи!
+Fairylosopher|Mmmh yes... poetry.|М-м-м, да... поэзия.
+Fairylosopher|Fairies always stick together!|Феи всегда держатся вместе!
+Fairylosopher|Except her, I never liked her.|Только не она. Она всегда мне не нравилась.
+Gerald|Hmm, you're not quite ready yet.|Хм, ты пока не совсем готов.
+Gerald|Go talk to the Fishing Merchant in the Fishing Outpost, get geared up, and get fishin'!|Поговори с торговцем рыболовными товарами на Рыболовном форпосте, обзаведись снаряжением — и вперёд, рыбачить!|{"Fishing Merchant ":"торговцем рыболовными товарами","Fishing Outpost":"Рыболовном форпосте"}
+Gerald|Come back once you've reached Fishing Skill V and I'll tell you how you can get to a new island!|Вернись, когда достигнешь навыка рыбалки V, и я расскажу, как попасть на новый остров!|{"Fishing Skill V ":"навыка рыбалки V","new island":"новый остров"}
+Gerald|Keep the noise down, kid!|Потише, малец!
+Gerald|If you want to learn about Fishing, go talk to my wife, Fisherwoman Enid.|Хочешь узнать о рыбалке — поговори с моей женой, рыбачкой Энид.|{"Fishing":"рыбалке","Fisherwoman Enid":"рыбачкой Энид"}
+Gerald|She's fishing a bit upstream. Once she's shown you the ropes, come back and talk to me!|Она рыбачит чуть выше по течению. Когда она научит тебя основам, вернись ко мне!|{"upstream":"выше по течению"}
+Gerald|Hey there buddy, think you can help me out?|Эй, дружище, поможешь мне?
+Gerald|My buddy, Captain Baha, and I are just about done building a ship that can set sail to the Backwater Bayou.|Мы с моим приятелем, капитаном Бахой, почти достроили корабль, на котором можно добраться до Заводи.|{"Captain Baha":"капитаном Бахой","Backwater Bayou":"Заводи"}
+Gerald|All that's left is to add the Rusty Ship Engine, but I tripped and dropped it into the pond here...|Осталось установить ржавый корабельный двигатель, но я споткнулся и уронил его в этот пруд...|{"Rusty Ship Engine":"ржавый корабельный двигатель","pond ":"пруд"}
+Gerald|Do you think you could fish it out for me?|Сможешь выловить его для меня?
+Gerald|If you find it, bring it to Captain Baha so you can set sail!|Если найдёшь, отнеси капитану Бахе — и сможешь отправиться в плавание!|{"Captain Baha ":"капитану Бахе"}
+Gerald|Can you fish up the Rusty Ship Engine for me?|Можешь выловить для меня ржавый корабельный двигатель?|{"Rusty Ship Engine ":"ржавый корабельный двигатель"}
+Gerald|It's somewhere in this pond here.|Он где-то в этом пруду.|{"pond ":"пруду"}
+Gerald|Once you fish it out, you can set sail to the Backwater Bayou!|Как только выловишь его, сможешь отплыть в Заводь!|{"Backwater Bayou":"Заводь"}
+Gerald|Ah! The Rusty Ship Engine! Perfect!|А! Ржавый корабельный двигатель! Прекрасно!|{"Rusty Ship Engine":"Ржавый корабельный двигатель"}
+Gerald|Bring that to Captain Baha and he'll be able to help you set sail!|Отнеси его капитану Бахе, и он поможет тебе отправиться в плавание!|{"Captain Baha ":"капитану Бахе"}
+Gerald|He's behind the Fisherman's Hut, waiting by the Ship.|Он за Хижиной рыбака, ждёт у корабля.|{"Fisherman's Hut":"Хижиной рыбака","Ship":"корабля"}
+Gerald|Just leave out the part about me dropping it, would ya?|Только не говори, что это я его уронил, ладно?
+Gerald|You can use the Ship Navigator to set sail to the Backwater Bayou!|Можешь воспользоваться корабельным навигатором, чтобы отплыть в Заводь!|{"Ship Navigator ":"корабельным навигатором","Backwater Bayou":"Заводь"}
+Gerald|Safe travels!|Счастливого пути!
+Gerald|Fishing is the family business.|Рыбалка — наше семейное дело.|{"Fishing ":"Рыбалка"}
+Gerald|Enid and I are thrilled that our two children love it as much as we do!|Мы с Энид рады, что оба наших ребёнка любят её не меньше нашего!
+Gerald|I met Captain Baha when I was marooned on a distant pirate cove.|Я познакомился с капитаном Бахой, когда застрял в далёкой пиратской бухте.|{"Captain Baha ":"капитаном Бахой","pirate cove":"пиратской бухте"}
+Gerald|He saved my skin then, and I'm forever grateful to him.|Тогда он спас мою шкуру, и я вечно буду ему благодарен.
+Gerald|I've only gone lava fishing a few times in my life.|За всю жизнь я лишь несколько раз рыбачил в лаве.|{"lava fishing ":"рыбачил в лаве"}
+Gerald|I prefer the open water. More peaceful, less Ghasts!|Предпочитаю открытые водоёмы. Спокойнее и меньше гастов!
+Gemma|Hello there! That's strange... you don't look like a dwarf, but you also don't look like a Goblin!|Привет! Странно... ты не похож на дварфа, но также не похож на гоблина!|{"you don't look like a dwarf, ":"ты не похож на дварфа, ","but you also don't look like a ":"но также не похож на ","Goblin":"гоблина"}
+Gemma|I've not seen a human down here since... well, nevermind.|Я не видела здесь людей с тех пор, как... а, неважно.
+Gemma|The name's Gemma, and I run the Diamond Essence Shop, where you can trade in Diamond Essence for useful perks and upgrades!|Меня зовут Джемма. У меня магазин алмазной эссенции: здесь можно обменять алмазную эссенцию на полезные бонусы и улучшения!|[{"source":"Gemma","target":"Джемма"},{"source":"Diamond Essence Shop","target":"магазин алмазной эссенции"},{"source":"Diamond Essence","target":"алмазную эссенцию","source_occurrence":2}]
+Gemma|Show me that you know your way around. Bring back all five Crystals found throughout the Crystal Hollows and complete the Crystal Nucleus, I'll let you use my shop.|Покажи, что знаешь здешние места. Принеси все пять кристаллов из Кристальных пещер и собери Кристальное ядро — тогда сможешь пользоваться моим магазином.|{"Crystal Hollows":"Кристальных пещер","Crystal Nucleus":"Кристальное ядро"}
+Gemma|If you're having trouble finding any of those Crystals, go take a look at the Nucleus Vault over there.|Если не можешь найти какой-нибудь кристалл, загляни в хранилище ядра, вон туда.|{"Nucleus Vault":"хранилище ядра"}
+Gemma|That'll tell you where each Crystal can be found in the Dwarven Mines.|Там узнаешь, где в Дварфских шахтах найти каждый кристалл.|{"Dwarven Mines":"Дварфских шахтах"}
+Gemma|Stuck? Go take a look at the Nucleus Vault.|Застрял? Загляни в хранилище ядра.|{"Nucleus Vault":"хранилище ядра"}
+Gemma|That'll tell you where each Crystal can be found in the Crystal Hollows.|Там узнаешь, где в Кристальных пещерах найти каждый кристалл.|{"Crystal Hollows":"Кристальных пещерах"}
+Gemma|Awesome! You really completed the Crystal Nucleus?|Отлично! Ты и правда собрал Кристальное ядро?|{"Awesome! ":"Отлично! ","Crystal Nucleus":"Кристальное ядро"}
+Gemma|I'll give you 25 Diamond Essence to get you started- you can find more all around the Crystal Hollows!|Для начала дам тебе 25 алмазной эссенции — ещё можно найти по всем Кристальным пещерам!|{"25 Diamond Essence ":"25 алмазной эссенции"}
+Gemma|Let me show you the Diamond Essence Shop!|Покажу тебе магазин алмазной эссенции!|{"Diamond Essence Shop":"магазин алмазной эссенции"}
+Gemma|✆ Hey there.|✆ Привет.
+Gemma|✆ You want my Abiphone Contact?|✆ Хочешь мой контакт для Abiphone?|{"Abiphone Contact":"контакт для Abiphone"}
+Gemma|✆ You know the signal isn't great down here, right?|✆ Ты ведь понимаешь, что со связью здесь не очень?
+Gemma|✆ Well, I suppose it wouldn't do any harm.|✆ Что ж, думаю, хуже не станет.
+Gemma|✆ Most of the Dwarves are pretty against all of this newer tech, so I've got plenty of space in my directory.|✆ Большинство дварфов не жалует все эти новые технологии, так что в моей телефонной книге полно места.
+Gemma|✆ How about you bring me a Pure Mithril Gem? I'll trade it for my contact.|✆ Может, принесёшь мне самоцвет чистого мифрила? Взамен дам свой контакт.|{"Pure Mithril Gem":"самоцвет чистого мифрила"}
+Gemma|✆ It's such a beautiful gem. Perhaps the most beautiful one of all.|✆ Такой прекрасный самоцвет. Пожалуй, прекраснее всех остальных.
+Gemma|✆ Well, outside of the fabled Arkenstone, that is.|✆ Ну, кроме легендарного Аркенстона, разумеется.|{"Arkenstone":"Аркенстона"}
+Gemma|✆ As nice as that thing is, it's not a Pure Mithril Gem.|✆ Как ни хороша эта вещь, это не самоцвет чистого мифрила.|{"Pure Mithril Gem":"самоцвет чистого мифрила"}
+Gemma|✆ If you could find me one I'd really appreciate it.|✆ Буду очень благодарна, если найдёшь его для меня.
+Gemma|✆ I've heard they sometimes drop from Diamond Goblins.|✆ Говорят, они иногда выпадают из алмазных гоблинов.|{"Diamond Goblins":"алмазных гоблинов"}
+Gemma|✆ Wow! It's beautiful!!|✆ Ого! Какой красивый!!
+Gemma|✆ Thank you so much - I think I'll fashion it into a necklace.|✆ Большое спасибо! Думаю, сделаю из него ожерелье.
+Gemma|✆ Here - take my contact.|✆ Вот, возьми мой контакт.
+Gemma|✆ Give me a call if you ever need to use the Diamond Essence Shop!|✆ Позвони, если захочешь воспользоваться магазином алмазной эссенции!|{"Diamond Essence Shop":"магазином алмазной эссенции"}
+Gemma|Oh, a human! I think...?|О, человек! Кажется...?
+Gemma|Nice seeing you! It gets a bit lonely down in the Hollows.|Рада тебя видеть! В пещерах бывает немного одиноко.
+Gemma|Maybe next time!|Может, в следующий раз!
+Grandpa Wolf|Tell you what, would you be willing to help me gather them all for me? I'll reward you handsomely!|Вот что: поможешь мне собрать их все? Я награжу тебя как следует!|{"reward ":"награжу ","you handsomely!":"тебя как следует!"}
+Grandpa Wolf|...So long as I get to keep the corpses.|...Если, конечно, тела достанутся мне.
+Grandpa Wolf|Awesome! Okay, stand still real quick...|Отлично! Так, постой неподвижно секунду...
+Grandpa Wolf|*sniff sniff*|*нюх-нюх*
+Grandpa Wolf|Okay, now I'm familiar with your scent!|Так, теперь я знаю твой запах!|{"scent":"запах"}
+Grandpa Wolf|Using my amazing power of smell, I'll track you as you move through the Glacite Mineshafts.|Моё потрясающее обоняние поможет мне следить за тобой, пока ты ходишь по Глацитовым шахтам.|{"Glacite Mineshafts":"Глацитовым шахтам"}
+Grandpa Wolf|You know what the Glacite Mineshafts are, right?|Ты ведь знаешь, что такое Глацитовые шахты?|{"Glacite Mineshafts ":"Глацитовые шахты"}
+Grandpa Wolf|Oh, that's okay.|Ну что ж, ничего страшного.
+Grandpa Wolf|My wife's not gonna be happy.|Жена будет недовольна.
+Grandpa Wolf|Been out here for months without so much as a scrap to show for it...|Столько месяцев здесь торчу, а в итоге ни кусочка...
+Grandpa Wolf|You know, you're starting to look kinda tasty...|Знаешь, ты начинаешь выглядеть довольно аппетитно...|{"tasty":"аппетитно"}
+Grandpa Wolf|Great, the look on your face had me worried for a second!|Отлично, а то от выражения твоего лица я на миг заволновался!
+Grandpa Wolf|Anyways, whenever you loot a Frozen Corpse, I'll come soon after to retrieve it.|В общем, когда обыщешь замёрзшее тело, я вскоре приду за ним.|{"Frozen Corpse":"замёрзшее тело"}
+Grandpa Wolf|Come talk to me and I'll show you how many corpses we, the dream team, have gathered together!|Поговори со мной, и я покажу, сколько тел мы с тобой, команда мечты, собрали вместе!
+Grandpa Wolf|After reaching certain Frozen Corpse Milestones I'll even give you some useful stuff from my stash!|За определённые этапы сбора замёрзших тел я даже дам тебе полезные вещи из своих запасов!|{"Frozen Corpse Milestones ":"этапы сбора замёрзших тел"}
+Grandpa Wolf|Here, take a look!|Вот, посмотри!
+Grandpa Wolf|Hmm, maybe you're not ready then, yet.|Хм, пожалуй, ты пока не готов.
+Grandpa Wolf|Glacite Mineshafts sometimes pop up while you're mining in the Glacite Tunnels.|Глацитовые шахты иногда открываются, когда добываешь ресурсы в Глацитовых тоннелях.|{"Glacite Mineshafts ":"Глацитовые шахты","Glacite Tunnels":"Глацитовых тоннелях"}
+Grandpa Wolf|If you enter one, you'll fine Frozen Corpses strewn throughout the place - they're all that's left of some unfortunate dwarves from long ago!|Зайдёшь туда — найдёшь повсюду замёрзшие тела. Это всё, что осталось от давным-давно сгинувших несчастных дварфов!|{"Frozen Corpses ":"замёрзшие тела"}
+Grandpa Wolf|Though they're not very talkative fellows on account of being dead 'n all, you can still have a rummage through their backpacks for some loot!|Они, конечно, не слишком разговорчивы — мертвецы всё-таки, — но в их рюкзаках всё ещё можно поискать добычу!
+Grandpa Wolf|Now, why don't you go and find a Glacite Mineshafts or two, and then come talk to me again when you're ready for us to partner up?|А теперь найди парочку Глацитовых шахт и вернись ко мне, когда будешь готов работать вместе!|{"Glacite Mineshafts ":"Глацитовых шахт"}
+Gustave|Hey! Come talk to me over here! I'll tell you all about racing!|Эй! Подойди, поговорим! Я расскажу тебе всё о гонках!
+Gustave|There's nothing like island racing!|Ничто не сравнится с гонками по острову!
+Gustave|Come back when you have unlocked the rest of The Park if you want to give it a try!|Если хочешь попробовать, возвращайся, когда откроешь весь Парк!|{"The Park ":"Парк"}
+Gustave|I've traveled many islands and this is my favorite to race on. Want to try?|Я объездил немало островов, но больше всего люблю бегать наперегонки именно здесь. Хочешь попробовать?
+Gustave|To complete the race, you'll need to reach the opposite side of the island AND come back all the way back.|Чтобы завершить гонку, нужно добежать до противоположной стороны острова И вернуться обратно.|{"opposite side of the island ":"противоположной стороны острова"}
+Gustave|Start the race by walking over the pressure plate. If you finish in under 2 minutes, I'll reward you for it! Good luck!|Наступи на нажимную плиту, чтобы начать гонку. Уложишься менее чем в 2 минуты — получишь награду! Удачи!
+Gustave|Run over the pressure plate to start racing! Run up to the opposite side of the island AND back to complete the race. Can you finish it in 2 minutes?|Пробеги по нажимной плите, чтобы начать гонку! Добеги до противоположной стороны острова И обратно, чтобы её завершить. Уложишься в 2 минуты?|{"opposite side of the island ":"противоположной стороны острова","2 minutes":"2 минуты"}
+Gustave|I hope you can get a better than this!|Надеюсь, ты сможешь показать результат получше!
+Gustave|Here's a Polished Pebble. I found it laying around...|Вот тебе полированный камешек. Нашёл его тут неподалёку...|{"Polished Pebble":"полированный камешек"}
+Gustave|Try again, but this time come back in 1 minute or less!|Попробуй ещё раз, но теперь вернись за 1 минуту или быстрее!
+Gustave|Keep it up! Can you finish the race in 1 minute or less?|Так держать! Сможешь завершить гонку за 1 минуту или быстрее?
+Gustave|You're getting much faster!|Ты становишься намного быстрее!
+Gustave|Use my Hunter Knife. Holding it somehow makes me go faster.|Возьми мой нож охотника. С ним в руках я почему-то бегаю быстрее.|{"Hunter Knife":"нож охотника"}
+Gustave|See if you can beat 32 seconds!|Попробуй уложиться быстрее чем в 32 секунды!
+Gustave|Keep at it! Can you finish the race in 32 seconds or less?|Продолжай стараться! Сможешь пройти гонку за 32 секунды или быстрее?
+Gustave|Now we're cooking! You're getting close to my record!|Вот теперь дело пошло! Ты приближаешься к моему рекорду!
+Gustave|Here's an trinket I've found in the caverns behind the waterfall.|Вот безделушка, которую я нашёл в пещерах за водопадом.
+Gustave|Finish the race in under 18 seconds and come talk to me!|Пройди гонку быстрее чем за 18 секунд и подойди ко мне!
+Gustave|Real challenge! Can you finish the race in 18 seconds or less and beat my personal record?|Вот настоящее испытание! Сможешь пройти гонку за 18 секунд или быстрее и побить мой личный рекорд?
+Gustave|I've been racing this island so fast that some bark from the trees snatched right off!|Я носился по острову так быстро, что с деревьев даже срывало кору!
+Gustave|Here's a rare piece of Silky Lichen. Maybe you can do something with it.|Вот редкий шелковистый лишайник. Может, найдёшь ему применение.|{"Silky Lichen":"шелковистый лишайник"}
+Gustave|I heard this lichen could improve some weapons!|Слышал, этим лишайником можно улучшить кое-какое оружие!
+Gustave|You're always welcome to try the race again. Just run over the pressure plate to begin!|Можешь попробовать пробежать гонку ещё раз в любое время. Просто пробеги по нажимной плите!
+Gustave|It's a great day to go for a run!|Отличный день для пробежки!
+Junker Joel|You alright there, my friend?|Всё хорошо, приятель?
+Junker Joel|I don't see many people 'round these parts. Probably the smell of the place that drives them away, I'd think.|Не так уж часто тут люди бывают. Думаю, здешняя вонь их отпугивает.
+Junker Joel|Some nasty spill happened a while ago, and ever since people 'ave been dumping their trash in the river.|Некоторое время назад тут разлилась какая-то гадость, и с тех пор люди стали сбрасывать мусор прямо в реку.
+Junker Joel|Anyways, if you want to help with the cleaning effort, take this Junk Sinker and get fishin'!|В общем, если хочешь помочь с уборкой, бери это мусорное грузило и приступай к рыбалке!|{"Junk Sinker ":"мусорное грузило"}
+Junker Joel|Bring it over to Roddy and he'll help you attach it to your Fishing Rod!|Отнеси его Родди, и он поможет прикрепить его к твоей удочке!|{"Roddy ":"Родди"}
+Junker Joel|I'll let ya trade any Junk that you bring me for something more worth your time!|За любой принесённый хлам я дам тебе что-нибудь стоящее!|{"Junk ":"хлам"}
+Junker Joel|Like they always say, one man's trash is another man's treasure!|Как говорится, для одного мусор, а для другого — сокровище!|{"trash ":"мусор","treasure":"сокровище"}
+Junker Joel|Bring any Junk you find while fishing with your Junk Sinker to me, and I'll let ya trade it in for something more worth your time!|Приноси мне хлам, выловленный с мусорным грузилом, и сможешь обменять его на что-нибудь стоящее!|[{"source":"Junk ","target":"хлам","source_occurrence":1},{"source":"Junk Sinker ","target":"мусорным грузилом"}]
+Junker Joel|✆ You doin' alright there mate?|✆ Всё хорошо, приятель?
+Junker Joel|✆ Looking a little queasy.|✆ Ты что-то бледноват.
+Junker Joel|✆ Hm, what brings ya to ask?|✆ Хм, с чего это ты спрашиваешь?
+Junker Joel|✆ You want me to put my little number thingy in it?|✆ Хочешь, чтобы я записал туда свой этот... номерок?
+Junker Joel|✆ Well, now that I think about it, my little girl got me one for my birthday a few months back.|✆ А ведь дочка подарила мне такую штуку на день рождения несколько месяцев назад.
+Junker Joel|✆ It's somewhere in my hut. Place isn't too big so it shouldn't be too hard to find.|✆ Лежит где-то в моей хижине. Она небольшая, так что найти будет несложно.
+Junker Joel|✆ However, it's only a wee little Abiphone Basic, so it ain't got many contact slots.|✆ Правда, это всего лишь базовый Abiphone, так что места для контактов в нём немного.|{"Abiphone Basic":"базовый Abiphone"}
+Junker Joel|✆ Matter of fact, I've got seven siblings alone that would probably want to be in it...|✆ У меня ведь одних братьев да сестёр семеро, и каждый, наверное, захочет туда попасть...
+Junker Joel|✆ Hmm, it's quite the conundrum.|✆ Хм, вот ведь задачка.
+Junker Joel|✆ Tell you what, here's a compromise.|✆ Знаешь что, давай договоримся.
+Junker Joel|✆ If you can bring me a Bayou Water Orb, I'll give you my contact.|✆ Принесёшь мне болотную водную сферу — дам тебе свой контакт.|{"Bayou Water Orb":"болотную водную сферу"}
+Junker Joel|✆ That thing is basically the holy grail to a junk collector like me.|✆ Для такого собирателя хлама, как я, эта штука — настоящий священный Грааль.
+Junker Joel|✆ That's not what I asked for!|✆ Я просил не это!
+Junker Joel|✆ If you forgot, I'm after a Bayou Water Orb!|✆ Если забыл: мне нужна болотная водная сфера!|{"Bayou Water Orb":"болотная водная сфера"}
+Junker Joel|✆ Ain't nothing I'd rather have than that beautiful hunk o' junk!|✆ Ничто не радует меня больше этой прекрасной груды хлама!
+Junker Joel|✆ Well ain't she a beauty!|✆ Ну разве не красота!
+Junker Joel|✆ You feel like the eighth sibling I never had.|✆ Ты мне словно восьмой родственник, которого мне всегда не хватало.
+Junker Joel|✆ Here's my number, don't lose it!|✆ Вот мой номер, не потеряй!
+Nall|So do you know if they got the new Abiphones?|Так ты знаешь, привезли ли им новые абифоны?
+Nall|Incredible and do you know the code..?|Невероятно! А код ты знаешь..?
+Nall|Of course.|Конечно.
+Nall|Ok, got it.|Ладно, запомнил.
+Nall|What? I didn't say anything!|Что? Я ничего не говорил!
+Nall|Stop spying on us...|Перестань за нами шпионить...
+Nall|You are intruding.|Ты нам мешаешь.
+Nall|Shhhh!|Тссс!
+Nall|Someone is listening to us!|Нас кто-то подслушивает!
+Nall|Are you a Wizard?|Ты волшебник?
+Nall|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.
+Nall|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.
+Nall|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?
+Nall|What a fantastic choice!|Какой прекрасный выбор!
+Nall|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.
+Nall|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!
+Nall|Sul-phur|Се-ра
+Nall|Sulphur?|Сера?
+Nall|Me Sulphur.|Я сера.
+Nall|Are you a Hero?|Ты герой?
+Nall|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?
+Nall|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?
+Nall|You seem suspicious.|Ты выглядишь подозрительно.
+Nall|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.
+Nall|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.
+Marco|Hey there!|Привет!
+Marco|I'm a world-famous artist to be. Most people just call me "the new da Vinci".|Я будущий всемирно известный художник. Многие уже зовут меня «новым да Винчи».
+Marco|Unfortunately I ran out of dye this morning...|К сожалению, сегодня утром у меня кончился краситель...
+Marco|In my garden are some flowers. Could you pick 5 Poppies and turn them into Rose Red Dye, then bring them back to me?|У меня в саду растут цветы. Можешь собрать 5 маков, сделать из них красный краситель и принести мне?|{"5 Poppies ":"5 маков","Rose Red Dye":"красный краситель"}
+Marco|Come back with the right amount of items!|Возвращайся, когда соберёшь нужное количество предметов!
+Marco|Wow! That's the most beautiful red dye I have ever seen!|Ого! Такого прекрасного красного красителя я ещё не видел!
+Marco|Take this Spray Can!|Возьми этот баллончик с краской!
+Marco|You can select a spray by left-clicking your Spray Can!|Нажми ЛКМ с баллончиком в руке, чтобы выбрать рисунок!
+Marco|Right-click any wall on your private island to spray it. If you ever lose your Spray Can, you can craft another one using the recipe in your Recipe Book!|Нажми ПКМ по любой стене на своём острове, чтобы нанести рисунок. Если потеряешь баллончик, сможешь создать новый по рецепту из книги рецептов!|{"Recipe Book":"книги рецептов"}
+Marco|Thank you so much for your help. You should visit me in my Canvas Room sometime! Step into the portal to the left over there!|Большое спасибо за помощь. Загляни как-нибудь ко мне в мастерскую! Войди в портал слева, вон там!|{"Canvas Room ":"мастерскую"}
+Marco|Look who it is... you made it to my Canvas Room!|Кого я вижу... ты добрался до моей мастерской!
+Marco|Since you're here already... would you like to draw something?|Раз уж ты здесь... не хочешь что-нибудь нарисовать?
+Marco|Put your Spray Can in your hand, hold right-click and move it across the canvas to draw!|Возьми баллончик, зажми ПКМ и води им по холсту, чтобы рисовать!
+Marco|You can choose a color by clicking it in the palette below the canvas.|Чтобы выбрать цвет, нажми на него в палитре под холстом.
+Marco|Let me know when you're done with your painting!|Дай знать, когда закончишь картину!
+Marco|Wow! It's beautiful!|Ого! Красота!
+Marco|For now, enjoy the sprays you have available in your Spray Can!|А пока пользуйся рисунками, которые уже доступны в твоём баллончике!
+Marco|Thank you again for your help!|Ещё раз спасибо за помощь!
+Marco|Hey there! I'm looking for a new type of flower to plant in my Garden.|Привет! Я ищу новый вид цветов для своего сада.
+Marco|This'll do nicely! Ciao!|Отлично подойдёт! Чао!
+Marco|If you ever change your mind, you know where to find me!|Если передумаешь, знаешь, где меня найти!
+Marco|Before spraying on a wall, consider previewing it in the menu! Right-click on any spray of your choice and it'll magically appear in your hand.|Прежде чем наносить рисунок на стену, посмотри на него в меню! Нажми ПКМ по любому понравившемуся рисунку, и он волшебным образом окажется у тебя в руке.
+Marco|Don't forget to refill your spray can with dye! You can pick some of the flowers in my garden if you want to.|Не забывай заправлять баллончик красителем! Можешь нарвать для этого цветов в моём саду.
+Marco|You can select sprays by left-clicking with your Spray Can!|Нажми ЛКМ с баллончиком в руке, чтобы выбрать рисунки!
+Marco|I love sprays! So many colors!|Обожаю рисовать баллончиком! Столько красок!
+Marco|In the future, the canvas room will let you save your drawings to sprays!|В будущем в мастерской можно будет сохранять свои рисунки для баллончика!
+Marco|In the distant future I'll let you create your very own sprays with this canvas...|Когда-нибудь в далёком будущем я позволю тебе создавать на этом холсте собственные рисунки для баллончика...
+Molbert|I watched the comings and goings in this park and it occurred to me that a very common problem plagues these areas.|Наблюдая за жизнью этого парка, я понял, что здешние места страдают от одной весьма распространённой проблемы.
+Molbert|Moles, you see. They have been burrowing everywhere, their tunnels are disrupting the landscape, they ruined the beauty of this place. It's gotten hard to ignore.|Кроты, понимаешь ли. Изрыли всё вокруг, испортили ландшафт своими тоннелями, погубили красоту этого места. Закрывать на это глаза уже трудно.|{"Moles":"Кроты","beauty ":"красоту"}
+Molbert|You need an experienced person to handle the situation.|Чтобы разобраться с этим, нужен опытный человек.
+Molbert|Those troublesome creatures are ruining everything and must be dealt with. Do you understand?|Эти докучливые создания всё портят, и с ними нужно разобраться. Понимаешь?
+Molbert|This park deserves better and I want to see it flourish like it used to be.|Этот парк заслуживает лучшего. Я хочу, чтобы он снова расцвёл, как прежде.
+Molbert|Let us keep this between us, and I will generously reward you for your efforts.|Пусть это останется между нами, а я щедро награжу тебя за труды.|{"generously reward ":"щедро награжу"}
+Molbert|The moles must be dealt with, and I am sure you will do so quickly and quietly.|С кротами нужно разобраться. Уверен, ты сделаешь это быстро и тихо.
+Molbert|Ridiculous! How could I be a mole if I am wearing human clothes, huh?|Нелепость! Как я могу быть кротом, если ношу человеческую одежду, а?|{"Ridiculous! ":"Нелепость! ","wearing human clothes":"ношу человеческую одежду"}
+Molbert|Have you seen moles wearing human clothes before?|Ты когда-нибудь видел кротов в человеческой одежде?
+Molbert|I don't think so. Now get back to the issue!|Не думаю. А теперь вернёмся к делу!
+Molbert|Great. First thing we need is to build some traps.|Отлично. Для начала нужно сделать ловушки.|{"traps":"ловушки"}
+Molbert|For that however, I need 512 Jungle Logs, should be enough to get things going.|Но для этого мне нужно 512 тропических брёвен. Для начала должно хватить.|{"512 Jungle Logs":"512 тропических брёвен"}
+Molbert|Moles loooove carrots, they are just too good to resist.|Кроты обо-о-ожают морковь: она такая вкусная, что устоять невозможно.|{"loooove carrots":"обо-о-ожают морковь"}
+Molbert|Don't worry, I've got a stash ready.|Не волнуйся, у меня уже есть запас.
+Molbert|Just thinking about them makes me... Uhm, I mean makes them come out of their hiding space.|От одной мысли о ней мне хочется... Кхм, то есть им хочется выйти из укрытия.|{"makes me":"мне хочется","makes them ":"им хочется"}
+Molbert|If you can bring me 512 Jungle Logs, we can make some traps!|Принесёшь мне 512 тропических брёвен — сможем сделать ловушки!|{"512 Jungle Logs":"512 тропических брёвен","traps":"ловушки"}
+Molbert|Fantastic, that's all I needed to build the traps.|Замечательно! Теперь у меня есть всё для ловушек.|{"traps":"ловушек"}
+Molbert|It will take me some time to assemble them, so you should come back later.|На сборку уйдёт некоторое время, так что приходи попозже.|{"come back later":"приходи попозже"}
+Molbert|The traps are ready for use; All that remains is to set them up in the right place. Once you find the ideal spots, go ahead and deploy them.|Ловушки готовы. Осталось установить их в подходящих местах. Найдёшь такие — смело расставляй.|{"traps ":"Ловушки","right place":"подходящих местах"}
+Molbert|Good job, partner. Now we only need to wait for the right moment for these pests to show up.|Хорошая работа, напарник. Теперь осталось ждать подходящего момента, когда эти вредители покажутся.|{"wait ":"ждать","right moment ":"подходящего момента"}
+Molbert|This might take some time, so you should come back later.|Это может занять некоторое время, так что приходи попозже.
+Molbert|Hey.. uhm partner! I swear it's not what you think!|Эй... эм, напарник! Клянусь, всё не так, как ты думаешь!|{"uhm ":"эм","swear ":"Клянусь"}
+Molbert|Could you lend me a hand here, I can explain everything!|Не поможешь мне? Я могу всё объяснить!|{"explain everything":"всё объяснить"}
+Molbert|Thank you so much, I was stuck there for at least 3 minutes, I was almost gone for good.|Огромное спасибо! Я просидел там не меньше 3 минут, чуть навсегда не сгинул.|{"Thank you so much":"Огромное спасибо","at least 3 minutes":"не меньше 3 минут"}
+Molbert|I.. I must have slipped by accident and then fell right into the trap! ... Yes, <hat's what happened!|Я... я, наверное, случайно поскользнулся и свалился прямо в ловушку! ... Да, именно так всё и было!|{"I.. I ":"Я... я","slipped by accident ":"случайно поскользнулся","trap":"ловушку","Yes, ":"Да","<hat's what happened":"именно так всё и было"}
+Molbert|...and then I ate the carrot because I was almost starving in there!|...А потом съел морковь, потому что едва не умер там с голоду!|{"carrot ":"морковь"}
+Molbert|Ok, fine you caught me. But please don't tell the others, they wouldn't want to be my friends anymore if they knew the truth.|Ладно, ты меня раскусил. Только, пожалуйста, никому не говори: если остальные узнают правду, больше не захотят со мной дружить.|{"please don't tell the others":"пожалуйста, никому не говори"}
+Molbert|Here, take this as compensation for all the trouble I made you go through.|Вот, возьми это в качестве компенсации за все хлопоты, которые я тебе доставил.|{"compensation ":"компенсации"}
+Molbert|I hope you forgive me after this and we can still be friends.|Надеюсь, после этого ты простишь меня и мы останемся друзьями.|{"friends":"друзьями"}
+Molbert|I wish I could be in love just like Romero & Juliette.|Хотел бы и я влюбиться, как Ромеро и Джульетта.|{"Romero ":"Ромеро","Juliette.":"Джульетта."}
+Pesthunter Phillip|Sorry for the intrusion, but I got a report of a Pest outbreak around here?|Прошу прощения за вторжение, но мне сообщили, что тут развелись вредители?|{"Pest ":"вредители"}
+Pesthunter Phillip|They seem to pop up when you're breaking crops on your Garden!|Похоже, они появляются, когда ты собираешь урожай в своём Саду!|{"breaking crops ":"собираешь урожай","Garden":"Саду"}
+Pesthunter Phillip|Okay, feller. Take this SkyMart Vacuum!|Ладно, приятель. Держи пылесос СкайМарта!
+Pesthunter Phillip|There's a Pest out there somewhere, I'm certain of it.|Тут где-то прячется вредитель, я уверен.|{"Pest ":"вредитель"}
+Pesthunter Phillip|When you find one, simply aim the vacuum, hold down the button, and you can suck them buggers up real quick!|Когда найдёшь его, просто наведи пылесос и зажми кнопку — живо засосёшь этих букашек!|{"vacuum":"пылесос"}
+Pesthunter Phillip|When you've done that, come back and tell me all about how much fun you had!|Закончишь — возвращайся и расскажи, как здорово ты повеселился!
+Pesthunter Phillip|Go out there and vacuum a Pest!|Иди поймай вредителя пылесосом!|{"vacuum ":"поймай"}
+Pesthunter Phillip|Bring some back for me to, uh...study...and I'll reward you with ☘ Farming Fortune for your troubles!|Принеси мне несколько для, э-э... изучения... а я награжу тебя ☘ удачей фермера за хлопоты!|{"☘ Farming Fortune for your troubles!":"☘ удачей фермера за хлопоты!"}
+Pesthunter Phillip|✆ Howdy, Player!|✆ Привет, игрок!
+Pesthunter Phillip|✆ Yer know, standing 'ere all day with nothing to do gets pretty borin' at times.|✆ Знаешь, торчать тут весь день без дела порой жутко скучно.
+Pesthunter Phillip|✆ If you want my contact, how about you bring me somethin' to keep me occupied, eh?|✆ Хочешь мой контакт? Тогда принеси что-нибудь, чем я смогу заняться, а?
+Pesthunter Phillip|✆ A Squeaky Toy would do the trick.|✆ Игрушка-пищалка вполне сгодится.|{"Squeaky Toy ":"Игрушка-пищалка"}
+Pesthunter Phillip|✆ You hearin' me? Bring me one of those and you can have my contact.|✆ Слышишь? Принеси такую, и получишь мой контакт.
+Pesthunter Phillip|✆ What's all this about, eh?|✆ Это ещё что такое, а?
+Pesthunter Phillip|✆ Quit yer playin' and bring me a Squeaky Toy or you ain't getting my contact!|✆ Кончай дурачиться и принеси игрушку-пищалку, иначе не получишь мой контакт!|{"Squeaky Toy ":"игрушку-пищалку"}
+Pesthunter Phillip|✆ You can sometimes find 'em after vacuuming up a Field Mouse. You can only catch those rare little guys in Pest Traps.|✆ Иногда они попадаются, если засосать пылесосом полевую мышь. Эти редкие зверьки ловятся только в ловушки для вредителей.|{"Field Mouse":"полевую мышь","Pest Traps":"ловушки для вредителей"}
+Pesthunter Phillip|✆ I heard somebody 'round here sells them. Oh - it's me!|✆ Слышал, их тут кто-то продаёт. Ах да — я!
+Pesthunter Phillip|✆ Cheers mate, that works!|✆ Спасибо, приятель, то что надо!
+Pesthunter Phillip|✆ To be honest with ya, though, I have no use for this toy.|✆ Хотя, если честно, эта игрушка мне ни к чему.
+Pesthunter Phillip|✆ I just ask for it because it gets people buying a bunch of Pest Traps from me in order to go about getting it.|✆ Я её прошу только затем, чтобы в поисках игрушки люди покупали у меня кучу ловушек для вредителей.|{"Pest Traps ":"ловушек для вредителей"}
+Pesthunter Phillip|✆ Waddya call that, a pyramid scheme? Ponzi scheme? I don't know... I just call it bein' me.|✆ Как это называется, финансовая пирамида? Схема Понци? Не знаю... По-моему, это просто в моём духе.
+Pesthunter Phillip|✆ Anyways, here's that contact you was after.|✆ В общем, вот контакт, который ты хотел.
+Pesthunter Phillip|✆ See ya around, my partner in pesthuntin'!|✆ Ещё увидимся, мой напарник по охоте на вредителей!
+Pesthunter Phillip|✆ Don't tell my wife I said that.|✆ Не говори жене, что я так сказал.
+Pesthunter Phillip|Howdy! I'm looking to hunt some Mosquitoes and Earthworms today, I could use some bait for my Sprayonator.|Привет! Сегодня хочу поохотиться на комаров и дождевых червей. Пригодилась бы приманка для моего распылителя.|{"Mosquitoes ":"комаров","Earthworms ":"дождевых червей","Sprayonator":"распылителя"}
+Pesthunter Phillip|Thanks for the help! I'm gonna go catch one of those little fellers now!|Спасибо за помощь! Пойду-ка поймаю одного из этих малышей!
+Rabbit Bro|The Chocolate Factory is opening soon!|Шоколадная фабрика скоро откроется!|{"Chocolate Factory ":"Шоколадная фабрика"}
+Rabbit Bro|I sure hope I get hired when it opens!|Очень надеюсь, что меня туда возьмут, когда она откроется!
+Rabbit Bro|Get me a job at your factory, bro!|Устрой меня на свою фабрику, братан!
+Rabbit Bro|Hire me, bro!|Найми меня, братан!
+Rabbit Bro|You should hire me! I can help you boost your Chocolate Factory production tenfold by next quarter!|Тебе стоит меня нанять! Я помогу увеличить выпуск твоей Шоколадной фабрики в десять раз уже к следующему кварталу!|{"Chocolate Factory ":"Шоколадной фабрики","tenfold ":"в десять раз"}
+Rabbit Bro|Hoppity's living the sweet life now, but who's the one who taught him to dodge those garden gnomes? Bro knows best.|Хоппити теперь живёт сладко, но кто научил его уворачиваться от садовых гномов? Брату виднее.|{"Hoppity's ":"Хоппити"}
+Rabbit Bro|Hoppity thinks he's all that with his chocolate empire.|Хоппити возомнил себя великим со своей шоколадной империей.|{"Hoppity ":"Хоппити"}
+Rabbit Bro|But ask him this...who can hop the highest?|Но ты спроси у него... кто прыгает выше всех?
+Rabbit Bro|My morning routine? A quick hop around the fields, a bit of carrot juice, and then straight to work on the next big chocolate innovation.|Моё утро? Быстрая пробежка вприпрыжку по полям, немного морковного сока — и сразу за работу над новым великим шоколадным изобретением.
+Rabbit Bro|Sleep is for the weak!|Сон для слабаков!
+Rabbit Bro|Working out before dawn has its perks; you get to see Hoppity's 'inspirational' morning pep talks.|В тренировках до рассвета есть плюсы: можно послушать утренние «вдохновляющие» речи Хоппити.|{"Hoppity's ":"Хоппити"}
+Rabbit Bro|It's like a shot of espresso, but with more hopping and less coffee.|Как чашечка эспрессо, только прыжков больше, а кофе меньше.
+Rabbit Bro|Rise and grind, as I say. The early rabbit gets the cocoa beans.|Встал — за дело, как я говорю. Кто рано скачет, тому какао-бобы достаются.
+Rabbit Bro|Hoppity may run the factory, but who do you think inspires the work ethic?|Хоппити, может, и управляет фабрикой, но кто, по-твоему, подаёт пример трудолюбия?|{"Hoppity ":"Хоппити"}
+Rabbit Bro|What represents a sigma grindset for me? It's about being powered by my own ambitions, not the expectations laid out by others.|Что для меня значит настрой сигмы? Двигаться вперёд благодаря собственным амбициям, а не чужим ожиданиям.
+Rabbit Bro|Each day I commit to the hard work, the relentless pursuit of my personal goals.|Каждый день я усердно тружусь и неустанно иду к своим целям.
+Rabbit Bro|It's not about what the world thinks I should achieve; it's about what I know I can accomplish with dedication and effort.|Неважно, чего от меня ждёт весь мир. Важно, чего я сам могу добиться упорством и трудом.
+Rabbit Bro|My grindset is my commitment to never settling for less than what I know I can achieve.|Мой трудовой настрой — никогда не соглашаться на меньшее, чем я способен достичь.
+Rabbit Bro|It's not about being the best among others, but being the best version of myself.|Дело не в том, чтобы быть лучше других, а в том, чтобы стать лучшей версией себя.
+Rabbit Bro|If you need a rundown of Uncle's high school football stats, just stick around for five minutes.|Если хочешь узнать все спортивные достижения дяди в школьном американском футболе, побудь тут минут пять.
+Rabbit Bro|He'll bring it up somehow, even if we are talking about chocolate molds.|Он обязательно о них заговорит, даже если мы обсуждаем формы для шоколада.
+Rabbit Bro|That dog works harder than any of us, I swear. It's that dogged determination, you know?|Клянусь, этот пёс работает больше любого из нас. Вот что значит собачья хватка, понимаешь?
+Rabbit Bro|Just built differently, always fetching, always carrying. Must be nice not needing a coffee break.|Он просто по-другому устроен: всё приносит да таскает. Хорошо, наверное, не нуждаться в перерывах на кофе.
+Rabbit Bro|Let's be honest, Rabbit Dog outpaces us all, but hey, he's a dog and we're just rabbits.|Будем честны, наш кроличий пёс нас всех обгоняет. Но он ведь собака, а мы всего лишь кролики.
+Rabbit Bro|It's in his nature to run circles around us, literally. While we strategize, he's already on his third lap. Just born for the hustle, I guess!|Он от природы обводит нас вокруг пальца — вернее, обегает. Пока мы строим планы, он уже на третьем круге. Видно, рождён для суеты!
+Rabbit Bro|Coach is the only rabbit I know whose biceps have biceps.|Тренер — единственный знакомый мне кролик, у которого даже на бицепсах есть бицепсы.|{"Coach ":"Тренер"}
+Rabbit Daddy|I am the heir to the chocolate throne.|Я наследник шоколадного престола.|{"chocolate throne":"шоколадного престола"}
+Rabbit Daddy|The only thing in my way? You. Please hire me, boss.|Кто единственный стоит у меня на пути? Ты. Пожалуйста, найми меня, босс.
+Rabbit Daddy|In life there are sharks and there are sheep.|В жизни есть акулы и есть овцы.|{"sharks ":"акулы","sheep":"овцы"}
+Rabbit Daddy|I'm a shark.|Я акула.|{"shark":"акула"}
+Rabbit Daddy|Well, I'm a rabbit. But you get the idea.|Ну, вообще-то кролик. Но мысль ты понял.
+Rabbit Daddy|Every day, it's a new challenge. If it's not the market, it's Sis with her picket signs.|Каждый день новое испытание. Если не рынок, так дочь со своими протестными плакатами.
+Rabbit Daddy|Still, we're making the world sweeter, one chocolate bar at a time.|И всё-таки мы делаем мир слаще, плитка за плиткой.
+Rabbit Daddy|Every family has its ups and downs, but ours?|В каждой семье свои радости и невзгоды, но в нашей?
+Rabbit Daddy|We've got a whole soap opera thanks to Sis.|Благодаря дочери у нас целая мыльная опера.
+Rabbit Daddy|Heir to the chocolate throne, they say.|Наследник шоколадного престола, говорят они.|{"chocolate throne":"шоколадного престола"}
+Rabbit Daddy|More like heir to a bunch of headaches, courtesy of my own daughter's protests.|Скорее наследник кучи головной боли — спасибо протестам родной дочери.
+Rabbit Daddy|Hoppity wants us to 'think outside the box.' Last time I did that, we ended up with chocolate-covered grass.|Хоппити хочет, чтобы мы «мыслили нестандартно». В прошлый раз, когда я так сделал, у нас получилась трава в шоколаде.|{"Hoppity ":"Хоппити"}
+Rabbit Daddy|Sold out in a week. Shows what I know.|Распродали за неделю. Вот и верь после этого моим суждениям.
+Rabbit Daddy|Between Bro's grindset, Cousin's relaxed approach, and Granny's wisdom, we've got all the ingredients for success.|С трудовым настроем сына, невозмутимостью племянника и бабушкиной мудростью у нас есть все составляющие успеха.
+Rabbit Daddy|Now, if only Sis would see that.|Вот бы ещё дочь это понимала.
+Rabbit Daddy|Bro's dedication is what this company needs more of. And Cousin, well, he brings...creativity.|Нашей компании нужно больше такого усердия, как у сына. А племянник привносит... творческий подход.|{"creativity":"творческий подход"}
+Rabbit Daddy|Granny? She's the glue holding us all together.|Бабушка? Она нас всех и объединяет.
+Rabbit Daddy|Uncle's advice for any problem: 'Think like it's the final game, down to the last second.'|У дяди на любую проблему один совет: «Думай так, будто это финальный матч и осталась последняя секунда».
+Rabbit Daddy|Useful? Sometimes. Relevant? Rarely.|Полезно? Иногда. Уместно? Редко.
+Rabbit Daddy|Trying to get through a meal without Uncle mentioning the semifinals is like trying to find a needle in a haystack.|Поесть так, чтобы дядя не вспомнил полуфинал, — всё равно что искать иголку в стоге сена.
+Rabbit Daddy|Impossible, but you never stop hoping.|Невозможно, но надежда не умирает.
+Rabbit Daddy|He might just be fetching tools or delivering messages, but Rabbit Dog's got a work ethic we could all learn from.|Пусть кроличий пёс всего лишь носит инструменты да передаёт сообщения, нам всем стоит поучиться у него трудолюбию.
+Rabbit Daddy|Pure, unthinking, relentless energy. Guess that's just how dogs are wired.|Чистая, бездумная, неутомимая энергия. Наверное, собаки просто так устроены.
+Rabbit Daddy|Coach could motivate a snail to enter a sprint. It's exhausting, but you've got to admire that kind of energy.|Тренер и улитку уговорит участвовать в спринте. Утомительно, но такой энергией нельзя не восхищаться.|{"Coach ":"Тренер"}
+Rabbit Dog|Woof!|Гав!
+Rabbit Dog|Grr...|Р-р-р...
+Rabbit Dog|Arf!|Тяв!
+Rabbit Dog|*pants*|*тяжело дышит*
+Rabbit Dog|*whines*|*скулит*
+Rabbit Dog|Bork.|Гавк.
+Rabbit Dog|Bark!|Гав-гав!
+Rabbit Dog|Ah-woo!|А-у-у!
+Rabbit Dog|Ah, Rabbit Bro, tirelessly toiling from the break of dawn, clinging to his routines with the desperation of a shipwreck survivor to a life raft.|Ах, кролик-брат: с рассвета неустанно трудится и цепляется за распорядок дня, как потерпевший кораблекрушение — за спасательный плот.
+Rabbit Dog|One wonders if he runs from failure or merely jogs alongside it.|Интересно, он бежит от неудачи или просто совершает с ней пробежку?
+Rabbit Dog|Observe the tranquil Rabbit Cuz, philosopher of sloth, whose profound punctuality issues suggest a man deeply at peace with life's ephemeral nature, or perhaps just deeply asleep.|Взгляните на безмятежного кролика-кузена, философа лени. Судя по его бесконечным опозданиям, он либо постиг мимолётность бытия, либо попросту крепко спит.
+Rabbit Dog|And there strides Rabbit Sis, torchbearer of tumult, whose fervent protests might one day change the world, if they don't first incite her to single-handedly dismantle it, piece by bureaucratic piece.|А вот шествует крольчиха-сестра, вестница смуты. Её пламенные протесты однажды изменят мир — если прежде она сама не разберёт его по бюрократическим винтикам.
+Rabbit Dog|Ever observant Rabbit Daddy, guardian of the gold, manages finances with a paranoia that would make a conspiracy theorist blush.|Неусыпный кролик-папа, хранитель золота, ведёт финансы с подозрительностью, от которой покраснел бы любой конспиролог.
+Rabbit Dog|His ledger is tighter than a drum, his brow perpetually furrowed in fiscal fear.|В его книгах всё сходится до последней монетки, а лоб вечно нахмурен от финансовых тревог.
+Rabbit Dog|Granny, with anecdotes as endless as eternity, dispenses wisdom like a vending machine stuck on dispense, whether you requested it or not.|Бабушка с её бесконечными байками раздаёт мудрость, словно автомат с заевшей кнопкой выдачи, — просили вы об этом или нет.
+Rabbit Dog|Each story a subtle reminder that history repeats itself, especially at family gatherings.|Каждая история ненавязчиво напоминает: прошлое повторяется, особенно на семейных посиделках.
+Rabbit Dog|Rabbit Uncle, our nostalgic knight, battles valiantly against the inexorable march of time, jousting with memories of glory days that the rest of us suspect were rather less glorious than recounted.|Кролик-дядя, наш рыцарь ностальгии, доблестно сражается с неумолимым временем, размахивая воспоминаниями о славных днях — куда менее славных, как подозревают все остальные.
+Rabbit Dog|Rabbit Coach, the relentless fountain of fervor, whose motivational speeches soar so high they often escape the grasp of practical application.|Кролик-тренер — неистощимый источник пыла. Его вдохновляющие речи взлетают так высоко, что применить их на практике зачастую уже невозможно.
+Rabbit Dog|One imagines his dreams fly similarly, unburdened by the gravity of reality.|Должно быть, его мечты летают так же — не отягощённые притяжением реальности.
+Rabbit Dog|In the pursuit of excellence, one must remember that the journey is as significant as the destination.|Стремясь к совершенству, следует помнить: путь не менее важен, чем цель.
+Rabbit Dog|True success lies not in the accolades, but in the lessons learned along the way.|Настоящий успех — не в почестях, а в уроках, усвоенных по дороге.
+Rabbit Dog|Empathy is the silent language of the soul, spoken through actions rather than words.|Сочувствие — безмолвный язык души, который выражается поступками, а не словами.
+Rabbit Dog|To truly understand another, one must listen not only with ears but with the heart.|Чтобы по-настоящему понять другого, нужно слушать не только ушами, но и сердцем.
+Rabbit Dog|In every moment of decision, we stand at the crossroads of countless possibilities.|Принимая решение, мы стоим на перепутье бесчисленных возможностей.
+Rabbit Dog|The paths we choose not only define our destiny but also reflect the essence of our being.|Избранные пути не только определяют нашу судьбу, но и отражают нашу сущность.
+Rabbit Dog|Wisdom often comes to us in whispers, through the leaves of the trees or the ripple of the waters.|Мудрость часто приходит шёпотом — в шелесте листьев или ряби на воде.
+Rabbit Dog|It teaches us that every voice, no matter how small, has something of value to say.|Она учит нас: у каждого голоса, сколь бы тихим он ни был, есть нечто ценное, что стоит услышать.
+Rabbit Dog|Solitude is not the absence of company, but the moment when our soul is free to speak to us, unencumbered by the chaos of the world.|Уединение — не отсутствие общества, а миг, когда душа может свободно говорить с нами, не заглушаемая мирской суетой.
+Rabbit Dog|The greatest paradox of life is that in seeking control, we often surrender it.|Величайший парадокс жизни в том, что, стремясь всё контролировать, мы нередко теряем контроль.
+Rabbit Dog|True power comes not from dominion over others, but from mastery over oneself.|Истинная сила — не во власти над другими, а в умении владеть собой.
+Rabbit Dog|Consider the possibility that limitations are merely figments of our imagination, crafted by our fears and insecurities.|Подумайте: возможно, ограничения — лишь плод воображения, порождённый страхами и неуверенностью.
+Rabbit Dog|To break free, one must first believe in the boundlessness of their own potential.|Чтобы освободиться, нужно сначала поверить в безграничность своих возможностей.
+Rabbit Granny|I'm looking to come out of retirement for one last job.|Хочу выйти с пенсии ради одного последнего дела.|{"one last job":"одного последнего дела"}
+Rabbit Granny|Plus, I decided I don't think I could ever give up chocolate.|К тому же я поняла, что никогда не смогу отказаться от шоколада.
+Rabbit Granny|The Chocolate Factory used to be different before Hoppity arrived.|До прихода Хоппити Шоколадная фабрика была совсем другой.|{"Chocolate Factory ":"Шоколадная фабрика","Hoppity ":"Хоппити"}
+Rabbit Granny|You never know that you're in the glory days until it's too late.|Никогда не понимаешь, что живёшь в золотые времена, пока они не останутся позади.
+Rabbit Granny|Every time Hoppity talks about 'expanding the business', I remind him: 'Don't forget to expand your heart too.'|Каждый раз, когда Хоппити говорит о «расширении дела», я напоминаю ему: «Не забывай становиться и душой шире».|{"Hoppity ":"Хоппити"}
+Rabbit Granny|He's a good boy, he listens.|Он хороший мальчик, прислушивается.
+Rabbit Granny|Hoppity wants to automate the chocolate wrapping. I told him, 'Nothing beats the personal touch.'|Хоппити хочет автоматизировать упаковку шоколада. Я сказала ему: «Ничто не заменит ручную работу».|{"Hoppity ":"Хоппити"}
+Rabbit Granny|He gave me a computerized knitting machine.|Он подарил мне компьютерную вязальную машину.
+Rabbit Granny|In my days, we settled disputes over a hot cup of cocoa.|В моё время споры решали за чашкой горячего какао.
+Rabbit Granny|Maybe that's what Sis and my son need - a reminder of what binds us.|Может, именно это нужно внучке и моему сыну: напоминание о том, что нас объединяет.
+Rabbit Granny|In my day, we made sweets from whatever was in the garden. Hoppity just added cocoa.|В моё время сладости делали из всего, что росло в саду. Хоппити просто добавил какао.|{"Hoppity ":"Хоппити"}
+Rabbit Granny|Kids these days think they've invented sugar.|Нынешние дети думают, будто это они изобрели сахар.
+Rabbit Granny|I've watched this family business grow from a single carrot patch to rows of cocoa trees.|На моих глазах это семейное дело выросло из одной морковной грядки в ряды какао-деревьев.
+Rabbit Granny|Each bar we produce carries that legacy. Makes an old bunny proud.|В каждой нашей плитке живёт это наследие. Старую крольчиху берёт гордость.
+Rabbit Granny|They say you can't choose your family. But if I could, I'd choose this chocolate-crazed bunch every time.|Говорят, семью не выбирают. Но если бы могла, я каждый раз выбирала бы этих помешанных на шоколаде.
+Rabbit Granny|From Dust Bowl to chocolate empire, we've come a long way.|От пыльных бурь до шоколадной империи — долгий путь мы прошли.
+Rabbit Granny|Uncle insists on playing the high school fight song during our morning stretches.|Дядя настаивает, чтобы под утреннюю разминку играли боевой гимн его школьной команды.
+Rabbit Granny|He says that it 'sets the tone'. It's charming until it's you tenth listen for the week.|Говорит, что он «задаёт настрой». Мило — пока не услышишь его в десятый раз за неделю.
+Rabbit Granny|That dog of ours, always bustling about. You'd think he understands the stakes.|Наш пёс вечно суетится. Можно подумать, понимает, что стоит на кону.
+Rabbit Granny|But it's just his nature, always wanting to please, always ready to help. Bless his loyal heart.|Но он просто такой: всегда хочет порадовать, всегда готов помочь. Благослови его верное сердце.
+Rabbit Granny|That coach could talk a carrot into growing faster. It's a talent, but sometimes I just want him to turn the volume down.|Этот тренер и морковку уговорит расти быстрее. Талант, конечно, но порой так хочется, чтобы он убавил громкость.
+Rabbit Sis|Down with Big Chocolate!|Долой шоколадных магнатов!
+Rabbit Sis|Regulate! Regulate! Regulate!|Требуем контроля! Требуем контроля! Требуем контроля!
+Rabbit Sis|Hire me, player!|Найми меня, игрок!|{"player":"игрок"}
+Rabbit Sis|Together we can abolish the patriarchy, and ensure clean chocolate for all rabbits!|Вместе мы свергнем патриархат и обеспечим всех кроликов чистым шоколадом!
+Rabbit Sis|Bro's always talking about his 'sigma grindset'. Tried to get me to read a book on it.|Брат вечно говорит о своём «настрое сигмы». Пытался заставить меня прочесть книгу об этом.
+Rabbit Sis|I told him I'd start my own movement: the 'chocolate mindfulness mindset'.|Я сказала, что создам собственное движение: «осознанное шоколадное мышление».
+Rabbit Sis|Chocolate is love, chocolate is life. But at what cost?|Шоколад — это любовь, шоколад — это жизнь. Но какой ценой?|{"But at what cost?":"Но какой ценой?"}
+Rabbit Sis|It's time this family faces the music and listens to the cocoa beans' side of the story!|Пора нашей семье взглянуть правде в глаза и выслушать версию какао-бобов!
+Rabbit Sis|Cousin might be the laziest bunny I know, but he's onto something.|Кузен, может, и самый ленивый из знакомых мне кроликов, но в его подходе что-то есть.
+Rabbit Sis|Why protest when you can just 'be the change'? By napping, apparently.|Зачем протестовать, если можно просто «начать перемены с себя»? Видимо, вздремнув.
+Rabbit Sis|Hoppity actually listens to my protests.|Хоппити и правда прислушивается к моим протестам.|{"Hoppity ":"Хоппити"}
+Rabbit Sis|Well, more like he can't avoid them since I do it in the lobby. But it's a start, right?|Точнее, ему от них не укрыться: я протестую прямо в вестибюле. Но начало положено, верно?
+Rabbit Sis|I told Hoppity we should have a line of eco-friendly chocolates.|Я сказала Хоппити, что нам нужна линейка экологичного шоколада.|{"Hoppity ":"Хоппити"}
+Rabbit Sis|He asked if green food coloring counted.|Он спросил, считается ли зелёный пищевой краситель.
+Rabbit Sis|We're...working on it.|Мы... работаем над этим.
+Rabbit Sis|They call me a troublemaker, a rebel. I say, I'm the only one talking sense!|Меня зовут смутьянкой, бунтаркой. А по-моему, только я здесь и говорю разумные вещи!
+Rabbit Sis|Wake up and smell the exploitation, family!|Проснитесь и почуйте запах эксплуатации, родные!
+Rabbit Sis|They say I'm disrupting the peace, but I'm just trying to sprinkle a little truth on our chocolate-covered lies.|Говорят, я нарушаю покой, а я лишь пытаюсь посыпать правдой нашу ложь в шоколадной глазури.
+Rabbit Sis|The factory needs a new recipe...for justice.|Фабрике нужен новый рецепт... справедливости.|{"for justice.":"справедливости."}
+Rabbit Sis|A protest a day keeps the unethical practices away.|По протесту в день — и нечестным делишкам конец.
+Rabbit Sis|Dad might not see it now, but I'm doing this for the future of all chocolate bunnies.|Папа, может, пока и не понимает, но я делаю это ради будущего всех шоколадных кроликов.
+Rabbit Sis|Uncle treats every little decision around here like it's the state championship game.|Для дяди любое мелкое решение здесь — как матч за звание чемпиона штата.
+Rabbit Sis|'What would coach have done?' He mutters to himself.|«Как бы поступил тренер?» — бормочет он себе под нос.
+Rabbit Sis|Close the yearbook, pal.|Закрой уже школьный альбом, дружище.
+Rabbit Sis|Uncle has this ritual of watching old high school games every weekend.|У дяди ритуал: каждые выходные смотреть записи старых школьных матчей.
+Rabbit Sis|It's like sacred sports hour, but it's just him yelling at the players on screen to 'watch the defense!'|Прямо священный спортивный час, только он просто кричит игрокам на экране: «Следите за защитой!»
+Rabbit Sis|Apparently 'anticipating your opponent's moves' applies to everything from dating to business deals.|Видимо, «предугадывать ходы соперника» нужно везде — от свиданий до деловых сделок.
+Rabbit Sis|Rabbit Dog is my best friend.|Наш кроличий пёс — мой лучший друг.
+Rabbit Sis|He is as loyal as they come, and doesn't look at me funny when I am speaking like everyone else.|Вернее его никого нет. И, в отличие от остальных, он не смотрит на меня странно, когда я говорю.
+Rabbit Sis|I think Coach is all brawn and no brains.|По-моему, у Тренера одни мускулы и ни капли ума.|{"Coach ":"Тренера"}
+Rabbit Uncle|Grandma always said I could be somebody if I put my mind to it.|Бабушка всегда говорила, что я смогу стать кем-то, если постараюсь.
+Rabbit Uncle|She was wrong.|Она ошибалась.
+Rabbit Uncle|I should be in the Hall of Fame by now.|Я бы уже должен быть в Зале славы.
+Rabbit Uncle|Instead, I am here. Please, hire me.|А вместо этого я здесь. Пожалуйста, найми меня.
+Rabbit Uncle|Back in high school, I was just one play away from that state championship.|В школе меня отделял от звания чемпиона штата всего один розыгрыш.
+Rabbit Uncle|If only I had zigged instead of zagged...|Вот если бы я тогда свернул в другую сторону...
+Rabbit Uncle|Every time I see a football, I can't help but wonder 'What if?'|Каждый раз, когда вижу мяч для американского футбола, думаю: «А что, если бы?»
+Rabbit Uncle|Was so close to grabbing that championship ring.|Чемпионский перстень был так близко.
+Rabbit Uncle|Sometimes, late at night, I replay that final drive in my head.|Иногда поздно ночью я прокручиваю в голове ту последнюю атаку.
+Rabbit Uncle|I could have been a legend, you know?|Я ведь мог стать легендой, понимаешь?
+Rabbit Uncle|Man.|Эх.
+Rabbit Uncle|I used to chuck that ball like nobody's business. Those were the days, eh?|Я бросал мяч так, как никто другой. Были же времена, а?
+Rabbit Uncle|Still got some of those moves, you know.|Кое-что из тех приёмов я ещё помню, знаешь ли.
+Rabbit Uncle|I've got the entire high school trophy case memorized.|Я помню наизусть всю школьную витрину с трофеями.
+Rabbit Uncle|Sometimes, I give tours. You know, just to keep the legacy going.|Иногда даже провожу экскурсии. Ну, чтобы сохранить наследие.
+Rabbit Uncle|Hoppity's like the star quarterback of this chocolate game. Always looking for that next big play.|Хоппити — словно звёздный квотербек в этой шоколадной игре. Всегда ищет следующий решающий ход.|{"Hoppity's ":"Хоппити"}
+Rabbit Uncle|He's got that championship mindset, just like I had.|У него чемпионский настрой, как когда-то у меня.
+Rabbit Uncle|Sure, Rabbit Bro's up at dawn doing push-ups and planning his day.|Да, кролик-брат встаёт на рассвете, отжимается и планирует день.
+Rabbit Uncle|I used to be like him, then I tore my ACL.|Я тоже таким был, пока не порвал переднюю крестообразную связку.
+Rabbit Uncle|My knee has never been the same since, man.|С тех пор колено уже не то, дружище.
+Rabbit Uncle|Cuz might not have the typical athlete's discipline, but he's clutch.|Кузену, может, и недостаёт спортивной дисциплины, зато в решающий момент он не подводит.
+Rabbit Uncle|Just like my old teammate who didn't show up to every practice, but could score tuddies when it mattered most.|Как мой старый товарищ по команде: не на каждую тренировку приходил, зато заносил тачдауны, когда это было важнее всего.
+Rabbit Uncle|Cuz showing up to work is like a trick play.|Когда кузен приходит на работу, это словно хитрый розыгрыш мяча.
+Rabbit Uncle|You never see it coming, and when it happens, you can't help but wonder if it was a fluke.|Никогда этого не ждёшь, а когда случается, невольно думаешь: не случайность ли?
+Rabbit Uncle|Sis has that fire, like the team captains back in my day.|В сестре есть тот самый огонь, как у капитанов команд в моё время.
+Rabbit Uncle|She doesn't just play - she changes the game.|Она не просто играет — она меняет игру.
+Rabbit Uncle|Always rallying the troops for her cause, much like a good quarterback does in the fourth quarter.|Всегда собирает сторонников ради своего дела, словно хороший квотербек в четвёртой четверти.
+Rabbit Uncle|Even the Dog's got team spirit.|Даже у пса есть командный дух.
+Rabbit Uncle|He reminds me of our mascot back in the day. Always on the sidelines, ready to cheer us on.|Напоминает мне талисман нашей старой команды. Всегда у края поля, всегда готов нас подбодрить.
+Rabbit Uncle|Every team needs a loyal supporter like that.|Каждой команде нужен такой верный болельщик.
+Rabbit Uncle|I like Coach's style. My family could learn a thing or two from him.|Мне нравится подход Тренера. Моей семье стоило бы у него поучиться.|{"Coach's ":"Тренера"}
+Rhys|So you want to visit the Dwarven Mines?|Значит, хочешь попасть в Дварфские шахты?|{"Dwarven Mines":"Дварфские шахты"}
+Rhys|You must prove yourself worthy of Heart of the Mountain...|Ты должен доказать, что достоин Сердца горы...|{"Heart of the Mountain":"Сердца горы"}
+Rhys|You are no match for the Dwarves of the Deeper Caverns.|Тебе пока не сравниться с дварфами из глубин пещер.
+Rhys|Come back when you are Mining Level XII!|Возвращайся, когда достигнешь XII уровня горного дела!
+Rhys|You must bring me some valuable materials that peak my interest.|Принеси мне ценные материалы, которые смогут меня заинтересовать.
+Rhys|I would like a total of 15 items. Any from this list will do:|Мне нужно всего 15 предметов. Подойдут любые из этого списка:
+Rhys|- Enchanted Redstone Dust|- Зачарованная редстоуновая пыль|{"- ":"- ","Enchanted Redstone Dust":"Зачарованная редстоуновая пыль"}
+Rhys|- Enchanted Iron Ingot|- Зачарованный железный слиток|{"- ":"- ","Enchanted Iron Ingot":"Зачарованный железный слиток"}
+Rhys|- Enchanted Coal|- Зачарованный уголь|{"- ":"- ","Enchanted Coal":"Зачарованный уголь"}
+Rhys|- Enchanted Emerald|- Зачарованный изумруд|{"- ":"- ","Enchanted Emerald":"Зачарованный изумруд"}
+Rhys|- Enchanted Lapis Lazuli|- Зачарованный лазурит|{"- ":"- ","Enchanted Lapis Lazuli":"Зачарованный лазурит"}
+Rhys|- Enchanted Diamond|- Зачарованный алмаз|{"- ":"- ","Enchanted Diamond":"Зачарованный алмаз"}
+Rhys|- Enchanted Gold Ingot|- Зачарованный золотой слиток|{"- ":"- ","Enchanted Gold Ingot":"Зачарованный золотой слиток"}
+Rhys|That's not an item I'm looking for!|Мне нужен не этот предмет!
+Rhys|I would like a total of 15 items. Any from the list will do:|Мне нужно всего 15 предметов. Подойдут любые из списка:
+Rhys|Thank you for the items!|Спасибо за предметы!
+Rhys|Perhaps you are someone we can get along with after all.|Пожалуй, с тобой мы всё-таки сможем поладить.
+Rhys|I'll get your Heart of the Mountain. It's time for a visit!|Я раздобуду тебе Сердце горы. Пора отправляться в гости!|{"Heart of the Mountain":"Сердце горы"}
+Rhys|Let's go together now. For future trips, remember the Lift Operator.|Сейчас пойдём вместе. А в следующий раз обращайся к лифтёру.|{"Lift Operator":"лифтёру"}
+Rhys|Now that you have your Heart of the Mountain, you have access to all of the deeper areas of the mines!|Теперь, когда у тебя есть Сердце горы, тебе доступны все глубинные области шахт!|{"Heart of the Mountain":"Сердце горы"}
+Rhys|You can access the Heart of the Mountain from the Mining Skill menu, and unlock loads of powerful upgrades as you continue your journey!|Сердце горы доступно в меню навыка горного дела. Продолжая свой путь, ты сможешь открыть множество мощных улучшений!|{"Heart of the Mountain ":"Сердце горы"}
+Rhys|We Dwarves inhabit this area. We love it! It is rich in Mithril and even some Titanium.|Здесь живём мы, дварфы. Обожаем это место! Тут полно мифрила, попадается даже титан.
+Rhys|You will need a good pickaxe to mine ores here. For Mithril, at least something with a Breaking Power of 4. Bubu just down the street could help you with that!|Для добычи здешней руды понадобится хорошая кирка. Для мифрила — с разрушающей силой не ниже 4. Бубу чуть дальше по улице поможет тебе с этим!|{"Breaking Power ":"разрушающей силой","of 4. ":"не ниже 4. ","Bubu ":"Бубу"}
+Rhys|If you're looking for better hardware, maybe try checking out the Forge. You could also visit the Royal Palace to talk to the King about certain tasks!|Если ищешь снаряжение получше, загляни в Кузню. Ещё можешь посетить Королевский дворец и поговорить с королём о заданиях!|{"Forge":"Кузню","Royal Palace ":"Королевский дворец","King ":"королём"}
+Rhys|Enjoy our little slice of mining heaven!|Добро пожаловать в наш маленький шахтёрский рай!
+Rhys|I found an unexplored cave while mining for titanium. But it's too dark to see in there, even for me! Can you spare any glowing pumpkins?|Добывая титан, я нашёл неисследованную пещеру. Но там так темно, что даже я ничего не вижу! Не поделишься светящимися тыквами?
+Rhys|Thank you! Discovery awaits.|Спасибо! Открытия ждут.
+Rhys|Well then, I will even mine in total darkness if I must!|Ну что ж, если придётся, буду добывать руду и в полной темноте!
+Rhys|I had a sunburn once, I have stayed down there ever since.|Однажды я обгорел на солнце и с тех пор не вылезаю из-под земли.
+Rhys|You can ask the Lift Operator for a ride to the Dwarven Mines!|Можешь попросить лифтёра отвезти тебя в Дварфские шахты!|{"Lift Operator ":"лифтёра","Dwarven Mines":"Дварфские шахты"}
+Jacquelle|The Argofays have been so kind to welcome me in one of their huts.|Аргофаи любезно приютили меня в одной из своих хижин.
+Jacquelle|It's been rough since I lost my cat.|Мне тяжело с тех пор, как потерялся мой кот.|{"cat":"кот"}
+Jacquelle|It just left my sight!|Он просто исчез из виду!
+Jacquelle|I think it's playing around the Rift!|Думаю, он где-то играет в Разломе!|{"Rift":"Разломе"}
+Jacquelle|Please!|Пожалуйста!
+Jacquelle|Please!!|Пожалуйста!!
+Jacquelle|Please!!!|Пожалуйста!!!
+Jacquelle|Find my cat Montezuma!|Найди моего кота Монтесуму!|{"Montezuma":"Монтесуму"}
+Jacquelle|Open my chest and take my Cat Detector!|Открой мой сундук и возьми детектор котов!|{"chest":"сундук","Cat Detector":"детектор котов"}
+Jacquelle|Not that chest!|Не тот сундук!
+Jacquelle|That's where I store all the pictures of little Monte!|Там я храню все фотографии маленького Монте!
+Jacquelle|Uh... it's not that one either.|Э-э... этот тоже не тот.
+Jacquelle|I was talking about the one behind me, silly!|Я говорила о сундуке позади меня, глупыш!
+Jacquelle|Now please go and find my dear Montezuma!|А теперь, пожалуйста, найди моего дорогого Монтесуму!|{"Montezuma":"Монтесуму"}
+Jacquelle|Hey you're back!|О, ты вернулся!
+Jacquelle|Did you find Montezuma?|Ты нашёл Монтесуму?|{"Montezuma":"Монтесуму"}
+Jacquelle|I know that!|Я знаю!
+Jacquelle|I'm so glad you found him!|Я так рада, что ты его нашёл!
+Jacquelle|It's soul fractured into 9 parts when we crossed into the Rift.|Его душа раскололась на 9 частей, когда мы попали в Разлом.|{"9 parts":"9 частей","Rift":"Разлом"}
+Jacquelle|I've been living in this cabin with 1/9th of Montezuma for an eternity now.|Я уже целую вечность живу в этой хижине с 1/9 частью Монтесумы.|{"Montezuma":"Монтесумы"}
+Jacquelle|Find all parts of Montezuma's soul so I can enjoy a full cat again!|Найди все части души Монтесумы, чтобы у меня снова был целый кот!|{"Montezuma":"Монтесумы"}
+Jacquelle|Have you found all of Montezuma's soul yet?|Ты уже собрал всю душу Монтесумы?|{"Montezuma":"Монтесумы"}
+Jacquelle|You found all the pieces of Montezuma's soul?|Ты нашёл все осколки души Монтесумы?|{"Montezuma":"Монтесумы"}
+Jacquelle|That's amazing!|Невероятно!
+Jacquelle|I'll level with you now.|Теперь скажу тебе честно.
+Jacquelle|I'm still sad.|Мне всё ещё грустно.|{"sad":"грустно"}
+Jacquelle|But it's because I'm stuck in an alternate reality...|Но это потому, что я застряла в другой реальности...
+Jacquelle|With nowhere to go...|И идти некуда...
+Jacquelle|And nothing to do...|И делать нечего...
+Jacquelle|I can't sleep and yet I can't get out of bed.|Не могу уснуть, но и встать с кровати тоже не могу.
+Jacquelle|So how are you doing?|А у тебя как дела?
+Spider Tamer|Oh...Hi.|О... Привет.
+Spider Tamer|I like staying here with my spiders, but Arachne started capturing some of them.|Мне нравится жить тут со своими пауками, но Арахна начала их похищать.|{"Arachne":"Арахна"}
+Spider Tamer|Can you help?|Поможешь?
+Spider Tamer|Thank you so much...|Большое спасибо...
+Spider Tamer|If you want, I can help you gain the strength of spiders!|Если хочешь, я помогу тебе обрести силу пауков!
+Spider Tamer|✆ Hey dude.|✆ Привет, дружище.
+Spider Tamer|✆ I'm feeling kind of down at the minute.|✆ Мне сейчас как-то тоскливо.
+Spider Tamer|✆ All of my pet spiders left me to go and worship Arachne.|✆ Все мои домашние пауки ушли поклоняться Арахне.|{"Arachne":"Арахне"}
+Spider Tamer|✆ I don't blame them, it looks pretty exciting down there, but it's got kinda lonely up here as a result, you know?|✆ Не виню их: внизу, похоже, довольно интересно. Только здесь без них стало одиноко, понимаешь?
+Spider Tamer|✆ I'm sure one of those little guys would keep me company, at least for a while.|✆ Уверен, такой малыш составил бы мне компанию, хотя бы ненадолго.
+Spider Tamer|✆ If they wanna go worship Arachne when they're all grown up, that's cool with me but, until then, we could be great friends.|✆ Если, повзрослев, он захочет уйти поклоняться Арахне, я не против. Но до тех пор мы могли бы стать отличными друзьями.|{"Arachne ":"Арахне"}
+Spider Tamer|✆ I'd know, I'm quite the expert on our eight-legged friends - they don't call me the Spider Tamer for nothing!|✆ Уж я-то знаю, я большой знаток наших восьминогих друзей — не зря меня зовут укротителем пауков!|{"Spider Tamer ":"укротителем пауков"}
+Spider Tamer|✆ Thanks dude!|✆ Спасибо, дружище!
+Spider Tamer|✆ This might just be the cutest Tarantula I've ever seen!|✆ Пожалуй, это самый милый тарантул из всех, что я видел!|{"Tarantula ":"тарантул"}
+Spider Tamer|✆ Look! She's looking at me with each of her eight eyes, how cute!|✆ Смотри! Она глядит на меня всеми восемью глазами, какая прелесть!
+Spider Tamer|✆ I think I'll name her Aragog.|✆ Думаю, назову её Арагог.
+Spider Tamer|✆ Anyways, here, take my contact.|✆ В общем, вот, возьми мой контакт.
+Spider Tamer|✆ If you ever need to use the Spider Essence Shop or just want to hear some spider fun facts, hit me up!|✆ Захочешь воспользоваться магазином паучьей эссенции или послушать интересные факты о пауках — звони!|{"Spider Essence Shop ":"магазином паучьей эссенции"}
+Spider Tamer|✆ Did you know? Tarantulas can get so big that they can prey on some birds, and even lizards!|✆ А ты знал? Тарантулы бывают такими большими, что охотятся на некоторых птиц и даже ящериц!
+Spider Tamer|✆ Did you know? Spiders are arachnids, not insects!|✆ А ты знал? Пауки — паукообразные, а не насекомые!
+Spider Tamer|✆ Did you know? Most spiders have blue blood.|✆ А ты знал? У большинства пауков голубая кровь.
+Spider Tamer|✆ Did you know? Spiders don't have an internal skeleton.|✆ А ты знал? У пауков нет внутреннего скелета.
+Spider Tamer|✆ Did you know? Spiders sense their surroundings through vibrations and their sensitive leg hairs.|✆ А ты знал? Пауки воспринимают окружающий мир по вибрациям и с помощью чувствительных волосков на лапках.
+Spider Tamer|✆ Did you know? Most spiders liquify their food! That's how they can eat stuff that's bigger than them!|✆ А ты знал? Большинство пауков разжижает пищу! Поэтому они могут есть добычу крупнее себя!
+Suus|My kid has been crying for hours.|Мой ребёнок плачет уже несколько часов.
+Suus|We just came back from our walk and a monster ate his favorite toy.|Мы только вернулись с прогулки, и какой-то монстр съел его любимую игрушку.
+Suus|One of the Magma Cube Riders out there did it!|Это сделал один из тех наездников на магмовых кубах!|{"Magma Cube Riders":"наездников на магмовых кубах"}
+Suus|You found his toy!|Ты нашёл его игрушку!
+Suus|My little Turd has such a lovely voice, I don't mind hearing him cry.|У моего маленького Турда такой чудесный голос, что я не против послушать, как он плачет.
+Suus|Such an expensive toy, I am glad you found it for him!|Такая дорогая игрушка! Хорошо, что ты её нашёл!
+Suus|He keeps losing it...|Он всё время её теряет...
+Suus|✆ The monsters ate his toy again! I don't know what to do!|✆ Монстры опять съели его игрушку! Не знаю, что делать!
+Suus|✆ Can you come back here and help?|✆ Можешь вернуться и помочь?
+Suus|Get away from my child!|Отойди от моего ребёнка!
+Suus|Step away from my child, stranger!|Отойди от моего ребёнка, чужак!
+Suus|Don't talk to strangers, little Turd.|Не разговаривай с незнакомцами, маленький Турд.
+Suus|Stop harassing me and my child!|Перестань приставать ко мне и моему ребёнку!
+Suus|I don't think he will ever calm down until he gets his toy back.|Боюсь, он не успокоится, пока не получит игрушку обратно.
+Suus|This kid is a handful.|Ну и хлопот с этим ребёнком.
+Suus|Maybe one of the Magma Cube Riders out there will have his toy.|Может, его игрушка у одного из тех наездников на магмовых кубах.|{"Magma Cube Riders ":"наездников на магмовых кубах"}
+Suus|Are you a Wizard?|Ты волшебник?
+Suus|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.
+Suus|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.
+Suus|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?
+Suus|What a fantastic choice!|Какой прекрасный выбор!
+Suus|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.
+Suus|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!
+Suus|Sul-phur|Се-ра
+Suus|Sulphur?|Сера?
+Suus|Me Sulphur.|Я сера.
+Suus|Are you a Hero?|Ты герой?
+Suus|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?
+Suus|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?
+Suus|You seem suspicious.|Ты выглядишь подозрительно.
+Suus|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.
+Suus|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.

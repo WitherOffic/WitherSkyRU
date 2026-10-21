@@ -1,0 +1,51 @@
+{
+  "before_sha256": "F07822E5F0D3A8753D8E770C196B5EED471828A33B10702BBBB404211147EB18",
+  "all_frame_world_input_item_dictionary_and_prepared_cache_classes_byte_identical": true,
+  "unchanged_other_runtime_classes": 107,
+  "after_sha256": "24ADA8A3A7B5757274ECAA2792730F52E75250B3E6E6DFAD5C823F967084D3D6",
+  "not_live_fps_proof": true,
+  "removed_entries": [],
+  "old_translation_and_asset_resources_byte_identical": 43,
+  "new_frame_hooks": 0,
+  "before": "0.15.74-dev",
+  "after": "0.15.75-dev",
+  "new_npc_resources_loaded_once_into_existing_map": true,
+  "new_per_message_providers": 0,
+  "changed": [
+    {
+      "before": "6B00A24C40DFA4B35C94D4ADFA350A3C22A16212DAFE78B30175BD40BAE09230",
+      "after": "DD1092B5A82032263F20B313DCFEE05BE78AFD1BABB3F5D1FC314A0749CBB223",
+      "entry": "fabric.mod.json"
+    },
+    {
+      "before": "94780123D834DDF2E204351A68189D589C7743A6D405575AB6FDC8282F29C018",
+      "after": "48B9687CC3550631E9F190F4DB7BB89A2B5F9D0583365FE458CAE37A6AFCFD99",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Part.class"
+    },
+    {
+      "before": "52BF42E38CE627BDECC3F0EAFB4753904F770FAE03EB6A9BE92B16C970B93074",
+      "after": "C5DB8E6F776D0E77B54FDC44785CB251C9BE2C3F63824B62BB1976322349354F",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator.class"
+    },
+    {
+      "before": "74222EAC0F042BE14978B5B2367D18BD183089F638029B237653895D1CAB977C",
+      "after": "146C726527E543BD2B2223A99011AD6CAA65E2DE89D26CD213F8566D240B360C",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Edit.class"
+    },
+    {
+      "before": "C2242789E56CBD159BDFDA4C7E25D908996D740677C1C4A577FAA8D74427012E",
+      "after": "18F7D5B0417365E55E5B9CEE7247B29ADE8A94ADEA331113DC192A4A36F8E751",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$QuizLine66.class"
+    },
+    {
+      "before": "992A00678277026801D7AF4DB1FCAD7A5BA4EACF01378EBA2F76F98D8B3A21C1",
+      "after": "F25BB38FB962FFE90080F755683FF0ACF17681ED5BDBE122AAA2BD3CDA9CF3ED",
+      "entry": "ru/wither/skyru/NpcDialogueTranslator.class"
+    }
+  ],
+  "added_entries": [
+    "META-INF/licenses/NPC75-SOURCES.txt",
+    "data/witherskyru/npc-expansion75.json"
+  ],
+  "runtime_entry_count": 169
+}

@@ -1,0 +1,102 @@
+{
+  "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+  "messages": [
+    {
+      "source_legacy": "[04:52:15] RING... ",
+      "line": 6456,
+      "normalized_newlines": "[04:52:15] RING... "
+    },
+    {
+      "source_legacy": "[04:52:15] RING... RING... ",
+      "line": 6457,
+      "normalized_newlines": "[04:52:15] RING... RING... "
+    },
+    {
+      "source_legacy": "[04:52:16] RING... RING... RING... ",
+      "line": 6458,
+      "normalized_newlines": "[04:52:16] RING... RING... RING... "
+    },
+    {
+      "source_legacy": "[04:52:22] [NPC] Brigette: §f§fThanks, Salad!",
+      "line": 6463,
+      "normalized_newlines": "[04:52:22] [NPC] Brigette: §f§fThanks, Salad!"
+    },
+    {
+      "source_legacy": "[04:52:22] [NPC] Charlotte: It's Charlotte, not Salad!!",
+      "line": 6464,
+      "normalized_newlines": "[04:52:22] [NPC] Charlotte: It's Charlotte, not Salad!!"
+    },
+    {
+      "source_legacy": "[04:56:23]                                 Question #1",
+      "line": 6611,
+      "normalized_newlines": "[04:56:23]                                 Question #1"
+    },
+    {
+      "source_legacy": "[04:56:23]                   Why is account security important?",
+      "line": 6612,
+      "normalized_newlines": "[04:56:23]                   Why is account security important?"
+    },
+    {
+      "source_legacy": "[04:56:23] \\n    @ It can lead you to lose a lot of items and money. \\n    @ It can lead you to lose access to your Minecraft account. \\n    @ It can lead you to lose your Hypixel SkyBlock profile. ",
+      "line": 6614,
+      "normalized_newlines": "[04:56:23] \n    @ It can lead you to lose a lot of items and money. \n    @ It can lead you to lose access to your Minecraft account. \n    @ It can lead you to lose your Hypixel SkyBlock profile. "
+    },
+    {
+      "source_legacy": "[04:57:00]                                 Question #2",
+      "line": 6632,
+      "normalized_newlines": "[04:57:00]                                 Question #2"
+    },
+    {
+      "source_legacy": "[04:57:00]    If someone in your party asks you to join their Discord to",
+      "line": 6633,
+      "normalized_newlines": "[04:57:00]    If someone in your party asks you to join their Discord to"
+    },
+    {
+      "source_legacy": "[04:57:00]      voice chat, and sends the invite code in chat without the",
+      "line": 6634,
+      "normalized_newlines": "[04:57:00]      voice chat, and sends the invite code in chat without the"
+    },
+    {
+      "source_legacy": "[04:57:00]                    \"discord.gg\", what should you do?",
+      "line": 6635,
+      "normalized_newlines": "[04:57:00]                    \"discord.gg\", what should you do?"
+    },
+    {
+      "source_legacy": "[04:57:00] \\n    @ Manually type the invite link in the browser and join the discord. \\n    @ Leave the party and report the player. \\n    @ Add the player on discord and ask for the invite link there. ",
+      "line": 6637,
+      "normalized_newlines": "[04:57:00] \n    @ Manually type the invite link in the browser and join the discord. \n    @ Leave the party and report the player. \n    @ Add the player on discord and ask for the invite link there. "
+    },
+    {
+      "source_legacy": "[04:57:30]                                 Question #3",
+      "line": 6646,
+      "normalized_newlines": "[04:57:30]                                 Question #3"
+    },
+    {
+      "source_legacy": "[04:57:30]   Your friend sends you a link telling you to go vote for their",
+      "line": 6647,
+      "normalized_newlines": "[04:57:30]   Your friend sends you a link telling you to go vote for their"
+    },
+    {
+      "source_legacy": "[04:57:30]    prize, You click the link, and it's asking you to log in with an",
+      "line": 6648,
+      "normalized_newlines": "[04:57:30]    prize, You click the link, and it's asking you to log in with an"
+    },
+    {
+      "source_legacy": "[04:57:30]                       account. What should you do?",
+      "line": 6649,
+      "normalized_newlines": "[04:57:30]                       account. What should you do?"
+    },
+    {
+      "source_legacy": "[04:57:31] \\n    @ Register for an account and log in. \\n    @ Use a linked account (Google, Facebook etc.) to log in. \\n    @ Look for signs of your friend getting hacked, and don't click on that website any further. ",
+      "line": 6651,
+      "normalized_newlines": "[04:57:31] \n    @ Register for an account and log in. \n    @ Use a linked account (Google, Facebook etc.) to log in. \n    @ Look for signs of your friend getting hacked, and don't click on that website any further. "
+    }
+  ],
+  "archive": "2026-10-13-3.log.gz",
+  "scope": "Observed3 question headings/7 question rows/3 complete answer bundles/2 NPC lines/3 ring notices. Log does not prove channel/clicks/styles lost by logging. No personal form input retained.",
+  "captured": "2026-10-15",
+  "user_screenshots": [
+    "codex-clipboard-c52a92b9-2b6e-49ca-84e8-6f63285caf71.png",
+    "codex-clipboard-612fff4b-d589-4d9d-8b2f-b30e0882071d.png"
+  ]
+}

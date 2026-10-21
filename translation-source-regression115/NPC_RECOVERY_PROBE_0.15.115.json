@@ -1,0 +1,3339 @@
+{
+  "records": [
+    {
+      "id": "6171",
+      "queue_index": 6171,
+      "source": "[NPC] Frosty: I noticed you don't have a Snow Cannon, would you like to buy another?",
+      "layouts": [
+        "§e[NPC] Frosty§f: I noticed you don't have a Snow Cannon, would you like to buy another?"
+      ],
+      "speaker": "Frosty",
+      "kind": "literal",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty?oldid=813463",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p13485-r813463-o1462-l0-f6719",
+            "block_id": "p13485-r813463-o1462",
+            "page": "Frosty",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty?oldid=813463",
+            "revision": 813463,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Frosty",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Frosty: I noticed you don't have a Snow Cannon, would you like to buy another?|text=",
+            "source_legacy_line": "§e[NPC] Frosty§f: I noticed you don't have a Snow Cannon, would you like to buy another?|text=",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p13485-r813463-o1462",
+            "page": "Frosty",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty?oldid=813463",
+            "revision": 813463,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 1462,
+            "char_end": 1569,
+            "line_start": 34,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|- class=\"article-row-main\"\n| class=\"ct\" | Without [[Frosty the Snow Cannon|Snow Cannon]] or [[Frosty the Snow Blaster|Blaster]]\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Frosty&f: I noticed you don't have a Snow Cannon, would you like to buy another?|text=}}",
+            "payload_raw": "&e[NPC] Frosty&f: I noticed you don't have a Snow Cannon, would you like to buy another?|text=",
+            "provisional_legacy_text": "§e[NPC] Frosty§f: I noticed you don't have a Snow Cannon, would you like to buy another?|text=",
+            "unresolved_markup": false
+          },
+          "transformation": "empty named text= template parameter,not visible dialogue"
+        }
+      ],
+      "queue_source": "[NPC] Frosty: I noticed you don't have a Snow Cannon, would you like to buy another?|text="
+    },
+    {
+      "id": "6355",
+      "queue_index": 6355,
+      "source": "[NPC] Generow: Click to claim your reward!",
+      "layouts": [
+        "§e[NPC] §6Generow§f: Click to claim your reward!"
+      ],
+      "speaker": "Generow",
+      "kind": "literal",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Generow?oldid=817841",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p101562-r817841-o2455-l0-f6909",
+            "block_id": "p101562-r817841-o2455",
+            "page": "Generow",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Generow?oldid=817841",
+            "revision": 817841,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Generow",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Generow: Click to claim your reward!",
+            "source_legacy_line": "§e[NPC] §6Generow§f: (gifts} Unique Gifts! Wow!/§e[NPC] §6Generow§f: Click to claim your reward!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p101562-r817841-o2455",
+            "page": "Generow",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Generow?oldid=817841",
+            "revision": 817841,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 2455,
+            "char_end": 2564,
+            "line_start": 63,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" | After hitting a milestone\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] &6Generow&f: (gifts} Unique Gifts! Wow!/&e[NPC] &6Generow&f: Click to claim your reward!}}",
+            "payload_raw": "&e[NPC] &6Generow&f: (gifts} Unique Gifts! Wow!/&e[NPC] &6Generow&f: Click to claim your reward!",
+            "provisional_legacy_text": "§e[NPC] §6Generow§f: (gifts} Unique Gifts! Wow!/§e[NPC] §6Generow§f: Click to claim your reward!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Generow: Click to claim your reward!"
+    },
+    {
+      "id": "7411",
+      "queue_index": 7411,
+      "source": "[NPC] Andrew: This game is still under heavy development, don't forget to check the forums often for updates!",
+      "layouts": [
+        "§e[NPC] Andrew§f: This game is still under heavy development, don't forget to check the §aforums§f often for updates!"
+      ],
+      "speaker": "Andrew",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10162-l0-f8031",
+            "block_id": "p15607-r852321-o10162",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Andrew",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Andrew: This game is still under heavy development, don't forget to check the forums often for updates!/",
+            "source_legacy_line": "§e[NPC] Andrew§f: This game is still under heavy development, don't forget to check the §aforums§f often for updates!/§e[NPC] Andrew§f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the §aforums§f!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10162",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10162,
+            "char_end": 10418,
+            "line_start": 288,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Andrew\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Andrew&f: This game is still under heavy development, don't forget to check the &aforums&f often for updates!/&e[NPC] Andrew&f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the &aforums&f!}}",
+            "payload_raw": "&e[NPC] Andrew&f: This game is still under heavy development, don't forget to check the &aforums&f often for updates!/&e[NPC] Andrew&f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the &aforums&f!",
+            "provisional_legacy_text": "§e[NPC] Andrew§f: This game is still under heavy development, don't forget to check the §aforums§f often for updates!/§e[NPC] Andrew§f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the §aforums§f!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Andrew: This game is still under heavy development, don't forget to check the forums often for updates!/"
+    },
+    {
+      "id": "7412",
+      "queue_index": 7412,
+      "source": "[NPC] Andrew: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the forums!",
+      "layouts": [
+        "§e[NPC] Andrew§f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the §aforums§f!"
+      ],
+      "speaker": "Andrew",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10162-l0-f8032",
+            "block_id": "p15607-r852321-o10162",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Andrew",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Andrew: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the forums!",
+            "source_legacy_line": "§e[NPC] Andrew§f: This game is still under heavy development, don't forget to check the §aforums§f often for updates!/§e[NPC] Andrew§f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the §aforums§f!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10162",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10162,
+            "char_end": 10418,
+            "line_start": 288,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Andrew\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Andrew&f: This game is still under heavy development, don't forget to check the &aforums&f often for updates!/&e[NPC] Andrew&f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the &aforums&f!}}",
+            "payload_raw": "&e[NPC] Andrew&f: This game is still under heavy development, don't forget to check the &aforums&f often for updates!/&e[NPC] Andrew&f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the &aforums&f!",
+            "provisional_legacy_text": "§e[NPC] Andrew§f: This game is still under heavy development, don't forget to check the §aforums§f often for updates!/§e[NPC] Andrew§f: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the §aforums§f!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Andrew: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the forums!"
+    },
+    {
+      "id": "7413",
+      "queue_index": 7413,
+      "source": "[NPC] Jack: Your SkyBlock Profile in your SkyBlock Menu shows details about your current stats!",
+      "layouts": [
+        "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!"
+      ],
+      "speaker": "Jack",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10455-l0-f8033",
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jack",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jack: Your SkyBlock Profile in your SkyBlock Menu shows details about your current stats!/",
+            "source_legacy_line": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10455,
+            "char_end": 10961,
+            "line_start": 291,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Jack\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!}}",
+            "payload_raw": "&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!",
+            "provisional_legacy_text": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Jack: Your SkyBlock Profile in your SkyBlock Menu shows details about your current stats!/"
+    },
+    {
+      "id": "7414",
+      "queue_index": 7414,
+      "source": "[NPC] Jack: There are 7 stats in total, including ❤ Health, ❁ Strength, and ❈ Defense.",
+      "layouts": [
+        "§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f."
+      ],
+      "speaker": "Jack",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10455-l0-f8034",
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jack",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jack: There are 7 stats in total, including ❤ Health, ❁ Strength, and ❈ Defense./",
+            "source_legacy_line": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10455,
+            "char_end": 10961,
+            "line_start": 291,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Jack\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!}}",
+            "payload_raw": "&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!",
+            "provisional_legacy_text": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Jack: There are 7 stats in total, including ❤ Health, ❁ Strength, and ❈ Defense./"
+    },
+    {
+      "id": "7415",
+      "queue_index": 7415,
+      "source": "[NPC] Jack: Equipped armor, weapons, and accessories in your inventory all improve your stats.",
+      "layouts": [
+        "§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats."
+      ],
+      "speaker": "Jack",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10455-l0-f8035",
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jack",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jack: Equipped armor, weapons, and accessories in your inventory all improve your stats./",
+            "source_legacy_line": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10455,
+            "char_end": 10961,
+            "line_start": 291,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Jack\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!}}",
+            "payload_raw": "&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!",
+            "provisional_legacy_text": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Jack: Equipped armor, weapons, and accessories in your inventory all improve your stats./"
+    },
+    {
+      "id": "7416",
+      "queue_index": 7416,
+      "source": "[NPC] Jack: Additionally, leveling your Skills can permanently boost some of your stats!",
+      "layouts": [
+        "§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!"
+      ],
+      "speaker": "Jack",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10455-l0-f8036",
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jack",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jack: Additionally, leveling your Skills can permanently boost some of your stats!/",
+            "source_legacy_line": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10455,
+            "char_end": 10961,
+            "line_start": 291,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Jack\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!}}",
+            "payload_raw": "&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!",
+            "provisional_legacy_text": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Jack: Additionally, leveling your Skills can permanently boost some of your stats!/"
+    },
+    {
+      "id": "7417",
+      "queue_index": 7417,
+      "source": "[NPC] Jack: The higher your ❤ Health stat, the faster your health will regenerate!",
+      "layouts": [
+        "§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!"
+      ],
+      "speaker": "Jack",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10455-l0-f8037",
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jack",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jack: The higher your ❤ Health stat, the faster your health will regenerate!",
+            "source_legacy_line": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10455",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10455,
+            "char_end": 10961,
+            "line_start": 291,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Jack\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!}}",
+            "payload_raw": "&e[NPC] Jack&f: Your &aSkyBlock Profile&f in your &aSkyBlock Menu&f shows details about your current stats!/&e[NPC] Jack&f: There are 7 stats in total, including &c❤ Health&f, &c❁ Strength&f, and &a❈ Defense&f./&e[NPC] Jack&f: Equipped armor, weapons, and accessories in your inventory all improve your stats./&e[NPC] Jack&f: Additionally, leveling your Skills can permanently boost some of your stats!/&e[NPC] Jack&f: The higher your &c❤ Health&f stat, the faster your health will regenerate!",
+            "provisional_legacy_text": "§e[NPC] Jack§f: Your §aSkyBlock Profile§f in your §aSkyBlock Menu§f shows details about your current stats!/§e[NPC] Jack§f: There are 7 stats in total, including §c❤ Health§f, §c❁ Strength§f, and §a❈ Defense§f./§e[NPC] Jack§f: Equipped armor, weapons, and accessories in your inventory all improve your stats./§e[NPC] Jack§f: Additionally, leveling your Skills can permanently boost some of your stats!/§e[NPC] Jack§f: The higher your §c❤ Health§f stat, the faster your health will regenerate!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Jack: The higher your ❤ Health stat, the faster your health will regenerate!"
+    },
+    {
+      "id": "7418",
+      "queue_index": 7418,
+      "source": "[NPC] Jamie: You might have noticed that you have a Mana bar!",
+      "layouts": [
+        "§e[NPC] Jamie§f: You might have noticed that you have a Mana bar!"
+      ],
+      "speaker": "Jamie",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10999-l0-f8038",
+            "block_id": "p15607-r852321-o10999",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jamie",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jamie: You might have noticed that you have a Mana bar!/",
+            "source_legacy_line": "§e[NPC] Jamie§f: You might have noticed that you have a Mana bar!/§e[NPC] Jamie§f: Some items have mysterious properties, called Abilities./§e[NPC] Jamie§f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10999",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10999,
+            "char_end": 11253,
+            "line_start": 294,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Jamie\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Jamie&f: You might have noticed that you have a Mana bar!/&e[NPC] Jamie&f: Some items have mysterious properties, called Abilities./&e[NPC] Jamie&f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!}}",
+            "payload_raw": "&e[NPC] Jamie&f: You might have noticed that you have a Mana bar!/&e[NPC] Jamie&f: Some items have mysterious properties, called Abilities./&e[NPC] Jamie&f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "provisional_legacy_text": "§e[NPC] Jamie§f: You might have noticed that you have a Mana bar!/§e[NPC] Jamie§f: Some items have mysterious properties, called Abilities./§e[NPC] Jamie§f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Jamie: You might have noticed that you have a Mana bar!/"
+    },
+    {
+      "id": "7419",
+      "queue_index": 7419,
+      "source": "[NPC] Jamie: Some items have mysterious properties, called Abilities.",
+      "layouts": [
+        "§e[NPC] Jamie§f: Some items have mysterious properties, called Abilities."
+      ],
+      "speaker": "Jamie",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10999-l0-f8039",
+            "block_id": "p15607-r852321-o10999",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jamie",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jamie: Some items have mysterious properties, called Abilities./",
+            "source_legacy_line": "§e[NPC] Jamie§f: You might have noticed that you have a Mana bar!/§e[NPC] Jamie§f: Some items have mysterious properties, called Abilities./§e[NPC] Jamie§f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10999",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10999,
+            "char_end": 11253,
+            "line_start": 294,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Jamie\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Jamie&f: You might have noticed that you have a Mana bar!/&e[NPC] Jamie&f: Some items have mysterious properties, called Abilities./&e[NPC] Jamie&f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!}}",
+            "payload_raw": "&e[NPC] Jamie&f: You might have noticed that you have a Mana bar!/&e[NPC] Jamie&f: Some items have mysterious properties, called Abilities./&e[NPC] Jamie&f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "provisional_legacy_text": "§e[NPC] Jamie§f: You might have noticed that you have a Mana bar!/§e[NPC] Jamie§f: Some items have mysterious properties, called Abilities./§e[NPC] Jamie§f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Jamie: Some items have mysterious properties, called Abilities./"
+    },
+    {
+      "id": "7420",
+      "queue_index": 7420,
+      "source": "[NPC] Jamie: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+      "layouts": [
+        "§e[NPC] Jamie§f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!"
+      ],
+      "speaker": "Jamie",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o10999-l0-f8040",
+            "block_id": "p15607-r852321-o10999",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jamie",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jamie: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "source_legacy_line": "§e[NPC] Jamie§f: You might have noticed that you have a Mana bar!/§e[NPC] Jamie§f: Some items have mysterious properties, called Abilities./§e[NPC] Jamie§f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o10999",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10999,
+            "char_end": 11253,
+            "line_start": 294,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Jamie\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Jamie&f: You might have noticed that you have a Mana bar!/&e[NPC] Jamie&f: Some items have mysterious properties, called Abilities./&e[NPC] Jamie&f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!}}",
+            "payload_raw": "&e[NPC] Jamie&f: You might have noticed that you have a Mana bar!/&e[NPC] Jamie&f: Some items have mysterious properties, called Abilities./&e[NPC] Jamie&f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "provisional_legacy_text": "§e[NPC] Jamie§f: You might have noticed that you have a Mana bar!/§e[NPC] Jamie§f: Some items have mysterious properties, called Abilities./§e[NPC] Jamie§f: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Jamie: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!"
+    },
+    {
+      "id": "7421",
+      "queue_index": 7421,
+      "source": "[NPC] Tom: I will teach you the Promising Axe Recipe to get you started!",
+      "layouts": [
+        "§e[NPC] Tom§f: I will teach you the §aPromising Axe Recipe§f to get you started!"
+      ],
+      "speaker": "Tom",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o11289-l0-f8041",
+            "block_id": "p15607-r852321-o11289",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Tom",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Tom: I will teach you the Promising Axe Recipe to get you started!/",
+            "source_legacy_line": "§e[NPC] Tom§f: I will teach you the §aPromising Axe Recipe§f to get you started!/§e[NPC] Tom§f: All SkyBlock recipes can be found by opening the §aRecipe Book §fin your §aSkyBlock Menu§f.",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o11289",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 11289,
+            "char_end": 11489,
+            "line_start": 297,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Tom\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Tom&f: I will teach you the &aPromising Axe Recipe&f to get you started!/&e[NPC] Tom&f: All SkyBlock recipes can be found by opening the &aRecipe Book &fin your &aSkyBlock Menu&f.}}",
+            "payload_raw": "&e[NPC] Tom&f: I will teach you the &aPromising Axe Recipe&f to get you started!/&e[NPC] Tom&f: All SkyBlock recipes can be found by opening the &aRecipe Book &fin your &aSkyBlock Menu&f.",
+            "provisional_legacy_text": "§e[NPC] Tom§f: I will teach you the §aPromising Axe Recipe§f to get you started!/§e[NPC] Tom§f: All SkyBlock recipes can be found by opening the §aRecipe Book §fin your §aSkyBlock Menu§f.",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Tom: I will teach you the Promising Axe Recipe to get you started!/"
+    },
+    {
+      "id": "7422",
+      "queue_index": 7422,
+      "source": "[NPC] Tom: All SkyBlock recipes can be found by opening the Recipe Book in your SkyBlock Menu.",
+      "layouts": [
+        "§e[NPC] Tom§f: All SkyBlock recipes can be found by opening the §aRecipe Book §fin your §aSkyBlock Menu§f."
+      ],
+      "speaker": "Tom",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o11289-l0-f8042",
+            "block_id": "p15607-r852321-o11289",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Tom",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Tom: All SkyBlock recipes can be found by opening the Recipe Book in your SkyBlock Menu.",
+            "source_legacy_line": "§e[NPC] Tom§f: I will teach you the §aPromising Axe Recipe§f to get you started!/§e[NPC] Tom§f: All SkyBlock recipes can be found by opening the §aRecipe Book §fin your §aSkyBlock Menu§f.",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o11289",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 11289,
+            "char_end": 11489,
+            "line_start": 297,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Tom\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Tom&f: I will teach you the &aPromising Axe Recipe&f to get you started!/&e[NPC] Tom&f: All SkyBlock recipes can be found by opening the &aRecipe Book &fin your &aSkyBlock Menu&f.}}",
+            "payload_raw": "&e[NPC] Tom&f: I will teach you the &aPromising Axe Recipe&f to get you started!/&e[NPC] Tom&f: All SkyBlock recipes can be found by opening the &aRecipe Book &fin your &aSkyBlock Menu&f.",
+            "provisional_legacy_text": "§e[NPC] Tom§f: I will teach you the §aPromising Axe Recipe§f to get you started!/§e[NPC] Tom§f: All SkyBlock recipes can be found by opening the §aRecipe Book §fin your §aSkyBlock Menu§f.",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Tom: All SkyBlock recipes can be found by opening the Recipe Book in your SkyBlock Menu."
+    },
+    {
+      "id": "7423",
+      "queue_index": 7423,
+      "source": "[NPC] Leo: You can unlock Leaflet Armor by progressing through your Oak Log Collection.",
+      "layouts": [
+        "§e[NPC] Leo§f: You can unlock §aLeaflet Armor§f by progressing through your §aOak Log Collection§f."
+      ],
+      "speaker": "Leo",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o11525-l0-f8043",
+            "block_id": "p15607-r852321-o11525",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Leo",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Leo: You can unlock Leaflet Armor by progressing through your Oak Log Collection./",
+            "source_legacy_line": "§e[NPC] Leo§f: You can unlock §aLeaflet Armor§f by progressing through your §aOak Log Collection§f./§e[NPC] Leo§f: There is a §bForest§f west of the §bVillage§f where you can gather Oak Logs./§e[NPC] Leo§f: To check your Collection progress and rewards, open the §aCollection Menu§f in your §aSkyBlock Menu§f.",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o11525",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 11525,
+            "char_end": 11847,
+            "line_start": 300,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Leo\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Leo&f: You can unlock &aLeaflet Armor&f by progressing through your &aOak Log Collection&f./&e[NPC] Leo&f: There is a &bForest&f west of the &bVillage&f where you can gather Oak Logs./&e[NPC] Leo&f: To check your Collection progress and rewards, open the &aCollection Menu&f in your &aSkyBlock Menu&f.}}",
+            "payload_raw": "&e[NPC] Leo&f: You can unlock &aLeaflet Armor&f by progressing through your &aOak Log Collection&f./&e[NPC] Leo&f: There is a &bForest&f west of the &bVillage&f where you can gather Oak Logs./&e[NPC] Leo&f: To check your Collection progress and rewards, open the &aCollection Menu&f in your &aSkyBlock Menu&f.",
+            "provisional_legacy_text": "§e[NPC] Leo§f: You can unlock §aLeaflet Armor§f by progressing through your §aOak Log Collection§f./§e[NPC] Leo§f: There is a §bForest§f west of the §bVillage§f where you can gather Oak Logs./§e[NPC] Leo§f: To check your Collection progress and rewards, open the §aCollection Menu§f in your §aSkyBlock Menu§f.",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Leo: You can unlock Leaflet Armor by progressing through your Oak Log Collection./"
+    },
+    {
+      "id": "7424",
+      "queue_index": 7424,
+      "source": "[NPC] Leo: There is a Forest west of the Village where you can gather Oak Logs.",
+      "layouts": [
+        "§e[NPC] Leo§f: There is a §bForest§f west of the §bVillage§f where you can gather Oak Logs."
+      ],
+      "speaker": "Leo",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o11525-l0-f8044",
+            "block_id": "p15607-r852321-o11525",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Leo",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Leo: There is a Forest west of the Village where you can gather Oak Logs./",
+            "source_legacy_line": "§e[NPC] Leo§f: You can unlock §aLeaflet Armor§f by progressing through your §aOak Log Collection§f./§e[NPC] Leo§f: There is a §bForest§f west of the §bVillage§f where you can gather Oak Logs./§e[NPC] Leo§f: To check your Collection progress and rewards, open the §aCollection Menu§f in your §aSkyBlock Menu§f.",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o11525",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 11525,
+            "char_end": 11847,
+            "line_start": 300,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Leo\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Leo&f: You can unlock &aLeaflet Armor&f by progressing through your &aOak Log Collection&f./&e[NPC] Leo&f: There is a &bForest&f west of the &bVillage&f where you can gather Oak Logs./&e[NPC] Leo&f: To check your Collection progress and rewards, open the &aCollection Menu&f in your &aSkyBlock Menu&f.}}",
+            "payload_raw": "&e[NPC] Leo&f: You can unlock &aLeaflet Armor&f by progressing through your &aOak Log Collection&f./&e[NPC] Leo&f: There is a &bForest&f west of the &bVillage&f where you can gather Oak Logs./&e[NPC] Leo&f: To check your Collection progress and rewards, open the &aCollection Menu&f in your &aSkyBlock Menu&f.",
+            "provisional_legacy_text": "§e[NPC] Leo§f: You can unlock §aLeaflet Armor§f by progressing through your §aOak Log Collection§f./§e[NPC] Leo§f: There is a §bForest§f west of the §bVillage§f where you can gather Oak Logs./§e[NPC] Leo§f: To check your Collection progress and rewards, open the §aCollection Menu§f in your §aSkyBlock Menu§f.",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Leo: There is a Forest west of the Village where you can gather Oak Logs./"
+    },
+    {
+      "id": "7425",
+      "queue_index": 7425,
+      "source": "[NPC] Leo: To check your Collection progress and rewards, open the Collection Menu in your SkyBlock Menu.",
+      "layouts": [
+        "§e[NPC] Leo§f: To check your Collection progress and rewards, open the §aCollection Menu§f in your §aSkyBlock Menu§f."
+      ],
+      "speaker": "Leo",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o11525-l0-f8045",
+            "block_id": "p15607-r852321-o11525",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Leo",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Leo: To check your Collection progress and rewards, open the Collection Menu in your SkyBlock Menu.",
+            "source_legacy_line": "§e[NPC] Leo§f: You can unlock §aLeaflet Armor§f by progressing through your §aOak Log Collection§f./§e[NPC] Leo§f: There is a §bForest§f west of the §bVillage§f where you can gather Oak Logs./§e[NPC] Leo§f: To check your Collection progress and rewards, open the §aCollection Menu§f in your §aSkyBlock Menu§f.",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o11525",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 11525,
+            "char_end": 11847,
+            "line_start": 300,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Leo\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Leo&f: You can unlock &aLeaflet Armor&f by progressing through your &aOak Log Collection&f./&e[NPC] Leo&f: There is a &bForest&f west of the &bVillage&f where you can gather Oak Logs./&e[NPC] Leo&f: To check your Collection progress and rewards, open the &aCollection Menu&f in your &aSkyBlock Menu&f.}}",
+            "payload_raw": "&e[NPC] Leo&f: You can unlock &aLeaflet Armor&f by progressing through your &aOak Log Collection&f./&e[NPC] Leo&f: There is a &bForest&f west of the &bVillage&f where you can gather Oak Logs./&e[NPC] Leo&f: To check your Collection progress and rewards, open the &aCollection Menu&f in your &aSkyBlock Menu&f.",
+            "provisional_legacy_text": "§e[NPC] Leo§f: You can unlock §aLeaflet Armor§f by progressing through your §aOak Log Collection§f./§e[NPC] Leo§f: There is a §bForest§f west of the §bVillage§f where you can gather Oak Logs./§e[NPC] Leo§f: To check your Collection progress and rewards, open the §aCollection Menu§f in your §aSkyBlock Menu§f.",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Leo: To check your Collection progress and rewards, open the Collection Menu in your SkyBlock Menu."
+    },
+    {
+      "id": "7426",
+      "queue_index": 7426,
+      "source": "[NPC] Felix: You can access your Ender Chest in your SkyBlock Menu.",
+      "layouts": [
+        "§e[NPC] Felix§f: You can access your §aEnder Chest§f in your §aSkyBlock Menu§f."
+      ],
+      "speaker": "Felix",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o11885-l0-f8046",
+            "block_id": "p15607-r852321-o11885",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Felix",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Felix: You can access your Ender Chest in your SkyBlock Menu./",
+            "source_legacy_line": "§e[NPC] Felix§f: You can access your §aEnder Chest§f in your §aSkyBlock Menu§f./§e[NPC] Felix§f: Store items in this chest and access them at any time!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o11885",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 11885,
+            "char_end": 12049,
+            "line_start": 303,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Felix\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Felix&f: You can access your &aEnder Chest&f in your &aSkyBlock Menu&f./&e[NPC] Felix&f: Store items in this chest and access them at any time!}}",
+            "payload_raw": "&e[NPC] Felix&f: You can access your &aEnder Chest&f in your &aSkyBlock Menu&f./&e[NPC] Felix&f: Store items in this chest and access them at any time!",
+            "provisional_legacy_text": "§e[NPC] Felix§f: You can access your §aEnder Chest§f in your §aSkyBlock Menu§f./§e[NPC] Felix§f: Store items in this chest and access them at any time!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Felix: You can access your Ender Chest in your SkyBlock Menu./"
+    },
+    {
+      "id": "7427",
+      "queue_index": 7427,
+      "source": "[NPC] Felix: Store items in this chest and access them at any time!",
+      "layouts": [
+        "§e[NPC] Felix§f: Store items in this chest and access them at any time!"
+      ],
+      "speaker": "Felix",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o11885-l0-f8047",
+            "block_id": "p15607-r852321-o11885",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Felix",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Felix: Store items in this chest and access them at any time!",
+            "source_legacy_line": "§e[NPC] Felix§f: You can access your §aEnder Chest§f in your §aSkyBlock Menu§f./§e[NPC] Felix§f: Store items in this chest and access them at any time!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o11885",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 11885,
+            "char_end": 12049,
+            "line_start": 303,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Felix\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Felix&f: You can access your &aEnder Chest&f in your &aSkyBlock Menu&f./&e[NPC] Felix&f: Store items in this chest and access them at any time!}}",
+            "payload_raw": "&e[NPC] Felix&f: You can access your &aEnder Chest&f in your &aSkyBlock Menu&f./&e[NPC] Felix&f: Store items in this chest and access them at any time!",
+            "provisional_legacy_text": "§e[NPC] Felix§f: You can access your §aEnder Chest§f in your §aSkyBlock Menu§f./§e[NPC] Felix§f: Store items in this chest and access them at any time!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Felix: Store items in this chest and access them at any time!"
+    },
+    {
+      "id": "7428",
+      "queue_index": 7428,
+      "source": "[NPC] Duke: Are you new here? As you can see there is a lot to explore!",
+      "layouts": [
+        "§e[NPC] Duke§f: Are you new here? As you can see there is a lot to explore!"
+      ],
+      "speaker": "Duke",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o12086-l0-f8048",
+            "block_id": "p15607-r852321-o12086",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Duke",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Duke: Are you new here? As you can see there is a lot to explore!/",
+            "source_legacy_line": "§e[NPC] Duke§f: Are you new here? As you can see there is a lot to explore!/§e[NPC] Duke§f: My advice is to start by visiting the §bFarm§f, or the §bCoal Mine§f both North of here./§e[NPC] Duke§f: If you do need some wood, the best place to get some is West of the §bVillage§f!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o12086",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 12086,
+            "char_end": 12376,
+            "line_start": 306,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Duke\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Duke&f: Are you new here? As you can see there is a lot to explore!/&e[NPC] Duke&f: My advice is to start by visiting the &bFarm&f, or the &bCoal Mine&f both North of here./&e[NPC] Duke&f: If you do need some wood, the best place to get some is West of the &bVillage&f!}}",
+            "payload_raw": "&e[NPC] Duke&f: Are you new here? As you can see there is a lot to explore!/&e[NPC] Duke&f: My advice is to start by visiting the &bFarm&f, or the &bCoal Mine&f both North of here./&e[NPC] Duke&f: If you do need some wood, the best place to get some is West of the &bVillage&f!",
+            "provisional_legacy_text": "§e[NPC] Duke§f: Are you new here? As you can see there is a lot to explore!/§e[NPC] Duke§f: My advice is to start by visiting the §bFarm§f, or the §bCoal Mine§f both North of here./§e[NPC] Duke§f: If you do need some wood, the best place to get some is West of the §bVillage§f!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Duke: Are you new here? As you can see there is a lot to explore!/"
+    },
+    {
+      "id": "7429",
+      "queue_index": 7429,
+      "source": "[NPC] Duke: My advice is to start by visiting the Farm, or the Coal Mine both North of here.",
+      "layouts": [
+        "§e[NPC] Duke§f: My advice is to start by visiting the §bFarm§f, or the §bCoal Mine§f both North of here."
+      ],
+      "speaker": "Duke",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o12086-l0-f8049",
+            "block_id": "p15607-r852321-o12086",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Duke",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Duke: My advice is to start by visiting the Farm, or the Coal Mine both North of here./",
+            "source_legacy_line": "§e[NPC] Duke§f: Are you new here? As you can see there is a lot to explore!/§e[NPC] Duke§f: My advice is to start by visiting the §bFarm§f, or the §bCoal Mine§f both North of here./§e[NPC] Duke§f: If you do need some wood, the best place to get some is West of the §bVillage§f!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o12086",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 12086,
+            "char_end": 12376,
+            "line_start": 306,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Duke\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Duke&f: Are you new here? As you can see there is a lot to explore!/&e[NPC] Duke&f: My advice is to start by visiting the &bFarm&f, or the &bCoal Mine&f both North of here./&e[NPC] Duke&f: If you do need some wood, the best place to get some is West of the &bVillage&f!}}",
+            "payload_raw": "&e[NPC] Duke&f: Are you new here? As you can see there is a lot to explore!/&e[NPC] Duke&f: My advice is to start by visiting the &bFarm&f, or the &bCoal Mine&f both North of here./&e[NPC] Duke&f: If you do need some wood, the best place to get some is West of the &bVillage&f!",
+            "provisional_legacy_text": "§e[NPC] Duke§f: Are you new here? As you can see there is a lot to explore!/§e[NPC] Duke§f: My advice is to start by visiting the §bFarm§f, or the §bCoal Mine§f both North of here./§e[NPC] Duke§f: If you do need some wood, the best place to get some is West of the §bVillage§f!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Duke: My advice is to start by visiting the Farm, or the Coal Mine both North of here./"
+    },
+    {
+      "id": "7430",
+      "queue_index": 7430,
+      "source": "[NPC] Duke: If you do need some wood, the best place to get some is West of the Village!",
+      "layouts": [
+        "§e[NPC] Duke§f: If you do need some wood, the best place to get some is West of the §bVillage§f!"
+      ],
+      "speaker": "Duke",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o12086-l0-f8050",
+            "block_id": "p15607-r852321-o12086",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Duke",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Duke: If you do need some wood, the best place to get some is West of the Village!",
+            "source_legacy_line": "§e[NPC] Duke§f: Are you new here? As you can see there is a lot to explore!/§e[NPC] Duke§f: My advice is to start by visiting the §bFarm§f, or the §bCoal Mine§f both North of here./§e[NPC] Duke§f: If you do need some wood, the best place to get some is West of the §bVillage§f!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o12086",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 12086,
+            "char_end": 12376,
+            "line_start": 306,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Duke\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Duke&f: Are you new here? As you can see there is a lot to explore!/&e[NPC] Duke&f: My advice is to start by visiting the &bFarm&f, or the &bCoal Mine&f both North of here./&e[NPC] Duke&f: If you do need some wood, the best place to get some is West of the &bVillage&f!}}",
+            "payload_raw": "&e[NPC] Duke&f: Are you new here? As you can see there is a lot to explore!/&e[NPC] Duke&f: My advice is to start by visiting the &bFarm&f, or the &bCoal Mine&f both North of here./&e[NPC] Duke&f: If you do need some wood, the best place to get some is West of the &bVillage&f!",
+            "provisional_legacy_text": "§e[NPC] Duke§f: Are you new here? As you can see there is a lot to explore!/§e[NPC] Duke§f: My advice is to start by visiting the §bFarm§f, or the §bCoal Mine§f both North of here./§e[NPC] Duke§f: If you do need some wood, the best place to get some is West of the §bVillage§f!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Duke: If you do need some wood, the best place to get some is West of the Village!"
+    },
+    {
+      "id": "7432",
+      "queue_index": 7432,
+      "source": "[NPC] Stella: At any time you can create a Co-op with your friends!",
+      "layouts": [
+        "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!"
+      ],
+      "speaker": "Stella",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o12568-l0-f8052",
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Stella",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Stella: At any time you can create a Co-op with your friends!/",
+            "source_legacy_line": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 12568,
+            "char_end": 12989,
+            "line_start": 312,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Stella\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!}}",
+            "payload_raw": "&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!",
+            "provisional_legacy_text": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Stella: At any time you can create a Co-op with your friends!/"
+    },
+    {
+      "id": "7433",
+      "queue_index": 7433,
+      "source": "[NPC] Stella: Simply go in your SkyBlock Menu where you can find the Profile Menu.",
+      "layouts": [
+        "§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f."
+      ],
+      "speaker": "Stella",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o12568-l0-f8053",
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Stella",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Stella: Simply go in your SkyBlock Menu where you can find the Profile Menu./",
+            "source_legacy_line": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 12568,
+            "char_end": 12989,
+            "line_start": 312,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Stella\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!}}",
+            "payload_raw": "&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!",
+            "provisional_legacy_text": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Stella: Simply go in your SkyBlock Menu where you can find the Profile Menu./"
+    },
+    {
+      "id": "7434",
+      "queue_index": 7434,
+      "source": "[NPC] Stella: This is where you can create, delete or switch SkyBlock Profiles.",
+      "layouts": [
+        "§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles."
+      ],
+      "speaker": "Stella",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o12568-l0-f8054",
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Stella",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Stella: This is where you can create, delete or switch SkyBlock Profiles./",
+            "source_legacy_line": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 12568,
+            "char_end": 12989,
+            "line_start": 312,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Stella\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!}}",
+            "payload_raw": "&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!",
+            "provisional_legacy_text": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Stella: This is where you can create, delete or switch SkyBlock Profiles./"
+    },
+    {
+      "id": "7435",
+      "queue_index": 7435,
+      "source": "[NPC] Stella: Enter /coop followed by the name of all the friends you want to invite!",
+      "layouts": [
+        "§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!"
+      ],
+      "speaker": "Stella",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o12568-l0-f8055",
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Stella",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Stella: Enter /coop followed by the name of all the friends you want to invite!/",
+            "source_legacy_line": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 12568,
+            "char_end": 12989,
+            "line_start": 312,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Stella\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!}}",
+            "payload_raw": "&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!",
+            "provisional_legacy_text": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Stella: Enter /coop followed by the name of all the friends you want to invite!/"
+    },
+    {
+      "id": "7436",
+      "queue_index": 7436,
+      "source": "[NPC] Stella: All your friends have to be online to accept!",
+      "layouts": [
+        "§e[NPC] Stella§f: All your friends have to be online to accept!"
+      ],
+      "speaker": "Stella",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o12568-l0-f8056",
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Stella",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Stella: All your friends have to be online to accept!",
+            "source_legacy_line": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o12568",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 12568,
+            "char_end": 12989,
+            "line_start": 312,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Stella\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!}}",
+            "payload_raw": "&e[NPC] Stella&f: At any time you can create a Co-op with your friends!/&e[NPC] Stella&f: Simply go in your &aSkyBlock Menu&f where you can find the &aProfile Menu&f./&e[NPC] Stella&f: This is where you can create, delete or switch SkyBlock Profiles./&e[NPC] Stella&f: Enter &b/coop&f followed by the name of all the friends you want to invite!/&e[NPC] Stella&f: All your friends have to be online to accept!",
+            "provisional_legacy_text": "§e[NPC] Stella§f: At any time you can create a Co-op with your friends!/§e[NPC] Stella§f: Simply go in your §aSkyBlock Menu§f where you can find the §aProfile Menu§f./§e[NPC] Stella§f: This is where you can create, delete or switch SkyBlock Profiles./§e[NPC] Stella§f: Enter §b/coop§f followed by the name of all the friends you want to invite!/§e[NPC] Stella§f: All your friends have to be online to accept!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Stella: All your friends have to be online to accept!"
+    },
+    {
+      "id": "7437",
+      "queue_index": 7437,
+      "source": "[NPC] Vex: You can shift click any player to trade with them!",
+      "layouts": [
+        "§e[NPC] Vex§f: You can shift click any player to trade with them!"
+      ],
+      "speaker": "Vex",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o13048-l0-f8057",
+            "block_id": "p15607-r852321-o13048",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Vex",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Vex: You can shift click any player to trade with them!/",
+            "source_legacy_line": "§e[NPC] Vex§f: You can shift click any player to trade with them!/§e[NPC] Vex§f: Once both players are ready to trade, click on §aAccept trade&!/§e[NPC] Vex§f: Make sure you don't give away all of your belongings!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o13048",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 13048,
+            "char_end": 13274,
+            "line_start": 316,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| rowspan=\"3\" class=\"ct\" | Vex\n| class=\"ct\" | Welcome\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Vex&f: You can shift click any player to trade with them!/&e[NPC] Vex&f: Once both players are ready to trade, click on &aAccept trade&!/&e[NPC] Vex&f: Make sure you don't give away all of your belongings!}}",
+            "payload_raw": "&e[NPC] Vex&f: You can shift click any player to trade with them!/&e[NPC] Vex&f: Once both players are ready to trade, click on &aAccept trade&!/&e[NPC] Vex&f: Make sure you don't give away all of your belongings!",
+            "provisional_legacy_text": "§e[NPC] Vex§f: You can shift click any player to trade with them!/§e[NPC] Vex§f: Once both players are ready to trade, click on §aAccept trade&!/§e[NPC] Vex§f: Make sure you don't give away all of your belongings!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Vex: You can shift click any player to trade with them!/"
+    },
+    {
+      "id": "7439",
+      "queue_index": 7439,
+      "source": "[NPC] Vex: Make sure you don't give away all of your belongings!",
+      "layouts": [
+        "§e[NPC] Vex§f: Make sure you don't give away all of your belongings!"
+      ],
+      "speaker": "Vex",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o13048-l0-f8059",
+            "block_id": "p15607-r852321-o13048",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Vex",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Vex: Make sure you don't give away all of your belongings!",
+            "source_legacy_line": "§e[NPC] Vex§f: You can shift click any player to trade with them!/§e[NPC] Vex§f: Once both players are ready to trade, click on §aAccept trade&!/§e[NPC] Vex§f: Make sure you don't give away all of your belongings!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o13048",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 13048,
+            "char_end": 13274,
+            "line_start": 316,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| rowspan=\"3\" class=\"ct\" | Vex\n| class=\"ct\" | Welcome\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Vex&f: You can shift click any player to trade with them!/&e[NPC] Vex&f: Once both players are ready to trade, click on &aAccept trade&!/&e[NPC] Vex&f: Make sure you don't give away all of your belongings!}}",
+            "payload_raw": "&e[NPC] Vex&f: You can shift click any player to trade with them!/&e[NPC] Vex&f: Once both players are ready to trade, click on &aAccept trade&!/&e[NPC] Vex&f: Make sure you don't give away all of your belongings!",
+            "provisional_legacy_text": "§e[NPC] Vex§f: You can shift click any player to trade with them!/§e[NPC] Vex§f: Once both players are ready to trade, click on §aAccept trade&!/§e[NPC] Vex§f: Make sure you don't give away all of your belongings!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Vex: Make sure you don't give away all of your belongings!"
+    },
+    {
+      "id": "7441",
+      "queue_index": 7441,
+      "source": "[NPC] Vex: You can disable Player Trading your SkyBlock Settings!",
+      "layouts": [
+        "§e[NPC] Vex§f: You can disable Player Trading your §bSkyBlock§f Settings!"
+      ],
+      "speaker": "Vex",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o13394-l0-f8061",
+            "block_id": "p15607-r852321-o13394",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Vex",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Vex: You can disable Player Trading your SkyBlock Settings!/",
+            "source_legacy_line": "§e[NPC] Vex§f: You can disable Player Trading your §bSkyBlock§f Settings!/§e[NPC] Vex§f: Your settings can found in the §aSkyBlock Menu§f.",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o13394",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 13394,
+            "char_end": 13545,
+            "line_start": 322,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" | General\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Vex&f: You can disable Player Trading your &bSkyBlock&f Settings!/&e[NPC] Vex&f: Your settings can found in the &aSkyBlock Menu&f.}}",
+            "payload_raw": "&e[NPC] Vex&f: You can disable Player Trading your &bSkyBlock&f Settings!/&e[NPC] Vex&f: Your settings can found in the &aSkyBlock Menu&f.",
+            "provisional_legacy_text": "§e[NPC] Vex§f: You can disable Player Trading your §bSkyBlock§f Settings!/§e[NPC] Vex§f: Your settings can found in the §aSkyBlock Menu§f.",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Vex: You can disable Player Trading your SkyBlock Settings!/"
+    },
+    {
+      "id": "7442",
+      "queue_index": 7442,
+      "source": "[NPC] Vex: Your settings can found in the SkyBlock Menu.",
+      "layouts": [
+        "§e[NPC] Vex§f: Your settings can found in the §aSkyBlock Menu§f."
+      ],
+      "speaker": "Vex",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o13394-l0-f8062",
+            "block_id": "p15607-r852321-o13394",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Vex",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Vex: Your settings can found in the SkyBlock Menu.",
+            "source_legacy_line": "§e[NPC] Vex§f: You can disable Player Trading your §bSkyBlock§f Settings!/§e[NPC] Vex§f: Your settings can found in the §aSkyBlock Menu§f.",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o13394",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 13394,
+            "char_end": 13545,
+            "line_start": 322,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" | General\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Vex&f: You can disable Player Trading your &bSkyBlock&f Settings!/&e[NPC] Vex&f: Your settings can found in the &aSkyBlock Menu&f.}}",
+            "payload_raw": "&e[NPC] Vex&f: You can disable Player Trading your &bSkyBlock&f Settings!/&e[NPC] Vex&f: Your settings can found in the &aSkyBlock Menu&f.",
+            "provisional_legacy_text": "§e[NPC] Vex§f: You can disable Player Trading your §bSkyBlock§f Settings!/§e[NPC] Vex§f: Your settings can found in the §aSkyBlock Menu§f.",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Vex: Your settings can found in the SkyBlock Menu."
+    },
+    {
+      "id": "7443",
+      "queue_index": 7443,
+      "source": "[NPC] Liam: One day those houses in the Village will be rentable for Coins!",
+      "layouts": [
+        "§e[NPC] Liam§f: One day those houses in the Village will be rentable for Coins!"
+      ],
+      "speaker": "Liam",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o13582-l0-f8063",
+            "block_id": "p15607-r852321-o13582",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Liam",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Liam: One day those houses in the Village will be rentable for Coins!/",
+            "source_legacy_line": "§e[NPC] Liam§f: One day those houses in the Village will be rentable for Coins!/§e[NPC] Liam§f: Anyone will be able to rent them, players, co-ops, even Guilds!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o13582",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 13582,
+            "char_end": 13754,
+            "line_start": 325,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Liam\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Liam&f: One day those houses in the Village will be rentable for Coins!/&e[NPC] Liam&f: Anyone will be able to rent them, players, co-ops, even Guilds!}}",
+            "payload_raw": "&e[NPC] Liam&f: One day those houses in the Village will be rentable for Coins!/&e[NPC] Liam&f: Anyone will be able to rent them, players, co-ops, even Guilds!",
+            "provisional_legacy_text": "§e[NPC] Liam§f: One day those houses in the Village will be rentable for Coins!/§e[NPC] Liam§f: Anyone will be able to rent them, players, co-ops, even Guilds!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Liam: One day those houses in the Village will be rentable for Coins!/"
+    },
+    {
+      "id": "7444",
+      "queue_index": 7444,
+      "source": "[NPC] Liam: Anyone will be able to rent them, players, co-ops, even Guilds!",
+      "layouts": [
+        "§e[NPC] Liam§f: Anyone will be able to rent them, players, co-ops, even Guilds!"
+      ],
+      "speaker": "Liam",
+      "kind": "literal",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p15607-r852321-o13582-l0-f8064",
+            "block_id": "p15607-r852321-o13582",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Liam",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Liam: Anyone will be able to rent them, players, co-ops, even Guilds!",
+            "source_legacy_line": "§e[NPC] Liam§f: One day those houses in the Village will be rentable for Coins!/§e[NPC] Liam§f: Anyone will be able to rent them, players, co-ops, even Guilds!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p15607-r852321-o13582",
+            "page": "Hub Villagers",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+            "revision": 852321,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 13582,
+            "char_end": 13754,
+            "line_start": 325,
+            "headings": [
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | Liam\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] Liam&f: One day those houses in the Village will be rentable for Coins!/&e[NPC] Liam&f: Anyone will be able to rent them, players, co-ops, even Guilds!}}",
+            "payload_raw": "&e[NPC] Liam&f: One day those houses in the Village will be rentable for Coins!/&e[NPC] Liam&f: Anyone will be able to rent them, players, co-ops, even Guilds!",
+            "provisional_legacy_text": "§e[NPC] Liam§f: One day those houses in the Village will be rentable for Coins!/§e[NPC] Liam§f: Anyone will be able to rent them, players, co-ops, even Guilds!",
+            "unresolved_markup": false
+          },
+          "transformation": "slash separator before next full NPC prefix,not the /coop command"
+        }
+      ],
+      "queue_source": "[NPC] Liam: Anyone will be able to rent them, players, co-ops, even Guilds!"
+    },
+    {
+      "id": "7965",
+      "queue_index": 7965,
+      "source": "[NPC] Jerry: Your SkyBlock island is part of a much larger universe... [1/2]",
+      "layouts": [
+        "§e[NPC] Jerry§f: Your SkyBlock island is part of a much larger universe... §7[1/§a2§7]"
+      ],
+      "speaker": "Jerry",
+      "kind": "literal",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jerry?oldid=855973",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p981-r855973-o3713-l1-f8686",
+            "block_id": "p981-r855973-o3713",
+            "page": "Jerry",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jerry?oldid=855973",
+            "revision": 855973,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jerry",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jerry: Your SkyBlock island is part of a much larger universe... [1/2]",
+            "source_legacy_line": "§e[NPC] Jerry§f: Your SkyBlock island is part of a much larger universe... §7[1/§a2§7]",
+            "payload_line": 1,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p981-r855973-o3713",
+            "page": "Jerry",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jerry?oldid=855973",
+            "revision": 855973,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 3713,
+            "char_end": 3871,
+            "line_start": 114,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" colspan=\"2\" | Hypixel Lobby\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] Jerry&f: Your SkyBlock island is part of a much larger universe... &7[1\\/&a2&7]\n&e[NPC] Jerry&f: Wait, how did I get here? &7[&a2\\/2&7]\n}}",
+            "payload_raw": "\n&e[NPC] Jerry&f: Your SkyBlock island is part of a much larger universe... &7[1\\/&a2&7]\n&e[NPC] Jerry&f: Wait, how did I get here? &7[&a2\\/2&7]\n",
+            "provisional_legacy_text": "\n§e[NPC] Jerry§f: Your SkyBlock island is part of a much larger universe... §7[1/§a2§7]\n§e[NPC] Jerry§f: Wait, how did I get here? §7[§a2/2§7]\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Jerry: Your SkyBlock island is part of a much larger universe... [1/2]"
+    },
+    {
+      "id": "7966",
+      "queue_index": 7966,
+      "source": "[NPC] Jerry: Wait, how did I get here? [2/2]",
+      "layouts": [
+        "§e[NPC] Jerry§f: Wait, how did I get here? §7[§a2/2§7]"
+      ],
+      "speaker": "Jerry",
+      "kind": "literal",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jerry?oldid=855973",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p981-r855973-o3713-l2-f8687",
+            "block_id": "p981-r855973-o3713",
+            "page": "Jerry",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jerry?oldid=855973",
+            "revision": 855973,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Jerry",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Jerry: Wait, how did I get here? [2/2]",
+            "source_legacy_line": "§e[NPC] Jerry§f: Wait, how did I get here? §7[§a2/2§7]",
+            "payload_line": 2,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p981-r855973-o3713",
+            "page": "Jerry",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jerry?oldid=855973",
+            "revision": 855973,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 3713,
+            "char_end": 3871,
+            "line_start": 114,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" colspan=\"2\" | Hypixel Lobby\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] Jerry&f: Your SkyBlock island is part of a much larger universe... &7[1\\/&a2&7]\n&e[NPC] Jerry&f: Wait, how did I get here? &7[&a2\\/2&7]\n}}",
+            "payload_raw": "\n&e[NPC] Jerry&f: Your SkyBlock island is part of a much larger universe... &7[1\\/&a2&7]\n&e[NPC] Jerry&f: Wait, how did I get here? &7[&a2\\/2&7]\n",
+            "provisional_legacy_text": "\n§e[NPC] Jerry§f: Your SkyBlock island is part of a much larger universe... §7[1/§a2§7]\n§e[NPC] Jerry§f: Wait, how did I get here? §7[§a2/2§7]\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Jerry: Wait, how did I get here? [2/2]"
+    },
+    {
+      "id": "10149",
+      "queue_index": 10149,
+      "source": "[NPC] Mayor Nancy: Hi|",
+      "layouts": [
+        "§e[NPC] Mayor Nancy§f: Hi|"
+      ],
+      "speaker": "Mayor Nancy",
+      "kind": "literal",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nancy?oldid=789830",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p82952-r789830-o598-l1-f11131",
+            "block_id": "p82952-r789830-o598",
+            "page": "Nancy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nancy?oldid=789830",
+            "revision": 789830,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Mayor Nancy",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Mayor Nancy: Hi|",
+            "source_legacy_line": "§e[NPC] Mayor Nancy§f: Hi|",
+            "payload_line": 1,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p82952-r789830-o598",
+            "page": "Nancy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nancy?oldid=789830",
+            "revision": 789830,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 598,
+            "char_end": 760,
+            "line_start": 18,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" | None\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] Mayor Nancy&f: Hi<nowiki>|</nowiki>\n&e[NPC] Mayor Nancy&f: I'm just a placeholder because apparently no one voted on the previous election.\n}}",
+            "payload_raw": "\n&e[NPC] Mayor Nancy&f: Hi<nowiki>|</nowiki>\n&e[NPC] Mayor Nancy&f: I'm just a placeholder because apparently no one voted on the previous election.\n",
+            "provisional_legacy_text": "\n§e[NPC] Mayor Nancy§f: Hi|\n§e[NPC] Mayor Nancy§f: I'm just a placeholder because apparently no one voted on the previous election.\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Mayor Nancy: Hi|"
+    },
+    {
+      "id": "7699-number",
+      "queue_index": 7699,
+      "source": "[NPC] Ikrus: Hmmm, 137, huh? Sounds like a plan!",
+      "template_source": "[NPC] Ikrus: Hmmm, {value}, huh? Sounds like a plan!",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] Ikrus§f: Hmmm, {value}, huh? Sounds like a plan!"
+      ],
+      "layouts": [
+        "§e[NPC] Ikrus§f: Hmmm, 137, huh? Sounds like a plan!"
+      ],
+      "speaker": "Ikrus",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ikrus?oldid=813774",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p108576-r813774-o1232-l1-f8338",
+            "block_id": "p108576-r813774-o1232",
+            "page": "Ikrus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ikrus?oldid=813774",
+            "revision": 813774,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Ikrus",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Ikrus: Hmmm, [#], huh? Sounds like a plan!",
+            "source_legacy_line": "§e[NPC] Ikrus§f: Hmmm, [#], huh? Sounds like a plan!",
+            "payload_line": 1,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p108576-r813774-o1232",
+            "page": "Ikrus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ikrus?oldid=813774",
+            "revision": 813774,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 1232,
+            "char_end": 1335,
+            "line_start": 34,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" | Selecting {{Rmt|&e[3]}}, {{Rmt|&e[6]}}, or {{Rmt|&e[9]}}\n| ",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] Ikrus&f: Hmmm, [#], huh? Sounds like a plan!\n&e[NPC] Ikrus&f: Here goes nothing!\n}}",
+            "payload_raw": "\n&e[NPC] Ikrus&f: Hmmm, [#], huh? Sounds like a plan!\n&e[NPC] Ikrus&f: Here goes nothing!\n",
+            "provisional_legacy_text": "\n§e[NPC] Ikrus§f: Hmmm, [#], huh? Sounds like a plan!\n§e[NPC] Ikrus§f: Here goes nothing!\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Ikrus: Hmmm, [#], huh? Sounds like a plan!"
+    },
+    {
+      "id": "7713-number",
+      "queue_index": 7713,
+      "source": "[NPC] Ikrus: Hmm, 137, huh? Sounds like a plan!",
+      "template_source": "[NPC] Ikrus: Hmm, {value}, huh? Sounds like a plan!",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] Ikrus§f: Hmm, {value}, huh? Sounds like a plan!"
+      ],
+      "layouts": [
+        "§e[NPC] Ikrus§f: Hmm, 137, huh? Sounds like a plan!"
+      ],
+      "speaker": "Ikrus",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ikrus?oldid=813774",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p108576-r813774-o2308-l1-f8352",
+            "block_id": "p108576-r813774-o2308",
+            "page": "Ikrus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ikrus?oldid=813774",
+            "revision": 813774,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Ikrus",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Ikrus: Hmm, [#], huh? Sounds like a plan!",
+            "source_legacy_line": "§e[NPC] Ikrus§f: Hmm, [#], huh? Sounds like a plan!",
+            "payload_line": 1,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p108576-r813774-o2308",
+            "page": "Ikrus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ikrus?oldid=813774",
+            "revision": 813774,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 2308,
+            "char_end": 2463,
+            "line_start": 62,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" | Selecting {{Rmt|&e[40]}} or {{Rmt|&e[50]}} <br> (Rewards {{Item|Burned Pants}})\n| ",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] Ikrus&f: Hmm, [#], huh? Sounds like a plan!\n&e[NPC] Ikrus&f: Here goes nothing!\n&7&oWell, I hope he found what he was looking for...\n}}",
+            "payload_raw": "\n&e[NPC] Ikrus&f: Hmm, [#], huh? Sounds like a plan!\n&e[NPC] Ikrus&f: Here goes nothing!\n&7&oWell, I hope he found what he was looking for...\n",
+            "provisional_legacy_text": "\n§e[NPC] Ikrus§f: Hmm, [#], huh? Sounds like a plan!\n§e[NPC] Ikrus§f: Here goes nothing!\n§7§oWell, I hope he found what he was looking for...\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Ikrus: Hmm, [#], huh? Sounds like a plan!"
+    },
+    {
+      "id": "11495-singular",
+      "queue_index": 11495,
+      "source": "[NPC] Researcher Timmy: Sadly it'll stop raining in about 1 minute from now.",
+      "template_source": "[NPC] Researcher Timmy: Sadly it'll stop raining in about {value} minute from now.",
+      "probe_value": "1",
+      "template_layouts": [
+        "§e[NPC] §2Researcher Timmy§f: Sadly it'll stop raining in about §a{value} minute §ffrom now."
+      ],
+      "layouts": [
+        "§e[NPC] §2Researcher Timmy§f: Sadly it'll stop raining in about §a1 minute §ffrom now."
+      ],
+      "speaker": "Researcher Timmy",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p116459-r790331-o415-l3-f12611",
+            "block_id": "p116459-r790331-o415",
+            "page": "Researcher Timmy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+            "revision": 790331,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Researcher Timmy",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Researcher Timmy: Sadly it'll stop raining in about # minute[s] from now.",
+            "source_legacy_line": "§e[NPC] §2Researcher Timmy§f: Sadly it'll stop raining in about §a# minute[s] §ffrom now.",
+            "payload_line": 3,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p116459-r790331-o415",
+            "page": "Researcher Timmy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+            "revision": 790331,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 415,
+            "char_end": 681,
+            "line_start": 16,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | While it's raining\n| ",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] &2Researcher Timmy&f: The frequent &brain &fthroughout the Atoll means we see a lot of &aWetlands Frogs&f!\n&e[NPC] &2Researcher Timmy&f: I love the rain!\n&e[NPC] &2Researcher Timmy&f: Sadly it'll stop raining in about &a# minute[s] &ffrom now.\n}}",
+            "payload_raw": "\n&e[NPC] &2Researcher Timmy&f: The frequent &brain &fthroughout the Atoll means we see a lot of &aWetlands Frogs&f!\n&e[NPC] &2Researcher Timmy&f: I love the rain!\n&e[NPC] &2Researcher Timmy&f: Sadly it'll stop raining in about &a# minute[s] &ffrom now.\n",
+            "provisional_legacy_text": "\n§e[NPC] §2Researcher Timmy§f: The frequent §brain §fthroughout the Atoll means we see a lot of §aWetlands Frogs§f!\n§e[NPC] §2Researcher Timmy§f: I love the rain!\n§e[NPC] §2Researcher Timmy§f: Sadly it'll stop raining in about §a# minute[s] §ffrom now.\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Researcher Timmy: Sadly it'll stop raining in about # minute[s] from now."
+    },
+    {
+      "id": "11495-plural",
+      "queue_index": 11495,
+      "source": "[NPC] Researcher Timmy: Sadly it'll stop raining in about 137 minutes from now.",
+      "template_source": "[NPC] Researcher Timmy: Sadly it'll stop raining in about {value} minutes from now.",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] §2Researcher Timmy§f: Sadly it'll stop raining in about §a{value} minutes §ffrom now."
+      ],
+      "layouts": [
+        "§e[NPC] §2Researcher Timmy§f: Sadly it'll stop raining in about §a137 minutes §ffrom now."
+      ],
+      "speaker": "Researcher Timmy",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p116459-r790331-o415-l3-f12611",
+            "block_id": "p116459-r790331-o415",
+            "page": "Researcher Timmy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+            "revision": 790331,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Researcher Timmy",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Researcher Timmy: Sadly it'll stop raining in about # minute[s] from now.",
+            "source_legacy_line": "§e[NPC] §2Researcher Timmy§f: Sadly it'll stop raining in about §a# minute[s] §ffrom now.",
+            "payload_line": 3,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p116459-r790331-o415",
+            "page": "Researcher Timmy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+            "revision": 790331,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 415,
+            "char_end": 681,
+            "line_start": 16,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | While it's raining\n| ",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] &2Researcher Timmy&f: The frequent &brain &fthroughout the Atoll means we see a lot of &aWetlands Frogs&f!\n&e[NPC] &2Researcher Timmy&f: I love the rain!\n&e[NPC] &2Researcher Timmy&f: Sadly it'll stop raining in about &a# minute[s] &ffrom now.\n}}",
+            "payload_raw": "\n&e[NPC] &2Researcher Timmy&f: The frequent &brain &fthroughout the Atoll means we see a lot of &aWetlands Frogs&f!\n&e[NPC] &2Researcher Timmy&f: I love the rain!\n&e[NPC] &2Researcher Timmy&f: Sadly it'll stop raining in about &a# minute[s] &ffrom now.\n",
+            "provisional_legacy_text": "\n§e[NPC] §2Researcher Timmy§f: The frequent §brain §fthroughout the Atoll means we see a lot of §aWetlands Frogs§f!\n§e[NPC] §2Researcher Timmy§f: I love the rain!\n§e[NPC] §2Researcher Timmy§f: Sadly it'll stop raining in about §a# minute[s] §ffrom now.\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Researcher Timmy: Sadly it'll stop raining in about # minute[s] from now."
+    },
+    {
+      "id": "11497-singular",
+      "queue_index": 11497,
+      "source": "[NPC] Researcher Timmy: Luckily it'll start raining in about 1 minute from now.",
+      "template_source": "[NPC] Researcher Timmy: Luckily it'll start raining in about {value} minute from now.",
+      "probe_value": "1",
+      "template_layouts": [
+        "§e[NPC] §2Researcher Timmy§f: Luckily it'll start raining in about §a{value} minute §ffrom now."
+      ],
+      "layouts": [
+        "§e[NPC] §2Researcher Timmy§f: Luckily it'll start raining in about §a1 minute §ffrom now."
+      ],
+      "speaker": "Researcher Timmy",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p116459-r790331-o737-l3-f12614",
+            "block_id": "p116459-r790331-o737",
+            "page": "Researcher Timmy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+            "revision": 790331,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Researcher Timmy",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Researcher Timmy: Luckily it'll start raining in about # minute[s] from now.",
+            "source_legacy_line": "§e[NPC] §2Researcher Timmy§f: Luckily it'll start raining in about §a# minute[s] §ffrom now.",
+            "payload_line": 3,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p116459-r790331-o737",
+            "page": "Researcher Timmy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+            "revision": 790331,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 737,
+            "char_end": 1005,
+            "line_start": 23,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | While it's not raining\n| ",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] &2Researcher Timmy&f: The frequent &brain &fthroughout the Atoll means we see a lot of &aWetlands Frogs&f!\n&e[NPC] &2Researcher Timmy&f: I hate the sun!\n&e[NPC] &2Researcher Timmy&f: Luckily it'll start raining in about &a# minute[s] &ffrom now.\n}}",
+            "payload_raw": "\n&e[NPC] &2Researcher Timmy&f: The frequent &brain &fthroughout the Atoll means we see a lot of &aWetlands Frogs&f!\n&e[NPC] &2Researcher Timmy&f: I hate the sun!\n&e[NPC] &2Researcher Timmy&f: Luckily it'll start raining in about &a# minute[s] &ffrom now.\n",
+            "provisional_legacy_text": "\n§e[NPC] §2Researcher Timmy§f: The frequent §brain §fthroughout the Atoll means we see a lot of §aWetlands Frogs§f!\n§e[NPC] §2Researcher Timmy§f: I hate the sun!\n§e[NPC] §2Researcher Timmy§f: Luckily it'll start raining in about §a# minute[s] §ffrom now.\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Researcher Timmy: Luckily it'll start raining in about # minute[s] from now."
+    },
+    {
+      "id": "11497-plural",
+      "queue_index": 11497,
+      "source": "[NPC] Researcher Timmy: Luckily it'll start raining in about 137 minutes from now.",
+      "template_source": "[NPC] Researcher Timmy: Luckily it'll start raining in about {value} minutes from now.",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] §2Researcher Timmy§f: Luckily it'll start raining in about §a{value} minutes §ffrom now."
+      ],
+      "layouts": [
+        "§e[NPC] §2Researcher Timmy§f: Luckily it'll start raining in about §a137 minutes §ffrom now."
+      ],
+      "speaker": "Researcher Timmy",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p116459-r790331-o737-l3-f12614",
+            "block_id": "p116459-r790331-o737",
+            "page": "Researcher Timmy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+            "revision": 790331,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Researcher Timmy",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Researcher Timmy: Luckily it'll start raining in about # minute[s] from now.",
+            "source_legacy_line": "§e[NPC] §2Researcher Timmy§f: Luckily it'll start raining in about §a# minute[s] §ffrom now.",
+            "payload_line": 3,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p116459-r790331-o737",
+            "page": "Researcher Timmy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Researcher_Timmy?oldid=790331",
+            "revision": 790331,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 737,
+            "char_end": 1005,
+            "line_start": 23,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | While it's not raining\n| ",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] &2Researcher Timmy&f: The frequent &brain &fthroughout the Atoll means we see a lot of &aWetlands Frogs&f!\n&e[NPC] &2Researcher Timmy&f: I hate the sun!\n&e[NPC] &2Researcher Timmy&f: Luckily it'll start raining in about &a# minute[s] &ffrom now.\n}}",
+            "payload_raw": "\n&e[NPC] &2Researcher Timmy&f: The frequent &brain &fthroughout the Atoll means we see a lot of &aWetlands Frogs&f!\n&e[NPC] &2Researcher Timmy&f: I hate the sun!\n&e[NPC] &2Researcher Timmy&f: Luckily it'll start raining in about &a# minute[s] &ffrom now.\n",
+            "provisional_legacy_text": "\n§e[NPC] §2Researcher Timmy§f: The frequent §brain §fthroughout the Atoll means we see a lot of §aWetlands Frogs§f!\n§e[NPC] §2Researcher Timmy§f: I hate the sun!\n§e[NPC] §2Researcher Timmy§f: Luckily it'll start raining in about §a# minute[s] §ffrom now.\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Researcher Timmy: Luckily it'll start raining in about # minute[s] from now."
+    },
+    {
+      "id": "11525-number",
+      "queue_index": 11525,
+      "source": "[NPC] Rezzus: Hey there! Happy SkyBlock Year 137!",
+      "template_source": "[NPC] Rezzus: Hey there! Happy SkyBlock Year {value}!",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] §aRezzus§f: Hey there! Happy §bSkyBlock Year {value}§f!"
+      ],
+      "layouts": [
+        "§e[NPC] §aRezzus§f: Hey there! Happy §bSkyBlock Year 137§f!"
+      ],
+      "speaker": "Rezzus",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p100910-r811148-o555-l0-f12643",
+            "block_id": "p100910-r811148-o555",
+            "page": "Rezzus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+            "revision": 811148,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Rezzus",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Rezzus: Hey there! Happy SkyBlock Year [year]!",
+            "source_legacy_line": "§e[NPC] §aRezzus§f: Hey there! Happy §bSkyBlock Year [year]§f!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p100910-r811148-o555",
+            "page": "Rezzus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+            "revision": 811148,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 555,
+            "char_end": 792,
+            "line_start": 21,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" |First interaction during [[Raffle of the Century]]\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] &aRezzus&f: Hey there! Happy &bSkyBlock Year [year]&f!\n&e[NPC] &aRezzus&f: To celebrate this &5&lEPIC &fmilestone, we are organizing a set of &d&l&oCRAZY &fraffles!\n&e[NPC] &aRezzus&f: But first, you need a &bTEAM&f!}}",
+            "payload_raw": "&e[NPC] &aRezzus&f: Hey there! Happy &bSkyBlock Year [year]&f!\n&e[NPC] &aRezzus&f: To celebrate this &5&lEPIC &fmilestone, we are organizing a set of &d&l&oCRAZY &fraffles!\n&e[NPC] &aRezzus&f: But first, you need a &bTEAM&f!",
+            "provisional_legacy_text": "§e[NPC] §aRezzus§f: Hey there! Happy §bSkyBlock Year [year]§f!\n§e[NPC] §aRezzus§f: To celebrate this §5§lEPIC §fmilestone, we are organizing a set of §d§l§oCRAZY §fraffles!\n§e[NPC] §aRezzus§f: But first, you need a §bTEAM§f!",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Rezzus: Hey there! Happy SkyBlock Year [year]!"
+    },
+    {
+      "id": "11535-number",
+      "queue_index": 11535,
+      "source": "[NPC] Rezzus: The Big One, which is going to be drawn at the end of Year 137!",
+      "template_source": "[NPC] Rezzus: The Big One, which is going to be drawn at the end of Year {value}!",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] §aRezzus§f: §c§lThe Big One§f, which is going to be drawn at the end of §bYear {value}§f!"
+      ],
+      "layouts": [
+        "§e[NPC] §aRezzus§f: §c§lThe Big One§f, which is going to be drawn at the end of §bYear 137§f!"
+      ],
+      "speaker": "Rezzus",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p100910-r811148-o998-l5-f12653",
+            "block_id": "p100910-r811148-o998",
+            "page": "Rezzus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+            "revision": 811148,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Rezzus",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Rezzus: The Big One, which is going to be drawn at the end of Year [year]!",
+            "source_legacy_line": "§e[NPC] §aRezzus§f: §c§lThe Big One§f, which is going to be drawn at the end of §bYear [year]§f!",
+            "payload_line": 5,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p100910-r811148-o998",
+            "page": "Rezzus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+            "revision": 811148,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 998,
+            "char_end": 2771,
+            "line_start": 32,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" |Joining a team\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] &aRezzus&f: Sweet, the &l[COLOR] &fteam.\n&e[NPC] &aRezzus&f: I hear it might be the best one!\n&e[NPC] &aRezzus&f: Anyway... there are &63 &fkinds of raffles going on.\n&e[NPC] &aRezzus&f: &6Speed Raffles &fare drawn every &92 &fhours.\n&e[NPC] &aRezzus&f: &bDaily Raffles&f, they happen every &624 &fhours.\n&e[NPC] &aRezzus&f: &c&lThe Big One&f, which is going to be drawn at the end of &bYear [year]&f!\n&e[NPC] &aRezzus&f: To participate, collect &bRaffle Tickets &fand &dslices of cake &fby simply playing &aSkyBlock &fduring the event.\n&e[NPC] &aRezzus&f: All tickets you gain are automatically entered into the next raffle of each type.\n&e[NPC] &aRezzus&f: When you receive a &dslice of cake&f, it will be a certain &cc&6o&el&ao&9r&f, which corresponds to a certain team.\n&e[NPC] &aRezzus&f: There are slices of &cRed Velvet&f, &9Blueberry&f, &eLemon Cheesecake&f, &aMatcha&f, and &dStrawberry Shortcake&f!\n&e[NPC] &aRezzus&f: If you take your slice of cake and feed it to a member of that team, you'll both get some &6rewards&f, in addition to &9bonus Raffle Tickets&f!\n&e[NPC] &aRezzus&f: Here, I'll give you &b3 Raffle Tickets &fto get you started.\n&e[NPC] &aRezzus&f: You can get more tickets by eating cake and completing &bRaffle Tasks&f. Check out the &6Raffle Box &ffor more info on those!\n&6&lREZZUS GIFT! &eYou gained &b+3 Raffle Tickets&e!\n&e[NPC] &aRezzus&f: Tada!\n&e[NPC] &aRezzus&f: You can click on the &6Raffle Box &fnext to me or in your &aSkyBlock Menu &fto view your event progress.\n&e[NPC] &aRezzus&f: Oh, one last thing! The team that enters the most tickets into &c&lThe Big One &fwill receive a special &cmemento &fat the end of the event!\n&e[NPC] &aRezzus&f: Have fun! You can come speak to me again if you have any questions!}}",
+            "payload_raw": "&e[NPC] &aRezzus&f: Sweet, the &l[COLOR] &fteam.\n&e[NPC] &aRezzus&f: I hear it might be the best one!\n&e[NPC] &aRezzus&f: Anyway... there are &63 &fkinds of raffles going on.\n&e[NPC] &aRezzus&f: &6Speed Raffles &fare drawn every &92 &fhours.\n&e[NPC] &aRezzus&f: &bDaily Raffles&f, they happen every &624 &fhours.\n&e[NPC] &aRezzus&f: &c&lThe Big One&f, which is going to be drawn at the end of &bYear [year]&f!\n&e[NPC] &aRezzus&f: To participate, collect &bRaffle Tickets &fand &dslices of cake &fby simply playing &aSkyBlock &fduring the event.\n&e[NPC] &aRezzus&f: All tickets you gain are automatically entered into the next raffle of each type.\n&e[NPC] &aRezzus&f: When you receive a &dslice of cake&f, it will be a certain &cc&6o&el&ao&9r&f, which corresponds to a certain team.\n&e[NPC] &aRezzus&f: There are slices of &cRed Velvet&f, &9Blueberry&f, &eLemon Cheesecake&f, &aMatcha&f, and &dStrawberry Shortcake&f!\n&e[NPC] &aRezzus&f: If you take your slice of cake and feed it to a member of that team, you'll both get some &6rewards&f, in addition to &9bonus Raffle Tickets&f!\n&e[NPC] &aRezzus&f: Here, I'll give you &b3 Raffle Tickets &fto get you started.\n&e[NPC] &aRezzus&f: You can get more tickets by eating cake and completing &bRaffle Tasks&f. Check out the &6Raffle Box &ffor more info on those!\n&6&lREZZUS GIFT! &eYou gained &b+3 Raffle Tickets&e!\n&e[NPC] &aRezzus&f: Tada!\n&e[NPC] &aRezzus&f: You can click on the &6Raffle Box &fnext to me or in your &aSkyBlock Menu &fto view your event progress.\n&e[NPC] &aRezzus&f: Oh, one last thing! The team that enters the most tickets into &c&lThe Big One &fwill receive a special &cmemento &fat the end of the event!\n&e[NPC] &aRezzus&f: Have fun! You can come speak to me again if you have any questions!",
+            "provisional_legacy_text": "§e[NPC] §aRezzus§f: Sweet, the §l[COLOR] §fteam.\n§e[NPC] §aRezzus§f: I hear it might be the best one!\n§e[NPC] §aRezzus§f: Anyway... there are §63 §fkinds of raffles going on.\n§e[NPC] §aRezzus§f: §6Speed Raffles §fare drawn every §92 §fhours.\n§e[NPC] §aRezzus§f: §bDaily Raffles§f, they happen every §624 §fhours.\n§e[NPC] §aRezzus§f: §c§lThe Big One§f, which is going to be drawn at the end of §bYear [year]§f!\n§e[NPC] §aRezzus§f: To participate, collect §bRaffle Tickets §fand §dslices of cake §fby simply playing §aSkyBlock §fduring the event.\n§e[NPC] §aRezzus§f: All tickets you gain are automatically entered into the next raffle of each type.\n§e[NPC] §aRezzus§f: When you receive a §dslice of cake§f, it will be a certain §cc§6o§el§ao§9r§f, which corresponds to a certain team.\n§e[NPC] §aRezzus§f: There are slices of §cRed Velvet§f, §9Blueberry§f, §eLemon Cheesecake§f, §aMatcha§f, and §dStrawberry Shortcake§f!\n§e[NPC] §aRezzus§f: If you take your slice of cake and feed it to a member of that team, you'll both get some §6rewards§f, in addition to §9bonus Raffle Tickets§f!\n§e[NPC] §aRezzus§f: Here, I'll give you §b3 Raffle Tickets §fto get you started.\n§e[NPC] §aRezzus§f: You can get more tickets by eating cake and completing §bRaffle Tasks§f. Check out the §6Raffle Box §ffor more info on those!\n§6§lREZZUS GIFT! §eYou gained §b+3 Raffle Tickets§e!\n§e[NPC] §aRezzus§f: Tada!\n§e[NPC] §aRezzus§f: You can click on the §6Raffle Box §fnext to me or in your §aSkyBlock Menu §fto view your event progress.\n§e[NPC] §aRezzus§f: Oh, one last thing! The team that enters the most tickets into §c§lThe Big One §fwill receive a special §cmemento §fat the end of the event!\n§e[NPC] §aRezzus§f: Have fun! You can come speak to me again if you have any questions!",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Rezzus: The Big One, which is going to be drawn at the end of Year [year]!"
+    },
+    {
+      "id": "11563-number",
+      "queue_index": 11563,
+      "source": "[NPC] Rezzus: There was a big event in celebration of the SkyBlock Year 137.",
+      "template_source": "[NPC] Rezzus: There was a big event in celebration of the SkyBlock Year {value}.",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] §aRezzus§f: There was a big event in celebration of the §bSkyBlock Year {value}§f."
+      ],
+      "layouts": [
+        "§e[NPC] §aRezzus§f: There was a big event in celebration of the §bSkyBlock Year 137§f."
+      ],
+      "speaker": "Rezzus",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p100910-r811148-o4204-l2-f12682",
+            "block_id": "p100910-r811148-o4204",
+            "page": "Rezzus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+            "revision": 811148,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Rezzus",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Rezzus: There was a big event in celebration of the SkyBlock Year [year].",
+            "source_legacy_line": "§e[NPC] §aRezzus§f: There was a big event in celebration of the §bSkyBlock Year [year]§f.",
+            "payload_line": 2,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p100910-r811148-o4204",
+            "page": "Rezzus",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rezzus?oldid=811148",
+            "revision": 811148,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 4204,
+            "char_end": 4420,
+            "line_start": 79,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" |Missing the Raffle of the Century\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] &aRezzus&f: Hi!\n&e[NPC] &aRezzus&f: There was a big event in celebration of the &bSkyBlock Year [year]&f.\n&e[NPC] &aRezzus&f: It looks like you missed it, but maybe you'll catch the next event!\n}}",
+            "payload_raw": "\n&e[NPC] &aRezzus&f: Hi!\n&e[NPC] &aRezzus&f: There was a big event in celebration of the &bSkyBlock Year [year]&f.\n&e[NPC] &aRezzus&f: It looks like you missed it, but maybe you'll catch the next event!\n",
+            "provisional_legacy_text": "\n§e[NPC] §aRezzus§f: Hi!\n§e[NPC] §aRezzus§f: There was a big event in celebration of the §bSkyBlock Year [year]§f.\n§e[NPC] §aRezzus§f: It looks like you missed it, but maybe you'll catch the next event!\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Rezzus: There was a big event in celebration of the SkyBlock Year [year]."
+    },
+    {
+      "id": "13010-number",
+      "queue_index": 13010,
+      "source": "[NPC] Simon: SkyBlock is turning 137 years old today!",
+      "template_source": "[NPC] Simon: SkyBlock is turning {value} years old today!",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] Simon: §fSkyBlock is turning §e{value} years §fold today!"
+      ],
+      "layouts": [
+        "§e[NPC] Simon: §fSkyBlock is turning §e137 years §fold today!"
+      ],
+      "speaker": "Simon",
+      "kind": "integer",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Simon?oldid=790660",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p45423-r790660-o6986-l2-f14272",
+            "block_id": "p45423-r790660-o6986",
+            "page": "Simon",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Simon?oldid=790660",
+            "revision": 790660,
+            "headings": [
+              "Dialogue",
+              "Removed"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Simon",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Simon: SkyBlock is turning [#] years old today!",
+            "source_legacy_line": "§e[NPC] Simon: §fSkyBlock is turning §e[#] years §fold today!",
+            "payload_line": 2,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p45423-r790660-o6986",
+            "page": "Simon",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Simon?oldid=790660",
+            "revision": 790660,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 6986,
+            "char_end": 7174,
+            "line_start": 173,
+            "headings": [
+              "Dialogue",
+              "Removed"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n|rowspan=\"5\"|5th Anniversary\n|First Interaction\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] Simon: &fIt's time for celebration!\n&e[NPC] Simon: &fSkyBlock is turning &e[#] years &fold today!\n&e[NPC] Simon&f: Time sure flies when you're grinding SkyBlock, eh?\n}}",
+            "payload_raw": "\n&e[NPC] Simon: &fIt's time for celebration!\n&e[NPC] Simon: &fSkyBlock is turning &e[#] years &fold today!\n&e[NPC] Simon&f: Time sure flies when you're grinding SkyBlock, eh?\n",
+            "provisional_legacy_text": "\n§e[NPC] Simon: §fIt's time for celebration!\n§e[NPC] Simon: §fSkyBlock is turning §e[#] years §fold today!\n§e[NPC] Simon§f: Time sure flies when you're grinding SkyBlock, eh?\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Simon: SkyBlock is turning [#] years old today!"
+    },
+    {
+      "id": "14754-number",
+      "queue_index": 14754,
+      "source": "[NPC] Tia the Fairy: You are currently missing 137 Fairy Souls. Better get to work!",
+      "template_source": "[NPC] Tia the Fairy: You are currently missing {value} Fairy Souls. Better get to work!",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] §9Tia the Fairy§f: You are currently missing §d{value} §fFairy Souls. Better get to work!"
+      ],
+      "layouts": [
+        "§e[NPC] §9Tia the Fairy§f: You are currently missing §d137 §fFairy Souls. Better get to work!"
+      ],
+      "speaker": "Tia the Fairy",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tia_the_Fairy?oldid=858896",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p71185-r858896-o7138-l0-f16140",
+            "block_id": "p71185-r858896-o7138",
+            "page": "Tia the Fairy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tia_the_Fairy?oldid=858896",
+            "revision": 858896,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Tia the Fairy",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Tia the Fairy: You are currently missing [#] Fairy Souls. Better get to work!",
+            "source_legacy_line": "§e[NPC] §9Tia the Fairy§f: You are currently missing §d[#] §fFairy Souls. Better get to work!",
+            "payload_line": 0,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p71185-r858896-o7138",
+            "page": "Tia the Fairy",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tia_the_Fairy?oldid=858896",
+            "revision": 858896,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 7138,
+            "char_end": 7244,
+            "line_start": 111,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" rowspan=\"4\" | {{Zone|The Garden}}\n| class=\"ct\" | None<br>{{DG|Missing Fairy Souls}}\n| ",
+            "template_options": {},
+            "template_raw": "{{Dialogue|&e[NPC] &9Tia the Fairy&f: You are currently missing &d[#] &fFairy Souls. Better get to work!}}",
+            "payload_raw": "&e[NPC] &9Tia the Fairy&f: You are currently missing &d[#] &fFairy Souls. Better get to work!",
+            "provisional_legacy_text": "§e[NPC] §9Tia the Fairy§f: You are currently missing §d[#] §fFairy Souls. Better get to work!",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Tia the Fairy: You are currently missing [#] Fairy Souls. Better get to work!"
+    },
+    {
+      "id": "14869-number",
+      "queue_index": 14869,
+      "source": "[NPC] Trevor: Try coming back in 137s!",
+      "template_source": "[NPC] Trevor: Try coming back in {value}s!",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] Trevor§f: Try coming back in §a{value}s§f!"
+      ],
+      "layouts": [
+        "§e[NPC] Trevor§f: Try coming back in §a137s§f!"
+      ],
+      "speaker": "Trevor",
+      "kind": "integer",
+      "archival": false,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trevor?oldid=843181",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p79472-r843181-o1107-l2-f16262",
+            "block_id": "p79472-r843181-o1107",
+            "page": "Trevor",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trevor?oldid=843181",
+            "revision": 843181,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Trevor",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Trevor: Try coming back in [#]s!",
+            "source_legacy_line": "§e[NPC] Trevor§f: Try coming back in §a[#]s§f!",
+            "payload_line": 2,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p79472-r843181-o1107",
+            "page": "Trevor",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trevor?oldid=843181",
+            "revision": 843181,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 1107,
+            "char_end": 1234,
+            "line_start": 31,
+            "headings": [
+              "Dialogue"
+            ],
+            "historical_heading": false,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" | On Cooldown\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] Trevor&f: Sorry I don't have any animals for you to hunt.\n&e[NPC] Trevor&f: Try coming back in &a[#]s&f!\n}}",
+            "payload_raw": "\n&e[NPC] Trevor&f: Sorry I don't have any animals for you to hunt.\n&e[NPC] Trevor&f: Try coming back in &a[#]s&f!\n",
+            "provisional_legacy_text": "\n§e[NPC] Trevor§f: Sorry I don't have any animals for you to hunt.\n§e[NPC] Trevor§f: Try coming back in §a[#]s§f!\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Trevor: Try coming back in [#]s!"
+    },
+    {
+      "id": "15896-number",
+      "queue_index": 15896,
+      "source": "[NPC] Wizard: Attempt number 137 of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?",
+      "template_source": "[NPC] Wizard: Attempt number {value} of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?",
+      "probe_value": "137",
+      "template_layouts": [
+        "§e[NPC] §aWizard§f: Attempt number §b{value}§f of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?"
+      ],
+      "layouts": [
+        "§e[NPC] §aWizard§f: Attempt number §b137§f of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?"
+      ],
+      "speaker": "Wizard",
+      "kind": "integer",
+      "archival": true,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": [
+        {
+          "occurrence": {
+            "occurrence_id": "p14052-r815348-o10372-l2-f17649",
+            "block_id": "p14052-r815348-o10372",
+            "page": "Wizard",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+            "revision": 815348,
+            "headings": [
+              "Dialogue",
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "tag": "NPC",
+            "speaker": "Wizard",
+            "kind": "tagged_dialogue",
+            "source_kind": "Dialogue_template",
+            "source": "[NPC] Wizard: Attempt number # of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?",
+            "source_legacy_line": "§e[NPC] §aWizard§f: Attempt number §b#§f of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?",
+            "payload_line": 2,
+            "status": "needs_translation_review",
+            "variable_definition": false,
+            "nonstandard_tag_layout": false,
+            "unresolved_markup": false,
+            "existing_resources": [],
+            "translation_ru": ""
+          },
+          "block": {
+            "block_id": "p14052-r815348-o10372",
+            "page": "Wizard",
+            "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+            "revision": 815348,
+            "coordinate_space": "expanded_source_pages.jsonl",
+            "shared_dialogue_revisions": {},
+            "char_start": 10372,
+            "char_end": 10620,
+            "line_start": 224,
+            "headings": [
+              "Dialogue",
+              "Removed Dialogue"
+            ],
+            "historical_heading": true,
+            "alpha_page": false,
+            "condition_context_raw": "|-\n| class=\"ct\" | {{Zone|The Garden}} <br> {{DG|Before 0.19 Update}}\n|",
+            "template_options": {},
+            "template_raw": "{{Dialogue|\n&e[NPC] &aWizard&f: Where am I? Oh, it's you &7[player]&f.\n&e[NPC] &aWizard&f: Attempt number &b#&f of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?\n}}",
+            "payload_raw": "\n&e[NPC] &aWizard&f: Where am I? Oh, it's you &7[player]&f.\n&e[NPC] &aWizard&f: Attempt number &b#&f of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?\n",
+            "provisional_legacy_text": "\n§e[NPC] §aWizard§f: Where am I? Oh, it's you §7[player]§f.\n§e[NPC] §aWizard§f: Attempt number §b#§f of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?\n",
+            "unresolved_markup": false
+          },
+          "transformation": "exact published line"
+        }
+      ],
+      "queue_source": "[NPC] Wizard: Attempt number # of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "1946",
+      "reason": "extra published leading space;runtime guard retained",
+      "block": {
+        "block_id": "p104809-r858838-o2108",
+        "page": "Brynmor",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Brynmor?oldid=858838",
+        "revision": 858838,
+        "coordinate_space": "expanded_source_pages.jsonl",
+        "shared_dialogue_revisions": {},
+        "char_start": 2108,
+        "char_end": 2312,
+        "line_start": 56,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "condition_context_raw": "|-\n| class=\"ct\" | Selecting {{Rmt|&a[GIVE ITEM]}} without {{Item|Speckled Teacup}}\n|",
+        "template_options": {},
+        "template_raw": "{{Dialogue|\n&e[NPC] &6Brynmor&f: &b✆ &fYou don't have my beloved &cSpeckled Teacup...\n&e &e[NPC] &6Brynmor&f: It's definitely still floating about in the waters of the &2Abandoned Quarry&f somewhere...\n}}",
+        "payload_raw": "\n&e[NPC] &6Brynmor&f: &b✆ &fYou don't have my beloved &cSpeckled Teacup...\n&e &e[NPC] &6Brynmor&f: It's definitely still floating about in the waters of the &2Abandoned Quarry&f somewhere...\n",
+        "provisional_legacy_text": "\n§e[NPC] §6Brynmor§f: §b✆ §fYou don't have my beloved §cSpeckled Teacup...\n§e §e[NPC] §6Brynmor§f: It's definitely still floating about in the waters of the §2Abandoned Quarry§f somewhere...\n",
+        "unresolved_markup": false
+      }
+    },
+    {
+      "id": "7438",
+      "reason": "malformed &! publication formatting;not silently repaired",
+      "block": {
+        "block_id": "p15607-r852321-o13048",
+        "page": "Hub Villagers",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+        "revision": 852321,
+        "coordinate_space": "expanded_source_pages.jsonl",
+        "shared_dialogue_revisions": {},
+        "char_start": 13048,
+        "char_end": 13274,
+        "line_start": 316,
+        "headings": [
+          "Removed Dialogue"
+        ],
+        "historical_heading": true,
+        "alpha_page": false,
+        "condition_context_raw": "|-\n| rowspan=\"3\" class=\"ct\" | Vex\n| class=\"ct\" | Welcome\n|",
+        "template_options": {},
+        "template_raw": "{{Dialogue|&e[NPC] Vex&f: You can shift click any player to trade with them!/&e[NPC] Vex&f: Once both players are ready to trade, click on &aAccept trade&!/&e[NPC] Vex&f: Make sure you don't give away all of your belongings!}}",
+        "payload_raw": "&e[NPC] Vex&f: You can shift click any player to trade with them!/&e[NPC] Vex&f: Once both players are ready to trade, click on &aAccept trade&!/&e[NPC] Vex&f: Make sure you don't give away all of your belongings!",
+        "provisional_legacy_text": "§e[NPC] Vex§f: You can shift click any player to trade with them!/§e[NPC] Vex§f: Once both players are ready to trade, click on §aAccept trade&!/§e[NPC] Vex§f: Make sure you don't give away all of your belongings!",
+        "unresolved_markup": false
+      }
+    },
+    {
+      "id": "14440",
+      "reason": "nonstandard no-space prefix and obfuscated tag;not silently normalized",
+      "block": {
+        "block_id": "p92612-r719698-o5092",
+        "page": "The Lost Adventurer",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/The_Lost_Adventurer?oldid=719698",
+        "revision": 719698,
+        "coordinate_space": "expanded_source_pages.jsonl",
+        "shared_dialogue_revisions": {},
+        "char_start": 5092,
+        "char_end": 5671,
+        "line_start": 100,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": true,
+        "alpha_page": false,
+        "condition_context_raw": "|-\n| class=\"ct\" | Selecting {{Rmt|&5[The End Island]}}\n|",
+        "template_options": {},
+        "template_raw": "{{Dialogue|\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: I would like to start growing stronger by killing some of those spiders.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: But I've always hated flying through the air.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: I've heard stepping on those launch pads will send me flying.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d:It sends shivers down my spine.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: I think I am just going to have to learn a different way over there.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: Have you heard of anything I can use?\n}}",
+        "payload_raw": "\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: I would like to start growing stronger by killing some of those spiders.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: But I've always hated flying through the air.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: I've heard stepping on those launch pads will send me flying.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d:It sends shivers down my spine.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: I think I am just going to have to learn a different way over there.\n&5&l[&kNPC&5&l] &5The Lost Adventurer&d: Have you heard of anything I can use?\n",
+        "provisional_legacy_text": "\n§5§l[§kNPC§5§l] §5The Lost Adventurer§d: I would like to start growing stronger by killing some of those spiders.\n§5§l[§kNPC§5§l] §5The Lost Adventurer§d: But I've always hated flying through the air.\n§5§l[§kNPC§5§l] §5The Lost Adventurer§d: I've heard stepping on those launch pads will send me flying.\n§5§l[§kNPC§5§l] §5The Lost Adventurer§d:It sends shivers down my spine.\n§5§l[§kNPC§5§l] §5The Lost Adventurer§d: I think I am just going to have to learn a different way over there.\n§5§l[§kNPC§5§l] §5The Lost Adventurer§d: Have you heard of anything I can use?\n",
+        "unresolved_markup": false
+      }
+    }
+  ],
+  "scope": "Derived review view. Frozen corpus stays byte-identical. Archival sources explicitly labelled;not all current server scripts."
+}

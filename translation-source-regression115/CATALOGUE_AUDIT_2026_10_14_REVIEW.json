@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-14",
+  "kind": "Review only; no runtime translation changes or new JAR",
+  "runtime_version": "0.15.62-dev",
+  "runtime_jar_sha256": "07D7632DD8C5772E1E54BCEF0A8E9B882BA87F30E1AB7569686224CDEFBAC4C3",
+  "source_commit": "a225a02217776299ab3fb5cf5d9c0b155c4fc445",
+  "catalogue_sha256": "38FBA44F6D2843C3E31B4A682660553CA51C35D40B663DB1F4B4D725B7AD69A6",
+  "audit_items_sha256": "B58F4B063CD6421459EBC3EBA842D65340081B522D2128F704048BA91F976267",
+  "manual_review_scope": "Names of all156 enchantment families and source/target representatives of all195 normalized effect shapes read for missing English and language problems; all767 level cards scanned mechanically. This is not a full per-card semantic color or live-state certificate. All8937 item descriptions have NOT each been manually proofread.",
+  "manually_screened_enchantment_families": 156,
+  "manually_screened_normalized_effect_shapes": 195,
+  "core_effect_mixed_language_cards_component": 385,
+  "core_effect_mixed_language_cards_either_render_path": 401,
+  "families_with_core_mixed_language_in_at_least_one_level": 94,
+  "further_clear_grammar_examples": {
+    "ANGLER": "Морское существо / Шанс вместо связного названия характеристики.",
+    "DELICATE": "молодые / урожая: неверная связь слов, речь о молодых культурах.",
+    "FORTUNE": "шахтёрской / Удача; в Sequence дополнительно остаётся английский текст.",
+    "HARVESTING": "фермерской / Удача; в Sequence дополнительно остаётся английский текст.",
+    "SUNDER": "фермерской / Удача; в Sequence дополнительно остаётся английский текст.",
+    "KNOCKBACK": "Для3 блоков нужна форма блока; не все уровни имеют одну и ту же грамматическую ошибку.",
+    "PUNCH": "Для3 блоков нужна форма блока; не все уровни имеют одну и ту же грамматическую ошибку."
+  },
+  "confirmed_numeric_issue": {
+    "id": "FINNEGAN_MAYOR_MONSTER",
+    "finding": "Лишнее повторное20% в конце Blooming Business; число20 появляется три раза вместо двух во всей карточке. Это ошибка отображаемого перевода, не изменение игровой механики.",
+    "cause": "Отдельная строка likely to show up. имеет контекстно неверный перевод с жёстко заданными20% в continuation.tsv и catalogue.tsv."
+  },
+  "explained_numeric_flags": {
+    "ultimate_book_footer_cards": 116,
+    "reason": "1 Ultimate переведено словами как только одно; остальные числа и их стили проверены отдельно.",
+    "boss_card": "NECRON_BOSS",
+    "boss_reason": "7→VII и порядковые номера фаз→русские слова; статистики после абзаца сохранены."
+  },
+  "render_path_differences": {"all_cards": 31, "whitespace_only": 5, "substantive_text": 26},
+  "title_format_differences": {
+    "raw": 460,
+    "pet_template_false_alarms_checked_at_synthetic_level100": 325,
+    "synthetic_level100_remaining_differences": 0,
+    "trophy_grade_title_differences": 120,
+    "other_title_differences": 15,
+    "other_capitalization_only": ["QUEST_COOKIE", "SKYBLOCK_MENU"],
+    "fully_unchanged_color_blocked_titles_with_existing_uniform_translation": ["AXE_RAINBOW_RUNE;3", "CAKE_SOUL", "RAINBOW_CARPET_RUNE;3", "RAINBOW_RUNE;1", "RAINBOW_RUNE;2", "RAINBOW_RUNE;3", "SPOOKY_PIE", "TIDAL_RUNE;1", "TIDAL_RUNE;2", "TIDAL_RUNE;3"]
+  },
+  "upstream_data_caveats": ["Official API names include template placeholders, developer/internal items, and entries without a matching lore card; do not equate its5680 rows with all obtainable live items.", "API SAPPHIRE_CRYSTAL is spelled Saphhire Crystal; FIRE_PROTECTION;7 has ire and lava. in the public source. Source typos are not automatically Russian translation errors.", "Reversed Mirrorverse titles, brand/proper names and retained English rarity labels need a policy decision, not blind replacement."],
+  "all_item_descriptions_manually_proofread": false,
+  "all_live_variants_known": false,
+  "all_color_semantics_manually_verified": false,
+  "new_or_removed_effective_style_sets": 0,
+  "game_started": false,
+  "installed_modpack_modified": false,
+  "new_jar_delivered": false
+}

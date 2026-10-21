@@ -1,0 +1,21 @@
+NPC dialogue expansion 0.15.88-dev
+
+Original English publication: Hypixel SkyBlock Wiki contributors.
+Source: https://hypixelskyblock.minecraft.wiki/
+License: Creative Commons Attribution-NonCommercial-ShareAlike 3.0.
+License text: https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+691 Russian literal translations with authored semantic colour anchors;
+48 ordered choice groups/54 label slots, one readable item title and one
+independently reviewed raw-source extraction repair are counted separately.
+Two additional variable player-name sentences were checked against user
+screenshots and these full-page revisions:
+https://hypixelskyblock.minecraft.wiki/w/Beth?oldid=823113
+https://hypixelskyblock.minecraft.wiki/w/Jake?oldid=859359
+Per-record revision URLs are embedded in npc-expansion88.json and
+npc-raw-repairs88.json. Full pages,conditions,blocks and all occurrences are
+preserved in NPC_SOURCES_0.15.88.json and companion package records.
+
+The immutable public corpus remains unchanged. Two old Sirius notification
+translations were retained instead of adding redundant new keys. Archive
+event dialogue and unpublished mechanics do not certify current live access.

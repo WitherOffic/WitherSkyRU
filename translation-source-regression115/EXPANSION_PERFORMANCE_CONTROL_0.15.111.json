@@ -1,0 +1,19 @@
+{
+  "selection": "Same15 equal-output controls and same3 long controls as110,declared before111 results.",
+  "long_modes": [
+    "existing_dynamic",
+    "unknown_system_notifications",
+    "retained_cosmetic_notifications"
+  ],
+  "order": [
+    "110",
+    "111",
+    "111",
+    "110"
+  ],
+  "long_warmup_at_least": 1000000,
+  "long_rounds": 4,
+  "long_calls_per_round_at_least": 1000000,
+  "scope": "Receipt only,not FPS/frametimes/0.1% lows.",
+  "retain_all_raw": true
+}

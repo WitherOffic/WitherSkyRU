@@ -1,0 +1,512 @@
+{
+  "pages": [
+    {
+      "without_exact_registration": [
+        "[NPC] Baker: \"Use better minion fuel\"? But... what could possibly be better than Enchanted Bread?.",
+        "[NPC] Baker: At the end of each year I bake cakes for everyone in town to celebrate the year.",
+        "[NPC] Baker: I made one especially for you, here you go.",
+        "[NPC] Baker: My Wheat Minions produce the finest flour around, but they can't keep up with today's demand...",
+        "[NPC] Baker: Wondering where to store your cakes? You can buy a New Year Cake Bag from me. Click me again to open my shop!"
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Baker",
+      "published_variable_definitions": [
+        "[NPC] Baker: That should do it! Thanks for your help, <player>."
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Baker",
+      "published_literal_candidates": 5,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Bingo: At the end of the event, your Bingo profile will be deleted.",
+        "[NPC] Bingo: But don't fret, all of the Bingo Points you earn during the event will stick around!",
+        "[NPC] Bingo: Check out the Bingo Shop to spend Bingo Points while supplies last!",
+        "[NPC] Bingo: Complete personal tasks and work towards Community Goals to earn Bingo Points.",
+        "[NPC] Bingo: I will stick around for a bit longer, but then I'll be gone until next event at the start of the month!",
+        "[NPC] Bingo: If you join, you have 7 days to complete as many tasks as you can on a fresh, temporary profile!",
+        "[NPC] Bingo: It's time to play SkyBlock Bingo!",
+        "[NPC] Bingo: You can spend these points in the Bingo Shop on any profile!",
+        "[NPC] Bingo: You have 7 days to complete as many tasks as you can on a fresh, temporary profile!"
+      ],
+      "ambiguous_excluded": [
+        "[NPC] Bingo: Good luck this week."
+      ],
+      "tag": "NPC",
+      "speaker": "Bingo",
+      "published_variable_definitions": [
+        "[NPC] Bingo: Check back soon to join the <month> <year> Bingo Event!",
+        "[NPC] Bingo: Welcome to the <month> <year> SkyBlock Bingo event!",
+        "[NPC] Bingo: The <month> <year> Bingo Event has concluded!"
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bingo_(NPC)",
+      "published_literal_candidates": 9,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Hoppity: ✆ Alright, maybe next time.",
+        "[NPC] Hoppity: ✆ Bring me a Fish Chocolat à la Vapeur and I'll give you my contact. Deal?",
+        "[NPC] Hoppity: ✆ Bring me that Fish...but in steamed form!",
+        "[NPC] Hoppity: ✆ I just got a new Chocolate Rabbit and was wondering if you wanted to buy it.",
+        "[NPC] Hoppity: ✆ If I ever get him, I'm making a meal out of him - a little payback for all that chocolate.",
+        "[NPC] Hoppity: ✆ If I have new rabbit arrivals, I'll let you know!",
+        "[NPC] Hoppity: ✆ Nice doing business with you.",
+        "[NPC] Hoppity: ✆ See you around!",
+        "[NPC] Hoppity: ✆ Thank you so much, here is my contact.",
+        "[NPC] Hoppity: ✆ There's this one Fish that keeps munching on my chocolate stash.",
+        "[NPC] Hoppity: ✆ Well, tell you what. Help me out with a little something and I'll hook you up.",
+        "[NPC] Hoppity: ✆ What? You want my Abiphone contact?",
+        "[NPC] Hoppity: Collect all the Rabbits I left in those eggs and I will let you use my factory!",
+        "[NPC] Hoppity: Happy egg hunting!",
+        "[NPC] Hoppity: Hello!!!",
+        "[NPC] Hoppity: Hoppity's Hunt is on, and I need a break! Got something sweet?",
+        "[NPC] Hoppity: I have a brand new marketing strategy, and every Spring season I will spread various Rabbit Eggs across the islands.",
+        "[NPC] Hoppity: I'm the proud owner of the Chocolate Factory!",
+        "[NPC] Hoppity: My Chocolate is the finest chocolate in the entire world.",
+        "[NPC] Hoppity: Oh...stingy, aren't we?",
+        "[NPC] Hoppity: Simply exquisite! I don't think I'll ever get tired of chocolate."
+      ],
+      "ambiguous_excluded": [
+        "[NPC] Hoppity: ✆ He's a clever one, that fish."
+      ],
+      "tag": "NPC",
+      "speaker": "Hoppity",
+      "published_variable_definitions": [
+        "[NPC] Hoppity: ✆ What's up, [PLAYER]?"
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity",
+      "published_literal_candidates": 21,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Fear Mongerer: ✆ But it's not your fault I suppose, here take my contact.",
+        "[NPC] Fear Mongerer: ✆ Call me back tonight or I'm blocking you.",
+        "[NPC] Fear Mongerer: ✆ If you give me 64 Purple Candy and 6 Ectoplasm, I might give you my contact.",
+        "[NPC] Fear Mongerer: ✆ Listen buddy it's not because I gave you my contact that it gives you the right to wake me up in the middle of the day.",
+        "[NPC] Fear Mongerer: ✆ Mhm... Your face just isn't very scary...",
+        "[NPC] Fear Mongerer: ✆ Well that's not possible, I'm only available at night.",
+        "[NPC] Fear Mongerer: ✆ You want to be able to call me anytime?",
+        "[NPC] Fear Mongerer: Click me again to open my shop.",
+        "[NPC] Fear Mongerer: During the Spooky Festival, you can collect Candy by killing mobs or fishing.",
+        "[NPC] Fear Mongerer: Each Spooky Festival, the top Candy-collecting players can earn even spookier rewards!",
+        "[NPC] Fear Mongerer: I accept Candy in exchange for exclusively spooky items!",
+        "[NPC] Fear Mongerer: May your destiny be ridded with fortune.",
+        "[NPC] Fear Mongerer: Mortal, the time of reckoning is near. The Past will light the future.",
+        "[NPC] Fear Mongerer: Soon."
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Fear Mongerer",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fear_Mongerer",
+      "published_literal_candidates": 14,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Carnival Leader: Aim for a high score by killing the pesky Zombies walking around the arena!",
+        "[NPC] Carnival Leader: Alright, you should be good to go!",
+        "[NPC] Carnival Leader: Alrighty.",
+        "[NPC] Carnival Leader: Any other questions?",
+        "[NPC] Carnival Leader: Behind me is Fruit Digging.",
+        "[NPC] Carnival Leader: By competing in Carnival games!",
+        "[NPC] Carnival Leader: Catch some fish and have a relaxing time!",
+        "[NPC] Carnival Leader: Currently, The Carnival offers 3 different games!",
+        "[NPC] Carnival Leader: Each day, I'll give you 25x Carnival Tickets, which will let you play the games.",
+        "[NPC] Carnival Leader: Each day, I'll give you 25x Carnival Tickets.",
+        "[NPC] Carnival Leader: Good luck, and have A Carnivalot of Fun™!",
+        "[NPC] Carnival Leader: Here, I'll give you some to start things off.",
+        "[NPC] Carnival Leader: Here, you'll be able to partake in fun activities, earn Carnival Tokens, and purchase cool prizes!",
+        "[NPC] Carnival Leader: If you have any questions, come find me.",
+        "[NPC] Carnival Leader: It's A Carnivalot of Fun™!",
+        "[NPC] Carnival Leader: It's a new day, which means you get more Carnival Tickets!",
+        "[NPC] Carnival Leader: Lastly, there's Catch a Fish, located by the mountain pond.",
+        "[NPC] Carnival Leader: Oh, that's easy!",
+        "[NPC] Carnival Leader: Over there is Zombie Shootout.",
+        "[NPC] Carnival Leader: Remember, if you have any questions, I'll be right here.",
+        "[NPC] Carnival Leader: Try your luck in this sand-flinging adventure and win big!",
+        "[NPC] Carnival Leader: Why, at the orange stand right over there!",
+        "[NPC] Carnival Leader: You can exchange your Tokens for permanent buffs in different Events throughout SkyBlock, as well as some fun masks to play around with.",
+        "[NPC] Carnival Leader: You'll also gain Carnival Tickets for participating in different Events!",
+        "[NPC] Carnival Leader: You'll be awarded 1 Token for every 100 points you earn."
+      ],
+      "ambiguous_excluded": [
+        "[NPC] Carnival Leader: Welcome to The Carnival, player!",
+        "[NPC] Carnival Leader: Welcome to The Carnival, player!"
+      ],
+      "tag": "NPC",
+      "speaker": "Carnival Leader",
+      "published_variable_definitions": [
+        "[NPC] Carnival Leader: Nice to see you here again, <player>!"
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader",
+      "published_literal_candidates": 26,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": [
+        "[NPC] Carnival Leader: You've already claimed your Carnival Tickets for today, but I'm happy to answer any questions you might have."
+      ]
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Carnival Fisherman: Alas, not everyone can appreciate the art of fishing...",
+        "[NPC] Carnival Fisherman: Anyways, the rules of the game are as follows:",
+        "[NPC] Carnival Fisherman: Are you here to play?",
+        "[NPC] Carnival Fisherman: Aww, the Carnival is closing for the year now. There's always a next time!",
+        "[NPC] Carnival Fisherman: Each type of fish has a different color and point value.",
+        "[NPC] Carnival Fisherman: Good luck, friend!",
+        "[NPC] Carnival Fisherman: I'll be waiting here if you change your mind again.",
+        "[NPC] Carnival Fisherman: I'll be waiting here if you change your mind.",
+        "[NPC] Carnival Fisherman: Maybe next time.",
+        "[NPC] Carnival Fisherman: Mayor Foxy graciously allowed me to use this pond for my attraction.",
+        "[NPC] Carnival Fisherman: Of course!",
+        "[NPC] Carnival Fisherman: So, interested in playing?",
+        "[NPC] Carnival Fisherman: Sorry friend, but it looks like you don't have the 5x Carnival Tickets required to play...",
+        "[NPC] Carnival Fisherman: This server's as slow as reeling in a heavy catch, can't play the game like this. Sorry, friend!",
+        "[NPC] Carnival Fisherman: Try to catch as many as you can before the time runs out.",
+        "[NPC] Carnival Fisherman: Welcome to Catch a Fish, friend!",
+        "[NPC] Carnival Fisherman: Well, here goes...",
+        "[NPC] Carnival Fisherman: Would you like to play?",
+        "[NPC] Carnival Fisherman: You will be given 100s to catch some fish with a fishing rod I will provide you."
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Carnival Fisherman",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Fisherman",
+      "published_literal_candidates": 19,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Carnival Cowboy: Are ya ready to play now?",
+        "[NPC] Carnival Cowboy: Aw shucks, the Carnival is about to close! Hope to see yer next time.",
+        "[NPC] Carnival Cowboy: Guess we'll have to save it fer later.",
+        "[NPC] Carnival Cowboy: Howdy there, partner!",
+        "[NPC] Carnival Cowboy: I give ya a fancy lil' dart stick, you shoot sum Zombies!",
+        "[NPC] Carnival Cowboy: I won't keep ya, then.",
+        "[NPC] Carnival Cowboy: Interested in playin' Zombie Shootout, are ya?",
+        "[NPC] Carnival Cowboy: Sorry pal, but ya need 5x Carnival Tickets to play!",
+        "[NPC] Carnival Cowboy: Stop wasting my time then, will ya?",
+        "[NPC] Carnival Cowboy: That all make sense to ya?",
+        "[NPC] Carnival Cowboy: Them rules are quite easy to get the hang of.",
+        "[NPC] Carnival Cowboy: There'll also be sum Redstone Lamps aroun' the arena that can be shot fer points when they light up!",
+        "[NPC] Carnival Cowboy: This server's draggin' like a tired old mule, can't wrangle this game right now. Sorry, partner!",
+        "[NPC] Carnival Cowboy: Well, gosh darn it!",
+        "[NPC] Carnival Cowboy: Wouldja like to play Zombie Shootout?",
+        "[NPC] Carnival Cowboy: Ye'll get more score based on what armor the Zombie.",
+        "[NPC] Carnival Cowboy: Ye'll get more score based on what armor the Zombie's wearin'."
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Carnival Cowboy",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Cowboy",
+      "published_literal_candidates": 18,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": [
+        "[NPC] Carnival Cowboy: Good luck, pal!"
+      ]
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Carnival Pirateman: A swashbucklin' shame, if ye ask me...",
+        "[NPC] Carnival Pirateman: Ahoy there, matey!",
+        "[NPC] Carnival Pirateman: Arrr, this server be slower than a sea turtle in a storm! No chance we be playin' this game, matey. Sorry!",
+        "[NPC] Carnival Pirateman: Blimey! The Carnival is about to close. Ye'll gotta come back next time.",
+        "[NPC] Carnival Pirateman: Here's yer shovel, then.",
+        "[NPC] Carnival Pirateman: It might all sound a little confusin', but I bet ye'll get the hang of it if ye give it a try.",
+        "[NPC] Carnival Pirateman: Sorry lad, but ye don't have 5x Carnival Tickets. Ye gotta pay to play!",
+        "[NPC] Carnival Pirateman: The rules are as follows - I give ye a shovel, ye dig up the sand on the lookout fer fruit!",
+        "[NPC] Carnival Pirateman: The rules of the game are as follows - I give ye a shovel, ye dig up the sand on the lookout fer fruit!",
+        "[NPC] Carnival Pirateman: There's a bunch o' different fruits, each with differin' point values and abilities.",
+        "[NPC] Carnival Pirateman: Welcome to Fruit Digging, matey!",
+        "[NPC] Carnival Pirateman: What do ye say?",
+        "[NPC] Carnival Pirateman: Whenever ye be ready, I'll be waitin'",
+        "[NPC] Carnival Pirateman: With that said, are ye ready to play?",
+        "[NPC] Carnival Pirateman: Would ye like to do some Fruit Digging?",
+        "[NPC] Carnival Pirateman: Ye can RIGHT CLICK with yer shovel to swap between dowsing modes, which give ye a little info every time ye dig!",
+        "[NPC] Carnival Pirateman: Ye'll have to get yer nutrients elsewhere.",
+        "[NPC] Carnival Pirateman: Yer supposed to use that info to avoid them bombs and pick the best blocks to mine."
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Carnival Pirateman",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Pirateman",
+      "published_literal_candidates": 19,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": [
+        "[NPC] Carnival Pirateman: Good luck, matey!"
+      ]
+    },
+    {
+      "without_exact_registration": [
+        "[SECURITY] Sloth: Downloading suspicious mods or visiting untrusted discord servers can put your account at risk. It is up to you to keep your account secure!"
+      ],
+      "ambiguous_excluded": [
+        "[SECURITY] Sloth: Here are some helpful support articles that will help you keep your account more secure and avoid losing valuable progress or items. ‎General Security Support Article CLICK HERE SkyBlock Security Support Article CLICK HERE"
+      ],
+      "tag": "SECURITY",
+      "speaker": "Sloth",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Security_Sloth",
+      "published_literal_candidates": 1,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Oringo: ✆ Great! Silent Pearls can be pretty useful sometimes.",
+        "[NPC] Oringo: ✆ Hi! Check back later for information on the next Traveling Zoo!",
+        "[NPC] Oringo: ✆ I travel a lot and I'm running quite low on Silent Pearl.",
+        "[NPC] Oringo: ✆ If you bring me 64 of them, I'll give you my contact.",
+        "[NPC] Oringo: ✆ My contact?!",
+        "[NPC] Oringo: ✆ The Traveling Zoo has arrived! Here are my offerings this year:",
+        "[NPC] Oringo: ✆ What an unusual request!",
+        "[NPC] Oringo: Oh, you're out of wheat? Alright, I'll come back later then."
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Oringo",
+      "published_variable_definitions": [
+        "[NPC] Oringo: ✆ • <pet> Pet",
+        "[NPC] Oringo: ✆ • <pet> Pet",
+        "[NPC] Oringo: ✆ • <pet> Pet"
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Oringo",
+      "published_literal_candidates": 10,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": [
+        "[NPC] Oringo: Hey, you got some wheat for my pets by any chance? Gotta keep those little monsters fed, haha!",
+        "[NPC] Oringo: You know how it is, they never stop eating haha, thank you very much!"
+      ]
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Librarian: Greetings! Welcome to the Library!",
+        "[NPC] Librarian: The Library is your one-stop shop for all things enchanting. Enchant items, purchase Enchanted Books, and more!",
+        "[NPC] Librarian: Use the Enchantment Table to enchant an item!",
+        "[NPC] Librarian: You can enchant items by clicking any Enchantment Table. Enchanting costs experience levels - the more levels you spend, the better enchantments you will receive."
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Librarian",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian",
+      "published_literal_candidates": 7,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": [
+        "[NPC] Librarian: Greetings! I've been running low on paper recently for my Enchanted Books, could you bring me some Sugar Cane?",
+        "[NPC] Librarian: I'll be sure to make some Enchanted Books out of these, I hope you come around some day!",
+        "[NPC] Librarian: Very unfortunate, I really needed that paper..."
+      ]
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Blacksmith: ✆ But maybe... If you do something for me.",
+        "[NPC] Blacksmith: ✆ Don't ask me how I got into this situation.",
+        "[NPC] Blacksmith: ✆ I owe them 32M coins.",
+        "[NPC] Blacksmith: ✆ I swear I wont get in that trouble again!",
+        "[NPC] Blacksmith: ✆ If you help me, I'll allow you to use my services from anywhere.",
+        "[NPC] Blacksmith: ✆ No for sure, for sure. That would be too much.",
+        "[NPC] Blacksmith: ✆ No, no absolutely not.",
+        "[NPC] Blacksmith: ✆ Nonono, not happening.",
+        "[NPC] Blacksmith: ✆ Unless? Hmm, lemme think about it.",
+        "[NPC] Blacksmith: ✆ Well... Actually...",
+        "[NPC] Blacksmith: ✆ You are a lifesaver.",
+        "[NPC] Blacksmith: ✆ You want my contact?",
+        "[NPC] Blacksmith: Ahh, excellent!",
+        "[NPC] Blacksmith: Go into the Mine to collect Coal, then come back to learn how to reforge items!",
+        "[NPC] Blacksmith: However, this time I will reforge any item for the low price of Coal x10!",
+        "[NPC] Blacksmith: I will teach you how to reforge items once you mine some more Coal!",
+        "[NPC] Blacksmith: I'm the town Blacksmith! I can reforge items for you, for a price.",
+        "[NPC] Blacksmith: Mine some more Coal in the Mine!",
+        "[NPC] Blacksmith: Reach Mining Level I to gain access to the Gold Mine, north of the Coal Mine.",
+        "[NPC] Blacksmith: Reforging items allows you to get the most out of your weapons, armor, and other items by applying stat modifiers to them!",
+        "[NPC] Blacksmith: Reforging usually costs Coins, but since I'm feeling friendly I can reforge your first item for Coal x10.",
+        "[NPC] Blacksmith: The Gold Mine is more dangerous than the Coal Mine, but it has better ores and treasures!",
+        "[NPC] Blacksmith: To reforge an item, place an item in my inventory. Reforging costs Coins - the more prestigious items cost more to reforge!",
+        "[NPC] Blacksmith: Travel to the Gold Mine to spelunk for better ores, including iron and gold!"
+      ],
+      "ambiguous_excluded": [
+        "[NPC] Blacksmith: ✆ I owe a lot of money to someone..."
+      ],
+      "tag": "NPC",
+      "speaker": "Blacksmith",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith",
+      "published_literal_candidates": 24,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Rusty: ✆ Did I find an Abiphone?",
+        "[NPC] Rusty: ✆ I don't... don't know what to say...",
+        "[NPC] Rusty: ✆ I...",
+        "[NPC] Rusty: ✆ Me?",
+        "[NPC] Rusty: ✆ The janitor?",
+        "[NPC] Rusty: ✆ What?",
+        "[NPC] Rusty: ✆ Yes of course you can have it!",
+        "[NPC] Rusty: ✆ Yes, sometimes I do find one lying around.",
+        "[NPC] Rusty: ✆ You want my contact?",
+        "[NPC] Rusty: ✆ You...",
+        "[NPC] Rusty: Click me again!",
+        "[NPC] Rusty: Hi, I'm the janitor of this mine.",
+        "[NPC] Rusty: I'll have to put it in my stores.",
+        "[NPC] Rusty: It drives me insane, but at least you unlocked Auto-pickup.",
+        "[NPC] Rusty: It drives me insane, but at least you'll unlock Auto-pickup at SkyBlock Level 6.",
+        "[NPC] Rusty: It makes my job a lot easier, but despite that, I still find so many items on the ground.",
+        "[NPC] Rusty: Maybe some of these items are yours? In which case I'll let you buy them back.",
+        "[NPC] Rusty: Maybe some of those items are yours? In which case I'll let you buy them back.",
+        "[NPC] Rusty: Turns out, if you want something done, you have to do it yourself.",
+        "[NPC] Rusty: You found the Lazy Miner's pickaxe!",
+        "[NPC] Rusty: You would not believe how many people leave ingots and stones behind them!"
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Rusty",
+      "published_variable_definitions": [
+        "[NPC] Rusty: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their [crop]. Can you find that for me?"
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty",
+      "published_literal_candidates": 22,
+      "historical_section_excluded": true,
+      "all_live_branches_verified": false,
+      "registered_before": [
+        "[NPC] Rusty: There we go, a job well done. I'll make sure to leave a good review for you!"
+      ]
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Frosty: Click me with a Snow Cannon, Snow Blaster, or Frosty the Howitzer to refill it!",
+        "[NPC] Frosty: I can refill it at any time for a modest price. Also feel free to check out my shop upstairs!",
+        "[NPC] Frosty: I noticed you don't have a Snow Cannon, would you like to buy another?",
+        "[NPC] Frosty: It holds and fires Snowballs, which are the best way to extinguish the enemy!",
+        "[NPC] Frosty: Welcome to the Jerry's Workshop.",
+        "[NPC] Frosty: When its time to deliver Gifts, Mount Jerry always erupts and the village is ravaged by heat-based enemies!"
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Frosty",
+      "published_variable_definitions": [
+        "[NPC] Frosty: It is up to you, [player], to help save the day."
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Frosty",
+      "published_literal_candidates": 7,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": [
+        "[NPC] Frosty: Here the Jerrys make and deliver Gifts to all of SkyBlock!"
+      ]
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] St. Jerry: ✆ \"I love the warmth of the Holidays despite the snow\"",
+        "[NPC] St. Jerry: ✆ But hey, merry season of the Jerry to you anyway!",
+        "[NPC] St. Jerry: ✆ Call me again next year!",
+        "[NPC] St. Jerry: ✆ Call me every year and I'll hand you a White Gift!",
+        "[NPC] St. Jerry: ✆ I really like you!",
+        "[NPC] St. Jerry: ✆ I sent a gift to your inventory! With love, St. Jerry.",
+        "[NPC] St. Jerry: ✆ If you want my contact, all you have to do is repeat this phrase exactly...",
+        "[NPC] St. Jerry: ✆ It's a really big Abiphone!",
+        "[NPC] St. Jerry: ✆ Of course I can add you as a contact!",
+        "[NPC] St. Jerry: ✆ That's grandiose!",
+        "[NPC] St. Jerry: Click someone with a Gift to give both you and them a Gift!",
+        "[NPC] St. Jerry: Come back next SkyBlock year to find more Gifts!",
+        "[NPC] St. Jerry: Did you know you can access your Bank from Jerry's Workshop? Check out the Bank in the center of the village!",
+        "[NPC] St. Jerry: Gifting others benefits both you and the other person!",
+        "[NPC] St. Jerry: Golly gee - I want to spread joy around the world, in the form of raw materials!",
+        "[NPC] St. Jerry: I see you've found some Gifts, but there are still many more in the village. Find the rest and come back for a reward!",
+        "[NPC] St. Jerry: Ice fishing is a great way to relax during the winter!",
+        "[NPC] St. Jerry: If you haven't already, be sure to give your other Gifts away to others. Giving Gifts benefits both you and the receiver!",
+        "[NPC] St. Jerry: Take this Green Gift! You'll hopefully find something nicer than what was in those White Gifts!",
+        "[NPC] St. Jerry: There are all sorts of icy creatures within the depths of Jerry Pond!",
+        "[NPC] St. Jerry: Without your help, I can only supply plain white gifts this holiday.",
+        "[NPC] St. Jerry: You can trade Gifts directly with others or randomly gift players on the island!",
+        "[NPC] St. Jerry: You found all of the Gifts!",
+        "[NPC] St. Jerry: You're so close! Find the last Gift and come back for a reward!",
+        "[NPC] St. Jerry: Your help has been the greatest gift of all."
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "St. Jerry",
+      "published_variable_definitions": [
+        "[NPC] St. Jerry: 'Tis the Season of Jerry, [player]!",
+        "[NPC] St. Jerry: You're getting there, [player]! Find the rest of the Gifts and come back for a reward!",
+        "[NPC] St. Jerry: You're so close! Find # more Gifts and come back to me!",
+        "[NPC] St. Jerry: ✆ I have # contacts on my Abiphone.",
+        "[NPC] St. Jerry: ✆ You've already recieved abbr>]<sup> a gift this year!"
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry",
+      "published_literal_candidates": 29,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": [
+        "[NPC] St. Jerry: You may have noticed some Gifts laying around.",
+        "[NPC] St. Jerry: Each SkyBlock year, I place them throughout the village to spread joy and good tidings.",
+        "[NPC] St. Jerry: Find them all and come back to me!",
+        "[NPC] St. Jerry: Find all of the Gifts around the village and come back to me!"
+      ]
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Chantelle: ...but it's just so we can track your stats and let you complete challenges for rewards!",
+        "[NPC] Chantelle: Don't think too hard about it.",
+        "[NPC] Chantelle: Ever feel like you're being watched?",
+        "[NPC] Chantelle: I like to press a flower for each place the Carnival stops at. Do you have any?",
+        "[NPC] Chantelle: Like your every action is being recorded and monitored?",
+        "[NPC] Chantelle: Oh, that's unfortunate. Maybe next time?",
+        "[NPC] Chantelle: Thank you! These smell amazing!",
+        "[NPC] Chantelle: Well, that sure is the case here at The Carnival..."
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Chantelle",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Chantelle",
+      "published_literal_candidates": 8,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    },
+    {
+      "without_exact_registration": [
+        "[NPC] Doug: As long as you have enough Carnival Tokens.",
+        "[NPC] Doug: Masks. Event buffs. An Accessory.",
+        "[NPC] Doug: They're yours, my friend.",
+        "[NPC] Doug: You want them?"
+      ],
+      "ambiguous_excluded": [],
+      "tag": "NPC",
+      "speaker": "Doug",
+      "published_variable_definitions": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Doug",
+      "published_literal_candidates": 4,
+      "historical_section_excluded": false,
+      "all_live_branches_verified": false,
+      "registered_before": []
+    }
+  ],
+  "scope": "17 bounded publication snapshots;exact resource presence is not dispatch/live proof"
+}

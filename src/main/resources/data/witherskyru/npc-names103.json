@@ -1,0 +1,4281 @@
+{
+  "schema": 1,
+  "capture": "one ASCII Minecraft username, 1..16 characters; no heads or arbitrary variables",
+  "templates": [
+    {
+      "prefix": "[NPC] Agatha: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Agatha: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Alan: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Alan: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Albert: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Albert: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Alchemist: ",
+      "before": {
+        "source": "There is a darkness in you, ",
+        "target": "В тебе таится тьма, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 28,
+            "text": "В тебе таится тьма, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Alchemist: There is a darkness in you, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Alchemist: ",
+      "before": {
+        "source": "Very good ",
+        "target": "Очень хорошо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 10,
+            "text": "Очень хорошо, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Alchemist: Very good {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Alda: ",
+      "before": {
+        "source": "Welcome to Abiphones & Co., ",
+        "target": "Добро пожаловать в «Абифоны и Ко», ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Добро пожаловать в «"
+          },
+          {
+            "start": 11,
+            "end": 26,
+            "text": "Абифоны и Ко"
+          },
+          {
+            "start": 26,
+            "end": 28,
+            "text": "», "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Alda: Welcome to Abiphones & Co., {name}!",
+        "Abiphones & Co."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Alwin: ",
+      "before": {
+        "source": "Good tidings, ",
+        "target": "Добрых вестей, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 14,
+            "text": "Добрых вестей, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Alwin: Good tidings, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Argofay Doorholder: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": ", welcome back!",
+        "target": ", с возвращением!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": ", с возвращением!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Argofay Doorholder: {name}, welcome back!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Auryon: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Auryon: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Baker: ",
+      "before": {
+        "source": "That should do it! Thanks for your help, ",
+        "target": "Вот и всё! Спасибо за помощь, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": "Вот и всё! Спасибо за помощь, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Baker: That should do it! Thanks for your help, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Barbarian Emissary: ",
+      "before": {
+        "source": "Welcome to the Barbarian Faction, ",
+        "target": "Добро пожаловать во фракцию варваров, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": "Добро пожаловать во "
+          },
+          {
+            "start": 15,
+            "end": 32,
+            "text": "фракцию варваров"
+          },
+          {
+            "start": 32,
+            "end": 34,
+            "text": ", "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Barbarian Emissary: Welcome to the Barbarian Faction, {name}!",
+        "Barbarian Faction"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Barry: ",
+      "before": {
+        "source": "Of course ",
+        "target": "Конечно, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 10,
+            "text": "Конечно, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", but I can't!",
+        "target": ", но я не могу!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 14,
+            "text": ", но я не могу!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Barry: Of course {name}, but I can't!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Bartender: ",
+      "before": {
+        "source": "Words cannot describe how thankful I am, ",
+        "target": "Словами не выразить, как я тебе благодарен, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 41,
+            "text": "Словами не выразить, как я тебе благодарен, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Bartender: Words cannot describe how thankful I am, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Beth: ",
+      "before": {
+        "source": "Hey, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", I've been thinking a lot about that lab we found... I think there's more to it than just the plushies.",
+        "target": ", я много думала о той лаборатории, которую мы нашли... Думаю, дело не только в плюшевых игрушках.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 104,
+            "text": ", я много думала о той лаборатории, которую мы нашли... Думаю, дело не только в плюшевых игрушках."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Beth: Hey, {name}, I've been thinking a lot about that lab we found... I think there's more to it than just the plushies."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Beth: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": ", thank you so much for telling me what you saw here. I'll be forever grateful.",
+        "target": ", огромное спасибо за то, что рассказал мне об увиденном здесь. Я буду вечно тебе благодарна.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 79,
+            "text": ", огромное спасибо за то, что рассказал мне об увиденном здесь. Я буду вечно тебе благодарна."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Beth: {name}, thank you so much for telling me what you saw here. I'll be forever grateful."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Jake: ",
+      "before": {
+        "source": "That was a close one, thank you ",
+        "target": "Чуть не попались! Спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 32,
+            "text": "Чуть не попались! Спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": " for having my back. Anyway, I need to go back to my business.",
+        "target": ", что прикрыл меня. Что ж, мне пора вернуться к делам.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 62,
+            "text": ", что прикрыл меня. Что ж, мне пора вернуться к делам."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Jake: That was a close one, thank you {name} for having my back. Anyway, I need to go back to my business."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dean: ",
+      "before": {
+        "source": "Oh, ",
+        "target": "О, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "О, "
+          }
+        ]
+      },
+      "after": {
+        "source": " is here! They're the one who retrieved the research!",
+        "target": " уже здесь! Именно благодаря тебе удалось вернуть результаты исследований!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 53,
+            "text": " уже здесь! Именно благодаря тебе удалось вернуть результаты исследований!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dean: Oh, {name} is here! They're the one who retrieved the research!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Queen Nyx: ",
+      "before": {
+        "source": "Thank you very much, ",
+        "target": "Большое спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "Большое спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". Would you mind leaving us now, we have matters to discuss.",
+        "target": ". Не мог бы ты теперь оставить нас? Нам нужно кое-что обсудить.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 60,
+            "text": ". Не мог бы ты теперь оставить нас? Нам нужно кое-что обсудить."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Queen Nyx: Thank you very much, {name}. Would you mind leaving us now, we have matters to discuss."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dean: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " please meet me back at the Academy, we have a lot to talk about!",
+        "target": ", встретимся в Академии: нам многое нужно обсудить!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 65,
+            "text": ", встретимся в Академии: нам многое нужно обсудить!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dean: {name} please meet me back at the Academy, we have a lot to talk about!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Captain Ahone: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Perfect timing",
+        "target": "! Как раз вовремя",
+        "parts": [
+          {
+            "start": 0,
+            "end": 16,
+            "text": "! Как раз вовремя"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Captain Ahone: {name}! Perfect timing"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ugo: ",
+      "before": {
+        "source": "You too ",
+        "target": "И тебе спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": "И тебе спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", you and your friends fought bravely, we couldn't have done it without you",
+        "target": ": ты и твои друзья храбро сражались. Без вас мы бы не справились",
+        "parts": [
+          {
+            "start": 0,
+            "end": 75,
+            "text": ": ты и твои друзья храбро сражались. Без вас мы бы не справились"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ugo: You too {name}, you and your friends fought bravely, we couldn't have done it without you"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carnival Leader: ",
+      "before": {
+        "source": "Nice to see you here again, ",
+        "target": "Рад снова видеть тебя здесь, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 28,
+            "text": "Рад снова видеть тебя здесь, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carnival Leader: Nice to see you here again, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carpenter: ",
+      "before": {
+        "source": "Hi, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! Welcome to the Furniture Shop.",
+        "target": "! Добро пожаловать в мебельный магазин.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "! Добро пожаловать в "
+          },
+          {
+            "start": 17,
+            "end": 31,
+            "text": "мебельный магазин"
+          },
+          {
+            "start": 31,
+            "end": 32,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carpenter: Hi, {name}! Welcome to the Furniture Shop.",
+        "Furniture Shop"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Carpenter: ",
+      "before": {
+        "source": "Hey, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". I found this blueprint laying around in my house, just collecting dust. Thought it might catch your interest.",
+        "target": ". Нашёл дома этот чертёж: лежал и пылился. Подумал, тебе он может пригодиться.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 111,
+            "text": ". Нашёл дома этот чертёж: лежал и пылился. Подумал, тебе он может пригодиться."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Carpenter: Hey, {name}. I found this blueprint laying around in my house, just collecting dust. Thought it might catch your interest."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Chef: ",
+      "before": {
+        "source": "About time you arrived, ",
+        "target": "Наконец-то ты пришёл, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 24,
+            "text": "Наконец-то ты пришёл, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Chef: About time you arrived, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Chef: ",
+      "before": {
+        "source": "Hey ",
+        "target": "Эй, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Эй, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", you're ready?",
+        "target": ", ты готов?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": ", ты готов?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Chef: Hey {name}, you're ready?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Chief Scorn: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " I am in your debt.",
+        "target": ", я у тебя в долгу.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 19,
+            "text": ", я у тебя в долгу."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Chief Scorn: {name} I am in your debt."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Clerk Seraphine: ✆ ",
+      "before": {
+        "source": "Nice to see you, ",
+        "target": "Рада тебя видеть, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "Рада тебя видеть, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Clerk Seraphine: ✆ Nice to see you, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Clerk Seraphine: ✆ ",
+      "before": {
+        "source": "Hi, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Clerk Seraphine: ✆ Hi, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Clerk Seraphine: ",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", the mayor elections are coming up and I've ran out of ballot paper! Could you help me out?",
+        "target": ", скоро выборы мэра, а у меня закончилась бумага для бюллетеней! Не поможешь?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 92,
+            "text": ", скоро выборы мэра, а у меня закончилась бумага для бюллетеней! Не поможешь?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Clerk Seraphine: Hey {name}, the mayor elections are coming up and I've ran out of ballot paper! Could you help me out?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Cold Enjoyer: ",
+      "before": {
+        "source": "I am not a ",
+        "target": "Не могу сказать, что я поклонник ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Не могу сказать, что я поклонник "
+          }
+        ]
+      },
+      "after": {
+        "source": " enjoyer.",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Cold Enjoyer: I am not a {name} enjoyer."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Cowboy Nick: ",
+      "before": {
+        "source": "Howdy ",
+        "target": "Здорово, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Здорово, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Cowboy Nick: Howdy {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Cowboy Nick: ",
+      "before": {
+        "source": "Thanks ",
+        "target": "Спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "Спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Cowboy Nick: Thanks {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dalir: ",
+      "before": {
+        "source": "Hey, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! Glad you came to our cult meeting!",
+        "target": "! Рад, что ты пришёл на собрание нашего культа!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 36,
+            "text": "! Рад, что ты пришёл на собрание нашего культа!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dalir: Hey, {name}! Glad you came to our cult meeting!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dalir: ",
+      "before": {
+        "source": "Hi again, ",
+        "target": "И снова привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 10,
+            "text": "И снова привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dalir: Hi again, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dalir: ",
+      "before": {
+        "source": "Great to have you here, ",
+        "target": "Рад, что ты здесь, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 24,
+            "text": "Рад, что ты здесь, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dalir: Great to have you here, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dalir: ✆ ",
+      "before": {
+        "source": "Thank you so very much, ",
+        "target": "Огромное тебе спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 24,
+            "text": "Огромное тебе спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dalir: ✆ Thank you so very much, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dalir: ",
+      "before": {
+        "source": "Ah, ",
+        "target": "А, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "А, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! Nice to see you at our cult meeting!",
+        "target": "! Рад видеть тебя на собрании нашего культа!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 38,
+            "text": "! Рад видеть тебя на собрании нашего культа!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dalir: Ah, {name}! Nice to see you at our cult meeting!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Thondin: ",
+      "before": {
+        "source": "Please don't leave, ",
+        "target": "Пожалуйста, не уходи, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 20,
+            "text": "Пожалуйста, не уходи, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", I don't want to die!",
+        "target": ", я не хочу умирать!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 22,
+            "text": ", я не хочу умирать!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Thondin: Please don't leave, {name}, I don't want to die!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dante Goon: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " worst",
+        "target": " хуже всех",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": " хуже всех"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dante Goon: {name} worst"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] David Hunterborough: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] David Hunterborough: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dean: ✆ ",
+      "before": {
+        "source": "Oh ",
+        "target": "О, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 3,
+            "text": "О, "
+          }
+        ]
+      },
+      "after": {
+        "source": " is that you again?",
+        "target": ", это снова ты?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 19,
+            "text": ", это снова ты?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dean: ✆ Oh {name} is that you again?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dean: ",
+      "before": {
+        "source": "Thank you very much ",
+        "target": "Большое спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 20,
+            "text": "Большое спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", I will call you when I'm done",
+        "target": ", я позвоню, когда закончу",
+        "parts": [
+          {
+            "start": 0,
+            "end": 31,
+            "text": ", я позвоню, когда закончу"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dean: Thank you very much {name}, I will call you when I'm done"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dean: ",
+      "before": {
+        "source": "Hello ",
+        "target": "Алло, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Алло, "
+          }
+        ]
+      },
+      "after": {
+        "source": "?",
+        "target": "?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dean: Hello {name}?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Detective Amog: ",
+      "before": {
+        "source": "Think, my dear ",
+        "target": "Думай, дорогой ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": "Думай, дорогой "
+          }
+        ]
+      },
+      "after": {
+        "source": ", think.",
+        "target": ", думай.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": ", думай."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Detective Amog: Think, my dear {name}, think."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Detective Amog: ",
+      "before": {
+        "source": "Courage, ",
+        "target": "Смелее, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "Смелее, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". I know that you are more than capable to see this through to the end.",
+        "target": ". Я знаю, что тебе вполне по силам довести это дело до конца.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 71,
+            "text": ". Я знаю, что тебе вполне по силам довести это дело до конца."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Detective Amog: Courage, {name}. I know that you are more than capable to see this through to the end."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Detective Amog: ",
+      "before": {
+        "source": "Congratulations, ",
+        "target": "Поздравляю, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "Поздравляю, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Detective Amog: Congratulations, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Detective Amog: ",
+      "before": {
+        "source": "You've done a fantastic job, ",
+        "target": "Отличная работа, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 14,
+            "text": ""
+          },
+          {
+            "start": 14,
+            "end": 23,
+            "text": "Отличная"
+          },
+          {
+            "start": 23,
+            "end": 29,
+            "text": " работа, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Detective Amog: You've done a fantastic job, {name}!",
+        "fantastic"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Detective Amog: ",
+      "before": {
+        "source": "Your instincts were indeed correct, ",
+        "target": "Чутьё тебя не подвело, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 36,
+            "text": "Чутьё тебя не подвело, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Detective Amog: Your instincts were indeed correct, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Detective Amog: ",
+      "before": {
+        "source": "Act swiftly, ",
+        "target": "Действуй быстро, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 13,
+            "text": "Действуй быстро, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! Shield Ramero from the assailant!",
+        "target": "! Защити Рамеро от нападающего!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "! Защити "
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "text": "Рамеро "
+          },
+          {
+            "start": 16,
+            "end": 35,
+            "text": "от нападающего!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Detective Amog: Act swiftly, {name}! Shield Ramero from the assailant!",
+        "Ramero "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Detective Amog: ",
+      "before": {
+        "source": "Congratulations, ",
+        "target": "Поздравляю, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "Поздравляю, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Detective Amog: Congratulations, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Seraphine: ",
+      "before": {
+        "source": "Thanks ",
+        "target": "Спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "Спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Seraphine: Thanks {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Seraphine: ",
+      "before": {
+        "source": "Thank you so much for helping to fix my face, ",
+        "target": "Огромное спасибо за помощь с моим лицом, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 46,
+            "text": "Огромное спасибо за помощь с моим лицом, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Seraphine: Thank you so much for helping to fix my face, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Dulin: ",
+      "before": {
+        "source": "I suppose this is your very own kingdom in a sense, ",
+        "target": "Получается, это в некотором роде твоё собственное королевство, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 52,
+            "text": "Получается, это в некотором роде твоё собственное королевство, "
+          }
+        ]
+      },
+      "after": {
+        "source": "? Splendid.",
+        "target": "? Великолепно.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "? Великолепно."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Dulin: I suppose this is your very own kingdom in a sense, {name}? Splendid."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Einary: ",
+      "before": {
+        "source": "Thanks for reuniting me with my hoodie, ",
+        "target": "Спасибо, что вернул мне худи, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 40,
+            "text": "Спасибо, что вернул мне худи, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Einary: Thanks for reuniting me with my hoodie, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Elizabeth: ✆ ",
+      "before": {
+        "source": "Hey, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! I just wanted to let you know that a new FIRE Sale has started!",
+        "target": "! Просто хотела сообщить, что началась новая ОГНЕННАЯ распродажа!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": "! Просто хотела сообщить, что началась новая "
+          },
+          {
+            "start": 43,
+            "end": 47,
+            "text": "ОГНЕННАЯ"
+          },
+          {
+            "start": 47,
+            "end": 48,
+            "text": " "
+          },
+          {
+            "start": 48,
+            "end": 52,
+            "text": "распродажа"
+          },
+          {
+            "start": 52,
+            "end": 65,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Elizabeth: ✆ Hey, {name}! I just wanted to let you know that a new FIRE Sale has started!",
+        "FIRE",
+        "Sale"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Elle: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " make sure monsters don't attack us on the way there.",
+        "target": ", проследи, чтобы по пути на нас не напали монстры.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 53,
+            "text": ", проследи, чтобы по пути на нас не напали монстры."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Elle: {name} make sure monsters don't attack us on the way there."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Elle: ",
+      "before": {
+        "source": "Say no more, that's a perfect job for ",
+        "target": "Ни слова больше: это идеальная работа для ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 38,
+            "text": "Ни слова больше: это идеальная работа для "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Elle: Say no more, that's a perfect job for {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Elle: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": " if you know other strong adventurers, now is the time to bring them.",
+        "target": ", если ты знаешь других сильных искателей приключений, сейчас самое время их позвать.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 69,
+            "text": ", если ты знаешь других сильных искателей приключений, сейчас самое время их позвать."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Elle: {name} if you know other strong adventurers, now is the time to bring them."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Fann: ✆ ",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Fann: ✆ Hey {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Gerald: ",
+      "before": {
+        "source": "Thanks for helping me find the Rusty Ship Engine, ",
+        "target": "Спасибо, что помог найти ржавый корабельный двигатель, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 31,
+            "text": "Спасибо, что помог найти "
+          },
+          {
+            "start": 31,
+            "end": 48,
+            "text": "ржавый корабельный двигатель"
+          },
+          {
+            "start": 48,
+            "end": 50,
+            "text": ", "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Gerald: Thanks for helping me find the Rusty Ship Engine, {name}!",
+        "Rusty Ship Engine"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Frankie: ",
+      "before": {
+        "source": "Thank you Barry! And you too, ",
+        "target": "Спасибо, Барри! И тебе тоже, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 10,
+            "text": "Спасибо, "
+          },
+          {
+            "start": 10,
+            "end": 15,
+            "text": "Барри"
+          },
+          {
+            "start": 15,
+            "end": 30,
+            "text": "! И тебе тоже, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Frankie: Thank you Barry! And you too, {name}!",
+        "Barry"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Frosty: ",
+      "before": {
+        "source": "It is up to you, ",
+        "target": "Всё зависит от тебя, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "Всё зависит от тебя, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", to help save the day. Take this Snow Cannon to aid you in your defense against the Magma Grinches.",
+        "target": ": помоги спасти праздник. Возьми эту снежную пушку — она пригодится для защиты от магмовых Гринчей.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 34,
+            "text": ": помоги спасти праздник. Возьми эту "
+          },
+          {
+            "start": 34,
+            "end": 45,
+            "text": "снежную пушку"
+          },
+          {
+            "start": 45,
+            "end": 85,
+            "text": " — она пригодится для защиты от "
+          },
+          {
+            "start": 85,
+            "end": 99,
+            "text": "магмовых Гринчей"
+          },
+          {
+            "start": 99,
+            "end": 100,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Frosty: It is up to you, {name}, to help save the day. Take this Snow Cannon to aid you in your defense against the Magma Grinches.",
+        "Snow Cannon",
+        "Magma Grinches"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Geonathan Greatforge: ",
+      "before": {
+        "source": "Sup, ",
+        "target": "Как дела, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "Как дела, "
+          }
+        ]
+      },
+      "after": {
+        "source": "? I am Geonathan Greatforge, your one stop shop for refueling and upgrading Drills.",
+        "target": "? Я Геонатан Грейтфордж: у меня можно заправить и улучшить буры.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "? Я "
+          },
+          {
+            "start": 7,
+            "end": 27,
+            "text": "Геонатан Грейтфордж"
+          },
+          {
+            "start": 27,
+            "end": 76,
+            "text": ": у меня можно заправить и улучшить "
+          },
+          {
+            "start": 76,
+            "end": 82,
+            "text": "буры"
+          },
+          {
+            "start": 82,
+            "end": 83,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Geonathan Greatforge: Sup, {name}? I am Geonathan Greatforge, your one stop shop for refueling and upgrading Drills.",
+        "Geonathan Greatforge",
+        "Drills"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Grandma Wolf: ",
+      "before": {
+        "source": "Oh, ",
+        "target": "Ох, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Ох, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! I'm having a conundrum! There's so much to kill, yet so little time.",
+        "target": "! Вот ведь незадача! Столько всего надо убить, а времени так мало.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 70,
+            "text": "! Вот ведь незадача! Столько всего надо убить, а времени так мало."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Grandma Wolf: Oh, {name}! I'm having a conundrum! There's so much to kill, yet so little time."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Grandpa Wolf: ",
+      "before": {
+        "source": "Oh, ",
+        "target": "Ох, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Ох, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! I'm having a conundrum! There's so many corpses scattered around the Glacite Mineshafts, and so little time!",
+        "target": "! Вот ведь незадача! В ледниковых шахтах разбросано столько трупов, а времени так мало!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 71,
+            "text": "! Вот ведь незадача! В "
+          },
+          {
+            "start": 71,
+            "end": 89,
+            "text": "ледниковых шахтах"
+          },
+          {
+            "start": 89,
+            "end": 110,
+            "text": " разбросано столько трупов, а времени так мало!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Grandpa Wolf: Oh, {name}! I'm having a conundrum! There's so many corpses scattered around the Glacite Mineshafts, and so little time!",
+        "Glacite Mineshafts"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Guber: ",
+      "before": {
+        "source": "Not bad, ",
+        "target": "Неплохо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "Неплохо, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Guber: Not bad, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Guber: ",
+      "before": {
+        "source": "You did it! Congratulations, ",
+        "target": "Получилось! Поздравляю, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 29,
+            "text": "Получилось! Поздравляю, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". You are now faster than Guber!",
+        "target": ". Теперь ты быстрее Губера!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 26,
+            "text": ". Теперь ты быстрее "
+          },
+          {
+            "start": 26,
+            "end": 31,
+            "text": "Губера"
+          },
+          {
+            "start": 31,
+            "end": 32,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Guber: You did it! Congratulations, {name}. You are now faster than Guber!",
+        "Guber"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Guildford: ",
+      "before": {
+        "source": "Well done, ",
+        "target": "Молодец, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Молодец, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Guildford: Well done, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Gunther: ",
+      "before": {
+        "source": "Nicely done, ",
+        "target": "Отличная работа, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 13,
+            "text": "Отличная работа, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Gunther: Nicely done, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Gunther: ",
+      "before": {
+        "source": "Congratulations, ",
+        "target": "Поздравляю, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "Поздравляю, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Gunther: Congratulations, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Gustave: ",
+      "before": {
+        "source": "Not bad, ",
+        "target": "Неплохо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "Неплохо, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Gustave: Not bad, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Gustave: ",
+      "before": {
+        "source": "You did it! Congratulations, ",
+        "target": "Получилось! Поздравляю, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 29,
+            "text": "Получилось! Поздравляю, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". You are now faster than Gustave!",
+        "target": ". Теперь ты быстрее Гюстава!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 26,
+            "text": ". Теперь ты быстрее "
+          },
+          {
+            "start": 26,
+            "end": 33,
+            "text": "Гюстава"
+          },
+          {
+            "start": 33,
+            "end": 34,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Gustave: You did it! Congratulations, {name}. You are now faster than Gustave!",
+        "Gustave"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Hattie: ",
+      "before": {
+        "source": "Marvelous, ",
+        "target": "Великолепно, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Великолепно, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Hattie: Marvelous, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Igor: ",
+      "before": {
+        "source": "Welcome to my humble workshop, ",
+        "target": "Добро пожаловать в мою скромную мастерскую, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 31,
+            "text": "Добро пожаловать в мою скромную мастерскую, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Igor: Welcome to my humble workshop, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Iron Forger: ",
+      "before": {
+        "source": "That's quite an excessive amount of carrots, but it'll do! Thanks, ",
+        "target": "Моркови с явным избытком, но сойдёт! Спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 67,
+            "text": "Моркови с явным избытком, но сойдёт! Спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Iron Forger: That's quite an excessive amount of carrots, but it'll do! Thanks, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Jaeger: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Jaeger: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Jax: ",
+      "before": {
+        "source": "Hello ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! What brings you to my workshop? I forge the newest and most powerful arrows in all of SkyBlock!",
+        "target": "! Что привело тебя в мою мастерскую? Я кую самые новые и мощные стрелы во всём SkyBlock!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 97,
+            "text": "! Что привело тебя в мою мастерскую? Я кую самые новые и мощные стрелы во всём SkyBlock!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Jax: Hello {name}! What brings you to my workshop? I forge the newest and most powerful arrows in all of SkyBlock!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Jerry: ",
+      "before": {
+        "source": "Hello ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". Glad to meet you here. I need some Bread.",
+        "target": ". Рад видеть тебя здесь. Мне нужен хлеб.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 37,
+            "text": ". Рад видеть тебя здесь. Мне нужен "
+          },
+          {
+            "start": 37,
+            "end": 42,
+            "text": "хлеб"
+          },
+          {
+            "start": 42,
+            "end": 43,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Jerry: Hello {name}. Glad to meet you here. I need some Bread.",
+        "Bread"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Jotraeline Greatforge: ",
+      "before": {
+        "source": "Sup, ",
+        "target": "Как дела, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "Как дела, "
+          }
+        ]
+      },
+      "after": {
+        "source": "? I am Jotraeline Greatforge, your one stop shop for refueling and upgrading Drills.",
+        "target": "? Я Джотрейлин Грейтфордж: у меня можно заправить и улучшить буры.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "? Я "
+          },
+          {
+            "start": 7,
+            "end": 28,
+            "text": "Джотрейлин Грейтфордж"
+          },
+          {
+            "start": 28,
+            "end": 77,
+            "text": ": у меня можно заправить и улучшить "
+          },
+          {
+            "start": 77,
+            "end": 83,
+            "text": "буры"
+          },
+          {
+            "start": 83,
+            "end": 84,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Jotraeline Greatforge: Sup, {name}? I am Jotraeline Greatforge, your one stop shop for refueling and upgrading Drills.",
+        "Jotraeline Greatforge",
+        "Drills"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Junker Joel: ✆ ",
+      "before": {
+        "source": "Cheers, ",
+        "target": "Спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": "Спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", you're always good to this old man.",
+        "target": ", ты всегда добр к этому старику.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 37,
+            "text": ", ты всегда добр к этому старику."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Junker Joel: ✆ Cheers, {name}, you're always good to this old man."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Kat: ",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Kat: Hey {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] King Yolkar: ",
+      "before": {
+        "source": "Did ya hear that, ",
+        "target": "Слышал, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 18,
+            "text": "Слышал, "
+          }
+        ]
+      },
+      "after": {
+        "source": "? That's the sound of an empty stomach.",
+        "target": "? Это урчит пустой желудок.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 39,
+            "text": "? Это урчит пустой желудок."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] King Yolkar: Did ya hear that, {name}? That's the sound of an empty stomach."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] King Yolkar: ",
+      "before": {
+        "source": "Well done, ",
+        "target": "Молодец, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Молодец, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] King Yolkar: Well done, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Kysha: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Kysha: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Kysha: ",
+      "before": {
+        "source": "Hi ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 3,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Kysha: Hi {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Lone Adventurer: ",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", how are you doing?",
+        "target": ", как дела?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 20,
+            "text": ", как дела?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Lone Adventurer: Hey {name}, how are you doing?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Lone Adventurer: ",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Lone Adventurer: Hey {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Lone Adventurer: ",
+      "before": {
+        "source": "Greetings ",
+        "target": "Приветствую, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 10,
+            "text": "Приветствую, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Lone Adventurer: Greetings {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ävaeìkx: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": ", you're in my bubble right now.",
+        "target": ", ты сейчас нарушаешь моё личное пространство.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 32,
+            "text": ", ты сейчас нарушаешь моё личное пространство."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ävaeìkx: {name}, you're in my bubble right now."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ludleth: ",
+      "before": {
+        "source": "I'm glad we are in agreement, ",
+        "target": "Рад, что мы договорились, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 30,
+            "text": "Рад, что мы договорились, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". Meet me in the Hub, we'll discuss our business then.",
+        "target": ". Встретимся в Хабе и обсудим дела.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": ". Встретимся в "
+          },
+          {
+            "start": 17,
+            "end": 20,
+            "text": "Хабе"
+          },
+          {
+            "start": 20,
+            "end": 54,
+            "text": " и обсудим дела."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ludleth: I'm glad we are in agreement, {name}. Meet me in the Hub, we'll discuss our business then.",
+        "Hub"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ludleth: ",
+      "before": {
+        "source": "Pleasure seeing you again, ",
+        "target": "Рад снова видеть тебя, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 27,
+            "text": "Рад снова видеть тебя, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ludleth: Pleasure seeing you again, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ludleth: ",
+      "before": {
+        "source": "Pleasure seeing you again, ",
+        "target": "Рад снова видеть тебя, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 27,
+            "text": "Рад снова видеть тебя, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". I have a fine offer for you...",
+        "target": ". У меня есть отличное предложение...",
+        "parts": [
+          {
+            "start": 0,
+            "end": 32,
+            "text": ". У меня есть отличное предложение..."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ludleth: Pleasure seeing you again, {name}. I have a fine offer for you..."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Madame Eleanor Q. Goldsworth III: ",
+      "before": {
+        "source": "Welcome, ",
+        "target": "Добро пожаловать, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "Добро пожаловать, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Madame Eleanor Q. Goldsworth III: Welcome, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Maxwell: ",
+      "before": {
+        "source": "I've learned this power myself, ",
+        "target": "Я сам уже изучил эту силу, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 32,
+            "text": "Я сам уже изучил эту силу, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Maxwell: I've learned this power myself, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Miria: ",
+      "before": {
+        "source": "Well nice to meet ya, ",
+        "target": "Что ж, приятно познакомиться, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 22,
+            "text": "Что ж, приятно познакомиться, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Miria: Well nice to meet ya, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mort: ",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", welcome to The Catacombs!",
+        "target": ", добро пожаловать в Катакомбы!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 13,
+            "text": ", добро пожаловать в "
+          },
+          {
+            "start": 13,
+            "end": 26,
+            "text": "Катакомбы"
+          },
+          {
+            "start": 26,
+            "end": 27,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mort: Hey {name}, welcome to The Catacombs!",
+        "The Catacombs"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Oden: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Oden: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Pablo: ✆ ",
+      "before": {
+        "source": "Hello, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Pablo: ✆ Hello, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Mayor Paul: ",
+      "before": {
+        "source": "I yearn for the dungeons, ",
+        "target": "Я тоскую по подземельям, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 26,
+            "text": "Я тоскую по подземельям, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Mayor Paul: I yearn for the dungeons, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Pearl Dealer: ",
+      "before": {
+        "source": "You are ",
+        "target": "Ты ведь ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": "Ты ведь "
+          }
+        ]
+      },
+      "after": {
+        "source": " right?",
+        "target": ", верно?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": ", верно?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Pearl Dealer: You are {name} right?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rabbit Uncle: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "...you have to hire me. Please.",
+        "target": "... ты должен нанять меня. Пожалуйста.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 31,
+            "text": "... ты должен нанять меня. Пожалуйста."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rabbit Uncle: {name}...you have to hire me. Please."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ramero: ",
+      "before": {
+        "source": "Thanks unto thee, ",
+        "target": "Благодарствую тебе, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 18,
+            "text": "Благодарствую тебе, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ramero: Thanks unto thee, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rosetta: ",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!!!",
+        "target": "!!!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 3,
+            "text": "!!!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rosetta: Hey {name}!!!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Royal Resident: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "? That's an awful name",
+        "target": "? Какое ужасное имя",
+        "parts": [
+          {
+            "start": 0,
+            "end": 22,
+            "text": "? Какое ужасное имя"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Royal Resident: {name}? That's an awful name"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ryan: ",
+      "before": {
+        "source": "A Campfire Initiate Badge I, for our latest initiate, ",
+        "target": "Знак посвящённого костра I — нашему новому посвящённому, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 54,
+            "text": "Знак посвящённого костра I — нашему новому посвящённому, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ryan: A Campfire Initiate Badge I, for our latest initiate, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Scout Plinius: ",
+      "before": {
+        "source": "Are you ",
+        "target": "Ты ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": "Ты "
+          }
+        ]
+      },
+      "after": {
+        "source": "?",
+        "target": "?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Scout Plinius: Are you {name}?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Shania: ",
+      "before": {
+        "source": "You've done eggcellent work, ",
+        "target": "Ты справился просто яично, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 29,
+            "text": "Ты справился просто яично, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Shania: You've done eggcellent work, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Shen Magnum Opus: ",
+      "before": {
+        "source": "You are quite impressive, ",
+        "target": "Ты меня впечатляешь, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 26,
+            "text": "Ты меня впечатляешь, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Shen Magnum Opus: You are quite impressive, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Shen's Agent: ",
+      "before": {
+        "source": "Welcome, ",
+        "target": "Добро пожаловать, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "Добро пожаловать, "
+          }
+        ]
+      },
+      "after": {
+        "source": " to the Regalia Room.",
+        "target": ", в Зал регалий.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": ", в "
+          },
+          {
+            "start": 8,
+            "end": 20,
+            "text": "Зал регалий"
+          },
+          {
+            "start": 20,
+            "end": 21,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Shen's Agent: Welcome, {name} to the Regalia Room.",
+        "Regalia Room"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] St. Jerry: ",
+      "before": {
+        "source": "You're getting there, ",
+        "target": "Ты уже близок к цели, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 22,
+            "text": "Ты уже близок к цели, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! Find the rest of the Gifts and come back for a reward!",
+        "target": "! Найди остальные подарки и возвращайся за наградой!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 56,
+            "text": "! Найди остальные подарки и возвращайся за наградой!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] St. Jerry: You're getting there, {name}! Find the rest of the Gifts and come back for a reward!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Sun Gecko: ",
+      "before": {
+        "source": "Let us train together, ",
+        "target": "Давай тренироваться вместе, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 23,
+            "text": "Давай тренироваться вместе, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Sun Gecko: Let us train together, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Suus: ",
+      "before": {
+        "source": "Thank you so much ",
+        "target": "Огромное спасибо, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 18,
+            "text": "Огромное спасибо, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Suus: Thank you so much {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Suus: ",
+      "before": {
+        "source": "Thanks for finding his toy again, ",
+        "target": "Спасибо, что снова нашёл его игрушку, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 34,
+            "text": "Спасибо, что снова нашёл его игрушку, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Suus: Thanks for finding his toy again, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Swoop: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": "! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "target": "! Ты уже говорил с Хиной у входа на остров, чтобы получить Сердце леса?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 21,
+            "text": "! Ты уже говорил с "
+          },
+          {
+            "start": 21,
+            "end": 26,
+            "text": "Хиной "
+          },
+          {
+            "start": 26,
+            "end": 76,
+            "text": "у входа на остров, чтобы получить "
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "text": "Сердце леса"
+          },
+          {
+            "start": 95,
+            "end": 96,
+            "text": "?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Swoop: {name}! Have you talked to Hina at the front of the island to get your hands on a Heart of the Forest?",
+        "Hina ",
+        "Heart of the Forest"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Swoop: ",
+      "before": {
+        "source": "Hello ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Swoop: Hello {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Taylor: ✆ ",
+      "before": {
+        "source": "Hey ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Taylor: ✆ Hey {name}!"
+      ],
+      "excluded_names": [
+        "adventurer"
+      ]
+    },
+    {
+      "prefix": "[NPC] Terry: ",
+      "before": {
+        "source": "Ahoy, ",
+        "target": "Здорово, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Здорово, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! Welcome to the Jerry Pond!",
+        "target": "! Добро пожаловать к пруду Джерри!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "! Добро пожаловать к "
+          },
+          {
+            "start": 17,
+            "end": 27,
+            "text": "пруду Джерри"
+          },
+          {
+            "start": 27,
+            "end": 28,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Terry: Ahoy, {name}! Welcome to the Jerry Pond!",
+        "Jerry Pond"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Terry: ",
+      "before": {
+        "source": "Ahoy, ",
+        "target": "Здорово, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Здорово, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! People always tell me they like ice cream, but ice never really tastes like anything for me!",
+        "target": "! Все говорят, что любят мороженое, но я вот не чувствую у льда никакого вкуса!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 94,
+            "text": "! Все говорят, что любят мороженое, но я вот не чувствую у льда никакого вкуса!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Terry: Ahoy, {name}! People always tell me they like ice cream, but ice never really tastes like anything for me!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Terry: ✆ ",
+      "before": {
+        "source": "Ahoy, ",
+        "target": "Здорово, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Здорово, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Terry: ✆ Ahoy, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Tia the Fairy: ",
+      "before": {
+        "source": "Welcome to the Fairy Pond, ",
+        "target": "Добро пожаловать к пруду фей, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": "Добро пожаловать к "
+          },
+          {
+            "start": 15,
+            "end": 25,
+            "text": "пруду фей"
+          },
+          {
+            "start": 25,
+            "end": 27,
+            "text": ", "
+          }
+        ]
+      },
+      "after": {
+        "source": "! I am Tia.",
+        "target": "! Я Тия.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "! Я Тия."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Tia the Fairy: Welcome to the Fairy Pond, {name}! I am Tia.",
+        "Fairy Pond"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ubik Von Neumann: ",
+      "before": {
+        "source": "Welcome, ",
+        "target": "Добро пожаловать, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "Добро пожаловать, "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ubik Von Neumann: Welcome, {name}!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ubik Von Neumann: ",
+      "before": {
+        "source": "Welcome back, ",
+        "target": "С возвращением, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 14,
+            "text": "С возвращением, "
+          }
+        ]
+      },
+      "after": {
+        "source": ". The game awaits your strategic touch.",
+        "target": ". Игра ждёт твоих стратегических решений.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 39,
+            "text": ". Игра ждёт твоих стратегических решений."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ubik Von Neumann: Welcome back, {name}. The game awaits your strategic touch."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ubik Von Neumann: ",
+      "before": {
+        "source": "Hello, ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ubik Von Neumann: Hello, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ubik Von Neumann: ",
+      "before": {
+        "source": "Welcome back, ",
+        "target": "С возвращением, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 14,
+            "text": "С возвращением, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ubik Von Neumann: Welcome back, {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Udel: ",
+      "before": {
+        "source": "Oh, you must be ",
+        "target": "О, ты, должно быть, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 16,
+            "text": "О, ты, должно быть, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! My cousin told me you'd come by my place.",
+        "target": "! Мой кузен говорил, что ты ко мне заглянешь.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 43,
+            "text": "! Мой кузен говорил, что ты ко мне заглянешь."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Udel: Oh, you must be {name}! My cousin told me you'd come by my place."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ugo: ",
+      "before": {
+        "source": "See you around ",
+        "target": "Ещё увидимся, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": "Ещё увидимся, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ugo: See you around {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Undercover Agent: ",
+      "before": {
+        "source": "Pst, hey ",
+        "target": "Пс-с, эй, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "Пс-с, эй, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! You must be the one they sent to get our guy back.",
+        "target": "! Наверняка это тебя прислали выручать нашего парня.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 52,
+            "text": "! Наверняка это тебя прислали выручать нашего парня."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Undercover Agent: Pst, hey {name}! You must be the one they sent to get our guy back."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Kloon: ",
+      "before": {
+        "source": "Wow ",
+        "target": "Ух ты, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 4,
+            "text": "Ух ты, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", you did it!",
+        "target": ", у тебя получилось!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 13,
+            "text": ", у тебя получилось!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Kloon: Wow {name}, you did it!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Vincent: ✆ ",
+      "before": {
+        "source": "Hello ",
+        "target": "Привет, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Привет, "
+          }
+        ]
+      },
+      "after": {
+        "source": "! Vincent here! Happy new year!",
+        "target": "! Это Винсент! С Новым годом!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 2,
+            "text": "! Это "
+          },
+          {
+            "start": 2,
+            "end": 10,
+            "text": "Винсент"
+          },
+          {
+            "start": 10,
+            "end": 31,
+            "text": "! С Новым годом!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Vincent: ✆ Hello {name}! Vincent here! Happy new year!",
+        "Vincent "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Wizard: ",
+      "before": {
+        "source": "Where am I? Oh, it's you ",
+        "target": "Где я? А, это ты, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 25,
+            "text": "Где я? А, это ты, "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": ".",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Wizard: Where am I? Oh, it's you {name}."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Wizard: ",
+      "before": {
+        "source": "Welcome to the Rift Dimension, ",
+        "target": "Добро пожаловать в измерение Разлома, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": "Добро пожаловать в "
+          },
+          {
+            "start": 15,
+            "end": 29,
+            "text": "измерение Разлома"
+          },
+          {
+            "start": 29,
+            "end": 31,
+            "text": ", "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Wizard: Welcome to the Rift Dimension, {name}!",
+        "Rift Dimension"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Wizardman: ",
+      "before": {
+        "source": "",
+        "target": "",
+        "parts": []
+      },
+      "after": {
+        "source": ", truly an impressive finish.",
+        "target": ", поистине впечатляющий финал.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 29,
+            "text": ", поистине впечатляющий финал."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Wizardman: {name}, truly an impressive finish."
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Wizardman: ",
+      "before": {
+        "source": "What could ",
+        "target": "О чём же ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "О чём же "
+          }
+        ]
+      },
+      "after": {
+        "source": " be thinking right now?",
+        "target": " сейчас думает?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 23,
+            "text": " сейчас думает?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Wizardman: What could {name} be thinking right now?"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Zog: ✆ ",
+      "before": {
+        "source": "You know ",
+        "target": "Знаешь, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "Знаешь, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", I'm a pet lover.",
+        "target": ", я обожаю питомцев.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 18,
+            "text": ", я обожаю питомцев."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Zog: ✆ You know {name}, I'm a pet lover."
+      ],
+      "excluded_names": []
+    }
+  ]
+}

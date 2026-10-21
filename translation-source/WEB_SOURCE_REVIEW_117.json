@@ -1,0 +1,18 @@
+{
+  "review_date_local":"2026-10-21",
+  "scope":"Additional web/guide search triage. Search results are not an exhaustive database and a forum NPC proposal is not evidence of a live NPC.",
+  "queries":[
+    "Hypixel SkyBlock Ghost of Baking Specialist dialogue",
+    "Hypixel SkyBlock Ryan A Campfire Initiate Badge initiate",
+    "Hypixel SkyBlock Melody If you are having lag issues",
+    "site:hypixel.net NPC dialogue guide Abiphone"
+  ],
+  "sources":[
+    {"url":"https://hypixel-skyblock.fandom.com/wiki/Ryan","status":"historical_or_mirror_publication_not_new_live_server_proof","finding":"Most published messages duplicate the saved current wiki. The Garden greeting is printed without the comma after Welcome;retain this literal variant separately for review.","literal_candidate":"[NPC] Ryan: Welcome fellow member of the Campfire Cult. It is time to embrace the Campfire within and sacrifice something. What that something should be is an interesting question. I am thinking potato. Yes. Yes, a good baked potato does sound very good right now."},
+    {"url":"https://hypixel.net/threads/100-upvotes-wanna-break-from-swapping-gear-buy-spotify-wait-no-not-that-one.5832016/","status":"rejected_as_unconfirmed_game_dialogue","finding":"The Rexu dialogue is part of a QOL proposal,not confirmed server dialogue. Do not invent a live NPC or count this as a missing translation."},
+    {"url":"https://craftersmc.wiki.gg/wiki/Phoenix","status":"rejected_wrong_server","finding":"This is a CraftersMC quest NPC,not Hypixel SkyBlock Ryan. Similar item names do not establish that the dialogue belongs in this mod."},
+    {"url":"https://hypixel.net/threads/skyblock-patch-0-19-3-crystal-hollows-qol-bug-fixes.5465058/post-38705680","status":"primary_patch_notes_context_only","finding":"Mentions an added Captain Ahone Abiphone completion dialogue,but does not supply the full new utterance. Do not fabricate its words from the changelog."},
+    {"url":"https://hypixel.net/threads/guide-all-accessories-in-hypixel-skyblock.2495891/","status":"old_guide_context_only","finding":"Accessory guide helps identify the quest/item family,but its historical figures are not preferred over pinned current item records."}
+  ],
+  "no_unsupported_game_dialogue_automatically_imported":true
+}

@@ -1,0 +1,999 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "82 literal Lone Adventurer rows. Four player-name templates and one editorial-looking NPC-prefixed choice excluded,not private/live completeness.",
+  "records": [
+    {
+      "source_key": "npc83.0",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Exhausted? me? No no no.",
+      "translation": "[NPC] Lone Adventurer: Выдохся? Я? Нет-нет-нет.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.1",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'm just taking a break.",
+      "translation": "[NPC] Lone Adventurer: Я просто отдыхаю.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.2",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: The End is a creepy place, but you get used to it!",
+      "translation": "[NPC] Lone Adventurer: Энд — жуткое место, но к нему привыкаешь!",
+      "style_anchors": [
+        {
+          "source": "The End ",
+          "target": "Энд"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.3",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: If you want a piece of advice, you should start by killing the Endermen up here.",
+      "translation": "[NPC] Lone Adventurer: Хочешь совет? Для начала поохоться на эндерменов здесь, наверху.",
+      "style_anchors": [
+        {
+          "source": "Endermen ",
+          "target": "эндерменов "
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.4",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: They sometimes drop important gear like the armor I'm wearing.",
+      "translation": "[NPC] Lone Adventurer: Из них иногда выпадает нужное снаряжение, например такая броня, как на мне.",
+      "style_anchors": [
+        {
+          "source": "armor ",
+          "target": "броня"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.5",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Are you strong enough though?",
+      "translation": "[NPC] Lone Adventurer: Но хватит ли тебе сил?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.6",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Try killing 5 of them!",
+      "translation": "[NPC] Lone Adventurer: Попробуй убить 5 из них!",
+      "style_anchors": [
+        {
+          "source": "5 ",
+          "target": "5 "
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.7",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Alright, not bad, not bad!",
+      "translation": "[NPC] Lone Adventurer: Что ж, неплохо, неплохо!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.8",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: It took me a while to get that strong.",
+      "translation": "[NPC] Lone Adventurer: Мне понадобилось немало времени, чтобы стать таким сильным.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.9",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I use a Void Sword, it's a very powerful weapon.",
+      "translation": "[NPC] Lone Adventurer: Я пользуюсь мечом Пустоты. Это очень мощное оружие.",
+      "style_anchors": [
+        {
+          "source": "Void Sword",
+          "target": "мечом Пустоты"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.10",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: It gets stronger with each piece of Ender Armor you are wearing.",
+      "translation": "[NPC] Lone Adventurer: Он становится сильнее с каждым надетым элементом брони Края.",
+      "style_anchors": [
+        {
+          "source": "Ender Armor ",
+          "target": "брони Края"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.11",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I have an extremely strong emotional attachment to this item so...",
+      "translation": "[NPC] Lone Adventurer: Я очень сильно привязан к этому мечу, так что...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.12",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'm willing to sell it to you for the modest sum of 200,000 coins.",
+      "translation": "[NPC] Lone Adventurer: Я готов продать его тебе за скромную сумму в 200,000 монет.",
+      "style_anchors": [
+        {
+          "source": "200,000 coins",
+          "target": "200,000 монет"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.13",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: What do you say?",
+      "translation": "[NPC] Lone Adventurer: Что скажешь?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.14",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Happy dealing with you, I hope this sword will help you as much as it helped me.",
+      "translation": "[NPC] Lone Adventurer: Рад нашей сделке. Надеюсь, этот меч поможет тебе так же, как помог мне.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.15",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I think you are making a mistake, perhaps the biggest mistake of your life!",
+      "translation": "[NPC] Lone Adventurer: По-моему, ты совершаешь ошибку. Возможно, самую большую в своей жизни!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.16",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Are you sure you don't want that sword?",
+      "translation": "[NPC] Lone Adventurer: Ты точно не хочешь этот меч?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.17",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Strange.",
+      "translation": "[NPC] Lone Adventurer: Странно.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.18",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: If you change your mind you can also go talk to Rusty in the Gold Mine.",
+      "translation": "[NPC] Lone Adventurer: Если передумаешь, можешь поговорить с Расти в Золотой шахте.",
+      "style_anchors": [
+        {
+          "source": "Rusty ",
+          "target": "Расти "
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.19",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Distracted people sometimes lose their Void Sword and he sells them back.",
+      "translation": "[NPC] Lone Adventurer: Рассеянные люди иногда теряют свой меч Пустоты, а он продаёт им замену.",
+      "style_anchors": [
+        {
+          "source": "Void Sword ",
+          "target": "меч Пустоты"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.20",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You should focus on getting all 8 pieces of the Ender Armor now.",
+      "translation": "[NPC] Lone Adventurer: Теперь сосредоточься на сборе всех 8 предметов комплекта Края.",
+      "style_anchors": [
+        {
+          "source": "Ender Armor ",
+          "target": "комплекта Края"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.21",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Half of them are dropped by the Endermen on this layer, the other pieces are a little harder to obtain.",
+      "translation": "[NPC] Lone Adventurer: Половина выпадает из эндерменов на этом ярусе, а остальные элементы добыть немного сложнее.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.22",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'm sure you'll figure it out.",
+      "translation": "[NPC] Lone Adventurer: Уверен, ты разберёшься.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.23",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: My time here is over, I think I'll go down in the Dragon's Nest very soon.",
+      "translation": "[NPC] Lone Adventurer: Мне здесь больше нечего делать. Думаю, скоро спущусь в Драконье гнездо.",
+      "style_anchors": [
+        {
+          "source": "Dragon's Nest ",
+          "target": "Драконье гнездо"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.24",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: See you around!",
+      "translation": "[NPC] Lone Adventurer: Ещё увидимся!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.25",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Do you recognize me? I changed my armor!",
+      "translation": "[NPC] Lone Adventurer: Узнаёшь меня? Я сменил броню!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.26",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Have you found the full Ender Armor Set yet?",
+      "translation": "[NPC] Lone Adventurer: Ты уже нашёл полный комплект брони Края?",
+      "style_anchors": [
+        {
+          "source": "Ender Armor Set yet?",
+          "target": "полный комплект брони Края?"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.27",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Awesome, wear all the pieces and show me!",
+      "translation": "[NPC] Lone Adventurer: Здорово! Надень все элементы и покажись мне!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.28",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Ah, do you need help finding the remaining pieces?",
+      "translation": "[NPC] Lone Adventurer: А, тебе нужна помощь с поиском остальных элементов?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.29",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Which piece are you struggling to find?",
+      "translation": "[NPC] Lone Adventurer: Какой элемент тебе никак не удаётся найти?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.30",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Okay. If you need help, I'll be here.",
+      "translation": "[NPC] Lone Adventurer: Хорошо. Если понадобится помощь, я буду здесь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.31",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: This one isn't too bad.",
+      "translation": "[NPC] Lone Adventurer: С этим не так сложно.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.32",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You see those Seers inside the Dragon's Nest?",
+      "translation": "[NPC] Lone Adventurer: Видишь провидцев в Драконьем гнезде?",
+      "style_anchors": [
+        {
+          "source": "Seers",
+          "target": "провидцев"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.33",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: If you take down enough of those you'll end up getting the Cloak.",
+      "translation": "[NPC] Lone Adventurer: Если победишь достаточно провидцев, рано или поздно получишь плащ.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.34",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: The Obsidian Defenders drop those Belts rarely, at least that's how I got mine.",
+      "translation": "[NPC] Lone Adventurer: Такие пояса изредка выпадают из обсидиановых защитников. По крайней мере, я свой получил именно так.",
+      "style_anchors": [
+        {
+          "source": "Obsidian Defenders",
+          "target": "обсидиановых защитников"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.35",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You haven't got this one yet?",
+      "translation": "[NPC] Lone Adventurer: Ты его ещё не получил?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.36",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: It's just from regular Endermen, like the rest of the armor!",
+      "translation": "[NPC] Lone Adventurer: Он выпадает из обычных эндерменов, как и остальные части брони!",
+      "style_anchors": [
+        {
+          "source": "Endermen",
+          "target": "эндерменов"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.37",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Ahh, this one is a bit tricky.",
+      "translation": "[NPC] Lone Adventurer: А, с этим немного сложнее.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.38",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You see those purple End Stone or Obsidian that sometimes appear around here?",
+      "translation": "[NPC] Lone Adventurer: Видел камень Края или обсидиан с фиолетовым свечением, которые иногда здесь встречаются?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.39",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: If you mine enough Ender Nodes you'll eventually find the Gauntlet.",
+      "translation": "[NPC] Lone Adventurer: Разрушай эндер-узлы, и со временем найдёшь перчатку.",
+      "style_anchors": [
+        {
+          "source": "Ender Nodes",
+          "target": "эндер-узлы"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.40",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Really?",
+      "translation": "[NPC] Lone Adventurer: Серьёзно?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.41",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: It's from those Endermen up there, where we first met.",
+      "translation": "[NPC] Lone Adventurer: Она выпадает из эндерменов там, наверху, где мы впервые встретились.",
+      "style_anchors": [
+        {
+          "source": "Endermen ",
+          "target": "эндерменов "
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.42",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Are there other pieces you need info on?",
+      "translation": "[NPC] Lone Adventurer: Нужно рассказать ещё о каких-нибудь элементах?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.43",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Woah, you're wearing the full Ender Set!",
+      "translation": "[NPC] Lone Adventurer: Ого, на тебе полный комплект Края!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.44",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: That's incredible, that took me at least a week!",
+      "translation": "[NPC] Lone Adventurer: Невероятно! У меня на это ушло не меньше недели!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.45",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You wouldn't believe what just happened, I was fighting one of those Dragons...",
+      "translation": "[NPC] Lone Adventurer: Не поверишь, что сейчас случилось! Я сражался с одним из драконов...",
+      "style_anchors": [
+        {
+          "source": "Dragons",
+          "target": "драконов"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.46",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: The fight was going smoothly and just as I was about to land the finishing blow, BAM!",
+      "translation": "[NPC] Lone Adventurer: Бой шёл хорошо, и вот я уже собираюсь нанести последний удар, как вдруг — БАЦ!",
+      "style_anchors": [
+        {
+          "source": "BAM",
+          "target": "БАЦ"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.47",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: The Dragon teleported behind me and hit me with a claw attack!",
+      "translation": "[NPC] Lone Adventurer: Дракон телепортировался мне за спину и ударил когтями!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.48",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: That was crazy, I'm still shaking!",
+      "translation": "[NPC] Lone Adventurer: Это было безумие, меня до сих пор трясёт!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.49",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You said it! I thought I was going to die!",
+      "translation": "[NPC] Lone Adventurer: И не говори! Я думал, мне конец!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.50",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Anyways, I'm hurt and I lost my bow in the chaos.",
+      "translation": "[NPC] Lone Adventurer: В общем, я ранен и в этой суматохе потерял свой лук.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.51",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'm 90% sure one of those Seers in the Dragon's Nest has it.",
+      "translation": "[NPC] Lone Adventurer: Я на 90% уверен, что он у одного из провидцев в Драконьем гнезде.",
+      "style_anchors": [
+        {
+          "source": "Seers ",
+          "target": "провидцев "
+        },
+        {
+          "source": "Dragon's Nest ",
+          "target": "Драконьем гнезде"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.52",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Would you mind defeating some of them for me?",
+      "translation": "[NPC] Lone Adventurer: Не мог бы ты победить нескольких из них за меня?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.53",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'm sure one of them will have my Dragon Shortbow.",
+      "translation": "[NPC] Lone Adventurer: Уверен, у одного из них найдётся мой драконий короткий лук.",
+      "style_anchors": [
+        {
+          "source": "Dragon Shortbow",
+          "target": "драконий короткий лук"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.54",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You don't sound very excited...",
+      "translation": "[NPC] Lone Adventurer: Что-то ты не в восторге...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.55",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Ah you found my Dragon Shortbow!",
+      "translation": "[NPC] Lone Adventurer: А, ты нашёл мой драконий короткий лук!",
+      "style_anchors": [
+        {
+          "source": "Dragon Shortbow",
+          "target": "драконий короткий лук"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.56",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I knew I saw one of those Seers grab it for themselves.",
+      "translation": "[NPC] Lone Adventurer: Так и знал! Я ведь видел, как один из провидцев его утащил.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.57",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Thank you so much, I owe you one.",
+      "translation": "[NPC] Lone Adventurer: Огромное спасибо! Я твой должник.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.58",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I got the bow from the Pearl Dealer up there near the entrance of the island.",
+      "translation": "[NPC] Lone Adventurer: Этот лук мне дал торговец жемчугом, что наверху, у входа на остров.",
+      "style_anchors": [
+        {
+          "source": "Pearl Dealer ",
+          "target": "торговец жемчугом"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.59",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: He doesn't usually sell them but he's my friend.",
+      "translation": "[NPC] Lone Adventurer: Обычно он ими не торгует, но мы с ним друзья.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.60",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'll let him know you helped me!",
+      "translation": "[NPC] Lone Adventurer: Я расскажу ему, что ты мне помог!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.61",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Drop by his shop a little later and I'm sure he will sell you one for cheap!",
+      "translation": "[NPC] Lone Adventurer: Загляни к нему в магазин чуть позже. Уверен, он продаст тебе такой лук недорого!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.62",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'm just about to go slay some Dragons.",
+      "translation": "[NPC] Lone Adventurer: Я как раз собираюсь поохотиться на драконов.",
+      "style_anchors": [
+        {
+          "source": "Dragons",
+          "target": "драконов"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.63",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Come see me later and I'll tell you all about them!",
+      "translation": "[NPC] Lone Adventurer: Загляни ко мне позже, и я всё тебе о них расскажу!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.64",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: For the longest time I thought I would move to the Crimson Isle or visit the Catacombs after this place.",
+      "translation": "[NPC] Lone Adventurer: Я долго думал, что отсюда отправлюсь на Багровый остров или загляну в Катакомбы.",
+      "style_anchors": [
+        {
+          "source": "Crimson Isle ",
+          "target": "Багровый остров "
+        },
+        {
+          "source": "Catacombs ",
+          "target": "Катакомбы"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.65",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: But the truth is, I really like it here.",
+      "translation": "[NPC] Lone Adventurer: Но, честно говоря, мне здесь очень нравится.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.66",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: What I enjoyed the most was helping you and I want to stay here to help more people.",
+      "translation": "[NPC] Lone Adventurer: Больше всего мне понравилось помогать тебе. Хочу остаться здесь и помогать другим.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.67",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You already made a ton of progress and I'm excited for the future.",
+      "translation": "[NPC] Lone Adventurer: Ты уже многого добился, и я с радостью жду, что будет дальше.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.68",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: ⚑ Dragon Guide is my new vocation.",
+      "translation": "[NPC] Lone Adventurer: ⚑ Знаток драконов — моё новое призвание.",
+      "style_anchors": [
+        {
+          "source": "⚑ Dragon Guide ",
+          "target": "⚑ Знаток драконов"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.69",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Ask me anything regarding Dragons!",
+      "translation": "[NPC] Lone Adventurer: Спрашивай меня обо всём, что связано с драконами!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.70",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I want to see if you can kill at least 5 Enderman.",
+      "translation": "[NPC] Lone Adventurer: Хочу посмотреть, сможешь ли ты убить хотя бы 5 эндерменов.",
+      "style_anchors": [
+        {
+          "source": "5 ",
+          "target": "5 "
+        },
+        {
+          "source": "Enderman",
+          "target": "эндерменов"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.71",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I might give you something if you succeed.",
+      "translation": "[NPC] Lone Adventurer: Если справишься, возможно, я тебе кое-что дам.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.72",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I don't really know what happened around here, I'm pretty terrible in history.",
+      "translation": "[NPC] Lone Adventurer: Я толком не знаю, что здесь произошло. В истории я совсем не силён.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.73",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Someone called me an \"Ender noob\" the other day, that was pretty rude.",
+      "translation": "[NPC] Lone Adventurer: На днях кто-то назвал меня «эндер-нубом». Это было довольно грубо.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.74",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: You should look for End Stone or Obsidian with purple glows.",
+      "translation": "[NPC] Lone Adventurer: Ищи камень Края или обсидиан с фиолетовым свечением.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.75",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: They contain cool loot when mined!",
+      "translation": "[NPC] Lone Adventurer: Разрушишь такие блоки — получишь отличную добычу!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.76",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Please bring me back my bow if you find it.",
+      "translation": "[NPC] Lone Adventurer: Пожалуйста, верни мне мой лук, если найдёшь его.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.77",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'm fairly sure one of those Seers has it.",
+      "translation": "[NPC] Lone Adventurer: Я почти уверен, что он у одного из тех провидцев.",
+      "style_anchors": [
+        {
+          "source": "Seers ",
+          "target": "провидцев"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.78",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: The Dragon Shortbow is a powerful weapon.",
+      "translation": "[NPC] Lone Adventurer: Драконий короткий лук — мощное оружие.",
+      "style_anchors": [
+        {
+          "source": "Dragon Shortbow ",
+          "target": "Драконий короткий лук"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.79",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'm going to use it to kill more Dragons as soon as I'm fully recovered.",
+      "translation": "[NPC] Lone Adventurer: Как только полностью поправлюсь, снова пойду с ним охотиться на драконов.",
+      "style_anchors": [
+        {
+          "source": "Dragons ",
+          "target": "драконов"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.80",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: I'd tell you more about Dragons but you're not even Combat level 18.",
+      "translation": "[NPC] Lone Adventurer: Я бы рассказал тебе больше о драконах, но у тебя ещё нет даже 18-го уровня боя.",
+      "style_anchors": [
+        {
+          "source": "Dragons",
+          "target": "драконах"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc83.81",
+      "speaker": "Lone Adventurer",
+      "tag": "NPC",
+      "source": "[NPC] Lone Adventurer: Try your luck slaying some Zealots.",
+      "translation": "[NPC] Lone Adventurer: Попытай удачу в охоте на фанатиков.",
+      "style_anchors": [
+        {
+          "source": "Zealots",
+          "target": "фанатиков"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lone_Adventurer?oldid=823127",
+      "evidence": "public_wiki_revision_not_live_packet"
+    }
+  ]
+}

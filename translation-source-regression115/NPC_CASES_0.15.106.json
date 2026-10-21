@@ -1,0 +1,1240 @@
+{
+  "cases": [
+    {
+      "source": "[NPC] Goon: Aura thanks you for your cooperation. Come back in 30 minutes if you do not want to face the consequences.",
+      "flat_result": "[NPC] Goon: Аура благодарит тебя за сотрудничество. Вернись через 30 минут, если не хочешь столкнуться с последствиями.",
+      "legacy": "§e[NPC] Goon: §fAura thanks you for your cooperation. Come back in 30 minutes if you do not want to face the §1consequences§f.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura thanks you for your cooperation. Come back in 30 minutes if you do not want to face the consequences.",
+      "flat_result": "[NPC] Goon: Аура благодарит тебя за сотрудничество. Вернись через 30 минут, если не хочешь столкнуться с последствиями.",
+      "legacy": "§e[NPC] Goon§f: Aura thanks you for your cooperation. Come back in 30 minutes if you do not want to face the §f§oconsequences§f.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: You've just checked in a few seconds ago...",
+      "flat_result": "[NPC] Goon: Ты отметился всего несколько секунд назад...",
+      "legacy": "§e[NPC] Goon: §fYou've just checked in a few seconds ago...",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: You've just checked in a few seconds ago...",
+      "flat_result": "[NPC] Goon: Ты отметился всего несколько секунд назад...",
+      "legacy": "§e[NPC] Goon§f: You've just checked in a few seconds ago...",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Now go, be a productive citizen for our great society.",
+      "flat_result": "[NPC] Goon: А теперь иди и будь полезным гражданином нашего великого общества.",
+      "legacy": "§e[NPC] Goon: §fNow go, be a productive citizen for our great society.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Now go, be a productive citizen for our great society.",
+      "flat_result": "[NPC] Goon: А теперь иди и будь полезным гражданином нашего великого общества.",
+      "legacy": "§e[NPC] Goon§f: Now go, be a productive citizen for our great society.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: What do you want?",
+      "flat_result": "[NPC] Goon: Чего тебе?",
+      "legacy": "§e[NPC] Goon: §fWhat do you want?",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: What do you want?",
+      "flat_result": "[NPC] Goon: Чего тебе?",
+      "legacy": "§e[NPC] Goon§f: What do you want?",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: [YOUTUBE] im_a_squid_kid has betrayed us all by removing Mayor Aura's Minion Union perk.",
+      "flat_result": "[NPC] Goon: [YOUTUBE] im_a_squid_kid предал нас всех, лишив мэра Ауру бонуса «Профсоюз миньонов».",
+      "legacy": "§e[NPC] Goon: §f§1[YOUTUBE] im_a_squid_kid §fhas betrayed us all by removing Mayor Aura's Minion Union perk.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: [YOUTUBE] im_a_squid_kid has betrayed us all by removing Mayor Aura's Minion Union perk.",
+      "flat_result": "[NPC] Goon: [YOUTUBE] im_a_squid_kid предал нас всех, лишив мэра Ауру бонуса «Профсоюз миньонов».",
+      "legacy": "§e[NPC] Goon§f: §c[§fYOUTUBE§c] im_a_squid_kid §fhas betrayed us all by removing Mayor Aura's Minion Union perk.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: If you want to speak to them, head to the jail...",
+      "flat_result": "[NPC] Goon: Если хочешь с ними поговорить, отправляйся в тюрьму...",
+      "legacy": "§e[NPC] Goon: §fIf you want to speak to them, head to the jail...",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: If you want to speak to them, head to the jail...",
+      "flat_result": "[NPC] Goon: Если хочешь с ними поговорить, отправляйся в тюрьму...",
+      "legacy": "§e[NPC] Goon§f: If you want to speak to them, head to the jail...",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Now move along if you do not want to end up in there as well.",
+      "flat_result": "[NPC] Goon: А теперь проходи, если не хочешь тоже там оказаться.",
+      "legacy": "§e[NPC] Goon: §fNow move along if you do not want to end up in there as well.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Now move along if you do not want to end up in there as well.",
+      "flat_result": "[NPC] Goon: А теперь проходи, если не хочешь тоже там оказаться.",
+      "legacy": "§e[NPC] Goon§f: Now move along if you do not want to end up in there as well.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: [MVP+] Confused_Goon has betrayed us all by removing Mayor Aura's Work Harder perk.",
+      "flat_result": "[NPC] Goon: [MVP+] Confused_Goon предал нас всех, лишив мэра Ауру бонуса «Трудись усерднее».",
+      "legacy": "§e[NPC] Goon: §f§1[MVP+] Confused_Goon §fhas betrayed us all by removing Mayor Aura's Work Harder perk.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: [MVP+] Confused_Goon has betrayed us all by removing Mayor Aura's Work Harder perk.",
+      "flat_result": "[NPC] Goon: [MVP+] Confused_Goon предал нас всех, лишив мэра Ауру бонуса «Трудись усерднее».",
+      "legacy": "§e[NPC] Goon§f: §b[MVP§c+§b] Confused_Goon §fhas betrayed us all by removing Mayor Aura's Work Harder perk.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: [MVP++] SnowflakeKiwi has betrayed us all by removing Mayor Aura's Work Smarter perk.",
+      "flat_result": "[NPC] Goon: [MVP++] SnowflakeKiwi предал нас всех, лишив мэра Ауру бонуса «Работай с умом».",
+      "legacy": "§e[NPC] Goon: §f§1[MVP++] SnowflakeKiwi §fhas betrayed us all by removing Mayor Aura's Work Smarter perk.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: [MVP++] SnowflakeKiwi has betrayed us all by removing Mayor Aura's Work Smarter perk.",
+      "flat_result": "[NPC] Goon: [MVP++] SnowflakeKiwi предал нас всех, лишив мэра Ауру бонуса «Работай с умом».",
+      "legacy": "§e[NPC] Goon§f: §b[MVP§1++§b] SnowflakeKiwi §fhas betrayed us all by removing Mayor Aura's Work Smarter perk.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: The people choose leaders, Aura makes sure they choose wisely.",
+      "flat_result": "[NPC] Goon: Народ выбирает лидеров, а Аура следит, чтобы выбор был правильным.",
+      "legacy": "§e[NPC] Goon: §fThe people choose leaders, Aura makes sure they choose wisely.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: The people choose leaders, Aura makes sure they choose wisely.",
+      "flat_result": "[NPC] Goon: Народ выбирает лидеров, а Аура следит, чтобы выбор был правильным.",
+      "legacy": "§e[NPC] Goon§f: The people choose leaders, Aura makes sure they choose wisely.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura said to 'work harder,' so I hit a tree until I passed out.",
+      "flat_result": "[NPC] Goon: Аура сказала «трудись усерднее», и я бил дерево, пока не потерял сознание.",
+      "legacy": "§e[NPC] Goon: §fAura said to 'work harder,' so I hit a tree until I passed out.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura said to 'work harder,' so I hit a tree until I passed out.",
+      "flat_result": "[NPC] Goon: Аура сказала «трудись усерднее», и я бил дерево, пока не потерял сознание.",
+      "legacy": "§e[NPC] Goon§f: Aura said to 'work harder,' so I hit a tree until I passed out.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Ministers are the voice of the people. So all we have to do is control them.",
+      "flat_result": "[NPC] Goon: Министры — голос народа. Значит, нам остаётся лишь контролировать их.",
+      "legacy": "§e[NPC] Goon: §fMinisters are the voice of the people. So all we have to do is control them.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Ministers are the voice of the people. So all we have to do is control them.",
+      "flat_result": "[NPC] Goon: Министры — голос народа. Значит, нам остаётся лишь контролировать их.",
+      "legacy": "§e[NPC] Goon§f: Ministers are the voice of the people. So all we have to do is control them.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Minister elections... democracy with supervision.",
+      "flat_result": "[NPC] Goon: Выборы министров... демократия под надзором.",
+      "legacy": "§e[NPC] Goon: §fMinister elections... democracy with supervision.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Minister elections... democracy with supervision.",
+      "flat_result": "[NPC] Goon: Выборы министров... демократия под надзором.",
+      "legacy": "§e[NPC] Goon§f: Minister elections... democracy with supervision.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: If a Minister misbehaves, there's always room in the jail.",
+      "flat_result": "[NPC] Goon: Если министр плохо себя ведёт, в тюрьме всегда найдётся место.",
+      "legacy": "§e[NPC] Goon: §fIf a Minister misbehaves, there's always room in the jail.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: If a Minister misbehaves, there's always room in the jail.",
+      "flat_result": "[NPC] Goon: Если министр плохо себя ведёт, в тюрьме всегда найдётся место.",
+      "legacy": "§e[NPC] Goon§f: If a Minister misbehaves, there's always room in the jail.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: A bribed Minister is a loyal Minister. Efficiency!",
+      "flat_result": "[NPC] Goon: Подкупленный министр — преданный министр. Эффективность!",
+      "legacy": "§e[NPC] Goon: §fA bribed Minister is a loyal Minister. Efficiency!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: A bribed Minister is a loyal Minister. Efficiency!",
+      "flat_result": "[NPC] Goon: Подкупленный министр — преданный министр. Эффективность!",
+      "legacy": "§e[NPC] Goon§f: A bribed Minister is a loyal Minister. Efficiency!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Bribery? No, no. Aura calls them 'motivational perks.'",
+      "flat_result": "[NPC] Goon: Взятки? Нет-нет. Аура называет их «стимулами для работы».",
+      "legacy": "§e[NPC] Goon: §fBribery? No, no. Aura calls them 'motivational perks.'",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Bribery? No, no. Aura calls them 'motivational perks.'",
+      "flat_result": "[NPC] Goon: Взятки? Нет-нет. Аура называет их «стимулами для работы».",
+      "legacy": "§e[NPC] Goon§f: Bribery? No, no. Aura calls them 'motivational perks.'",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura brings order. The rest is just noise.",
+      "flat_result": "[NPC] Goon: Аура несёт порядок. Всё остальное — лишь шум.",
+      "legacy": "§e[NPC] Goon: §fAura brings order. The rest is just noise.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura brings order. The rest is just noise.",
+      "flat_result": "[NPC] Goon: Аура несёт порядок. Всё остальное — лишь шум.",
+      "legacy": "§e[NPC] Goon§f: Aura brings order. The rest is just noise.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: If it's fair, it's Aura. If it's unfair... well, it's not Aura.",
+      "flat_result": "[NPC] Goon: Если это справедливо, это Аура. А если несправедливо... ну, значит, это не Аура.",
+      "legacy": "§e[NPC] Goon: §fIf it's fair, it's Aura. If it's unfair... well, it's not Aura.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: If it's fair, it's Aura. If it's unfair... well, it's not Aura.",
+      "flat_result": "[NPC] Goon: Если это справедливо, это Аура. А если несправедливо... ну, значит, это не Аура.",
+      "legacy": "§e[NPC] Goon§f: If it's fair, it's Aura. If it's unfair... well, it's not Aura.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: If Aura told me to mine dirt for a year, I'd ask which shovel.",
+      "flat_result": "[NPC] Goon: Если бы Аура велела мне год копать землю, я бы спросил, какой лопатой.",
+      "legacy": "§e[NPC] Goon: §fIf Aura told me to mine dirt for a year, I'd ask which shovel.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: If Aura told me to mine dirt for a year, I'd ask which shovel.",
+      "flat_result": "[NPC] Goon: Если бы Аура велела мне год копать землю, я бы спросил, какой лопатой.",
+      "legacy": "§e[NPC] Goon§f: If Aura told me to mine dirt for a year, I'd ask which shovel.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Between you and me... Aura always wanted to surpass Dante.",
+      "flat_result": "[NPC] Goon: Между нами... Аура всегда хотела превзойти Данте.",
+      "legacy": "§e[NPC] Goon: §fBetween you and me... Aura always wanted to surpass Dante.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Between you and me... Aura always wanted to surpass Dante.",
+      "flat_result": "[NPC] Goon: Между нами... Аура всегда хотела превзойти Данте.",
+      "legacy": "§e[NPC] Goon§f: Between you and me... Aura always wanted to surpass Dante.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura watched Dante fall and took notes. Lots of notes.",
+      "flat_result": "[NPC] Goon: Аура наблюдала за падением Данте и делала заметки. Много заметок.",
+      "legacy": "§e[NPC] Goon: §fAura watched Dante fall and took notes. Lots of notes.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura watched Dante fall and took notes. Lots of notes.",
+      "flat_result": "[NPC] Goon: Аура наблюдала за падением Данте и делала заметки. Много заметок.",
+      "legacy": "§e[NPC] Goon§f: Aura watched Dante fall and took notes. Lots of notes.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Dante tried too hard. Aura tries smarter.",
+      "flat_result": "[NPC] Goon: Данте слишком усердствовал. Аура действует с умом.",
+      "legacy": "§e[NPC] Goon: §fDante tried too hard. Aura tries §1smarter.§f",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Dante tried too hard. Aura tries smarter.",
+      "flat_result": "[NPC] Goon: Данте слишком усердствовал. Аура действует с умом.",
+      "legacy": "§e[NPC] Goon§f: Dante tried too hard. Aura tries §osmarter.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Dante lost control. Aura studies control.",
+      "flat_result": "[NPC] Goon: Данте потерял контроль. Аура изучает искусство контроля.",
+      "legacy": "§e[NPC] Goon: §fDante lost control. Aura studies control.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Dante lost control. Aura studies control.",
+      "flat_result": "[NPC] Goon: Данте потерял контроль. Аура изучает искусство контроля.",
+      "legacy": "§e[NPC] Goon§f: Dante lost control. Aura studies control.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Dante feared chaos. Aura just organizes it.",
+      "flat_result": "[NPC] Goon: Данте боялся хаоса. Аура просто его упорядочивает.",
+      "legacy": "§e[NPC] Goon: §fDante feared chaos. Aura just organizes it.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Dante feared chaos. Aura just organizes it.",
+      "flat_result": "[NPC] Goon: Данте боялся хаоса. Аура просто его упорядочивает.",
+      "legacy": "§e[NPC] Goon§f: Dante feared chaos. Aura just organizes it.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Dante failed because he underestimated the people. Aura won't.",
+      "flat_result": "[NPC] Goon: Данте проиграл, потому что недооценил народ. Аура такой ошибки не допустит.",
+      "legacy": "§e[NPC] Goon: §fDante failed because he underestimated the people. Aura won't.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Dante failed because he underestimated the people. Aura won't.",
+      "flat_result": "[NPC] Goon: Данте проиграл, потому что недооценил народ. Аура такой ошибки не допустит.",
+      "legacy": "§e[NPC] Goon§f: Dante failed because he underestimated the people. Aura won't.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Secret elections overthrew Dante, so Aura made elections... less secret.",
+      "flat_result": "[NPC] Goon: Тайные выборы свергли Данте, поэтому Аура сделала выборы... менее тайными.",
+      "legacy": "§e[NPC] Goon: §fSecret elections overthrew Dante, so Aura made elections... less secret.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Secret elections overthrew Dante, so Aura made elections... less secret.",
+      "flat_result": "[NPC] Goon: Тайные выборы свергли Данте, поэтому Аура сделала выборы... менее тайными.",
+      "legacy": "§e[NPC] Goon§f: Secret elections overthrew Dante, so Aura made elections... less secret.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Did you know Aura and Dante trained together? She actually learned from his mistakes.",
+      "flat_result": "[NPC] Goon: Ты знал, что Аура и Данте тренировались вместе? Она действительно училась на его ошибках.",
+      "legacy": "§e[NPC] Goon: §fDid you know Aura and Dante trained together? She actually learned from his mistakes.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Did you know Aura and Dante trained together? She actually learned from his mistakes.",
+      "flat_result": "[NPC] Goon: Ты знал, что Аура и Данте тренировались вместе? Она действительно училась на его ошибках.",
+      "legacy": "§e[NPC] Goon§f: Did you know Aura and Dante trained together? She actually learned from his mistakes.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura was Shen's Elite N°2 once. Dante never acknowledged her.",
+      "flat_result": "[NPC] Goon: Когда-то Аура была №2 в элитной команде Шэня. Данте так и не признал её.",
+      "legacy": "§e[NPC] Goon: §fAura was Shen's Elite §1N°2§f once. Dante never acknowledged her.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura was Shen's Elite N°2 once. Dante never acknowledged her.",
+      "flat_result": "[NPC] Goon: Когда-то Аура была №2 в элитной команде Шэня. Данте так и не признал её.",
+      "legacy": "§e[NPC] Goon§f: Aura was Shen's Elite N°2 once. Dante never acknowledged her.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: When Dante left Shen's team, Aura followed. But she had a plan.",
+      "flat_result": "[NPC] Goon: Когда Данте ушёл из команды Шэня, Аура последовала за ним. Но у неё был план.",
+      "legacy": "§e[NPC] Goon: §fWhen Dante left Shen's team, Aura followed. But she had a plan.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: When Dante left Shen's team, Aura followed. But she had a plan.",
+      "flat_result": "[NPC] Goon: Когда Данте ушёл из команды Шэня, Аура последовала за ним. Но у неё был план.",
+      "legacy": "§e[NPC] Goon§f: When Dante left Shen's team, Aura followed. But she had a plan.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Enjoy your Universal Income. Aura made that happen.",
+      "flat_result": "[NPC] Goon: Наслаждайся всеобщим доходом. Это заслуга Ауры.",
+      "legacy": "§e[NPC] Goon: §fEnjoy your Universal Income. Aura made that happen.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Enjoy your Universal Income. Aura made that happen.",
+      "flat_result": "[NPC] Goon: Наслаждайся всеобщим доходом. Это заслуга Ауры.",
+      "legacy": "§e[NPC] Goon§f: Enjoy your Universal Income. Aura made that happen.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Universal Income? More like Universal Happiness!",
+      "flat_result": "[NPC] Goon: Всеобщий доход? Скорее всеобщее счастье!",
+      "legacy": "§e[NPC] Goon: §fUniversal Income? More like Universal Happiness!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Universal Income? More like Universal Happiness!",
+      "flat_result": "[NPC] Goon: Всеобщий доход? Скорее всеобщее счастье!",
+      "legacy": "§e[NPC] Goon§f: Universal Income? More like Universal Happiness!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: I love taxes.",
+      "flat_result": "[NPC] Goon: Обожаю налоги.",
+      "legacy": "§e[NPC] Goon: §fI love taxes.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: I love taxes.",
+      "flat_result": "[NPC] Goon: Обожаю налоги.",
+      "legacy": "§e[NPC] Goon§f: I love taxes.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Keep spending! Equality depends on your wallet.",
+      "flat_result": "[NPC] Goon: Продолжай тратить! Равенство зависит от твоего кошелька.",
+      "legacy": "§e[NPC] Goon: §fKeep spending! Equality depends on your wallet.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Keep spending! Equality depends on your wallet.",
+      "flat_result": "[NPC] Goon: Продолжай тратить! Равенство зависит от твоего кошелька.",
+      "legacy": "§e[NPC] Goon§f: Keep spending! Equality depends on your wallet.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Every tax is a step towards equality!",
+      "flat_result": "[NPC] Goon: Каждый налог — шаг к равенству!",
+      "legacy": "§e[NPC] Goon: §fEvery tax is a step towards equality!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Every tax is a step towards equality!",
+      "flat_result": "[NPC] Goon: Каждый налог — шаг к равенству!",
+      "legacy": "§e[NPC] Goon§f: Every tax is a step towards equality!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura takes my coins, and yet I feel richer.",
+      "flat_result": "[NPC] Goon: Аура забирает мои монеты, а я всё равно чувствую себя богаче.",
+      "legacy": "§e[NPC] Goon: §fAura takes my coins, and yet I feel richer.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura takes my coins, and yet I feel richer.",
+      "flat_result": "[NPC] Goon: Аура забирает мои монеты, а я всё равно чувствую себя богаче.",
+      "legacy": "§e[NPC] Goon§f: Aura takes my coins, and yet I feel richer.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: If Aura needs coins, she can have my purse.",
+      "flat_result": "[NPC] Goon: Если Ауре нужны монеты, она может забрать мой кошелёк.",
+      "legacy": "§e[NPC] Goon: §fIf Aura needs coins, she can have my purse.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: If Aura needs coins, she can have my purse.",
+      "flat_result": "[NPC] Goon: Если Ауре нужны монеты, она может забрать мой кошелёк.",
+      "legacy": "§e[NPC] Goon§f: If Aura needs coins, she can have my purse.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: I read Aura's rulebook upside down and it still made sense.",
+      "flat_result": "[NPC] Goon: Я читал свод правил Ауры вверх ногами, и даже так всё было понятно.",
+      "legacy": "§e[NPC] Goon: §fI read Aura's rulebook upside down and it still made sense.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: I read Aura's rulebook upside down and it still made sense.",
+      "flat_result": "[NPC] Goon: Я читал свод правил Ауры вверх ногами, и даже так всё было понятно.",
+      "legacy": "§e[NPC] Goon§f: I read Aura's rulebook upside down and it still made sense.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: I salute Aura every time I open the Bazaar.",
+      "flat_result": "[NPC] Goon: Я отдаю честь Ауре каждый раз, когда открываю Базар.",
+      "legacy": "§e[NPC] Goon: §fI salute Aura every time I open the Bazaar.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: I salute Aura every time I open the Bazaar.",
+      "flat_result": "[NPC] Goon: Я отдаю честь Ауре каждый раз, когда открываю Базар.",
+      "legacy": "§e[NPC] Goon§f: I salute Aura every time I open the Bazaar.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Thanks to Aura, even the lazy contribute something.",
+      "flat_result": "[NPC] Goon: Благодаря Ауре даже ленивые приносят какую-то пользу.",
+      "legacy": "§e[NPC] Goon: §fThanks to Aura, even the lazy contribute something.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Thanks to Aura, even the lazy contribute something.",
+      "flat_result": "[NPC] Goon: Благодаря Ауре даже ленивые приносят какую-то пользу.",
+      "legacy": "§e[NPC] Goon§f: Thanks to Aura, even the lazy contribute something.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Everyone can vote, but Aura counts the votes.",
+      "flat_result": "[NPC] Goon: Голосовать может каждый, но голоса считает Аура.",
+      "legacy": "§e[NPC] Goon: §fEveryone can vote, but Aura counts the votes.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Everyone can vote, but Aura counts the votes.",
+      "flat_result": "[NPC] Goon: Голосовать может каждый, но голоса считает Аура.",
+      "legacy": "§e[NPC] Goon§f: Everyone can vote, but Aura counts the votes.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura lets you vote for anyone! And then supervises them closely.",
+      "flat_result": "[NPC] Goon: Аура разрешает голосовать за кого угодно! А потом пристально за ними следит.",
+      "legacy": "§e[NPC] Goon: §fAura lets you vote for anyone! And then supervises them closely.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura lets you vote for anyone! And then supervises them closely.",
+      "flat_result": "[NPC] Goon: Аура разрешает голосовать за кого угодно! А потом пристально за ними следит.",
+      "legacy": "§e[NPC] Goon§f: Aura lets you vote for anyone! And then supervises them closely.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Hard work makes Aura smile. Don't you want Aura to smile?",
+      "flat_result": "[NPC] Goon: Усердный труд радует Ауру. Разве ты не хочешь порадовать Ауру?",
+      "legacy": "§e[NPC] Goon: §fHard work makes Aura smile. Don't you want Aura to smile?",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Hard work makes Aura smile. Don't you want Aura to smile?",
+      "flat_result": "[NPC] Goon: Усердный труд радует Ауру. Разве ты не хочешь порадовать Ауру?",
+      "legacy": "§e[NPC] Goon§f: Hard work makes Aura smile. Don't you want Aura to smile?",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Honestly, I sleep better knowing Aura might be spying on me.",
+      "flat_result": "[NPC] Goon: Честно говоря, я сплю спокойнее, зная, что Аура, возможно, за мной следит.",
+      "legacy": "§e[NPC] Goon: §fHonestly, I sleep better knowing Aura might be spying on me.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Honestly, I sleep better knowing Aura might be spying on me.",
+      "flat_result": "[NPC] Goon: Честно говоря, я сплю спокойнее, зная, что Аура, возможно, за мной следит.",
+      "legacy": "§e[NPC] Goon§f: Honestly, I sleep better knowing Aura might be spying on me.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura works hard so you don't have to think.",
+      "flat_result": "[NPC] Goon: Аура усердно работает, чтобы тебе не приходилось думать.",
+      "legacy": "§e[NPC] Goon: §fAura works hard so you don't have to think.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura works hard so you don't have to think.",
+      "flat_result": "[NPC] Goon: Аура усердно работает, чтобы тебе не приходилось думать.",
+      "legacy": "§e[NPC] Goon§f: Aura works hard so you don't have to think.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura says equality, and we say 'yes, ma'am.'",
+      "flat_result": "[NPC] Goon: Аура говорит «равенство», а мы отвечаем: «Да, госпожа».",
+      "legacy": "§e[NPC] Goon: §fAura says equality, and we say 'yes, ma'am.'",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura says equality, and we say 'yes, ma'am.'",
+      "flat_result": "[NPC] Goon: Аура говорит «равенство», а мы отвечаем: «Да, госпожа».",
+      "legacy": "§e[NPC] Goon§f: Aura says equality, and we say 'yes, ma'am.'",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: A fair society starts with a firm hand.",
+      "flat_result": "[NPC] Goon: Справедливое общество начинается с твёрдой руки.",
+      "legacy": "§e[NPC] Goon: §fA fair society starts with a firm hand.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: A fair society starts with a firm hand.",
+      "flat_result": "[NPC] Goon: Справедливое общество начинается с твёрдой руки.",
+      "legacy": "§e[NPC] Goon§f: A fair society starts with a firm hand.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Progress feels heavy, that means it's working.",
+      "flat_result": "[NPC] Goon: Прогресс даётся тяжело — значит, всё работает.",
+      "legacy": "§e[NPC] Goon: §fProgress feels heavy, that means it's working.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Progress feels heavy, that means it's working.",
+      "flat_result": "[NPC] Goon: Прогресс даётся тяжело — значит, всё работает.",
+      "legacy": "§e[NPC] Goon§f: Progress feels heavy, that means it's working.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Chat responsibly, our ears are everywhere.",
+      "flat_result": "[NPC] Goon: Следи за тем, что пишешь в чате: у нас повсюду уши.",
+      "legacy": "§e[NPC] Goon: §fChat responsibly, our ears are everywhere.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Chat responsibly, our ears are everywhere.",
+      "flat_result": "[NPC] Goon: Следи за тем, что пишешь в чате: у нас повсюду уши.",
+      "legacy": "§e[NPC] Goon§f: Chat responsibly, our ears are everywhere.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura takes, Aura gives.",
+      "flat_result": "[NPC] Goon: Аура забирает, Аура даёт.",
+      "legacy": "§e[NPC] Goon: §fAura takes, Aura gives.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura takes, Aura gives.",
+      "flat_result": "[NPC] Goon: Аура забирает, Аура даёт.",
+      "legacy": "§e[NPC] Goon§f: Aura takes, Aura gives.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura says jump. I say 'how many times?'",
+      "flat_result": "[NPC] Goon: Аура говорит «прыгай». Я спрашиваю: «Сколько раз?»",
+      "legacy": "§e[NPC] Goon: §fAura says jump. I say 'how many times?'",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura says jump. I say 'how many times?'",
+      "flat_result": "[NPC] Goon: Аура говорит «прыгай». Я спрашиваю: «Сколько раз?»",
+      "legacy": "§e[NPC] Goon§f: Aura says jump. I say 'how many times?'",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: When the monsters hit harder, I say thank you.",
+      "flat_result": "[NPC] Goon: Когда чудовища бьют сильнее, я говорю спасибо.",
+      "legacy": "§e[NPC] Goon: §fWhen the monsters hit harder, I say thank you.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: When the monsters hit harder, I say thank you.",
+      "flat_result": "[NPC] Goon: Когда чудовища бьют сильнее, я говорю спасибо.",
+      "legacy": "§e[NPC] Goon§f: When the monsters hit harder, I say thank you.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Don't question the plan, the plan questions you.",
+      "flat_result": "[NPC] Goon: Не ставь план под сомнение — это план ставит под сомнение тебя.",
+      "legacy": "§e[NPC] Goon: §fDon't question the plan, the plan questions §1you.§f",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Don't question the plan, the plan questions you.",
+      "flat_result": "[NPC] Goon: Не ставь план под сомнение — это план ставит под сомнение тебя.",
+      "legacy": "§e[NPC] Goon§f: Don't question the plan, the plan questions §oyou.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Trust the system, Aura perfected it.",
+      "flat_result": "[NPC] Goon: Доверься системе: Аура довела её до совершенства.",
+      "legacy": "§e[NPC] Goon: §fTrust the system, Aura perfected it.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Trust the system, Aura perfected it.",
+      "flat_result": "[NPC] Goon: Доверься системе: Аура довела её до совершенства.",
+      "legacy": "§e[NPC] Goon§f: Trust the system, Aura perfected it.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Stay productive, citizen, Aura is counting on you.",
+      "flat_result": "[NPC] Goon: Не переставай трудиться, гражданин: Аура на тебя рассчитывает.",
+      "legacy": "§e[NPC] Goon: §fStay productive, citizen, Aura is counting on you.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Stay productive, citizen, Aura is counting on you.",
+      "flat_result": "[NPC] Goon: Не переставай трудиться, гражданин: Аура на тебя рассчитывает.",
+      "legacy": "§e[NPC] Goon§f: Stay productive, citizen, Aura is counting on you.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: If Aura leaves, who will monitor my thoughts?",
+      "flat_result": "[NPC] Goon: Если Аура уйдёт, кто будет следить за моими мыслями?",
+      "legacy": "§e[NPC] Goon: §fIf Aura leaves, who will monitor my thoughts?",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: If Aura leaves, who will monitor my thoughts?",
+      "flat_result": "[NPC] Goon: Если Аура уйдёт, кто будет следить за моими мыслями?",
+      "legacy": "§e[NPC] Goon§f: If Aura leaves, who will monitor my thoughts?",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: If Aura goes... who will guide my wallet?",
+      "flat_result": "[NPC] Goon: Если Аура уйдёт... кто будет направлять мой кошелёк?",
+      "legacy": "§e[NPC] Goon: §fIf Aura goes... who will guide my wallet?",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: If Aura goes... who will guide my wallet?",
+      "flat_result": "[NPC] Goon: Если Аура уйдёт... кто будет направлять мой кошелёк?",
+      "legacy": "§e[NPC] Goon§f: If Aura goes... who will guide my wallet?",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: She's not going because she failed. She's going because she's honourable.",
+      "flat_result": "[NPC] Goon: Она уходит не из-за неудачи. Она уходит, потому что у неё есть честь.",
+      "legacy": "§e[NPC] Goon: §fShe's not going because she failed. She's going because she's honourable.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: She's not going because she failed. She's going because she's honourable.",
+      "flat_result": "[NPC] Goon: Она уходит не из-за неудачи. Она уходит, потому что у неё есть честь.",
+      "legacy": "§e[NPC] Goon§f: She's not going because she failed. She's going because she's honourable.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura deserved better. Much better.",
+      "flat_result": "[NPC] Goon: Аура заслуживала лучшего. Гораздо лучшего.",
+      "legacy": "§e[NPC] Goon: §fAura deserved better. Much better.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura deserved better. Much better.",
+      "flat_result": "[NPC] Goon: Аура заслуживала лучшего. Гораздо лучшего.",
+      "legacy": "§e[NPC] Goon§f: Aura deserved better. Much better.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: The Ministers didn't support her vision... and now she's leaving. Good job, everyone.",
+      "flat_result": "[NPC] Goon: Министры не поддержали её замысел... и теперь она уходит. Молодцы, все до одного.",
+      "legacy": "§e[NPC] Goon: §fThe Ministers didn't support her vision... and now she's leaving. Good job, everyone.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: The Ministers didn't support her vision... and now she's leaving. Good job, everyone.",
+      "flat_result": "[NPC] Goon: Министры не поддержали её замысел... и теперь она уходит. Молодцы, все до одного.",
+      "legacy": "§e[NPC] Goon§f: The Ministers didn't support her vision... and now she's leaving. Good job, everyone.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: I hope those Ministers are proud. They shattered her confidence.",
+      "flat_result": "[NPC] Goon: Надеюсь, эти министры гордятся собой. Они подорвали её уверенность.",
+      "legacy": "§e[NPC] Goon: §fI hope those Ministers are proud. They shattered her confidence.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: I hope those Ministers are proud. They shattered her confidence.",
+      "flat_result": "[NPC] Goon: Надеюсь, эти министры гордятся собой. Они подорвали её уверенность.",
+      "legacy": "§e[NPC] Goon§f: I hope those Ministers are proud. They shattered her confidence.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura leaving...? I don't understand. They were doing so well.",
+      "flat_result": "[NPC] Goon: Аура уходит?.. Не понимаю. Всё же шло так хорошо.",
+      "legacy": "§e[NPC] Goon: §fAura leaving...? I don't understand. They were doing so well.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura leaving...? I don't understand. They were doing so well.",
+      "flat_result": "[NPC] Goon: Аура уходит?.. Не понимаю. Всё же шло так хорошо.",
+      "legacy": "§e[NPC] Goon§f: Aura leaving...? I don't understand. They were doing so well.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: You remove one little thing from her system and suddenly she doubts everything.",
+      "flat_result": "[NPC] Goon: Убираешь одну мелочь из её системы — и вдруг она уже сомневается во всём.",
+      "legacy": "§e[NPC] Goon: §fYou remove one little thing from her system and suddenly she doubts everything.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: You remove one little thing from her system and suddenly she doubts everything.",
+      "flat_result": "[NPC] Goon: Убираешь одну мелочь из её системы — и вдруг она уже сомневается во всём.",
+      "legacy": "§e[NPC] Goon§f: You remove one little thing from her system and suddenly she doubts everything.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Dante would've fought. Aura simply bows and walks away... gracefully.",
+      "flat_result": "[NPC] Goon: Данте бы сражался. Аура просто кланяется и уходит... с достоинством.",
+      "legacy": "§e[NPC] Goon: §fDante would've fought. Aura simply bows and walks away... gracefully.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Dante would've fought. Aura simply bows and walks away... gracefully.",
+      "flat_result": "[NPC] Goon: Данте бы сражался. Аура просто кланяется и уходит... с достоинством.",
+      "legacy": "§e[NPC] Goon§f: Dante would've fought. Aura simply bows and walks away... gracefully.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: She believed in the people. Maybe too much.",
+      "flat_result": "[NPC] Goon: Она верила в народ. Возможно, слишком сильно.",
+      "legacy": "§e[NPC] Goon: §fShe believed in the people. Maybe too much.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: She believed in the people. Maybe too much.",
+      "flat_result": "[NPC] Goon: Она верила в народ. Возможно, слишком сильно.",
+      "legacy": "§e[NPC] Goon§f: She believed in the people. Maybe too much.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: She knows when she isn't wanted. That's what makes her noble.",
+      "flat_result": "[NPC] Goon: Она понимает, когда ей не рады. В этом и проявляется её благородство.",
+      "legacy": "§e[NPC] Goon: §fShe knows when she isn't wanted. That's what makes her noble.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: She knows when she isn't wanted. That's what makes her noble.",
+      "flat_result": "[NPC] Goon: Она понимает, когда ей не рады. В этом и проявляется её благородство.",
+      "legacy": "§e[NPC] Goon§f: She knows when she isn't wanted. That's what makes her noble.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: I heard Aura sigh today. Aura never sighs.",
+      "flat_result": "[NPC] Goon: Сегодня я слышал, как Аура вздохнула. Аура никогда не вздыхает.",
+      "legacy": "§e[NPC] Goon: §fI heard Aura sigh today. Aura never sighs.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: I heard Aura sigh today. Aura never sighs.",
+      "flat_result": "[NPC] Goon: Сегодня я слышал, как Аура вздохнула. Аура никогда не вздыхает.",
+      "legacy": "§e[NPC] Goon§f: I heard Aura sigh today. Aura never sighs.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: I didn't think equality would make me cry, but here we are.",
+      "flat_result": "[NPC] Goon: Не думал, что равенство заставит меня плакать, но вот мы и здесь.",
+      "legacy": "§e[NPC] Goon: §fI didn't think equality would make me cry, but here we are.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: I didn't think equality would make me cry, but here we are.",
+      "flat_result": "[NPC] Goon: Не думал, что равенство заставит меня плакать, но вот мы и здесь.",
+      "legacy": "§e[NPC] Goon§f: I didn't think equality would make me cry, but here we are.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: She trusted us. And we broke her system. Literally.",
+      "flat_result": "[NPC] Goon: Она нам доверяла. А мы сломали её систему. Буквально.",
+      "legacy": "§e[NPC] Goon: §fShe trusted us. And we broke her system. Literally.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: She trusted us. And we broke her system. Literally.",
+      "flat_result": "[NPC] Goon: Она нам доверяла. А мы сломали её систему. Буквально.",
+      "legacy": "§e[NPC] Goon§f: She trusted us. And we broke her system. Literally.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: She didn't scold me today. Something's wrong.",
+      "flat_result": "[NPC] Goon: Сегодня она меня не отругала. Что-то не так.",
+      "legacy": "§e[NPC] Goon: §fShe didn't scold me today. Something's wrong.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: She didn't scold me today. Something's wrong.",
+      "flat_result": "[NPC] Goon: Сегодня она меня не отругала. Что-то не так.",
+      "legacy": "§e[NPC] Goon§f: She didn't scold me today. Something's wrong.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura isn't the type to cling to power. She's better than that.",
+      "flat_result": "[NPC] Goon: Аура не из тех, кто цепляется за власть. Она выше этого.",
+      "legacy": "§e[NPC] Goon: §fAura isn't the type to cling to power. She's better than that.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura isn't the type to cling to power. She's better than that.",
+      "flat_result": "[NPC] Goon: Аура не из тех, кто цепляется за власть. Она выше этого.",
+      "legacy": "§e[NPC] Goon§f: Aura isn't the type to cling to power. She's better than that.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura stepping down feels illegal. Emotionally, at least.",
+      "flat_result": "[NPC] Goon: Отставка Ауры кажется незаконной. По крайней мере, по ощущениям.",
+      "legacy": "§e[NPC] Goon: §fAura stepping down feels illegal. Emotionally, at least.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura stepping down feels illegal. Emotionally, at least.",
+      "flat_result": "[NPC] Goon: Отставка Ауры кажется незаконной. По крайней мере, по ощущениям.",
+      "legacy": "§e[NPC] Goon§f: Aura stepping down feels illegal. Emotionally, at least.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: You didn't deserve Aura, and now she knows it.",
+      "flat_result": "[NPC] Goon: Ты не заслуживал Ауру, и теперь она это знает.",
+      "legacy": "§e[NPC] Goon: §fYou didn't deserve Aura, and now she knows it.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: You didn't deserve Aura, and now she knows it.",
+      "flat_result": "[NPC] Goon: Ты не заслуживал Ауру, и теперь она это знает.",
+      "legacy": "§e[NPC] Goon§f: You didn't deserve Aura, and now she knows it.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: I thought she was eternal. Turns out she's humble.",
+      "flat_result": "[NPC] Goon: Я думал, она вечна. Оказалось, она скромна.",
+      "legacy": "§e[NPC] Goon: §fI thought she was eternal. Turns out she's humble.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: I thought she was eternal. Turns out she's humble.",
+      "flat_result": "[NPC] Goon: Я думал, она вечна. Оказалось, она скромна.",
+      "legacy": "§e[NPC] Goon§f: I thought she was eternal. Turns out she's humble.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura saw the signs. And she chose dignity instead of chaos.",
+      "flat_result": "[NPC] Goon: Аура заметила тревожные признаки. И выбрала достоинство, а не хаос.",
+      "legacy": "§e[NPC] Goon: §fAura saw the signs. And she chose dignity instead of chaos.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura saw the signs. And she chose dignity instead of chaos.",
+      "flat_result": "[NPC] Goon: Аура заметила тревожные признаки. И выбрала достоинство, а не хаос.",
+      "legacy": "§e[NPC] Goon§f: Aura saw the signs. And she chose dignity instead of chaos.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: She's too pure to fight for power. She just lets it go.",
+      "flat_result": "[NPC] Goon: Она слишком чиста, чтобы бороться за власть. Она просто отпускает её.",
+      "legacy": "§e[NPC] Goon: §fShe's too pure to fight for power. She just lets it go.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: She's too pure to fight for power. She just lets it go.",
+      "flat_result": "[NPC] Goon: Она слишком чиста, чтобы бороться за власть. Она просто отпускает её.",
+      "legacy": "§e[NPC] Goon§f: She's too pure to fight for power. She just lets it go.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aura gave us everything. And this is how YOU repay her?",
+      "flat_result": "[NPC] Goon: Аура дала нам всё. И вот так ВЫ ей отплачиваете?",
+      "legacy": "§e[NPC] Goon: §fAura gave us everything. And this is how YOU repay her?",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aura gave us everything. And this is how YOU repay her?",
+      "flat_result": "[NPC] Goon: Аура дала нам всё. И вот так ВЫ ей отплачиваете?",
+      "legacy": "§e[NPC] Goon§f: Aura gave us everything. And this is how YOU repay her?",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Somebody hurt her feelings. I won't say who.",
+      "flat_result": "[NPC] Goon: Кто-то ранил её чувства. Не буду говорить кто.",
+      "legacy": "§e[NPC] Goon: §fSomebody hurt her feelings. I won't say who.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Somebody hurt her feelings. I won't say who.",
+      "flat_result": "[NPC] Goon: Кто-то ранил её чувства. Не буду говорить кто.",
+      "legacy": "§e[NPC] Goon§f: Somebody hurt her feelings. I won't say who.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: If Aura wanted to stay, she would've. She's stepping back out of respect.",
+      "flat_result": "[NPC] Goon: Если бы Аура хотела остаться, она бы осталась. Она отступает из уважения.",
+      "legacy": "§e[NPC] Goon: §fIf Aura wanted to stay, she would've. She's stepping back out of respect.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: If Aura wanted to stay, she would've. She's stepping back out of respect.",
+      "flat_result": "[NPC] Goon: Если бы Аура хотела остаться, она бы осталась. Она отступает из уважения.",
+      "legacy": "§e[NPC] Goon§f: If Aura wanted to stay, she would've. She's stepping back out of respect.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Violence will not be tolerated!",
+      "flat_result": "[NPC] Goon: Насилие недопустимо!",
+      "legacy": "§e[NPC] Goon: §fViolence will not be tolerated!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Violence will not be tolerated!",
+      "flat_result": "[NPC] Goon: Насилие недопустимо!",
+      "legacy": "§e[NPC] Goon§f: Violence will not be tolerated!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Try to pull that stunt again and I will not be so lenilent!",
+      "flat_result": "[NPC] Goon: Попробуй ещё раз такое выкинуть — и я уже не буду столь снисходителен!",
+      "legacy": "§e[NPC] Goon: §fTry to pull that stunt again and I will not be so lenilent!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Try to pull that stunt again and I will not be so lenilent!",
+      "flat_result": "[NPC] Goon: Попробуй ещё раз такое выкинуть — и я уже не буду столь снисходителен!",
+      "legacy": "§e[NPC] Goon§f: Try to pull that stunt again and I will not be so lenilent!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: What do you think you're doing?",
+      "flat_result": "[NPC] Goon: Ты что себе позволяешь?",
+      "legacy": "§e[NPC] Goon: §fWhat do you think you're doing?",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: What do you think you're doing?",
+      "flat_result": "[NPC] Goon: Ты что себе позволяешь?",
+      "legacy": "§e[NPC] Goon§f: What do you think you're doing?",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Have fun rotting in jail.",
+      "flat_result": "[NPC] Goon: Приятно тебе сгнить в тюрьме.",
+      "legacy": "§e[NPC] Goon: §fHave fun rotting in jail.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Have fun rotting in jail.",
+      "flat_result": "[NPC] Goon: Приятно тебе сгнить в тюрьме.",
+      "legacy": "§e[NPC] Goon§f: Have fun rotting in jail.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: dante best",
+      "flat_result": "[NPC] Goon: данте лучший",
+      "legacy": "§e[NPC] Goon: §fdante best",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: dante best",
+      "flat_result": "[NPC] Goon: данте лучший",
+      "legacy": "§e[NPC] Goon§f: dante best",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: go Dante in community center get Happy Mask!",
+      "flat_result": "[NPC] Goon: иди к Данте в общественный центр, получи Счастливую маску!",
+      "legacy": "§e[NPC] Goon: §fgo Dante in community center get Happy Mask!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: go Dante in community center get Happy Mask!",
+      "flat_result": "[NPC] Goon: иди к Данте в общественный центр, получи Счастливую маску!",
+      "legacy": "§e[NPC] Goon§f: go Dante in community center get Happy Mask!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: you not happy? go get Happy Mask!",
+      "flat_result": "[NPC] Goon: ты не счастлив? иди за Счастливой маской!",
+      "legacy": "§e[NPC] Goon: §fyou not happy? go get Happy Mask!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: you not happy? go get Happy Mask!",
+      "flat_result": "[NPC] Goon: ты не счастлив? иди за Счастливой маской!",
+      "legacy": "§e[NPC] Goon§f: you not happy? go get Happy Mask!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: you need wear Happy Mask!",
+      "flat_result": "[NPC] Goon: тебе надо носить Счастливую маску!",
+      "legacy": "§e[NPC] Goon: §fyou need wear Happy Mask!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: you need wear Happy Mask!",
+      "flat_result": "[NPC] Goon: тебе надо носить Счастливую маску!",
+      "legacy": "§e[NPC] Goon§f: you need wear Happy Mask!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: oi, where your Happy Mask?",
+      "flat_result": "[NPC] Goon: эй, где твоя Счастливая маска?",
+      "legacy": "§e[NPC] Goon: §foi, where your Happy Mask?",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: oi, where your Happy Mask?",
+      "flat_result": "[NPC] Goon: эй, где твоя Счастливая маска?",
+      "legacy": "§e[NPC] Goon§f: oi, where your Happy Mask?",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Go to Dante in the community center to claim your Happy Mask!",
+      "flat_result": "[NPC] Goon: Иди к Данте в общественный центр и получи Счастливую маску!",
+      "legacy": "§e[NPC] Goon: §fGo to Dante in the community center to claim your Happy Mask!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Go to Dante in the community center to claim your Happy Mask!",
+      "flat_result": "[NPC] Goon: Иди к Данте в общественный центр и получи Счастливую маску!",
+      "legacy": "§e[NPC] Goon§f: Go to Dante in the community center to claim your Happy Mask!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Aren't you happy? Go get your Happy Mask!",
+      "flat_result": "[NPC] Goon: Разве ты не счастлив? Иди за своей Счастливой маской!",
+      "legacy": "§e[NPC] Goon: §fAren't you happy? Go get your Happy Mask!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Aren't you happy? Go get your Happy Mask!",
+      "flat_result": "[NPC] Goon: Разве ты не счастлив? Иди за своей Счастливой маской!",
+      "legacy": "§e[NPC] Goon§f: Aren't you happy? Go get your Happy Mask!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: You need to wear your Happy Mask!",
+      "flat_result": "[NPC] Goon: Тебе нужно носить Счастливую маску!",
+      "legacy": "§e[NPC] Goon: §fYou need to wear your Happy Mask!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: You need to wear your Happy Mask!",
+      "flat_result": "[NPC] Goon: Тебе нужно носить Счастливую маску!",
+      "legacy": "§e[NPC] Goon§f: You need to wear your Happy Mask!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Oi, where is your Happy Mask?",
+      "flat_result": "[NPC] Goon: Эй, где твоя Счастливая маска?",
+      "legacy": "§e[NPC] Goon: §fOi, where is your Happy Mask?",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Oi, where is your Happy Mask?",
+      "flat_result": "[NPC] Goon: Эй, где твоя Счастливая маска?",
+      "legacy": "§e[NPC] Goon§f: Oi, where is your Happy Mask?",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: What? This isn't a zoo. Keep it moving!",
+      "flat_result": "[NPC] Goon: Что? Здесь не зоопарк. Проходи!",
+      "legacy": "§e[NPC] Goon: §fWhat? This isn't a zoo. Keep it moving!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: What? This isn't a zoo. Keep it moving!",
+      "flat_result": "[NPC] Goon: Что? Здесь не зоопарк. Проходи!",
+      "legacy": "§e[NPC] Goon§f: What? This isn't a zoo. Keep it moving!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: One wrong move and you might end up like one of them.",
+      "flat_result": "[NPC] Goon: Одно неверное движение — и можешь оказаться на их месте.",
+      "legacy": "§e[NPC] Goon: §fOne wrong move and you might end up like one of them.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: One wrong move and you might end up like one of them.",
+      "flat_result": "[NPC] Goon: Одно неверное движение — и можешь оказаться на их месте.",
+      "legacy": "§e[NPC] Goon§f: One wrong move and you might end up like one of them.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: We're always watching...",
+      "flat_result": "[NPC] Goon: Мы всегда наблюдаем...",
+      "legacy": "§e[NPC] Goon: §fWe're always watching...",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: We're always watching...",
+      "flat_result": "[NPC] Goon: Мы всегда наблюдаем...",
+      "legacy": "§e[NPC] Goon§f: We're always watching...",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Don't get any funny ideas...",
+      "flat_result": "[NPC] Goon: Даже не вздумай что-нибудь выкинуть...",
+      "legacy": "§e[NPC] Goon: §fDon't get any funny ideas...",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Don't get any funny ideas...",
+      "flat_result": "[NPC] Goon: Даже не вздумай что-нибудь выкинуть...",
+      "legacy": "§e[NPC] Goon§f: Don't get any funny ideas...",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: No civilians too close.",
+      "flat_result": "[NPC] Goon: Гражданским близко не подходить.",
+      "legacy": "§e[NPC] Goon: §fNo civilians too close.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: No civilians too close.",
+      "flat_result": "[NPC] Goon: Гражданским близко не подходить.",
+      "legacy": "§e[NPC] Goon§f: No civilians too close.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Don't test me.",
+      "flat_result": "[NPC] Goon: Не испытывай моё терпение.",
+      "legacy": "§e[NPC] Goon: §fDon't test me.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Don't test me.",
+      "flat_result": "[NPC] Goon: Не испытывай моё терпение.",
+      "legacy": "§e[NPC] Goon§f: Don't test me.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: I've got my eye on you",
+      "flat_result": "[NPC] Goon: Я за тобой слежу",
+      "legacy": "§e[NPC] Goon: §fI've got my eye on you",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: I've got my eye on you",
+      "flat_result": "[NPC] Goon: Я за тобой слежу",
+      "legacy": "§e[NPC] Goon§f: I've got my eye on you",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Ey! Back off!",
+      "flat_result": "[NPC] Goon: Эй! Отойди!",
+      "legacy": "§e[NPC] Goon: §fEy! Back off!",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Ey! Back off!",
+      "flat_result": "[NPC] Goon: Эй! Отойди!",
+      "legacy": "§e[NPC] Goon§f: Ey! Back off!",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Fine. Just know those perks could have been yours...",
+      "flat_result": "[NPC] Goon: Ладно. Просто знай: эти бонусы могли стать твоими...",
+      "legacy": "§e[NPC] Goon: §fFine. Just know those perks could have been yours...",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Fine. Just know those perks could have been yours...",
+      "flat_result": "[NPC] Goon: Ладно. Просто знай: эти бонусы могли стать твоими...",
+      "legacy": "§e[NPC] Goon§f: Fine. Just know those perks could have been yours...",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Smart choice. Enjoy your perks...",
+      "flat_result": "[NPC] Goon: Умный выбор. Наслаждайся бонусами...",
+      "legacy": "§e[NPC] Goon: §fSmart choice. Enjoy your perks...",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Smart choice. Enjoy your perks...",
+      "flat_result": "[NPC] Goon: Умный выбор. Наслаждайся бонусами...",
+      "legacy": "§e[NPC] Goon§f: Smart choice. Enjoy your perks...",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Regretting your choice? Heh heh, no changing now. Come back when that bribe effect expires.",
+      "flat_result": "[NPC] Goon: Жалеешь о своём выборе? Хе-хе, теперь ничего не изменить. Приходи, когда действие взятки закончится.",
+      "legacy": "§e[NPC] Goon: §fRegretting your choice? Heh heh, no changing now. Come back when that bribe effect expires.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Regretting your choice? Heh heh, no changing now. Come back when that bribe effect expires.",
+      "flat_result": "[NPC] Goon: Жалеешь о своём выборе? Хе-хе, теперь ничего не изменить. Приходи, когда действие взятки закончится.",
+      "legacy": "§e[NPC] Goon§f: Regretting your choice? Heh heh, no changing now. Come back when that bribe effect expires.",
+      "kind": "published0"
+    },
+    {
+      "source": "[NPC] Goon: Your greed sickens me. Wait until your current effect expires.",
+      "flat_result": "[NPC] Goon: Твоя жадность мне противна. Дождись окончания текущего эффекта.",
+      "legacy": "§e[NPC] Goon: §fYour greed sickens me. Wait until your current effect expires.",
+      "kind": "primary"
+    },
+    {
+      "source": "[NPC] Goon: Your greed sickens me. Wait until your current effect expires.",
+      "flat_result": "[NPC] Goon: Твоя жадность мне противна. Дождись окончания текущего эффекта.",
+      "legacy": "§e[NPC] Goon§f: Your greed sickens me. Wait until your current effect expires.",
+      "kind": "published0"
+    }
+  ]
+}

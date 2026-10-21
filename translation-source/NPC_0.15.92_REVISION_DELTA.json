@@ -1,0 +1,101 @@
+{
+  "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925",
+  "api_url": "https://hypixelskyblock.minecraft.wiki/api.php?action=query&revids=845174%7C859970%7C812539%7C859640&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2",
+  "full_revisions": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 91504,
+          "ns": 0,
+          "title": "Pablo",
+          "revisions": [
+            {
+              "revid": 845174,
+              "parentid": 830473,
+              "timestamp": "2026-09-22T03:24:45Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Infobox/Character\n|abiphone = Yes\n|location = [[Scarleton]]\n|location_page_description = Asks for flowers in exchange for {{Reputation|Mage|25}} every 2 days.\n|x = -130\n|y = 127.5\n|z = -815.5\n}}\n'''Pablo''' is an [[NPC]] located in {{Zone|Scarleton}}, on the [[Crimson Isle]].\n\n== Quest ==\n'''Pablo''' will ask the player for a certain Flower to make Dyes. Once the player gives the specific Flower to Pablo, the player will gain {{Reputation|Mage|25}}.\n\n;Flowers\n*{{Item|Enchanted Dandelion}}: {{Green|45%}}\n*{{Item|Enchanted Poppy}}: {{Green|45%}}\n*{{Item|End Stone Rose}}: {{Green|10%}}\n\nThe quest can be completed once every {{Green|2 days}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n! Dialogue\n|-\n| colspan=\"2\" class=\"ct\" | First Interaction\n| {{Dialogue|\n&e[NPC] &5Pablo&f: Hello.\n&e[NPC] &5Pablo&f: I am a modest painter.\n&e[NPC] &5Pablo&f: Painting is a way to escape the harsh reality; I can create my own flawless world.\n&e[NPC] &5Pablo&f: I paint all sorts of things, but it costs a lot of colored dyes.\n&e[NPC] &5Pablo&f: Could you help me and bring me some flowers? Most flowers cannot spawn on the &cCrimson Isle&f.\n&e[NPC] &5Pablo&f: I need a [item].\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Without Item\n| {{Dialogue|&e[NPC] &5Pablo&f: Could you bring me a [item]?}}\n|-\n| colspan=\"2\" class=\"ct\" | Incorrect Item\n| {{Dialogue|\n&e[NPC] &5Pablo&f: That is not the correct flower I'm looking for.\n&e[NPC] &5Pablo&f: Bring me that [item] as soon as you can!\n&e[NPC] &5Pablo&f: These paintings don't paint themselves!\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Giving Correct Item<br>{{DG|First Interaction}}\n| {{Dialogue|\n&e[NPC] &5Pablo&f: Thank you for supporting my passion.\n&e[NPC] &5Pablo&f: I often need flowers, feel free to come back in a few days.\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Interacting With Correct Item\n| {{Dialogue|&e[NPC] &5Pablo&f: Great, back to painting!}}\n|-\n| colspan=\"2\" class=\"ct\" | After Giving Correct Item\n| {{Dialogue|&e[NPC] &5Pablo&f: I can sense a great deal of virtue in you. You are a source of inspiration.}}\n|-\n| colspan=\"2\" rowspan=\"2\" class=\"ct\" | In [[Factions|Barbarian Faction]]\n| {{Dialogue|&e[NPC] &5Pablo&f: I need quiet, please.}}\n|-\n| {{Dialogue|&e[NPC] &5Pablo&f: Sorry, but I need to concentrate.}}\n|-\n| rowspan=\"4\" class=\"ct\" | [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n| class=\"ct\" | Calling\n| {{Dialogue|\n&e[NPC] &5Pablo&f: &b✆&f Hello, &7[player]!\n&e[NPC] &5Pablo&f: &b✆&f Are you available? I desperately need a <item> today.\n&e[NPC] &5Pablo&f: &b✆&f Please meet me at my house if you have one. I would greatly appreciate it!\n}}\n|-\n| class=\"ct\" | Calling<br>{{DG|Without Item}}\n| {{Dialogue|\n&e[NPC] &5Pablo&f: &b✆&f Bring me that [flower] as soon as you can!\n&e[NPC] &5Pablo&f: &b✆&f These paintings don't paint themselves!\n}}\n|-\n| class=\"ct\" | Calling<br>{{DG|After Giving Correct Item}}\n| {{Dialogue|&e[NPC] &5Pablo&f: &b✆&f I don't need any flowers at the moment!}}\n|-\n| class=\"ct\" | Calling<br>{{DG|As a [[Factions#⚒%EF%B8%8F_Barbarian_Faction|{{DG|⚒ Barbarian}}]]}}\n| {{Dialogue|&c✆ No answer.}}\n|-\n| class=\"ct\" |Obtaining {{Item|The Soup}}\n| class=\"ct\" |Given any soup\n| {{Dialogue|\n&e[NPC] &5Pablo&f: Thank you so much.\n&e[NPC] &5Pablo&f: Here, I want you to have another painting.\n&aYou claimed a The Soup!\n}}\n|}\n\n== Trivia ==\n*The name Pablo is a reference to the famous painter [[w:Pablo Picasso|Pablo Picasso]].\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Pablo.png|26px]] Added '''Pablo'''.}}\n|beta=\n{{History|0.13|[[File:Pablo.png|26px]] Added '''Pablo'''.}}\n{{History|0.16|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n{{History|0.19.3|Added new lines of dialogue if the player brings '''Pablo''' the wrong item.|'''Pablo''' will now tell the player what flower he wants when spoken to directly.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Crimson Isle}}"
+                }
+              }
+            },
+            {
+              "revid": 859970,
+              "parentid": 845174,
+              "timestamp": "2026-10-17T14:24:00Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Infobox/Character\n|abiphone = Yes\n|location = [[Scarleton]]\n|location_page_description = Asks for flowers in exchange for {{Reputation|Mage|25}} every 2 days.\n|x = -130\n|y = 127.5\n|z = -815.5\n}}\n'''Pablo''' is an [[NPC]] located in {{Zone|Scarleton}}, on the [[Crimson Isle]].\n\n== Quest ==\n'''Pablo''' will ask the player for a certain Flower to make Dyes. Once the player gives the specific Flower to Pablo, the player will gain {{Reputation|Mage|25}}.\n\n;Flowers\n*{{Item|Enchanted Dandelion}}: {{Green|45%}}\n*{{Item|Enchanted Poppy}}: {{Green|45%}}\n*{{Item|End Stone Rose}}: {{Green|10%}}\n\nThe quest can be completed once every {{Green|2 days}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n! Dialogue\n|-\n| colspan=\"2\" class=\"ct\" | First Interaction\n| {{Dialogue|\n&e[NPC] &5Pablo&f: Hello.\n&e[NPC] &5Pablo&f: I am a modest painter.\n&e[NPC] &5Pablo&f: Painting is a way to escape the harsh reality; I can create my own flawless world.\n&e[NPC] &5Pablo&f: I paint all sorts of things, but it costs a lot of colored dyes.\n&e[NPC] &5Pablo&f: Could you help me and bring me some flowers? Most flowers cannot spawn on the &cCrimson Isle&f.\n&e[NPC] &5Pablo&f: I need a [item].\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Without Item\n| {{Dialogue|&e[NPC] &5Pablo&f: Could you bring me a [item]?}}\n|-\n| colspan=\"2\" class=\"ct\" | Incorrect Item\n| {{Dialogue|\n&e[NPC] &5Pablo&f: That is not the correct flower I'm looking for.\n&e[NPC] &5Pablo&f: Bring me that [item] as soon as you can!\n&e[NPC] &5Pablo&f: These paintings don't paint themselves!\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Giving Correct Item<br>{{DG|First Interaction}}\n| {{Dialogue|\n&e[NPC] &5Pablo&f: Thank you for supporting my passion.\n&e[NPC] &5Pablo&f: I often need flowers, feel free to come back in a few days.\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Interacting With Correct Item\n| {{Dialogue|&e[NPC] &5Pablo&f: Great, back to painting!}}\n|-\n| colspan=\"2\" class=\"ct\" | After Giving Correct Item\n| {{Dialogue|&e[NPC] &5Pablo&f: I can sense a great deal of virtue in you. You are a source of inspiration.}}\n|-\n| colspan=\"2\" rowspan=\"2\" class=\"ct\" | In [[Factions|Barbarian Faction]]\n| {{Dialogue|&e[NPC] &5Pablo&f: I need quiet, please.}}\n|-\n| {{Dialogue|&e[NPC] &5Pablo&f: Sorry, but I need to concentrate.}}\n|-\n| rowspan=\"4\" class=\"ct\" | [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n| class=\"ct\" | Calling\n| {{Dialogue|\n&e[NPC] &5Pablo&f: &b✆&f Hello, &7[player]!\n&e[NPC] &5Pablo&f: &b✆&f Are you available? I desperately need a <item> today.\n&e[NPC] &5Pablo&f: &b✆&f Please meet me at my house if you have one. I would greatly appreciate it!\n}}\n|-\n| class=\"ct\" | Calling<br>{{DG|Without Item}}\n| {{Dialogue|\n&e[NPC] &5Pablo&f: &b✆&f Bring me that [flower] as soon as you can!\n&e[NPC] &5Pablo&f: &b✆&f These paintings don't paint themselves!\n}}\n|-\n| class=\"ct\" | Calling<br>{{DG|After Giving Correct Item}}\n| {{Dialogue|&e[NPC] &5Pablo&f: &b✆&f I don't need any flowers at the moment!}}\n|-\n| class=\"ct\" | Calling<br>{{DG|As a [[Factions#⚒%EF%B8%8F_Barbarian_Faction|{{DG|⚒ Barbarian}}]]}}\n| {{Dialogue|&c✆ No answer.}}\n|-\n| class=\"ct\" |Obtaining {{Item|The Soup}}\n| class=\"ct\" |Given any soup\n| {{Dialogue|\n&e[NPC] &5Pablo&f: Thank you so much.\n&e[NPC] &5Pablo&f: Here, I want you to have another painting.\n&aYou claimed a &oThe Soup&a!\n}}\n|}\n\n== Trivia ==\n*The name Pablo is a reference to the famous painter [[w:Pablo Picasso|Pablo Picasso]].\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Pablo.png|26px]] Added '''Pablo'''.}}\n|beta=\n{{History|0.13|[[File:Pablo.png|26px]] Added '''Pablo'''.}}\n{{History|0.16|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n{{History|0.19.3|Added new lines of dialogue if the player brings '''Pablo''' the wrong item.|'''Pablo''' will now tell the player what flower he wants when spoken to directly.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Crimson Isle}}"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 91507,
+          "ns": 0,
+          "title": "Arch",
+          "revisions": [
+            {
+              "revid": 812539,
+              "parentid": 786728,
+              "timestamp": "2026-08-11T18:52:36Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Infobox/Character\n|location = [[Stronghold]]\n|location_page_description = Rewards the player with the {{Item|Kuudra Follower Chestplate}} under certain conditions.\n|x = -360.5\n|y = 189\n|z= -552.5\n}}\n'''Arch''' is an [[NPC]] located on top of the {{Zone|Stronghold}}. They appear after defeating [[Kuudra]] once.\n\n== Quest ==\nIf the following conditions are met, and the player interacts with '''Arch''', they will give the player a {{Item|Kuudra Follower Chestplate}}:\n* 2 players standing in the {{Zone|Stronghold}} (the {{Item|Kuudra Follower Chestplate}} can also be claimed by these players)\n* 2 players in {{Zone|Dragontail Townsquare}}\n* 2 players standing in the {{Zone|Scarleton Plaza}}\nThe 6 helpers must be wearing full {{Item|Ember Armor}} or {{Item|Rekindled Ember Armor}} and have a {{Item|Kuudra Pet}} equipped that is {{Lv|81}} or higher. The helpers' current factions are irrelevant.\n\nThe players to claim the {{ID|Kuudra Follower Chestplate{{!}}Chestplate}} have no requirement.\n\n== Dialogue ==\n{{Sectionstub}}\n{| class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | None\n| {{Dialogue|\n&e[NPC] &cArch&f: Hello traveler!\n&e[NPC] &cArch&f: Kuudra will return one day but we must first put aside our differences and be ready.\n&e[NPC] &cArch&f: We must show Kuudra that we stand united for its return.\n}}\n|-\n| class=\"ct\" | Wearing [[Ember Armor|Ember]] or [[Rekindled Ember Armor]]\n| {{Dialogue|\n&e[NPC] &cArch&f: Hello traveler!\n&e[NPC] &cArch&f: That's a very impressive armor set you are wearing, Kuudra would be impressed!\n&e[NPC] &cArch&f: Kuudra will return one day but we must first put aside our differences and be ready.\n&e[NPC] &cArch&f: We must show Kuudra that we stand united for its return.\n}}\n|-\n| class=\"ct\" | Claiming [[Kuudra Follower Chestplate]]\n| {{Dialogue|\n&e[NPC] &cArch&f: We are united! Kuudra SHOW YOURSELF TO US.\n&e[NPC] &cArch&f: ...\n&e[NPC] &cArch&f: ...\n&e[NPC] &cArch&f: ...\n&e[NPC] &cArch&f: Why didn't it show itself...\n&e[NPC] &cArch&f: Maybe it won't ever return...\n&e[NPC] &cArch&f: Thank you for your dedication adventurer, here is a token of my gratitude.\n}}\n|-\n| class=\"ct\" | Showing [[Unpleasant Kuudra Teeth Plaque]] without a [[Kuudra Pet]] equipped\n| {{Dialogue|\n&e[NPC] &cArch&f: &rI see you holding something there...\n&e[NPC] &cArch&f: &rAnd it seems as though you need some assistance.\n&e[NPC] &cArch&f: &rI would be able to provide it, but you came without the correct friend.\n}}\n|-\n| class=\"ct\" | Showing [[Unpleasant Kuudra Teeth Plaque]] with a [[Kuudra Pet]] equipped\n| {{Dialogue|\n&e[NPC] &cArch&f: &rAh yes! You are here with the right companion.\n&e[NPC] &cArch&f: &rIt seems as though I can now properly assist you.\n&e[NPC] &cArch&f: &rLet me go ahead and help you break down that item.\n&e[NPC] &cArch&f: &rI wish you luck on your journey, adventurer!\n}}\n\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Arch.png|26px]] Added '''Arch'''.}}\n|beta=\n{{History|0.13|[[File:Arch.png|26px]] Added '''Arch'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Crimson Isle}}"
+                }
+              }
+            },
+            {
+              "revid": 859640,
+              "parentid": 812539,
+              "timestamp": "2026-10-16T13:45:27Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Infobox/Character\n|location = [[Stronghold]]\n|location_page_description = Rewards the player with the {{Item|Kuudra Follower Chestplate}} under certain conditions.\n|x = -360.5\n|y = 189\n|z= -552.5\n}}\n'''Arch''' is an [[NPC]] located on top of the {{Zone|Stronghold}}. They appear after defeating [[Kuudra]] once.\n\n== Quest ==\nIf the following conditions are met, and the player interacts with '''Arch''', they will give the player a {{Item|Kuudra Follower Chestplate}}:\n\n6 helpers are required, and must be wearing full {{Item|Ember Armor}} or {{Item|Rekindled Ember Armor}} and have a {{Item|Kuudra Pet}} equipped that is {{Lv|81}} or higher. They must be in the following locations:\n* 2 in the {{Zone|Stronghold}} (the {{ID|Kuudra Follower Chestplate{{!}}Chestplate}} can also be claimed by these players)\n* 2 in the {{Zone|Dragontail Townsquare}}\n* 2 in the {{Zone|Scarleton Plaza}}\n\nThe helpers' current factions are irrelevant. Players to claim the {{ID|Kuudra Follower Chestplate{{!}}Chestplate}} have no additional requirements.\n\n== Dialogue ==\n{{Sectionstub}}\n{| class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | None\n| {{Dialogue|\n&e[NPC] &cArch&f: Hello traveler!\n&e[NPC] &cArch&f: Kuudra will return one day but we must first put aside our differences and be ready.\n&e[NPC] &cArch&f: We must show Kuudra that we stand united for its return.\n}}\n|-\n| class=\"ct\" | Wearing [[Ember Armor|Ember]] or [[Rekindled Ember Armor]]\n| {{Dialogue|\n&e[NPC] &cArch&f: Hello traveler!\n&e[NPC] &cArch&f: That's a very impressive armor set you are wearing, Kuudra would be impressed!\n&e[NPC] &cArch&f: Kuudra will return one day but we must first put aside our differences and be ready.\n&e[NPC] &cArch&f: We must show Kuudra that we stand united for its return.\n}}\n|-\n| class=\"ct\" | Claiming [[Kuudra Follower Chestplate]]\n| {{Dialogue|\n&e[NPC] &cArch&f: We are united! Kuudra SHOW YOURSELF TO US.\n&e[NPC] &cArch&f: ...\n&e[NPC] &cArch&f: ...\n&e[NPC] &cArch&f: ...\n&e[NPC] &cArch&f: Why didn't it show itself...\n&e[NPC] &cArch&f: Maybe it won't ever return...\n&e[NPC] &cArch&f: Thank you for your dedication adventurer, here is a token of my gratitude.\n}}\n|-\n| class=\"ct\" | Showing [[Unpleasant Kuudra Teeth Plaque]] without a [[Kuudra Pet]] equipped\n| {{Dialogue|\n&e[NPC] &cArch&f: &rI see you holding something there...\n&e[NPC] &cArch&f: &rAnd it seems as though you need some assistance.\n&e[NPC] &cArch&f: &rI would be able to provide it, but you came without the correct friend.\n}}\n|-\n| class=\"ct\" | Showing [[Unpleasant Kuudra Teeth Plaque]] with a [[Kuudra Pet]] equipped\n| {{Dialogue|\n&e[NPC] &cArch&f: &rAh yes! You are here with the right companion.\n&e[NPC] &cArch&f: &rIt seems as though I can now properly assist you.\n&e[NPC] &cArch&f: &rLet me go ahead and help you break down that item.\n&e[NPC] &cArch&f: &rI wish you luck on your journey, adventurer!\n}}\n\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Arch.png|26px]] Added '''Arch'''.}}\n|beta=\n{{History|0.13|[[File:Arch.png|26px]] Added '''Arch'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Crimson Isle}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "records": [
+    {
+      "page": "Pablo",
+      "pinned_revision": 845174,
+      "current_revision": 859970,
+      "full_diff": "--- 845174\n+++ 859970\n@@ -85,7 +85,7 @@\n | {{Dialogue|\n &e[NPC] &5Pablo&f: Thank you so much.\n &e[NPC] &5Pablo&f: Here, I want you to have another painting.\n-&aYou claimed a The Soup!\n+&aYou claimed a &oThe Soup&a!\n }}\n |}\n ",
+      "entire_dialogue_section_including_conditions_unchanged": false,
+      "all_dialogue_templates_unchanged": false,
+      "old_dialogue_count": 13,
+      "current_dialogue_count": 13,
+      "only_reviewed_non_npc_reward_style_change": true,
+      "npc_utterances_and_conditions_unchanged": true
+    },
+    {
+      "page": "Arch",
+      "pinned_revision": 812539,
+      "current_revision": 859640,
+      "full_diff": "--- 812539\n+++ 859640\n@@ -9,12 +9,13 @@\n \n == Quest ==\n If the following conditions are met, and the player interacts with '''Arch''', they will give the player a {{Item|Kuudra Follower Chestplate}}:\n-* 2 players standing in the {{Zone|Stronghold}} (the {{Item|Kuudra Follower Chestplate}} can also be claimed by these players)\n-* 2 players in {{Zone|Dragontail Townsquare}}\n-* 2 players standing in the {{Zone|Scarleton Plaza}}\n-The 6 helpers must be wearing full {{Item|Ember Armor}} or {{Item|Rekindled Ember Armor}} and have a {{Item|Kuudra Pet}} equipped that is {{Lv|81}} or higher. The helpers' current factions are irrelevant.\n \n-The players to claim the {{ID|Kuudra Follower Chestplate{{!}}Chestplate}} have no requirement.\n+6 helpers are required, and must be wearing full {{Item|Ember Armor}} or {{Item|Rekindled Ember Armor}} and have a {{Item|Kuudra Pet}} equipped that is {{Lv|81}} or higher. They must be in the following locations:\n+* 2 in the {{Zone|Stronghold}} (the {{ID|Kuudra Follower Chestplate{{!}}Chestplate}} can also be claimed by these players)\n+* 2 in the {{Zone|Dragontail Townsquare}}\n+* 2 in the {{Zone|Scarleton Plaza}}\n+\n+The helpers' current factions are irrelevant. Players to claim the {{ID|Kuudra Follower Chestplate{{!}}Chestplate}} have no additional requirements.\n \n == Dialogue ==\n {{Sectionstub}}",
+      "entire_dialogue_section_including_conditions_unchanged": true,
+      "all_dialogue_templates_unchanged": true,
+      "old_dialogue_count": 5,
+      "current_dialogue_count": 5,
+      "only_changes_outside_dialogue": true,
+      "npc_utterances_and_conditions_unchanged": true
+    }
+  ],
+  "accepted_for_batch92": true,
+  "scope": "Read-only full revisions and diffs;all NPC utterances and conditions unchanged. Pablo only non-NPC reward italics;Arch changes outside Dialogue. Not a corpus rewrite or live certification"
+}

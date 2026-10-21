@@ -1,0 +1,19 @@
+{
+  "scope": "Pre-release editorial correction; the first candidate was never delivered or installed. All final checks are repeated on the final artifact.",
+  "source": "HOODIE! You swapped to the Seaweed skin!",
+  "first_candidate_label": "Морская трава",
+  "final_label": "Морские водоросли",
+  "reason": "Seaweed is marine algae; seagrass would be морская трава. Keep Algae=Водоросли and Dulse=Красные водоросли distinct.",
+  "invalidated_candidate_sha256": "0DE1FCAC8641A42AB0F73648B2E8637CD3C3ACDABD031B244AD16A20A5A780FE",
+  "first_checks_retained_not_final": "build/skins109-checks-ed452acc592e4270b2dd8fa2d90ee428",
+  "second_candidate_sha256": "B6204A46413C902331697249324BD563ED31410F72085D276EAE856FE456502F",
+  "additional_context_review": {
+    "pages": ["Canned_Hermit_Crab_Skin", "Gummy_Worm_Scatha_Skin"],
+    "Orange": "Апельсин, not the color Оранжевый",
+    "Lime": "Лайм, not the color Лаймовый",
+    "scope": "Four exact notification targets;other color contexts unchanged. Published finite label review includes every final pair."
+  },
+  "final_fixture_directory": "translation-source-regression109-v3",
+  "benchmark_cancelled_for_rebuild_not_for_results": true,
+  "installed_pack_modified": false
+}

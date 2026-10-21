@@ -1,0 +1,8 @@
+{
+  "baseline_jar_sha256": "866E0C2277F876229F4EFA98C388CE942F8E548181EDDBDC0FEB96A91AA0095B",
+  "candidate_jar_sha256": "4350073540D2C94A291C9D8B9390D9BFA731C2F26B337487741AB5D10768A1BE",
+  "initial_gate_failure": "The initial expected entry list omitted ChatNotificationTranslator$QuizLine66.class, whose line table moved when the outer source got shorter.",
+  "correction": "Count120/125 classes byte-identical,not121. Accept that single additional entry only after erasing LineNumberTable payloads and comparing every remaining classfile byte. The gate still requires the exact entry set and limits actual instruction differences to the specified methods in three classes.",
+  "line_table_only_entry": "ru/wither/skyru/ChatNotificationTranslator$QuizLine66.class",
+  "production_change": false
+}

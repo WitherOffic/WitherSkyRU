@@ -1,0 +1,53 @@
+{
+  "version": "0.15.115-dev",
+  "runtime_jar_sha256": "CA8487FC1B783D1CCE9E6E4BBB8217F07278D970009AD80E7D89C02C19650287",
+  "exact_keys": 13984,
+  "total_frozen": 16244,
+  "exact_percent": 86.08717064762374,
+  "without_exact_key": 2260,
+  "new_exact_queue_keys": 15,
+  "new_normalized_keys_outside_frozen_queue": 20,
+  "new_literals": 35,
+  "new_integer_shapes": 13,
+  "original_numeric_queue_patterns": 11,
+  "bounded_templates_total": 243,
+  "choice_groups": 345,
+  "archival_records": 33,
+  "source_pages": 12,
+  "fresh_test_groups": 189,
+  "parser_tests": 15,
+  "new_assertions": {
+    "TestNpcLiterals115": 97310,
+    "TestNpcNumbers115": 111202
+  },
+  "unchanged_dispatch_rows": 11251,
+  "byte_identical_runtime_classes": 123,
+  "runtime_classes": 125,
+  "startup_method_edits_only": {
+    "ru.wither.skyru.NpcDialogueTranslator": [
+      "public static ru.wither.skyru.NpcDialogueTranslator storyDialogues() throws java.io.IOException;"
+    ],
+    "ru.wither.skyru.NamedNpcTemplates": [
+      "ru.wither.skyru.NamedNpcTemplates();"
+    ]
+  },
+  "performance_not_fps": {
+    "modes": 17,
+    "min_wall_change_percent": -35.70561259314331,
+    "max_wall_change_percent": 45.32896684283407,
+    "max_absolute_allocation_delta_bytes": 48.0,
+    "both_orders_slower_over5": [],
+    "scope": "Isolated receipt,not FPS,frame-time,0.1%low,or proof of zero cost."
+  },
+  "long_performance_not_fps": {
+    "modes": 6,
+    "min_wall_change_percent": -15.844478949946117,
+    "max_wall_change_percent": 23.713739003147417,
+    "max_absolute_allocation_delta_bytes": 96.0,
+    "both_orders_slower_over5": [],
+    "scope": "Isolated receipt,not FPS,frame-time,0.1%low,or proof of zero cost."
+  },
+  "installed_pack_modified": false,
+  "game_fps_measured": false,
+  "explicit_dispatch_coverage_upgrades": 1
+}

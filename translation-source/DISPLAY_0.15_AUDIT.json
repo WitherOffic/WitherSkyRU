@@ -1,0 +1,24 @@
+{
+  "unique_nonempty_lines": 31330,
+  "physical_lines": 41319,
+  "categories": {
+    "candidate_display_line": 1113,
+    "debug_or_network_diagnostics": 3458,
+    "no_english_words": 9526,
+    "now_current_java_dictionary_changed": 16275,
+    "command_or_identifier": 79,
+    "single_token_name_or_identifier": 442,
+    "translated_role_with_preserved_name": 14,
+    "player_identity_hover_not_exported": 60,
+    "rarity_brand_or_other_game": 8,
+    "search_input_not_translated": 5,
+    "real_world_timestamp": 338,
+    "player_rank_or_url": 12
+  },
+  "candidate_families": 1087,
+  "full_server_coverage": false,
+  "no_ordinary_player_chat_dump": true,
+  "identity_hover_lines_not_exported": true,
+  "candidate_is_not_confirmed_translation_failure": true,
+  "exact_matching_is_not_runtime_display_verification": true
+}

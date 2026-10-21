@@ -1,0 +1,200 @@
+{
+  "revision": "0.13.0-dev",
+  "scope": "Static integrity, not runtime or universal quality verification",
+  "new_snapshot_sources": 2153,
+  "previous_targets_updated": 6,
+  "delta_reported": 2153,
+  "numeric_roman_icon_placeholder_id_mismatches": [],
+  "malformed_rows": [],
+  "duplicate_keys": {
+    "continuation.tsv": {
+      "Deep Sea Diver": 2,
+      "Intelligence.": 2
+    },
+    "continuation-patterns.tsv": {},
+    "lexicon.tsv": {
+      "Rabbit": 2
+    },
+    "BATCH_0.13_AUTHORED.tsv": {},
+    "BATCH_0.13_CONTEXT_TAILS.tsv": {},
+    "BATCH_0.13_EFFECTS.tsv": {},
+    "BATCH_0.13_NUMBERED.tsv": {},
+    "BATCH_0.13_PROSE.tsv": {},
+    "BATCH_0.13_REVIEWED.tsv": {},
+    "BATCH_0.13_SHORT.tsv": {}
+  },
+  "regressed_previously_processed_sources": [],
+  "context_guards": {
+    "Alligator Skin": "Шкура аллигатора",
+    "Daedalus Stick": "Палка Дедала",
+    "Power.": "аксессуаров.",
+    "Scarf": "Скарф",
+    "Portal to the Murkwater Loch": "Портал к Тёмному озеру",
+    "Travel Scroll to the End": "Свиток перемещения в Край",
+    "Black Holes by 10%.": "чёрных дыр на 10%.",
+    "minion's appearance to an": "вашего миньона на",
+    "Halves your damage for 2s afterwards.": "После этого вдвое снижает ваш урон на 2с."
+  },
+  "updated_previous_sources": [
+    {
+      "source": "Grants +0.5  Tracking.",
+      "occurrences": 4,
+      "origins": [
+        "config/notenoughupdates/repo/items/ATTRIBUTE_SHARD_RARE_BIRD;1.json",
+        "config/skyblocker/item-repo/items/ATTRIBUTE_SHARD_RARE_BIRD;1.json",
+        "skyblock-repo-cache/attributes.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Даёт +0.5  выслеживания.",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Ability: Enrage  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ENRAGER.json",
+        "config/skyblocker/item-repo/items/ENRAGER.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Ярость — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Tiered Bonus: Legacy (0/1)",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DIVAN_PENDANT.json",
+        "config/skyblocker/item-repo/items/DIVAN_PENDANT.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Бонус комплекта: Наследие (0/1)",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Requires: Crop Analyzer Milestone I",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/SMALL_MUTATIONS_SACK.json",
+        "config/skyblocker/item-repo/items/SMALL_MUTATIONS_SACK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Этап анализатора урожая I",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Crop Analyzer Milestone III",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/MEDIUM_MUTATIONS_SACK.json",
+        "config/skyblocker/item-repo/items/MEDIUM_MUTATIONS_SACK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Этап анализатора урожая III",
+      "translation_origin": "label-value"
+    },
+    {
+      "source": "Requires: Crop Analyzer Milestone V",
+      "occurrences": 2,
+      "origins": [
+        "config/notenoughupdates/repo/items/LARGE_MUTATIONS_SACK.json",
+        "config/skyblocker/item-repo/items/LARGE_MUTATIONS_SACK.json"
+      ],
+      "roles": [
+        "crafttext"
+      ],
+      "translation": "Требуется: Этап анализатора урожая V",
+      "translation_origin": "label-value"
+    }
+  ],
+  "non_level_words_reviewed": [
+    {
+      "source": "Am I a parasite?",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "I achieved nothing.",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "I come from a land down under.",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "I guess you have this now.",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "I'm a special snowflake.",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "I'm empty inside.",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "Mmm, oh I lom chomlate so mumch!",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "Mwah! C'est magnifique, no?",
+      "non_level_words": [
+        "C"
+      ]
+    },
+    {
+      "source": "Spider Slayer LVL Rewards",
+      "non_level_words": [
+        "LVL"
+      ]
+    },
+    {
+      "source": "Vampire Slayer LVL Rewards",
+      "non_level_words": [
+        "LVL"
+      ]
+    },
+    {
+      "source": "Wolf Slayer LVL Rewards",
+      "non_level_words": [
+        "LVL"
+      ]
+    },
+    {
+      "source": "Zombie Slayer LVL Rewards",
+      "non_level_words": [
+        "LVL"
+      ]
+    }
+  ],
+  "quality_verified": false,
+  "runtime_verified": false
+}

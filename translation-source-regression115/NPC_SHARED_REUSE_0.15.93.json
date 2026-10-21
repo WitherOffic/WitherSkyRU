@@ -1,0 +1,665 @@
+{
+  "scope": "60 exact body/target/style pairs from reviewed92 Offea after recipient context review",
+  "records": [
+    {
+      "source": "[NPC] Alwin: Oh, a new face! Welcome to the City of Magic!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "new_authored_row": "Alwin|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "occurrence_ids": [
+        "p91484-r822224-o753-l1-f449"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "new_authored_row": "Alwin|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "occurrence_ids": [
+        "p91484-r822224-o753-l2-f450"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "new_authored_row": "Alwin|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "occurrence_ids": [
+        "p91484-r822224-o753-l3-f451"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: Have you tried the new ability phone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "new_authored_row": "Alwin|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "occurrence_ids": [
+        "p91484-r822224-o2134-l1-f455"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: The new one is barely better than the one from last year, people still buy them like sheep...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "new_authored_row": "Alwin|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "occurrence_ids": [
+        "p91484-r822224-o2134-l2-f456"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: Wait, you don't even have an Abiphone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "new_authored_row": "Alwin|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "occurrence_ids": [
+        "p91484-r822224-o2134-l3-f457"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: Yikes...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Yikes...|М-да...",
+      "new_authored_row": "Alwin|Yikes...|М-да...",
+      "occurrence_ids": [
+        "p91484-r822224-o2134-l4-f458"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: Ah, the Piglins yes, quite troublesome they are.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "new_authored_row": "Alwin|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "occurrence_ids": [
+        "p91484-r822224-o2469-l1-f459"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: I wouldn't go there if I were you.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "new_authored_row": "Alwin|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "occurrence_ids": [
+        "p91484-r822224-o2469-l2-f460"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: You seem suspicious.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|You seem suspicious.|Подозрительный ты какой-то.",
+      "new_authored_row": "Alwin|You seem suspicious.|Подозрительный ты какой-то.",
+      "occurrence_ids": [
+        "p91484-r822224-o2685-l0-f461"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: Sorry, I can't talk to you right now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "new_authored_row": "Alwin|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "occurrence_ids": [
+        "p91484-r822224-o2743-l0-f462"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Alwin: Please stop bothering me.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "new_authored_row": "Alwin|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "occurrence_ids": [
+        "p91484-r822224-o2818-l0-f463"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: Oh, a new face! Welcome to the City of Magic!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "new_authored_row": "Ezekiel|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "occurrence_ids": [
+        "p91503-r822231-o692-l1-f5992"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "new_authored_row": "Ezekiel|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "occurrence_ids": [
+        "p91503-r822231-o692-l2-f5993"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "new_authored_row": "Ezekiel|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "occurrence_ids": [
+        "p91503-r822231-o692-l3-f5994"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: Have you tried the new ability phone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "new_authored_row": "Ezekiel|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "occurrence_ids": [
+        "p91503-r822231-o2085-l1-f5998"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: The new one is barely better than the one from last year, people still buy them like sheep...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "new_authored_row": "Ezekiel|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "occurrence_ids": [
+        "p91503-r822231-o2085-l2-f5999"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: Wait, you don't even have an Abiphone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "new_authored_row": "Ezekiel|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "occurrence_ids": [
+        "p91503-r822231-o2085-l3-f6000"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: Yikes...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Yikes...|М-да...",
+      "new_authored_row": "Ezekiel|Yikes...|М-да...",
+      "occurrence_ids": [
+        "p91503-r822231-o2085-l4-f6001"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: Ah, the Piglins yes, quite troublesome they are.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "new_authored_row": "Ezekiel|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "occurrence_ids": [
+        "p91503-r822231-o2428-l1-f6002"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: I wouldn't go there if I were you.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "new_authored_row": "Ezekiel|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "occurrence_ids": [
+        "p91503-r822231-o2428-l2-f6003"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: You seem suspicious.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|You seem suspicious.|Подозрительный ты какой-то.",
+      "new_authored_row": "Ezekiel|You seem suspicious.|Подозрительный ты какой-то.",
+      "occurrence_ids": [
+        "p91503-r822231-o2648-l0-f6004"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: Sorry, I can't talk to you right now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "new_authored_row": "Ezekiel|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "occurrence_ids": [
+        "p91503-r822231-o2708-l0-f6005"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ezekiel: Please stop bothering me.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "new_authored_row": "Ezekiel|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "occurrence_ids": [
+        "p91503-r822231-o2785-l0-f6006"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: Oh, a new face! Welcome to the City of Magic!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "new_authored_row": "Kheharad|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "occurrence_ids": [
+        "p91486-r822226-o672-l1-f9209"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "new_authored_row": "Kheharad|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "occurrence_ids": [
+        "p91486-r822226-o672-l2-f9210"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "new_authored_row": "Kheharad|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "occurrence_ids": [
+        "p91486-r822226-o672-l3-f9211"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: Have you tried the new ability phone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "new_authored_row": "Kheharad|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "occurrence_ids": [
+        "p91486-r822226-o2071-l1-f9215"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: The new one is barely better than the one from last year, people still buy them like sheep...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "new_authored_row": "Kheharad|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "occurrence_ids": [
+        "p91486-r822226-o2071-l2-f9216"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: Wait, you don't even have an Abiphone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "new_authored_row": "Kheharad|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "occurrence_ids": [
+        "p91486-r822226-o2071-l3-f9217"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: Yikes...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Yikes...|М-да...",
+      "new_authored_row": "Kheharad|Yikes...|М-да...",
+      "occurrence_ids": [
+        "p91486-r822226-o2071-l4-f9218"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: Ah, the Piglins yes, quite troublesome they are.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "new_authored_row": "Kheharad|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "occurrence_ids": [
+        "p91486-r822226-o2418-l1-f9219"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: I wouldn't go there if I were you.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "new_authored_row": "Kheharad|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "occurrence_ids": [
+        "p91486-r822226-o2418-l2-f9220"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: You seem suspicious.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|You seem suspicious.|Подозрительный ты какой-то.",
+      "new_authored_row": "Kheharad|You seem suspicious.|Подозрительный ты какой-то.",
+      "occurrence_ids": [
+        "p91486-r822226-o2640-l0-f9221"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: Sorry, I can't talk to you right now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "new_authored_row": "Kheharad|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "occurrence_ids": [
+        "p91486-r822226-o2701-l0-f9222"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kheharad: Please stop bothering me.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "new_authored_row": "Kheharad|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "occurrence_ids": [
+        "p91486-r822226-o2779-l0-f9223"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: Oh, a new face! Welcome to the City of Magic!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "new_authored_row": "Seffea|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "occurrence_ids": [
+        "p91810-r822237-o724-l1-f13968"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "new_authored_row": "Seffea|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "occurrence_ids": [
+        "p91810-r822237-o724-l2-f13969"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "new_authored_row": "Seffea|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "occurrence_ids": [
+        "p91810-r822237-o724-l3-f13970"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: Have you tried the new ability phone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "new_authored_row": "Seffea|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "occurrence_ids": [
+        "p91810-r822237-o2111-l1-f13974"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: The new one is barely better than the one from last year, people still buy them like sheep...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "new_authored_row": "Seffea|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "occurrence_ids": [
+        "p91810-r822237-o2111-l2-f13975"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: Wait, you don't even have an Abiphone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "new_authored_row": "Seffea|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "occurrence_ids": [
+        "p91810-r822237-o2111-l3-f13976"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: Yikes...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Yikes...|М-да...",
+      "new_authored_row": "Seffea|Yikes...|М-да...",
+      "occurrence_ids": [
+        "p91810-r822237-o2111-l4-f13977"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: Ah, the Piglins yes, quite troublesome they are.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "new_authored_row": "Seffea|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "occurrence_ids": [
+        "p91810-r822237-o2450-l1-f13978"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: I wouldn't go there if I were you.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "new_authored_row": "Seffea|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "occurrence_ids": [
+        "p91810-r822237-o2450-l2-f13979"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: You seem suspicious.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|You seem suspicious.|Подозрительный ты какой-то.",
+      "new_authored_row": "Seffea|You seem suspicious.|Подозрительный ты какой-то.",
+      "occurrence_ids": [
+        "p91810-r822237-o2668-l0-f13980"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: Sorry, I can't talk to you right now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "new_authored_row": "Seffea|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "occurrence_ids": [
+        "p91810-r822237-o2727-l0-f13981"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Seffea: Please stop bothering me.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "new_authored_row": "Seffea|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "occurrence_ids": [
+        "p91810-r822237-o2803-l0-f13982"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: Oh, a new face! Welcome to the City of Magic!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "new_authored_row": "Ulyn|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "occurrence_ids": [
+        "p90689-r822223-o719-l1-f17169"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "new_authored_row": "Ulyn|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "occurrence_ids": [
+        "p90689-r822223-o719-l2-f17170"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "new_authored_row": "Ulyn|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "occurrence_ids": [
+        "p90689-r822223-o719-l3-f17171"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: Have you tried the new ability phone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "new_authored_row": "Ulyn|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "occurrence_ids": [
+        "p90689-r822223-o2094-l1-f17175"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: The new one is barely better than the one from last year, people still buy them like sheep...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "new_authored_row": "Ulyn|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "occurrence_ids": [
+        "p90689-r822223-o2094-l2-f17176"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: Wait, you don't even have an Abiphone?",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "new_authored_row": "Ulyn|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "occurrence_ids": [
+        "p90689-r822223-o2094-l3-f17177"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: Yikes...",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Yikes...|М-да...",
+      "new_authored_row": "Ulyn|Yikes...|М-да...",
+      "occurrence_ids": [
+        "p90689-r822223-o2094-l4-f17178"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: Ah, the Piglins yes, quite troublesome they are.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "new_authored_row": "Ulyn|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "occurrence_ids": [
+        "p90689-r822223-o2425-l1-f17179"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: I wouldn't go there if I were you.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "new_authored_row": "Ulyn|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "occurrence_ids": [
+        "p90689-r822223-o2425-l2-f17180"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: You seem suspicious.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|You seem suspicious.|Подозрительный ты какой-то.",
+      "new_authored_row": "Ulyn|You seem suspicious.|Подозрительный ты какой-то.",
+      "occurrence_ids": [
+        "p90689-r822223-o2639-l0-f17181"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: Sorry, I can't talk to you right now.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "new_authored_row": "Ulyn|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "occurrence_ids": [
+        "p90689-r822223-o2696-l0-f17182"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Ulyn: Please stop bothering me.",
+      "donor_file": "NPC92_OFFEA_REVIEWED.tsv",
+      "donor_sha256": "2E920BBB36143B5F3E5EE67979E8C387575D87CF7E7D451B85E5B019D54346DF",
+      "donor_authored_row": "Offea|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "new_authored_row": "Ulyn|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "occurrence_ids": [
+        "p90689-r822223-o2770-l0-f17183"
+      ],
+      "automatic_translation": false
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "after": "0.15.74-dev",
+  "before_sha256": "5805CB5C5973434E666ACF6129F12DB9B005F20EF7BEAB852541AAA6995E8FDF",
+  "unchanged_other_runtime_classes": 107,
+  "new_npc_resources_loaded_once_into_existing_map": true,
+  "added_entries": [
+    "META-INF/licenses/NPC74-SOURCES.txt",
+    "data/witherskyru/npc-expansion74.json"
+  ],
+  "new_per_message_providers": 0,
+  "all_frame_world_input_item_dictionary_and_prepared_cache_classes_byte_identical": true,
+  "removed_entries": [],
+  "before": "0.15.73-dev",
+  "runtime_entry_count": 167,
+  "after_sha256": "F07822E5F0D3A8753D8E770C196B5EED471828A33B10702BBBB404211147EB18",
+  "changed": [
+    {
+      "entry": "ru/wither/skyru/NpcDialogueTranslator.class",
+      "before": "58BA54C4E531B41F856CFAF019E768BBE1E51F12844F4C8BF38E301D99C63F76",
+      "after": "992A00678277026801D7AF4DB1FCAD7A5BA4EACF01378EBA2F76F98D8B3A21C1"
+    },
+    {
+      "entry": "fabric.mod.json",
+      "before": "3D3DB24B3A2BF4473FB24BF7FBB822B1A5E492A0096F6E746E8621F4ABBEBC27",
+      "after": "6B00A24C40DFA4B35C94D4ADFA350A3C22A16212DAFE78B30175BD40BAE09230"
+    },
+    {
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Part.class",
+      "before": "6ECD77049B7982AABCD51BAA652AAE514DBA42F998973E259236A3CD638E8CCA",
+      "after": "94780123D834DDF2E204351A68189D589C7743A6D405575AB6FDC8282F29C018"
+    },
+    {
+      "entry": "ru/wither/skyru/ChatNotificationTranslator.class",
+      "before": "AEEC92A3796765D1315A7CD3FDE2FE3E9C08CC378BB2D9C5E3CAF2444511D258",
+      "after": "52BF42E38CE627BDECC3F0EAFB4753904F770FAE03EB6A9BE92B16C970B93074"
+    },
+    {
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Edit.class",
+      "before": "1014738FFA715A6C49BFE760B8C4DE3AD349476399C318B66631B166C35B5242",
+      "after": "74222EAC0F042BE14978B5B2367D18BD183089F638029B237653895D1CAB977C"
+    },
+    {
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$QuizLine66.class",
+      "before": "5BDA8186726D9980349A9F1CF81D0AC509FF63EC1B31B5C9200E4E0A7FDBDFA6",
+      "after": "C2242789E56CBD159BDFDA4C7E25D908996D740677C1C4A577FAA8D74427012E"
+    }
+  ],
+  "new_frame_hooks": 0,
+  "not_live_fps_proof": true,
+  "old_translation_and_asset_resources_byte_identical": 42
+}

@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'ru.wither.skyru'
-version = '0.15.0-dev'
+version = '0.15.115-dev'
 
 base { archivesName = 'WitherSkyRU-26.1.2-fabric' }
 repositories { maven { url = 'https://maven.fabricmc.net/' }; mavenCentral() }
@@ -12,6 +12,7 @@ repositories { maven { url = 'https://maven.fabricmc.net/' }; mavenCentral() }
 dependencies {
     minecraft 'com.mojang:minecraft:26.1.2'
     implementation 'net.fabricmc:fabric-loader:0.19.5'
+    runtimeOnly 'net.fabricmc.fabric-api:fabric-resource-loader-v1:2.0.10+7c44c7324c'
 }
 
 java { toolchain.languageVersion = JavaLanguageVersion.of(25) }

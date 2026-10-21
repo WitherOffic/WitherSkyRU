@@ -1,0 +1,112 @@
+[
+  {
+    "sample": "§e[NPC] §bMort§f: §rHere, I found this map when I first entered the dungeon.",
+    "source": "[NPC] Mort: Here, I found this map when I first entered the dungeon.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§e[NPC] §bMort§f: §rYou should find it useful if you get lost.",
+    "source": "[NPC] Mort: You should find it useful if you get lost.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§e[NPC] §bMort§f: §rGood luck.",
+    "source": "[NPC] Mort: Good luck.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§e[NPC] §bMort§f: §rTalk to me to change your class and ready up.",
+    "source": "[NPC] Mort: Talk to me to change your class and ready up.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§fThough I sit stationary in this prison that is §r§cThe Catacombs§r§f, my knowledge knows no bounds.",
+    "source": "[STATUE] Oruo the Omniscient: Though I sit stationary in this prison that is The Catacombs, my knowledge knows no bounds.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§fProve your knowledge by answering 3 questions and I shall reward you in ways that transcend time!",
+    "source": "[STATUE] Oruo the Omniscient: Prove your knowledge by answering 3 questions and I shall reward you in ways that transcend time!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§fAnswer incorrectly, and your moment of ineptitude will live on for generations.",
+    "source": "[STATUE] Oruo the Omniscient: Answer incorrectly, and your moment of ineptitude will live on for generations.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§f2 questions left... Then you will have proven your worth to me!",
+    "source": "[STATUE] Oruo the Omniscient: 2 questions left... Then you will have proven your worth to me!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§fOne more question!",
+    "source": "[STATUE] Oruo the Omniscient: One more question!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§fI bestow upon you all the power of a hundred years!",
+    "source": "[STATUE] Oruo the Omniscient: I bestow upon you all the power of a hundred years!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§fYou've already proven enough to me! No need to press more of my buttons!",
+    "source": "[STATUE] Oruo the Omniscient: You've already proven enough to me! No need to press more of my buttons!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§fI've had enough of you and your party fiddling with my buttons. Scram!",
+    "source": "[STATUE] Oruo the Omniscient: I've had enough of you and your party fiddling with my buttons. Scram!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§4[STATUE] Oruo the Omniscient§r§f: §r§fEnough! My buttons are not to be pressed with such lack of grace!",
+    "source": "[STATUE] Oruo the Omniscient: Enough! My buttons are not to be pressed with such lack of grace!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+  },
+  {
+    "sample": "§c[BOSS] The Watcher§r§f: You have proven yourself. You may pass.",
+    "source": "[BOSS] The Watcher: You have proven yourself. You may pass.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossMessages.kt"
+  },
+  {
+    "sample": "§c[BOSS] Sadan§r§f: So you made it all the way here... Now you wish to defy me? Sadan?!",
+    "source": "[BOSS] Sadan: So you made it all the way here... Now you wish to defy me? Sadan?!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+  },
+  {
+    "sample": "§c[BOSS] Sadan§r§f: ENOUGH!",
+    "source": "[BOSS] Sadan: ENOUGH!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+  },
+  {
+    "sample": "§c[BOSS] Sadan§r§f: You did it. I understand now, you have earned my respect.",
+    "source": "[BOSS] Sadan: You did it. I understand now, you have earned my respect.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+  },
+  {
+    "sample": "§4[BOSS] Maxor§r§c: §r§cWELL! WELL! WELL! LOOK WHO'S HERE!",
+    "source": "[BOSS] Maxor: WELL! WELL! WELL! LOOK WHO'S HERE!",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+  },
+  {
+    "sample": "§4[BOSS] Storm§r§c: §r§cPathetic Maxor, just like expected.",
+    "source": "[BOSS] Storm: Pathetic Maxor, just like expected.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+  },
+  {
+    "sample": "§4[BOSS] Goldor§r§c: §r§cWho dares trespass into my domain?",
+    "source": "[BOSS] Goldor: Who dares trespass into my domain?",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+  },
+  {
+    "sample": "§4[BOSS] Necron§r§c: §r§cYou went further than any human before, congratulations.",
+    "source": "[BOSS] Necron: You went further than any human before, congratulations.",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+  },
+  {
+    "sample": "§4[BOSS] Necron§r§c: §r§cAll this, for nothing...",
+    "source": "[BOSS] Necron: All this, for nothing...",
+    "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+  }
+]

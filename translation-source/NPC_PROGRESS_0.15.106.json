@@ -1,0 +1,61 @@
+{
+  "version": "0.15.106-dev",
+  "runtime_jar_sha256": "8A56461E1EED72013316C8DEEA1FE268062CE4DAD0380EEDE13DD85BC8D260A2",
+  "exact_keys": 11195,
+  "total_frozen": 16244,
+  "exact_percent": 68.91775424772223,
+  "without_exact_key": 5049,
+  "without_exact_percent": 31.08224575227777,
+  "new_exact_keys": 103,
+  "new_exact_keys_are_archival": true,
+  "new_current_choice_groups": 56,
+  "new_current_label_slots": 75,
+  "new_current_choice_source_rows": 56,
+  "static_choice_groups_before": 289,
+  "static_choice_groups_after": 345,
+  "prior_name_templates103": 135,
+  "selected_style_repaired_cumulative105": 72,
+  "selected_style_gaps_remaining": 0,
+  "fresh_test_groups": 179,
+  "parser_tests": 15,
+  "new_npc_assertions": 217703,
+  "new_choice_assertions": 81691,
+  "byte_identical_runtime_classes": 120,
+  "hot_method_instructions_unchanged": true,
+  "startup_method_edits_only": {
+    "ru.wither.skyru.ChatNotificationTranslator$Edit": [],
+    "ru.wither.skyru.ChatNotificationTranslator$Part": [],
+    "ru.wither.skyru.ChatNotificationTranslator$QuizLine66": [],
+    "ru.wither.skyru.ChatNotificationTranslator": [
+      "static {};"
+    ],
+    "ru.wither.skyru.NpcDialogueTranslator": [
+      "public static ru.wither.skyru.NpcDialogueTranslator storyDialogues() throws java.io.IOException;"
+    ]
+  },
+  "historical_test_sources_unchanged": 267,
+  "isolated_count_assertion_updates": 29,
+  "pinned_pages": 25,
+  "performance_not_fps": {
+    "scope": "Isolated equal-output receipt test;not game FPS/frametime/0.1% low. New103 NPC literals and56 groups are intentionally unequal work,verified separately.",
+    "equal_modes": 10,
+    "order": [
+      "105",
+      "106",
+      "106",
+      "105"
+    ],
+    "min_wall_change_percent": -0.7624132704048159,
+    "max_wall_change_percent": 14.209166095117553,
+    "both_orders_slower_over5": [],
+    "long_repeat": {
+      "scope": "Predeclared noisy choices87 plus near-threshold existing_style/existing_dynamic;one million warmup and four one-million-call rounds;all raw results retained.",
+      "equal_modes": 3,
+      "min_wall_change_percent": -2.725341514519508,
+      "max_wall_change_percent": 0.609133881235846,
+      "both_orders_slower_over5": []
+    }
+  },
+  "installed_pack_modified": false,
+  "game_fps_measured": false
+}

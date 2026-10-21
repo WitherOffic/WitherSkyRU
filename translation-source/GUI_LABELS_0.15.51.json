@@ -1,0 +1,644 @@
+{
+  "date": "2026-10-14",
+  "scope": "Five actual cache definitions: title/name/lore match conditions only, not complete tooltips/all server windows",
+  "records": [
+    {
+      "source": "guis/experimentation_table/experimentation_table.json",
+      "sha256": "22396A49A4C1B6E47E07D1980C0B2EBCF32522E1889DBCB6E59BC12256906222",
+      "definition": {
+        "target": {
+          "type": "title",
+          "title": "Experimentation Table"
+        },
+        "layout": [
+          {
+            "id": "skyblock_gui:experimentation_table/superpairs/unavailable",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "Superpairs"
+                },
+                {
+                  "type": "any",
+                  "conditions": [
+                    {
+                      "type": "lore",
+                      "mode": "equals",
+                      "line": -1,
+                      "name": "Play add-ons first!"
+                    },
+                    {
+                      "type": "lore",
+                      "mode": "equals",
+                      "line": -1,
+                      "name": "Experiments on cooldown!"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/superpairs/icon",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "Superpairs"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to play!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/chronomatron/unavailable",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "Chronomatron"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "On cooldown!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/chronomatron/icon",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "Chronomatron"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to play!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/ultrasequencer/icon",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "Ultrasequencer"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to play!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/ultrasequencer/unavailable",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "Ultrasequencer"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "On cooldown!"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "source": "guis/experimentation_table/chronomatron.json",
+      "sha256": "D59B548B3D348BAD6AE846D1B814D219DE3FD3834106F23BCB6D7861EB43E318",
+      "definition": {
+        "target": {
+          "type": "title",
+          "title": "Chronomatron ➜ Stakes"
+        },
+        "layout": [
+          {
+            "id": "skyblock_gui:experimentation_table/chronomatron/high",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "High Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/chronomatron/grand",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Grand Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/chronomatron/supreme",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Supreme Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/chronomatron/transcendent",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Transcendent Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/chronomatron/metaphysical",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Metaphysical Experiment"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "source": "guis/experimentation_table/ultrasequencer.json",
+      "sha256": "D0B820531BFDEA6EC6CE2857D46B3631CCDA53E5692648F3B40A385D65DAC6F0",
+      "definition": {
+        "target": {
+          "type": "title",
+          "title": "Ultrasequencer ➜ Stakes"
+        },
+        "layout": [
+          {
+            "id": "skyblock_gui:experimentation_table/ultrasequencer/supreme",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Supreme Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/ultrasequencer/transcendent",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Transcendent Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/ultrasequencer/metaphysical",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Metaphysical Experiment"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "source": "guis/experimentation_table/superpairs.json",
+      "sha256": "68A7EB8431DEEAAF4FA269B67570DB35D05EACFA38139DEFC51D106632E3F95A",
+      "definition": {
+        "target": {
+          "type": "title",
+          "title": "Superpairs ➜ Stakes"
+        },
+        "layout": [
+          {
+            "id": "skyblock_gui:experimentation_table/superpairs/beginner",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Beginner Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/superpairs/high",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "High Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/superpairs/grand",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Grand Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/superpairs/supreme",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Supreme Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/superpairs/transcendent",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Transcendent Experiment"
+            }
+          },
+          {
+            "id": "skyblock_gui:experimentation_table/superpairs/metaphysical",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Metaphysical Experiment"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "source": "guis/skills/combat/slayer/slayer.json",
+      "sha256": "2E48ABE3855BB7522C1647A64C6F0AF60306506B774083263C8075FA0BC6D891",
+      "definition": {
+        "target": {
+          "type": "title",
+          "title": "Slayer"
+        },
+        "layout": [
+          {
+            "id": "skyblock_gui:skills/combat/slayer/revenant_horror/icon/unlocked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Revenant Horror"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to view boss!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/revenant_horror/icon/rift",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Revenant Horror"
+                },
+                {
+                  "type": "item",
+                  "items": "nether_wart"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/tarantula_broodfather/icon/unlocked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Tarantula Broodfather"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to view boss!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/tarantula_broodfather/icon/rift",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Tarantula Broodfather"
+                },
+                {
+                  "type": "item",
+                  "items": "nether_wart"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/sven_packmaster/icon/locked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Sven Packmaster"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Slay Tarantula Broodfather II!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/sven_packmaster/icon/unlocked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Sven Packmaster"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to view boss!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/sven_packmaster/icon/rift",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Sven Packmaster"
+                },
+                {
+                  "type": "item",
+                  "items": "nether_wart"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/voidgloom_seraph/icon/locked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Voidgloom Seraph"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Slay Sven Packmaster IV!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/voidgloom_seraph/icon/unlocked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Voidgloom Seraph"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to view boss!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/voidgloom_seraph/icon/rift",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Voidgloom Seraph"
+                },
+                {
+                  "type": "item",
+                  "items": "nether_wart"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/riftstalker_bloodfiend/icon/overworld",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Riftstalker Bloodfiend"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Only inside The Rift!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/riftstalker_bloodfiend/icon/unlocked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Riftstalker Bloodfiend"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to view boss!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/inferno_demonlord/icon/locked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Inferno Demonlord"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Slay Voidgloom Seraph III!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/inferno_demonlord/icon/unlocked",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Inferno Demonlord"
+                },
+                {
+                  "type": "lore",
+                  "mode": "equals",
+                  "line": -1,
+                  "name": "Click to view boss!"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/inferno_demonlord/icon/rift",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "☠ Inferno Demonlord"
+                },
+                {
+                  "type": "item",
+                  "items": "nether_wart"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/icon/unreleased",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Not released yet!"
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/auto_slayer/icon/disabled",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "Auto-Slayer"
+                },
+                {
+                  "type": "item",
+                  "items": "minecraft:gray_dye"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/auto_slayer/icon/enabled",
+            "target": {
+              "type": "all",
+              "conditions": [
+                {
+                  "type": "name",
+                  "mode": "equals",
+                  "name": "Auto-Slayer"
+                },
+                {
+                  "type": "item",
+                  "items": "minecraft:lime_dye"
+                }
+              ]
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/icon/slayer_leaderboards",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Slayer Leaderboards"
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/icon/global_combat_wisdom_buff",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Global Combat Wisdom Buff"
+            }
+          },
+          {
+            "id": "skyblock_gui:skills/combat/slayer/icon/slayer_bonus_rewards",
+            "target": {
+              "type": "name",
+              "mode": "equals",
+              "name": "Slayer Bonus Rewards"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

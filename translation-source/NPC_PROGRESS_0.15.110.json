@@ -1,0 +1,68 @@
+{
+  "version": "0.15.110-dev",
+  "runtime_jar_sha256": "120A6C334CE41095E37895820439B4028F20006CEFF6AB7B6F535E350BD29B74",
+  "exact_keys": 12760,
+  "total_frozen": 16244,
+  "exact_percent": 78.55208076828367,
+  "without_exact_key": 3484,
+  "without_exact_percent": 21.447919231716327,
+  "new_exact_keys": 540,
+  "new_gameplay_messages": 540,
+  "new_npc_tagged_keys": 0,
+  "message_subsets_not_additive": {
+    "phone_messages": 39,
+    "contact_added": 22,
+    "thorn_crowd": 53,
+    "vargul_spoken": 14
+  },
+  "static_choice_groups_unchanged": 345,
+  "prior_name_templates103": 135,
+  "selected_style_repaired_cumulative105": 72,
+  "fresh_test_groups": 183,
+  "parser_tests": 15,
+  "new_gameplay_assertions": 2384927,
+  "primary_cases": 540,
+  "published_layouts": 541,
+  "historical_test_sources_unchanged": 282,
+  "isolated_count_assertion_updates": 33,
+  "pinned_pages": 254,
+  "byte_identical_runtime_classes": 124,
+  "startup_method_edits_only": {
+    "ru.wither.skyru.NpcDialogueTranslator": [
+      "public static ru.wither.skyru.NpcDialogueTranslator questObjectives() throws java.io.IOException;"
+    ]
+  },
+  "hot_methods_unchanged": true,
+  "performance_not_fps": {
+    "scope": "Isolated chat receipt,not game FPS/frame times/0.1% low;new540 translations are not treated as equal old work.",
+    "modes": 15,
+    "order": [
+      "109",
+      "110",
+      "110",
+      "109"
+    ],
+    "min_wall_change_percent": -9.344408387934832,
+    "max_wall_change_percent": 2.998159396417166,
+    "max_abs_allocation_delta_bytes": 0.0,
+    "both_orders_slower_over5": [],
+    "all_raw_retained": true
+  },
+  "long_performance_not_fps": {
+    "scope": "Isolated chat receipt,not game FPS/frame times/0.1% low;new540 translations are not treated as equal old work.",
+    "modes": 3,
+    "order": [
+      "109",
+      "110",
+      "110",
+      "109"
+    ],
+    "min_wall_change_percent": -4.393850703243118,
+    "max_wall_change_percent": 2.5986191811628867,
+    "max_abs_allocation_delta_bytes": 120.0,
+    "both_orders_slower_over5": [],
+    "all_raw_retained": true
+  },
+  "installed_pack_modified": false,
+  "game_fps_measured": false
+}

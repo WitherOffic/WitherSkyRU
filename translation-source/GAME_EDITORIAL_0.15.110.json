@@ -1,0 +1,4976 @@
+{
+  "scope": "Full-message source/target review before compilation;not runtime translation. Existing creature/item terminology checked;phone puns adapted without losing reply/button intent.",
+  "records": [
+    {
+      "probe_index": 9,
+      "source": "Your Chumcap Bucket trembles, it's an Agarimoo.",
+      "target": "Ваше ведро с грибной прикормкой дрожит — это агариму.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 10,
+      "source": "The Agarimoo's fumes are damaging you!",
+      "target": "Испарения агариму наносят вам урон!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 11,
+      "source": "You don't have enough Motes!",
+      "target": "У вас недостаточно пылинок!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 13,
+      "source": "An inquisitive Atoll Croaker takes the bait!",
+      "target": "Любопытный квакун атолла клюёт на наживку!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 14,
+      "source": "Sorry, but this person is not eligible for a rose.",
+      "target": "Извините, этому человеку нельзя подарить розу.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 15,
+      "source": "You do not meet the requirements to give a rose to this person.",
+      "target": "Вы не выполнили условия, необходимые, чтобы подарить этому человеку розу.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 37,
+      "source": "Your blaster ran out of juice!",
+      "target": "В вашем бластере закончился заряд!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 61,
+      "source": "The ground starts to shake and the lava bubbles...",
+      "target": "Земля дрожит, а лава бурлит...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 62,
+      "source": "The boss's outer shell looks to be weakening!",
+      "target": "Внешняя оболочка босса, похоже, ослабевает!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 63,
+      "source": "Half way there! The boss is starting to become weaker!",
+      "target": "Вы на полпути! Босс начинает слабеть!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 64,
+      "source": "Nearly there! The boss is shaking, it can't last much longer!",
+      "target": "Почти получилось! Босс дрожит, долго ему не продержаться!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 65,
+      "source": "The boss looks weak and tired and retreats into the lava...",
+      "target": "Обессиленный и уставший босс уходит обратно в лаву...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 66,
+      "source": "Don’t hit the pandas! Try feeding them instead!",
+      "target": "Не бейте панд! Лучше попробуйте их покормить!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 67,
+      "source": "Bambuleaf ate too much and passed out! You caught it!",
+      "target": "Бамболист объелся и потерял сознание! Вы его поймали!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 68,
+      "source": "This location is too small for the panda to grow! Push the panda around!",
+      "target": "Здесь слишком тесно, чтобы панда могла вырасти! Подтолкните её в другое место!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 69,
+      "source": "The desolate wail of a Banshee breaks the silence.",
+      "target": "Тишину нарушает тоскливый вой банши.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 71,
+      "source": "A swampy mass of slime emerges, the Bayou Sludge!",
+      "target": "Из болота поднимается сгусток слизи — болотный ил!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 72,
+      "source": "OOF! This has a particularly sour taste to it. Not the nicest.",
+      "target": "УФ! Невероятно кисло. Не самое приятное ощущение.",
+      "style_anchors": [
+        {
+          "source": "OOF!",
+          "target": "УФ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 73,
+      "source": "EEW! You struggle to keep the gloop down - it's just so sour!",
+      "target": "ФУ! Вы едва удерживаете эту жижу в желудке — настолько она кислая!",
+      "style_anchors": [
+        {
+          "source": "EEW!",
+          "target": "ФУ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 74,
+      "source": "HMM! Only thing keeping you going is knowing how long it took to make. Can't waste it!",
+      "target": "ХМ! Вы держитесь лишь благодаря мысли о том, сколько времени ушло на приготовление. Нельзя же всё выбросить!",
+      "style_anchors": [
+        {
+          "source": "HMM!",
+          "target": "ХМ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 75,
+      "source": "EURGH! Your face almost turns inside-out as you process the bitter taste.",
+      "target": "БРР! От горького вкуса ваше лицо едва не выворачивается наизнанку.",
+      "style_anchors": [
+        {
+          "source": "EURGH!",
+          "target": "БРР!"
+        }
+      ]
+    },
+    {
+      "probe_index": 76,
+      "source": "RIP! Your brain numbs - the damage may be permanent...",
+      "target": "КОНЕЦ! Мозг немеет — последствия могут оказаться необратимыми...",
+      "style_anchors": [
+        {
+          "source": "RIP!",
+          "target": "КОНЕЦ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 77,
+      "source": "You've already consumed the maximum amount of this item!",
+      "target": "Вы уже употребили максимально допустимое количество этого предмета!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 78,
+      "source": "BEEHEEMOTH! The Beeheemoth is starting to slow down!",
+      "target": "ПЧЕЛЕМОТ! Пчелемот начинает замедляться!",
+      "style_anchors": [
+        {
+          "source": "Beeheemoth",
+          "target": "Пчелемот"
+        },
+        {
+          "source": "BEEHEEMOTH!",
+          "target": "ПЧЕЛЕМОТ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 79,
+      "source": "BEEHEEMOTH! The Beeheemoth is getting more fatigued!",
+      "target": "ПЧЕЛЕМОТ! Пчелемот всё сильнее устаёт!",
+      "style_anchors": [
+        {
+          "source": "Beeheemoth",
+          "target": "Пчелемот"
+        },
+        {
+          "source": "BEEHEEMOTH!",
+          "target": "ПЧЕЛЕМОТ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 80,
+      "source": "BEEHEEMOTH! The Beeheemoth is exhausted - not long now!",
+      "target": "ПЧЕЛЕМОТ! Пчелемот обессилел — осталось недолго!",
+      "style_anchors": [
+        {
+          "source": "Beeheemoth",
+          "target": "Пчелемот"
+        },
+        {
+          "source": "BEEHEEMOTH!",
+          "target": "ПЧЕЛЕМОТ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 81,
+      "source": "BEEHEEMOTH! The Beeheemoth got bored and flew away!",
+      "target": "ПЧЕЛЕМОТ! Пчелемоту надоело, и он улетел!",
+      "style_anchors": [
+        {
+          "source": "Beeheemoth",
+          "target": "Пчелемоту"
+        },
+        {
+          "source": "BEEHEEMOTH!",
+          "target": "ПЧЕЛЕМОТ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 83,
+      "source": "A door opens from within the lab, and Jake shows up",
+      "target": "Дверь лаборатории открывается изнутри, и появляется Джейк",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 87,
+      "source": "You can hear cooperative chattering coming from town…",
+      "target": "Из города доносится дружеская болтовня...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 88,
+      "source": "The Better Together festival is active for 20 minutes!",
+      "target": "Фестиваль «Вместе веселее» продлится 20 минут!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 89,
+      "source": "CLICK HERE to warp to the hub!",
+      "target": "НАЖМИТЕ ЗДЕСЬ, чтобы переместиться в Хаб!",
+      "style_anchors": [
+        {
+          "source": "CLICK HERE",
+          "target": "НАЖМИТЕ ЗДЕСЬ"
+        }
+      ]
+    },
+    {
+      "probe_index": 90,
+      "source": "Welcome to SkyBlock Bingo!",
+      "target": "Добро пожаловать в бинго SkyBlock!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 98,
+      "source": "Pocket Black Holes cannot be placed inside The Catacombs!",
+      "target": "Карманные чёрные дыры нельзя размещать в Катакомбах!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 99,
+      "source": "✆ Blacksmith has been added to your Abiphone's contacts!",
+      "target": "✆ Кузнец добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Blacksmith",
+          "target": "Кузнец"
+        }
+      ]
+    },
+    {
+      "probe_index": 100,
+      "source": "Your radio is weak. Find another enjoyer to boost it.",
+      "target": "Радиосигнал слабый. Найдите другого любителя музыки поблизости!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 101,
+      "source": "Your radio signal is strong!",
+      "target": "Радиосигнал сильный!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 102,
+      "source": "Your radio lost signal. There's too many enjoyers on this channel.",
+      "target": "Радиосигнал потерян: на этом канале слишком много слушателей!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 103,
+      "source": "The undo on this zap has expired!",
+      "target": "Время отмены этого удаления блоков истекло!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 104,
+      "source": "Your zapper is temporarily fatigued!",
+      "target": "Ваш блочный разрушитель временно утомлён!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 105,
+      "source": "You cannot use this item on a public island!",
+      "target": "Нельзя использовать это на общественных островах!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 106,
+      "source": "You don't have enough room in your inventory to hold all the zapped blocks!",
+      "target": "В вашем инвентаре недостаточно места для всех удалённых блоков!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 107,
+      "source": "You can only zap blocks you've placed!",
+      "target": "Можно удалять только блоки, размещённые вами!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 108,
+      "source": "You startled the Bloodbat!",
+      "target": "Вы вспугнули кровавую летучую мышь!",
+      "style_anchors": [
+        {
+          "source": "Bloodbat",
+          "target": "кровавую летучую мышь"
+        },
+        {
+          "source": "!",
+          "target": "!"
+        }
+      ]
+    },
+    {
+      "probe_index": 109,
+      "source": "Blue Jay got scared!",
+      "target": "Голубая сойка испугалась!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 110,
+      "source": "A garish set of tentacles arise. It's a Blue Ringed Octopus!",
+      "target": "Показываются яркие щупальца. Это синекольчатый осьминог!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 111,
+      "source": "You spot a fin as blue as the water it came from, it's a Blue Shark.",
+      "target": "Вы замечаете плавник, синий, как вода вокруг. Это синяя акула.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 112,
+      "source": "You cannot use this right now.",
+      "target": "Сейчас это использовать нельзя!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 113,
+      "source": "You've hooked a Bogged!",
+      "target": "Вы подцепили болотника.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 114,
+      "source": "Congratulations! Your Book of Progression has been upgraded to Common!",
+      "target": "Поздравляем! Ваша книга развития улучшена до ОБЫЧНОЙ редкости!",
+      "style_anchors": [
+        {
+          "source": "Common",
+          "target": "ОБЫЧНОЙ"
+        }
+      ]
+    },
+    {
+      "probe_index": 115,
+      "source": "You consumed a Booster Cookie!",
+      "target": "Вы съели печенье усиления!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        }
+      ]
+    },
+    {
+      "probe_index": 116,
+      "source": "You consumed a Booster Cookie! Sweet!",
+      "target": "Вы съели печенье усиления! Сладко!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Sweet!",
+          "target": "Сладко!"
+        }
+      ]
+    },
+    {
+      "probe_index": 117,
+      "source": "You consumed a Booster Cookie! Delicious!",
+      "target": "Вы съели печенье усиления! Восхитительно!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Delicious!",
+          "target": "Восхитительно!"
+        }
+      ]
+    },
+    {
+      "probe_index": 118,
+      "source": "You consumed a Booster Cookie! Savory!",
+      "target": "Вы съели печенье усиления! Аппетитно!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Savory!",
+          "target": "Аппетитно!"
+        }
+      ]
+    },
+    {
+      "probe_index": 119,
+      "source": "You consumed a Booster Cookie! Yummy!",
+      "target": "Вы съели печенье усиления! Вкуснятина!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Yummy!",
+          "target": "Вкуснятина!"
+        }
+      ]
+    },
+    {
+      "probe_index": 120,
+      "source": "You consumed a Booster Cookie! Tasty!",
+      "target": "Вы съели печенье усиления! Вкусно!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Tasty!",
+          "target": "Вкусно!"
+        }
+      ]
+    },
+    {
+      "probe_index": 121,
+      "source": "You consumed a Booster Cookie! Delectable!",
+      "target": "Вы съели печенье усиления! Объедение!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Delectable!",
+          "target": "Объедение!"
+        }
+      ]
+    },
+    {
+      "probe_index": 122,
+      "source": "You consumed a Booster Cookie! Scrumptious!",
+      "target": "Вы съели печенье усиления! Пальчики оближешь!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Scrumptious!",
+          "target": "Пальчики оближешь!"
+        }
+      ]
+    },
+    {
+      "probe_index": 123,
+      "source": "You consumed a Booster Cookie! Delightful!",
+      "target": "Вы съели печенье усиления! Наслаждение!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Delightful!",
+          "target": "Наслаждение!"
+        }
+      ]
+    },
+    {
+      "probe_index": 124,
+      "source": "You consumed a Booster Cookie! Divine!",
+      "target": "Вы съели печенье усиления! Божественно!",
+      "style_anchors": [
+        {
+          "source": "Booster Cookie",
+          "target": "печенье усиления"
+        },
+        {
+          "source": "Divine!",
+          "target": "Божественно!"
+        }
+      ]
+    },
+    {
+      "probe_index": 125,
+      "source": "EVOLUTION! Your Bottle of Jyrre has evolved!",
+      "target": "ЭВОЛЮЦИЯ! Ваша бутылка джирра преобразилась!",
+      "style_anchors": [
+        {
+          "source": "Bottle of Jyrre",
+          "target": "бутылка джирра"
+        },
+        {
+          "source": "EVOLUTION!",
+          "target": "ЭВОЛЮЦИЯ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 126,
+      "source": "You already have an active Bottle of Jyrre!",
+      "target": "У вас уже действует эффект бутылки джирра!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 127,
+      "source": "BOUNCE BONANZA! Keep the Bouncy Beach Ball in the air for as long as you can by bouncing it on your head!",
+      "target": "ПРЫЖКОВОЕ ВЕСЕЛЬЕ! Удерживайте надувной пляжный мяч в воздухе как можно дольше, отбивая его головой!",
+      "style_anchors": [
+        {
+          "source": "Bouncy Beach Ball",
+          "target": "надувной пляжный мяч"
+        },
+        {
+          "source": "BOUNCE BONANZA!",
+          "target": "ПРЫЖКОВОЕ ВЕСЕЛЬЕ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 128,
+      "source": "You can't use this here!",
+      "target": "Здесь это использовать нельзя!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 129,
+      "source": "This item does not have enough space!",
+      "target": "Вокруг вас недостаточно места для этого!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 130,
+      "source": "The mooshroom is unphased...",
+      "target": "Мухоморная корова невозмутима...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 131,
+      "source": "BRAINLESS! You don't feel all that different, though you do feel a bit more confident in your times tables...",
+      "target": "БЕЗ МОЗГОВ! Особой разницы не чувствуете, хотя таблицу умножения теперь знаете немного увереннее...",
+      "style_anchors": [
+        {
+          "source": "BRAINLESS!",
+          "target": "БЕЗ МОЗГОВ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 132,
+      "source": "BRAINY! A variety of \"fun\" facts swirl around in your skull. Did you know these before?",
+      "target": "УМНИК! В голове кружатся всевозможные «занимательные» факты. Вы и раньше всё это знали?",
+      "style_anchors": [
+        {
+          "source": "BRAINY!",
+          "target": "УМНИК!"
+        }
+      ]
+    },
+    {
+      "probe_index": 133,
+      "source": "BRAINPOWER! You look up the sky, and the constellations begin to make sense. Voiceless, they speak to you.",
+      "target": "СИЛА УМА! Вы смотрите в небо, и созвездия обретают смысл. Не произнося ни звука, они говорят с вами.",
+      "style_anchors": [
+        {
+          "source": "BRAINPOWER!",
+          "target": "СИЛА УМА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 134,
+      "source": "BRAINROT! Who is the Sphinx to be questioning you, anyway? The Sphinx cannot think like YOU can.",
+      "target": "МОЗГОВАЯ ГНИЛЬ! Да кто такой этот Сфинкс, чтобы задавать вам вопросы? Сфинкс не умеет мыслить так, как ВЫ.",
+      "style_anchors": [
+        {
+          "source": "BRAINROT!",
+          "target": "МОЗГОВАЯ ГНИЛЬ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 135,
+      "source": "BRAINFREEZE! Every. single. digit. of pi, etched into your brain. You are the first to have reached the end. Sit down for a while and ruminate in your supreme intellect.",
+      "target": "МОЗГОЗАМОРОЗКА! Каждая. Цифра. Числа пи — выжжена у вас в мозгу. Вы первым добрались до конца. Присядьте и поразмыслите над своим непревзойдённым интеллектом.",
+      "style_anchors": [
+        {
+          "source": "BRAINFREEZE!",
+          "target": "МОЗГОЗАМОРОЗКА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 144,
+      "source": "A Brineling interrupts you with a stream of bubbles!",
+      "target": "Солёныш мешает вам, выпуская струю пузырьков!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 145,
+      "source": "You investigate..",
+      "target": "Вы осматриваете это место..",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 146,
+      "source": "Whatever was caged, it was here not long ago.",
+      "target": "Кто бы ни сидел в клетке, он был здесь совсем недавно.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 147,
+      "source": "Tremendous power emanates from this location.",
+      "target": "От этого места исходит колоссальная сила.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 148,
+      "source": "It's a piece from... a wither?",
+      "target": "Это обломок... иссушителя?",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 149,
+      "source": "It looks like something broke out of the cage.",
+      "target": "Похоже, кто-то вырвался из клетки.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 150,
+      "source": "The caged being could cross dimensional and chronological boundaries with ease.",
+      "target": "Существо в клетке могло с лёгкостью пересекать границы измерений и времени.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 152,
+      "source": "You may only use this item 2 times per 20 hours!",
+      "target": "Этот предмет можно использовать только 2 раза за 20 часов!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 153,
+      "source": "You do not have the requirements to use this item!",
+      "target": "Вы не выполнили условия использования этого предмета!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 154,
+      "source": "You need Profile older than 7 days to use it!",
+      "target": "Чтобы использовать это, нужен профиль старше 7 дней!",
+      "style_anchors": [
+        {
+          "source": "Profile older than 7 days",
+          "target": "профиль старше 7 дней"
+        }
+      ]
+    },
+    {
+      "probe_index": 155,
+      "source": "This pet doesn't want candies! They are already full enough!",
+      "target": "Этот питомец не хочет конфет! Он уже сыт!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 156,
+      "source": "This pet doesn't want candies! In fact it's quite offended at the proposition.",
+      "target": "Этот питомец не хочет конфет! Более того, ваше предложение его оскорбило.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 157,
+      "source": "Using the Cadacous Feeder requires consuming an Ultimate Carrot Candy!",
+      "target": "Для использования кормушки из кадукуса нужно потратить непревзойдённую морковную конфету!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 158,
+      "source": "You do not have any Ultimate Carrot Candy in your inventory!",
+      "target": "В вашем инвентаре нет непревзойдённых морковных конфет!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 159,
+      "source": "The window cakes are made of metal! Can't break them!",
+      "target": "Торты на витрине сделаны из металла! Их не сломать!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 160,
+      "source": "Taste of red velvet.",
+      "target": "Вкус «Красного бархата».",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 161,
+      "source": "Taste of blueberry.",
+      "target": "Вкус черники.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 162,
+      "source": "Taste of green lime.",
+      "target": "Вкус зелёного лайма.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 163,
+      "source": "Taste of lemon cheesecake.",
+      "target": "Вкус лимонного чизкейка.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 164,
+      "source": "Taste of strawberry.",
+      "target": "Вкус клубники.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 168,
+      "source": "✆ Captain Ahone has been added to your Abiphone's contacts!",
+      "target": "✆ Капитан Ахоне добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Captain Ahone",
+          "target": "Капитан Ахоне"
+        }
+      ]
+    },
+    {
+      "probe_index": 173,
+      "source": "Hover to see Top 10 players!",
+      "target": "Наведите курсор, чтобы увидеть 10 лучших игроков",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 174,
+      "source": "CLICK HERE to claim your rewards!",
+      "target": "НАЖМИТЕ ЗДЕСЬ, чтобы забрать награды!",
+      "style_anchors": [
+        {
+          "source": "CLICK HERE",
+          "target": "НАЖМИТЕ ЗДЕСЬ"
+        }
+      ]
+    },
+    {
+      "probe_index": 175,
+      "source": "Your mount has been despawned.",
+      "target": "Ваше ездовое животное исчезло.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 192,
+      "source": "Is that even a fish? It's the Carrot King!",
+      "target": "Это вообще рыба? Это Морковный король!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 201,
+      "source": "You feel the Totem starting to move faintly...",
+      "target": "Вы чувствуете, как тотем едва заметно начинает двигаться...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 202,
+      "source": "Looks like you woke the Tiki up!",
+      "target": "Вы разбудили Тики!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 203,
+      "source": "HOPPITY'S HUNT You found a Hitman Egg!",
+      "target": "ОХОТА ХОППИТИ! Вы нашли яйцо наёмного убийцы!",
+      "style_anchors": [
+        {
+          "source": "HOPPITY'S HUNT",
+          "target": "ОХОТА ХОППИТИ!"
+        },
+        {
+          "source": "Hitman Egg",
+          "target": "яйцо наёмного убийцы"
+        }
+      ]
+    },
+    {
+      "probe_index": 204,
+      "source": "This feature is currently disabled!",
+      "target": "Эта функция временно отключена!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 205,
+      "source": "This menu has been temporarily disabled!",
+      "target": "Это меню временно отключено!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 206,
+      "source": "Error loading island browser! Please try again later.",
+      "target": "Ошибка загрузки браузера островов! Попробуйте позже.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 209,
+      "source": "The Chuckwalla dodged your critter capsule and started running away!",
+      "target": "Чаквелла увернулась от вашей капсулы для зверьков и теперь убегает!",
+      "style_anchors": [
+        {
+          "source": "Chuckwalla",
+          "target": "Чаквелла"
+        }
+      ]
+    },
+    {
+      "probe_index": 210,
+      "source": "The Chuckwalla is cornered! Catch it!",
+      "target": "Чаквелла загнана в угол! Ловите её!",
+      "style_anchors": [
+        {
+          "source": "Chuckwalla",
+          "target": "Чаквелла"
+        }
+      ]
+    },
+    {
+      "probe_index": 211,
+      "source": "You placed down a Chum Bucket!",
+      "target": "Вы поставили ведро прикормки!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 212,
+      "source": "Deposit Chums in this bucket!",
+      "target": "Добавляйте прикормку, чтобы наполнить ведро!",
+      "style_anchors": [
+        {
+          "source": "Chums",
+          "target": "прикормку"
+        }
+      ]
+    },
+    {
+      "probe_index": 213,
+      "source": "Get your own bucket in the Glowing Mushroom Cave, in The Farming Islands.",
+      "target": "За собственным ведром прикормки отправляйтесь в пещеру светящихся грибов на Фермерских островах!",
+      "style_anchors": [
+        {
+          "source": "Glowing Mushroom Cave",
+          "target": "пещеру светящихся грибов"
+        },
+        {
+          "source": "in The Farming Islands",
+          "target": "на Фермерских островах"
+        }
+      ]
+    },
+    {
+      "probe_index": 214,
+      "source": "You collected your filled Chum Bucket!",
+      "target": "Вы забрали наполненное ведро прикормки!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 215,
+      "source": "Automatically picked up the Chum Bucket you left back there!",
+      "target": "Оставленное вами ведро прикормки подобрано автоматически!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 216,
+      "source": "You already have a bucket placed out there. Fill that one first!",
+      "target": "У вас уже стоит ведро прикормки. Сначала наполните его!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 217,
+      "source": "✆ Clerk Seraphine has been added to your Abiphone's contacts!",
+      "target": "✆ Секретарь Серафина добавлена в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Clerk Seraphine",
+          "target": "Секретарь Серафина"
+        }
+      ]
+    },
+    {
+      "probe_index": 218,
+      "source": "The Cod started spinning!",
+      "target": "Треска кружится на месте...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 219,
+      "source": "The Cod was spinning too fast and exploded!",
+      "target": "Треска закружилась слишком быстро и взорвалась!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 220,
+      "source": "Oops! You need room for 14 cakes in your inventory to open this!",
+      "target": "Ой! Чтобы открыть это, освободите в инвентаре место для 14 тортов!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 221,
+      "source": "You opened a Complete Century Cake Bundle and obtained:",
+      "target": "Вы открыли полный набор вековых тортов и получили:",
+      "style_anchors": [
+        {
+          "source": "Complete Century Cake Bundle",
+          "target": "полный набор вековых тортов"
+        }
+      ]
+    },
+    {
+      "probe_index": 235,
+      "source": "You found Conclamatus Glyph!",
+      "target": "Вы нашли глиф Конкламатус!",
+      "style_anchors": [
+        {
+          "source": "Conclamatus Glyph",
+          "target": "глиф Конкламатус"
+        }
+      ]
+    },
+    {
+      "probe_index": 236,
+      "source": "You should return it to Okron...",
+      "target": "Надо вернуть его Окрону...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 237,
+      "source": "You already have one in your inventory!",
+      "target": "У вас уже есть такой предмет в инвентаре!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 238,
+      "source": "This ability can only be used inside dungeons!",
+      "target": "Эту способность можно использовать только в подземельях!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 239,
+      "source": "Coralot got scared!",
+      "target": "Кораллот испугался!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 240,
+      "source": "You collected all the required hay!",
+      "target": "Вы собрали всё необходимое сено!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 241,
+      "source": "You have already collected a hat for this year!",
+      "target": "Вы уже получили шляпу в этом году!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 242,
+      "source": "You can't place blocks on public islands!",
+      "target": "Нельзя размещать блоки на общественных островах!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 243,
+      "source": "A Crafting Table can be accessed via your SkyBlock Menu or with /craft!",
+      "target": "Верстак доступен через меню SkyBlock или по команде /craft!",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        },
+        {
+          "source": "/craft",
+          "target": "/craft"
+        }
+      ]
+    },
+    {
+      "probe_index": 246,
+      "source": "You cannot afford this!",
+      "target": "Вам это не по карману!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 248,
+      "source": "WOAH! You caught a case of the CROP FEVER for 60 seconds!",
+      "target": "ОГО! Вы подхватили УРОЖАЙНУЮ ЛИХОРАДКУ на 60 секунд!",
+      "style_anchors": [
+        {
+          "source": "CROP FEVER",
+          "target": "УРОЖАЙНУЮ ЛИХОРАДКУ"
+        },
+        {
+          "source": "WOAH!",
+          "target": "ОГО!"
+        }
+      ]
+    },
+    {
+      "probe_index": 249,
+      "source": "GONE! Your CROP FEVER has been cured!",
+      "target": "ПРОШЛА! Ваша УРОЖАЙНАЯ ЛИХОРАДКА излечена!",
+      "style_anchors": [
+        {
+          "source": "CROP FEVER",
+          "target": "УРОЖАЙНАЯ ЛИХОРАДКА"
+        },
+        {
+          "source": "GONE!",
+          "target": "ПРОШЛА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 250,
+      "source": "HUNGRY! Your Crown of Avarice seems to want more coins.",
+      "target": "ГОЛОДНА! Ваша корона алчности, похоже, хочет ещё монет.",
+      "style_anchors": [
+        {
+          "source": "Crown of Avarice",
+          "target": "корона алчности"
+        },
+        {
+          "source": "HUNGRY!",
+          "target": "ГОЛОДНА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 251,
+      "source": "STARVING! You can feel your Crown of Avarice's cravings getting stronger.",
+      "target": "ГОЛОДАЕТ! Вы чувствуете, как аппетит вашей короны алчности растёт.",
+      "style_anchors": [
+        {
+          "source": "Crown of Avarice",
+          "target": "короны алчности"
+        },
+        {
+          "source": "STARVING!",
+          "target": "ГОЛОДАЕТ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 252,
+      "source": "FAMISHED! Your Crown of Avarice starts growling at you for more coins. What have you gotten yourself into...?",
+      "target": "ИЗГОЛОДАЛАСЬ! Ваша корона алчности рычит и требует ещё монет. Во что же вы ввязались...?",
+      "style_anchors": [
+        {
+          "source": "Crown of Avarice",
+          "target": "корона алчности"
+        },
+        {
+          "source": "What have you gotten yourself into...?",
+          "target": "Во что же вы ввязались...?"
+        },
+        {
+          "source": "FAMISHED!",
+          "target": "ИЗГОЛОДАЛАСЬ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 253,
+      "source": "RAVENOUS! Your Crown of Avarice is barking at you. If you don't keep feeding it coins, it might eat your head instead!",
+      "target": "ПРОЖОРЛИВА! Ваша корона алчности лает на вас. Если перестать кормить её монетами, она может съесть вашу голову!",
+      "style_anchors": [
+        {
+          "source": "Crown of Avarice",
+          "target": "корона алчности"
+        },
+        {
+          "source": "RAVENOUS!",
+          "target": "ПРОЖОРЛИВА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 254,
+      "source": "SATIATED! Your Crown of Avarice is stuffed to the brim, and appears to be in a food coma.",
+      "target": "СЫТА! Ваша корона алчности наелась до отвала и, кажется, впала в пищевую кому.",
+      "style_anchors": [
+        {
+          "source": "Crown of Avarice",
+          "target": "корона алчности"
+        },
+        {
+          "source": "SATIATED!",
+          "target": "СЫТА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 258,
+      "source": "You find an Enigma Soul from exploring your inner self!",
+      "target": "Исследуя собственный внутренний мир, вы находите душу Энигмы!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 259,
+      "source": "You have been teleported out of the Crystal Hollows because you did not have a valid pass!",
+      "target": "Вас телепортировали из Кристальных пещер, потому что у вас не было действующего пропуска!",
+      "style_anchors": [
+        {
+          "source": "Crystal Hollows",
+          "target": "Кристальных пещер"
+        }
+      ]
+    },
+    {
+      "probe_index": 260,
+      "source": "Keep exploring the Crystal Hollows to find the rest!",
+      "target": "Продолжайте исследовать Кристальные пещеры, чтобы найти остальные!",
+      "style_anchors": [
+        {
+          "source": "Crystal Hollows",
+          "target": "Кристальные пещеры"
+        }
+      ]
+    },
+    {
+      "probe_index": 261,
+      "source": "You've earned a Crystal Loot Bundle!",
+      "target": "Вы заработали набор кристальных сокровищ!",
+      "style_anchors": [
+        {
+          "source": "Crystal Loot Bundle",
+          "target": "набор кристальных сокровищ"
+        }
+      ]
+    },
+    {
+      "probe_index": 263,
+      "source": "✆ Dalir has been added to your Abiphone's contacts!",
+      "target": "✆ Далир добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Dalir",
+          "target": "Далир"
+        }
+      ]
+    },
+    {
+      "probe_index": 264,
+      "source": "This Museum is temporarily disabled. Check back again later!",
+      "target": "Этот музей временно отключён. Загляните позже!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 271,
+      "source": "Seems like the winner was offline! If you find them somewhere, tell them Jerry has their item.",
+      "target": "Похоже, победителя не было в сети! Если встретите его, скажите, что его предмет у Джерри.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 272,
+      "source": "EVOLUTION! Your Dark Cacao Truffle has evolved!",
+      "target": "ЭВОЛЮЦИЯ! Ваш трюфель из тёмного какао преобразился!",
+      "style_anchors": [
+        {
+          "source": "Dark Cacao Truffle",
+          "target": "трюфель из тёмного какао"
+        },
+        {
+          "source": "EVOLUTION!",
+          "target": "ЭВОЛЮЦИЯ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 275,
+      "source": "You placed a Day Saver! It will now always be day on your private island!",
+      "target": "Вы установили хранитель дня! Теперь на вашем личном острове всегда будет день!",
+      "style_anchors": [
+        {
+          "source": "Day Saver",
+          "target": "хранитель дня"
+        }
+      ]
+    },
+    {
+      "probe_index": 276,
+      "source": "RIGHT CLICK the Day Saver to change its settings!",
+      "target": "Нажмите ПКМ по хранителю дня, чтобы изменить его настройки!",
+      "style_anchors": [
+        {
+          "source": "RIGHT CLICK",
+          "target": "Нажмите ПКМ"
+        }
+      ]
+    },
+    {
+      "probe_index": 278,
+      "source": "You can only place 1 of these on your island at a time!",
+      "target": "На острове можно разместить только 1 такой предмет одновременно!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 279,
+      "source": "The lake consumes the Dead Man's Chestplate, but remains ravenous.",
+      "target": "Озеро поглощает нагрудник мертвеца, но его голод не утихает.",
+      "style_anchors": [
+        {
+          "source": "Dead Man's Chestplate",
+          "target": "нагрудник мертвеца"
+        },
+        {
+          "source": "ravenous",
+          "target": "голод не утихает"
+        },
+        {
+          "source": ".",
+          "target": "."
+        }
+      ]
+    },
+    {
+      "probe_index": 280,
+      "source": "Something floats to the surface.",
+      "target": "Что-то всплывает на поверхность.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 281,
+      "source": "You reach out and took the Dead Man's Journal that had been hidden inside the chestplate.",
+      "target": "Вы протягиваете руку и берёте дневник мертвеца, спрятанный внутри нагрудника.",
+      "style_anchors": [
+        {
+          "source": "Dead Man's Journal",
+          "target": "дневник мертвеца"
+        }
+      ]
+    },
+    {
+      "probe_index": 282,
+      "source": "Your Dead Man's Journal updated itself!",
+      "target": "Ваш дневник мертвеца обновился сам собой!",
+      "style_anchors": [
+        {
+          "source": "Dead Man's Journal",
+          "target": "дневник мертвеца"
+        }
+      ]
+    },
+    {
+      "probe_index": 283,
+      "source": "You have awoken the Deep Sea Protector, prepare for a battle!",
+      "target": "Вы разбудили защитника морских глубин — готовьтесь к бою!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 284,
+      "source": "The guardian of the temple opens the door...",
+      "target": "Страж храма открывает дверь...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 285,
+      "source": "The door slams down behind you...",
+      "target": "Дверь с грохотом закрывается за вашей спиной...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 286,
+      "source": "The statues click into place as a secret passage reveals itself...",
+      "target": "Статуи встают на свои места со щелчком, открывая тайный проход...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 287,
+      "source": "This amazing bouquet has been made with love, no doubt about that.",
+      "target": "Этот удивительный букет явно сделан с любовью.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 288,
+      "source": "This blood stain has been looked at before.",
+      "target": "Это пятно крови уже осматривали.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 289,
+      "source": "That definitely spooked them quite a lot, perhaps they ran away.",
+      "target": "Это явно их сильно напугало. Возможно, они убежали.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 290,
+      "source": "But where did they run...",
+      "target": "Но куда они убежали...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 291,
+      "source": "This is clearly an engagement ring.",
+      "target": "Это явно обручальное кольцо.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 292,
+      "source": "However, there is a curve on the front where there should be a jewel.",
+      "target": "Однако спереди, где должен быть драгоценный камень, видна выемка.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 293,
+      "source": "This is incomplete.",
+      "target": "Чего-то не хватает.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 294,
+      "source": "The fridge is empty.",
+      "target": "Холодильник пуст.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 295,
+      "source": "But what are these?",
+      "target": "Но что это?",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 296,
+      "source": "BlockDash receipts?? Hundreds of them!",
+      "target": "Чеки BlockDash?? Сотни чеков!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 297,
+      "source": "- Tall Painting -",
+      "target": "— Высокая картина —",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 298,
+      "source": "It looks like an abstract painting of our victim.",
+      "target": "Похоже на абстрактный портрет нашей жертвы.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 299,
+      "source": "They seem to be wearing a red-ish top and blue jeans.",
+      "target": "Кажется, на жертве красноватый верх и синие джинсы.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 300,
+      "source": "The attacker might've escaped through this window!",
+      "target": "Нападавший мог сбежать через это окно!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 301,
+      "source": "Or one of the other windows!",
+      "target": "Или через одно из других окон!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 302,
+      "source": "Or through the door!",
+      "target": "Или через дверь!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 303,
+      "source": "Or the chimney!!!",
+      "target": "Или через дымоход!!!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 304,
+      "source": "- Large Painting -",
+      "target": "— Большая картина —",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 305,
+      "source": "A picture of the future wedding.",
+      "target": "Картина с изображением будущей свадьбы.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 306,
+      "source": "This looks like the bride.",
+      "target": "Похоже, это невеста.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 307,
+      "source": "The husband is missing from the picture of course, he will be dead by then...",
+      "target": "Мужа на картине, разумеется, нет: к тому времени он уже будет мёртв...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 308,
+      "source": "Unfortunately the picture is too pixelated to recognize the wife.",
+      "target": "К сожалению, изображение слишком пиксельное, чтобы узнать невесту.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 309,
+      "source": "It appears that they are engaged.",
+      "target": "Кажется, они помолвлены.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 310,
+      "source": "What a tragedy...",
+      "target": "Какая трагедия...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 311,
+      "source": "They might have gone to warn their love of their incoming murder.",
+      "target": "Возможно, жертва отправилась предупредить свою любовь о грядущем убийстве.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 312,
+      "source": "You've examined all the clues!",
+      "target": "Вы осмотрели все улики!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 313,
+      "source": "Talk to the detective.",
+      "target": "Поговорите с детективом.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 314,
+      "source": "The wedding dress in that picture is fresh, it was just made.",
+      "target": "Свадебное платье на картине совсем новое, его только что сшили.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 315,
+      "source": "You can tell by the pixels.",
+      "target": "Это видно по пикселям.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 316,
+      "source": "Talk to the detective again.",
+      "target": "Снова поговорите с детективом.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 318,
+      "source": "You were given a Precious in exchange for your InfiniDirt™ Wand!",
+      "target": "Вы обменяли палочку бесконечной земли™ на «Прелесть»!",
+      "style_anchors": [
+        {
+          "source": "Precious",
+          "target": "«Прелесть»"
+        },
+        {
+          "source": "InfiniDirt™ Wand",
+          "target": "палочку бесконечной земли™"
+        }
+      ]
+    },
+    {
+      "probe_index": 319,
+      "source": "EVOLUTION! Your Discrite has evolved!",
+      "target": "ЭВОЛЮЦИЯ! Ваш дискрит преобразился!",
+      "style_anchors": [
+        {
+          "source": "Discrite",
+          "target": "дискрит"
+        },
+        {
+          "source": "EVOLUTION!",
+          "target": "ЭВОЛЮЦИЯ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 320,
+      "source": "You can't use that here!",
+      "target": "Здесь это использовать нельзя!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 321,
+      "source": "Master Tao sees you getting ready to do the Dojo and grants you damage protection.",
+      "target": "Мастер Тао видит, что вы готовитесь к испытанию в додзё, и дарует вам защиту от урона.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 322,
+      "source": "As Master Tao's student, he protects you by preventing all damage in the Dojo.",
+      "target": "Вы — ученик мастера Тао, поэтому в додзё он защищает вас от любого урона.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 323,
+      "source": "As you leave the Dojo, Master Tao's protection dissipates.",
+      "target": "Когда вы покидаете додзё, защита мастера Тао рассеивается.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 324,
+      "source": "Master Tao sees you getting ready to leave the Dojo and removes your protection.",
+      "target": "Мастер Тао видит, что вы собираетесь покинуть додзё, и снимает с вас защиту.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 325,
+      "source": "You can't open the SkyBlock Menu in a challenge!",
+      "target": "Во время испытания нельзя открывать меню SkyBlock!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 326,
+      "source": "You cannot access the bazaar during a challenge.",
+      "target": "Во время испытания нельзя пользоваться Базаром.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 327,
+      "source": "You cannot use the Auction House during a challenge!",
+      "target": "Во время испытания нельзя пользоваться аукционом!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 328,
+      "source": "You cannot access the Storage during a challenge!",
+      "target": "Во время испытания нельзя открывать хранилище!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 329,
+      "source": "You cannot access your pets here!",
+      "target": "Здесь нельзя открывать меню питомцев!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 330,
+      "source": "You cannot access your bags during a challenge.",
+      "target": "Во время испытания нельзя открывать сумки.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 331,
+      "source": "You cannot use the Recipe Book during a challenge!",
+      "target": "Во время испытания нельзя пользоваться книгой рецептов!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 332,
+      "source": "You cannot use the Collection Page during a challenge!",
+      "target": "Во время испытания нельзя открывать страницу коллекций!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 333,
+      "source": "You cannot use the Your Skills Page during a challenge!",
+      "target": "Во время испытания нельзя открывать страницу навыков!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 334,
+      "source": "You cannot use the Sea Creature Guide during a challenge!",
+      "target": "Во время испытания нельзя открывать справочник морских существ!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 335,
+      "source": "You cannot use the Calendar and Events Page during a challenge!",
+      "target": "Во время испытания нельзя открывать страницу календаря и событий!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 336,
+      "source": "You cannot use the Active Effects Page during a challenge!",
+      "target": "Во время испытания нельзя открывать страницу активных эффектов!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 337,
+      "source": "You cannot open the wardrobe during a challenge!",
+      "target": "Во время испытания нельзя открывать гардероб!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 338,
+      "source": "You cannot use the Profile Management Page during a challenge!",
+      "target": "Во время испытания нельзя открывать страницу управления профилями!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 339,
+      "source": "You used the Soothing Incense to light the candle! You begin to feel uneasy.",
+      "target": "Вы зажгли свечу успокаивающим благовонием! Вам становится не по себе.",
+      "style_anchors": [
+        {
+          "source": "Soothing Incense",
+          "target": "успокаивающим благовонием"
+        }
+      ]
+    },
+    {
+      "probe_index": 340,
+      "source": "You used the Soothing Incense to light the candle! Something is off about this place...",
+      "target": "Вы зажгли свечу успокаивающим благовонием! С этим местом что-то не так...",
+      "style_anchors": [
+        {
+          "source": "Soothing Incense",
+          "target": "успокаивающим благовонием"
+        }
+      ]
+    },
+    {
+      "probe_index": 341,
+      "source": "You used the Soothing Incense to light the candle! Are you sure you wish to continue?",
+      "target": "Вы зажгли свечу успокаивающим благовонием! Вы уверены, что хотите продолжить?",
+      "style_anchors": [
+        {
+          "source": "Soothing Incense",
+          "target": "успокаивающим благовонием"
+        },
+        {
+          "source": "sure",
+          "target": "уверены"
+        }
+      ]
+    },
+    {
+      "probe_index": 342,
+      "source": "You used the Soothing Incense to light the candle! The ground beneath your feet starts to shift...",
+      "target": "Вы зажгли свечу успокаивающим благовонием! Земля под вашими ногами начинает двигаться...",
+      "style_anchors": [
+        {
+          "source": "Soothing Incense",
+          "target": "успокаивающим благовонием"
+        }
+      ]
+    },
+    {
+      "probe_index": 343,
+      "source": "Your ritual summoned a Doomspiral into this world. Stay still.",
+      "target": "Ваш ритуал призвал в этот мир Спираль погибели. Не двигайтесь.",
+      "style_anchors": [
+        {
+          "source": "Doomspiral",
+          "target": "Спираль погибели"
+        }
+      ]
+    },
+    {
+      "probe_index": 344,
+      "source": "Something stirs in the Haunted Biome...",
+      "target": "Что-то шевелится в призрачном биоме...",
+      "style_anchors": [
+        {
+          "source": "Haunted Biome",
+          "target": "призрачном биоме"
+        }
+      ]
+    },
+    {
+      "probe_index": 345,
+      "source": "The Doomspiral is enraged and can't be caught right now!",
+      "target": "Спираль погибели в ярости, и сейчас её нельзя поймать!",
+      "style_anchors": [
+        {
+          "source": "Doomspiral",
+          "target": "Спираль погибели"
+        }
+      ]
+    },
+    {
+      "probe_index": 346,
+      "source": "The darkness in the Haunted Biome  fades away...",
+      "target": "Тьма в призрачном биоме рассеивается...",
+      "style_anchors": [
+        {
+          "source": "Haunted Biome",
+          "target": "призрачном биоме"
+        }
+      ]
+    },
+    {
+      "probe_index": 347,
+      "source": "The Doomspiral retreats back underground...",
+      "target": "Спираль погибели уходит обратно под землю...",
+      "style_anchors": [
+        {
+          "source": "Doomspiral",
+          "target": "Спираль погибели"
+        }
+      ]
+    },
+    {
+      "probe_index": 348,
+      "source": "Dr. Edwin takes a look at your paper...",
+      "target": "Доктор Эдвин осматривает вашу работу...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 349,
+      "source": "This enchant is built into this item and cannot be removed!",
+      "target": "Это зачарование встроено в предмет, и его нельзя удалить!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 350,
+      "source": "☬ The Dragon's Gate is weakening!",
+      "target": "☬ Врата дракона ослабевают!",
+      "style_anchors": [
+        {
+          "source": "☬",
+          "target": "☬"
+        }
+      ]
+    },
+    {
+      "probe_index": 351,
+      "source": "☬ The Dragon's Gate is starting to budge!",
+      "target": "☬ Врата дракона начинают поддаваться!",
+      "style_anchors": [
+        {
+          "source": "☬",
+          "target": "☬"
+        }
+      ]
+    },
+    {
+      "probe_index": 352,
+      "source": "☬ The Dragon's Gate is nearly open!",
+      "target": "☬ Врата дракона почти открыты!",
+      "style_anchors": [
+        {
+          "source": "☬",
+          "target": "☬"
+        }
+      ]
+    },
+    {
+      "probe_index": 353,
+      "source": "☬ The Dragon's Gate has opened!",
+      "target": "☬ Врата дракона открылись!",
+      "style_anchors": [
+        {
+          "source": "☬",
+          "target": "☬"
+        }
+      ]
+    },
+    {
+      "probe_index": 354,
+      "source": "A Drowned Captain takes hold of your bobber!",
+      "target": "За ваш поплавок хватается утонувший капитан!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 355,
+      "source": "A swampy mass of slime emerges, the Dumpster Diver!",
+      "target": "Из болота поднимается сгусток слизи — мусорный ныряльщик!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 357,
+      "source": "The Dustybit is exhausted...",
+      "target": "Пыльнобит обессилел...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 365,
+      "source": "Click HERE to see a random Wiki page!",
+      "target": "Нажмите ЗДЕСЬ, чтобы открыть случайную страницу вики!",
+      "style_anchors": [
+        {
+          "source": "HERE",
+          "target": "ЗДЕСЬ"
+        }
+      ]
+    },
+    {
+      "probe_index": 366,
+      "source": "There are no Chocolate Rabbit Eggs nearby! Try again later!",
+      "target": "Поблизости нет шоколадных кроличьих яиц! Попробуйте позже!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 367,
+      "source": "This island doesn't spawn Chocolate Rabbit Eggs!",
+      "target": "На этом острове не появляются шоколадные кроличьи яйца!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 368,
+      "source": "Your profile is too new to make a gems purchase! Looking for something to do? Find and visit the Deep Caverns!",
+      "target": "Ваш профиль слишком новый для покупки самоцветов! Не знаете, чем заняться? Найдите и посетите Глубокие пещеры!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 369,
+      "source": "✆ Elizabeth has been added to your Abiphone's contacts!",
+      "target": "✆ Элизабет добавлена в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Elizabeth",
+          "target": "Элизабет"
+        }
+      ]
+    },
+    {
+      "probe_index": 370,
+      "source": "You tell Elizabeth about what happened today.",
+      "target": "Вы рассказываете Элизабет о сегодняшних событиях.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 371,
+      "source": "Elizabeth scavenges her drawer and pulls out a Booster Cookie.",
+      "target": "Элизабет роется в ящике и достаёт печенье усиления.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 372,
+      "source": "✆ Elle has been added to your Abiphone's contacts!",
+      "target": "✆ Элль добавлена в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Elle",
+          "target": "Элль"
+        }
+      ]
+    },
+    {
+      "probe_index": 373,
+      "source": "Elle has been eaten by Kuudra!",
+      "target": "Куудра съел Элль!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 374,
+      "source": "TIME NOPE! You need to be on your private island to use this!",
+      "target": "ВРЕМЕННОЙ ОТКАЗ! Это можно использовать только на личном острове!",
+      "style_anchors": [
+        {
+          "source": "TIME NOPE!",
+          "target": "ВРЕМЕННОЙ ОТКАЗ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 375,
+      "source": "TIME NOPE! Didn't time warp any Training Sessions- you don't have any!",
+      "target": "ВРЕМЕННОЙ ОТКАЗ! Вы не ускорили ни одной тренировки: у вас их нет!",
+      "style_anchors": [
+        {
+          "source": "TIME NOPE!",
+          "target": "ВРЕМЕННОЙ ОТКАЗ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 376,
+      "source": "TIME NOPE! You have no pet being taken care of by Kat- so no time warp!",
+      "target": "ВРЕМЕННОЙ ОТКАЗ! Кэт не ухаживает ни за одним вашим питомцем, так что ускорять нечего!",
+      "style_anchors": [
+        {
+          "source": "TIME NOPE!",
+          "target": "ВРЕМЕННОЙ ОТКАЗ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 377,
+      "source": "TIME NOPE! Your pet being taken care of by Kat has already finished upgrading its rarity!",
+      "target": "ВРЕМЕННОЙ ОТКАЗ! Кэт уже закончила повышение редкости вашего питомца!",
+      "style_anchors": [
+        {
+          "source": "TIME NOPE!",
+          "target": "ВРЕМЕННОЙ ОТКАЗ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 378,
+      "source": "TIME NOPE! You didn't have any active Forge Items to speed up!",
+      "target": "ВРЕМЕННОЙ ОТКАЗ! У вас нет предметов, которые сейчас куются и которые можно ускорить!",
+      "style_anchors": [
+        {
+          "source": "TIME NOPE!",
+          "target": "ВРЕМЕННОЙ ОТКАЗ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 379,
+      "source": "TIME NOPE! You need to be on your Garden to use this!",
+      "target": "ВРЕМЕННОЙ ОТКАЗ! Это можно использовать только в вашем Саду!",
+      "style_anchors": [
+        {
+          "source": "TIME NOPE!",
+          "target": "ВРЕМЕННОЙ ОТКАЗ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 380,
+      "source": "TIME NOPE! Nothing is currently growing in your Greenhouse. Plant something first!",
+      "target": "ВРЕМЕННОЙ ОТКАЗ! Сейчас в вашей теплице ничего не растёт. Сначала что-нибудь посадите!",
+      "style_anchors": [
+        {
+          "source": "TIME NOPE!",
+          "target": "ВРЕМЕННОЙ ОТКАЗ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 381,
+      "source": "You feel a tremor from beneath the earth!",
+      "target": "Вы чувствуете толчок из-под земли!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 382,
+      "source": "The ground begins to shake as an End Stone Protector rises from below!",
+      "target": "Земля дрожит: из-под неё поднимается защитник Края!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 383,
+      "source": "Be careful! Using Ender Pearls on this island will anger nearby Endermen!",
+      "target": "Осторожно! Использование жемчуга Края на этом острове разозлит ближайших эндерменов!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 384,
+      "source": "SOUL! You unlocked an Enigma Soul!",
+      "target": "ДУША! Вы открыли душу Энигмы!",
+      "style_anchors": [
+        {
+          "source": "Enigma Soul",
+          "target": "душу Энигмы"
+        },
+        {
+          "source": "SOUL!",
+          "target": "ДУША!"
+        }
+      ]
+    },
+    {
+      "probe_index": 385,
+      "source": "You've hooked an Ent, as ancient as the forest itself.",
+      "target": "Вы подцепили энта, древнего, как сам лес.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 388,
+      "source": "Erihann imbued your Rift Prism right into your spirit!",
+      "target": "Эрихан вплёл вашу призму Разлома прямо в вашу душу!",
+      "style_anchors": [
+        {
+          "source": "Erihann",
+          "target": "Эрихан"
+        },
+        {
+          "source": "Rift Prism",
+          "target": "призму Разлома"
+        }
+      ]
+    },
+    {
+      "probe_index": 391,
+      "source": "SOUL! You found a Fairy Soul!",
+      "target": "ДУША! Вы нашли душу феи!",
+      "style_anchors": [
+        {
+          "source": "Fairy Soul",
+          "target": "душу феи"
+        },
+        {
+          "source": "SOUL!",
+          "target": "ДУША!"
+        }
+      ]
+    },
+    {
+      "probe_index": 392,
+      "source": "You have already found that Fairy Soul!",
+      "target": "Вы уже находили эту душу феи!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 412,
+      "source": "You already have an item in that slot!",
+      "target": "В этой ячейке уже есть предмет!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 413,
+      "source": "You have unlocked the Farming Toolkit! Access it with /farmingtoolkit",
+      "target": "Вы открыли фермерский набор! Откройте его командой /farmingtoolkit",
+      "style_anchors": [
+        {
+          "source": "/farmingtoolkit",
+          "target": "/farmingtoolkit"
+        }
+      ]
+    },
+    {
+      "probe_index": 414,
+      "source": "You have already unlocked this toolkit!",
+      "target": "Вы уже открыли этот набор!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 415,
+      "source": "You haven't unlocked the Farming Toolkit yet!",
+      "target": "Вы ещё не открыли фермерский набор!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 416,
+      "source": "YUM! You ate a Feast Burger with a Side of Deepfries!",
+      "target": "НЯМ! Вы съели пиршественный бургер с гарниром из глубинной картошки фри!",
+      "style_anchors": [
+        {
+          "source": "Feast Burger with a Side of Deepfries",
+          "target": "пиршественный бургер с гарниром из глубинной картошки фри"
+        },
+        {
+          "source": "YUM!",
+          "target": "НЯМ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 417,
+      "source": "RARE CROP! Seasoning (automatically donated)",
+      "target": "РЕДКИЙ УРОЖАЙ! Приправа (автоматически пожертвована)",
+      "style_anchors": [
+        {
+          "source": "Seasoning",
+          "target": "Приправа"
+        },
+        {
+          "source": "(automatically donated)",
+          "target": "(автоматически пожертвована)"
+        },
+        {
+          "source": "RARE CROP!",
+          "target": "РЕДКИЙ УРОЖАЙ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 418,
+      "source": "ARGH! Things don't seem too bad at first, but then the maggot explodes in your mouth.",
+      "target": "АРГХ! Сначала всё не так плохо, но потом опарыш лопается у вас во рту.",
+      "style_anchors": [
+        {
+          "source": "ARGH!",
+          "target": "АРГХ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 419,
+      "source": "PHEW! Better hold your nose while chewing, the smell isn't helping things.",
+      "target": "ФУХ! Лучше зажмите нос, пока жуёте: запах совсем не помогает.",
+      "style_anchors": [
+        {
+          "source": "PHEW!",
+          "target": "ФУХ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 420,
+      "source": "UGH! The third tastes three times worse than the second, which tasted twice as bad as the first. Things aren't looking up. But hey, anything for a small stat buff.",
+      "target": "УФ! Третий на вкус втрое хуже второго, который был вдвое хуже первого. Лучше не становится. Но ради небольшой прибавки к характеристике можно и потерпеть.",
+      "style_anchors": [
+        {
+          "source": "UGH!",
+          "target": "УФ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 421,
+      "source": "HIC! You struggle to keep a burp down, and it tastes like more maggots. Nasty.",
+      "target": "ИК! Вы с трудом сдерживаете отрыжку, а на вкус она — как ещё одна порция опарышей. Гадость.",
+      "style_anchors": [
+        {
+          "source": "HIC!",
+          "target": "ИК!"
+        }
+      ]
+    },
+    {
+      "probe_index": 422,
+      "source": "NO MORE! Not again, not even once. You say that, but we both know you'll do anything for a small stat boost. Be it maggot, larva, or vial, you'll be there, hungry for more.",
+      "target": "ХВАТИТ! Больше ни за что. Вы так говорите, но мы оба знаем: ради небольшой прибавки к характеристике вы пойдёте на всё. Опарыш, личинка или пузырёк — вы тут как тут, вечно голодный до новых бонусов.",
+      "style_anchors": [
+        {
+          "source": "NO MORE!",
+          "target": "ХВАТИТ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 423,
+      "source": "This NPC is temporarily disabled, sorry!",
+      "target": "Этот персонаж временно отключён, извините!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 424,
+      "source": "i have been turned off for now, go away.",
+      "target": "меня пока отключили, уходи.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 425,
+      "source": "A Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
+      "target": "Огненный бегунок неприметно ковыляет к вам в компании друзей.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 426,
+      "source": "A Fire Eel slithers out of the depths.",
+      "target": "Из глубин выскальзывает огненный угорь.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 428,
+      "source": "♨ Visit the Community Shop to grab yours!",
+      "target": "♨ Загляните в общественный магазин за покупками!",
+      "style_anchors": [
+        {
+          "source": "♨",
+          "target": "♨"
+        }
+      ]
+    },
+    {
+      "probe_index": 429,
+      "source": "Trouble's brewing, it's a Fireproof Witch!",
+      "target": "Назревает беда — это огнеупорная ведьма!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 430,
+      "source": "You found Firmitas Glyph!",
+      "target": "Вы нашли глиф Фирмитас!",
+      "style_anchors": [
+        {
+          "source": "Firmitas Glyph",
+          "target": "глиф Фирмитас"
+        }
+      ]
+    },
+    {
+      "probe_index": 431,
+      "source": "FISHING FESTIVAL The event starts in 3 days!",
+      "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ Событие начнётся через 3 дня!",
+      "style_anchors": [
+        {
+          "source": "FISHING FESTIVAL",
+          "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ"
+        },
+        {
+          "source": "3",
+          "target": "3"
+        }
+      ]
+    },
+    {
+      "probe_index": 432,
+      "source": "FISHING FESTIVAL The event starts in 2 days!",
+      "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ Событие начнётся через 2 дня!",
+      "style_anchors": [
+        {
+          "source": "FISHING FESTIVAL",
+          "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ"
+        },
+        {
+          "source": "2",
+          "target": "2"
+        }
+      ]
+    },
+    {
+      "probe_index": 433,
+      "source": "FISHING FESTIVAL The event starts in 1 day!",
+      "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ Событие начнётся через 1 день!",
+      "style_anchors": [
+        {
+          "source": "FISHING FESTIVAL",
+          "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ"
+        },
+        {
+          "source": "1",
+          "target": "1"
+        }
+      ]
+    },
+    {
+      "probe_index": 434,
+      "source": "FISHING FESTIVAL The festival is now underway! Break out your fishing rods and watch out for sharks!",
+      "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ Фестиваль начался! Доставайте удочки и берегитесь акул!",
+      "style_anchors": [
+        {
+          "source": "FISHING FESTIVAL",
+          "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ"
+        }
+      ]
+    },
+    {
+      "probe_index": 435,
+      "source": "FISHING FESTIVAL The festival has concluded! Time to dry off and repair your rods!",
+      "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ Фестиваль завершился! Пора обсушиться и починить удочки!",
+      "style_anchors": [
+        {
+          "source": "FISHING FESTIVAL",
+          "target": "РЫБОЛОВНЫЙ ФЕСТИВАЛЬ"
+        }
+      ]
+    },
+    {
+      "probe_index": 436,
+      "source": "You need to be on Galatea or Lotus Atoll to use this item!",
+      "target": "Этот предмет можно использовать только на Галатее или атолле Лотоса!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 437,
+      "source": "A Flaming Worm surfaces from the depths!",
+      "target": "Из глубин появляется пылающий червь!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 438,
+      "source": "WEIRD FLEX! Unequipped Flex Helmet because you cannot afford it!",
+      "target": "СТРАННАЯ РОСКОШЬ! Шлем хвастовства снят: вы больше не можете его себе позволить!",
+      "style_anchors": [
+        {
+          "source": "WEIRD FLEX!",
+          "target": "СТРАННАЯ РОСКОШЬ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 439,
+      "source": "This item has been upgraded, enchanted, or modified! It cannot be transferred over to The Rift.",
+      "target": "Этот предмет улучшен, зачарован или изменён! Его нельзя перенести в Разлом.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 440,
+      "source": "Flipflopper fainted!",
+      "target": "Флипфлоппер потерял сознание!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 441,
+      "source": "You caught a Mudworm Shard!",
+      "target": "Вы поймали осколок «Грязевой червь»!",
+      "style_anchors": [
+        {
+          "source": "Mudworm",
+          "target": "Грязевой червь"
+        }
+      ]
+    },
+    {
+      "probe_index": 442,
+      "source": "You caught an Invisibug Shard!",
+      "target": "Вы поймали осколок «Жук-невидимка»!",
+      "style_anchors": [
+        {
+          "source": "Invisibug",
+          "target": "Жук-невидимка"
+        }
+      ]
+    },
+    {
+      "probe_index": 443,
+      "source": "You caught a Dung Beetle Shard!",
+      "target": "Вы поймали осколок «Навозный жук»!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 444,
+      "source": "You found Fortis Glyph!",
+      "target": "Вы нашли глиф Фортис!",
+      "style_anchors": [
+        {
+          "source": "Fortis Glyph",
+          "target": "глиф Фортис"
+        }
+      ]
+    },
+    {
+      "probe_index": 445,
+      "source": "You received +25,000 Glacite Powder and +100 Fossil Essence!",
+      "target": "Вы получили +25,000 ледникового порошка и +100 ископаемой эссенции!",
+      "style_anchors": [
+        {
+          "source": "+25,000 Glacite Powder",
+          "target": "+25,000 ледникового порошка"
+        },
+        {
+          "source": "+100 Fossil Essence",
+          "target": "+100 ископаемой эссенции"
+        },
+        {
+          "source": "and",
+          "target": "и",
+          "whole_word": true
+        },
+        {
+          "source": "!",
+          "target": "!"
+        }
+      ]
+    },
+    {
+      "probe_index": 447,
+      "source": "Smells of burning. Must be a Fried Chicken.",
+      "target": "Пахнет жареным. Должно быть, это жареная курица.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 448,
+      "source": "Is it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
+      "target": "Это лягушка? Это человек? Ну да, вроде того. ЭТО ЧЕЛОВЕК-ЛЯГУШКА!!!!!!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 449,
+      "source": "Bow down before the Frog Prince... or pay the hefty price!",
+      "target": "Поклонитесь принцу-лягушке... или дорого заплатите!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 450,
+      "source": "You can only use the Leapfrog ability while on Foraging Islands!",
+      "target": "Способность «Чехарда» можно использовать только на Лесных островах!",
+      "style_anchors": [
+        {
+          "source": "Leapfrog",
+          "target": "Чехарда"
+        },
+        {
+          "source": "Foraging Islands",
+          "target": "Лесных островах"
+        }
+      ]
+    },
+    {
+      "probe_index": 451,
+      "source": "The Lotus Eater beckons you from his cave...",
+      "target": "Пожиратель лотосов манит вас из своей пещеры...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 452,
+      "source": "The waters have denied your Frogcoin, offering nothing in return! But The Lotus Eater awaits in his cave...",
+      "target": "Воды отвергли вашу лягушачью монету, ничего не дав взамен! Но пожиратель лотосов ждёт в своей пещере...",
+      "style_anchors": [
+        {
+          "source": "The Lotus Eater",
+          "target": "пожиратель лотосов"
+        }
+      ]
+    },
+    {
+      "probe_index": 453,
+      "source": "It's a snowman! He looks harmless.",
+      "target": "Это снеговик! Кажется, безобидный.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 454,
+      "source": "LUCKY! Your Resourceful perk saved your key from being consumed!",
+      "target": "УДАЧА! Ваш бонус «Находчивость» сохранил ключ от расходования!",
+      "style_anchors": [
+        {
+          "source": "Resourceful",
+          "target": "Находчивость"
+        },
+        {
+          "source": "LUCKY!",
+          "target": "УДАЧА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 455,
+      "source": "Frozen Steve fell into the pond long ago, never to resurface...until now!",
+      "target": "Замёрзший Стив давно упал в пруд и больше не всплывал... до сих пор!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 456,
+      "source": "You already found this profile name in your bowl!",
+      "target": "Вы уже нашли это имя профиля в своей миске!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 457,
+      "source": "FRUITALICIOUS! You completed your fruit bowl and gained its permanent bonus!",
+      "target": "ФРУКТОВОЕ НАСЛАЖДЕНИЕ! Вы наполнили фруктовую миску и получили её постоянный бонус!",
+      "style_anchors": [
+        {
+          "source": "FRUITALICIOUS!",
+          "target": "ФРУКТОВОЕ НАСЛАЖДЕНИЕ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 458,
+      "source": "FRUITALICIOUS! You completed your fruit bowl!",
+      "target": "ФРУКТОВОЕ НАСЛАЖДЕНИЕ! Вы наполнили фруктовую миску!",
+      "style_anchors": [
+        {
+          "source": "FRUITALICIOUS!",
+          "target": "ФРУКТОВОЕ НАСЛАЖДЕНИЕ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 459,
+      "source": "You had already gained the bonus, so... at least everyone knows you love fruits now!",
+      "target": "Бонус у вас уже был, так что... по крайней мере, теперь все знают, как вы любите фрукты!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 460,
+      "source": "You wake up suddenly...",
+      "target": "Вы внезапно просыпаетесь...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 461,
+      "source": "You don't feel like sleeping here again.",
+      "target": "Вам не хочется снова здесь спать.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 462,
+      "source": "✆ Gemma has been added to your Abiphone's contacts!",
+      "target": "✆ Джемма добавлена в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Gemma",
+          "target": "Джемма"
+        }
+      ]
+    },
+    {
+      "probe_index": 463,
+      "source": "That doesn't quite fit there...",
+      "target": "Это сюда не совсем подходит...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 464,
+      "source": "You placed the Purple Gem on its podium!",
+      "target": "Вы установили фиолетовый самоцвет на его пьедестал!",
+      "style_anchors": [
+        {
+          "source": "Purple Gem",
+          "target": "фиолетовый самоцвет"
+        }
+      ]
+    },
+    {
+      "probe_index": 465,
+      "source": "You placed the Lime Gem on its podium!",
+      "target": "Вы установили лаймовый самоцвет на его пьедестал!",
+      "style_anchors": [
+        {
+          "source": "Lime Gem",
+          "target": "лаймовый самоцвет"
+        }
+      ]
+    },
+    {
+      "probe_index": 466,
+      "source": "You placed the Orange Gem on its podium!",
+      "target": "Вы установили оранжевый самоцвет на его пьедестал!",
+      "style_anchors": [
+        {
+          "source": "Orange Gem",
+          "target": "оранжевый самоцвет"
+        }
+      ]
+    },
+    {
+      "probe_index": 467,
+      "source": "A rumbling sound can be heard, and the door at the back of the chamber opens...",
+      "target": "Раздаётся грохот, и дверь в глубине зала открывается...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 468,
+      "source": "GEOMETRIC! Your Geometric fished you up a bonus Trophy!",
+      "target": "ГЕОМЕТРИЧНО! Ваша геометрическая перековка помогла выловить дополнительный трофей!",
+      "style_anchors": [
+        {
+          "source": "Geometric",
+          "target": "геометрическая перековка"
+        },
+        {
+          "source": "Trophy",
+          "target": "трофей"
+        },
+        {
+          "source": "GEOMETRIC!",
+          "target": "ГЕОМЕТРИЧНО!"
+        }
+      ]
+    },
+    {
+      "probe_index": 469,
+      "source": "BOUNCE BONANZA EX! Keep the Giant Bouncy Beach Ball in the air for 60 seconds by bouncing it on your and other players heads!",
+      "target": "ПРЫЖКОВОЕ ВЕСЕЛЬЕ ЭКС! Удерживайте гигантский надувной пляжный мяч в воздухе 60 секунд, отбивая его своей головой и головами других игроков!",
+      "style_anchors": [
+        {
+          "source": "Giant Bouncy Beach Ball",
+          "target": "гигантский надувной пляжный мяч"
+        },
+        {
+          "source": "60 seconds",
+          "target": "60 секунд"
+        },
+        {
+          "source": "BOUNCE BONANZA EX!",
+          "target": "ПРЫЖКОВОЕ ВЕСЕЛЬЕ ЭКС!"
+        }
+      ]
+    },
+    {
+      "probe_index": 470,
+      "source": "A Giant Isopod was dredged up from the depths!",
+      "target": "Со дна поднялся гигантский равноногий рак!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 471,
+      "source": "A Gimmiegold appeared out of nowhere and gobbled up your Shining Coin!",
+      "target": "Дайзолото появился из ниоткуда и проглотил вашу сияющую монету!",
+      "style_anchors": [
+        {
+          "source": "Gimmiegold",
+          "target": "Дайзолото"
+        },
+        {
+          "source": "Shining Coin",
+          "target": "сияющую монету"
+        }
+      ]
+    },
+    {
+      "probe_index": 472,
+      "source": "MINESHAFT! A mineshaft portal spawned nearby!",
+      "target": "ШАХТА! Поблизости появился портал в шахту!",
+      "style_anchors": [
+        {
+          "source": "MINESHAFT!",
+          "target": "ШАХТА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 473,
+      "source": "Not enough soulflow!",
+      "target": "Недостаточно потока душ!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 474,
+      "source": "Already at soulflow cap for the Grimoire!",
+      "target": "Гримуар уже достиг предела потока душ!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 475,
+      "source": "⚑ The Goblin Raid event starts in 20 seconds!",
+      "target": "⚑ Событие «Набег гоблинов» начнётся через 20 секунд!",
+      "style_anchors": [
+        {
+          "source": "⚑",
+          "target": "⚑"
+        },
+        {
+          "source": "Goblin Raid",
+          "target": "Набег гоблинов"
+        },
+        {
+          "source": "20",
+          "target": "20"
+        }
+      ]
+    },
+    {
+      "probe_index": 476,
+      "source": "Click here to teleport to Garry and prepare!",
+      "target": "Нажмите здесь, чтобы переместиться к Гарри и подготовиться!",
+      "style_anchors": [
+        {
+          "source": "Garry",
+          "target": "Гарри"
+        }
+      ]
+    },
+    {
+      "probe_index": 477,
+      "source": "A nearby Superprotectron is defending this goblin!",
+      "target": "Ближайший суперпротектрон защищает этого гоблина!",
+      "style_anchors": [
+        {
+          "source": "Superprotectron",
+          "target": "суперпротектрон"
+        }
+      ]
+    },
+    {
+      "probe_index": 478,
+      "source": "A nearby Superprotectron defends this goblin against ability damage!",
+      "target": "Ближайший суперпротектрон защищает этого гоблина от урона способностей!",
+      "style_anchors": [
+        {
+          "source": "Superprotectron",
+          "target": "суперпротектрон"
+        }
+      ]
+    },
+    {
+      "probe_index": 479,
+      "source": "You can't handle that much Godly power at once!",
+      "target": "Вам не совладать с такой божественной силой сразу!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 480,
+      "source": "Goldolot got scared!",
+      "target": "Голдолот испугался!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 481,
+      "source": "What even is that?! A... gorF?",
+      "target": "Что это вообще такое?! Какая-то... акшугял?",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 482,
+      "source": "Whoa! Slow down there!",
+      "target": "Эй! Не так быстро!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 483,
+      "source": "The altar doesn't budge!",
+      "target": "Алтарь не поддаётся!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 484,
+      "source": "Your Great Spook Tree has just sprouted a fruit!",
+      "target": "На вашем дереве великого испуга только что вырос плод!",
+      "style_anchors": [
+        {
+          "source": "Great Spook Tree",
+          "target": "дереве великого испуга"
+        }
+      ]
+    },
+    {
+      "probe_index": 485,
+      "source": "Hide no longer, a Great White Shark has tracked your scent and thirsts for your blood!",
+      "target": "Больше не спрятаться: большая белая акула почуяла вас и жаждет вашей крови!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 486,
+      "source": "You finished the Griffin burrow chain! (4/4)",
+      "target": "Вы прошли всю цепочку нор грифона! (4/4)",
+      "style_anchors": [
+        {
+          "source": "(4/4)",
+          "target": "(4/4)"
+        }
+      ]
+    },
+    {
+      "probe_index": 487,
+      "source": "Defeat the burrow defenders in order to dig it!",
+      "target": "Чтобы раскопать нору, победите её защитников!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 488,
+      "source": "This can't be! The manifestation of death himself!",
+      "target": "Не может быть! Само воплощение смерти!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 489,
+      "source": "The Grinch stole Jerry's gifts... Get them back!",
+      "target": "Гринч украл подарки Джерри... Верните их!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 490,
+      "source": "The guards captured you and threw you out.",
+      "target": "Стражники схватили вас и выбросили наружу.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 491,
+      "source": "You've discovered a Guardian Defender of the sea.",
+      "target": "Вы обнаружили морского защитника-стража.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 492,
+      "source": "THE END RACE Race started! Good luck!",
+      "target": "ГОНКА КРАЯ Забег начался! Удачи!",
+      "style_anchors": [
+        {
+          "source": "THE END RACE",
+          "target": "ГОНКА КРАЯ"
+        }
+      ]
+    },
+    {
+      "probe_index": 493,
+      "source": "A Haggard stumbles to the shore, ready for a fight!",
+      "target": "На берег, пошатываясь, выходит измождённый, готовый к бою!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 494,
+      "source": "SPLOOSH! You've been squashed by hay!",
+      "target": "ПЛЮХ! Вас раздавило сеном!",
+      "style_anchors": [
+        {
+          "source": "SPLOOSH!",
+          "target": "ПЛЮХ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 496,
+      "source": "HARVEST FEAST! The event has started! Speak with Feast Chef Ted in the Hub to learn what crops are in season!",
+      "target": "ПРАЗДНИК УРОЖАЯ! Событие началось! Поговорите с поваром Тедом в Хабе и узнайте, какие культуры сейчас в сезоне!",
+      "style_anchors": [
+        {
+          "source": "HARVEST FEAST!",
+          "target": "ПРАЗДНИК УРОЖАЯ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 497,
+      "source": "GRAND FEAST! The event has started! Speak with Feast Chef Ted in the Hub to learn what crops are in season!",
+      "target": "ВЕЛИКИЙ ПИР! Событие началось! Поговорите с поваром Тедом в Хабе и узнайте, какие культуры сейчас в сезоне!",
+      "style_anchors": [
+        {
+          "source": "GRAND FEAST!",
+          "target": "ВЕЛИКИЙ ПИР!"
+        }
+      ]
+    },
+    {
+      "probe_index": 498,
+      "source": "Your Matriarch Cubs attribute has granted you 1 additional Heavy Pearl!",
+      "target": "Ваш атрибут «Детёныши матриарха» дал вам 1 дополнительную тяжёлую жемчужину!",
+      "style_anchors": [
+        {
+          "source": "Matriarch Cubs",
+          "target": "Детёныши матриарха"
+        },
+        {
+          "source": "1",
+          "target": "1"
+        },
+        {
+          "source": "Heavy Pearl",
+          "target": "тяжёлую жемчужину"
+        }
+      ]
+    },
+    {
+      "probe_index": 499,
+      "source": "Please note that redstone is currently disabled on this island!",
+      "target": "Обратите внимание: красный камень на этом острове сейчас отключён!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 500,
+      "source": "The hemobomb is on cooldown!",
+      "target": "Кровяная бомба ещё перезаряжается!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 501,
+      "source": "The strength of the Hewver's snout broke your Lasso!",
+      "target": "Сильное рыло Хьювера порвало ваше лассо!",
+      "style_anchors": [
+        {
+          "source": "Hewver's",
+          "target": "Хьювера"
+        },
+        {
+          "source": "Lasso",
+          "target": "лассо"
+        }
+      ]
+    },
+    {
+      "probe_index": 502,
+      "source": "Hideonleaf throws the bullet back!",
+      "target": "Листопрят бросает пулю обратно!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 503,
+      "source": "Hideonleaf lost the fight!",
+      "target": "Листопрят проиграл бой!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 504,
+      "source": "Hideonsun throws the bullet back!",
+      "target": "Солнцепрят бросает пулю обратно!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 505,
+      "source": "Hideonsun lost the fight!",
+      "target": "Солнцепрят проиграл бой!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 506,
+      "source": "Your Critter Capsule doesn't seem to work on this creature...",
+      "target": "Ваша капсула для зверьков, похоже, не действует на это существо...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 507,
+      "source": "A Honeybuzz appeared, angry at you for stealing its honey!",
+      "target": "Появился медожужж: он злится, что вы украли его мёд!",
+      "style_anchors": [
+        {
+          "source": "Honeybuzz",
+          "target": "медожужж"
+        }
+      ]
+    },
+    {
+      "probe_index": 508,
+      "source": "The Honeyhog broke free from your lasso!",
+      "target": "Медовый кабан вырвался из вашего лассо!",
+      "style_anchors": [
+        {
+          "source": "Honeyhog",
+          "target": "Медовый кабан"
+        }
+      ]
+    },
+    {
+      "probe_index": 509,
+      "source": "The hooded figure doesn't acknowledge your presence.",
+      "target": "Фигура в капюшоне не замечает вашего присутствия.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 510,
+      "source": "✆ Hoppity has been added to your Abiphone's contacts!",
+      "target": "✆ Хоппити добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Hoppity",
+          "target": "Хоппити"
+        }
+      ]
+    },
+    {
+      "probe_index": 511,
+      "source": "The Hex is displeased!",
+      "target": "Гекс недоволен!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 514,
+      "source": "You also picked up the trap and it got sent to your Hunting Toolkit!",
+      "target": "Вы также подобрали ловушку, и она отправилась в ваш охотничий набор!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 522,
+      "source": "Well, I hope he found what he was looking for...",
+      "target": "Что ж, надеюсь, он нашёл то, что искал...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 523,
+      "source": "You get an inkling you've caught... an Inkling!",
+      "target": "У вас предчувствие, будто вы поймали... чернильника!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 524,
+      "source": "The Invisibug was more visible than it thought...",
+      "target": "Жук-невидимка оказался заметнее, чем думал...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 525,
+      "source": "CRUNCH! You try to chew, but it's tougher than a jawbreaker.",
+      "target": "ХРУСТЬ! Вы пытаетесь жевать, но панцирь твёрже леденца.",
+      "style_anchors": [
+        {
+          "source": "CRUNCH!",
+          "target": "ХРУСТЬ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 526,
+      "source": "TOUGH! How do the isopod's predators get through this stuff? What even hunts something that big?",
+      "target": "КРЕПКО! Как хищники вообще прогрызают панцирь равноногого рака? И кто вообще охотится на такую махину?",
+      "style_anchors": [
+        {
+          "source": "TOUGH!",
+          "target": "КРЕПКО!"
+        }
+      ]
+    },
+    {
+      "probe_index": 527,
+      "source": "FLOSS! You can feel all the fragments of exoskeleton stuck between your teeth.",
+      "target": "ЗУБНАЯ НИТЬ! Вы чувствуете, как между зубами застряли осколки наружного скелета.",
+      "style_anchors": [
+        {
+          "source": "FLOSS!",
+          "target": "ЗУБНАЯ НИТЬ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 528,
+      "source": "BLEH! It really doesn't get any easier.",
+      "target": "БЕ! Легче совсем не становится.",
+      "style_anchors": [
+        {
+          "source": "BLEH!",
+          "target": "БЕ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 529,
+      "source": "DONE! Not a fun experience, wouldn't recommend.",
+      "target": "ГОТОВО! Опыт не из приятных, не рекомендую.",
+      "style_anchors": [
+        {
+          "source": "DONE!",
+          "target": "ГОТОВО!"
+        }
+      ]
+    },
+    {
+      "probe_index": 530,
+      "source": "You have reached the maximum amount of Jacobus upgrades! That was NOT a smart business decision.",
+      "target": "Вы приобрели максимально возможное количество улучшений Якобуса! Это было НЕ самое разумное деловое решение.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 531,
+      "source": "Jimmy glances at the player.",
+      "target": "Джимми бросает взгляд на игрока.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 532,
+      "source": "Joydive is weakening...",
+      "target": "Радостный ныряльщик слабеет...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 533,
+      "source": "Joydive fainted!",
+      "target": "Радостный ныряльщик потерял сознание!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 541,
+      "source": "Watch out! It's Jumpin' Jack.",
+      "target": "Берегитесь! Это Прыгун Джек.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 542,
+      "source": "✆ Junker Joel has been added to your Abiphone's contacts!",
+      "target": "✆ Старьёвщик Джоэл добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Junker Joel",
+          "target": "Старьёвщик Джоэл"
+        }
+      ]
+    },
+    {
+      "probe_index": 544,
+      "source": "KARMA! Your Tree Gift contained doubled loot!",
+      "target": "КАРМА! В вашем древесном подарке оказалось вдвое больше добычи!",
+      "style_anchors": [
+        {
+          "source": "Tree Gift",
+          "target": "древесном подарке"
+        },
+        {
+          "source": "KARMA!",
+          "target": "КАРМА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 545,
+      "source": "✆ Kiara has been added to your Abiphone's contacts!",
+      "target": "✆ Киара добавлена в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Kiara",
+          "target": "Киара"
+        }
+      ]
+    },
+    {
+      "probe_index": 546,
+      "source": "Couldn't read that number!",
+      "target": "Не удалось прочитать число!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 547,
+      "source": "You don't have this amount!",
+      "target": "У вас нет такого количества!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 548,
+      "source": "You use your mana to pull a book out. Most of it is unreadable but you do notice a 2 and a 22...",
+      "target": "С помощью маны вы вытягиваете книгу. Большую часть текста не разобрать, но вы замечаете числа 2 и 22...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 549,
+      "source": "Kysha gave you 1x Phanpyre Shard!",
+      "target": "Киша дала вам 1 осколок «Фанпир»!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 550,
+      "source": "Kysha gave you 5x Phanpyre Shards and 5x Cod Shards!",
+      "target": "Киша дала вам 5 осколков «Фанпир» и 5 осколков «Треска»!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 551,
+      "source": "The water is angry!",
+      "target": "Вода сердится!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 552,
+      "source": "Its anger somehow teleported you back!",
+      "target": "Её гнев каким-то образом телепортировал вас обратно!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 553,
+      "source": "The dirt is angry!",
+      "target": "Земля сердится!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 554,
+      "source": "A Lagoon Leech is swimming towards you!",
+      "target": "К вам плывёт пиявка лагуны!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 555,
+      "source": "GET OUT OF THE WATER!",
+      "target": "ВЫЛЕЗАЙТЕ ИЗ ВОДЫ!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 557,
+      "source": "You're being eaten alive!",
+      "target": "Вас пожирают заживо!",
+      "style_anchors": [
+        {
+          "source": "eaten",
+          "target": "пожирают"
+        }
+      ]
+    },
+    {
+      "probe_index": 558,
+      "source": "POOF! The leech swam back to a better world!",
+      "target": "ПУФ! Пиявка уплыла обратно в лучший мир!",
+      "style_anchors": [
+        {
+          "source": "POOF!",
+          "target": "ПУФ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 559,
+      "source": "Unable to use this launch pad at the moment, please try again later. (PLAYER_TRANSFER_COOLDOWN)",
+      "target": "Сейчас этой пусковой площадкой воспользоваться нельзя. Попробуйте позже. (PLAYER_TRANSFER_COOLDOWN)",
+      "style_anchors": [
+        {
+          "source": "(PLAYER_TRANSFER_COOLDOWN)",
+          "target": "(PLAYER_TRANSFER_COOLDOWN)"
+        }
+      ]
+    },
+    {
+      "probe_index": 560,
+      "source": "A Lava Blaze has surfaced from the depths!",
+      "target": "Из глубин появился лавовый ифрит!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 561,
+      "source": "A Lava Flame flies out from beneath the lava.",
+      "target": "Из-под лавы вылетает лавовое пламя.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 562,
+      "source": "A small but fearsome Lava Leech emerges.",
+      "target": "Появляется маленькая, но грозная лавовая пиявка.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 563,
+      "source": "A Lava Pigman has surfaced from the depths!",
+      "target": "Из глубин появился лавовый свинозомби!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 564,
+      "source": "You currently have one or more Legacy Items in your inventory or sacks that are no longer used throughout the game! Exchange them in the Legacy Trades menu, accessed through /legacytrades!",
+      "target": "У вас в инвентаре или мешках есть устаревшие предметы, которые больше не используются в игре! Обменяйте их в меню обмена устаревших предметов по команде /legacytrades!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 566,
+      "source": "LARVA! A  Pest was added to your vacuum bag.",
+      "target": "ЛИЧИНКА! В мешок вашего пылесоса добавлен  вредитель.",
+      "style_anchors": [
+        {
+          "source": " Pest",
+          "target": " вредитель"
+        },
+        {
+          "source": "LARVA!",
+          "target": "ЛИЧИНКА!"
+        }
+      ]
+    },
+    {
+      "probe_index": 567,
+      "source": "You have angered a legendary creature... Lord Jawbus has arrived.",
+      "target": "Вы разозлили легендарное существо... Прибыл лорд Джобус.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 568,
+      "source": "The Frog is exhausted...",
+      "target": "Лягушка обессилела...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 569,
+      "source": "A Lotus Guardian emerges, ready to protect the Atoll.",
+      "target": "Появляется страж Лотоса, готовый защищать атолл.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 570,
+      "source": "There's nothing left but bones...",
+      "target": "Остались одни кости...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 571,
+      "source": "This player is already currently challenged by someone else to a Loudmouth Bass Duel!",
+      "target": "Этот игрок уже вызван кем-то другим на дуэль с крикливым окунем!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 572,
+      "source": "Someone is no longer holding their bass, so the duel was cancelled.",
+      "target": "Кто-то больше не держит окуня в руках, поэтому дуэль отменена.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 573,
+      "source": "This player is not holding a Loudmouth Bass!",
+      "target": "Этот игрок не держит крикливого окуня!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 574,
+      "source": "✆ Mad Redstone Engineer has been added to your Abiphone's contacts!",
+      "target": "✆ Безумный инженер красного камня добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Mad Redstone Engineer",
+          "target": "Безумный инженер красного камня"
+        }
+      ]
+    },
+    {
+      "probe_index": 575,
+      "source": "✆ Ring... Ring...",
+      "target": "✆ Дзинь... Дзинь...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 576,
+      "source": "✆ Ring... Ring... Ring...",
+      "target": "✆ Дзинь... Дзинь... Дзинь...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 577,
+      "source": "✆ Hello? [OPEN MENU]",
+      "target": "✆ Алло? [ОТКРЫТЬ МЕНЮ]",
+      "style_anchors": [
+        {
+          "source": "[OPEN MENU]",
+          "target": "[ОТКРЫТЬ МЕНЮ]"
+        }
+      ]
+    },
+    {
+      "probe_index": 578,
+      "source": "✆ Someone answers! [OPEN MENU]",
+      "target": "✆ Кто-то ответил! [ОТКРЫТЬ МЕНЮ]",
+      "style_anchors": [
+        {
+          "source": "[OPEN MENU]",
+          "target": "[ОТКРЫТЬ МЕНЮ]"
+        }
+      ]
+    },
+    {
+      "probe_index": 579,
+      "source": "✆ How does a lobster answer? Shello! [OPEN MENU]",
+      "target": "✆ Как омар отвечает на звонок? «Рак вас слышать!» [ОТКРЫТЬ МЕНЮ]",
+      "style_anchors": [
+        {
+          "source": "[OPEN MENU]",
+          "target": "[ОТКРЫТЬ МЕНЮ]"
+        }
+      ]
+    },
+    {
+      "probe_index": 580,
+      "source": "✆ Hey what do you need? [OPEN MENU]",
+      "target": "✆ Привет, что тебе нужно? [ОТКРЫТЬ МЕНЮ]",
+      "style_anchors": [
+        {
+          "source": "[OPEN MENU]",
+          "target": "[ОТКРЫТЬ МЕНЮ]"
+        }
+      ]
+    },
+    {
+      "probe_index": 581,
+      "source": "✆ You hear the line pick up... [OPEN MENU]",
+      "target": "✆ Вы слышите, как снимают трубку... [ОТКРЫТЬ МЕНЮ]",
+      "style_anchors": [
+        {
+          "source": "[OPEN MENU]",
+          "target": "[ОТКРЫТЬ МЕНЮ]"
+        }
+      ]
+    },
+    {
+      "probe_index": 582,
+      "source": "✆ You again? What do you want this time? [OPEN MENU]",
+      "target": "✆ Снова ты? Что тебе нужно на этот раз? [ОТКРЫТЬ МЕНЮ]",
+      "style_anchors": [
+        {
+          "source": "[OPEN MENU]",
+          "target": "[ОТКРЫТЬ МЕНЮ]"
+        }
+      ]
+    },
+    {
+      "probe_index": 583,
+      "source": "✆ Please leave your message after the beep.",
+      "target": "✆ Пожалуйста, оставьте сообщение после сигнала.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 584,
+      "source": "✆ How can you tell if a bee is on the phone? You get a buzzy signal!",
+      "target": "✆ Как понять, что на линии пчела? По жужжанию в трубке!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 585,
+      "source": "✆ The phone keeps ringing, is it broken?",
+      "target": "✆ Телефон всё звонит. Он сломан?",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 586,
+      "source": "✆ The phone picks up but it immediately hangs up!",
+      "target": "✆ На звонок ответили, но тут же повесили трубку!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 587,
+      "source": "✆ What did the cat say on the phone? Can you hear meow?",
+      "target": "✆ Что кот сказал по телефону? «Мяу меня слышно?»",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 588,
+      "source": "✆ Seems like it's not picking up!",
+      "target": "✆ Похоже, никто не отвечает!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 589,
+      "source": "✆ \"Your call is important to us, please stay on the line\", so you hang up.",
+      "target": "✆ «Ваш звонок очень важен для нас, пожалуйста, оставайтесь на линии», — и вы кладёте трубку.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 590,
+      "source": "✆ HEY IT'S NOT PICKING UP STOP TRYING!",
+      "target": "✆ ЭЙ, НИКТО НЕ ОТВЕЧАЕТ, ХВАТИТ ЗВОНИТЬ!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 591,
+      "source": "It's too late now, the phone line is off! Call again!",
+      "target": "Уже поздно, связь прервалась! Позвоните снова!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 592,
+      "source": "There is no reception in here!",
+      "target": "Здесь нет связи!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 593,
+      "source": "You can now fly for 2 minutes.",
+      "target": "Теперь вы можете летать 2 минуты.",
+      "style_anchors": [
+        {
+          "source": "2",
+          "target": "2"
+        }
+      ]
+    },
+    {
+      "probe_index": 594,
+      "source": "I feel like I can fly!",
+      "target": "Кажется, я могу летать!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 595,
+      "source": "What was in that soup?",
+      "target": "Что было в этом супе?",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 596,
+      "source": "Your flight has been extended for 2 extra minutes.",
+      "target": "Ваш полёт продлён ещё на 2 минуты.",
+      "style_anchors": [
+        {
+          "source": "2",
+          "target": "2"
+        }
+      ]
+    },
+    {
+      "probe_index": 597,
+      "source": "Mushroom Soup Flight expires in 10s",
+      "target": "Полёт от грибного супа закончится через 10 с",
+      "style_anchors": [
+        {
+          "source": "10s",
+          "target": "10 с"
+        }
+      ]
+    },
+    {
+      "probe_index": 598,
+      "source": "Mushroom Soup Flight expires in 5s",
+      "target": "Полёт от грибного супа закончится через 5 с",
+      "style_anchors": [
+        {
+          "source": "5s",
+          "target": "5 с"
+        }
+      ]
+    },
+    {
+      "probe_index": 599,
+      "source": "Mushroom Soup Flight expires in 4s",
+      "target": "Полёт от грибного супа закончится через 4 с",
+      "style_anchors": [
+        {
+          "source": "4s",
+          "target": "4 с"
+        }
+      ]
+    },
+    {
+      "probe_index": 600,
+      "source": "Mushroom Soup Flight expires in 3s",
+      "target": "Полёт от грибного супа закончится через 3 с",
+      "style_anchors": [
+        {
+          "source": "3s",
+          "target": "3 с"
+        }
+      ]
+    },
+    {
+      "probe_index": 601,
+      "source": "Mushroom Soup Flight expires in 2s",
+      "target": "Полёт от грибного супа закончится через 2 с",
+      "style_anchors": [
+        {
+          "source": "2s",
+          "target": "2 с"
+        }
+      ]
+    },
+    {
+      "probe_index": 602,
+      "source": "Mushroom Soup Flight expires in 1s",
+      "target": "Полёт от грибного супа закончится через 1 с",
+      "style_anchors": [
+        {
+          "source": "1s",
+          "target": "1 с"
+        }
+      ]
+    },
+    {
+      "probe_index": 603,
+      "source": "Mushroom Soup Flight has expired!",
+      "target": "Полёт от грибного супа закончился!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 604,
+      "source": "A Magma Pillar rises from the lava.",
+      "target": "Из лавы поднимается магмовый столп.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 605,
+      "source": "From beneath the lava appears a Magma Slug.",
+      "target": "Из-под лавы появляется магмовый слизень.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 606,
+      "source": "WOW! You opened the bundle and found 9x Magma Urchin inside!",
+      "target": "ОГО! Вы открыли набор и нашли внутри 9 магмовых ежей!",
+      "style_anchors": [
+        {
+          "source": "9x",
+          "target": "9"
+        },
+        {
+          "source": "Magma Urchin",
+          "target": "магмовых ежей"
+        },
+        {
+          "source": "WOW!",
+          "target": "ОГО!"
+        }
+      ]
+    },
+    {
+      "probe_index": 607,
+      "source": "✆ Malik has been added to your Abiphone's contacts!",
+      "target": "✆ Малик добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Malik",
+          "target": "Малик"
+        }
+      ]
+    },
+    {
+      "probe_index": 608,
+      "source": "A majestic creature rises from the water. It's a Manta Ray.",
+      "target": "Из воды поднимается величественное существо — манта.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 609,
+      "source": "FATAL STING! You were fatally stung by a Manticore! Kill it before the time runs out or die!",
+      "target": "СМЕРТЕЛЬНОЕ ЖАЛО! Мантикора смертельно ужалила вас! Убейте её, пока не истекло время, иначе умрёте!",
+      "style_anchors": [
+        {
+          "source": "Manticore",
+          "target": "Мантикора"
+        },
+        {
+          "source": "die!",
+          "target": "умрёте!"
+        },
+        {
+          "source": "FATAL STING!",
+          "target": "СМЕРТЕЛЬНОЕ ЖАЛО!"
+        }
+      ]
+    },
+    {
+      "probe_index": 610,
+      "source": "The Fatal Sting of the Manticore disabled all healing!",
+      "target": "Смертельное жало мантикоры отключило всё исцеление!",
+      "style_anchors": [
+        {
+          "source": "Fatal Sting",
+          "target": "Смертельное жало"
+        },
+        {
+          "source": "Manticore",
+          "target": "мантикоры"
+        }
+      ]
+    },
+    {
+      "probe_index": 611,
+      "source": "✆ Marigold has been added to your Abiphone's contacts!",
+      "target": "✆ Мариголд добавлена в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Marigold",
+          "target": "Мариголд"
+        }
+      ]
+    },
+    {
+      "probe_index": 612,
+      "source": "I should talk to the detective now...",
+      "target": "Пора поговорить с детективом...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 613,
+      "source": "You've already used perfume 4 times in the last 24 hours!",
+      "target": "Вы уже использовали духи 4 раза за последние 24 часа!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 614,
+      "source": "You have to wait, otherwise the smell might stick to you forever!",
+      "target": "Нужно подождать, иначе запах может остаться с вами навсегда!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 615,
+      "source": "There are pearls left in the matriarch!",
+      "target": "В матриархе остались жемчужины!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 616,
+      "source": "Applying the perfume like this could confuse the beast and cause her to implode.",
+      "target": "Если нанести духи сейчас, зверь может растеряться и взорваться.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 620,
+      "source": "The election room is now closed. Clerk Seraphine is doing a final count of the votes...",
+      "target": "Избирательный зал закрыт. Секретарь Серафина проводит окончательный подсчёт голосов...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 621,
+      "source": "Everybody unlocks exclusive perks!",
+      "target": "Все открывают особые бонусы!",
+      "style_anchors": [
+        {
+          "source": "exclusive",
+          "target": "особые"
+        }
+      ]
+    },
+    {
+      "probe_index": 622,
+      "source": "This election has already ended!",
+      "target": "Эти выборы уже завершены!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 623,
+      "source": "The election booth is closed!",
+      "target": "Избирательная кабинка закрыта!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 624,
+      "source": "YUM! You ate a McGrubber's Burger!",
+      "target": "НЯМ! Вы съели бургер Макграббера!",
+      "style_anchors": [
+        {
+          "source": "McGrubber's Burger",
+          "target": "бургер Макграббера"
+        },
+        {
+          "source": "YUM!",
+          "target": "НЯМ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 625,
+      "source": "You cannot eat more burgers!",
+      "target": "Вы больше не можете есть бургеры!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 626,
+      "source": "Please watch your cholesterol.",
+      "target": "Пожалуйста, следите за уровнем холестерина.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 627,
+      "source": "You pour water from the bucket, but it's apparently never enough to extinguish the fireplace.",
+      "target": "Вы льёте воду из ведра, но её, похоже, никогда не хватает, чтобы погасить камин.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 628,
+      "source": "DELICIOUS! The wonderfully complex taste of the Metaphysical Serum has taken over all of your taste buds!",
+      "target": "ВОСХИТИТЕЛЬНО! Чудесный многогранный вкус метафизической сыворотки захватил все ваши вкусовые рецепторы!",
+      "style_anchors": [
+        {
+          "source": "Metaphysical Serum",
+          "target": "метафизической сыворотки"
+        },
+        {
+          "source": "DELICIOUS!",
+          "target": "ВОСХИТИТЕЛЬНО!"
+        }
+      ]
+    },
+    {
+      "probe_index": 629,
+      "source": "AMAZING? The Metaphysical Serum seems to have taken over half your brain, you should probably stop drinking more, seriously...",
+      "target": "УДИВИТЕЛЬНО? Метафизическая сыворотка, похоже, захватила половину вашего мозга. Вам правда стоит прекратить её пить...",
+      "style_anchors": [
+        {
+          "source": "Metaphysical Serum",
+          "target": "Метафизическая сыворотка"
+        },
+        {
+          "source": "half your brain",
+          "target": "половину вашего мозга"
+        },
+        {
+          "source": "AMAZING?",
+          "target": "УДИВИТЕЛЬНО?"
+        }
+      ]
+    },
+    {
+      "probe_index": 630,
+      "source": "CONCERNING! The Metaphysical Serum has caused irreversible damage to your whole body- but hey, at least you got some SkyBlock XP in return!",
+      "target": "ТРЕВОЖНО! Метафизическая сыворотка нанесла вашему телу необратимый вред. Но зато вы получили немного опыта SkyBlock!",
+      "style_anchors": [
+        {
+          "source": "Metaphysical Serum",
+          "target": "Метафизическая сыворотка"
+        },
+        {
+          "source": "irreversible damage",
+          "target": "необратимый вред"
+        },
+        {
+          "source": "SkyBlock XP",
+          "target": "опыта SkyBlock"
+        },
+        {
+          "source": "CONCERNING!",
+          "target": "ТРЕВОЖНО!"
+        }
+      ]
+    },
+    {
+      "probe_index": 631,
+      "source": "Bonus! You now get an extra 2 clicks on Superpairs!",
+      "target": "Бонус! Теперь у вас на 2 нажатия больше в «Суперпарах»!",
+      "style_anchors": [
+        {
+          "source": "Bonus!",
+          "target": "Бонус!"
+        }
+      ]
+    },
+    {
+      "probe_index": 632,
+      "source": "YUCKY! This serum seems to have lost it's flavor!",
+      "target": "ГАДОСТЬ! Эта сыворотка, похоже, потеряла вкус!",
+      "style_anchors": [
+        {
+          "source": "YUCKY!",
+          "target": "ГАДОСТЬ!"
+        }
+      ]
+    },
+    {
+      "probe_index": 633,
+      "source": "(You've drank the max amount!)",
+      "target": "(Вы уже выпили максимальное количество!)",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 634,
+      "source": "You cleared all of your active effects!",
+      "target": "Вы сняли все активные эффекты!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 635,
+      "source": "Minecarts are limited to a maximum of 0 in SkyBlock for performance reasons.",
+      "target": "Ради производительности в SkyBlock разрешено не более 0 вагонеток.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 636,
+      "source": "You cannot place Minecarts on the Garden.",
+      "target": "Нельзя размещать вагонетки в Саду.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 637,
+      "source": "You need to place this next to a minion!",
+      "target": "Это нужно поставить рядом с миньоном!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 638,
+      "source": "You can't place minion storage next to another chest!",
+      "target": "Нельзя размещать хранилище миньона рядом с другим сундуком!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 639,
+      "source": "You can't place this next to other chests!",
+      "target": "Нельзя поставить это рядом с другими сундуками!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 640,
+      "source": "You can't place a chest here!",
+      "target": "Здесь нельзя поставить сундук!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 641,
+      "source": "This minion already has a chest!",
+      "target": "У этого миньона уже есть сундук!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 658,
+      "source": "✆ Moby has been added to your Abiphone's contacts!",
+      "target": "✆ Моби добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Moby",
+          "target": "Моби"
+        }
+      ]
+    },
+    {
+      "probe_index": 721,
+      "source": "✆ Phillip has been added to your Abiphone's contacts!",
+      "target": "✆ Филлип добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Phillip",
+          "target": "Филлип"
+        }
+      ]
+    },
+    {
+      "probe_index": 837,
+      "source": "✆ Rosemary has been added to your Abiphone's contacts!",
+      "target": "✆ Розмари добавлена в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Rosemary",
+          "target": "Розмари"
+        }
+      ]
+    },
+    {
+      "probe_index": 883,
+      "source": "✆ Shaggy has been added to your Abiphone's contacts!",
+      "target": "✆ Шэгги добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Shaggy",
+          "target": "Шэгги"
+        }
+      ]
+    },
+    {
+      "probe_index": 901,
+      "source": "✆ No answer. He's a busy man, after all.",
+      "target": "✆ Нет ответа. В конце концов, он занятой человек.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 920,
+      "source": "✆ Spider Tamer has been added to your Abiphone's contacts!",
+      "target": "✆ Укротитель пауков добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Spider Tamer",
+          "target": "Укротитель пауков"
+        }
+      ]
+    },
+    {
+      "probe_index": 960,
+      "source": "✆ Talbot has been added to your Abiphone's contacts!",
+      "target": "✆ Талбот добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Talbot",
+          "target": "Талбот"
+        }
+      ]
+    },
+    {
+      "probe_index": 962,
+      "source": "✆ Taylor has been added to your Abiphone's contacts!",
+      "target": "✆ Тейлор добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Taylor",
+          "target": "Тейлор"
+        }
+      ]
+    },
+    {
+      "probe_index": 980,
+      "source": "CROWD: Alright here we go Thorn! Drop some spirits on these fools!",
+      "target": "ТОЛПА: Ну же, Торн! Напусти духов на этих дураков!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 981,
+      "source": "CROWD: Let's go Thorn! They don't stand a chance!",
+      "target": "ТОЛПА: Вперёд, Торн! У них нет ни шанса!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 982,
+      "source": "CROWD: Thorn is preparing his attacks! What an amazing spirit!",
+      "target": "ТОЛПА: Торн готовит атаку! Какой удивительный дух!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 983,
+      "source": "CROWD: Vegans! Yeahhh!!! Now let's exploit some animals for personal gain! Woo woo!",
+      "target": "ТОЛПА: Веганы! Да-а-а!!! А теперь используем животных ради личной выгоды! У-у-у!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 984,
+      "source": "CROWD: Here we go Thorn! Take it to 'em!",
+      "target": "ТОЛПА: Давай, Торн! Задай им!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 985,
+      "source": "CROWD: Yeah, show them Thorn!",
+      "target": "ТОЛПА: Да, покажи им, Торн!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 986,
+      "source": "CROWD: Turn them into spirits!",
+      "target": "ТОЛПА: Преврати их в духов!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 987,
+      "source": "CROWD: Go Thorn! Gooooo!!!",
+      "target": "ТОЛПА: Вперёд, Торн! Вперё-ё-ёд!!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 988,
+      "source": "CROWD: Vegan power!",
+      "target": "ТОЛПА: Сила веганов!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 989,
+      "source": "CROWD: More chickens!!!",
+      "target": "ТОЛПА: Больше куриц!!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 990,
+      "source": "CROWD: Dolphins are my spirit animal. Too bad this is 1.8.",
+      "target": "ТОЛПА: Дельфины — моё тотемное животное. Жаль, что это версия 1.8.",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 991,
+      "source": "CROWD: Thorn! Thorn! Thorn!",
+      "target": "ТОЛПА: Торн! Торн! Торн!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 993,
+      "source": "CROWD: Yeahhh!!!! You got 'em!",
+      "target": "ТОЛПА: Да-а-а!!!! Ты их сделал!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 994,
+      "source": "CROWD: Another one bites the dust!! You the best Thorn!",
+      "target": "ТОЛПА: Ещё один повержен!! Ты лучший, Торн!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 997,
+      "source": "CROWD: BOOOOO!!!",
+      "target": "ТОЛПА: У-У-У!!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 998,
+      "source": "CROWD: Keep fighting Thorn! Show them!!",
+      "target": "ТОЛПА: Сражайся, Торн! Покажи им!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 999,
+      "source": "CROWD: Cheaters!!! We need a replay!!",
+      "target": "ТОЛПА: Читеры!!! Нужен повтор!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1000,
+      "source": "CROWD: That wasn't fair!! He can't fight back!!",
+      "target": "ТОЛПА: Так нечестно!! Он не может дать сдачи!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1001,
+      "source": "CROWD: That's not a legal move!",
+      "target": "ТОЛПА: Это запрещённый приём!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1002,
+      "source": "CROWD: I see they've figured out how to damage Thorn. Finally.",
+      "target": "ТОЛПА: Смотрю, они поняли, как ранить Торна. Наконец-то.",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1003,
+      "source": "CROWD: They didn't even pickup the Spirit Bow! Whoopsies!",
+      "target": "ТОЛПА: Они даже не подобрали лук духа! Упс!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1004,
+      "source": "CROWD: They're not even trying to win!",
+      "target": "ТОЛПА: Они даже не пытаются выиграть!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1005,
+      "source": "CROWD: LOL! Pickup the Spirit Bow next time you fools!",
+      "target": "ТОЛПА: ХА! В следующий раз подбирайте лук духа, дураки!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1006,
+      "source": "CROWD: Are they blind?! The Spirit Bow just sat there untouched!",
+      "target": "ТОЛПА: Они слепые?! Лук духа так и лежал нетронутым!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1009,
+      "source": "CROWD: Alright those humans are a joke, missing easy shots like that...",
+      "target": "ТОЛПА: Боже мой, эти люди просто посмешище — промахиваются даже так...",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1010,
+      "source": "CROWD: Yeah!!! Keep dodging them Thorn!",
+      "target": "ТОЛПА: Да!!! Продолжай уворачиваться, Торн!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1012,
+      "source": "CROWD: They lost!! HURRAY!",
+      "target": "ТОЛПА: Они проиграли!! УРА!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1013,
+      "source": "CROWD: Pathetic performance. Loved it!!",
+      "target": "ТОЛПА: Жалкое выступление. Мне понравилось!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1014,
+      "source": "CROWD: Come back any time! Just kidding, you CAN'T!!",
+      "target": "ТОЛПА: Приходите ещё! Шучу, НЕ СМОЖЕТЕ!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1015,
+      "source": "CROWD: Thorn go brrrrrrr",
+      "target": "ТОЛПА: Торн делает бр-р-р-р-р",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1016,
+      "source": "CROWD: Fs in the chat!",
+      "target": "ТОЛПА: Помянем в чате!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1017,
+      "source": "CROWD: Whatttt? How did they win??",
+      "target": "ТОЛПА: Что-о-о? Как они победили??",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1018,
+      "source": "CROWD: I need a refund!!",
+      "target": "ТОЛПА: Верните деньги!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1019,
+      "source": "CROWD: Why do the good guys always win!!",
+      "target": "ТОЛПА: Почему хорошие парни всегда побеждают!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1020,
+      "source": "CROWD: This game is UNBALANCED!!!",
+      "target": "ТОЛПА: В этой игре НЕТ БАЛАНСА!!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1021,
+      "source": "CROWD: I hope you get terrible loot! Booooo!!",
+      "target": "ТОЛПА: Надеюсь, вам выпадет ужасная добыча! У-у-у!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1022,
+      "source": "CROWD: You won't beat the next floor anyways!!",
+      "target": "ТОЛПА: Следующий этаж вы всё равно не пройдёте!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1023,
+      "source": "CROWD: Where is the arbiter? That wasn't right...",
+      "target": "ТОЛПА: Где судья? Так не пойдёт...",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1024,
+      "source": "CROWD: Make it a best of 3, best of 3!!!!",
+      "target": "ТОЛПА: Давайте серию из 3 боёв, из 3 боёв!!!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1025,
+      "source": "CROWD: Thorn was lagging! Not fair!",
+      "target": "ТОЛПА: У Торна лагало! Нечестно!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1026,
+      "source": "CROWD: There was a bug...rematch!!!",
+      "target": "ТОЛПА: Это баг... переигровка!!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1027,
+      "source": "CROWD: There is no justice in this world...",
+      "target": "ТОЛПА: Нет в этом мире справедливости...",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1028,
+      "source": "CROWD: My disappointment is immeasurable and my day is ruined.",
+      "target": "ТОЛПА: Моё разочарование безмерно, а день испорчен.",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1029,
+      "source": "CROWD: I shouldn't have put so many Coins on this match..",
+      "target": "ТОЛПА: Не стоило ставить столько монет на этот матч..",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1030,
+      "source": "CROWD: Where is watchdog when we need it??",
+      "target": "ТОЛПА: Где же Watchdog, когда он так нужен??",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1031,
+      "source": "CROWD: I'm reporting them right now!",
+      "target": "ТОЛПА: Я прямо сейчас отправляю на них жалобу!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1032,
+      "source": "CROWD: Not coool...not cool.",
+      "target": "ТОЛПА: Нехорошо... нехорошо.",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1033,
+      "source": "CROWD: Those people are so rude. I feel sorry for Thorn.",
+      "target": "ТОЛПА: Какие грубые люди. Мне жаль Торна.",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1034,
+      "source": "CROWD: Killing a spirit...what kind of man does that? ... No man at all.",
+      "target": "ТОЛПА: Убить духа... что за человек на это способен? ... Совсем не человек.",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1035,
+      "source": "CROWD: Lame!!! Boooo!!!",
+      "target": "ТОЛПА: Отстой!!! У-у-у!!!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1036,
+      "source": "CROWD: Nooo! You can't just beat Thorn!",
+      "target": "ТОЛПА: Нееет! Нельзя просто взять и победить Торна!",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1037,
+      "source": "CROWD: Pack it up boys...nothing to see here...",
+      "target": "ТОЛПА: Расходимся, парни... смотреть не на что...",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1038,
+      "source": "CROWD: Another 2020 catastrophe.",
+      "target": "ТОЛПА: Ещё одна катастрофа 2020 года.",
+      "style_anchors": [
+        {
+          "source": "CROWD",
+          "target": "ТОЛПА"
+        }
+      ]
+    },
+    {
+      "probe_index": 1052,
+      "source": "✆ Tony has been added to your Abiphone's contacts!",
+      "target": "✆ Тони добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Tony",
+          "target": "Тони"
+        }
+      ]
+    },
+    {
+      "probe_index": 1077,
+      "source": "✆ Tyzzo has been added to your Abiphone's contacts!",
+      "target": "✆ Тиззо добавлен в контакты вашего Абифона!",
+      "style_anchors": [
+        {
+          "source": "Tyzzo",
+          "target": "Тиззо"
+        }
+      ]
+    },
+    {
+      "probe_index": 1080,
+      "source": "The ground beneath you trembles, and an eerie wind howls through the air...",
+      "target": "Земля под вами дрожит, а в воздухе воет зловещий ветер...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1081,
+      "source": "[Vargul]: Who dares disturb my eternal slumber?",
+      "target": "[Варгул]: Кто посмел потревожить мой вечный сон?",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1082,
+      "source": "The tombstone cracks and shifts!",
+      "target": "Надгробие трескается и сдвигается!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1083,
+      "source": "[Vargul]: You better have something to offer me.",
+      "target": "[Варгул]: Надеюсь, тебе есть что мне предложить.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1084,
+      "source": "Vargul the Unearthed has awakened!",
+      "target": "Варгул Восставший пробудился!",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1085,
+      "source": "The earth shakes with knowing fury.",
+      "target": "Земля сотрясается знакомой яростью.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1086,
+      "source": "[Vargul]: You've become a regular visitor.",
+      "target": "[Варгул]: Ты стал частым гостем.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1087,
+      "source": "The tombstone practically opens itself.",
+      "target": "Надгробие почти открывается само.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1088,
+      "source": "[Vargul]: Ah, my most loyal servant returns.",
+      "target": "[Варгул]: А, мой самый верный слуга вернулся.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1089,
+      "source": "The earth shivers in anticipation...",
+      "target": "Земля дрожит в предвкушении...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1090,
+      "source": "[Vargul]: Once more you wake me.",
+      "target": "[Варгул]: Ты вновь будишь меня.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1091,
+      "source": "The tombstone shifts, almost eager.",
+      "target": "Надгробие сдвигается, словно с нетерпением.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1092,
+      "source": "[Vargul]: I sense you have more offerings.",
+      "target": "[Варгул]: Чую, у тебя есть новые подношения.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1093,
+      "source": "A familiar rumble echoes.",
+      "target": "Раздаётся знакомый грохот.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1094,
+      "source": "[Vargul]: So, you seek my favor again?",
+      "target": "[Варгул]: Значит, ты снова ищешь моей благосклонности?",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1095,
+      "source": "The tombstone rises quicker this time.",
+      "target": "На этот раз надгробие поднимается быстрее.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1096,
+      "source": "[Vargul]: You're proving to be quite useful.",
+      "target": "[Варгул]: Ты оказываешься весьма полезным.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1097,
+      "source": "The ground almost hums with energy...",
+      "target": "Земля будто гудит от энергии...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1098,
+      "source": "[Vargul]: I grow accustomed to these interruptions.",
+      "target": "[Варгул]: Я уже привыкаю к этим вторжениям.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1099,
+      "source": "The tombstone practivally leaps from the ground.",
+      "target": "Надгробие чуть ли не выпрыгивает из земли.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1100,
+      "source": "[Vargul]: You've earned a place in my dark realm.",
+      "target": "[Варгул]: Ты заслужил место в моём тёмном царстве.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1101,
+      "source": "The ground rumbles, almost lazily.",
+      "target": "Земля грохочет почти лениво.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1102,
+      "source": "[Vargul]: Ah, you again...",
+      "target": "[Варгул]: А, опять ты...",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1103,
+      "source": "The tombstone creaks open with little fanfare.",
+      "target": "Надгробие со скрипом открывается без лишнего шума.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1104,
+      "source": "[Vargul]: Return as often as you wish, but know that my generosity has its limits.",
+      "target": "[Варгул]: Возвращайся, когда пожелаешь, но знай: у моей щедрости есть предел.",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1105,
+      "source": "The ground quakes once more...",
+      "target": "Земля вновь сотрясается...",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1106,
+      "source": "[Vargul]: You dare return?!",
+      "target": "[Варгул]: Ты смеешь возвращаться?!",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    },
+    {
+      "probe_index": 1107,
+      "source": "The tombstone seems to mend itself.",
+      "target": "Надгробие словно восстанавливается само.",
+      "style_anchors": []
+    },
+    {
+      "probe_index": 1108,
+      "source": "[Vargul]: Ah, it's you again. Have you brought more Dark Candies?",
+      "target": "[Варгул]: А, снова ты. Принёс ещё тёмных конфет?",
+      "style_anchors": [
+        {
+          "source": "[",
+          "target": "["
+        },
+        {
+          "source": "Vargul",
+          "target": "Варгул"
+        },
+        {
+          "source": "]",
+          "target": "]"
+        },
+        {
+          "source": ": ",
+          "target": ": ",
+          "source_occurrence": 1,
+          "target_occurrence": 1
+        }
+      ]
+    }
+  ]
+}

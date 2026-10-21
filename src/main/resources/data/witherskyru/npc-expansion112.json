@@ -1,0 +1,41 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "482 authored exact pinned messages;finite cosmetic components expanded offline. Existing startup merge,not new render/regex/network work.",
+  "records": [
+    {
+      "speaker": "Spider Tamer",
+      "tag": "NPC",
+      "source": "[NPC] Spider Tamer: ✆ Hey, do you think you could give me a [Lvl 1] Tarantula?",
+      "translation": "[NPC] Spider Tamer: ✆ Дружище, не мог бы ты дать мне тарантула [ур. 1]?",
+      "style_anchors": [
+        {
+          "source": "[Lvl 1]",
+          "target": "[ур. 1]"
+        },
+        {
+          "source": "Tarantula",
+          "target": "тарантула"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Spider_Tamer?oldid=830494"
+    },
+    {
+      "speaker": "Spider Tamer",
+      "tag": "NPC",
+      "source": "[NPC] Spider Tamer: ✆ Uh, dude, you don't have a [Lvl 1] Tarantula.",
+      "translation": "[NPC] Spider Tamer: ✆ Э-э, дружище, у тебя нет тарантула [ур. 1].",
+      "style_anchors": [
+        {
+          "source": "[Lvl 1]",
+          "target": "[ур. 1]"
+        },
+        {
+          "source": "Tarantula",
+          "target": "тарантула"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Spider_Tamer?oldid=830494"
+    }
+  ]
+}

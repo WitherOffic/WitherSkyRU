@@ -1,0 +1,1870 @@
+{
+  "zero_fps_impact_proven": false,
+  "installed_jar_sha256": "32AFF41415A452DCF90AE7D02956F7BC33F0F96725206C13CDDEFB0F66CF3DA5",
+  "recordings_stopped": true,
+  "observed_loaded_version": "0.15.70-dev",
+  "sessions": [
+    {
+      "render_thread_total_allocation_delta_bytes": 16017503792,
+      "render_samples_with_mod_stack": 49,
+      "fps_once_per_second_events": [
+        {
+          "elapsed_seconds": 0.9720986,
+          "fps": 79
+        },
+        {
+          "elapsed_seconds": 1.9741304,
+          "fps": 16
+        },
+        {
+          "elapsed_seconds": 2.9757668,
+          "fps": 10
+        },
+        {
+          "elapsed_seconds": 3.9812451,
+          "fps": 56
+        },
+        {
+          "elapsed_seconds": 4.9830019,
+          "fps": 142
+        },
+        {
+          "elapsed_seconds": 5.9859609,
+          "fps": 140
+        },
+        {
+          "elapsed_seconds": 6.9875926,
+          "fps": 136
+        },
+        {
+          "elapsed_seconds": 7.9892764,
+          "fps": 140
+        },
+        {
+          "elapsed_seconds": 8.9912245,
+          "fps": 147
+        },
+        {
+          "elapsed_seconds": 9.9925609,
+          "fps": 125
+        },
+        {
+          "elapsed_seconds": 11.0607721,
+          "fps": 144
+        },
+        {
+          "elapsed_seconds": 12.0618368,
+          "fps": 162
+        },
+        {
+          "elapsed_seconds": 13.0634718,
+          "fps": 166
+        },
+        {
+          "elapsed_seconds": 14.0650725,
+          "fps": 160
+        },
+        {
+          "elapsed_seconds": 15.066578,
+          "fps": 170
+        },
+        {
+          "elapsed_seconds": 16.0682241,
+          "fps": 173
+        },
+        {
+          "elapsed_seconds": 17.0695624,
+          "fps": 166
+        },
+        {
+          "elapsed_seconds": 18.0704378,
+          "fps": 173
+        },
+        {
+          "elapsed_seconds": 19.0714593,
+          "fps": 168
+        },
+        {
+          "elapsed_seconds": 20.0730589,
+          "fps": 167
+        },
+        {
+          "elapsed_seconds": 21.1379297,
+          "fps": 171
+        },
+        {
+          "elapsed_seconds": 22.1389534,
+          "fps": 165
+        },
+        {
+          "elapsed_seconds": 23.1410217,
+          "fps": 143
+        },
+        {
+          "elapsed_seconds": 24.1428365,
+          "fps": 153
+        },
+        {
+          "elapsed_seconds": 25.1443272,
+          "fps": 157
+        },
+        {
+          "elapsed_seconds": 26.1462663,
+          "fps": 150
+        },
+        {
+          "elapsed_seconds": 27.1480051,
+          "fps": 151
+        },
+        {
+          "elapsed_seconds": 28.1497023,
+          "fps": 156
+        },
+        {
+          "elapsed_seconds": 29.1508137,
+          "fps": 161
+        }
+      ],
+      "fps_max": 173.0,
+      "recording_sha256": "E08166035F03609685168F940CCA8E5EDFCB2467A428D718759FB4D0BDCB3FA1",
+      "recorded_render_duration_events": [
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 0.3905151,
+          "duration_ms": 90.1781,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 0.8936241,
+          "duration_ms": 87.4819,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.6935437,
+          "duration_ms": 87.1104,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 0.4943206,
+          "duration_ms": 86.7906,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.6945712,
+          "duration_ms": 86.2773,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 0.9945993,
+          "duration_ms": 85.1821,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.0953335,
+          "duration_ms": 85.0427,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.7965413,
+          "duration_ms": 84.7719,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.8953449,
+          "duration_ms": 84.6114,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 0.6956668,
+          "duration_ms": 84.4553,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.9964286,
+          "duration_ms": 84.3534,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 0.5964105,
+          "duration_ms": 84.1835,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.496523,
+          "duration_ms": 84.1503,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.0975717,
+          "duration_ms": 83.3435,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.4976122,
+          "duration_ms": 83.1244,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.297315,
+          "duration_ms": 82.9063,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.5967667,
+          "duration_ms": 82.7443,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.7979058,
+          "duration_ms": 82.6375,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.5980933,
+          "duration_ms": 82.0002,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.2984062,
+          "duration_ms": 81.7717,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 0.7996666,
+          "duration_ms": 81.0923,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.1941797,
+          "duration_ms": 66.5803,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.1967739,
+          "duration_ms": 64.8989,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.4141484,
+          "duration_ms": 64.8189,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.4471768,
+          "duration_ms": 33.2555,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.418503,
+          "duration_ms": 28.6621,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.3956152,
+          "duration_ms": 22.5386,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.3934418,
+          "duration_ms": 20.1567,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 2.261683,
+          "duration_ms": 19.0774,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        },
+        {
+          "kind": "jdk.ThreadPark",
+          "elapsed_seconds": 1.2607698,
+          "duration_ms": 18.9986,
+          "stack_methods": [
+            "jdk.internal.misc.Unsafe.park",
+            "java.util.concurrent.locks.LockSupport.parkNanos",
+            "org.lwjgl.glfw.GLFW.handler$ecl000$ixeris$waitEventsTimeout",
+            "org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout",
+            "net.minecraft.client.FramerateLimiter.runEventAwareWait",
+            "net.minecraft.client.FramerateLimiter.handler$dij000$fpsreducer$fastResumeOnInput",
+            "net.minecraft.client.FramerateLimiter.limitDisplayFPS",
+            "net.minecraft.client.Minecraft.renderFrame",
+            "net.minecraft.client.Minecraft.runTick",
+            "net.minecraft.client.Minecraft.run",
+            "me.decce.ixeris.RenderThreadStarter.0x00000000a3f80000.run",
+            "java.lang.Thread.runWith",
+            "java.lang.Thread.run"
+          ]
+        }
+      ],
+      "recorded_safepoint_gc_events": [
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 0.0104521,
+          "duration_ms": 104.527,
+          "vm_operation": "RedefineClasses",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 22.1769082,
+          "duration_ms": 13.3843,
+          "vm_operation": "G1PauseRemark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 22.1769548,
+          "duration_ms": 13.3153,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 9.4018011,
+          "duration_ms": 11.7806,
+          "vm_operation": "G1PauseRemark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 9.4018452,
+          "duration_ms": 11.6913,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 0.1181711,
+          "duration_ms": 9.3872,
+          "vm_operation": "ClassLoaderStatsOperation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 30.0126509,
+          "duration_ms": 8.9153,
+          "vm_operation": "ClassLoaderStatsOperation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 17.7682923,
+          "duration_ms": 7.9547,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 17.768338,
+          "duration_ms": 7.8499,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 6.105036,
+          "duration_ms": 7.2333,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 6.1050987,
+          "duration_ms": 7.1157,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 13.655247,
+          "duration_ms": 5.4726,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 13.6552962,
+          "duration_ms": 5.3685,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 9.1915508,
+          "duration_ms": 4.7847,
+          "vm_operation": "G1TryInitiateConcMark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 26.5046532,
+          "duration_ms": 4.6588,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 9.1916338,
+          "duration_ms": 4.6368,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 26.5047006,
+          "duration_ms": 4.5562,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 21.9669658,
+          "duration_ms": 4.5319,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 21.9670187,
+          "duration_ms": 4.4134,
+          "stack_methods": []
+        }
+      ],
+      "fps_mean": 139.55172413793105,
+      "name": "gameplay",
+      "fps_min": 10.0,
+      "requested_duration_seconds": 30,
+      "mod_inclusive_sample_percent": 3.482587064676617,
+      "gc_pause_total_ms": 59.04820000000001,
+      "gc_pause_max_ms": 13.3153,
+      "mod_inclusive_methods": [
+        {
+          "name": "net.minecraft.client.gui.components.DebugScreenOverlay.redirect$idd000$witherskyru$debugText",
+          "count_or_weight": 40
+        },
+        {
+          "name": "net.minecraft.client.gui.GuiGraphicsExtractor.handler$ico000$witherskyru$styledText",
+          "count_or_weight": 6
+        },
+        {
+          "name": "net.minecraft.client.renderer.entity.EntityRenderer.handler$idk000$witherskyru$minionNameTag",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.translateForSearch",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.convertLine",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.narrowHud",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.translate",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.minionNameTag",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.findDisplayEdits",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.StyledItemTitle.translate",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.displayEdits",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.sequence",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.translateLine",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.InterfaceDisplay.keys",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.open",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.OverhaulTextBudget.lambda$draw$0",
+          "count_or_weight": 1
+        },
+        {
+          "name": "net.minecraft.client.gui.GuiGraphicsExtractor.localvar$ico000$witherskyru$normalText",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.lambda$inspect$0",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.OverhaulTextBudget.within",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.renderTemplate",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.TechnicalText.active",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.OverhaulTextBudget.draw",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.componentOutsideHud",
+          "count_or_weight": 1
+        },
+        {
+          "name": "me.jfenn.scoreboardoverhaul.common.hud.HudRenderer.redirect$idh000$witherskyru$drawName",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.inspect",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext$$Lambda.0x00000000a6300648.apply",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.OverhaulTextBudget$$Lambda.0x00000000a642c868.run",
+          "count_or_weight": 1
+        }
+      ],
+      "allocation_observed_seconds": 29.8939628,
+      "render_thread_samples": 1407,
+      "gc_pause_count": 10
+    },
+    {
+      "render_thread_total_allocation_delta_bytes": 18414186192,
+      "render_samples_with_mod_stack": 49,
+      "fps_once_per_second_events": [
+        {
+          "elapsed_seconds": 110.0879462,
+          "fps": 160
+        },
+        {
+          "elapsed_seconds": 111.0890435,
+          "fps": 139
+        },
+        {
+          "elapsed_seconds": 112.0928071,
+          "fps": 113
+        },
+        {
+          "elapsed_seconds": 113.095707,
+          "fps": 155
+        },
+        {
+          "elapsed_seconds": 114.0970081,
+          "fps": 153
+        },
+        {
+          "elapsed_seconds": 115.0981958,
+          "fps": 153
+        },
+        {
+          "elapsed_seconds": 116.1005319,
+          "fps": 151
+        },
+        {
+          "elapsed_seconds": 117.1022929,
+          "fps": 129
+        },
+        {
+          "elapsed_seconds": 118.1041055,
+          "fps": 155
+        },
+        {
+          "elapsed_seconds": 119.1054581,
+          "fps": 156
+        },
+        {
+          "elapsed_seconds": 120.171081,
+          "fps": 158
+        },
+        {
+          "elapsed_seconds": 121.1730358,
+          "fps": 167
+        },
+        {
+          "elapsed_seconds": 122.1738824,
+          "fps": 166
+        },
+        {
+          "elapsed_seconds": 123.1744282,
+          "fps": 162
+        },
+        {
+          "elapsed_seconds": 124.1763205,
+          "fps": 161
+        },
+        {
+          "elapsed_seconds": 125.1783515,
+          "fps": 159
+        },
+        {
+          "elapsed_seconds": 126.1796367,
+          "fps": 151
+        },
+        {
+          "elapsed_seconds": 127.1806891,
+          "fps": 147
+        },
+        {
+          "elapsed_seconds": 128.1820852,
+          "fps": 140
+        },
+        {
+          "elapsed_seconds": 129.1838274,
+          "fps": 115
+        },
+        {
+          "elapsed_seconds": 130.2506707,
+          "fps": 135
+        },
+        {
+          "elapsed_seconds": 131.2524231,
+          "fps": 129
+        },
+        {
+          "elapsed_seconds": 132.2539005,
+          "fps": 132
+        },
+        {
+          "elapsed_seconds": 133.2543065,
+          "fps": 131
+        },
+        {
+          "elapsed_seconds": 134.2555922,
+          "fps": 136
+        },
+        {
+          "elapsed_seconds": 135.2576429,
+          "fps": 139
+        },
+        {
+          "elapsed_seconds": 136.2587821,
+          "fps": 133
+        },
+        {
+          "elapsed_seconds": 137.2599308,
+          "fps": 135
+        },
+        {
+          "elapsed_seconds": 138.2611026,
+          "fps": 138
+        },
+        {
+          "elapsed_seconds": 139.2624539,
+          "fps": 140
+        }
+      ],
+      "fps_max": 167.0,
+      "recording_sha256": "7B463AE085C14509FBE8F41D19B241F8E7CFB83E5A06F9A9062907CEAF0F1122",
+      "recorded_render_duration_events": [],
+      "recorded_safepoint_gc_events": [
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 140.0843793,
+          "duration_ms": 8.6729,
+          "vm_operation": "ClassLoaderStatsOperation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 110.0726575,
+          "duration_ms": 8.6535,
+          "vm_operation": "ClassLoaderStatsOperation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 111.1462739,
+          "duration_ms": 7.3786,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 111.1463229,
+          "duration_ms": 7.2732,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 124.079135,
+          "duration_ms": 6.6649,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 124.0791563,
+          "duration_ms": 6.5899,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 132.2799563,
+          "duration_ms": 4.7028,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 132.2799793,
+          "duration_ms": 4.6223,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 136.5918323,
+          "duration_ms": 4.5259,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 136.591879,
+          "duration_ms": 4.423,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 115.6652906,
+          "duration_ms": 4.3342,
+          "vm_operation": "G1PauseRemark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 115.6653391,
+          "duration_ms": 4.2468,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 128.2877069,
+          "duration_ms": 3.859,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 128.4926159,
+          "duration_ms": 3.851,
+          "vm_operation": "G1PauseRemark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 128.4926636,
+          "duration_ms": 3.7679,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 128.2877453,
+          "duration_ms": 3.7494,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 119.8036913,
+          "duration_ms": 3.4288,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 115.4521474,
+          "duration_ms": 3.428,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 119.8037418,
+          "duration_ms": 3.328,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 115.4521974,
+          "duration_ms": 3.3119,
+          "stack_methods": []
+        }
+      ],
+      "fps_mean": 144.6,
+      "name": "stable",
+      "fps_min": 113.0,
+      "requested_duration_seconds": 30,
+      "mod_inclusive_sample_percent": 3.032178217821782,
+      "gc_pause_total_ms": 41.41030000000001,
+      "gc_pause_max_ms": 7.2732,
+      "mod_inclusive_methods": [
+        {
+          "name": "net.minecraft.client.gui.components.DebugScreenOverlay.redirect$idd000$witherskyru$debugText",
+          "count_or_weight": 38
+        },
+        {
+          "name": "net.minecraft.client.gui.GuiGraphicsExtractor.handler$ico000$witherskyru$styledText",
+          "count_or_weight": 10
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.open",
+          "count_or_weight": 4
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.lambda$inspect$0",
+          "count_or_weight": 4
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.narrowHud",
+          "count_or_weight": 4
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.inspect",
+          "count_or_weight": 4
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext$$Lambda.0x00000000a6300648.apply",
+          "count_or_weight": 4
+        },
+        {
+          "name": "ru.wither.skyru.HudTextFit.narrow",
+          "count_or_weight": 3
+        },
+        {
+          "name": "ru.wither.skyru.TechnicalText.active",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.classify",
+          "count_or_weight": 2
+        },
+        {
+          "name": "net.minecraft.client.renderer.entity.EntityRenderer.handler$idk000$witherskyru$minionNameTag",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.componentOutsideHud",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.TechnicalText.open",
+          "count_or_weight": 1
+        },
+        {
+          "name": "net.minecraft.client.gui.GuiGraphicsExtractor.localvar$ico000$witherskyru$normalString",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.sequence",
+          "count_or_weight": 1
+        },
+        {
+          "name": "net.minecraft.client.gui.GuiGraphicsExtractor.localvar$ico000$witherskyru$normalText",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.minionNameTag",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.StyledItemTitle.translate",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.displayEdits",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.InterfaceDisplay.keys",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.textOutsideHud",
+          "count_or_weight": 1
+        }
+      ],
+      "allocation_observed_seconds": 30.0117446,
+      "render_thread_samples": 1616,
+      "gc_pause_count": 11
+    },
+    {
+      "render_thread_total_allocation_delta_bytes": 26460483432,
+      "render_samples_with_mod_stack": 32,
+      "fps_once_per_second_events": [
+        {
+          "elapsed_seconds": 261.6028,
+          "fps": 140
+        },
+        {
+          "elapsed_seconds": 262.6033838,
+          "fps": 118
+        },
+        {
+          "elapsed_seconds": 263.6070457,
+          "fps": 136
+        },
+        {
+          "elapsed_seconds": 264.6089592,
+          "fps": 135
+        },
+        {
+          "elapsed_seconds": 265.6102161,
+          "fps": 123
+        },
+        {
+          "elapsed_seconds": 266.6125683,
+          "fps": 127
+        },
+        {
+          "elapsed_seconds": 267.6143081,
+          "fps": 136
+        },
+        {
+          "elapsed_seconds": 268.6157751,
+          "fps": 139
+        },
+        {
+          "elapsed_seconds": 269.6178133,
+          "fps": 138
+        },
+        {
+          "elapsed_seconds": 270.6189609,
+          "fps": 145
+        },
+        {
+          "elapsed_seconds": 271.6927476,
+          "fps": 131
+        },
+        {
+          "elapsed_seconds": 272.6935183,
+          "fps": 138
+        },
+        {
+          "elapsed_seconds": 273.6949918,
+          "fps": 142
+        },
+        {
+          "elapsed_seconds": 274.6967222,
+          "fps": 144
+        },
+        {
+          "elapsed_seconds": 275.698137,
+          "fps": 144
+        },
+        {
+          "elapsed_seconds": 276.7002345,
+          "fps": 144
+        },
+        {
+          "elapsed_seconds": 277.7017188,
+          "fps": 143
+        },
+        {
+          "elapsed_seconds": 278.7034749,
+          "fps": 147
+        },
+        {
+          "elapsed_seconds": 279.704968,
+          "fps": 150
+        },
+        {
+          "elapsed_seconds": 280.7066731,
+          "fps": 145
+        },
+        {
+          "elapsed_seconds": 281.7777004,
+          "fps": 125
+        },
+        {
+          "elapsed_seconds": 282.7782605,
+          "fps": 139
+        },
+        {
+          "elapsed_seconds": 283.7793264,
+          "fps": 141
+        },
+        {
+          "elapsed_seconds": 284.7809425,
+          "fps": 130
+        },
+        {
+          "elapsed_seconds": 285.782174,
+          "fps": 147
+        },
+        {
+          "elapsed_seconds": 286.7842022,
+          "fps": 148
+        },
+        {
+          "elapsed_seconds": 287.7855566,
+          "fps": 144
+        },
+        {
+          "elapsed_seconds": 288.7871149,
+          "fps": 150
+        },
+        {
+          "elapsed_seconds": 289.7876597,
+          "fps": 156
+        },
+        {
+          "elapsed_seconds": 290.789319,
+          "fps": 155
+        },
+        {
+          "elapsed_seconds": 291.8582647,
+          "fps": 150
+        },
+        {
+          "elapsed_seconds": 292.8592915,
+          "fps": 137
+        },
+        {
+          "elapsed_seconds": 293.860642,
+          "fps": 142
+        },
+        {
+          "elapsed_seconds": 294.8625223,
+          "fps": 148
+        },
+        {
+          "elapsed_seconds": 295.8643612,
+          "fps": 150
+        },
+        {
+          "elapsed_seconds": 296.8661358,
+          "fps": 137
+        },
+        {
+          "elapsed_seconds": 297.8695223,
+          "fps": 137
+        },
+        {
+          "elapsed_seconds": 298.8711987,
+          "fps": 147
+        },
+        {
+          "elapsed_seconds": 299.8723673,
+          "fps": 147
+        },
+        {
+          "elapsed_seconds": 300.8734491,
+          "fps": 149
+        },
+        {
+          "elapsed_seconds": 301.9381853,
+          "fps": 145
+        },
+        {
+          "elapsed_seconds": 302.9383992,
+          "fps": 137
+        },
+        {
+          "elapsed_seconds": 303.9396796,
+          "fps": 141
+        },
+        {
+          "elapsed_seconds": 304.9406383,
+          "fps": 127
+        },
+        {
+          "elapsed_seconds": 305.9420665,
+          "fps": 131
+        }
+      ],
+      "fps_max": 156.0,
+      "recording_sha256": "19EFE03613E663CE8287FBB7F61A8054F69F86CC0430B071F86CFA0E62DB59D2",
+      "recorded_render_duration_events": [],
+      "recorded_safepoint_gc_events": [
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 306.5993774,
+          "duration_ms": 8.9599,
+          "vm_operation": "ClassLoaderStatsOperation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 261.5878693,
+          "duration_ms": 8.6924,
+          "vm_operation": "ClassLoaderStatsOperation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 266.7244631,
+          "duration_ms": 5.827,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 266.7245136,
+          "duration_ms": 5.7209,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 279.8388303,
+          "duration_ms": 5.4523,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 279.8388807,
+          "duration_ms": 5.3428,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 292.1842273,
+          "duration_ms": 4.7776,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 283.8228678,
+          "duration_ms": 4.7367,
+          "vm_operation": "G1PauseRemark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 292.1842801,
+          "duration_ms": 4.6678,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 283.8229088,
+          "duration_ms": 4.6498,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 288.0210905,
+          "duration_ms": 4.4927,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 296.7498397,
+          "duration_ms": 4.4097,
+          "vm_operation": "G1PauseRemark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 288.0211415,
+          "duration_ms": 4.382,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 296.7498923,
+          "duration_ms": 4.319,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 283.6139287,
+          "duration_ms": 4.2853,
+          "vm_operation": "G1TryInitiateConcMark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 275.487986,
+          "duration_ms": 4.2689,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 271.2947841,
+          "duration_ms": 4.251,
+          "vm_operation": "G1PauseRemark",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 271.0905766,
+          "duration_ms": 4.2002,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 283.6139802,
+          "duration_ms": 4.1702,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 275.4880421,
+          "duration_ms": 4.1549,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 271.2948314,
+          "duration_ms": 4.1463,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 271.0906274,
+          "duration_ms": 4.0829,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 305.4601373,
+          "duration_ms": 3.9765,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 262.3516508,
+          "duration_ms": 3.9161,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 305.4601883,
+          "duration_ms": 3.8732,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 262.3516991,
+          "duration_ms": 3.8139,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 296.5248751,
+          "duration_ms": 3.4111,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 296.5250479,
+          "duration_ms": 3.1787,
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.ExecuteVMOperation",
+          "elapsed_seconds": 300.9393191,
+          "duration_ms": 3.1461,
+          "vm_operation": "G1CollectForAllocation",
+          "stack_methods": []
+        },
+        {
+          "kind": "jdk.GCPhasePause",
+          "elapsed_seconds": 300.9393707,
+          "duration_ms": 3.0487,
+          "stack_methods": []
+        }
+      ],
+      "fps_mean": 140.55555555555554,
+      "name": "stutters",
+      "fps_min": 118.0,
+      "requested_duration_seconds": 45,
+      "mod_inclusive_sample_percent": 1.491841491841492,
+      "gc_pause_total_ms": 59.700500000000005,
+      "gc_pause_max_ms": 5.7209,
+      "mod_inclusive_methods": [
+        {
+          "name": "net.minecraft.client.gui.GuiGraphicsExtractor.handler$ico000$witherskyru$styledText",
+          "count_or_weight": 21
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.open",
+          "count_or_weight": 14
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.inspect",
+          "count_or_weight": 14
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.lambda$inspect$0",
+          "count_or_weight": 12
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext$$Lambda.0x00000000a6300648.apply",
+          "count_or_weight": 12
+        },
+        {
+          "name": "ru.wither.skyru.OverhaulTextBudget.lambda$draw$0",
+          "count_or_weight": 8
+        },
+        {
+          "name": "ru.wither.skyru.OverhaulTextBudget.within",
+          "count_or_weight": 8
+        },
+        {
+          "name": "ru.wither.skyru.OverhaulTextBudget.draw",
+          "count_or_weight": 8
+        },
+        {
+          "name": "me.jfenn.scoreboardoverhaul.common.hud.HudRenderer.redirect$idh000$witherskyru$drawName",
+          "count_or_weight": 8
+        },
+        {
+          "name": "ru.wither.skyru.OverhaulTextBudget$$Lambda.0x00000000a642c868.run",
+          "count_or_weight": 8
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.narrowHud",
+          "count_or_weight": 7
+        },
+        {
+          "name": "net.minecraft.client.gui.GuiGraphicsExtractor.localvar$ico000$witherskyru$normalText",
+          "count_or_weight": 6
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.componentOutsideHud",
+          "count_or_weight": 6
+        },
+        {
+          "name": "ru.wither.skyru.RenderContext.classify",
+          "count_or_weight": 6
+        },
+        {
+          "name": "net.minecraft.client.gui.GuiGraphicsExtractor.localvar$ico000$witherskyru$normalString",
+          "count_or_weight": 4
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.textOutsideHud",
+          "count_or_weight": 4
+        },
+        {
+          "name": "ru.wither.skyru.InterfaceDisplay.keys",
+          "count_or_weight": 4
+        },
+        {
+          "name": "ru.wither.skyru.HudTextFit.narrow",
+          "count_or_weight": 3
+        },
+        {
+          "name": "ru.wither.skyru.DisplayNoop.text",
+          "count_or_weight": 2
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.translateTree",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.translate",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.component",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.HudTextFit$$Lambda.0x00000000a65b3fa0.accept",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.ScreenLabels.finalText",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.SkyRuClient.sequence",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.OfflineDictionary.translateLine",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.SkyBlockBrand.header",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.HudTextFit.lambda$narrow$0",
+          "count_or_weight": 1
+        },
+        {
+          "name": "ru.wither.skyru.LegacyFormatting.strip",
+          "count_or_weight": 1
+        }
+      ],
+      "allocation_observed_seconds": 45.0117647,
+      "render_thread_samples": 2145,
+      "gc_pause_count": 17
+    }
+  ],
+  "entire_microstutter_cause_established": false,
+  "new_version_frame_times_measured": false,
+  "raw_recordings_private_not_delivered": true,
+  "scope": [
+    "Observational gameplay, not without-mod A/B.",
+    "One-second FPS events are not frame times,1%low or0.1%low.",
+    "Inclusive sampled stacks include injected handlers and forwarded vanilla work; percentages are not exclusive mod cost or FPS loss.",
+    "JFR startup/end can pause JVM; first-session framerate limiter waits must not be attributed to translation.",
+    "Safepoint and GC events overlap: do not sum them.",
+    "Duration event thresholds may hide shorter waits.",
+    "Render-thread cumulative allocation counters cover all mods/game, not WitherSkyRU alone.",
+    "Statistical allocation weights are not converted to absolute allocation rates.",
+    "New0.15.71 executable was not installed into the running game; no live before/after proof."
+  ],
+  "date": "2026-10-15",
+  "mod_or_game_settings_changed": false
+}

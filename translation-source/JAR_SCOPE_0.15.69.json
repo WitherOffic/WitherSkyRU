@@ -1,0 +1,1015 @@
+{
+  "new_frame_hooks": 0,
+  "world_label_change_is_existing_hook_whitelist_only": true,
+  "new_caches": 0,
+  "baseline": "0.15.68-dev",
+  "version": "0.15.69-dev",
+  "new_network_calls": 0,
+  "jar_sha256": "518B5761230191B5ECD80443E3D1369611FE47BD96FFE864FE9198D0C45F3930",
+  "entries": [
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "assets/"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "assets/witherskyru/"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "assets/witherskyru/font/"
+    },
+    {
+      "after_sha256": "1EB818A6D65E43C69C4E506996D3536D17FA81475FEFB022760FDCEA8A17F081",
+      "before_sha256": "1EB818A6D65E43C69C4E506996D3536D17FA81475FEFB022760FDCEA8A17F081",
+      "state": "identical",
+      "entry": "assets/witherskyru/font/inter_medium.json"
+    },
+    {
+      "after_sha256": "97AD806F526E41546D46365BB3A393145F75B7B1568913DB74549AD8B8DBA872",
+      "before_sha256": "97AD806F526E41546D46365BB3A393145F75B7B1568913DB74549AD8B8DBA872",
+      "state": "identical",
+      "entry": "assets/witherskyru/font/inter_medium.ttf"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "data/"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "data/witherskyru/"
+    },
+    {
+      "after_sha256": "C2D855E28A39A781C3A38335E3DB3059BAFD5E032BBD1B0E3BA7B4CCE2E0920C",
+      "before_sha256": "C2D855E28A39A781C3A38335E3DB3059BAFD5E032BBD1B0E3BA7B4CCE2E0920C",
+      "state": "identical",
+      "entry": "data/witherskyru/canonical-patterns.tsv"
+    },
+    {
+      "after_sha256": "7258E87DCC97A009619CEBEBE835E07CDF243BC428C9B6E8906CEA0D177736A7",
+      "before_sha256": "7258E87DCC97A009619CEBEBE835E07CDF243BC428C9B6E8906CEA0D177736A7",
+      "state": "identical",
+      "entry": "data/witherskyru/catalogue.tsv"
+    },
+    {
+      "after_sha256": "7EB18693E52A0EE38C6298086C8ED815229C33802A5F6D533F03DCEB19DAEA3B",
+      "before_sha256": "7EB18693E52A0EE38C6298086C8ED815229C33802A5F6D533F03DCEB19DAEA3B",
+      "state": "identical",
+      "entry": "data/witherskyru/continuation-patterns.tsv"
+    },
+    {
+      "after_sha256": "4744F8B995BC621C5AC4E58472E0EC207A4BE4E520B55ED258695C6338C83D04",
+      "before_sha256": "4744F8B995BC621C5AC4E58472E0EC207A4BE4E520B55ED258695C6338C83D04",
+      "state": "identical",
+      "entry": "data/witherskyru/continuation.tsv"
+    },
+    {
+      "after_sha256": "8349E297B7705F85DBC5A7B7AB9845B81E003A5362BFD08FD2DEE62E0DFFEADC",
+      "before_sha256": "8349E297B7705F85DBC5A7B7AB9845B81E003A5362BFD08FD2DEE62E0DFFEADC",
+      "state": "identical",
+      "entry": "data/witherskyru/corrections.tsv"
+    },
+    {
+      "after_sha256": "CEDCC82B410BAF367FE58E1EDEAC40BAE3277C5C66ED170CAA28DE8051548C46",
+      "before_sha256": "CEDCC82B410BAF367FE58E1EDEAC40BAE3277C5C66ED170CAA28DE8051548C46",
+      "state": "identical",
+      "entry": "data/witherskyru/curated.tsv"
+    },
+    {
+      "after_sha256": "3DA5A76CBFC84345971F4C720D679EF17C0E762665E8223C10AD3511DBCCE5A2",
+      "before_sha256": "3DA5A76CBFC84345971F4C720D679EF17C0E762665E8223C10AD3511DBCCE5A2",
+      "state": "identical",
+      "entry": "data/witherskyru/dungeon-dialogues.json"
+    },
+    {
+      "after_sha256": "0A9E3C676EF855DDE3DED3A9B4C908E2596B7293BE0E24FAD7FA404ED7BDE633",
+      "before_sha256": "0A9E3C676EF855DDE3DED3A9B4C908E2596B7293BE0E24FAD7FA404ED7BDE633",
+      "state": "identical",
+      "entry": "data/witherskyru/dungeon-notifications.json"
+    },
+    {
+      "after_sha256": "019D2CDAD9A984A708E37508C7775D8B73884AEA814252829CF60C28092581BE",
+      "before_sha256": "019D2CDAD9A984A708E37508C7775D8B73884AEA814252829CF60C28092581BE",
+      "state": "identical",
+      "entry": "data/witherskyru/editorial-numeric.tsv"
+    },
+    {
+      "after_sha256": "1CBD8FAD6FCA1ACA8AA1B317A520D56FB7B216A659107C887C9849961E0FA3DE",
+      "before_sha256": "1CBD8FAD6FCA1ACA8AA1B317A520D56FB7B216A659107C887C9849961E0FA3DE",
+      "state": "identical",
+      "entry": "data/witherskyru/editorial-patterns.tsv"
+    },
+    {
+      "after_sha256": "97CC0D8B4B9E0C15790A9A0DC0F36CC3AB30CA750AF59841432AC3EA7A3F9747",
+      "before_sha256": "97CC0D8B4B9E0C15790A9A0DC0F36CC3AB30CA750AF59841432AC3EA7A3F9747",
+      "state": "identical",
+      "entry": "data/witherskyru/enchantments.tsv"
+    },
+    {
+      "after_sha256": "75A7014ED71C4AD3791233553259E63B0DF225CDD121EFA557991BC0895267E7",
+      "before_sha256": "75A7014ED71C4AD3791233553259E63B0DF225CDD121EFA557991BC0895267E7",
+      "state": "identical",
+      "entry": "data/witherskyru/expanded-patterns.tsv"
+    },
+    {
+      "after_sha256": "5B51F9DFA50E184D5125B8ABD3529B583AAEDE971378DEDC6EA4721D9FEE2C87",
+      "before_sha256": "5B51F9DFA50E184D5125B8ABD3529B583AAEDE971378DEDC6EA4721D9FEE2C87",
+      "state": "identical",
+      "entry": "data/witherskyru/garden-dialogues.json"
+    },
+    {
+      "after_sha256": "1BEF3CB22E93CE0FB3AF367182F61DD5D72769CF1621697CDE65D2406D514DD3",
+      "before_sha256": "1BEF3CB22E93CE0FB3AF367182F61DD5D72769CF1621697CDE65D2406D514DD3",
+      "state": "identical",
+      "entry": "data/witherskyru/grammar.tsv"
+    },
+    {
+      "after_sha256": "7946F728D3EB1CD1958B6D08B3E00828BFA0DBDBD672B285B5BB45776F7F8EF6",
+      "before_sha256": null,
+      "state": "added",
+      "entry": "data/witherskyru/hub-dialogues.json"
+    },
+    {
+      "after_sha256": "647A9D66DD23068E8338AFE4BE3590EC3009A071BD9609033CFC37268BA80F11",
+      "before_sha256": "647A9D66DD23068E8338AFE4BE3590EC3009A071BD9609033CFC37268BA80F11",
+      "state": "identical",
+      "entry": "data/witherskyru/item-gender-overrides.tsv"
+    },
+    {
+      "after_sha256": "AF0FFE2B7F8557AA404CC82C53BFC99E716D8C459B6929DCE19511428FF6AD7F",
+      "before_sha256": "AF0FFE2B7F8557AA404CC82C53BFC99E716D8C459B6929DCE19511428FF6AD7F",
+      "state": "identical",
+      "entry": "data/witherskyru/item-genders.tsv"
+    },
+    {
+      "after_sha256": "0AAED75510EDF1B47A96E4F5BC0D2F1BBFBA45EA34AD8D7FBB2A053FDB65D461",
+      "before_sha256": "0AAED75510EDF1B47A96E4F5BC0D2F1BBFBA45EA34AD8D7FBB2A053FDB65D461",
+      "state": "identical",
+      "entry": "data/witherskyru/lexicon-names.tsv"
+    },
+    {
+      "after_sha256": "905BCE4A8849643D9C1734DCD71014DD3FE79B6FA3CA68092988199319BE6FC5",
+      "before_sha256": "905BCE4A8849643D9C1734DCD71014DD3FE79B6FA3CA68092988199319BE6FC5",
+      "state": "identical",
+      "entry": "data/witherskyru/lexicon.tsv"
+    },
+    {
+      "after_sha256": "E8ABA58DDE3FEA889D5BF2E656C576A6F8092962034A39A1AB6AFA33D0A768D4",
+      "before_sha256": "E8ABA58DDE3FEA889D5BF2E656C576A6F8092962034A39A1AB6AFA33D0A768D4",
+      "state": "identical",
+      "entry": "data/witherskyru/lore.tsv"
+    },
+    {
+      "after_sha256": "C05FF8F19621AABE3C48FBE4399363755E6C0E990C5EA821B3C6F854D672181A",
+      "before_sha256": "C05FF8F19621AABE3C48FBE4399363755E6C0E990C5EA821B3C6F854D672181A",
+      "state": "identical",
+      "entry": "data/witherskyru/name-families.tsv"
+    },
+    {
+      "after_sha256": "54C8B822D00529502D43AB37ABDC48C7CE3278E137CDE79168AA54536B5164BA",
+      "before_sha256": "54C8B822D00529502D43AB37ABDC48C7CE3278E137CDE79168AA54536B5164BA",
+      "state": "identical",
+      "entry": "data/witherskyru/names.tsv"
+    },
+    {
+      "after_sha256": "2BF7EB962EA50F29BB4987572F7F7DFEBD3F349214AE75E4B59C29C4C830617A",
+      "before_sha256": "2BF7EB962EA50F29BB4987572F7F7DFEBD3F349214AE75E4B59C29C4C830617A",
+      "state": "identical",
+      "entry": "data/witherskyru/npc-dialogues.json"
+    },
+    {
+      "after_sha256": "186B2E91B5385C7AA3901615C1A450D7BED2997F540528B5686ACBA6F13FB2CC",
+      "before_sha256": "186B2E91B5385C7AA3901615C1A450D7BED2997F540528B5686ACBA6F13FB2CC",
+      "state": "identical",
+      "entry": "data/witherskyru/patterns.tsv"
+    },
+    {
+      "after_sha256": "FCFC86FEBF7C1EE84F49A5DD351B6F5CFF56C87F7B065D899F49B222B165897F",
+      "before_sha256": "FCFC86FEBF7C1EE84F49A5DD351B6F5CFF56C87F7B065D899F49B222B165897F",
+      "state": "identical",
+      "entry": "data/witherskyru/pet-lore-patterns.tsv"
+    },
+    {
+      "after_sha256": "8F7245B3C33D64EF56A0D1CE8EB101F381A302B7172D32847DEFFC235CFBC225",
+      "before_sha256": "8F7245B3C33D64EF56A0D1CE8EB101F381A302B7172D32847DEFFC235CFBC225",
+      "state": "identical",
+      "entry": "data/witherskyru/pet-lore.tsv"
+    },
+    {
+      "after_sha256": "492C19E946E9F68F6689EB223190D9FF63B8D2E8885F89ADBCF919D2ABE477A1",
+      "before_sha256": "492C19E946E9F68F6689EB223190D9FF63B8D2E8885F89ADBCF919D2ABE477A1",
+      "state": "identical",
+      "entry": "data/witherskyru/phrases.tsv"
+    },
+    {
+      "after_sha256": "4BCF52A5FD6DFCE4EE00DC492D8F1BEF490FAD1A60BBB3E822059968C0A063DD",
+      "before_sha256": "4BCF52A5FD6DFCE4EE00DC492D8F1BEF490FAD1A60BBB3E822059968C0A063DD",
+      "state": "identical",
+      "entry": "data/witherskyru/proofread-patterns.tsv"
+    },
+    {
+      "after_sha256": "29B91329B1D47D1F19DDDA6DED1AAF01E89C9B1653C167AC7A996E48ABD6F76B",
+      "before_sha256": "A566F3D0ADB86ED8AB3E200BCFB5C6D1C9D7FD8DED6F472C78B37071CC0B7273",
+      "state": "changed",
+      "entry": "data/witherskyru/proofread.tsv"
+    },
+    {
+      "after_sha256": "DFC86E81614F44A9654A7793E606B048091732F6DE099483A639BEE6CAC4E4A2",
+      "before_sha256": "DFC86E81614F44A9654A7793E606B048091732F6DE099483A639BEE6CAC4E4A2",
+      "state": "identical",
+      "entry": "data/witherskyru/quality-fixes.tsv"
+    },
+    {
+      "after_sha256": "52E36A4B3DB3B2146C3DF0FAADDBA4FC1194072FB8F01D8FB3CF8C345F7666D2",
+      "before_sha256": "52E36A4B3DB3B2146C3DF0FAADDBA4FC1194072FB8F01D8FB3CF8C345F7666D2",
+      "state": "identical",
+      "entry": "data/witherskyru/quest-dialogues.json"
+    },
+    {
+      "after_sha256": "6EF4C989C2DD79765D6A8272C8CB167976BFFE282A01F57D3C394D3F717709FF",
+      "before_sha256": "6EF4C989C2DD79765D6A8272C8CB167976BFFE282A01F57D3C394D3F717709FF",
+      "state": "identical",
+      "entry": "data/witherskyru/quest-interface.tsv"
+    },
+    {
+      "after_sha256": "F5D48C662DC68131E1CDAEC9E420A190672378191C7F3FEA932770EC980D769C",
+      "before_sha256": "F5D48C662DC68131E1CDAEC9E420A190672378191C7F3FEA932770EC980D769C",
+      "state": "identical",
+      "entry": "data/witherskyru/quest-objectives.json"
+    },
+    {
+      "after_sha256": "A0101823B8666680B1062055DCFB4EAF411861570DBA1F66B1FBE28CB6EC1786",
+      "before_sha256": "A0101823B8666680B1062055DCFB4EAF411861570DBA1F66B1FBE28CB6EC1786",
+      "state": "identical",
+      "entry": "data/witherskyru/reforge-placement.tsv"
+    },
+    {
+      "after_sha256": "947B45F0F0A8753147EA4398CBC15AEB189CEABFAFE38C75ABF167DA15D63FF4",
+      "before_sha256": "947B45F0F0A8753147EA4398CBC15AEB189CEABFAFE38C75ABF167DA15D63FF4",
+      "state": "identical",
+      "entry": "data/witherskyru/reforges.tsv"
+    },
+    {
+      "after_sha256": "4202169BBA87216C35F0E0D3BC8A7E92A9D1A85ECAE1936CA2A8C88AE04CEBEB",
+      "before_sha256": "4202169BBA87216C35F0E0D3BC8A7E92A9D1A85ECAE1936CA2A8C88AE04CEBEB",
+      "state": "identical",
+      "entry": "data/witherskyru/search-item-names.txt"
+    },
+    {
+      "after_sha256": "F6F22C749B325E00C88423ECCEB9CA8345AEA2D7103518B5C57E94798C6D30BA",
+      "before_sha256": "F6F22C749B325E00C88423ECCEB9CA8345AEA2D7103518B5C57E94798C6D30BA",
+      "state": "identical",
+      "entry": "data/witherskyru/story-dialogues.json"
+    },
+    {
+      "after_sha256": "02F71BE4679AEAE721AC395D8725616DB00FBECEADF90F368498802CDD7CF0B3",
+      "before_sha256": "02F71BE4679AEAE721AC395D8725616DB00FBECEADF90F368498802CDD7CF0B3",
+      "state": "identical",
+      "entry": "data/witherskyru/vanilla-names.tsv"
+    },
+    {
+      "after_sha256": "B0CE5A2237B83DA05411BAF0055A8EB862B96C860E21DE29C5F90BDA02748B4D",
+      "before_sha256": "B0CE5A2237B83DA05411BAF0055A8EB862B96C860E21DE29C5F90BDA02748B4D",
+      "state": "identical",
+      "entry": "data/witherskyru/winter-dialogues.json"
+    },
+    {
+      "after_sha256": "BBF31F91C70F36A0A1202A16652BD5DC654A524A2A1539D13059BCFAD9B63C4F",
+      "before_sha256": "DB1B1E11F186F01E30DF4E822CB0C6EFC4F556255DFA5C76278435E4C3D9C5EA",
+      "state": "changed",
+      "entry": "fabric.mod.json"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "META-INF/"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "META-INF/licenses/"
+    },
+    {
+      "after_sha256": "262481E844521B326F5ECD053E59B98C8B2DA78C8EE1BDBB6E8174305E54935A",
+      "before_sha256": "262481E844521B326F5ECD053E59B98C8B2DA78C8EE1BDBB6E8174305E54935A",
+      "state": "identical",
+      "entry": "META-INF/licenses/Inter-OFL-1.1.txt"
+    },
+    {
+      "after_sha256": "97D8EA7C90705B9B75E67399EAC0B1995560E77FC2DAFF1C2F08610CB0ADE2DC",
+      "before_sha256": "97D8EA7C90705B9B75E67399EAC0B1995560E77FC2DAFF1C2F08610CB0ADE2DC",
+      "state": "identical",
+      "entry": "META-INF/licenses/NEU-MIT.txt"
+    },
+    {
+      "after_sha256": "3A8C653E53042133ED55015B52BDDD8EEC615E4EF12C427EF316E33D49563A04",
+      "before_sha256": "3A8C653E53042133ED55015B52BDDD8EEC615E4EF12C427EF316E33D49563A04",
+      "state": "identical",
+      "entry": "META-INF/MANIFEST.MF"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "ru/"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "ru/wither/"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "ru/wither/skyru/"
+    },
+    {
+      "after_sha256": "5FE434334332DAC7471DCA5E6337FB08FBF888219888C859A77B071C6E2BD5D1",
+      "before_sha256": "5FE434334332DAC7471DCA5E6337FB08FBF888219888C859A77B071C6E2BD5D1",
+      "state": "identical",
+      "entry": "ru/wither/skyru/BoosterUpgradeLore.class"
+    },
+    {
+      "after_sha256": "46B9F373C14F5CE59C542A742CE9F9C97FF7348D5AB422E24B1E040D7C2FF69A",
+      "before_sha256": "46B9F373C14F5CE59C542A742CE9F9C97FF7348D5AB422E24B1E040D7C2FF69A",
+      "state": "identical",
+      "entry": "ru/wither/skyru/BoosterUpgradeLore$Group.class"
+    },
+    {
+      "after_sha256": "DB5BDF402339BBED5A772C7405131C1DBC9AFB0EC431394112DC0D60C982F28B",
+      "before_sha256": "DB5BDF402339BBED5A772C7405131C1DBC9AFB0EC431394112DC0D60C982F28B",
+      "state": "identical",
+      "entry": "ru/wither/skyru/BoosterUpgradeLore$Match.class"
+    },
+    {
+      "after_sha256": "7B94ADEF63117A3310AF2CB4086D9A57D6439CF05301F3F6F2DBBA0AABC598BD",
+      "before_sha256": "7B94ADEF63117A3310AF2CB4086D9A57D6439CF05301F3F6F2DBBA0AABC598BD",
+      "state": "identical",
+      "entry": "ru/wither/skyru/BoosterUpgradeLore$Piece.class"
+    },
+    {
+      "after_sha256": "A94D49567E6261AFAF8E5DC9142927379D509288C7F9CBE48D5908395A97EDF5",
+      "before_sha256": "A94D49567E6261AFAF8E5DC9142927379D509288C7F9CBE48D5908395A97EDF5",
+      "state": "identical",
+      "entry": "ru/wither/skyru/BoundedCache.class"
+    },
+    {
+      "after_sha256": "4311CB3161900052C81468340793C8135966D397CB31CDFE94F1EDA1A6DCD3AA",
+      "before_sha256": "4311CB3161900052C81468340793C8135966D397CB31CDFE94F1EDA1A6DCD3AA",
+      "state": "identical",
+      "entry": "ru/wither/skyru/BoundedCache$1.class"
+    },
+    {
+      "after_sha256": "7EF0BF2E50094AC390136900843E86E26A058CDD916902F26B6B5F1813F12EB8",
+      "before_sha256": "7EF0BF2E50094AC390136900843E86E26A058CDD916902F26B6B5F1813F12EB8",
+      "state": "identical",
+      "entry": "ru/wither/skyru/CalendarLabels.class"
+    },
+    {
+      "after_sha256": "EE56B5E19C4FFA3A5CB6AA48A983137FA097D32E8416CC6CDDE424CD0E2D3C84",
+      "before_sha256": "2D65C936DADE808D817B6C64463054720D363C371FA72545BE5B53248983CFF8",
+      "state": "changed",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator.class"
+    },
+    {
+      "after_sha256": "8CA5A03B9A98782B1552A27DEC1ED481F0FC7293E512CA69A8AA0854F21DF031",
+      "before_sha256": "8B208FC8E8C6FFEF028D08FA078F64A4A2B3648C1BFC2259700667C4C71161A9",
+      "state": "changed",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Atom.class"
+    },
+    {
+      "after_sha256": "8E47374762B4D01267DB542EE0FCF660586A7B20004EEFD33C79294BEF28880A",
+      "before_sha256": "79A274C488729BECB47100F582019CCABB36016EBED961ACAB062E00E45A64D7",
+      "state": "changed",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Edit.class"
+    },
+    {
+      "after_sha256": "D3B4F3BC105E7365713CDB620D0C926B7B3F9EE8EFF672E5DF7B5548411C05D0",
+      "before_sha256": "7E74CBBF643DE69E9359CF79312CBA2DEB64D5A8ED67AC891DD38628A58E1F0F",
+      "state": "changed",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Part.class"
+    },
+    {
+      "after_sha256": "C47DAED45C98E64642CD921674346655F968980255B3425C6980071AA07F8C2A",
+      "before_sha256": "211688E2FBA605B9663D7E80675480BCDC3D8092C50B81DCE34EC54B5A4F114B",
+      "state": "changed",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$QuizLine66.class"
+    },
+    {
+      "after_sha256": "389C2D24C92EFCF699D011E056460B946432DF00E869A1EF02AF4ABC79033EC6",
+      "before_sha256": "389C2D24C92EFCF699D011E056460B946432DF00E869A1EF02AF4ABC79033EC6",
+      "state": "identical",
+      "entry": "ru/wither/skyru/CollectionContributors.class"
+    },
+    {
+      "after_sha256": "C26ED3204EFD6714D69894B256C81F3A595B02FBB066C471960053A302E3F1E8",
+      "before_sha256": "C26ED3204EFD6714D69894B256C81F3A595B02FBB066C471960053A302E3F1E8",
+      "state": "identical",
+      "entry": "ru/wither/skyru/CommissionInstructions.class"
+    },
+    {
+      "after_sha256": "FF14BF4B40559C90FE6C9B802B6047EC7C6BDC62E3F1ADA1931A57AD6928D6CA",
+      "before_sha256": "FF14BF4B40559C90FE6C9B802B6047EC7C6BDC62E3F1ADA1931A57AD6928D6CA",
+      "state": "identical",
+      "entry": "ru/wither/skyru/CompatibilityMixinPlugin.class"
+    },
+    {
+      "after_sha256": "940D0B7391C3308BCBEE8654CFE4F610E7CE34280B94CA41B8F2F2A84A112407",
+      "before_sha256": "940D0B7391C3308BCBEE8654CFE4F610E7CE34280B94CA41B8F2F2A84A112407",
+      "state": "identical",
+      "entry": "ru/wither/skyru/CustomScoreboardBudget.class"
+    },
+    {
+      "after_sha256": "708BA5C84429324EC6A38741824E4BD9FFA93BA91FEA6655E9A33C3102CBE9BC",
+      "before_sha256": "708BA5C84429324EC6A38741824E4BD9FFA93BA91FEA6655E9A33C3102CBE9BC",
+      "state": "identical",
+      "entry": "ru/wither/skyru/DisplayDates.class"
+    },
+    {
+      "after_sha256": "1C66EF6FDE8FAD803B6FDA439594D70FC091E30000814BEC737F2FF052DEE305",
+      "before_sha256": "1C66EF6FDE8FAD803B6FDA439594D70FC091E30000814BEC737F2FF052DEE305",
+      "state": "identical",
+      "entry": "ru/wither/skyru/DisplayDates$Month.class"
+    },
+    {
+      "after_sha256": "305F55748907C851100D3C7C863923310EFEBA478E64230561CEC7DD0BB2EB41",
+      "before_sha256": "305F55748907C851100D3C7C863923310EFEBA478E64230561CEC7DD0BB2EB41",
+      "state": "identical",
+      "entry": "ru/wither/skyru/DisplayNoop.class"
+    },
+    {
+      "after_sha256": "97B21A906404739A4666DA281B53761A29BAB2A9D1E99C3D61CC00BD5428384D",
+      "before_sha256": "97B21A906404739A4666DA281B53761A29BAB2A9D1E99C3D61CC00BD5428384D",
+      "state": "identical",
+      "entry": "ru/wither/skyru/DungeonUiLabels.class"
+    },
+    {
+      "after_sha256": "C3EADFC93496AA2A90C4BD774DDD29D18BDCA845446AEB982FD0489F6E0FF4ED",
+      "before_sha256": "C3EADFC93496AA2A90C4BD774DDD29D18BDCA845446AEB982FD0489F6E0FF4ED",
+      "state": "identical",
+      "entry": "ru/wither/skyru/DurationLabels.class"
+    },
+    {
+      "after_sha256": "6ED6BD493355BD64E95010327B128867D21D0A641A78ED2DCE6EEEA05A447A78",
+      "before_sha256": "6ED6BD493355BD64E95010327B128867D21D0A641A78ED2DCE6EEEA05A447A78",
+      "state": "identical",
+      "entry": "ru/wither/skyru/EditorialContext.class"
+    },
+    {
+      "after_sha256": "1746072B4C508779D69378F009406B9522BB39055B03835B0442A297350E7828",
+      "before_sha256": "1746072B4C508779D69378F009406B9522BB39055B03835B0442A297350E7828",
+      "state": "identical",
+      "entry": "ru/wither/skyru/EditorialContext$Closed.class"
+    },
+    {
+      "after_sha256": "C0A7A9AE37C769518E25CCC269C7A0B9B0F48227CC1DD0D3D3F7C7F3754FE994",
+      "before_sha256": "C0A7A9AE37C769518E25CCC269C7A0B9B0F48227CC1DD0D3D3F7C7F3754FE994",
+      "state": "identical",
+      "entry": "ru/wither/skyru/EditorialContext$Edit.class"
+    },
+    {
+      "after_sha256": "F59AD875E0DD538656327EF13CD76FB5F7A43A47C0F9CBCF7D42B3B7BD2A5DBD",
+      "before_sha256": "F59AD875E0DD538656327EF13CD76FB5F7A43A47C0F9CBCF7D42B3B7BD2A5DBD",
+      "state": "identical",
+      "entry": "ru/wither/skyru/EnchantBookFooter.class"
+    },
+    {
+      "after_sha256": "656415126EF9D0D08653D56137C7FD4B1390FF0129F65436D06642D5576764A8",
+      "before_sha256": "656415126EF9D0D08653D56137C7FD4B1390FF0129F65436D06642D5576764A8",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ExperimentDisplay.class"
+    },
+    {
+      "after_sha256": "064C651D0A45FEF54F4AEB05A28B14C2313C0E2EE250D63E92DA5770AFFAA232",
+      "before_sha256": "064C651D0A45FEF54F4AEB05A28B14C2313C0E2EE250D63E92DA5770AFFAA232",
+      "state": "identical",
+      "entry": "ru/wither/skyru/HudTextFit.class"
+    },
+    {
+      "after_sha256": "BF8F17E7EFFF53EF034C0437C2F4EE1405C107987FB0A6B520670CD8F9B09FF1",
+      "before_sha256": "BF8F17E7EFFF53EF034C0437C2F4EE1405C107987FB0A6B520670CD8F9B09FF1",
+      "state": "identical",
+      "entry": "ru/wither/skyru/HudTextFit$1.class"
+    },
+    {
+      "after_sha256": "08E536424086CFEF80EE1C33D580E21CC426B70E61174FA9BA12D9C8F645041B",
+      "before_sha256": "08E536424086CFEF80EE1C33D580E21CC426B70E61174FA9BA12D9C8F645041B",
+      "state": "identical",
+      "entry": "ru/wither/skyru/InterfaceDisplay.class"
+    },
+    {
+      "after_sha256": "4721F69FBB56731B913A73D0FEAF2D1C50C1D43CEC6AB9F64809608F2738B20A",
+      "before_sha256": "4721F69FBB56731B913A73D0FEAF2D1C50C1D43CEC6AB9F64809608F2738B20A",
+      "state": "identical",
+      "entry": "ru/wither/skyru/KnownPetNames.class"
+    },
+    {
+      "after_sha256": "630D769A27CE8156EEAD0704DD263C71D3298C4C82E8D37F2F8E5A3B93D308AE",
+      "before_sha256": "630D769A27CE8156EEAD0704DD263C71D3298C4C82E8D37F2F8E5A3B93D308AE",
+      "state": "identical",
+      "entry": "ru/wither/skyru/LegacyFormatting.class"
+    },
+    {
+      "after_sha256": "DC8F1F24D60978E131F849138CB02C18C6B13141C9707207419AD9F220603419",
+      "before_sha256": "DC8F1F24D60978E131F849138CB02C18C6B13141C9707207419AD9F220603419",
+      "state": "identical",
+      "entry": "ru/wither/skyru/MiningInstructions.class"
+    },
+    {
+      "after_sha256": "E9BA27D7B14754E0F70D68FF4EA7CE198D4D4B7BD15A768FF0A9B4F64C3DB7F3",
+      "before_sha256": "E9BA27D7B14754E0F70D68FF4EA7CE198D4D4B7BD15A768FF0A9B4F64C3DB7F3",
+      "state": "identical",
+      "entry": "ru/wither/skyru/MinionNameTranslation.class"
+    },
+    {
+      "after_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "before_sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/"
+    },
+    {
+      "after_sha256": "F1821068630445B198A4CBB870FD22A026A3CF013F0EB110FEA97A3B2685F6B4",
+      "before_sha256": "F1821068630445B198A4CBB870FD22A026A3CF013F0EB110FEA97A3B2685F6B4",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/ContainerScreenAccessor.class"
+    },
+    {
+      "after_sha256": "6F8C37314B307D618FAF791B5BC595EDF8DF87116EB26C51E46FA52D3A7366B3",
+      "before_sha256": "6F8C37314B307D618FAF791B5BC595EDF8DF87116EB26C51E46FA52D3A7366B3",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/DebugTextMixin.class"
+    },
+    {
+      "after_sha256": "86FD0436292F5AD0EB6C4408BA4FF6B261C28E692D667045643CD9CD484391EB",
+      "before_sha256": "86FD0436292F5AD0EB6C4408BA4FF6B261C28E692D667045643CD9CD484391EB",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/GuiTextMixin.class"
+    },
+    {
+      "after_sha256": "B8B06F96E2ECEE366779CE92F651FA3B46613CFEBB44FE038CA6E7C926B20CC4",
+      "before_sha256": "B8B06F96E2ECEE366779CE92F651FA3B46613CFEBB44FE038CA6E7C926B20CC4",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/HudCollectorMixin.class"
+    },
+    {
+      "after_sha256": "713A8491148608B3468E58A00E3D5E6BF43A54718725CB18618038ADC96DAA3F",
+      "before_sha256": "713A8491148608B3468E58A00E3D5E6BF43A54718725CB18618038ADC96DAA3F",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/MinionNameTagMixin.class"
+    },
+    {
+      "after_sha256": "43162738ADB1A84C695D1147E5408EEC3507196BE0D8E1BCDF953D153DABB4D2",
+      "before_sha256": "43162738ADB1A84C695D1147E5408EEC3507196BE0D8E1BCDF953D153DABB4D2",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/NpcChatMixin.class"
+    },
+    {
+      "after_sha256": "56DDCA4CDD875395DF39A7501AB9D42F11CB7F5ABA357DDEE761B0E6BB4AACCF",
+      "before_sha256": "56DDCA4CDD875395DF39A7501AB9D42F11CB7F5ABA357DDEE761B0E6BB4AACCF",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/OptionsMenuMixin.class"
+    },
+    {
+      "after_sha256": "D72BCD15A4AF7E7139D36B0B54DF052F3B84842F48328A52D824DC78593BE875",
+      "before_sha256": "D72BCD15A4AF7E7139D36B0B54DF052F3B84842F48328A52D824DC78593BE875",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/Overhaul151BudgetMixin.class"
+    },
+    {
+      "after_sha256": "A6068A26757CC1C8B24332AEAF9D51EE0F0FF03BD0F634DC557445C6AF16582C",
+      "before_sha256": "A6068A26757CC1C8B24332AEAF9D51EE0F0FF03BD0F634DC557445C6AF16582C",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/OverhaulBudgetMixin.class"
+    },
+    {
+      "after_sha256": "CBB31127E3A270E5A5A43900CEAC9C62B35ECCDE5C22F21497B7C4E327274CAB",
+      "before_sha256": "CBB31127E3A270E5A5A43900CEAC9C62B35ECCDE5C22F21497B7C4E327274CAB",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/RrvSearchMixin.class"
+    },
+    {
+      "after_sha256": "EBDD6039BB462DDB099EBE5C18219F74D1881A4C4EC1B0AB64138D3967FBA5F0",
+      "before_sha256": "EBDD6039BB462DDB099EBE5C18219F74D1881A4C4EC1B0AB64138D3967FBA5F0",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/SignSearchMixin.class"
+    },
+    {
+      "after_sha256": "50D5844AEB278440A121FAEAA1D189D8E1C399A3A3588993047F3A31810242D9",
+      "before_sha256": "50D5844AEB278440A121FAEAA1D189D8E1C399A3A3588993047F3A31810242D9",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/SkyblockerSearchMixin.class"
+    },
+    {
+      "after_sha256": "8BDD77C980D974BC3CCB5A3980C0F6586B79A2C546D4D5D04F9C2967CC9B5A4A",
+      "before_sha256": "8BDD77C980D974BC3CCB5A3980C0F6586B79A2C546D4D5D04F9C2967CC9B5A4A",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/SkyRecipesSearchMixin.class"
+    },
+    {
+      "after_sha256": "B57A78D75449F905F0CEED44E1F6F8E647B6D314A4EF71F1F77CE5D09B27840A",
+      "before_sha256": "B57A78D75449F905F0CEED44E1F6F8E647B6D314A4EF71F1F77CE5D09B27840A",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/TextTooltipAccessor.class"
+    },
+    {
+      "after_sha256": "3AF57B654C25835ADBC6D451728D2489C007391BE46CEBFB730C945C4544AB0B",
+      "before_sha256": "3AF57B654C25835ADBC6D451728D2489C007391BE46CEBFB730C945C4544AB0B",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/TooltipMixin.class"
+    },
+    {
+      "after_sha256": "3DA0FB92F590CF3F08F289401A8C6F85759DC7D87FB7A780C1DD21833126277E",
+      "before_sha256": "3DA0FB92F590CF3F08F289401A8C6F85759DC7D87FB7A780C1DD21833126277E",
+      "state": "identical",
+      "entry": "ru/wither/skyru/mixin/WidgetMixin.class"
+    },
+    {
+      "after_sha256": "1E4F6955AC5D016EE34629F69EABECB697BA9F0F2B397141677F0F3085D62DE4",
+      "before_sha256": "1C1F814A318F26C1AFD65C052FA5AC66E84E71EDA73CBC0720C4FD3D4C315A14",
+      "state": "changed",
+      "entry": "ru/wither/skyru/NpcDialogueTranslator.class"
+    },
+    {
+      "after_sha256": "528C2605C0A0A7F5914236F8DCB9A043BF11A397225B4BBB9AF1A8C5639459E1",
+      "before_sha256": "528C2605C0A0A7F5914236F8DCB9A043BF11A397225B4BBB9AF1A8C5639459E1",
+      "state": "identical",
+      "entry": "ru/wither/skyru/NpcDialogueTranslator$Anchor.class"
+    },
+    {
+      "after_sha256": "6FB2E50460C9E1FE9DEDD32E80E17FE838F4AA470AFB3A7F4E6BBC61B41A1D8F",
+      "before_sha256": "6FB2E50460C9E1FE9DEDD32E80E17FE838F4AA470AFB3A7F4E6BBC61B41A1D8F",
+      "state": "identical",
+      "entry": "ru/wither/skyru/NpcDialogueTranslator$Entry.class"
+    },
+    {
+      "after_sha256": "5E5D71C470C8AC49CE7A6272DF0B4C454E0015F1063AD8CAF6484422D85ADBF5",
+      "before_sha256": "5E5D71C470C8AC49CE7A6272DF0B4C454E0015F1063AD8CAF6484422D85ADBF5",
+      "state": "identical",
+      "entry": "ru/wither/skyru/NpcDialogueTranslator$Region.class"
+    },
+    {
+      "after_sha256": "F4C748C60145AFA864A4258F398061B81EAAE0A22830F836371199F9568DE5F3",
+      "before_sha256": "F4C748C60145AFA864A4258F398061B81EAAE0A22830F836371199F9568DE5F3",
+      "state": "identical",
+      "entry": "ru/wither/skyru/NpcDialogueTranslator$Resolved.class"
+    },
+    {
+      "after_sha256": "0FBCEAE57CBE37D65356F384C4F7228B1E12058471E5D659BE1B8C3F5F7C1F7E",
+      "before_sha256": "0FBCEAE57CBE37D65356F384C4F7228B1E12058471E5D659BE1B8C3F5F7C1F7E",
+      "state": "identical",
+      "entry": "ru/wither/skyru/NpcDialogueTranslator$Span.class"
+    },
+    {
+      "after_sha256": "799003860C69EE9795F1184C887B694D2393944EB79B8D61E5A94ECCB7C0A8B4",
+      "before_sha256": null,
+      "state": "added",
+      "entry": "ru/wither/skyru/NpcInteractionLabel.class"
+    },
+    {
+      "after_sha256": "9E089FCB876477CC4EE7F32164F860743ADAAC94E5CAE9B917B5CC3004319ED4",
+      "before_sha256": "9E089FCB876477CC4EE7F32164F860743ADAAC94E5CAE9B917B5CC3004319ED4",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OfflineDictionary.class"
+    },
+    {
+      "after_sha256": "53CD0513048036C2618872DAF2BDC9E62F0E56BA7162BA2FAAA2759491123BAF",
+      "before_sha256": "53CD0513048036C2618872DAF2BDC9E62F0E56BA7162BA2FAAA2759491123BAF",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OfflineDictionary$1.class"
+    },
+    {
+      "after_sha256": "D7151D02DAC3B2E2CA664E52A512E1BA00DA4453078626CD80A2DA20C6FCE130",
+      "before_sha256": "D7151D02DAC3B2E2CA664E52A512E1BA00DA4453078626CD80A2DA20C6FCE130",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OfflineDictionary$2.class"
+    },
+    {
+      "after_sha256": "B73B0C62D75F6CCF7E7CB3171CEEF57D23615BAF63ACCD66277543BD6C75B99A",
+      "before_sha256": "B73B0C62D75F6CCF7E7CB3171CEEF57D23615BAF63ACCD66277543BD6C75B99A",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OfflineDictionary$ReorderedTitle.class"
+    },
+    {
+      "after_sha256": "1E063ABD926786E78848C76E2239CEECA11D791A2F73C51DFE09C939CF10C7DF",
+      "before_sha256": "1E063ABD926786E78848C76E2239CEECA11D791A2F73C51DFE09C939CF10C7DF",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OfflineDictionary$Rule.class"
+    },
+    {
+      "after_sha256": "01F1FB88E4969578FB0A3C5B4FE52F04072413D74D53E6F3204E92EAFC5D21B4",
+      "before_sha256": "01F1FB88E4969578FB0A3C5B4FE52F04072413D74D53E6F3204E92EAFC5D21B4",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OfflineDictionary$TitleEdit.class"
+    },
+    {
+      "after_sha256": "9BD4C0B5D907117AE8B468DA93412DD8B105A2D72A4E67906756112A84EB8DE6",
+      "before_sha256": "9BD4C0B5D907117AE8B468DA93412DD8B105A2D72A4E67906756112A84EB8DE6",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OriginalItemTitle.class"
+    },
+    {
+      "after_sha256": "75E88A259C20AB55D5F8AEB9344D7A35E4E0EF42C125ACDB886A266918B14BFD",
+      "before_sha256": "75E88A259C20AB55D5F8AEB9344D7A35E4E0EF42C125ACDB886A266918B14BFD",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OriginalItemTitle$OriginalSequence.class"
+    },
+    {
+      "after_sha256": "85B8DAA761DA08E9D89D684063AAE0CF0D4B2D57C7727CC80FD3125008164CAD",
+      "before_sha256": "85B8DAA761DA08E9D89D684063AAE0CF0D4B2D57C7727CC80FD3125008164CAD",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OverhaulTextBudget.class"
+    },
+    {
+      "after_sha256": "7C3D0ADD9A25D71EE1EDCD629571D9AE99C76EB588391DC867177CE21C3632DF",
+      "before_sha256": "7C3D0ADD9A25D71EE1EDCD629571D9AE99C76EB588391DC867177CE21C3632DF",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OverhaulTextBudget$1.class"
+    },
+    {
+      "after_sha256": "CF1F351F905CBDB794B2F07DB29354758278E4CB97EF2CB7D6BBF8391EC989AB",
+      "before_sha256": "CF1F351F905CBDB794B2F07DB29354758278E4CB97EF2CB7D6BBF8391EC989AB",
+      "state": "identical",
+      "entry": "ru/wither/skyru/OverhaulTextBudget$Bounds.class"
+    },
+    {
+      "after_sha256": "E6B0B24B3D2DFB8E80A8917E5699BEFBD4B8C5795D7FAB807A08A5E702465B80",
+      "before_sha256": "E6B0B24B3D2DFB8E80A8917E5699BEFBD4B8C5795D7FAB807A08A5E702465B80",
+      "state": "identical",
+      "entry": "ru/wither/skyru/PlayerNames.class"
+    },
+    {
+      "after_sha256": "C64A3BE1AF5EF7F9321F83D80AC32BB8919B52A03C5A96FBC80FB53DF066EA42",
+      "before_sha256": "C64A3BE1AF5EF7F9321F83D80AC32BB8919B52A03C5A96FBC80FB53DF066EA42",
+      "state": "identical",
+      "entry": "ru/wither/skyru/PlayerNames$NameIndex.class"
+    },
+    {
+      "after_sha256": "D09EA9D88D41B4A9F97F3402BF05524B349021920C0974E333A9CA3C927665F2",
+      "before_sha256": "D09EA9D88D41B4A9F97F3402BF05524B349021920C0974E333A9CA3C927665F2",
+      "state": "identical",
+      "entry": "ru/wither/skyru/PowerStoneTranslation.class"
+    },
+    {
+      "after_sha256": "5C78B2483A99E476D28351DF0A480A89E8AAD3F8C5904B9CF49BAF2A78A5A452",
+      "before_sha256": "5C78B2483A99E476D28351DF0A480A89E8AAD3F8C5904B9CF49BAF2A78A5A452",
+      "state": "identical",
+      "entry": "ru/wither/skyru/PowerStoneTranslation$Entry.class"
+    },
+    {
+      "after_sha256": "5BB0B7195297C2CBED3AEA423D648A98E459D76D47A60C671D5D5F9B21BE0494",
+      "before_sha256": "5BB0B7195297C2CBED3AEA423D648A98E459D76D47A60C671D5D5F9B21BE0494",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RenderContext.class"
+    },
+    {
+      "after_sha256": "06720C41D8AC9BF163358E258BF1EC3E64AB87A5A9F94F4DB695662A9A85DA14",
+      "before_sha256": "06720C41D8AC9BF163358E258BF1EC3E64AB87A5A9F94F4DB695662A9A85DA14",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RenderContext$1.class"
+    },
+    {
+      "after_sha256": "1EB1344253E2066B3C9E255D57BF15ED475AE4E1D7BC6D9D09639A477787023C",
+      "before_sha256": "1EB1344253E2066B3C9E255D57BF15ED475AE4E1D7BC6D9D09639A477787023C",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RenderContext$Scope.class"
+    },
+    {
+      "after_sha256": "322DEEF14B7371A0796D5B97CCD91DAB209DDBBF308D47D0827A3ACA14D1DC88",
+      "before_sha256": "322DEEF14B7371A0796D5B97CCD91DAB209DDBBF308D47D0827A3ACA14D1DC88",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RenderContext$Snapshot.class"
+    },
+    {
+      "after_sha256": "E9981C66EDE4F32F373D9CCFB0E01165206BF6323B4BB5ADF03668BA0735B472",
+      "before_sha256": "E9981C66EDE4F32F373D9CCFB0E01165206BF6323B4BB5ADF03668BA0735B472",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RequirementTranslation.class"
+    },
+    {
+      "after_sha256": "10CCF1AFC0280D9932FA67612E8BBF5A19A5BBE2A4AC82BBE62C7F23FACCA5F1",
+      "before_sha256": "10CCF1AFC0280D9932FA67612E8BBF5A19A5BBE2A4AC82BBE62C7F23FACCA5F1",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles.class"
+    },
+    {
+      "after_sha256": "764FA602637456EC13BF9B0FB0C24B55D75C220F2E2E1AC85D872D9806724875",
+      "before_sha256": "764FA602637456EC13BF9B0FB0C24B55D75C220F2E2E1AC85D872D9806724875",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles$Candidate.class"
+    },
+    {
+      "after_sha256": "A4A3C756011D53109576DAC28C038A2DB8EE4F2897CDC67EB68228AA681FBD6C",
+      "before_sha256": "A4A3C756011D53109576DAC28C038A2DB8EE4F2897CDC67EB68228AA681FBD6C",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles$Group.class"
+    },
+    {
+      "after_sha256": "0F4D6221103226FF36D46D96E0AB845F72D7C1E23AE871998E3263BA0D5E996A",
+      "before_sha256": "0F4D6221103226FF36D46D96E0AB845F72D7C1E23AE871998E3263BA0D5E996A",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles$GroupIndex.class"
+    },
+    {
+      "after_sha256": "ED81CFAB9F5734261DE18822AD4F5A97FCA357EA1DC8E0F1D60B51DD21AAE89C",
+      "before_sha256": "ED81CFAB9F5734261DE18822AD4F5A97FCA357EA1DC8E0F1D60B51DD21AAE89C",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles$Match.class"
+    },
+    {
+      "after_sha256": "88846A974EE651ACE78C9F13E3AC7A28C8C884048DE1D65931FD4F6AD79F2194",
+      "before_sha256": "88846A974EE651ACE78C9F13E3AC7A28C8C884048DE1D65931FD4F6AD79F2194",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles$Part.class"
+    },
+    {
+      "after_sha256": "FC279F1A42D15E2B928EC612763858120FC3CD54BA948C56AF4B441BF5987321",
+      "before_sha256": "FC279F1A42D15E2B928EC612763858120FC3CD54BA948C56AF4B441BF5987321",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles$PrefixBuilder.class"
+    },
+    {
+      "after_sha256": "B29B64032057D721E8408E047BA198BC950A90C851672153F4C4883493DBA94B",
+      "before_sha256": "B29B64032057D721E8408E047BA198BC950A90C851672153F4C4883493DBA94B",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles$PrefixNode.class"
+    },
+    {
+      "after_sha256": "F716F76B57807F80615127DC302007BC73C0D13CD80AA9E8A586E19AC8EFAF43",
+      "before_sha256": "F716F76B57807F80615127DC302007BC73C0D13CD80AA9E8A586E19AC8EFAF43",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ReviewedLoreStyles$Row.class"
+    },
+    {
+      "after_sha256": "6C87AD98356F455383A98603A97737684E074E1F8507AA409E302A00D9F227AB",
+      "before_sha256": "6C87AD98356F455383A98603A97737684E074E1F8507AA409E302A00D9F227AB",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RussianItemNameIndex.class"
+    },
+    {
+      "after_sha256": "5CA08795E03F7C629934A150E5FA84418B34EB2463496F771D2CC6CDF74EEA8D",
+      "before_sha256": "5CA08795E03F7C629934A150E5FA84418B34EB2463496F771D2CC6CDF74EEA8D",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RussianItemNameIndex$1.class"
+    },
+    {
+      "after_sha256": "4A618A355FB45082E91FE9AE8717F65AA567452A682A5CE228747C665B8E23BC",
+      "before_sha256": "4A618A355FB45082E91FE9AE8717F65AA567452A682A5CE228747C665B8E23BC",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RussianSearchAliases.class"
+    },
+    {
+      "after_sha256": "8D1FD4D9C57058AA0C5D632013E835475FB4DD016C8419E9BA8754F207633F0A",
+      "before_sha256": "8D1FD4D9C57058AA0C5D632013E835475FB4DD016C8419E9BA8754F207633F0A",
+      "state": "identical",
+      "entry": "ru/wither/skyru/RussianSearchAliases$1.class"
+    },
+    {
+      "after_sha256": "3A9A47973D89D2A425A373E0E16D5832CEF67FA96DF5455284FE5792176FE1B6",
+      "before_sha256": "3A9A47973D89D2A425A373E0E16D5832CEF67FA96DF5455284FE5792176FE1B6",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ScreenLabels.class"
+    },
+    {
+      "after_sha256": "DA69BDA4C30D0BC1D3A3161BC57AB48E2A83CE841AE41244E29BD8A642572F70",
+      "before_sha256": "DA69BDA4C30D0BC1D3A3161BC57AB48E2A83CE841AE41244E29BD8A642572F70",
+      "state": "identical",
+      "entry": "ru/wither/skyru/ScreenLabels$Label.class"
+    },
+    {
+      "after_sha256": "F2432BACA06AFA9685621A44D2A2E04952A7D13C40F50F901A008F875B5DED99",
+      "before_sha256": "F2432BACA06AFA9685621A44D2A2E04952A7D13C40F50F901A008F875B5DED99",
+      "state": "identical",
+      "entry": "ru/wither/skyru/SignSearchNames.class"
+    },
+    {
+      "after_sha256": "836F7D648C162E7E3A3EFC9E40571CDFA809511F2D20D107C8F7FFC43773BB43",
+      "before_sha256": "836F7D648C162E7E3A3EFC9E40571CDFA809511F2D20D107C8F7FFC43773BB43",
+      "state": "identical",
+      "entry": "ru/wither/skyru/SignSearchNames$Name.class"
+    },
+    {
+      "after_sha256": "1222D50A317BAD7E7A1D3B21DBF250D745BAEA893B451FCCC17A8408F5B39F52",
+      "before_sha256": "1222D50A317BAD7E7A1D3B21DBF250D745BAEA893B451FCCC17A8408F5B39F52",
+      "state": "identical",
+      "entry": "ru/wither/skyru/SkillLabelTranslation.class"
+    },
+    {
+      "after_sha256": "D697A8CB7B75D75B919BA2F4C0F62942C8C136169919ADFE3D48881D08872CB2",
+      "before_sha256": "D697A8CB7B75D75B919BA2F4C0F62942C8C136169919ADFE3D48881D08872CB2",
+      "state": "identical",
+      "entry": "ru/wither/skyru/SkyBlockBrand.class"
+    },
+    {
+      "after_sha256": "23735831CA3C94ED832A0651229FC0C86176CCBCD037A5C1845FE78BE5E17250",
+      "before_sha256": "615FD826CD738A8B35BC1358F100E890E43686B83F252B28B93368C2CEDD68F4",
+      "state": "changed",
+      "entry": "ru/wither/skyru/SkyRuClient.class"
+    },
+    {
+      "after_sha256": "A6AAB6B21B4C62AE800D911A9169384531B516EA433FE10E0E91C9FB4544D890",
+      "before_sha256": "A6AAB6B21B4C62AE800D911A9169384531B516EA433FE10E0E91C9FB4544D890",
+      "state": "identical",
+      "entry": "ru/wither/skyru/SkyRuSettingsScreen.class"
+    },
+    {
+      "after_sha256": "16BF954FCDC9CF2A54142BDC9CCACC10BEB4C8C9D56AC36F26EF83F9639B7E1D",
+      "before_sha256": "16BF954FCDC9CF2A54142BDC9CCACC10BEB4C8C9D56AC36F26EF83F9639B7E1D",
+      "state": "identical",
+      "entry": "ru/wither/skyru/StyledItemTitle.class"
+    },
+    {
+      "after_sha256": "2413DE42013265CCB18E25C36088C4920DAD57F22AAE9AAA6045436E3C74F2F0",
+      "before_sha256": "2413DE42013265CCB18E25C36088C4920DAD57F22AAE9AAA6045436E3C74F2F0",
+      "state": "identical",
+      "entry": "ru/wither/skyru/StyledRuns.class"
+    },
+    {
+      "after_sha256": "5E15566278E1C14D680EEFE030D6F09F0B9B01EF228FEE14ED2D06E7F56B0E0B",
+      "before_sha256": "5E15566278E1C14D680EEFE030D6F09F0B9B01EF228FEE14ED2D06E7F56B0E0B",
+      "state": "identical",
+      "entry": "ru/wither/skyru/StyledRuns$Builder.class"
+    },
+    {
+      "after_sha256": "5ED796E3C7090A4634A13C5DF3E1EA36F7E65E34C996528A013588AB101B357C",
+      "before_sha256": "5ED796E3C7090A4634A13C5DF3E1EA36F7E65E34C996528A013588AB101B357C",
+      "state": "identical",
+      "entry": "ru/wither/skyru/StyledRuns$Run.class"
+    },
+    {
+      "after_sha256": "9856E3642F77B8D66836164E9353FADD9E05500813137ECFC85F1890DA323484",
+      "before_sha256": "9856E3642F77B8D66836164E9353FADD9E05500813137ECFC85F1890DA323484",
+      "state": "identical",
+      "entry": "ru/wither/skyru/TechnicalText.class"
+    },
+    {
+      "after_sha256": "2F46863131BFC80957EFAB83816A14873EF07C01CFCF177C97BD5F2D60863467",
+      "before_sha256": "2F46863131BFC80957EFAB83816A14873EF07C01CFCF177C97BD5F2D60863467",
+      "state": "identical",
+      "entry": "ru/wither/skyru/TechnicalText$Scope.class"
+    },
+    {
+      "after_sha256": "4AEA390EDDA3AFB846EF99DE159B09F30F4D4893EEADBDF073A4DEBD237CE0C4",
+      "before_sha256": "4AEA390EDDA3AFB846EF99DE159B09F30F4D4893EEADBDF073A4DEBD237CE0C4",
+      "state": "identical",
+      "entry": "ru/wither/skyru/TooltipFont.class"
+    },
+    {
+      "after_sha256": "6DAC62E8ABF8660FD51777CEDA44C65E26973808BC6A90AF96682F54C42D370B",
+      "before_sha256": "6DAC62E8ABF8660FD51777CEDA44C65E26973808BC6A90AF96682F54C42D370B",
+      "state": "identical",
+      "entry": "ru/wither/skyru/TooltipFont$Choice.class"
+    },
+    {
+      "after_sha256": "B0114980D1332CFFA59FA37670922864756E87110A2AB4049C4AE3E254C65C9E",
+      "before_sha256": "B0114980D1332CFFA59FA37670922864756E87110A2AB4049C4AE3E254C65C9E",
+      "state": "identical",
+      "entry": "ru/wither/skyru/TooltipTextFit.class"
+    },
+    {
+      "after_sha256": "4395FB0053AF2042D3FC1392878BDEC4B94E287DEC7CD5EDDB3B7E1C8ECBCC1E",
+      "before_sha256": "4395FB0053AF2042D3FC1392878BDEC4B94E287DEC7CD5EDDB3B7E1C8ECBCC1E",
+      "state": "identical",
+      "entry": "ru/wither/skyru/TooltipTextFit$PreparedText.class"
+    },
+    {
+      "after_sha256": "04AF611E7131571B7C14A1BF02FE7E02CEA89F6A113B3B4DD95B5640094D7A04",
+      "before_sha256": "04AF611E7131571B7C14A1BF02FE7E02CEA89F6A113B3B4DD95B5640094D7A04",
+      "state": "identical",
+      "entry": "ru/wither/skyru/TooltipTranslation.class"
+    },
+    {
+      "after_sha256": "26036F25C34E7202303A1A730B71F0613AB98B92B9FB74690128D1FC90A1FE61",
+      "before_sha256": "26036F25C34E7202303A1A730B71F0613AB98B92B9FB74690128D1FC90A1FE61",
+      "state": "identical",
+      "entry": "ru/wither/skyru/TranslationGrammar.class"
+    },
+    {
+      "after_sha256": "5DA1CB1D997029D710516A7478D5BBE91FF62E32B4DAC51FCE6C4B04C4CAE936",
+      "before_sha256": "5DA1CB1D997029D710516A7478D5BBE91FF62E32B4DAC51FCE6C4B04C4CAE936",
+      "state": "identical",
+      "entry": "ru/wither/skyru/UserInputText.class"
+    },
+    {
+      "after_sha256": "7A71E80F47FC9B69E0118613DA3E68EC71314CEB7CCD0D91AF5A50679AACD379",
+      "before_sha256": "7A71E80F47FC9B69E0118613DA3E68EC71314CEB7CCD0D91AF5A50679AACD379",
+      "state": "identical",
+      "entry": "witherskyru.mixins.json"
+    }
+  ],
+  "frame_mixin_context_lore_dictionary_cache_classes_byte_identical": true,
+  "startup_merge_not_ninth_chat_provider": true
+}

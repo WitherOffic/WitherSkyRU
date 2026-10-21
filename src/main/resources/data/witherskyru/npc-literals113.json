@@ -1,0 +1,20 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "One explicitly reviewed X-token false positive:fixed Duke X name,not a variable.",
+  "records": [
+    {
+      "speaker": "Dean",
+      "tag": "NPC",
+      "source": "[NPC] Dean: There is a rogue Barbarian going by the name of Duke X.",
+      "translation": "[NPC] Dean: Есть варвар-отступник по имени Герцог X.",
+      "style_anchors": [
+        {
+          "source": "Duke X",
+          "target": "Герцог X"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Dean?oldid=830417"
+    }
+  ]
+}

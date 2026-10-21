@@ -1,0 +1,14 @@
+{
+  "scope":"Three authored responses instantiated offline only for eighteen explicitly published NPC labels;not a generic translation rule for arbitrary NPCs.",
+  "speakers":["Alwin","Arba","Arbadak","Colore","Ezekiel","Igrupan","Kheharad","Lys","Mage Emissary","Mazakala","Mollim","Offea","Rhanora","Rollim","Scholar Alluin","Seffea","Ulyn","Velyna"],
+  "bodies":{
+    "{value} Intelligence! That's...ok I guess!":"{value} ед. интеллекта! Что ж... сойдёт!",
+    "{value} Intelligence! Wow that's not bad at all!":"{value} ед. интеллекта! Ого, весьма неплохо!",
+    "{value} Intelligence! What, how? Who are you even?":"{value} ед. интеллекта! Что? Как? Да кто ты вообще?"
+  },
+  "capture_contract":{
+    "username":"ASCII Minecraft username,1..16 characters;existing fixed-word exclusions retained",
+    "integer":"1..16 ASCII characters;nonnegative plain integer or correctly comma-grouped integer;no leading zeroes except0",
+    "stat_number":"same bounded integer with optional ASCII sign and one or two decimal places;no exponent or arbitrary prose"
+  }
+}

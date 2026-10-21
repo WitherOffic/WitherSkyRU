@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-14",
+  "screenshot": "codex-clipboard-c8cacd23-4464-4d33-8e40-6d6cbe933a0a.png",
+  "source": "installed latest.log, bounded03:38:58-03:39:10 selected gameplay messages only",
+  "captured_text_sha256": "6C327A98CF0AD4C75340A346F82522A7C95928FD19F0476D91B799D496A1487D",
+  "scope": "Observed text, padding and available legacy codes only; full component styles/actions/channels reconstructed in tests; not all Slayer dialogue",
+  "records": [
+    {
+      "line": 11149,
+      "source_legacy": "[03:38:58] SLAYER BOSS! The Revenant Horror II spawned!"
+    },
+    {
+      "line": 11153,
+      "source_legacy": "[03:39:01] Your Slayer Kill gave you 80 HP healing for 7 seconds!"
+    },
+    {
+      "line": 11154,
+      "source_legacy": "[03:39:02] [SkyHanni] You have gained 5 Bits."
+    },
+    {
+      "line": 11155,
+      "source_legacy": "[03:39:03] [Skyblocker] Slayer убит за 5.43s!"
+    },
+    {
+      "line": 11156,
+      "source_legacy": "[03:39:03]   NICE! SLAYER BOSS SLAIN!"
+    },
+    {
+      "line": 11157,
+      "source_legacy": "[03:39:03]    » Talk to Maddox to claim your Zombie Slayer XP!"
+    },
+    {
+      "line": 11159,
+      "source_legacy": "[03:39:03] ✆ RING... "
+    },
+    {
+      "line": 11164,
+      "source_legacy": "[03:39:04] ✆ RING... RING... "
+    },
+    {
+      "line": 11169,
+      "source_legacy": "[03:39:05] ✆ RING... RING... RING... "
+    },
+    {
+      "line": 11173,
+      "source_legacy": "[03:39:06] [NPC] Maddox: ✆ Someone answers!"
+    },
+    {
+      "line": 11175,
+      "source_legacy": "[03:39:08] [SkyHanni] Slayer quest took §b38s§e to complete."
+    },
+    {
+      "line": 11176,
+      "source_legacy": "[03:39:08] [Skyblocker] Slayer убит за 10.26s!"
+    },
+    {
+      "line": 11177,
+      "source_legacy": "[03:39:08]   SLAYER QUEST COMPLETE!"
+    },
+    {
+      "line": 11178,
+      "source_legacy": "[03:39:08]    Zombie Slayer LVL 3 - Next LVL in 445 XP!"
+    },
+    {
+      "line": 11186,
+      "source_legacy": "[03:39:10]   SLAYER QUEST STARTED!"
+    },
+    {
+      "line": 11187,
+      "source_legacy": "[03:39:10]    §5§l» §7Slay §c1,000 Combat XP §7worth of Zombies§7."
+    }
+  ]
+}

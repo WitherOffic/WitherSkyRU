@@ -1,0 +1,196 @@
+{
+  "checked_client_date": "2026-10-17",
+  "checked_at": "2026-10-17T06:09:31.524535+07:00",
+  "api_urls": [
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Argofay+Bughunter%7CCowboy+Nick%7CDavid+Hunterborough%7CDetective+Amog%7CGuber%7CKysha%7CLoras%7CMaster+Tao%7COdger%7COruo+The+Almighty%7CSirih%7CSorcerer+Okron%7CVelyna%7CWizardman&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2"
+  ],
+  "matches_pinned_corpus": true,
+  "private_or_unpublished_dialogue_known": false,
+  "pages": [
+    {
+      "pageid": 3326,
+      "ns": 0,
+      "title": "Guber",
+      "revisions": [
+        {
+          "revid": 822243,
+          "parentid": 815924,
+          "timestamp": "2026-08-21T21:01:15Z"
+        }
+      ]
+    },
+    {
+      "pageid": 89167,
+      "ns": 0,
+      "title": "Master Tao",
+      "revisions": [
+        {
+          "revid": 789615,
+          "parentid": 718025,
+          "timestamp": "2026-07-24T00:30:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 89991,
+      "ns": 0,
+      "title": "Odger",
+      "revisions": [
+        {
+          "revid": 830470,
+          "parentid": 823145,
+          "timestamp": "2026-09-03T01:29:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91500,
+      "ns": 0,
+      "title": "Velyna",
+      "revisions": [
+        {
+          "revid": 822228,
+          "parentid": 791323,
+          "timestamp": "2026-08-21T20:28:33Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91738,
+      "ns": 0,
+      "title": "Sirih",
+      "revisions": [
+        {
+          "revid": 830492,
+          "parentid": 816353,
+          "timestamp": "2026-09-03T01:32:09Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98636,
+      "ns": 0,
+      "title": "Argofay Bughunter",
+      "revisions": [
+        {
+          "revid": 836553,
+          "parentid": 815462,
+          "timestamp": "2026-09-09T21:27:53Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99750,
+      "ns": 0,
+      "title": "Wizardman",
+      "revisions": [
+        {
+          "revid": 816564,
+          "parentid": 815353,
+          "timestamp": "2026-08-11T20:44:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99900,
+      "ns": 0,
+      "title": "Sorcerer Okron",
+      "revisions": [
+        {
+          "revid": 814805,
+          "parentid": 801905,
+          "timestamp": "2026-08-11T19:52:40Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100464,
+      "ns": 0,
+      "title": "Cowboy Nick",
+      "revisions": [
+        {
+          "revid": 847502,
+          "parentid": 815621,
+          "timestamp": "2026-09-28T13:10:56Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100511,
+      "ns": 0,
+      "title": "Detective Amog",
+      "revisions": [
+        {
+          "revid": 844532,
+          "parentid": 813066,
+          "timestamp": "2026-09-20T15:43:36Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105167,
+      "ns": 0,
+      "title": "Oruo The Almighty",
+      "revisions": [
+        {
+          "revid": 822148,
+          "parentid": 820515,
+          "timestamp": "2026-08-21T16:30:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107210,
+      "ns": 0,
+      "title": "David Hunterborough",
+      "revisions": [
+        {
+          "revid": 856975,
+          "parentid": 856522,
+          "timestamp": "2026-10-12T18:04:16Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107610,
+      "ns": 0,
+      "title": "Loras",
+      "revisions": [
+        {
+          "revid": 846813,
+          "parentid": 789473,
+          "timestamp": "2026-09-26T17:00:21Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107654,
+      "ns": 0,
+      "title": "Kysha",
+      "revisions": [
+        {
+          "revid": 846288,
+          "parentid": 823068,
+          "timestamp": "2026-09-24T23:23:10Z"
+        }
+      ]
+    }
+  ],
+  "expected": {
+    "Argofay Bughunter": 836553,
+    "Cowboy Nick": 847502,
+    "David Hunterborough": 856975,
+    "Detective Amog": 844532,
+    "Guber": 822243,
+    "Kysha": 846288,
+    "Loras": 846813,
+    "Master Tao": 789615,
+    "Odger": 830470,
+    "Oruo The Almighty": 822148,
+    "Sirih": 830492,
+    "Sorcerer Okron": 814805,
+    "Velyna": 822228,
+    "Wizardman": 816564
+  },
+  "differences": {}
+}

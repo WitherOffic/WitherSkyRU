@@ -11,6 +11,15 @@ public class TestHudLayout {
         check(HudTextFit.compact("Шахтёрские задания").equals("Шахт. задания"));
         check(HudTextFit.compact("Титан на жилах у скалы 0.0%").equals("Титан на жилах у скалы 0.0%"));
         check(HudTextFit.scale(0, 50) == 1f);
+        check(HudTextFit.scale(1, 1000) == HudTextFit.MIN_READABLE_SCALE);
+        check(!HudTextFit.canFit(1, 1000));
+        check(!HudTextFit.canFit(80, 200));
+        check(HudTextFit.canFit(100, 110));
+        check(!HudTextFit.canFit(0, 50));
+        check(HudTextFit.fixedWidth(true, false));
+        check(!HudTextFit.fixedWidth(false, true));
+        check(!HudTextFit.fixedWidth(true, true));
+        check(!HudTextFit.fixedWidth(false, false));
         check(HudTextFit.eligibleFrames(List.of("de.hysky.skyblocker.skyblock.tabhud.widget.PowderWidget#render")));
         check(HudTextFit.eligibleFrames(List.of("me.owdding.customscoreboard.core.CustomScoreboardRenderer#onRender")));
         check(HudTextFit.eligibleFrames(List.of("at.hannibal2.skyhanni.utils.render.RenderUtils#draw")));
@@ -21,8 +30,9 @@ public class TestHudLayout {
         for (int oldWidth = 1; oldWidth <= 500; oldWidth++) {
             for (int newWidth : new int[]{0, 1, oldWidth, oldWidth + 1, oldWidth * 3}) {
                 float scale = HudTextFit.scale(oldWidth, newWidth);
-                check(scale > 0 && scale <= 1);
-                check(newWidth * scale <= oldWidth + 0.001f);
+                check(scale >= HudTextFit.MIN_READABLE_SCALE && scale <= 1);
+                if (HudTextFit.canFit(oldWidth, newWidth)) check(newWidth * scale <= oldWidth + 0.001f);
+                else check(newWidth > oldWidth && scale == HudTextFit.MIN_READABLE_SCALE);
                 if (newWidth <= oldWidth) check(scale == 1f);
             }
         }

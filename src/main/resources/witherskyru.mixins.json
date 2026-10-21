@@ -3,6 +3,7 @@
   "minVersion": "0.8.5",
   "package": "ru.wither.skyru.mixin",
   "compatibilityLevel": "JAVA_25",
-  "client": ["GuiTextMixin", "TooltipMixin", "WidgetMixin", "NpcChatMixin", "HudCollectorMixin"],
+  "plugin": "ru.wither.skyru.CompatibilityMixinPlugin",
+  "client": ["GuiTextMixin", "TooltipMixin", "WidgetMixin", "NpcChatMixin", "HudCollectorMixin", "DebugTextMixin", "ChatDrawMixin", "ChatClickableDrawMixin", "TextTooltipAccessor", "RrvSearchMixin", "SkyRecipesSearchMixin", "SkyblockerSearchMixin", "OverhaulBudgetMixin", "Overhaul151BudgetMixin", "ContainerScreenAccessor", "OptionsMenuMixin", "SignSearchMixin", "MinionNameTagMixin"],
   "injectors": { "defaultRequire": 1 }
 }

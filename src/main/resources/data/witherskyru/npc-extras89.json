@@ -1,0 +1,68 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "Two raw-source repairs and one newly published denial;separate from immutable16244 denominator.",
+  "records": [
+    {
+      "source_key": "npc89.extra.0",
+      "speaker": "Molbert",
+      "tag": "NPC",
+      "source": "[NPC] Molbert: I.. I must have slipped by accident and then fell right into the trap! ... Yes, that's what happened!",
+      "translation": "[NPC] Molbert: Я... я, наверное, случайно поскользнулся и свалился прямо в ловушку! ... Да, именно так всё и было!",
+      "style_anchors": [
+        {
+          "source": "I.. I ",
+          "target": "Я... я"
+        },
+        {
+          "source": "slipped by accident ",
+          "target": "случайно поскользнулся"
+        },
+        {
+          "source": "trap",
+          "target": "ловушку"
+        },
+        {
+          "source": "Yes, ",
+          "target": "Да"
+        },
+        {
+          "source": "that's what happened",
+          "target": "именно так всё и было"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Molbert?oldid=854657",
+      "evidence": "raw_source_repair_not_frozen_queue_key"
+    },
+    {
+      "source_key": "npc89.extra.1",
+      "speaker": "Udel",
+      "tag": "NPC",
+      "source": "[NPC] Udel: First, I would like to apologize for this one being a little later than usual.",
+      "translation": "[NPC] Udel: Для начала прошу прощения: эта презентация проходит немного позже обычного.",
+      "style_anchors": [
+        {
+          "source": "little later ",
+          "target": "немного позже"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Udel?oldid=823219",
+      "evidence": "raw_source_repair_not_frozen_queue_key"
+    },
+    {
+      "source_key": "npc89.extra.2",
+      "speaker": "Pesthunter Phillip",
+      "tag": "NPC",
+      "source": "[NPC] Pesthunter Phillip: Unfortunate. The  Pests aren't gonna hunt themselves!",
+      "translation": "[NPC] Pesthunter Phillip: Жаль.  Вредители сами себя не переловят!",
+      "style_anchors": [
+        {
+          "source": " Pests ",
+          "target": " Вредители"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pesthunter_Phillip?oldid=859508",
+      "evidence": "new_published_revision_not_frozen_queue_key"
+    }
+  ]
+}

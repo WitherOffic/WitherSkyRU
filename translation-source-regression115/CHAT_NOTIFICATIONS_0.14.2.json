@@ -1,0 +1,24 @@
+{
+  "version": "0.14.2-dev",
+  "scope": "8 anchored game/mod notification families; not all chat or NPC dialogues",
+  "source": "User screenshot and matching local latest.log records 2026-10-10 01:56-01:58; no online gameplay by agent",
+  "implemented_in": "src/main/java/ru/wither/skyru/ChatNotificationTranslator.java",
+  "player_messages_translated": false,
+  "signed_messages_translated": false,
+  "preserved": ["timestamps", "amounts", "coordinates", "icons", "Roman levels", "hover", "click actions", "message source", "original history"],
+  "families": [
+    {"id": "rare_drop", "observed": "RARE DROP! Goblin Egg (+23  Magic Find)", "russian": "РЕДКАЯ ДОБЫЧА! Яйцо гоблина (+23  Шанс редкой добычи)", "dynamic": ["item name via existing dictionary", "amount", "stat icon"]},
+    {"id": "goblin_coins", "observed": "The [Goblin  head]Goblin was carrying a bag of coins! +6,240 Coins!", "russian": "У [Goblin  head]гоблина был мешок монет! +6,240 монет!", "dynamic": ["amount", "Russian unit declension"]},
+    {"id": "powder_ghast_appearance", "observed": "The sound of pickaxes clashing against the rock has attracted the attention of the POWDER GHAST!", "russian": "Стук кирок по камню привлёк внимание ПОРОШКОВОГО ГАСТА!"},
+    {"id": "powder_ghast_location", "observed": "Find the Powder Ghast near the Divan's Gateway!", "russian": "Найдите Порошкового гаста: Врата Дивана!", "dynamic": ["location via existing dictionary"]},
+    {"id": "bestiary", "observed": "BESTIARY [Goblin  head]Goblin IX ➡ X", "russian": "БЕСТИАРИЙ [Goblin  head]Гоблин IX ➡ X", "dynamic": ["mob name via existing dictionary", "Roman levels", "arrow"], "standalone_header_supported": true},
+    {"id": "hoppity_shop", "observed": "[SkyHanni] New rabbits are available at Hoppity's Shop!\n[CLICK to warp to hub or disable this feature]", "russian": "[SkyHanni] Новые кролики доступны в магазине Хоппити!\n[НАЖМИТЕ: перейти в хаб или отключить уведомления]", "optional_click_line": true},
+    {"id": "chocolate_egg", "observed": "[Skyblocker] Found a Chocolate Dinner Egg at -93, 200, -122!", "russian": "[Skyblocker] Найдено шоколадное яйцо (ужин) по координатам -93, 200, -122!", "dynamic": ["Breakfast/Lunch/Dinner", "signed coordinates"], "meal_word_style_moves_with_meaning": true},
+    {"id": "sack_summary", "observed": "[Sacks] +4 items. (Last 5s.) (x2)", "russian": "[Мешки] +4 предмета. (За последние 5 с.) (x2)", "dynamic": ["item amount", "Russian unit declension", "elapsed seconds", "optional repetition suffix"]}
+  ],
+  "counts_note": "Numerical variants not counted as new dictionary rows. Frozen original snapshot coverage unchanged; notification families reported separately. Unknown item names may remain English.",
+  "unsupported_style_note": "Unknown or ambiguously styled/action-bearing fragments return the original entire message rather than reassign events or delete icons.",
+  "live_chat_total": null,
+  "full_chat_coverage_percent": null,
+  "in_game_verified": false
+}

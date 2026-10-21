@@ -1,0 +1,57 @@
+Argofay Bughunter|We don't eat much.|Мы мало едим.
+Argofay Bughunter|Sometimes we eat Odonatas.|Иногда едим стрекоз.|{"Odonatas":"стрекоз"}
+Argofay Bughunter|Yes.|Да.
+Argofay Bughunter|Hi.|Привет.
+Argofay Bughunter|To collect Odonatas, you need to fly.|Чтобы ловить стрекоз, нужно летать.|{"Odonatas":"стрекоз","fly":"летать"}
+Argofay Bughunter|Use the larvas to fly.|Используй личинок, чтобы летать.|{"fly":"летать"}
+Argofay Bughunter|Talk to Bugshopper, then show me a Larva Hook.|Поговори с торговцем жуками, потом покажи мне крючок из личинки.|{"Bugshopper":"торговцем жуками","Larva Hook":"крючок из личинки"}
+Argofay Bughunter|Get a Larva Hook from Bugshopper.|Добудь крючок из личинки у торговца жуками.|{"Larva Hook":"крючок из личинки","Bugshopper":"торговца жуками"}
+Argofay Bughunter|Now use the hook.|Теперь используй крючок.|{"hook":"крючок"}
+Argofay Bughunter|Find a larva in the branches.|Найди личинку на ветках.
+Argofay Bughunter|Hook it until it relinquishes its SILK.|Цепляй её крючком, пока не отдаст ШЁЛК.|{"SILK":"ШЁЛК"}
+Argofay Bughunter|Then come back.|Потом возвращайся.
+Argofay Bughunter|Hook it until it relinquishes its silk.|Цепляй её крючком, пока не отдаст шёлк.
+Argofay Bughunter|Good.|Хорошо.
+Argofay Bughunter|Do not eat the silk.|Не ешь шёлк.|{"not ":"Не "}
+Argofay Bughunter|Otherwise you cannot fly.|Иначе не сможешь летать.|{"fly":"летать"}
+Argofay Bughunter|Now go and bring back 6 Larva Silk.|Теперь принеси 6 шёлка личинки.|{"6 Larva Silk":"6 шёлка личинки"}
+Argofay Bughunter|Bring me 6 Larva Silk.|Принеси мне 6 шёлка личинки.|{"6 Larva Silk":"6 шёлка личинки"}
+Argofay Bughunter|Great.|Отлично.
+Argofay Bughunter|You may have noticed...|Может, ты заметил...
+Argofay Bughunter|You can use silk to create wires.|Из шёлка можно делать проволоку.
+Argofay Bughunter|Silkwire.|Шёлковая проволока.|{"Silkwire":"Шёлковая проволока"}
+Argofay Bughunter|Use Silkwire to fly.|Используй шёлковую проволоку для полёта.|{"Silkwire ":"шёлковую проволоку "}
+Argofay Bughunter|With this stick.|Вот с этой палочкой.|{"stick":"палочкой"}
+Argofay Bughunter|Now talk to Bugshopper and show me an Odonata Bottle.|Теперь поговори с торговцем жуками и покажи мне бутылку для стрекоз.|{"Bugshopper ":"торговцем жуками ","Odonata Bottle":"бутылку для стрекоз"}
+Argofay Bughunter|Lost stick?|Потерял палочку?
+Argofay Bughunter|Now is flying time.|Теперь пора летать.|{"flying":"летать"}
+Argofay Bughunter|Spot an Odonata out there.|Найди стрекозу.|{"Odonata":"стрекозу"}
+Argofay Bughunter|They are very small.|Они очень маленькие.|{"small":"маленькие"}
+Argofay Bughunter|Lay out a Silkwire which crosses the Odonata.|Натяни шёлковую проволоку так, чтобы она пересекала стрекозу.|{"Silkwire ":"шёлковую проволоку ","Odonata":"стрекозу"}
+Argofay Bughunter|Use the Silkwire Stick on the Silkwire to fly.|Используй палочку из шёлковой проволоки на шёлковой проволоке, чтобы летать.|[{"source":" Silkwire Stick","target":" палочку из шёлковой проволоки"},{"source":"Silkwire ","source_occurrence":2,"target":"шёлковой проволоке"},{"source":"fly","target":"летать"}]
+Argofay Bughunter|Then collect the Odonata using the Empty Odonata Bottle.|Потом поймай стрекозу пустой бутылкой для стрекоз.|[{"source":"Odonata","source_occurrence":1,"target":"стрекозу"},{"source":"Empty Odonata Bottle","target":"пустой бутылкой для стрекоз"}]
+Argofay Bughunter|I am hungry. Please bring back the Bottled Odonata.|Я голоден. Принеси стрекозу в бутылке.|{"Bottled Odonata":"стрекозу в бутылке"}
+Argofay Bughunter|Lay out a Silkwire which crosses it.|Натяни шёлковую проволоку так, чтобы она её пересекала.|{"Silkwire ":"шёлковую проволоку "}
+Argofay Bughunter|Please bring a Bottled Odonata.|Принеси стрекозу в бутылке.|{"Bottled Odonata":"стрекозу в бутылке"}
+Argofay Bughunter|Very very good.|Очень-очень хорошо.
+Argofay Bughunter|Very tasty.|Очень вкусно.
+Argofay Bughunter|Because few words do trick.|Потому что мало слов хватает.
+Argofay Bughunter|I taught you how to capture Odonatas.|Я научил тебя ловить стрекоз.|{"Odonatas":"стрекоз"}
+Argofay Bughunter|Now please bring back 8 Bottled Odonata.|Теперь принеси 8 стрекоз в бутылках.|{"8 Bottled Odonata":"8 стрекоз в бутылках"}
+Argofay Bughunter|I am very hungry.|Я очень голоден.|{"very ":"очень "}
+Argofay Bughunter|There is something in it for you if you do.|Тебе за это кое-что достанется.|{"something in it ":"кое-что "}
+Argofay Bughunter|Please bring me 8 Bottled Odonata.|Принеси мне 8 стрекоз в бутылках.|{"8 Bottled Odonata":"8 стрекоз в бутылках"}
+Argofay Bughunter|So good.|Как хорошо.
+Argofay Bughunter|You are the best.|Ты лучший.
+Argofay Bughunter|Take this belt.|Бери этот пояс.
+Argofay Bughunter|It's safer with it.|С ним безопаснее.
+Argofay Bughunter|Lost your belt?|Потерял пояс?
+Argofay Bughunter|That's unsafe.|Это небезопасно.
+Argofay Bughunter|Thank you for the Odonatas.|Спасибо за стрекоз.|{"Odonatas":"стрекоз"}
+Argofay Bughunter|I am not hungry anymore.|Я больше не голоден.
+Argofay Bughunter|Come back when I am hungry again.|Приходи, когда я снова проголодаюсь.
+Argofay Bughunter|I am hungry.|Я голоден.|{"hungry":"голоден"}
+Argofay Bughunter|Please bring me 3 Bottled Odonata.|Принеси мне 3 стрекозы в бутылках.|{"3 Bottled Odonata":"3 стрекозы в бутылках"}
+Argofay Bughunter|I will give you 5,000 Motes if you do.|Дам тебе за это 5,000 пылинок.|{"5,000 Motes ":"5,000 пылинок"}
+Argofay Bughunter|Thank you.|Спасибо.
+Argofay Bughunter|Here are the Motes.|Вот пылинки.|{"Motes":"пылинки"}

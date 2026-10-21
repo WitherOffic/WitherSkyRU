@@ -1,0 +1,8 @@
+{
+  "failed_run": "build/npc113-targeted-1c05e0d7ff194cb1968a5243661c17f5",
+  "preserved_source": "build/npc113-targeted-1c05e0d7ff194cb1968a5243661c17f5/TestNpc113-before-fixture-repair.java",
+  "failure": "full live source override wins",
+  "cause": "The test replaced SkyRuClient.dictionary but retained ChatNotificationTranslator constructed with the original final dictionary field. This does not simulate an actual reinitialized dictionary consistently.",
+  "correction": "Install each isolated dictionary in both the static client and a fresh ChatNotificationTranslator, and restore both after each override case. No expected translation, style, channel, or override assertion removed. Added the complete source to failure diagnostics.",
+  "production_change": false
+}

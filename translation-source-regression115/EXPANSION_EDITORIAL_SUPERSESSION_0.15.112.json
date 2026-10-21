@@ -1,0 +1,52 @@
+{
+  "scope": "Three new112 draft targets edited before delivery;no existing111 translation or historical positive oracle changed. Preliminary-JAR results are retained but not used as final verification.",
+  "reason": "Fine Flour and Warty aligned with existing item terminology;Warden Teal described as a cosmetic style,not a new creature.",
+  "preliminary_jar_sha256": "BD022792513755AFECAF5249218FAEB9C386E51611FF19C5703A480B5EDC6BB0",
+  "preliminary_checks": "build/expansion112-checks-d95a836456b24ec5a79059906d49fec7",
+  "preliminary_snapshot": "build/expansion112-snapshots-a357165616854f5aa13c6b88b72850af",
+  "retained_preliminary_sources": "build/expansion112-superseded-draft",
+  "changes": [
+    {
+      "id": "2414",
+      "source": "FINE FLOURS EXPORTATION COMPLETE!",
+      "before": "ЭКСПОРТ МУКИ ТОНКОГО ПОМОЛА ЗАВЕРШЁН!",
+      "after": "ЭКСПОРТ ХОРОШЕЙ МУКИ ЗАВЕРШЁН!",
+      "before_anchors": [],
+      "after_anchors": []
+    },
+    {
+      "id": "2423",
+      "source": "WARTY EXPORTATION COMPLETE!",
+      "before": "ЭКСПОРТ БОРОДАВЧИКОВ ЗАВЕРШЁН!",
+      "after": "ЭКСПОРТ НАРОСТА «БОРОДАВЧАТЫЙ» ЗАВЕРШЁН!",
+      "before_anchors": [],
+      "after_anchors": []
+    },
+    {
+      "id": "3366",
+      "source": "EVIL! You swapped to the Warden Teal Wither Goggles skin!",
+      "before": "ЗЛО! Вы сменили облик на «Сине-зелёные очки иссушителя-дозорного»!",
+      "after": "ЗЛО! Вы сменили облик на «Сине-зелёные очки иссушителя в стиле дозорного»!",
+      "before_anchors": [
+        {
+          "source": "EVIL!",
+          "target": "ЗЛО!"
+        },
+        {
+          "source": "Warden Teal Wither Goggles",
+          "target": "Сине-зелёные очки иссушителя-дозорного"
+        }
+      ],
+      "after_anchors": [
+        {
+          "source": "EVIL!",
+          "target": "ЗЛО!"
+        },
+        {
+          "source": "Warden Teal Wither Goggles",
+          "target": "Сине-зелёные очки иссушителя в стиле дозорного"
+        }
+      ]
+    }
+  ]
+}

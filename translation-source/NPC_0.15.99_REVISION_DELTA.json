@@ -1,0 +1,54 @@
+{
+  "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925",
+  "api_url": "https://hypixelskyblock.minecraft.wiki/api.php?action=query&revids=828537%7C859857&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json&formatversion=2",
+  "full_revisions": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 133267,
+          "ns": 0,
+          "title": "Honey",
+          "revisions": [
+            {
+              "revid": 828537,
+              "parentid": 823340,
+              "timestamp": "2026-09-01T09:07:25Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Infobox/Character\n|location = [[Torrhus Canyon]]\n|x = -627.5 \n|y = 99  \n|z = 226.5\n|location_page_description = Introduces the player to the Tree Protection Agency and {{Item|Honeycomb}}s.\n}}\n'''Honey''' is an [[NPC]] located in the {{zone|Torrhus Canyon}}. She introduces the player to the Tree Protection Agency and [[Pots of Honeycomb]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &6Honey&f: Psst, have you heard of the &cTree Protection Agency&f?\n&eSelect an option: &a[Yes] &c[No] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[No]}}\n|{{Dialogue|\n&e[NPC] &6Honey&f: Well, they're an evil group that is all about protecting the &aTrees&f!\n&e[NPC] &6Honey&f: Any poor tree with a &cTree Protection Order &fon it, you simply can't cut!\n&e[NPC] &6Honey&f: Though, while we can't cut them, what we can do is deface them a little...\n&eSelect an option: &c[Deface them?!] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Yes]}}\n|{{Dialogue|\n&e[NPC] &6Honey&f: Well I'm gonna tell you anyways, because you don't look like someone who knows a lot.\n&e[NPC] &6Honey&f: So, about the &cTree Protection Agency&f...\n&e[NPC] &6Honey&f: Well, they're an evil group that is all about protecting the &aTrees&f!\n&e[NPC] &6Honey&f: Any poor tree with a &cTree Protection Order &fon it, you simply can't cut!\n&e[NPC] &6Honey&f: Though, while we can't cut them, what we can do is deface them a little...\n&eSelect an option: &c[Deface them?!] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[Deface them?!]}}\n|{{Dialogue|\n&e[NPC] &6Honey&f: Yeah, if you progress through the &aHoneycomb Collection&f, you'll notice that there's a &aFun-Sized Pot of Honeycomb&f.\n&e[NPC] &6Honey&f: If you make one of those, you can go right up to a &cProtected Tree &fand smear &6Honeycomb &fall over it!\n&e[NPC] &6Honey&f: Then, if you check back after a while, a &a Critter &fwill have come along and started eating all the &6Honeycomb&f!\n&e[NPC] &6Honey&f: Eh, why don't I just show you a visual?\n}}\n|}\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|[[File:Honey.png|26px]] Added '''Honey'''.}}\n|beta = \n{{History|0.27|[[File:Honey.png|26px]] Added '''Honey'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+                }
+              }
+            },
+            {
+              "revid": 859857,
+              "parentid": 828537,
+              "timestamp": "2026-10-17T06:09:06Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{See also|Pots of Honeycomb}}\n{{Infobox/Character\n|location = [[Torrhus Canyon]]\n|x = -627.5 \n|y = 99  \n|z = 226.5\n|location_page_description = Introduces the player to the Tree Protection Agency and {{Item|Honeycomb}}s.\n}}\n'''Honey''' is an [[NPC]] located in the {{zone|Torrhus Canyon}}. She introduces the player to the Tree Protection Agency and [[Pots of Honeycomb]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &6Honey&f: Psst, have you heard of the &cTree Protection Agency&f?\n&eSelect an option: &a[Yes] &c[No] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[No]}}\n|{{Dialogue|\n&e[NPC] &6Honey&f: Well, they're an evil group that is all about protecting the &aTrees&f!\n&e[NPC] &6Honey&f: Any poor tree with a &cTree Protection Order &fon it, you simply can't cut!\n&e[NPC] &6Honey&f: Though, while we can't cut them, what we can do is deface them a little...\n&eSelect an option: &c[Deface them?!] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Yes]}}\n|{{Dialogue|\n&e[NPC] &6Honey&f: Well I'm gonna tell you anyways, because you don't look like someone who knows a lot.\n&e[NPC] &6Honey&f: So, about the &cTree Protection Agency&f...\n&e[NPC] &6Honey&f: Well, they're an evil group that is all about protecting the &aTrees&f!\n&e[NPC] &6Honey&f: Any poor tree with a &cTree Protection Order &fon it, you simply can't cut!\n&e[NPC] &6Honey&f: Though, while we can't cut them, what we can do is deface them a little...\n&eSelect an option: &c[Deface them?!] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[Deface them?!]}}\n|{{Dialogue|\n&e[NPC] &6Honey&f: Yeah, if you progress through the &aHoneycomb Collection&f, you'll notice that there's a &aFun-Sized Pot of Honeycomb&f.\n&e[NPC] &6Honey&f: If you make one of those, you can go right up to a &cProtected Tree &fand smear &6Honeycomb &fall over it!\n&e[NPC] &6Honey&f: Then, if you check back after a while, a &a Critter &fwill have come along and started eating all the &6Honeycomb&f!\n&e[NPC] &6Honey&f: Eh, why don't I just show you a visual?\n}}\n|}\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|[[File:Honey.png|26px]] Added '''Honey'''.}}\n|beta = \n{{History|0.27|[[File:Honey.png|26px]] Added '''Honey'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "records": [
+    {
+      "page": "Honey",
+      "pinned_revision": 828537,
+      "current_revision": 859857,
+      "full_diff": "--- 828537\n+++ 859857\n@@ -1,3 +1,4 @@\n+{{See also|Pots of Honeycomb}}\n {{Infobox/Character\n |location = [[Torrhus Canyon]]\n |x = -627.5 ",
+      "entire_dialogue_section_including_conditions_unchanged": true,
+      "all_dialogue_templates_unchanged": true
+    }
+  ],
+  "accepted_for_batch99": true,
+  "review": "Only a See also navigation link was added before the character infobox. Complete Dialogue section including conditions and templates unchanged. Not live certification."
+}

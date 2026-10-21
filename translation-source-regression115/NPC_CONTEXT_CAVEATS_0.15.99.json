@@ -1,0 +1,489 @@
+{
+  "scope": "Public contextual restrictions,not exclusion of all archived/test lines from exact-key ledger.",
+  "records": [
+    {
+      "source": "[NPC] Centauri: Oh? A custom order ey?",
+      "block_id": "p97546-r824135-o4252",
+      "occurrence_id": "p97546-r824135-o4252-l1-f2795",
+      "condition_context_raw": "|-\n| class=\"ct\" | Custom amount of {{c}}\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Hmmm...",
+      "block_id": "p97546-r824135-o4252",
+      "occurrence_id": "p97546-r824135-o4252-l2-f2796",
+      "condition_context_raw": "|-\n| class=\"ct\" | Custom amount of {{c}}\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Hmmm...",
+      "block_id": "p97546-r824135-o4711",
+      "occurrence_id": "p97546-r824135-o4711-l2-f2804",
+      "condition_context_raw": "|-\n| class=\"ct\" | Potion Seller\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Alright. I'll see what I can do.",
+      "block_id": "p97546-r824135-o4252",
+      "occurrence_id": "p97546-r824135-o4252-l3-f2797",
+      "condition_context_raw": "|-\n| class=\"ct\" | Custom amount of {{c}}\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Ok, here you go. Don't go spending it all in one place.",
+      "block_id": "p97546-r824135-o4252",
+      "occurrence_id": "p97546-r824135-o4252-l4-f2798",
+      "condition_context_raw": "|-\n| class=\"ct\" | Custom amount of {{c}}\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Don't ask how I got this ok?",
+      "block_id": "p97546-r824135-o4573",
+      "occurrence_id": "p97546-r824135-o4573-l1-f2801",
+      "condition_context_raw": "|-\n| class=\"ct\" | Cookie Jar\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: I can't give you my strongest potions because my strongest potions are only for the strongest beings and you are of the weakest...",
+      "block_id": "p97546-r824135-o4711",
+      "occurrence_id": "p97546-r824135-o4711-l1-f2803",
+      "condition_context_raw": "|-\n| class=\"ct\" | Potion Seller\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Ugh fine. Here you go",
+      "block_id": "p97546-r824135-o4711",
+      "occurrence_id": "p97546-r824135-o4711-l3-f2805",
+      "condition_context_raw": "|-\n| class=\"ct\" | Potion Seller\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: These items are born of the old magic. You have no idea of their power.",
+      "block_id": "p97546-r824135-o4989",
+      "occurrence_id": "p97546-r824135-o4989-l0-f2806",
+      "condition_context_raw": "|-\n| class=\"ct\" | Max Items\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: I solemnly swear I am up to no good.",
+      "block_id": "p97546-r824135-o5133",
+      "occurrence_id": "p97546-r824135-o5133-l0-f2807",
+      "condition_context_raw": "|-\n| class=\"ct\" | Duplicate Item\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: *cough* woosh *cough*.",
+      "block_id": "p97546-r824135-o5258",
+      "occurrence_id": "p97546-r824135-o5258-l0-f2808",
+      "condition_context_raw": "|-\n| class=\"ct\" | Max Collections\n| rowspan=\"11\" | ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: *cough* woosh *cough*.",
+      "block_id": "p97546-r824135-o5708",
+      "occurrence_id": "p97546-r824135-o5708-l0-f2809",
+      "condition_context_raw": "|-\n| class=\"ct\" | Pile of Sowdust\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: *cough* woosh *cough*.",
+      "block_id": "p97546-r824135-o5826",
+      "occurrence_id": "p97546-r824135-o5826-l0-f2811",
+      "condition_context_raw": "|-\n| class=\"ct\" | Vault of Copper\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Froggers tip: use /centauri",
+      "block_id": "p97546-r824135-o6193",
+      "occurrence_id": "p97546-r824135-o6193-l0-f2814",
+      "condition_context_raw": "|-\n|On Interaction\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Pro tip: use /centauri",
+      "block_id": "p97546-r824135-o6338",
+      "occurrence_id": "p97546-r824135-o6338-l0-f2815",
+      "condition_context_raw": "|-\n|On Interaction\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Pro tip: use /centauri",
+      "block_id": "p97546-r824135-o7162",
+      "occurrence_id": "p97546-r824135-o7162-l0-f2820",
+      "condition_context_raw": "|-\n|On Interaction\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Check out the Museum if you haven't already!",
+      "block_id": "p97546-r824135-o6515",
+      "occurrence_id": "p97546-r824135-o6515-l0-f2816",
+      "condition_context_raw": "|-\n| rowspan=\"3\" class=\"ct\" |On Interaction\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: The Hub has that new car smell!",
+      "block_id": "p97546-r824135-o6602",
+      "occurrence_id": "p97546-r824135-o6602-l0-f2817",
+      "condition_context_raw": "|-\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Things look a lot nicer from up here!",
+      "block_id": "p97546-r824135-o6676",
+      "occurrence_id": "p97546-r824135-o6676-l0-f2818",
+      "condition_context_raw": "|-\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: It's a fishing update!",
+      "block_id": "p97546-r824135-o6837",
+      "occurrence_id": "p97546-r824135-o6837-l0-f2819",
+      "condition_context_raw": "|-\n|On Interaction\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: MMMMMMMMM... (pro tip: use /centauri)",
+      "block_id": "p97546-r824135-o7311",
+      "occurrence_id": "p97546-r824135-o7311-l0-f2821",
+      "condition_context_raw": "|-\n|On Interaction\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Visit Vincent at his house to the left of the Colosseum when you are approaching it from the west to learn about new Dyes!",
+      "block_id": "p97546-r824135-o7480",
+      "occurrence_id": "p97546-r824135-o7480-l0-f2822",
+      "condition_context_raw": "|-\n|On Interaction\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: The Community Center has received a fresh coat of paint, many Mayors have received new perks, and Foxy is now hosting a Carnival!",
+      "block_id": "p97546-r824135-o7728",
+      "occurrence_id": "p97546-r824135-o7728-l0-f2823",
+      "condition_context_raw": "|-\n|On Interaction\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Play the Chocolate Factory!",
+      "block_id": "p97546-r824135-o8018",
+      "occurrence_id": "p97546-r824135-o8018-l0-f2824",
+      "condition_context_raw": "|-\n| rowspan=\"2\" class=\"ct\" |On Interaction || ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Give yourself free Chocolate to help test late-game Chocolate Factory Features!",
+      "block_id": "p97546-r824135-o8087",
+      "occurrence_id": "p97546-r824135-o8087-l0-f2825",
+      "condition_context_raw": "|-\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Discover the God Mode!",
+      "block_id": "p97546-r824135-o8309",
+      "occurrence_id": "p97546-r824135-o8309-l0-f2826",
+      "condition_context_raw": "|-\n| rowspan=\"4\" class=\"ct\" |On Interaction || ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Fight the Primal Dragon!",
+      "block_id": "p97546-r824135-o8373",
+      "occurrence_id": "p97546-r824135-o8373-l0-f2827",
+      "condition_context_raw": "|-\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Go to The End, use the Awakened Summoning Eyes.",
+      "block_id": "p97546-r824135-o8439",
+      "occurrence_id": "p97546-r824135-o8439-l0-f2828",
+      "condition_context_raw": "|-\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Start the Dragon Rush!",
+      "block_id": "p97546-r824135-o8528",
+      "occurrence_id": "p97546-r824135-o8528-l0-f2829",
+      "condition_context_raw": "|-\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Talk to Hoppity under the Mountain!",
+      "block_id": "p97546-r824135-o8703",
+      "occurrence_id": "p97546-r824135-o8703-l0-f2830",
+      "condition_context_raw": "|-\n| rowspan=\"2\" class=\"ct\" |On Interaction || ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Try out the Chocolate Factory in your Events menu!",
+      "block_id": "p97546-r824135-o8780",
+      "occurrence_id": "p97546-r824135-o8780-l0-f2831",
+      "condition_context_raw": "|-\n|",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Talk to Gwendolyn in the Dwarven Mines! She may have more information for you!",
+      "block_id": "p97546-r824135-o8957",
+      "occurrence_id": "p97546-r824135-o8957-l0-f2832",
+      "condition_context_raw": "|-\n| On Interaction || ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Hello.",
+      "block_id": "p97546-r824135-o9164",
+      "occurrence_id": "p97546-r824135-o9164-l1-f2833",
+      "condition_context_raw": "|-\n| On Interaction || ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: We're testing Dungeon Balancing changes!",
+      "block_id": "p97546-r824135-o9164",
+      "occurrence_id": "p97546-r824135-o9164-l2-f2834",
+      "condition_context_raw": "|-\n| On Interaction || ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Play some dungeons to ensure the changes are working as intended!",
+      "block_id": "p97546-r824135-o9164",
+      "occurrence_id": "p97546-r824135-o9164-l3-f2835",
+      "condition_context_raw": "|-\n| On Interaction || ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Go to the Wizard Portal to join the Rift.",
+      "block_id": "p97546-r824135-o9447",
+      "occurrence_id": "p97546-r824135-o9447-l0-f2836",
+      "condition_context_raw": "|-\n| On Interaction || ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Welcome. Have you met Sam on your private island? I hear she needs help with a farm or something...",
+      "block_id": "p97546-r824135-o9663",
+      "occurrence_id": "p97546-r824135-o9663-l0-f2837",
+      "condition_context_raw": "|-\n| class=\"ct\" rowspan=\"2\" | Without finishing [[Sam]]'s introduction\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Hi there! Make sure to talk to Sam on your private island to go to the Garden if you are at least SkyBlock level 5!",
+      "block_id": "p97546-r824135-o9805",
+      "occurrence_id": "p97546-r824135-o9805-l0-f2838",
+      "condition_context_raw": "|-\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Welcome.",
+      "block_id": "p97546-r824135-o10029",
+      "occurrence_id": "p97546-r824135-o10029-l0-f2839",
+      "condition_context_raw": "|-\n| class=\"ct\" rowspan=\"2\" | After finishing [[Sam]]'s introduction\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Centauri: Hello There.",
+      "block_id": "p97546-r824135-o10080",
+      "occurrence_id": "p97546-r824135-o10080-l0-f2840",
+      "condition_context_raw": "|-\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "test_server_and_archived_update_announcements_not_main_server_coverage"
+      ]
+    },
+    {
+      "source": "[NPC] Pesthunter Pamela: Take the Sprayonator and get to spraying!",
+      "block_id": "p101428-r859320-o1443",
+      "occurrence_id": "p101428-r859320-o1443-l0-f11683",
+      "condition_context_raw": "|-\n| class=\"ct\" colspan=\"2\" | Speaking to '''Pesthunter Pamela''' having not taken the {{Item| Sprayonator}} the first time.{{More Info Needed}}\n| ",
+      "alpha_header_evidence_block_id": null,
+      "alpha_header_inheritance": null,
+      "flags": [
+        "published_condition_needs_more_information"
+      ]
+    },
+    {
+      "source": "[NPC] Pesthunter Pamela: Hi! I want to reforge my SkyMart Hyper Vacuum to Beady. Would you happen to have a Beady Eyes?",
+      "block_id": "p101428-r859320-o1634",
+      "occurrence_id": "p101428-r859320-o1634-l1-f11684",
+      "condition_context_raw": "|-\n| class=\"ct\" rowspan=\"4\" | {{zone|The Garden}} {{ahn|small=y}}\n| class=\"ct\" rowspan=\"2\" | None\n|",
+      "alpha_header_evidence_block_id": "p101428-r859320-o1634",
+      "alpha_header_inheritance": "Same published Garden visitor table,rowspan=4;the later None/Denying cells inherit its alpha header.",
+      "flags": [
+        "published_alpha_condition_not_live_certified"
+      ]
+    },
+    {
+      "source": "[NPC] Pesthunter Pamela: Hi! I want to reforge my Peony Necklace to Rooted. Would you happen to have a Burrowing Spores?",
+      "block_id": "p101428-r859320-o1793",
+      "occurrence_id": "p101428-r859320-o1793-l1-f11685",
+      "condition_context_raw": "|-\n|",
+      "alpha_header_evidence_block_id": "p101428-r859320-o1634",
+      "alpha_header_inheritance": "Same published Garden visitor table,rowspan=4;the later None/Denying cells inherit its alpha header.",
+      "flags": [
+        "published_alpha_condition_not_live_certified"
+      ]
+    },
+    {
+      "source": "[NPC] Pesthunter Pamela: I guess I'll just have to find one myself then...",
+      "block_id": "p101428-r859320-o2019",
+      "occurrence_id": "p101428-r859320-o2019-l1-f11686",
+      "condition_context_raw": "|-\n| class=\"ct\" | Denying\n|",
+      "alpha_header_evidence_block_id": "p101428-r859320-o1634",
+      "alpha_header_inheritance": "Same published Garden visitor table,rowspan=4;the later None/Denying cells inherit its alpha header.",
+      "flags": [
+        "published_alpha_condition_not_live_certified"
+      ]
+    }
+  ]
+}

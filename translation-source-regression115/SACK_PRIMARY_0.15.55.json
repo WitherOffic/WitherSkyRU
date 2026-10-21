@@ -1,0 +1,1394 @@
+{
+  "date": "2026-10-14",
+  "revision": "8e9793b8b05922b7c37407f891c572c40908c93e",
+  "scope": "All repository item paths containing SACK; includes unrelated Sack of Sacks upgrades; not all live UI",
+  "records": [
+    {
+      "id": "ATTRIBUTE_SHARD_SACK_SIZE;1",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/ATTRIBUTE_SHARD_SACK_SIZE;1.json",
+      "source_sha256": "96E31200EF7AEEAD91B7B7B023D252B3A49A64E34BEDF70ED8117262130C337C",
+      "title_legacy": "§5Hideonsack Shard",
+      "lore_legacy": [
+        "§6Sack Size I",
+        "§7Your sacks can hold §a+1% §7more items.",
+        "",
+        "§7You can Syphon this shard from",
+        "§7your §aHunting Box§7.",
+        "",
+        "§eRight-click to send to Hunting Box!",
+        "§eShift Right-click to move all!",
+        "",
+        "§4❣ §cRequires §aHunting Skill 15§c.",
+        "§5§lEPIC FOREST SHARD §8(ID E16)"
+      ]
+    },
+    {
+      "id": "BEGINNER_AGRONOMY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/BEGINNER_AGRONOMY_SACK.json",
+      "source_sha256": "E3C3A9C3D7BB819306492C36F3757EE55804AE694C31142DF95BF6B4BE1B95A7",
+      "title_legacy": "§fBeginner Agronomy Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§aFarming§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e640 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§f§lCOMMON SACK"
+      ]
+    },
+    {
+      "id": "BEGINNER_COMBAT_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/BEGINNER_COMBAT_SACK.json",
+      "source_sha256": "12ED249027365B617C9750022D3CE613DD867CF7DDADCAD042A24C15E65776E3",
+      "title_legacy": "§fBeginner Combat Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§cCombat§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e640 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§f§lCOMMON SACK"
+      ]
+    },
+    {
+      "id": "BEGINNER_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/BEGINNER_FISHING_SACK.json",
+      "source_sha256": "329A0DCCA15A5C838A069FE377B91521BEB9BF763E0658C21ADAFDFD1858E026",
+      "title_legacy": "§fBeginner Fishing Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§bFishing§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e640 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§f§lCOMMON SACK"
+      ]
+    },
+    {
+      "id": "BEGINNER_FORAGING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/BEGINNER_FORAGING_SACK.json",
+      "source_sha256": "15B1C9F9484543767916C0F5A6A79DC7531FE11181CDA64DAD827E4584E95338",
+      "title_legacy": "§fBeginner Foraging Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§2Foraging§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e640 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§f§lCOMMON SACK"
+      ]
+    },
+    {
+      "id": "BEGINNER_HUSBANDRY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/BEGINNER_HUSBANDRY_SACK.json",
+      "source_sha256": "0DEEA259609CE9D517DE5817A814DC063C01833B2B1E20BE999A6ECED374AA65",
+      "title_legacy": "§fBeginner Husbandry Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§aHusbandry§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e640 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§f§lCOMMON SACK"
+      ]
+    },
+    {
+      "id": "BEGINNER_MINING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/BEGINNER_MINING_SACK.json",
+      "source_sha256": "B872DF06C9A9B29F7F5A593B4891679F112988E5344E1AA99C9743EA71A71003",
+      "title_legacy": "§fBeginner Mining Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§6Mining§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e640 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§f§lCOMMON SACK"
+      ]
+    },
+    {
+      "id": "BRONZE_TROPHY_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/BRONZE_TROPHY_FISHING_SACK.json",
+      "source_sha256": "36C0F42D8CAAC912659B50BD23DF6C3AF491EF78EA0C4086C0C10841D0DCEB68",
+      "title_legacy": "§aBronze Trophy Fishing Sack",
+      "lore_legacy": [
+        "§6Trophy Fish §7pickups of §8§lBRONZE",
+        "§7quality go directly into your sacks.",
+        "",
+        "§7Capacity: §e512 per trophy",
+        "§8Sacks sum their capacity.",
+        "",
+        "§eRight Click to open sack!",
+        "",
+        "§4❣ §cRequires Novice Frog Collector.",
+        "§8§l* §8Soulbound §8§l*",
+        "§a§lUNCOMMON"
+      ]
+    },
+    {
+      "id": "BRONZE_TROPHY_FROG_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/BRONZE_TROPHY_FROG_SACK.json",
+      "source_sha256": "F00BAE7E632950A8F1EA6D8479D5417D2C661102D9DD56B6AE4CD9C3BC30B179",
+      "title_legacy": "§aBronze Trophy Frog Sack",
+      "lore_legacy": [
+        "§2Trophy Frog §7pickups of §8§lBRONZE",
+        "§7quality go directly into your sacks.",
+        "",
+        "§7Capacity: §e512 per trophy",
+        "§8Sacks sum their capacity.",
+        "",
+        "§eRight Click to open sack!",
+        "",
+        "§4❣ §cRequires Novice Frog Collector.",
+        "§8§l* §8Soulbound §8§l*",
+        "§a§lUNCOMMON"
+      ]
+    },
+    {
+      "id": "CRYSTAL_HOLLOWS_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/CRYSTAL_HOLLOWS_SACK.json",
+      "source_sha256": "B9A1ACFA04CC41EB214B90D07D7FAE586CD33C39D89E00DD091C35FB6016FD1E",
+      "title_legacy": "§5Crystal Hollows Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found in the",
+        "§5Crystal Hollows§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "DWARVEN_MINES_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/DWARVEN_MINES_SACK.json",
+      "source_sha256": "96332B6AC8A9E1C46FD6D297CA5904B970C92D9C13D3561F214FCA1EC8876461",
+      "title_legacy": "§5Dwarven Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found in the",
+        "§2Dwarven Mines§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "ENCHANTED_INK_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/ENCHANTED_INK_SACK.json",
+      "source_sha256": "61EDB35C3FBF8F22520DAF1CEB879560CAC6059269DF8947AFF87E8F30E39EE3",
+      "title_legacy": "§aEnchanted Ink Sac",
+      "lore_legacy": [
+        "§8Brewing Ingredient",
+        "§8Collection Item",
+        "",
+        "§a§lUNCOMMON"
+      ]
+    },
+    {
+      "id": "EXTRA_LARGE_GEMSTONE_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/EXTRA_LARGE_GEMSTONE_SACK.json",
+      "source_sha256": "F590384DAC3DF561B18C9F26DE7E51E2F3EA229DE96CD0D23C05B744B3B9B75F",
+      "title_legacy": "§5Extra Large Gemstone Sack",
+      "lore_legacy": [
+        "§8§l* §8Co-op Soulbound §8§l*",
+        "§5§lEPIC"
+      ]
+    },
+    {
+      "id": "FLOWER_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/FLOWER_SACK.json",
+      "source_sha256": "4127E0D9AA1C0CCEBC000D2A6A82A2782CA9908D00955AE5F7C636B95EA46D31",
+      "title_legacy": "§5Flower Sack",
+      "lore_legacy": [
+        "§7Holds most commonly found §dFlowers§7!",
+        "§7Items you pickup go directly into",
+        "§7your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "GARDEN_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/GARDEN_SACK.json",
+      "source_sha256": "6D1F4C1DD461FC1516131EADCE9D6E4EAC20385467B62D53365D3F2C18DBDC92",
+      "title_legacy": "§5Garden Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found in the",
+        "§aGarden§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "INK_SACK-1",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-1.json",
+      "source_sha256": "C5A7F113B761F9BE83B30C6449B595905198EA3BEBBAEE04DAB6C0056DBACB0C",
+      "title_legacy": "§fRose Red",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-10",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-10.json",
+      "source_sha256": "4451E11C599A72340D08FBB8C7825BB27CCDA60C7D0B18680EDB1A79B59D8CAA",
+      "title_legacy": "§fLime Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-11",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-11.json",
+      "source_sha256": "AF76DBA15A3FB94ED9C79C6C8F2B3859B847BB7B730ACC4201C7C0A1A2F0ADD5",
+      "title_legacy": "§fDandelion Yellow",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-12",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-12.json",
+      "source_sha256": "FB5F052433F093EAA059D8B130D9DE9B734D0546F295E83467BFFA246A76279B",
+      "title_legacy": "§fLight Blue Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-13",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-13.json",
+      "source_sha256": "84BF55E600FA8534360E919F9C8670B16FE40CB25D6B52E5F2694C05494A08B4",
+      "title_legacy": "§fMagenta Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-14",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-14.json",
+      "source_sha256": "42FB7B237374C9ACC1C9BFB44D4BA8EEAC2ADD18BD7FBC454B93286FD9E753AD",
+      "title_legacy": "§fOrange Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-15",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-15.json",
+      "source_sha256": "55A4779A8C27A5AA1F0F44467E367AC5DC3DEE1E7C3A0F42484EFF2430431BDA",
+      "title_legacy": "§fBone Meal",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-2",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-2.json",
+      "source_sha256": "C26A5943AF61CA409B5E49F42E8FEA8071ABD88C804FE170B561C32C2B76959B",
+      "title_legacy": "§fCactus Green",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-3",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-3.json",
+      "source_sha256": "04FD9F470A8746F7E3FE315B7F9D492A909E02F6672227D8B6EEE03BC1A8E046",
+      "title_legacy": "§fCocoa Beans",
+      "lore_legacy": [
+        "§8Brewing Ingredient",
+        "§8Collection Item",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-4",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-4.json",
+      "source_sha256": "518559F5FD70B7DBB9693BE29683EDDC5E62B9091EC2339ED39BA4AC45A2BC29",
+      "title_legacy": "§fLapis Lazuli",
+      "lore_legacy": [
+        "§8Brewing Ingredient",
+        "§8Collection Item",
+        "",
+        "§f§lCOMMON ORE"
+      ]
+    },
+    {
+      "id": "INK_SACK-5",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-5.json",
+      "source_sha256": "D60F7F3E1A10C8D4B7B6906308D56DCDA2F400EEB5FFC708E7B61C2BAE76B2D7",
+      "title_legacy": "§fPurple Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-6",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-6.json",
+      "source_sha256": "F1792D60B85308DBCB5F57824C4259F0A697E95395F00AA139BD268AA0F201FD",
+      "title_legacy": "§fCyan Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-7",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-7.json",
+      "source_sha256": "F6DD993B1F37C758B32425C483014619DFF0C1DDC9580D551BE77952847B37B2",
+      "title_legacy": "§fLight Gray Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-8",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-8.json",
+      "source_sha256": "61C5EBBF16B303BCC3E95F10E76E83AC77171F5A7F91CFB3B26473A0D4A67334",
+      "title_legacy": "§fGray Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK-9",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK-9.json",
+      "source_sha256": "87BA7BFBC49C3D1BE04F48F34AD219A1FAEFF937B305FE098444D2D8DB00B230",
+      "title_legacy": "§fPink Dye",
+      "lore_legacy": [
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "INK_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/INK_SACK.json",
+      "source_sha256": "7F0B8DD3406C6CC1F1123638610FFE7BD98873AAF0A14A7C9AC6D84FB5556C08",
+      "title_legacy": "§fInk Sac",
+      "lore_legacy": [
+        "§8Brewing Ingredient",
+        "§8Collection Item",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "LARGE_AGRONOMY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_AGRONOMY_SACK.json",
+      "source_sha256": "BD369EC943FABB1EF79A69FC6E03ED852A1A73A54B423612CC9716A6495E88C0",
+      "title_legacy": "§5Large Agronomy Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§aFarming§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_BAIT_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_BAIT_SACK.json",
+      "source_sha256": "98420CE0121910E8E84B725171C3286C3E679DF14B775E470B66CEB501A789F7",
+      "title_legacy": "§5Large Bait Sack",
+      "lore_legacy": [
+        "§7Holds various §6Baits §7for §bFishing§7! Items",
+        "§7you pickup go directly into your",
+        "§7sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_CANDY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_CANDY_SACK.json",
+      "source_sha256": "655E6BA1FFEE8A4295DDFBA63C216241C4AD4A4D50012283E2F22CE979EF2857",
+      "title_legacy": "§5Spooky Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found during",
+        "§7the §6Spooky Festival§7! Items you pickup",
+        "§7go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_COMBAT_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_COMBAT_SACK.json",
+      "source_sha256": "35D3FCC92182E6413CD7A8CF4A4677199CD4DB113D8F1750CC5655BD863A2C23",
+      "title_legacy": "§5Large Combat Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§cCombat§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_DRAGON_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_DRAGON_SACK.json",
+      "source_sha256": "7E8B78261C3043B7A58E699DD3CB9A063E902034857E3FD384B1F72017B0873C",
+      "title_legacy": "§5Large Dragon Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found on §dThe",
+        "§dEnd§7! Items you pickup go directly into",
+        "§7your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_DUNGEON_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_DUNGEON_SACK.json",
+      "source_sha256": "9C3D142F4A728CF1735940A3F4E04737A7CA4ADA32AB3C6C18CBD323FF14F9B7",
+      "title_legacy": "§6Dungeon Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found in §cThe",
+        "§cCatacombs§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§6§lLEGENDARY SACK"
+      ]
+    },
+    {
+      "id": "LARGE_ENCHANTED_AGRONOMY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_ENCHANTED_AGRONOMY_SACK.json",
+      "source_sha256": "E19B1768144FEB7774E3A65619268CA895DD04AAF109D2D58167A5B89DBCF446",
+      "title_legacy": "§5Large Enchanted Agronomy Sack",
+      "lore_legacy": [
+        "§7Holds various enchanted items",
+        "§7obtained from §aFarming§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_ENCHANTED_COMBAT_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_ENCHANTED_COMBAT_SACK.json",
+      "source_sha256": "00BC56FCD995C8F728EFC545798AB3A3884D829F74ED7A8F00594E4563EDD445",
+      "title_legacy": "§5Large Enchanted Combat Sack",
+      "lore_legacy": [
+        "§7Holds various enchanted items",
+        "§7obtained from §cCombat§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_ENCHANTED_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_ENCHANTED_FISHING_SACK.json",
+      "source_sha256": "720EF33BB923C3C1134517F041B2806E32330DE95D15893726BFF77642BEAD46",
+      "title_legacy": "§5Large Enchanted Fishing Sack",
+      "lore_legacy": [
+        "§7Holds various enchanted items",
+        "§7obtained from §bFishing§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_ENCHANTED_FORAGING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_ENCHANTED_FORAGING_SACK.json",
+      "source_sha256": "3CD3B410F6F4875A160D29CF6929E2BB0514453AC086739D0774F60BE600242F",
+      "title_legacy": "§5Large Enchanted Foraging Sack",
+      "lore_legacy": [
+        "§7Holds various enchanted items",
+        "§7obtained from §2Foraging§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_ENCHANTED_HUSBANDRY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_ENCHANTED_HUSBANDRY_SACK.json",
+      "source_sha256": "B75F92D2637AA424C75B57399E6869329BEFA3C45A39F46E951E95D4E3E01F62",
+      "title_legacy": "§5Large Enchanted Husbandry Sack",
+      "lore_legacy": [
+        "§7Holds various enchanted items",
+        "§7obtained from §aHusbandry§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_ENCHANTED_MINING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_ENCHANTED_MINING_SACK.json",
+      "source_sha256": "77C9AC924331C18889CD3A70F9B61983494A9B7A59A2FD678ED15C904792916B",
+      "title_legacy": "§5Large Enchanted Mining Sack",
+      "lore_legacy": [
+        "§7Holds various enchanted items",
+        "§7obtained from §6Mining§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_EVENTS_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_EVENTS_SACK.json",
+      "source_sha256": "4D7A892B56731E1DCEC9BDE103957C6F6330C204C0DED11244DF2103C1C6F663",
+      "title_legacy": "§5Events Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found in",
+        "§7various §eEvents§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_FISHING_SACK.json",
+      "source_sha256": "E8D65EA065ABCCB6C61E06CAC9DE17AD8421F4C859DA0846900DAA7309B800D2",
+      "title_legacy": "§5Large Fishing Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§bFishing§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_FORAGING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_FORAGING_SACK.json",
+      "source_sha256": "CD72328D5D0223337F6623CF86FFC3DE2F0A3B4F20E8B8A5FD165428669E2DA5",
+      "title_legacy": "§5Large Foraging Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§2Foraging§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_GEMSTONE_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_GEMSTONE_SACK.json",
+      "source_sha256": "16856E9940B95786E277C403C093397B707FBBA879EA5D17C0F6B181F5D2CC5E",
+      "title_legacy": "§5Large Gemstone Sack",
+      "lore_legacy": [
+        "§7Holds §dGemstones §7of all types and",
+        "§7tiers! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e2,560,000 of each gemstone type",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_HUSBANDRY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_HUSBANDRY_SACK.json",
+      "source_sha256": "2A0B69FE76A5BF436239A3C7790FB1A9FDBFEC346C5460735F731DC3924DD8F3",
+      "title_legacy": "§5Large Husbandry Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§aHusbandry§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_LAVA_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_LAVA_FISHING_SACK.json",
+      "source_sha256": "0A068D42ED54080EA8F8C378C5DB30DFA7EEDA8FCF7E18F917B4E45E7AAF8340",
+      "title_legacy": "§5Large Lava Fishing Sack",
+      "lore_legacy": [
+        "§7Holds Lava Fishing items commonly",
+        "§7found in the §cCrimson Isle§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_MINING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_MINING_SACK.json",
+      "source_sha256": "B73B0579CF315258B8C607CB3F6A3F4775AC451BC17D3FD99CF34C007B2FC88F",
+      "title_legacy": "§5Large Mining Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§6Mining§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_MUTATIONS_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_MUTATIONS_SACK.json",
+      "source_sha256": "D7035EE3C36533DB0938C4EF7BBA8148F5C35D574CA138643311BBFD8A988268",
+      "title_legacy": "§5Large Mutations Sack",
+      "lore_legacy": [
+        "§7Holds §cMutations §7found in the",
+        "§aGreenhouse§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e1,024 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_NETHER_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_NETHER_SACK.json",
+      "source_sha256": "B150C1718AC1EEA21931427713BF9BB7698250DF4FA5B483D89FF676AFE2B063",
+      "title_legacy": "§5Large Nether Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found on the",
+        "§cCrimson Isle§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_SLAYER_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_SLAYER_SACK.json",
+      "source_sha256": "9ABD1D74728B0C26B51C1C1D20E0C774064481087B18E9812E08F6C58115CBA2",
+      "title_legacy": "§5Large Slayer Sack",
+      "lore_legacy": [
+        "§7Holds items commonly dropped by",
+        "§cSlayers§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "LARGE_WINTER_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/LARGE_WINTER_SACK.json",
+      "source_sha256": "D2CBD44901CD8E39C0B1DD11D2F6F595D48764CD409D2DC7540F81A00B38A61A",
+      "title_legacy": "§9Winter Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found on",
+        "§cJerry's Workshop§7! Items you pickup",
+        "§7go directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_AGRONOMY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_AGRONOMY_SACK.json",
+      "source_sha256": "0D47B22BA3CBF4FA53895903F605A0FFB31873C91C400254853FE19A7625A170",
+      "title_legacy": "§9Medium Agronomy Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§aFarming§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_BAIT_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_BAIT_SACK.json",
+      "source_sha256": "79E8BE6FC1D03461CC97494072999064ED1E76E0B3EB1341E2810540D77925A7",
+      "title_legacy": "§9Medium Bait Sack",
+      "lore_legacy": [
+        "§7Holds various §6Baits §7for §bFishing§7! Items",
+        "§7you pickup go directly into your",
+        "§7sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_COMBAT_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_COMBAT_SACK.json",
+      "source_sha256": "4A01C5407819DA3F2E02C3E5D590B58B41D789E40BB042EE0B659C4C5BAEC71A",
+      "title_legacy": "§9Medium Combat Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§cCombat§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_DRAGON_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_DRAGON_SACK.json",
+      "source_sha256": "D6622B01B3C8F257333A04C28167A4B86AC92809C54F01133AC8A9354E905FCC",
+      "title_legacy": "§9Medium Dragon Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found on §dThe",
+        "§dEnd§7! Items you pickup go directly into",
+        "§7your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_FISHING_SACK.json",
+      "source_sha256": "2423E7A6BF2C26CFD60C4299741731C7896640DF67591684791C0EE4DC1FE42E",
+      "title_legacy": "§9Medium Fishing Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§bFishing§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_FORAGING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_FORAGING_SACK.json",
+      "source_sha256": "7B4C95470DB78F66B3520B13AB23D283FA4B1E387E2B61AC1D27C9739AE911D4",
+      "title_legacy": "§9Medium Foraging Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§2Foraging§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_GEMSTONE_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_GEMSTONE_SACK.json",
+      "source_sha256": "E3F89E4B354B60D505A255AC84A6057F37AADE0F6BEECEA80D657FDA48B356B6",
+      "title_legacy": "§9Medium Gemstone Sack",
+      "lore_legacy": [
+        "§7Holds §dGemstones §7of all types and",
+        "§7tiers! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e512,000 of each gemstone type",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_HUSBANDRY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_HUSBANDRY_SACK.json",
+      "source_sha256": "314120F444C714ACDE4ACEB191FA7E2C62C6936906B481134A94199F9339C22B",
+      "title_legacy": "§9Medium Husbandry Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§aHusbandry§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_LAVA_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_LAVA_FISHING_SACK.json",
+      "source_sha256": "24194DA7C0A7BF605847DAA9BDE3D9C5CB386F959F91F0AA1A867A13AC8F29B0",
+      "title_legacy": "§9Medium Lava Fishing Sack",
+      "lore_legacy": [
+        "§7Holds Lava Fishing items commonly",
+        "§7found in the §cCrimson Isle§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_MINING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_MINING_SACK.json",
+      "source_sha256": "E92CB0B4CBEE8D40FD336A0E08402C148D57EDBCD8DED7D9936C03DEB0BA0371",
+      "title_legacy": "§9Medium Mining Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§6Mining§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_MUTATIONS_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_MUTATIONS_SACK.json",
+      "source_sha256": "2D9C1BC67C51E4A17DCF13CEB6CC0637CA0FC9F5B76F3CA4F34EC82F71638DA6",
+      "title_legacy": "§9Medium Mutations Sack",
+      "lore_legacy": [
+        "§7Holds §cMutations §7found in the",
+        "§aGreenhouse§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e256 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_NETHER_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_NETHER_SACK.json",
+      "source_sha256": "2C32C5EB18478865B796526F055ADC75CEFCAD4C440DF14694D8F423CC10EE39",
+      "title_legacy": "§9Medium Nether Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found on the",
+        "§cCrimson Isle§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "MEDIUM_SLAYER_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/MEDIUM_SLAYER_SACK.json",
+      "source_sha256": "CA82114A52F0D9512D7A63BF9A563F657968F0B9A96F831401B6CE70DA3499F7",
+      "title_legacy": "§9Medium Slayer Sack",
+      "lore_legacy": [
+        "§7Holds items commonly dropped by",
+        "§cSlayers§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e6,720 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§9§lRARE SACK"
+      ]
+    },
+    {
+      "id": "POCKET_SACK_IN_A_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/POCKET_SACK_IN_A_SACK.json",
+      "source_sha256": "10C81E84AF0B723936EF78A89D87D706ABDC7924ED0027A9A5F299D3A9F7BD37",
+      "title_legacy": "§cPocket Sack-in-a-Sack",
+      "lore_legacy": [
+        "§7Combine this item in an anvil with any",
+        "§7sack to increase its capacity by",
+        "§c+200% §7its §coriginal §7capacity.",
+        "",
+        "§7This item can be combined with a sack",
+        "§7up to three times!",
+        "",
+        "§8It's a pocket sack, to be stitched",
+        "§8inside another sack!",
+        "",
+        "§c§lSPECIAL"
+      ]
+    },
+    {
+      "id": "RUNE_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/RUNE_SACK.json",
+      "source_sha256": "2E05121A50EFDF24D69441767FB4569307F8DDE6F0795E5DEABAA7DE836DB3F5",
+      "title_legacy": "§5Rune Sack",
+      "lore_legacy": [
+        "§7Holds most commonly dropped §5Runes",
+        "§7and their tiers! Items you pickup go",
+        "§7directly into your sacks",
+        "",
+        "§7Capacity: §e64 of each rune tier",
+        "§8Sacks sum their capacity.",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    },
+    {
+      "id": "SILVER_TROPHY_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SILVER_TROPHY_FISHING_SACK.json",
+      "source_sha256": "0427A847B09F273D20FA02FF88F0E5DC21993F333E03A095697F121624E87656",
+      "title_legacy": "§9Silver Trophy Fishing Sack",
+      "lore_legacy": [
+        "§6Trophy Fish §7pickups of §7§lSILVER",
+        "§7quality go directly into your sacks.",
+        "",
+        "§7Capacity: §e512 per trophy",
+        "§8Sacks sum their capacity.",
+        "",
+        "§eRight Click to open sack!",
+        "",
+        "§4❣ §cRequires Adept Frog Collector.",
+        "§8§l* §8Soulbound §8§l*",
+        "§9§lRARE"
+      ]
+    },
+    {
+      "id": "SILVER_TROPHY_FROG_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SILVER_TROPHY_FROG_SACK.json",
+      "source_sha256": "0494EE3788D910292410BE3A2FB9BD512CC564C9FE2C9883772B6033D2364DCA",
+      "title_legacy": "§9Silver Trophy Frog Sack",
+      "lore_legacy": [
+        "§2Trophy Frog §7pickups of §7§lSILVER",
+        "§7quality go directly into your sacks.",
+        "",
+        "§7Capacity: §e512 per trophy",
+        "§8Sacks sum their capacity.",
+        "",
+        "§eRight Click to open sack!",
+        "",
+        "§4❣ §cRequires Adept Frog Collector.",
+        "§8§l* §8Soulbound §8§l*",
+        "§9§lRARE"
+      ]
+    },
+    {
+      "id": "SMALL_AGRONOMY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_AGRONOMY_SACK.json",
+      "source_sha256": "0E1120B4372766CEA9D0CEE8F3456EEEDD7831FB4F303D46BB155B99F9E8B45F",
+      "title_legacy": "§aSmall Agronomy Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§aFarming§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_BAIT_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_BAIT_SACK.json",
+      "source_sha256": "B147D94289035494E08919DEE8F2A4CD5CBAFF1ABB87BF7C086C6EA632524EE8",
+      "title_legacy": "§aSmall Bait Sack",
+      "lore_legacy": [
+        "§7Holds various §6Baits §7for §bFishing§7! Items",
+        "§7you pickup go directly into your",
+        "§7sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_COMBAT_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_COMBAT_SACK.json",
+      "source_sha256": "BA169E19727090A390AF8714CCD9FED1EB107F9293CDA4A0352F0B13FC7B398B",
+      "title_legacy": "§aSmall Combat Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§cCombat§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_DRAGON_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_DRAGON_SACK.json",
+      "source_sha256": "1E390A935283B75236863167A6DA8B823CE99A94FF2112922C352470BEDA83BD",
+      "title_legacy": "§aSmall Dragon Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found on §dThe",
+        "§dEnd§7! Items you pickup go directly into",
+        "§7your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_FISHING_SACK.json",
+      "source_sha256": "88D063EDDF08D041875F560941C73DDB1AF3B62D9CAF4484F3CD00D8A98F835B",
+      "title_legacy": "§aSmall Fishing Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§bFishing§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_FORAGING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_FORAGING_SACK.json",
+      "source_sha256": "B194DB44ECA815B630BD8E3A89B64F0E6AFC606ED73C4B68D6583268595DFF42",
+      "title_legacy": "§aSmall Foraging Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§2Foraging§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_GEMSTONE_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_GEMSTONE_SACK.json",
+      "source_sha256": "0EE1C03E20B8124D75F761D4BE6A7651EF6E7EAB0907849E80C1F36C666E7CE0",
+      "title_legacy": "§aSmall Gemstone Sack",
+      "lore_legacy": [
+        "§7Holds §dGemstones §7of all types and",
+        "§7tiers! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e128,000 of each gemstone type",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_HUSBANDRY_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_HUSBANDRY_SACK.json",
+      "source_sha256": "89DD86EFD0E61404252144EE29543B1B771108FE4BC7E4093576CC0A8CBA7C19",
+      "title_legacy": "§aSmall Husbandry Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§aHusbandry§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_LAVA_FISHING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_LAVA_FISHING_SACK.json",
+      "source_sha256": "5639CF1127FF881E894D32DE2EECC3FADF281B1371B122DC5EC2C117322E4548",
+      "title_legacy": "§aSmall Lava Fishing Sack",
+      "lore_legacy": [
+        "§7Holds Lava Fishing items commonly",
+        "§7found in the §cCrimson Isle§7! Items you",
+        "§7pickup go directly into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_MINING_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_MINING_SACK.json",
+      "source_sha256": "9AD27449B53A55ED11EDB780C17F17833E416CE612DD1BE15B113A9255965D8F",
+      "title_legacy": "§aSmall Mining Sack",
+      "lore_legacy": [
+        "§7Holds various items obtained from",
+        "§6Mining§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_MUTATIONS_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_MUTATIONS_SACK.json",
+      "source_sha256": "5C4B9052303165D1AA6678AB7F3B6BD6DDC1A44ED098EF155DF779B2145CF20B",
+      "title_legacy": "§aSmall Mutations Sack",
+      "lore_legacy": [
+        "§7Holds §cMutations §7found in the",
+        "§aGreenhouse§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e64 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_NETHER_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_NETHER_SACK.json",
+      "source_sha256": "66A627E76777A62B1F5DB4D8CF6914CC5827515EB48A73C362DD747EA3F8D693",
+      "title_legacy": "§aSmall Nether Sack",
+      "lore_legacy": [
+        "§7Holds items commonly found on the",
+        "§cCrimson Isle§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "SMALL_SLAYER_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/SMALL_SLAYER_SACK.json",
+      "source_sha256": "2C28BDDAAB96F7FD70CB6CBF04E608B12FB51141AB6F7BBA8A717844514DE16A",
+      "title_legacy": "§aSmall Slayer Sack",
+      "lore_legacy": [
+        "§7Holds items commonly dropped by",
+        "§cSlayers§7! Items you pickup go directly",
+        "§7into your sacks.",
+        "",
+        "§7Capacity: §e2,240 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§a§lUNCOMMON SACK"
+      ]
+    },
+    {
+      "id": "WITCH_SACK",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/WITCH_SACK.json",
+      "source_sha256": "C0D416A6FF5D957DBD682DB4B834DD5E1ADFC996D89FFAAC6A6B15F980F0EA6D",
+      "title_legacy": "§5Witch's Sack",
+      "lore_legacy": [
+        "§7Holds items found during the §5Year of",
+        "§5the Witch§7! Items you pickup go",
+        "§7directly into your sacks.",
+        "",
+        "§7Capacity: §e20,160 of each item",
+        "§8Multiple sacks sum their capacity!",
+        "",
+        "§eRight Click to open!",
+        "",
+        "§5§lEPIC SACK"
+      ]
+    }
+  ]
+}

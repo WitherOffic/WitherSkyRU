@@ -1,0 +1,138 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "status": "EXACT_CHAT_SUPPORT_IMPLEMENTED_NOT_RUNTIME_TESTED",
+  "source": "config/skyhanni/repo/constants/regexesModern.json",
+  "scope": "Confirmed literal messages from local SkyHanni patterns; not a complete dialogue dump. NPC names and prefix retained.",
+  "runtime_chat_handler_implemented": true,
+  "records": [
+    {
+      "source_key": "chat-filter.hunting.swoop-axe-message",
+      "speaker": "Swoop",
+      "source": "[NPC] Swoop: Wow! I forgot to tell you, monsters around here can only take damage from Axes!",
+      "translation": "[NPC] Swoop: Ой! Забыл сказать: здешним монстрам можно нанести урон только топорами!"
+    },
+    {
+      "source_key": "crimson.avorius.helper.0",
+      "speaker": "Avorius",
+      "source": "[NPC] Avorius: I am quite thirsty all the time, it's a rare condition.",
+      "translation": "[NPC] Avorius: Меня постоянно мучает сильная жажда. Это редкое заболевание."
+    },
+    {
+      "source_key": "crimson.avorius.helper.1",
+      "speaker": "Avorius",
+      "source": "[NPC] Avorius: There is no sunlight either, it would be quite accommodating for a Vampire.",
+      "translation": "[NPC] Avorius: Здесь ещё и нет солнечного света. Вампиру было бы весьма уютно."
+    },
+    {
+      "source_key": "crimson.avorius.helper.2",
+      "speaker": "Avorius",
+      "source": "[NPC] Avorius: Why are you looking at me that way? I am not a Vampire, you are!",
+      "translation": "[NPC] Avorius: Почему ты так на меня смотришь? Я не вампир! Это ты вампир!"
+    },
+    {
+      "source_key": "crimson.rescue.cancel.afraid",
+      "speaker": "Undercover Agent",
+      "source": "[NPC] Undercover Agent: It's too dangerous for you?",
+      "translation": "[NPC] Undercover Agent: Для тебя это слишком опасно?"
+    },
+    {
+      "source_key": "crimson.rescue.recruiter",
+      "speaker": "Rescue Recruiter",
+      "source": "[NPC] Rescue Recruiter: You want to help us rescue a hostage from those filthy brutes over there?",
+      "translation": "[NPC] Rescue Recruiter: Хочешь помочь нам спасти заложника из лап тех мерзких громил?"
+    },
+    {
+      "source_key": "crimson.rescue.start",
+      "speaker": "Undercover Agent",
+      "source": "[NPC] Undercover Agent: Here's what you need to do.",
+      "translation": "[NPC] Undercover Agent: Вот что тебе нужно сделать."
+    },
+    {
+      "source_key": "event.carnival.fruitdigging.started",
+      "speaker": "Carnival Pirateman",
+      "source": "[NPC] Carnival Pirateman: Good luck, matey!",
+      "translation": "[NPC] Carnival Pirateman: Удачи, дружище!"
+    },
+    {
+      "source_key": "event.carnival.shootout.start",
+      "speaker": "Carnival Cowboy",
+      "source": "[NPC] Carnival Cowboy: Good luck, pal!",
+      "translation": "[NPC] Carnival Cowboy: Удачи, приятель!"
+    },
+    {
+      "source_key": "features.mining.deepcavernsguide.notunlocked",
+      "speaker": "Lift Operator",
+      "source": "[NPC] Lift Operator: Venture down into the Lapis Quarry to unlock my Lift Menu!",
+      "translation": "[NPC] Lift Operator: Спустись в Лазуритовый карьер, чтобы открыть моё меню лифта!"
+    },
+    {
+      "source_key": "mining.donexpresso.full",
+      "speaker": "Don Expresso",
+      "source": "[NPC] Don Expresso: I DON'T FEEL SO GOOD...",
+      "translation": "[NPC] Don Expresso: МНЕ ЧТО-ТО НЕХОРОШО..."
+    },
+    {
+      "source_key": "misc.nongodpot.effects.gained.goblin.colorless",
+      "speaker": "King Yolkar",
+      "source": "[NPC] King Yolkar: This egg will help me stomach my pain.",
+      "translation": "[NPC] King Yolkar: Это яйцо поможет мне справиться с болью."
+    },
+    {
+      "source_key": "relay.chat.1st",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The first relay is on a branch of the large tree on the north-east of the fairy pond.",
+      "translation": "[NPC] Tia the Fairy: ✆ Первый ретранслятор находится на ветке большого дерева к северо-востоку от пруда фей."
+    },
+    {
+      "source_key": "relay.chat.2nd",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay is in the castle ruins!",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится в руинах замка!"
+    },
+    {
+      "source_key": "relay.chat.3rd",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay is in the Royal Palace within the Dwarven Mines.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится в Королевском дворце в Гномьих шахтах.",
+      "style_anchors": [{"source": "Royal Palace", "target": "Королевском дворце"}]
+    },
+    {
+      "source_key": "relay.chat.4th",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay is on the highest spike of The End.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на вершине самого высокого шпиля в Энде.",
+      "style_anchors": [{"source": "The End", "target": "Энде"}]
+    },
+    {
+      "source_key": "relay.chat.5th",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay was placed by our consultant, Odger.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор установил наш консультант Одгер."
+    },
+    {
+      "source_key": "relay.chat.6th",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ Scarleton itself has one of the most robust connection to the 9f™ Network.",
+      "translation": "[NPC] Tia the Fairy: ✆ Сам Скарлетон имеет одно из самых надёжных подключений к сети 9f™."
+    },
+    {
+      "source_key": "relay.chat.7th",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay is on top of the shack next to the shady inn right here close to the pond.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на крыше лачуги рядом с подозрительным трактиром, здесь неподалёку от пруда."
+    },
+    {
+      "source_key": "relay.chat.8th",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay is on top of a statue in the dungeon hub.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на вершине статуи в центре подземелий."
+    },
+    {
+      "source_key": "relay.chat.9th",
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay is on top of the Auction House.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на крыше Аукционного дома."
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "scope": "Four main five-mode processes plus four earlier four-mode pilot processes. Every measured round retained. Same executable. These numbers do not measure game FPS, frame times,0.1%low or modpack compatibility.",
+  "main": {
+    "scope": "Four isolated JVMs in70,71,71,70 order; all 4 rounds retained per mode. Microbenchmark, not game FPS,0.1%low or GPU. No game A/B validation of new executable.",
+    "records": [
+      {
+        "results": {
+          "numeric_sequence": {
+            "ns_per_operation": 1266.761,
+            "bytes_per_operation": 1392.0012,
+            "rounds_ns": [
+              1271.987,
+              1249.352,
+              1261.535,
+              1352.774
+            ],
+            "rounds_bytes": [
+              1392.0012,
+              1392.0,
+              1392.0012,
+              1392.0012
+            ]
+          },
+          "mixed_sequence": {
+            "ns_per_operation": 1334.542,
+            "bytes_per_operation": 1528.0012,
+            "rounds_ns": [
+              1338.474,
+              1328.072,
+              1330.61,
+              1338.77
+            ],
+            "rounds_bytes": [
+              1528.0012,
+              1528.0012,
+              1528.0012,
+              1528.0
+            ]
+          },
+          "prose_sequence": {
+            "ns_per_operation": 1524.885,
+            "bytes_per_operation": 1545.6012,
+            "rounds_ns": [
+              1456.79,
+              1549.51,
+              1600.543,
+              1500.26
+            ],
+            "rounds_bytes": [
+              1545.6012,
+              1545.6012,
+              1545.6012,
+              1545.6012
+            ]
+          },
+          "technical_scope": {
+            "ns_per_operation": 23.777,
+            "bytes_per_operation": 32.0,
+            "rounds_ns": [
+              25.654,
+              23.876,
+              23.678,
+              23.192
+            ],
+            "rounds_bytes": [
+              32.0,
+              32.0,
+              32.0,
+              32.0
+            ]
+          },
+          "vendor_scope": {
+            "ns_per_operation": 26.789,
+            "bytes_per_operation": 56.0,
+            "rounds_ns": [
+              26.473,
+              26.624,
+              26.954,
+              27.09
+            ],
+            "rounds_bytes": [
+              56.0,
+              56.0,
+              56.0,
+              56.0
+            ]
+          },
+          "scope": "Microbenchmark of real sequenceOutsideHud API and TechnicalText scopes. 20k warm batches; 4x10k measured batches of 10 calls. Same inputs/output semantics. Not game FPS, draw-count frequency, 0.1% lows or shader/GPU time."
+        },
+        "version": "0.15.70-dev",
+        "index": 0
+      },
+      {
+        "results": {
+          "numeric_sequence": {
+            "ns_per_operation": 15.616,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              23.114,
+              15.516,
+              15.716,
+              14.153
+            ],
+            "rounds_bytes": [
+              0.0016,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "mixed_sequence": {
+            "ns_per_operation": 867.8315,
+            "bytes_per_operation": 944.0,
+            "rounds_ns": [
+              878.205,
+              854.043,
+              874.719,
+              860.944
+            ],
+            "rounds_bytes": [
+              944.0,
+              944.0,
+              944.0,
+              944.0
+            ]
+          },
+          "prose_sequence": {
+            "ns_per_operation": 1457.638,
+            "bytes_per_operation": 1537.6006,
+            "rounds_ns": [
+              1463.286,
+              1451.99,
+              1685.208,
+              1442.382
+            ],
+            "rounds_bytes": [
+              1537.6012,
+              1537.6,
+              1537.6,
+              1537.6012
+            ]
+          },
+          "technical_scope": {
+            "ns_per_operation": 10.379,
+            "bytes_per_operation": 24.0,
+            "rounds_ns": [
+              16.109,
+              10.252,
+              10.353,
+              10.405
+            ],
+            "rounds_bytes": [
+              24.0,
+              24.0,
+              24.0,
+              24.0
+            ]
+          },
+          "vendor_scope": {
+            "ns_per_operation": 10.5395,
+            "bytes_per_operation": 24.0,
+            "rounds_ns": [
+              19.197,
+              10.629,
+              10.416,
+              10.45
+            ],
+            "rounds_bytes": [
+              24.0,
+              24.0,
+              24.0,
+              24.0
+            ]
+          },
+          "scope": "Microbenchmark of real sequenceOutsideHud API and TechnicalText scopes. 20k warm batches; 4x10k measured batches of 10 calls. Same inputs/output semantics. Not game FPS, draw-count frequency, 0.1% lows or shader/GPU time."
+        },
+        "version": "0.15.71-dev",
+        "index": 1
+      },
+      {
+        "results": {
+          "numeric_sequence": {
+            "ns_per_operation": 15.120000000000001,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              17.756,
+              16.609,
+              13.631,
+              10.98
+            ],
+            "rounds_bytes": [
+              0.0016,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "mixed_sequence": {
+            "ns_per_operation": 872.043,
+            "bytes_per_operation": 910.4,
+            "rounds_ns": [
+              862.462,
+              887.696,
+              881.624,
+              833.366
+            ],
+            "rounds_bytes": [
+              910.4012,
+              910.4,
+              910.4,
+              910.4
+            ]
+          },
+          "prose_sequence": {
+            "ns_per_operation": 1450.2624999999998,
+            "bytes_per_operation": 1537.6006,
+            "rounds_ns": [
+              1461.035,
+              1442.284,
+              1447.223,
+              1453.302
+            ],
+            "rounds_bytes": [
+              1537.6012,
+              1537.6,
+              1537.6012,
+              1537.6
+            ]
+          },
+          "technical_scope": {
+            "ns_per_operation": 13.994499999999999,
+            "bytes_per_operation": 24.0,
+            "rounds_ns": [
+              19.4,
+              13.975,
+              13.832,
+              14.014
+            ],
+            "rounds_bytes": [
+              24.0,
+              24.0,
+              24.0,
+              24.0
+            ]
+          },
+          "vendor_scope": {
+            "ns_per_operation": 11.2555,
+            "bytes_per_operation": 24.0,
+            "rounds_ns": [
+              32.397,
+              10.965,
+              11.407,
+              11.104
+            ],
+            "rounds_bytes": [
+              24.0,
+              24.0,
+              24.0,
+              24.0
+            ]
+          },
+          "scope": "Microbenchmark of real sequenceOutsideHud API and TechnicalText scopes. 20k warm batches; 4x10k measured batches of 10 calls. Same inputs/output semantics. Not game FPS, draw-count frequency, 0.1% lows or shader/GPU time."
+        },
+        "version": "0.15.71-dev",
+        "index": 2
+      },
+      {
+        "results": {
+          "numeric_sequence": {
+            "ns_per_operation": 1259.5435,
+            "bytes_per_operation": 1392.0012,
+            "rounds_ns": [
+              1320.438,
+              1234.316,
+              1256.722,
+              1262.365
+            ],
+            "rounds_bytes": [
+              1392.0012,
+              1392.0,
+              1392.0012,
+              1392.0012
+            ]
+          },
+          "mixed_sequence": {
+            "ns_per_operation": 1378.06,
+            "bytes_per_operation": 1528.0012,
+            "rounds_ns": [
+              1355.968,
+              1361.936,
+              1394.184,
+              1414.275
+            ],
+            "rounds_bytes": [
+              1528.0,
+              1528.0012,
+              1528.0012,
+              1528.0012
+            ]
+          },
+          "prose_sequence": {
+            "ns_per_operation": 1530.8365,
+            "bytes_per_operation": 1545.6006,
+            "rounds_ns": [
+              1565.15,
+              1518.902,
+              1516.147,
+              1542.771
+            ],
+            "rounds_bytes": [
+              1545.6012,
+              1545.6,
+              1545.6,
+              1545.6012
+            ]
+          },
+          "technical_scope": {
+            "ns_per_operation": 25.84,
+            "bytes_per_operation": 56.0,
+            "rounds_ns": [
+              25.923,
+              25.715,
+              26.022,
+              25.757
+            ],
+            "rounds_bytes": [
+              56.0,
+              56.0,
+              56.0,
+              56.0
+            ]
+          },
+          "vendor_scope": {
+            "ns_per_operation": 26.381,
+            "bytes_per_operation": 56.0,
+            "rounds_ns": [
+              26.687,
+              26.305,
+              26.457,
+              26.28
+            ],
+            "rounds_bytes": [
+              56.0,
+              56.0,
+              56.0,
+              56.0
+            ]
+          },
+          "scope": "Microbenchmark of real sequenceOutsideHud API and TechnicalText scopes. 20k warm batches; 4x10k measured batches of 10 calls. Same inputs/output semantics. Not game FPS, draw-count frequency, 0.1% lows or shader/GPU time."
+        },
+        "version": "0.15.70-dev",
+        "index": 3
+      }
+    ],
+    "runtime_hashes": {
+      "0.15.70-dev": "32AFF41415A452DCF90AE7D02956F7BC33F0F96725206C13CDDEFB0F66CF3DA5",
+      "0.15.71-dev": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46"
+    },
+    "summary": [
+      {
+        "orders": [
+          {
+            "after_bytes": 0.0,
+            "cpu_change_percent": -98.76724970219323,
+            "after_ns": 15.616,
+            "before_ns": 1266.761,
+            "before_bytes": 1392.0012
+          },
+          {
+            "after_bytes": 0.0,
+            "cpu_change_percent": -98.79956508052322,
+            "after_ns": 15.120000000000001,
+            "before_ns": 1259.5435,
+            "before_bytes": 1392.0012
+          }
+        ],
+        "mode": "numeric_sequence"
+      },
+      {
+        "orders": [
+          {
+            "after_bytes": 944.0,
+            "cpu_change_percent": -34.971585757510816,
+            "after_ns": 867.8315,
+            "before_ns": 1334.542,
+            "before_bytes": 1528.0012
+          },
+          {
+            "after_bytes": 910.4,
+            "cpu_change_percent": -36.7195187437412,
+            "after_ns": 872.043,
+            "before_ns": 1378.06,
+            "before_bytes": 1528.0012
+          }
+        ],
+        "mode": "mixed_sequence"
+      },
+      {
+        "orders": [
+          {
+            "after_bytes": 1537.6006,
+            "cpu_change_percent": -4.4099718995202934,
+            "after_ns": 1457.638,
+            "before_ns": 1524.885,
+            "before_bytes": 1545.6012
+          },
+          {
+            "after_bytes": 1537.6006,
+            "cpu_change_percent": -5.263396842183998,
+            "after_ns": 1450.2624999999998,
+            "before_ns": 1530.8365,
+            "before_bytes": 1545.6006
+          }
+        ],
+        "mode": "prose_sequence"
+      },
+      {
+        "orders": [
+          {
+            "after_bytes": 24.0,
+            "cpu_change_percent": -56.3485721495563,
+            "after_ns": 10.379,
+            "before_ns": 23.777,
+            "before_bytes": 32.0
+          },
+          {
+            "after_bytes": 24.0,
+            "cpu_change_percent": -45.84171826625387,
+            "after_ns": 13.994499999999999,
+            "before_ns": 25.84,
+            "before_bytes": 56.0
+          }
+        ],
+        "mode": "technical_scope"
+      },
+      {
+        "orders": [
+          {
+            "after_bytes": 24.0,
+            "cpu_change_percent": -60.657359363918026,
+            "after_ns": 10.5395,
+            "before_ns": 26.789,
+            "before_bytes": 56.0
+          },
+          {
+            "after_bytes": 24.0,
+            "cpu_change_percent": -57.33482430537129,
+            "after_ns": 11.2555,
+            "before_ns": 26.381,
+            "before_bytes": 56.0
+          }
+        ],
+        "mode": "vendor_scope"
+      }
+    ]
+  },
+  "version": "0.15.71-dev",
+  "pilot": {
+    "summary": [
+      {
+        "mode": "numeric_sequence",
+        "orders": [
+          {
+            "before_bytes": 1392.0012,
+            "after_ns": 10.689,
+            "cpu_change_percent": -99.15443856468933,
+            "after_bytes": 0.0,
+            "before_ns": 1264.1305
+          },
+          {
+            "before_bytes": 1240.0005999999998,
+            "after_ns": 15.555499999999999,
+            "cpu_change_percent": -98.90403903764263,
+            "after_bytes": 0.0,
+            "before_ns": 1419.348
+          }
+        ]
+      },
+      {
+        "mode": "mixed_sequence",
+        "orders": [
+          {
+            "before_bytes": 1528.0012,
+            "after_ns": 867.5315,
+            "cpu_change_percent": -36.33917695231664,
+            "after_bytes": 944.0,
+            "before_ns": 1362.7399999999998
+          },
+          {
+            "before_bytes": 1528.0005999999998,
+            "after_ns": 862.877,
+            "cpu_change_percent": -36.072956858282524,
+            "after_bytes": 944.0006000000001,
+            "before_ns": 1349.784
+          }
+        ]
+      },
+      {
+        "mode": "technical_scope",
+        "orders": [
+          {
+            "before_bytes": 56.0,
+            "after_ns": 13.5295,
+            "cpu_change_percent": -47.265746803866534,
+            "after_bytes": 0.0,
+            "before_ns": 25.656
+          },
+          {
+            "before_bytes": 56.0,
+            "after_ns": 12.4435,
+            "cpu_change_percent": -50.58573584306251,
+            "after_bytes": 0.0,
+            "before_ns": 25.182000000000002
+          }
+        ]
+      },
+      {
+        "mode": "vendor_scope",
+        "orders": [
+          {
+            "before_bytes": 56.0,
+            "after_ns": 18.5735,
+            "cpu_change_percent": -26.012309040572024,
+            "after_bytes": 24.0,
+            "before_ns": 25.103499999999997
+          },
+          {
+            "before_bytes": 56.0,
+            "after_ns": 18.2885,
+            "cpu_change_percent": -26.7155536855603,
+            "after_bytes": 24.0,
+            "before_ns": 24.9555
+          }
+        ]
+      }
+    ],
+    "scope": "Four isolated JVMs in70,71,71,70 order; all 4 rounds retained per mode. Microbenchmark, not game FPS,0.1%low or GPU. No game A/B validation of new executable.",
+    "runtime_hashes": {
+      "0.15.70-dev": "32AFF41415A452DCF90AE7D02956F7BC33F0F96725206C13CDDEFB0F66CF3DA5",
+      "0.15.71-dev": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46"
+    },
+    "records": [
+      {
+        "results": {
+          "numeric_sequence": {
+            "ns_per_operation": 1264.1305,
+            "bytes_per_operation": 1392.0012,
+            "rounds_ns": [
+              1282.706,
+              1268.759,
+              1259.502,
+              1259.031
+            ],
+            "rounds_bytes": [
+              1392.0012,
+              1392.0,
+              1392.0012,
+              1392.0012
+            ]
+          },
+          "mixed_sequence": {
+            "ns_per_operation": 1362.7399999999998,
+            "bytes_per_operation": 1528.0012,
+            "rounds_ns": [
+              1364.543,
+              1399.042,
+              1353.921,
+              1360.937
+            ],
+            "rounds_bytes": [
+              1528.0012,
+              1528.0012,
+              1528.0012,
+              1528.0012
+            ]
+          },
+          "technical_scope": {
+            "ns_per_operation": 25.656,
+            "bytes_per_operation": 56.0,
+            "rounds_ns": [
+              26.688,
+              25.896,
+              25.416,
+              25.328
+            ],
+            "rounds_bytes": [
+              56.0,
+              56.0,
+              56.0,
+              56.0
+            ]
+          },
+          "vendor_scope": {
+            "ns_per_operation": 25.103499999999997,
+            "bytes_per_operation": 56.0,
+            "rounds_ns": [
+              28.576,
+              25.118,
+              25.089,
+              24.895
+            ],
+            "rounds_bytes": [
+              56.0,
+              56.0,
+              56.0,
+              56.0
+            ]
+          },
+          "scope": "Microbenchmark of real sequenceOutsideHud API and TechnicalText scopes. 20k warm batches; 4x10k measured batches of 10 calls. Same inputs/output semantics. Not game FPS, draw-count frequency, 0.1% lows or shader/GPU time."
+        },
+        "index": 0,
+        "version": "0.15.70-dev"
+      },
+      {
+        "results": {
+          "numeric_sequence": {
+            "ns_per_operation": 10.689,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              10.527,
+              10.94,
+              10.666,
+              10.712
+            ],
+            "rounds_bytes": [
+              0.0016,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "mixed_sequence": {
+            "ns_per_operation": 867.5315,
+            "bytes_per_operation": 944.0,
+            "rounds_ns": [
+              872.578,
+              860.491,
+              865.832,
+              869.231
+            ],
+            "rounds_bytes": [
+              944.0,
+              944.0,
+              944.0,
+              944.0
+            ]
+          },
+          "technical_scope": {
+            "ns_per_operation": 13.5295,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              13.629,
+              13.509,
+              13.525,
+              13.534
+            ],
+            "rounds_bytes": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "vendor_scope": {
+            "ns_per_operation": 18.5735,
+            "bytes_per_operation": 24.0,
+            "rounds_ns": [
+              18.554,
+              18.593,
+              18.365,
+              21.271
+            ],
+            "rounds_bytes": [
+              24.0,
+              24.0,
+              24.0,
+              24.0
+            ]
+          },
+          "scope": "Microbenchmark of real sequenceOutsideHud API and TechnicalText scopes. 20k warm batches; 4x10k measured batches of 10 calls. Same inputs/output semantics. Not game FPS, draw-count frequency, 0.1% lows or shader/GPU time."
+        },
+        "index": 1,
+        "version": "0.15.71-dev"
+      },
+      {
+        "results": {
+          "numeric_sequence": {
+            "ns_per_operation": 15.555499999999999,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              16.64,
+              16.095,
+              15.016,
+              10.931
+            ],
+            "rounds_bytes": [
+              0.0016,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "mixed_sequence": {
+            "ns_per_operation": 862.877,
+            "bytes_per_operation": 944.0006000000001,
+            "rounds_ns": [
+              879.312,
+              853.003,
+              872.751,
+              846.324
+            ],
+            "rounds_bytes": [
+              944.0012,
+              944.0,
+              944.0012,
+              944.0
+            ]
+          },
+          "technical_scope": {
+            "ns_per_operation": 12.4435,
+            "bytes_per_operation": 0.0,
+            "rounds_ns": [
+              15.248,
+              12.404,
+              12.443,
+              12.444
+            ],
+            "rounds_bytes": [
+              1.3008,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "vendor_scope": {
+            "ns_per_operation": 18.2885,
+            "bytes_per_operation": 24.0,
+            "rounds_ns": [
+              19.453,
+              18.217,
+              18.273,
+              18.304
+            ],
+            "rounds_bytes": [
+              24.0,
+              24.0,
+              24.0,
+              24.0
+            ]
+          },
+          "scope": "Microbenchmark of real sequenceOutsideHud API and TechnicalText scopes. 20k warm batches; 4x10k measured batches of 10 calls. Same inputs/output semantics. Not game FPS, draw-count frequency, 0.1% lows or shader/GPU time."
+        },
+        "index": 2,
+        "version": "0.15.71-dev"
+      },
+      {
+        "results": {
+          "numeric_sequence": {
+            "ns_per_operation": 1419.348,
+            "bytes_per_operation": 1240.0005999999998,
+            "rounds_ns": [
+              1274.304,
+              1252.297,
+              1606.546,
+              1564.392
+            ],
+            "rounds_bytes": [
+              1240.0,
+              1240.0012,
+              1240.0,
+              1240.0012
+            ]
+          },
+          "mixed_sequence": {
+            "ns_per_operation": 1349.784,
+            "bytes_per_operation": 1528.0005999999998,
+            "rounds_ns": [
+              1367.215,
+              1344.879,
+              1343.722,
+              1354.689
+            ],
+            "rounds_bytes": [
+              1528.0012,
+              1528.0,
+              1528.0012,
+              1528.0
+            ]
+          },
+          "technical_scope": {
+            "ns_per_operation": 25.182000000000002,
+            "bytes_per_operation": 56.0,
+            "rounds_ns": [
+              25.601,
+              24.921,
+              25.148,
+              25.216
+            ],
+            "rounds_bytes": [
+              56.0,
+              56.0,
+              56.0,
+              56.0
+            ]
+          },
+          "vendor_scope": {
+            "ns_per_operation": 24.9555,
+            "bytes_per_operation": 56.0,
+            "rounds_ns": [
+              29.45,
+              25.099,
+              24.812,
+              24.705
+            ],
+            "rounds_bytes": [
+              56.0,
+              56.0,
+              56.0,
+              56.0
+            ]
+          },
+          "scope": "Microbenchmark of real sequenceOutsideHud API and TechnicalText scopes. 20k warm batches; 4x10k measured batches of 10 calls. Same inputs/output semantics. Not game FPS, draw-count frequency, 0.1% lows or shader/GPU time."
+        },
+        "index": 3,
+        "version": "0.15.70-dev"
+      }
+    ]
+  },
+  "jar_sha256": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46"
+}

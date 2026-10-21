@@ -1,0 +1,179 @@
+{
+  "revision": "0.14.0-dev",
+  "scope": "Static integrity, not runtime or universal quality verification",
+  "new_snapshot_sources": 5195,
+  "previous_targets_updated": 4,
+  "delta_reported": 5195,
+  "numeric_roman_icon_placeholder_id_mismatches": [],
+  "malformed_rows": [],
+  "duplicate_keys": {
+    "continuation.tsv": {
+      "Deep Sea Diver": 2,
+      "Intelligence.": 2
+    },
+    "continuation-patterns.tsv": {},
+    "lexicon.tsv": {
+      "Rabbit": 2
+    },
+    "BATCH_0.14_CONTEXT_FINISH.tsv": {},
+    "BATCH_0.14_CREATURE_LABELS.tsv": {},
+    "BATCH_0.14_ENDINGS_A.tsv": {},
+    "BATCH_0.14_ENDINGS_B.tsv": {},
+    "BATCH_0.14_ENDINGS_C.tsv": {},
+    "BATCH_0.14_ENDINGS_D.tsv": {},
+    "BATCH_0.14_FINAL_TEXT.tsv": {},
+    "BATCH_0.14_LABELS.tsv": {},
+    "BATCH_0.14_LAST_GROUPS.tsv": {},
+    "BATCH_0.14_NAMES_FINAL.tsv": {},
+    "BATCH_0.14_PROSE_A.tsv": {},
+    "BATCH_0.14_PROSE_B.tsv": {},
+    "BATCH_0.14_PROSE_C.tsv": {},
+    "BATCH_0.14_REFORGES.tsv": {},
+    "BATCH_0.14_ROLES.tsv": {},
+    "BATCH_0.14_SKIN_CONTEXT.tsv": {}
+  },
+  "regressed_previously_processed_sources": [],
+  "context_guards": {
+    "Alligator Skin": "Шкура аллигатора",
+    "Daedalus Stick": "Палка Дедала",
+    "Power.": "аксессуаров.",
+    "Scarf": "Скарф",
+    "Portal to the Murkwater Loch": "Портал к Тёмному озеру",
+    "Travel Scroll to the End": "Свиток перемещения в Край",
+    "Black Holes by 10%.": "чёрных дыр на 10%.",
+    "minion's appearance to an": "вашего миньона на",
+    "Halves your damage for 2s afterwards.": "После этого вдвое снижает ваш урон на 2с."
+  },
+  "updated_previous_sources": [
+    {
+      "source": "Ability: Egglocator  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/EGGLOCATOR.json",
+        "config/skyblocker/item-repo/items/EGGLOCATOR.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Яйцеискатель — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Ability: Haunt  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/HAUNT_ABILITY.json",
+        "config/skyblocker/item-repo/items/HAUNT_ABILITY.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Призрак — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Ability: Ragnarock  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/RAGNAROCK_AXE.json",
+        "config/skyblocker/item-repo/items/RAGNAROCK_AXE.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Рагнакамень — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    },
+    {
+      "source": "Ability: Speed Boost  RIGHT CLICK",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/ROGUE_SWORD.json",
+        "config/skyblocker/item-repo/items/ROGUE_SWORD.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "lore",
+        "text"
+      ],
+      "translation": "Способность: Ускорение — ПКМ",
+      "translation_origin": "expanded-patterns.tsv"
+    }
+  ],
+  "non_level_words_reviewed": [
+    {
+      "source": "\"Give me some Sulphur and I'll make a",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "and innovative! I would even add",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "better than I!",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "how much I care for them.\" - End",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "I once tried a clear pond. Too shiny.",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "I...cam't get enoumgh of it! It's the",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "If the salad is on top, I send it back.",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "love, I hope this simple rose shows",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "wand. Give me all the Sulphur and I'll",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "whereby I conquer, but what none",
+      "non_level_words": [
+        "I"
+      ]
+    },
+    {
+      "source": "❤ Health (MM): 6 hits",
+      "non_level_words": [
+        "MM"
+      ]
+    }
+  ],
+  "quality_verified": false,
+  "runtime_verified": false
+}

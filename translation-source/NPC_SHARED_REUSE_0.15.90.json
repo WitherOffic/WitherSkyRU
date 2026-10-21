@@ -1,0 +1,1286 @@
+{
+  "scope": "Mechanical reuse of exact already-authored English/Russian body pairs;all source conditions read;no approximate or machine translation.",
+  "count": 128,
+  "records": [
+    {
+      "source": "[NPC] Strux: Are you a Wizard?",
+      "authored_tsv_row": "Strux|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o1622-l1-f14921"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Strux|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o1622-l2-f14922"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Strux|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o1622-l3-f14923"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Strux|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o1918-l1-f14924"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: What a fantastic choice!",
+      "authored_tsv_row": "Strux|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o1918-l2-f14925"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Strux|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o1918-l3-f14926"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Strux|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o1918-l4-f14927"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Sul-phur",
+      "authored_tsv_row": "Strux|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2337-l1-f14928"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Sulphur?",
+      "authored_tsv_row": "Strux|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2337-l2-f14929"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Me Sulphur.",
+      "authored_tsv_row": "Strux|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2337-l3-f14930"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Are you a Hero?",
+      "authored_tsv_row": "Strux|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2504-l1-f14931"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Strux|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2504-l2-f14932"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Strux|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2504-l3-f14933"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: You seem suspicious.",
+      "authored_tsv_row": "Strux|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2799-l0-f14934"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Strux|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2857-l0-f14935"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Strux: Please stop bothering me.",
+      "authored_tsv_row": "Strux|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92301-r790934-o2932-l0-f14936"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Are you a Wizard?",
+      "authored_tsv_row": "Turd|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1247-l1-f16341"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Turd|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1247-l2-f16342"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Turd|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1247-l3-f16343"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Turd|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1540-l1-f16344"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: What a fantastic choice!",
+      "authored_tsv_row": "Turd|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1540-l2-f16345"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Turd|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1540-l3-f16346"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Turd|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1540-l4-f16347"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Sul-phur",
+      "authored_tsv_row": "Turd|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1955-l1-f16348"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Sulphur?",
+      "authored_tsv_row": "Turd|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1955-l2-f16349"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Me Sulphur.",
+      "authored_tsv_row": "Turd|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o1955-l3-f16350"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Are you a Hero?",
+      "authored_tsv_row": "Turd|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o2119-l1-f16351"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Turd|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o2119-l2-f16352"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Turd|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o2119-l3-f16353"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: You seem suspicious.",
+      "authored_tsv_row": "Turd|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o2411-l0-f16354"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Turd|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o2468-l0-f16355"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Turd: Please stop bothering me.",
+      "authored_tsv_row": "Turd|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91780-r815173-o2542-l0-f16356"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Are you a Wizard?",
+      "authored_tsv_row": "Porc|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1061-l1-f11887"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Porc|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1061-l2-f11888"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Porc|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1061-l3-f11889"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Porc|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1354-l1-f11890"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: What a fantastic choice!",
+      "authored_tsv_row": "Porc|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1354-l2-f11891"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Porc|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1354-l3-f11892"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Porc|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1354-l4-f11893"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Sul-phur",
+      "authored_tsv_row": "Porc|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1769-l1-f11894"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Sulphur?",
+      "authored_tsv_row": "Porc|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1769-l2-f11895"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Me Sulphur.",
+      "authored_tsv_row": "Porc|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1769-l3-f11896"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Are you a Hero?",
+      "authored_tsv_row": "Porc|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1933-l1-f11897"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Porc|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1933-l2-f11898"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Porc|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o1933-l3-f11899"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: You seem suspicious.",
+      "authored_tsv_row": "Porc|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o2225-l0-f11900"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Porc|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o2282-l0-f11901"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Porc: Please stop bothering me.",
+      "authored_tsv_row": "Porc|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91847-r790098-o2356-l0-f11902"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Are you a Wizard?",
+      "authored_tsv_row": "Truu|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1050-l1-f16317"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Truu|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1050-l2-f16318"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Truu|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1050-l3-f16319"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Truu|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1343-l1-f16320"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: What a fantastic choice!",
+      "authored_tsv_row": "Truu|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1343-l2-f16321"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Truu|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1343-l3-f16322"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Truu|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1343-l4-f16323"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Sul-phur",
+      "authored_tsv_row": "Truu|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1758-l1-f16324"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Sulphur?",
+      "authored_tsv_row": "Truu|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1758-l2-f16325"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Me Sulphur.",
+      "authored_tsv_row": "Truu|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1758-l3-f16326"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Are you a Hero?",
+      "authored_tsv_row": "Truu|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1922-l1-f16327"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Truu|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1922-l2-f16328"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Truu|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o1922-l3-f16329"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: You seem suspicious.",
+      "authored_tsv_row": "Truu|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o2214-l0-f16330"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Truu|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o2271-l0-f16331"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Truu: Please stop bothering me.",
+      "authored_tsv_row": "Truu|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91811-r791249-o2345-l0-f16332"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Are you a Wizard?",
+      "authored_tsv_row": "Kutral|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o1594-l1-f9336"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Kutral|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o1594-l2-f9337"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Kutral|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o1594-l3-f9338"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Kutral|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o1893-l1-f9339"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: What a fantastic choice!",
+      "authored_tsv_row": "Kutral|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o1893-l2-f9340"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Kutral|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o1893-l3-f9341"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Kutral|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o1893-l4-f9342"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Sul-phur",
+      "authored_tsv_row": "Kutral|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2316-l1-f9343"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Sulphur?",
+      "authored_tsv_row": "Kutral|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2316-l2-f9344"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Me Sulphur.",
+      "authored_tsv_row": "Kutral|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2316-l3-f9345"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Are you a Hero?",
+      "authored_tsv_row": "Kutral|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2486-l1-f9346"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Kutral|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2486-l2-f9347"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Kutral|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2486-l3-f9348"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: You seem suspicious.",
+      "authored_tsv_row": "Kutral|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2784-l0-f9349"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Kutral|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2843-l0-f9350"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Kutral: Please stop bothering me.",
+      "authored_tsv_row": "Kutral|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91815-r789359-o2919-l0-f9351"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Soma: Barry is a terrible leader!",
+      "authored_tsv_row": "Soma|Barry is a terrible leader!|Барри — ужасный лидер!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100062-r790759-o765-l1-f14471"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Soma: He doesn't want to hear us out!",
+      "authored_tsv_row": "Soma|He doesn't want to hear us out!|Он не хочет нас выслушать!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100062-r790759-o765-l2-f14472"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Soma: Barry is hiding from us!",
+      "authored_tsv_row": "Soma|Barry is hiding from us!|Барри от нас прячется!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100062-r790759-o885-l1-f14473"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Soma: He doesn't want to face reality!",
+      "authored_tsv_row": "Soma|He doesn't want to face reality!|Он не хочет смотреть правде в глаза!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100062-r790759-o885-l2-f14474"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Soma: Someone promised donuts when coming to this protest.",
+      "authored_tsv_row": "Soma|Someone promised donuts when coming to this protest.|На этом протесте обещали пончики.",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100062-r790759-o1003-l1-f14475"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Soma: And I don't see ANY DONUT!",
+      "authored_tsv_row": "Soma|And I don't see ANY DONUT!|А я не вижу НИ ОДНОГО ПОНЧИКА!|{\"ANY DONUT\":\"НИ ОДНОГО ПОНЧИКА\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100062-r790759-o1003-l2-f14476"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Soma: Screw Barry!",
+      "authored_tsv_row": "Soma|Screw Barry!|К чёрту Барри!|{\"Barry\":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100062-r790759-o1003-l3-f14477"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Stain: Barry is a terrible leader!",
+      "authored_tsv_row": "Stain|Barry is a terrible leader!|Барри — ужасный лидер!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100455-r790892-o725-l1-f14803"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Stain: He doesn't want to hear us out!",
+      "authored_tsv_row": "Stain|He doesn't want to hear us out!|Он не хочет нас выслушать!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100455-r790892-o725-l2-f14804"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Stain: Barry is hiding from us!",
+      "authored_tsv_row": "Stain|Barry is hiding from us!|Барри от нас прячется!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100455-r790892-o847-l1-f14805"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Stain: He doesn't want to face reality!",
+      "authored_tsv_row": "Stain|He doesn't want to face reality!|Он не хочет смотреть правде в глаза!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100455-r790892-o847-l2-f14806"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Stain: Someone promised donuts when coming to this protest.",
+      "authored_tsv_row": "Stain|Someone promised donuts when coming to this protest.|На этом протесте обещали пончики.",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100455-r790892-o967-l1-f14807"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Stain: And I don't see ANY DONUT!",
+      "authored_tsv_row": "Stain|And I don't see ANY DONUT!|А я не вижу НИ ОДНОГО ПОНЧИКА!|{\"ANY DONUT\":\"НИ ОДНОГО ПОНЧИКА\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100455-r790892-o967-l2-f14808"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Stain: Screw Barry!",
+      "authored_tsv_row": "Stain|Screw Barry!|К чёрту Барри!|{\"Barry\":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100455-r790892-o967-l3-f14809"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Harriette: Barry is a terrible leader!",
+      "authored_tsv_row": "Harriette|Barry is a terrible leader!|Барри — ужасный лидер!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100460-r789019-o751-l1-f7658"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Harriette: He doesn't want to hear us out!",
+      "authored_tsv_row": "Harriette|He doesn't want to hear us out!|Он не хочет нас выслушать!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100460-r789019-o751-l2-f7659"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Harriette: Barry is hiding from us!",
+      "authored_tsv_row": "Harriette|Barry is hiding from us!|Барри от нас прячется!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100460-r789019-o880-l1-f7660"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Harriette: He doesn't want to face reality!",
+      "authored_tsv_row": "Harriette|He doesn't want to face reality!|Он не хочет смотреть правде в глаза!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100460-r789019-o880-l2-f7661"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Harriette: Someone promised donuts when coming to this protest.",
+      "authored_tsv_row": "Harriette|Someone promised donuts when coming to this protest.|На этом протесте обещали пончики.",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100460-r789019-o1007-l1-f7662"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Harriette: And I don't see ANY DONUT!",
+      "authored_tsv_row": "Harriette|And I don't see ANY DONUT!|А я не вижу НИ ОДНОГО ПОНЧИКА!|{\"ANY DONUT\":\"НИ ОДНОГО ПОНЧИКА\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100460-r789019-o1007-l2-f7663"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Harriette: Screw Barry!",
+      "authored_tsv_row": "Harriette|Screw Barry!|К чёрту Барри!|{\"Barry\":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100460-r789019-o1007-l3-f7664"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Violetta: Barry is hiding from us!",
+      "authored_tsv_row": "Violetta|Barry is hiding from us!|Барри от нас прячется!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p99813-r791340-o713-l1-f17386"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Violetta: He doesn't want to face reality!",
+      "authored_tsv_row": "Violetta|He doesn't want to face reality!|Он не хочет смотреть правде в глаза!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p99813-r791340-o713-l2-f17387"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Violetta: Barry is a terrible leader!",
+      "authored_tsv_row": "Violetta|Barry is a terrible leader!|Барри — ужасный лидер!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p99813-r791340-o839-l1-f17388"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Violetta: He doesn't want to hear us out!",
+      "authored_tsv_row": "Violetta|He doesn't want to hear us out!|Он не хочет нас выслушать!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p99813-r791340-o839-l2-f17389"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Violetta: Someone promised donuts when coming to this protest.",
+      "authored_tsv_row": "Violetta|Someone promised donuts when coming to this protest.|На этом протесте обещали пончики.",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p99813-r791340-o966-l1-f17390"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Violetta: And I don't see ANY DONUT!",
+      "authored_tsv_row": "Violetta|And I don't see ANY DONUT!|А я не вижу НИ ОДНОГО ПОНЧИКА!|{\"ANY DONUT\":\"НИ ОДНОГО ПОНЧИКА\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p99813-r791340-o966-l2-f17391"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Violetta: Screw Barry!",
+      "authored_tsv_row": "Violetta|Screw Barry!|К чёрту Барри!|{\"Barry\":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p99813-r791340-o966-l3-f17392"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Hop in and we'll be off!",
+      "authored_tsv_row": "Station Master|Hop in and we'll be off!|Залезай — и поедем!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o647-l0-f14849"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: See that empty, weak metal box? Good! That's your cart, hop in!",
+      "authored_tsv_row": "Station Master|See that empty, weak metal box? Good! That's your cart, hop in!|Видишь пустой хлипкий металлический ящик? Отлично! Это твоя вагонетка, залезай!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o717-l0-f14850"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Hold tight, it's going to be a bump ride!",
+      "authored_tsv_row": "Station Master|Hold tight, it's going to be a bump ride!|Держись крепче, будет трясти!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o826-l0-f14851"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Thanks for choosing Dwarven Mine Co. - we operate 24/7 across the whole mine!",
+      "authored_tsv_row": "Station Master|Thanks for choosing Dwarven Mine Co. - we operate 24/7 across the whole mine!|Спасибо за выбор компании «Дварфские шахты» — работаем 24/7 по всей шахте!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o913-l1-f14852"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Now, please climb aboard before your cart leaves without you.",
+      "authored_tsv_row": "Station Master|Now, please climb aboard before your cart leaves without you.|А теперь залезай, пожалуйста, пока вагонетка не уехала без тебя.",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o913-l2-f14853"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Again.",
+      "authored_tsv_row": "Station Master|Again.|Опять.",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o913-l3-f14854"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Let's a go!",
+      "authored_tsv_row": "Station Master|Let's a go!|Поехали!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o1164-l0-f14855"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Ever been in one of these before? No?",
+      "authored_tsv_row": "Station Master|Ever been in one of these before? No?|Раньше ездил в такой? Нет?",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o1221-l1-f14856"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Well...",
+      "authored_tsv_row": "Station Master|Well...|Что ж...",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o1221-l2-f14857"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: I'm sure you'll be fine!",
+      "authored_tsv_row": "Station Master|I'm sure you'll be fine!|Уверен, всё будет хорошо!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o1221-l3-f14858"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Quickly now the Minecart is leaving!",
+      "authored_tsv_row": "Station Master|Quickly now the Minecart is leaving!|Скорее, вагонетка отправляется!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o1583-l1-f14860"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Off to the court? I would tell you to talk to the King but I don't know who he is anymore...",
+      "authored_tsv_row": "Station Master|Off to the court? I would tell you to talk to the King but I don't know who he is anymore...|Едешь ко двору? Посоветовал бы поговорить с королём, но уже не знаю, кто у нас король...",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o1901-l0-f14863"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Did you know the Court is almost as old as the throne room, it's got some lovely flower beds too!",
+      "authored_tsv_row": "Station Master|Did you know the Court is almost as old as the throne room, it's got some lovely flower beds too!|Знаешь, двор почти такой же старый, как тронный зал? А ещё там прекрасные клумбы!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o2039-l0-f14864"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: See those statues? They are the former Kings, Bunumir Ironbeard and Skordous Pebblebeard, guarding the entrance to the mines.",
+      "authored_tsv_row": "Station Master|See those statues? They are the former Kings, Bunumir Ironbeard and Skordous Pebblebeard, guarding the entrance to the mines.|Видишь статуи? Это прежние короли, Бунумир Железнобородый и Скордоус Камнебородый, охраняющие вход в шахты.",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o2233-l0-f14865"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Aristocrat passage ey? Best of luck to you.",
+      "authored_tsv_row": "Station Master|Aristocrat passage ey? Best of luck to you.|Значит, в Проход аристократов? Удачи тебе.",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o2455-l0-f14866"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Did you know that the Forge is so big it has to have multiple forging stations.",
+      "authored_tsv_row": "Station Master|Did you know that the Forge is so big it has to have multiple forging stations.|Знаешь, Кузня такая огромная, что в ней пришлось устроить несколько рабочих мест для ковки.",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o2588-l0-f14867"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: You ever seen those Goblins? Some say they lay eggs. How weird.",
+      "authored_tsv_row": "Station Master|You ever seen those Goblins? Some say they lay eggs. How weird.|Видел здешних гоблинов? Говорят, они откладывают яйца. Вот странность.",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o2772-l0-f14868"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: I once stumbled upon a hidden lake in these parts, Some unsavory characters living there robbed me of all my gold!",
+      "authored_tsv_row": "Station Master|I once stumbled upon a hidden lake in these parts, Some unsavory characters living there robbed me of all my gold!|Однажды я наткнулся тут на тайное озеро. Живущие там подозрительные типы отняли у меня всё золото!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o3215-l0-f14871"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: You came down the lift? I never thought you could get this far down! Someone should have called this place the Deeper Caverns!",
+      "authored_tsv_row": "Station Master|You came down the lift? I never thought you could get this far down! Someone should have called this place the Deeper Caverns!|Ты спустился на лифте? Не думал, что он опускается так глубоко! Надо было назвать это место Ещё более глубокими пещерами!",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o3375-l0-f14872"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Station Master: Hey, if you find any Titanium down here let me know! I wanted to buy some of that stuff for a new pickaxe.",
+      "authored_tsv_row": "Station Master|Hey, if you find any Titanium down here let me know! I wanted to buy some of that stuff for a new pickaxe.|Эй, найдёшь тут титан — дай знать! Я хотел прикупить немного для новой кирки.",
+      "reviewed_target_source_file": "NPC90_TICKET_MASTER_REVIEWED.tsv",
+      "reviewed_file_sha256": "0AA05482A4CB43E0C3A1B43DC641521DDFE2D92E2A1A090BB23ACA440C16FB15",
+      "occurrence_ids": [
+        "p81908-r790907-o3547-l0-f14873"
+      ],
+      "automatic_translation": false
+    }
+  ]
+}

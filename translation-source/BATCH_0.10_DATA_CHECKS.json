@@ -1,0 +1,107 @@
+{
+  "revision": "0.10.0-dev",
+  "scope": "Static source-data integrity; no Java/Fabric/game execution",
+  "new_snapshot_sources": 2045,
+  "previous_targets_updated": 5,
+  "delta_reported": 2045,
+  "numeric_roman_icon_mismatches": [],
+  "malformed_rows": [],
+  "duplicate_keys": {
+    "continuation.tsv": {
+      "Deep Sea Diver": 2,
+      "Intelligence.": 2
+    },
+    "continuation-patterns.tsv": {},
+    "lexicon.tsv": {
+      "Rabbit": 2
+    },
+    "BATCH_0.10_ACCESSORY_FAMILIES.tsv": {},
+    "BATCH_0.10_AUTHORED.tsv": {},
+    "BATCH_0.10_OBJECTS.tsv": {},
+    "BATCH_0.10_STYLES.tsv": {}
+  },
+  "context_guard_examples": {
+    "Alligator Skin": "Шкура аллигатора",
+    "Daedalus Stick": "Палка Дедала",
+    "Large Enchanted Agronomy Sack": "Большой мешок для зачарованного урожая"
+  },
+  "updated_previous_sources": [
+    {
+      "source": "Aurora Dye",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DYE_AURORA.json",
+        "config/skyblocker/item-repo/items/DYE_AURORA.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "text"
+      ],
+      "translation": "Краситель «Полярное сияние»",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Jade Dye",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DYE_JADE.json",
+        "config/skyblocker/item-repo/items/DYE_JADE.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "text"
+      ],
+      "translation": "Краситель «Нефрит»",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Lava Dye",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DYE_LAVA.json",
+        "config/skyblocker/item-repo/items/DYE_LAVA.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "text"
+      ],
+      "translation": "Краситель «Лава»",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Spirit Dye",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DYE_SPIRIT.json",
+        "config/skyblocker/item-repo/items/DYE_SPIRIT.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "text"
+      ],
+      "translation": "Краситель «Дух»",
+      "translation_origin": "continuation.tsv"
+    },
+    {
+      "source": "Spooky Dye",
+      "occurrences": 3,
+      "origins": [
+        "config/notenoughupdates/repo/items/DYE_SPOOKY.json",
+        "config/skyblocker/item-repo/items/DYE_SPOOKY.json",
+        "skyblock-repo-cache/items.min.json"
+      ],
+      "roles": [
+        "displayname",
+        "text"
+      ],
+      "translation": "Краситель «Жуткий»",
+      "translation_origin": "continuation.tsv"
+    }
+  ],
+  "quality_verified": false,
+  "runtime_verified": false
+}

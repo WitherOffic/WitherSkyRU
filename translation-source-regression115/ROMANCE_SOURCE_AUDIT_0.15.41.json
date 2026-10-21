@@ -1,0 +1,1776 @@
+{
+  "version": "0.15.41-dev",
+  "reviewed_date": "2026-10-13",
+  "status": "PUBLIC_FUNCTIONAL_GAME_STRINGS_NOT_LIVE_CAPTURE",
+  "scope": "Both Dialogue tables, stages 1-10, after-quest/Garden. No walkthrough text; item upgrade notices separated from NPC text.",
+  "sources": [
+    "https://hypixelskyblock.minecraft.wiki/w/Romero",
+    "https://hypixelskyblock.minecraft.wiki/w/Juliette"
+  ],
+  "records": [
+    {
+      "source_key": "romance.public.1",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Bring the item I gave you to Juliette!",
+      "condition_lines": [
+        149,
+        150
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.2",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: If you lost the item, we can fix that! Although, you will have to cover my expenses, considering the sentimental value... [CLICK]",
+      "condition_lines": [
+        150
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.3",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I'm... trying to find gold...",
+      "condition_lines": [
+        153
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.4",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: but I can only find clay and granite here!",
+      "condition_lines": [
+        153
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.5",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I heard of a gold mine in the Savanna Woodland.",
+      "condition_lines": [
+        153
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.6",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I'd like to craft a gift for my beloved Juliette.",
+      "condition_lines": [
+        153
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.7",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Could you find some gold for me, please?",
+      "condition_lines": [
+        153
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.8",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Thank you so much!",
+      "condition_lines": [
+        154
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.9",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Here, could you do me a favor and bring this gift back to Juliette?",
+      "condition_lines": [
+        154
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.10",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Groceries?",
+      "condition_lines": [
+        157
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.11",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Haha!",
+      "condition_lines": [
+        157
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.12",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I'm here to get a flower bouquet for Juliette.",
+      "condition_lines": [
+        157
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.13",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Could you help out and get some flowers?",
+      "condition_lines": [
+        157
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.14",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I was thinking of a bouquet of roses.",
+      "condition_lines": [
+        158
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.15",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Just one? That's not much of a bouquet!",
+      "condition_lines": [
+        159
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.16",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Going to need a few more than that!",
+      "condition_lines": [
+        160
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.17",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I love roses! Can you get more?",
+      "condition_lines": [
+        161
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.18",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That's a lot of flowers! Maybe a few more...",
+      "condition_lines": [
+        162
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.19",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Wow, They're beautiful!",
+      "condition_lines": [
+        163
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.20",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Please bring the bouquet to Juliette!",
+      "condition_lines": [
+        163
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.21",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I love emeralds!",
+      "condition_lines": [
+        166
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.22",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: There's emerald on everything I like!",
+      "condition_lines": [
+        166
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.23",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: This one can't be dislodged!",
+      "condition_lines": [
+        166
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.24",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Could you bring me some emerald?",
+      "condition_lines": [
+        166
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.25",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I'm going to need a full stack of those!",
+      "condition_lines": [
+        167
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.26",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Very cool, but regular emeralds will do the trick.",
+      "condition_lines": [
+        168
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.27",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Although I adore this pristine piece of emerald, I don't need it yet.",
+      "condition_lines": [
+        169
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.28",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I don't need a whole block!",
+      "condition_lines": [
+        170
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.29",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Am",
+      "condition_lines": [
+        171
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.30",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: -az-",
+      "condition_lines": [
+        171
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.31",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: -ing!",
+      "condition_lines": [
+        171
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.32",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Now bring this gift to Juliette!",
+      "condition_lines": [
+        171
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.33",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Hey, you again!",
+      "condition_lines": [
+        174
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.34",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I wanted mushrooms to concoct a stew,",
+      "condition_lines": [
+        174
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.35",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: but these big red ones won't cut it.",
+      "condition_lines": [
+        174
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.36",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I need some decent mushrooms.",
+      "condition_lines": [
+        174
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.37",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I can't cook a gourmet stew with tiny mushrooms!",
+      "condition_lines": [
+        175
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.38",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I need bigger ones!",
+      "condition_lines": [
+        175
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.39",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That's not the color of mushroom I'm looking for.",
+      "condition_lines": [
+        176
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.40",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Sweet! Just what I need!",
+      "condition_lines": [
+        177
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.41",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: EXCEPT... Could you enchant it?",
+      "condition_lines": [
+        177
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.42",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I need the perfect stew for my beloved Juliette.",
+      "condition_lines": [
+        177
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.43",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That's a big mushroom that I don't need.",
+      "condition_lines": [
+        178
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.44",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: It's well known that good stews aren't made from brown mushrooms.",
+      "condition_lines": [
+        178
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.45",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I need red mushrooms.",
+      "condition_lines": [
+        179
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.46",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Fantastic!",
+      "condition_lines": [
+        180
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.47",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: There's some stew for Juliette!",
+      "condition_lines": [
+        180
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.48",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Mmh! Tastes great!",
+      "condition_lines": [
+        180
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.49",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: So cold! I wish I had coffee right now...",
+      "condition_lines": [
+        183
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.50",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+      "condition_lines": [
+        183
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.51",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Literally!",
+      "condition_lines": [
+        183
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.52",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I wish I could jump like a Rabbit and grab a chunk of it.",
+      "condition_lines": [
+        183
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.53",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: A potion might do the trick, but not quite that one.",
+      "condition_lines": [
+        184
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.54",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Rabbit potion? Sounds great!",
+      "condition_lines": [
+        185
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.55",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Although... could you bring a more potent one?",
+      "condition_lines": [
+        185
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.56",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I don't want to take any chances!",
+      "condition_lines": [
+        185
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.57",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Awesome potion!",
+      "condition_lines": [
+        186
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.58",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Any chance you could have it taste like coffee?",
+      "condition_lines": [
+        186
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.59",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Come back with a caffeinated beverage, thanks!",
+      "condition_lines": [
+        186
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.60",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Thanks!",
+      "condition_lines": [
+        187
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.61",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: See ya later!",
+      "condition_lines": [
+        187
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.62",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Bring the chunk to Juliette!",
+      "condition_lines": [
+        187
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.63",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Hi friend!",
+      "condition_lines": [
+        190
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.64",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+      "condition_lines": [
+        190
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.65",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I collected tons of gold...",
+      "condition_lines": [
+        190
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.66",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Now I just need enough heat to melt it!",
+      "condition_lines": [
+        190
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.67",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That's not even close to hot!",
+      "condition_lines": [
+        191
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.68",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: *tastes it*",
+      "condition_lines": [
+        192
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.69",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: This is the kind of lava I need...",
+      "condition_lines": [
+        192
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.70",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Except I need hotter.",
+      "condition_lines": [
+        192
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.71",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: This is too magical for my taste.",
+      "condition_lines": [
+        193
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.72",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Perfect!",
+      "condition_lines": [
+        194
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.73",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Thank you so much for helping with all my gift ideas.",
+      "condition_lines": [
+        194
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.74",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Can you bring this one to Juliette?",
+      "condition_lines": [
+        194
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.75",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I'm trying to solve this Rubix Prism.",
+      "condition_lines": [
+        197
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.76",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Going to need someone wicked smart to solve it.",
+      "condition_lines": [
+        197
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.77",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: You're pretty smart.",
+      "condition_lines": [
+        198
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.78",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I bet you wish you were smarter, though!",
+      "condition_lines": [
+        198
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.79",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: While very astute.",
+      "condition_lines": [
+        199
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.80",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: you don't have quite what it takes for the Prism!",
+      "condition_lines": [
+        199
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.81",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Can you somehow get even more intelligence?",
+      "condition_lines": [
+        200
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.82",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I can definitely see it, your brain barely fits your head.",
+      "condition_lines": [
+        201
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.83",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Just not quite genius enough to solve the Prism!",
+      "condition_lines": [
+        201
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.84",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: If I was to quantify it, I'd say you need 1,291 Intelligence.",
+      "condition_lines": [
+        202
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.85",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Incredible!",
+      "condition_lines": [
+        203
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.86",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: You solved the Prism!",
+      "condition_lines": [
+        203
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.87",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Please, bring it to Juliette and show her how smart I am.",
+      "condition_lines": [
+        203
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.88",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Juliette keeps talking to me about this other person.",
+      "condition_lines": [
+        206
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.89",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I don't know what's going, they meet over and over!",
+      "condition_lines": [
+        206
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.90",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Our love is stronger than theirs!",
+      "condition_lines": [
+        206
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.91",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I'm waiting for this other person to show up.",
+      "condition_lines": [
+        206
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.92",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I'll need my favorite weapon, can you fetch it for me?",
+      "condition_lines": [
+        206
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.93",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Wow.",
+      "condition_lines": [
+        207
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.94",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That's not even a weapon!",
+      "condition_lines": [
+        208
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.95",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I do like it though!",
+      "condition_lines": [
+        208
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.96",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That sword is weak!",
+      "condition_lines": [
+        209
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.97",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Besides, would you really give it to me?",
+      "condition_lines": [
+        209
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.98",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: This is exactly what I need!",
+      "condition_lines": [
+        210
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.99",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Now I just have to wait for the pretendent.",
+      "condition_lines": [
+        210
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.100",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Please bring this poem to Juliette.",
+      "condition_lines": [
+        210
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.101",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I hope she'll see the reason.",
+      "condition_lines": [
+        210
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.102",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: It's you, <player>!",
+      "condition_lines": [
+        213
+      ],
+      "classification": "nickname_family"
+    },
+    {
+      "source_key": "romance.public.103",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I need your help to win Juliette back.",
+      "condition_lines": [
+        213
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.104",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: My plan is to assemble the greatest bouquet ever!",
+      "condition_lines": [
+        213
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.105",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I need a ridiculous amount of flowers.",
+      "condition_lines": [
+        213
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.106",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That's exquisite!!",
+      "condition_lines": [
+        214
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.107",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: With this, I can get enough flowers to win Juliette back!",
+      "condition_lines": [
+        214
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.108",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: <Player>! You're the best person to turn the day into something memorable!",
+      "condition_lines": [
+        217
+      ],
+      "classification": "nickname_family"
+    },
+    {
+      "source_key": "romance.public.109",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: But first, you should wear something nice!",
+      "condition_lines": [
+        217
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.110",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Looking slick!",
+      "condition_lines": [
+        218
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.111",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: You really look stunning!",
+      "condition_lines": [
+        218
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.112",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+      "condition_lines": [
+        218
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.113",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Please, one last time, give this to Juliette.",
+      "condition_lines": [
+        218
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.114",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I love Juliette!",
+      "condition_lines": [
+        221
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.115",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Fancy seeing you here, friend! Today is a special day for me, as I am seeing Juliette! Think you can help me get her some flowers?",
+      "condition_lines": [
+        222
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.116",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: You're a lifesaver! Today's going to be the best day ever! Well, after my wedding day, that is.",
+      "condition_lines": [
+        223
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.117",
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Just because I see Juliette every day doesn't mean it's not a reason to celebrate.",
+      "condition_lines": [
+        224
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.118",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: You found Romero?",
+      "condition_lines": [
+        37
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.119",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Did he have anything for me?",
+      "condition_lines": [
+        37
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.120",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: (Hold Romero's gift to progress)",
+      "condition_lines": [
+        37
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.121",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Nice to meet you!",
+      "condition_lines": [
+        40
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.122",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Could you find my dear Romero?",
+      "condition_lines": [
+        40
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.123",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: He's in a cave somewhere under the Savanna Woodland.",
+      "condition_lines": [
+        40
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.124",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: ...",
+      "condition_lines": [
+        40,
+        41,
+        53
+      ],
+      "classification": "punctuation_unchanged"
+    },
+    {
+      "source_key": "romance.public.125",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Oh!",
+      "condition_lines": [
+        40
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.126",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: He wears glasses and blends well in a crowd!",
+      "condition_lines": [
+        40
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.127",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: You found Romero? That's weird, I just saw him!",
+      "condition_lines": [
+        41
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.128",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: He wanted me to have this? So sweet!",
+      "condition_lines": [
+        41
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.129",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: A yellow rock? What's the point of that?",
+      "condition_lines": [
+        41
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.130",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Here, you keep it!",
+      "condition_lines": [
+        41
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.131",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Since you're here, can you find Romero again?",
+      "condition_lines": [
+        41,
+        44
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.132",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: He said he was getting groceries at the downtown markets.",
+      "condition_lines": [
+        41,
+        44
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.133",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Romero? He just came over with the groceries.",
+      "condition_lines": [
+        45
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.134",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: These flowers are for me?",
+      "condition_lines": [
+        45
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.135",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: That's so kind of you!",
+      "condition_lines": [
+        45
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.136",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: You know I'm with Romero, right?",
+      "condition_lines": [
+        45
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.137",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Dear, sorry for the inconvenience...",
+      "condition_lines": [
+        45,
+        48
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.138",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Can you please find Romero again?",
+      "condition_lines": [
+        45,
+        48
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.139",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: He's at some sort of emerald altar...",
+      "condition_lines": [
+        45,
+        48
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.140",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Oof! Why did you bring this all the way here?",
+      "condition_lines": [
+        49
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.141",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: How is that a gift?",
+      "condition_lines": [
+        49
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.142",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Just keep it! I don't want this!",
+      "condition_lines": [
+        49
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.143",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: What I want is Romero!",
+      "condition_lines": [
+        49,
+        52
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.144",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: For some reason, he's now looking for...",
+      "condition_lines": [
+        49,
+        52
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.145",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: The largest, most evil patch of fungus ever!",
+      "condition_lines": [
+        49,
+        52
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.146",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Stew? I love stew!",
+      "condition_lines": [
+        53
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.147",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: !!!",
+      "condition_lines": [
+        53
+      ],
+      "classification": "punctuation_unchanged"
+    },
+    {
+      "source_key": "romance.public.148",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Yuck!!!",
+      "condition_lines": [
+        53,
+        53,
+        53,
+        53,
+        53
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.149",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: DISGUSTING!",
+      "condition_lines": [
+        53
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.150",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Is that a stew from hell?",
+      "condition_lines": [
+        53
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.151",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Maybe Romero should give you cooking lessons!",
+      "condition_lines": [
+        53
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.152",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+      "condition_lines": [
+        53,
+        56
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.153",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Did you know he likes photography?",
+      "condition_lines": [
+        53,
+        56
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.154",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Just now, he went to take pictures of the old castle.",
+      "condition_lines": [
+        53,
+        56
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.155",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Go find him!",
+      "condition_lines": [
+        53,
+        56
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.156",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: You really believe that this is from the Moon?",
+      "condition_lines": [
+        57
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.157",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: How? Someone flew up there?",
+      "condition_lines": [
+        57
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.158",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Thanks, I guess.",
+      "condition_lines": [
+        57
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.159",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Actually, I heard Romero flew close to the Sun.",
+      "condition_lines": [
+        57,
+        60
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.160",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Sounds more like a metaphor, like...",
+      "condition_lines": [
+        57,
+        60
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.161",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: He went to where gold is smelted.",
+      "condition_lines": [
+        57,
+        60
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.162",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Please find him, wherever that is!",
+      "condition_lines": [
+        57,
+        60
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.163",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: This is a wonderful gift!",
+      "condition_lines": [
+        61
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.164",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I will keep this one for myself.",
+      "condition_lines": [
+        61
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.165",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Sometimes, some things have to remain a mystery.",
+      "condition_lines": [
+        61
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.166",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: About something not so secret, can you get in touch with Romero?",
+      "condition_lines": [
+        61,
+        64
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.167",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: He told me he's in his home.",
+      "condition_lines": [
+        61,
+        64
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.168",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Uh? Romero solved his cube?",
+      "condition_lines": [
+        65
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.169",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: That's unbelievable.",
+      "condition_lines": [
+        65
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.170",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: No, really, I don't believe it at all.",
+      "condition_lines": [
+        65
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.171",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I don't know why Romero is trying to be so unlike himself lately.",
+      "condition_lines": [
+        65,
+        68
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.172",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I like him just the way he is!",
+      "condition_lines": [
+        65,
+        68,
+        75
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.173",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: He says he's getting equipment for a duel.",
+      "condition_lines": [
+        65,
+        68
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.174",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Can you find Romero before he hurts himself?",
+      "condition_lines": [
+        65,
+        68
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.175",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: This is a wonderful poem.",
+      "condition_lines": [
+        69
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.176",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: But, does he really think there's someone else?",
+      "condition_lines": [
+        69
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.177",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I can't possibly imagine why he'd think that.",
+      "condition_lines": [
+        69
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.178",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Romero went to meditate at his retreat.",
+      "condition_lines": [
+        69,
+        72
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.179",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: It's the smallest house in SkyBlock.",
+      "condition_lines": [
+        69,
+        72
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.180",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Please find him, I'm worried!",
+      "condition_lines": [
+        69,
+        72
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.181",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Another gift from Romero?",
+      "condition_lines": [
+        75
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.182",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Thank you for delivering it.",
+      "condition_lines": [
+        75
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.183",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+      "condition_lines": [
+        75
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.184",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I don't need tons of gifts to know that.",
+      "condition_lines": [
+        75
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.185",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: It's decided, this is the day!",
+      "condition_lines": [
+        78
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.186",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: We're making it official!",
+      "condition_lines": [
+        78
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.187",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: We can't thank you enough for bringing us together!",
+      "condition_lines": [
+        79
+      ],
+      "classification": "exact_dialogue"
+    },
+    {
+      "source_key": "romance.public.188",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: You're the best, <player>!",
+      "condition_lines": [
+        79
+      ],
+      "classification": "nickname_family"
+    },
+    {
+      "source_key": "romance.public.189",
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I love Romero!",
+      "condition_lines": [
+        82
+      ],
+      "classification": "exact_dialogue"
+    }
+  ],
+  "upgrade_notices": [
+    {
+      "source": "Your Shiny Yellow Rock was upgraded to Yellow Rock of Love!",
+      "line": 45
+    },
+    {
+      "source": "Your Yellow Rock of Love was upgraded to Mediocre Ring of Love!",
+      "line": 49
+    },
+    {
+      "source": "Your Mediocre Ring of Love was upgraded to Rubbish Ring of Love!",
+      "line": 53
+    },
+    {
+      "source": "Your Rubbish Ring of Love was upgraded to Modest Ring of Love!",
+      "line": 57
+    },
+    {
+      "source": "Your Modest Ring of Love was upgraded to Refined Ring of Love!",
+      "line": 61
+    },
+    {
+      "source": "Your Refined Ring of Love was upgraded to Classy Ring of Love!",
+      "line": 65
+    },
+    {
+      "source": "Your Classy Ring of Love was upgraded to Exquisite Ring of Love!",
+      "line": 69
+    }
+  ]
+}

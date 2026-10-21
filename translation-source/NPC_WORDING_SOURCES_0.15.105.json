@@ -1,0 +1,632 @@
+{
+  "scope": "Eleven explicit wording/anchor revisions; not eleven new exact keys. Historical104 evidence is retained unchanged.",
+  "records": [
+    {
+      "index": 0,
+      "source": "[NPC] Brigette: There are a lot of scams lurking around every corner.",
+      "old_translation": "[NPC] Brigette: Мошенничество может подстерегать на каждом шагу.",
+      "translation": "[NPC] Brigette: За каждым углом подстерегает множество мошеннических уловок.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "scams",
+          "target": "Мошенничество"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "scams",
+          "target": "мошеннических уловок"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "lot ",
+          "target": "множество"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p126017-r843624-o10198-l7-f1955",
+        "block_id": "p126017-r843624-o10198",
+        "page": "Brigette",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Brigette?oldid=843624",
+        "revision": 843624,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Brigette",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Brigette: There are a lot of scams lurking around every corner.",
+        "source_legacy_line": "§e[NPC] Brigette§f: There are a §clot §fof scams lurking around every corner.",
+        "payload_line": 7,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Brigette: Мошенничество может подстерегать на каждом шагу.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p126017-r843624-o10198-l7-f1955"
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "source": "[NPC] Gwendolyn: You should also talk to Emissary Braum, they have more information about commissions.",
+      "old_translation": "[NPC] Gwendolyn: Поговорите также с посланником Braum — он расскажет подробнее о поручениях.",
+      "translation": "[NPC] Gwendolyn: Поговорите также с посланником Браумом — он расскажет подробнее о поручениях.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Emissary Braum",
+          "target": "посланником Braum"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Emissary Braum",
+          "target": "посланником Браумом"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "Emissary Braum",
+          "target": "посланником Браумом"
+        },
+        {
+          "source": "commissions",
+          "target": "поручениях"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p78307-r823095-o978-l8-f7629",
+        "block_id": "p78307-r823095-o978",
+        "page": "Gwendolyn",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwendolyn?oldid=823095",
+        "revision": 823095,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Gwendolyn",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Gwendolyn: You should also talk to Emissary Braum, they have more information about commissions.",
+        "source_legacy_line": "§e[NPC] §5Gwendolyn§f: You should also talk to §6Emissary Braum§f, they have more information about §ecommissions§f.",
+        "payload_line": 8,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Gwendolyn: Поговорите также с посланником Braum — он расскажет подробнее о поручениях.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p78307-r823095-o978-l8-f7629"
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "source": "[NPC] Gwendolyn: Hey! Someone special has been asking to meet you!",
+      "old_translation": "[NPC] Gwendolyn: Эй! Кое-кто очень хотел с вами встретиться!",
+      "translation": "[NPC] Gwendolyn: Эй! Кое-кто особенный просил о встрече с вами!",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [],
+      "primary_anchors": [],
+      "style_anchors": [
+        {
+          "source": "special ",
+          "target": "особенный"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p78307-r823095-o2275-l1-f7633",
+        "block_id": "p78307-r823095-o2275",
+        "page": "Gwendolyn",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwendolyn?oldid=823095",
+        "revision": 823095,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Gwendolyn",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Gwendolyn: Hey! Someone special has been asking to meet you!",
+        "source_legacy_line": "§e[NPC] §5Gwendolyn§f: Hey! Someone §dspecial §fhas been asking to meet you!",
+        "payload_line": 1,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Gwendolyn: Эй! Кое-кто очень хотел с вами встретиться!",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p78307-r823095-o2275-l1-f7633"
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+      "old_translation": "[NPC] Juliette: Ох, люблю Romero! Он столько всего умеет.",
+      "translation": "[NPC] Juliette: Ох, люблю Ромеро! Он столько всего умеет.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Romero",
+          "target": "Romero"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Romero",
+          "target": "Ромеро"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "Romero",
+          "target": "Ромеро"
+        },
+        {
+          "source": "He ",
+          "target": "Он"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9654-r789285-o3505-l13-f8907",
+        "block_id": "p9654-r789285-o3505",
+        "page": "Juliette",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+        "revision": 789285,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Juliette",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+        "source_legacy_line": "§e[NPC] Juliette§f: Oh! I love §eRomero§f! §oHe §fhas so many skills.",
+        "payload_line": 13,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Juliette: Ох, люблю Romero! Он столько всего умеет.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9654-r789285-o3505-l13-f8907",
+          "p9654-r789285-o4303-l1-f8911"
+        ]
+      }
+    },
+    {
+      "index": 13,
+      "source": "[NPC] Juliette: Thank you for delivering it.",
+      "old_translation": "[NPC] Juliette: Спасибо, что принесли его.",
+      "translation": "[NPC] Juliette: Спасибо вам, что принесли его.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [],
+      "primary_anchors": [],
+      "style_anchors": [
+        {
+          "source": "you ",
+          "target": "вам"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9654-r789285-o7756-l2-f8958",
+        "block_id": "p9654-r789285-o7756",
+        "page": "Juliette",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+        "revision": 789285,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Juliette",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Juliette: Thank you for delivering it.",
+        "source_legacy_line": "§e[NPC] Juliette§f: Thank §dyou §ffor delivering it.",
+        "payload_line": 2,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Juliette: Спасибо, что принесли его.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9654-r789285-o7756-l2-f8958"
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+      "old_translation": "[NPC] Juliette: Не понимаю, почему Romero никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+      "translation": "[NPC] Juliette: Не понимаю, почему Ромеро никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Romero",
+          "target": "Romero"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Romero",
+          "target": "Ромеро"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "how ",
+          "target": "почему"
+        },
+        {
+          "source": "Romero ",
+          "target": "Ромеро"
+        },
+        {
+          "source": "I LOVE HIM",
+          "target": "Я ЕГО ЛЮБЛЮ"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9654-r789285-o7756-l3-f8959",
+        "block_id": "p9654-r789285-o7756",
+        "page": "Juliette",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+        "revision": 789285,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Juliette",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+        "source_legacy_line": "§e[NPC] Juliette§f: I don't know §ohow §eRomero §fhas such hard a time understanding that §dI LOVE HIM§f.",
+        "payload_line": 3,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Juliette: Не понимаю, почему Romero никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9654-r789285-o7756-l3-f8959"
+        ]
+      }
+    },
+    {
+      "index": 25,
+      "source": "[NPC] Ozanne: Crazy stuff!",
+      "old_translation": "[NPC] Ozanne: Вот были времена!",
+      "translation": "[NPC] Ozanne: Вот это безумие!",
+      "primary_resource": "npc-expansion74.json",
+      "old_primary_anchors": [],
+      "primary_anchors": [],
+      "style_anchors": [
+        {
+          "source": "Crazy ",
+          "target": "безумие"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p89572-r789956-o1157-l3-f11533",
+        "block_id": "p89572-r789956-o1157",
+        "page": "Ozanne",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ozanne?oldid=789956",
+        "revision": 789956,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Ozanne",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Ozanne: Crazy stuff!",
+        "source_legacy_line": "§e[NPC] Ozanne§f:§c Crazy §fstuff!",
+        "payload_line": 3,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Ozanne: Вот были времена!",
+            "resource": "npc-expansion74.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p89572-r789956-o1157-l3-f11533"
+        ]
+      }
+    },
+    {
+      "index": 36,
+      "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+      "old_translation": "[NPC] Romero: Я хочу добраться до Луны ради Juliette.",
+      "translation": "[NPC] Romero: Я хочу добраться до Луны ради Джульетты.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Juliette"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "moon ",
+          "target": "Луны"
+        },
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9657-r845939-o7785-l1-f13037",
+        "block_id": "p9657-r845939-o7785",
+        "page": "Romero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+        "revision": 845939,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Romero",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+        "source_legacy_line": "§e[NPC] Romero§f: I want to reach the §emoon §ffor §eJuliette§f.",
+        "payload_line": 1,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Romero: Я хочу добраться до Луны ради Juliette.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9657-r845939-o7785-l1-f13037"
+        ]
+      }
+    },
+    {
+      "index": 41,
+      "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+      "old_translation": "[NPC] Romero: Хочу сделать для Juliette тайный подарок.",
+      "translation": "[NPC] Romero: Хочу сделать для Джульетты тайный подарок.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Juliette"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "secret gift ",
+          "target": "тайный подарок"
+        },
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9657-r845939-o9077-l1-f13051",
+        "block_id": "p9657-r845939-o9077",
+        "page": "Romero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+        "revision": 845939,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Romero",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+        "source_legacy_line": "§e[NPC] Romero§f: I want to make a §csecret gift §ffor §eJuliette§f.",
+        "payload_line": 1,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Romero: Хочу сделать для Juliette тайный подарок.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9657-r845939-o9077-l1-f13051"
+        ]
+      }
+    },
+    {
+      "index": 52,
+      "source": "[NPC] Romero: I do like it though!",
+      "old_translation": "[NPC] Romero: Хотя мне нравится!",
+      "translation": "[NPC] Romero: И всё же мне это действительно нравится!",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [],
+      "primary_anchors": [],
+      "style_anchors": [
+        {
+          "source": "do ",
+          "target": "действительно"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9657-r845939-o11894-l1-f13082",
+        "block_id": "p9657-r845939-o11894",
+        "page": "Romero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+        "revision": 845939,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Romero",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Romero: I do like it though!",
+        "source_legacy_line": "§e[NPC] Romero§f: I §ado §flike it though!",
+        "payload_line": 1,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Romero: Хотя мне нравится!",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9657-r845939-o11894-l1-f13082"
+        ]
+      }
+    },
+    {
+      "index": 59,
+      "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+      "old_translation": "[NPC] Romero: Спасибо огромное, что снова свели нас с Juliette.",
+      "translation": "[NPC] Romero: Спасибо огромное, что снова свели нас с Джульеттой.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Juliette"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Джульеттой"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "Thank you ",
+          "target": "Спасибо"
+        },
+        {
+          "source": "Juliette ",
+          "target": "Джульеттой"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9657-r845939-o13340-l2-f13099",
+        "block_id": "p9657-r845939-o13340",
+        "page": "Romero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+        "revision": 845939,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Romero",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+        "source_legacy_line": "§e[NPC] Romero§f: §aThank you §fso much for reuniting §eJuliette §fand I.",
+        "payload_line": 2,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Romero: Спасибо огромное, что снова свели нас с Juliette.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9657-r845939-o13340-l2-f13099"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "runtime_entry_count": 171,
+  "removed_entries": [],
+  "not_live_fps_proof": true,
+  "after_sha256": "9C1E7A9F3AADF17EC8522792776661B933DC3200D0CA6DF93832A955A2871957",
+  "new_npc_resources_loaded_once_into_existing_map": true,
+  "before_sha256": "24ADA8A3A7B5757274ECAA2792730F52E75250B3E6E6DFAD5C823F967084D3D6",
+  "added_entries": [
+    "META-INF/licenses/NPC76-SOURCES.txt",
+    "data/witherskyru/npc-expansion76.json"
+  ],
+  "new_frame_hooks": 0,
+  "old_translation_and_asset_resources_byte_identical": 44,
+  "changed": [
+    {
+      "before": "48B9687CC3550631E9F190F4DB7BB89A2B5F9D0583365FE458CAE37A6AFCFD99",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Part.class",
+      "after": "B13578425DF8297A8849A1F550523AAC6F3FF70CD71AD74267EFCC80B5A69FD0"
+    },
+    {
+      "before": "F25BB38FB962FFE90080F755683FF0ACF17681ED5BDBE122AAA2BD3CDA9CF3ED",
+      "entry": "ru/wither/skyru/NpcDialogueTranslator.class",
+      "after": "2F4D629232ADB3E30AFF0E04666EAEA7409A321AF2B12778030FCED96A18154B"
+    },
+    {
+      "before": "DD1092B5A82032263F20B313DCFEE05BE78AFD1BABB3F5D1FC314A0749CBB223",
+      "entry": "fabric.mod.json",
+      "after": "8603104ADE5A513D66C929F98C016334F16F12A948EC12B8C5B78C6B591917FE"
+    },
+    {
+      "before": "18F7D5B0417365E55E5B9CEE7247B29ADE8A94ADEA331113DC192A4A36F8E751",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$QuizLine66.class",
+      "after": "02E0103966362DB4568DAD4E9B730C17AFAF118BD1260D48976BE75954D5A2B4"
+    },
+    {
+      "before": "C5DB8E6F776D0E77B54FDC44785CB251C9BE2C3F63824B62BB1976322349354F",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator.class",
+      "after": "6C32382457AD95524F0BD303847B4B2A1B1D20C9F571E24BFC8EB5A965CF8239"
+    },
+    {
+      "before": "146C726527E543BD2B2223A99011AD6CAA65E2DE89D26CD213F8566D240B360C",
+      "entry": "ru/wither/skyru/ChatNotificationTranslator$Edit.class",
+      "after": "4F5CE589EE22DAFA322DA8156AF927F09372545A01A5E2FFF0DD4FE421FE45D6"
+    }
+  ],
+  "before": "0.15.75-dev",
+  "unchanged_other_runtime_classes": 107,
+  "after": "0.15.76-dev",
+  "new_per_message_providers": 0,
+  "all_frame_world_input_item_dictionary_and_prepared_cache_classes_byte_identical": true
+}

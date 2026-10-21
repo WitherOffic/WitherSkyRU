@@ -1,0 +1,38 @@
+{
+  "game_mods_or_settings_changed": false,
+  "max_output_codepoints_per_plan": 512,
+  "plan_key_changes": [
+    "source text",
+    "run boundaries",
+    "Style reference alias partition",
+    "compact mode",
+    "dictionary instance",
+    "player roster contents"
+  ],
+  "fallback": "Oversized/complex inputs and unmappable result styles use previous translation; output-over-limit results are not cached.",
+  "not_stored": [
+    "source sequence",
+    "Style",
+    "Component",
+    "hover or click event",
+    "font textures",
+    "frame context"
+  ],
+  "admission": "First occurrence stores only a primitive signature; a repeated matching candidate prepares a plan. Full text/layout checked before reuse; hash collisions never authorize hits.",
+  "max_aggregate_output_codepoints": 16384,
+  "max_input_utf16_units": 256,
+  "current_per_draw": [
+    "source glyph snapshot",
+    "input/player/F3 guards",
+    "current styles and actions",
+    "font measurement and fitting",
+    "Minecraft draw"
+  ],
+  "jar_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+  "stored": "Input text keys, primitive layout/alias metadata and immutable glyph/index/run arrays. One pending pure key is possible during preparation; dictionary and roster owners are weak references.",
+  "max_input_runs": 16,
+  "version": "0.15.72-dev",
+  "zero_frame_cost_proven": false,
+  "slots_per_using_thread": 128,
+  "all_contexts_event_driven": false
+}

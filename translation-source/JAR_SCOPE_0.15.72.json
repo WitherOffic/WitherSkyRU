@@ -1,0 +1,44 @@
+{
+  "changed": [
+    {
+      "entry": "ru/wither/skyru/SkyRuClient.class",
+      "before": "8ED043CE9538A87B56ED352C838CF0A8426FF7147A9B54C2ED4F462E587A345B",
+      "after": "29450D8FBA1AE15ABB4DB7B37AD394E48A1B0FB619884DFDA1B51C1886B7DEEB"
+    },
+    {
+      "entry": "ru/wither/skyru/PlayerNames$NameIndex.class",
+      "before": "C64A3BE1AF5EF7F9321F83D80AC32BB8919B52A03C5A96FBC80FB53DF066EA42",
+      "after": "B61EDCD7BE3E0BC0E428E259DF0B85A3DB4FF48D0CAE2CC862024D37FDE43EC2"
+    },
+    {
+      "entry": "fabric.mod.json",
+      "before": "604AABDB689FD1ACDB01C29A5ABB404EB126F8448F790A1B1BAF1667F6A86304",
+      "after": "BAE0C1E87F5584529FB4A406D51CBB7E75D5A12D7C3FB64AF6C55C68751D23CB"
+    },
+    {
+      "entry": "ru/wither/skyru/PlayerNames.class",
+      "before": "E6B0B24B3D2DFB8E80A8917E5699BEFBD4B8C5795D7FAB807A08A5E702465B80",
+      "after": "66A83EA8471EEF6382E179102C6CA3E21BA881B74AD87252DB43E927224E2B9E"
+    }
+  ],
+  "removed_entries": [],
+  "unchanged_translation_and_asset_resources": 42,
+  "after": "0.15.72-dev",
+  "new_frame_hooks": 0,
+  "all_translation_resources_byte_identical": true,
+  "runtime_entry_count": 165,
+  "before_sha256": "0BAA651B0D612D95AC0D3F486278094C0B16497CD6618914791C8BA21316CA46",
+  "after_sha256": "1645060A5C13D085B44AFE3666009F88F31BD55CD8C6ED2E0AF13B76EFD48E5D",
+  "not_live_fps_proof": true,
+  "added_entries": [
+    "ru/wither/skyru/PreparedDisplay$Compiler.class",
+    "ru/wither/skyru/PreparedDisplay$Cache.class",
+    "ru/wither/skyru/PreparedDisplay$Renderer.class",
+    "ru/wither/skyru/PreparedDisplay$Bound.class",
+    "ru/wither/skyru/PreparedDisplay$UniformBound.class",
+    "ru/wither/skyru/PreparedDisplay$Entry.class",
+    "ru/wither/skyru/PreparedDisplay.class",
+    "ru/wither/skyru/PreparedDisplay$Plan.class"
+  ],
+  "before": "0.15.71-dev"
+}

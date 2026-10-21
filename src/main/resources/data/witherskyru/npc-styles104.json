@@ -1,0 +1,1036 @@
+{
+  "format_version": 1,
+  "scope": "72 published alternate layouts. Eleven targets explicitly revised in105; old primary source spans retained. Startup table only.",
+  "records": [
+    {
+      "speaker": "Carnival Leader",
+      "source": "[NPC] Carnival Leader: Catch some fish and have a relaxing time!",
+      "translation": "[NPC] Carnival Leader: Порыбачь и отдохни!",
+      "style_anchors": [
+        {
+          "source": "fish ",
+          "target": "Порыбачь"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Leader?oldid=815559",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Gwendolyn",
+      "source": "[NPC] Gwendolyn: You should also talk to Emissary Braum, they have more information about commissions.",
+      "translation": "[NPC] Gwendolyn: Поговорите также с посланником Браумом — он расскажет подробнее о поручениях.",
+      "style_anchors": [
+        {
+          "source": "Emissary Braum",
+          "target": "посланником Браумом"
+        },
+        {
+          "source": "commissions",
+          "target": "поручениях"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwendolyn?oldid=823095",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Gwendolyn",
+      "source": "[NPC] Gwendolyn: I'm not quite sure what he's doing back in the Dwarven Mines- it's been years since I last saw him!",
+      "translation": "[NPC] Gwendolyn: Не знаю, что он делает снова в Дварфских шахтах: я не видела его уже много лет!",
+      "style_anchors": [
+        {
+          "source": "Dwarven Mines",
+          "target": "Дварфских шахтах"
+        },
+        {
+          "source": "years ",
+          "target": "много лет"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwendolyn?oldid=823095",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Hoppity",
+      "source": "[NPC] Hoppity: My Chocolate is the finest chocolate in the entire world.",
+      "translation": "[NPC] Hoppity: Мой шоколад — лучший в мире.",
+      "style_anchors": [
+        {
+          "source": "Chocolate ",
+          "target": "шоколад"
+        },
+        {
+          "source": "world",
+          "target": "мире"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity?oldid=857890",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Hoppity",
+      "source": "[NPC] Hoppity: I have a brand new marketing strategy, and every Spring season I will spread various Rabbit Eggs across the islands.",
+      "translation": "[NPC] Hoppity: У меня новая рекламная идея: каждую весну я буду прятать кроличьи яйца на островах.",
+      "style_anchors": [
+        {
+          "source": "marketing strategy",
+          "target": "рекламная идея"
+        },
+        {
+          "source": "Spring ",
+          "target": "весну"
+        },
+        {
+          "source": "Rabbit Eggs ",
+          "target": "кроличьи яйца"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity?oldid=857890",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Hoppity",
+      "source": "[NPC] Hoppity: ✆ Bring me that Fish...but in steamed form!",
+      "translation": "[NPC] Hoppity: ✆ Принеси ту рыбу... но приготовленную на пару!",
+      "style_anchors": [
+        {
+          "source": "Fish",
+          "target": "рыбу"
+        },
+        {
+          "source": "steamed ",
+          "target": "приготовленную на пару"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hoppity?oldid=857890",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: The largest, most evil patch of fungus ever!",
+      "translation": "[NPC] Juliette: Самые огромные и жуткие грибы на свете!",
+      "style_anchors": [
+        {
+          "source": "largest",
+          "target": "огромные"
+        },
+        {
+          "source": "evil ",
+          "target": "жуткие"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Stew? I love stew!",
+      "translation": "[NPC] Juliette: Рагу? Люблю рагу!",
+      "style_anchors": [
+        {
+          "source": "love ",
+          "target": "Люблю"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Is that a stew from hell?",
+      "translation": "[NPC] Juliette: Это рагу из ада?",
+      "style_anchors": [
+        {
+          "source": "hell",
+          "target": "ада"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+      "translation": "[NPC] Juliette: Ох, люблю Ромеро! Он столько всего умеет.",
+      "style_anchors": [
+        {
+          "source": "Romero",
+          "target": "Ромеро"
+        },
+        {
+          "source": "He ",
+          "target": "Он"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Did you know he likes photography?",
+      "translation": "[NPC] Juliette: А вы знали, что ему нравится фотографировать?",
+      "style_anchors": [
+        {
+          "source": "photography",
+          "target": "фотографировать"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+      "translation": "[NPC] Juliette: Не понимаю, почему Ромеро никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+      "style_anchors": [
+        {
+          "source": "how ",
+          "target": "почему"
+        },
+        {
+          "source": "Romero ",
+          "target": "Ромеро"
+        },
+        {
+          "source": "I LOVE HIM",
+          "target": "Я ЕГО ЛЮБЛЮ"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: I don't need tons of gifts to know that.",
+      "translation": "[NPC] Juliette: Мне не нужны горы подарков, чтобы понять это.",
+      "style_anchors": [
+        {
+          "source": "don't ",
+          "target": "не",
+          "target_occurrence": 2
+        },
+        {
+          "source": "that",
+          "target": "это"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: We can't thank you enough for bringing us together!",
+      "translation": "[NPC] Juliette: Не передать, как мы благодарны, что вы нас свели!",
+      "style_anchors": [
+        {
+          "source": "thank you ",
+          "target": "благодарны"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Librarian",
+      "source": "[NPC] Librarian: You can enchant items by clicking any Enchantment Table. Enchanting costs experience levels - the more levels you spend, the better enchantments you will receive.",
+      "translation": "[NPC] Librarian: Нажми на любой стол зачарований, чтобы зачаровать предмет. Это стоит уровней опыта: чем больше потратишь, тем лучше зачарования.",
+      "style_anchors": [
+        {
+          "source": "Enchantment Table",
+          "target": "стол зачарований"
+        },
+        {
+          "source": "experience levels ",
+          "target": "уровней опыта"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian?oldid=823075",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Lucius",
+      "source": "[NPC] Lucius: It's a... business, auctioning sweet items.",
+      "translation": "[NPC] Lucius: Это такой... бизнес. Торгуем отличными вещицами с аукциона.",
+      "style_anchors": [
+        {
+          "source": "sweet items",
+          "target": "отличными вещицами"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lucius?oldid=853946",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Lucius",
+      "source": "[NPC] Lucius: He regularly runs events at a nearby house, but only under the cover of night.",
+      "translation": "[NPC] Lucius: Он часто проводит торги в соседнем доме, но только под покровом ночи.",
+      "style_anchors": [
+        {
+          "source": "regularly",
+          "target": "часто"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lucius?oldid=853946",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Lucius",
+      "source": "[NPC] Lucius: Buy a few items from Sirius and come back!",
+      "translation": "[NPC] Lucius: Купи несколько вещей у Сириуса и возвращайся!",
+      "style_anchors": [
+        {
+          "source": "a few items",
+          "target": "несколько вещей"
+        },
+        {
+          "source": "Sirius",
+          "target": "Сириуса"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lucius?oldid=853946",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Lucius",
+      "source": "[NPC] Lucius: Come back when you've purchased 3. I'll have something for you then.",
+      "translation": "[NPC] Lucius: Возвращайся после 3 покупок. Тогда у меня будет кое-что для тебя.",
+      "style_anchors": [
+        {
+          "source": "3",
+          "target": "3"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lucius?oldid=853946",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Lucius",
+      "source": "[NPC] Lucius: Come back when you've purchased 7. I'll have something for you then.",
+      "translation": "[NPC] Lucius: Возвращайся после 7 покупок. Тогда у меня будет кое-что для тебя.",
+      "style_anchors": [
+        {
+          "source": "7",
+          "target": "7"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lucius?oldid=853946",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Lumber Jack",
+      "source": "[NPC] Lumber Jack: We will be Foraging! As one of SkyBlock's core skills, Foraging involves cutting down lots of different types of trees!",
+      "translation": "[NPC] Lumber Jack: Займёмся лесорубством! Это один из основных навыков SkyBlock: нужно рубить разные деревья.",
+      "style_anchors": [
+        {
+          "source": "Foraging",
+          "target": "лесорубством",
+          "source_occurrence": 1
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Jack?oldid=823121",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Ozanne",
+      "source": "[NPC] Ozanne: The Blacksmith would reforge your accessories?",
+      "translation": "[NPC] Ozanne: Кузнец перековывал аксессуары?",
+      "style_anchors": [
+        {
+          "source": "accessories",
+          "target": "аксессуары"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ozanne?oldid=789956",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Ozanne",
+      "source": "[NPC] Ozanne: If you find reforged accessories, I'll buy their reforges from you for coins!",
+      "translation": "[NPC] Ozanne: Найдёшь перекованные аксессуары — я выкуплю их перековки за монеты!",
+      "style_anchors": [
+        {
+          "source": "reforged accessories",
+          "target": "перекованные аксессуары"
+        },
+        {
+          "source": "coins",
+          "target": "монеты"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ozanne?oldid=789956",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I heard of a gold mine in the Savanna Woodland.",
+      "translation": "[NPC] Romero: Я слышал о золотой шахте в Саванновом редколесье.",
+      "style_anchors": [
+        {
+          "source": "gold mine ",
+          "target": "золотой шахте"
+        },
+        {
+          "source": "Savanna Woodland",
+          "target": "Саванновом редколесье"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Wow, They're beautiful!",
+      "translation": "[NPC] Romero: Ого, какие красивые!",
+      "style_anchors": [
+        {
+          "source": "beautiful",
+          "target": "красивые"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: -az-",
+      "translation": "[NPC] Romero: -тря-",
+      "style_anchors": [
+        {
+          "source": "az",
+          "target": "тря"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: -ing!",
+      "translation": "[NPC] Romero: -сающе!",
+      "style_anchors": [
+        {
+          "source": "ing",
+          "target": "сающе"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: but these big red ones won't cut it.",
+      "translation": "[NPC] Romero: но эти большие красные грибы не подойдут.",
+      "style_anchors": [
+        {
+          "source": "big red ",
+          "target": "большие красные"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Sweet! Just what I need!",
+      "translation": "[NPC] Romero: Отлично! Именно то, что нужно!",
+      "style_anchors": [
+        {
+          "source": "Sweet! ",
+          "target": "Отлично!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: EXCEPT... Could you enchant it?",
+      "translation": "[NPC] Romero: Только... можете принести зачарованный вариант?",
+      "style_anchors": [
+        {
+          "source": "EXCEPT",
+          "target": "Только"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Mmh! Tastes great!",
+      "translation": "[NPC] Romero: М-м-м! Очень вкусно!",
+      "style_anchors": [
+        {
+          "source": "Mmh! ",
+          "target": "М-м-м!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: So cold! I wish I had coffee right now...",
+      "translation": "[NPC] Romero: Как холодно! Сейчас бы выпить кофе...",
+      "style_anchors": [
+        {
+          "source": "So cold! ",
+          "target": "Как холодно!"
+        },
+        {
+          "source": "coffee ",
+          "target": "кофе"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+      "translation": "[NPC] Romero: Я хочу добраться до Луны ради Джульетты.",
+      "style_anchors": [
+        {
+          "source": "moon ",
+          "target": "Луны"
+        },
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Rabbit potion? Sounds great!",
+      "translation": "[NPC] Romero: Зелье кролика? Отличная идея!",
+      "style_anchors": [
+        {
+          "source": "great",
+          "target": "Отличная"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Although... could you bring a more potent one?",
+      "translation": "[NPC] Romero: Но... можете принести зелье посильнее?",
+      "style_anchors": [
+        {
+          "source": "potent one?",
+          "target": "посильнее?"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Awesome potion!",
+      "translation": "[NPC] Romero: Отличное зелье!",
+      "style_anchors": [
+        {
+          "source": "Awesome ",
+          "target": "Отличное"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Come back with a caffeinated beverage, thanks!",
+      "translation": "[NPC] Romero: Вернитесь с напитком, в котором есть кофеин. Спасибо!",
+      "style_anchors": [
+        {
+          "source": "caffeinated ",
+          "target": "в котором есть кофеин"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+      "translation": "[NPC] Romero: Хочу сделать для Джульетты тайный подарок.",
+      "style_anchors": [
+        {
+          "source": "secret gift ",
+          "target": "тайный подарок"
+        },
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I collected tons of gold...",
+      "translation": "[NPC] Romero: Я собрал уйму золота...",
+      "style_anchors": [
+        {
+          "source": "gold",
+          "target": "золота"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Now I just need enough heat to melt it!",
+      "translation": "[NPC] Romero: Теперь нужен сильный жар, чтобы его расплавить!",
+      "style_anchors": [
+        {
+          "source": "enough heat ",
+          "target": "сильный жар"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That's not even close to hot!",
+      "translation": "[NPC] Romero: От этого даже близко не будет нужного жара!",
+      "style_anchors": [
+        {
+          "source": "hot",
+          "target": "нужного жара"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Except I need hotter.",
+      "translation": "[NPC] Romero: Только ещё горячее.",
+      "style_anchors": [
+        {
+          "source": "hotter",
+          "target": "горячее"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Going to need someone wicked smart to solve it.",
+      "translation": "[NPC] Romero: Чтобы её решить, нужен кто-то очень умный.",
+      "style_anchors": [
+        {
+          "source": "smart ",
+          "target": "умный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I bet you wish you were smarter, though!",
+      "translation": "[NPC] Romero: Но, наверное, вам хотелось бы стать ещё умнее!",
+      "style_anchors": [
+        {
+          "source": "smarter",
+          "target": "умнее"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Just not quite genius enough to solve the Prism!",
+      "translation": "[NPC] Romero: Но для решения призмы нужно быть ещё умнее!",
+      "style_anchors": [
+        {
+          "source": "genius ",
+          "target": "умнее"
+        },
+        {
+          "source": "Prism",
+          "target": "призмы"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I don't know what's going, they meet over and over!",
+      "translation": "[NPC] Romero: Не понимаю, что происходит: они постоянно встречаются!",
+      "style_anchors": [
+        {
+          "source": "over and over",
+          "target": "постоянно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Our love is stronger than theirs!",
+      "translation": "[NPC] Romero: Наша любовь сильнее их любви!",
+      "style_anchors": [
+        {
+          "source": "love ",
+          "target": "любовь"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I'll need my favorite weapon, can you fetch it for me?",
+      "translation": "[NPC] Romero: Мне понадобится мой любимый меч. Принесёте его?",
+      "style_anchors": [
+        {
+          "source": "favorite weapon",
+          "target": "любимый меч"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That sword is weak!",
+      "translation": "[NPC] Romero: Этот меч слишком слабый!",
+      "style_anchors": [
+        {
+          "source": "weak!",
+          "target": "слабый!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: This is exactly what I need!",
+      "translation": "[NPC] Romero: Именно то, что нужно!",
+      "style_anchors": [
+        {
+          "source": "exactly ",
+          "target": "Именно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: My plan is to assemble the greatest bouquet ever!",
+      "translation": "[NPC] Romero: Я задумал собрать самый великолепный букет!",
+      "style_anchors": [
+        {
+          "source": "bouquet ",
+          "target": "букет"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I need a ridiculous amount of flowers.",
+      "translation": "[NPC] Romero: Мне нужно невероятно много цветов.",
+      "style_anchors": [
+        {
+          "source": "ridiculous ",
+          "target": "невероятно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: That's exquisite!!",
+      "translation": "[NPC] Romero: Великолепно!",
+      "style_anchors": [
+        {
+          "source": "exquisite",
+          "target": "Великолепно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: But first, you should wear something nice!",
+      "translation": "[NPC] Romero: Но сначала наденьте что-нибудь нарядное!",
+      "style_anchors": [
+        {
+          "source": "wear something nice",
+          "target": "наденьте что-нибудь нарядное"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+      "translation": "[NPC] Romero: Спасибо огромное, что снова свели нас с Джульеттой.",
+      "style_anchors": [
+        {
+          "source": "Thank you ",
+          "target": "Спасибо"
+        },
+        {
+          "source": "Juliette ",
+          "target": "Джульеттой"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: Please, one last time, give this to Juliette.",
+      "translation": "[NPC] Romero: Прошу, отнесите ей ещё один, последний подарок.",
+      "style_anchors": [
+        {
+          "source": "Juliette",
+          "target": "ей"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Rosetta",
+      "source": "[NPC] Rosetta: Try some of my starter gear!",
+      "translation": "[NPC] Rosetta: Попробуй моё снаряжение для новичков!",
+      "style_anchors": [
+        {
+          "source": "starter gear",
+          "target": "снаряжение для новичков"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rosetta?oldid=790408",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Rusty",
+      "source": "[NPC] Rusty: It drives me insane, but at least you'll unlock Auto-pickup at SkyBlock Level 6.",
+      "translation": "[NPC] Rusty: С ума от этого схожу! Хорошо хоть на 6-м уровне SkyBlock ты откроешь автоподбор.",
+      "style_anchors": [
+        {
+          "source": "Auto-pickup ",
+          "target": "автоподбор"
+        },
+        {
+          "source": "SkyBlock Level ",
+          "target": "уровне SkyBlock"
+        },
+        {
+          "source": "6",
+          "target": "6-м"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Rusty?oldid=834155",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "St. Jerry",
+      "source": "[NPC] St. Jerry: ✆ \"I love the warmth of the Holidays despite the snow\"",
+      "translation": "[NPC] St. Jerry: ✆ Введи на английском: \"I love the warmth of the Holidays despite the snow\"",
+      "style_anchors": [
+        {
+          "source": "I love the warmth of the Holidays despite the snow\"",
+          "target": "I love the warmth of the Holidays despite the snow\""
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry?oldid=857911",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "St. Jerry",
+      "source": "[NPC] St. Jerry: Ice fishing is a great way to relax during the winter!",
+      "translation": "[NPC] St. Jerry: Подлёдная рыбалка — отличный зимний отдых!",
+      "style_anchors": [
+        {
+          "source": "Ice fishing",
+          "target": "Подлёдная рыбалка"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/St._Jerry?oldid=857911",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Taylor",
+      "source": "[NPC] Taylor: You look like someone who values fashion as much as fighting!",
+      "translation": "[NPC] Taylor: Похоже, ты ценишь моду не меньше, чем сражения!",
+      "style_anchors": [
+        {
+          "source": "fashion ",
+          "target": "моду"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Taylor?oldid=859233",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Taylor",
+      "source": "[NPC] Taylor: Want to stand out while you slash and dash?",
+      "translation": "[NPC] Taylor: Хочешь выглядеть ярко даже в пылу битвы?",
+      "style_anchors": [
+        {
+          "source": "stand out ",
+          "target": "выглядеть ярко"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Taylor?oldid=859233",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Taylor",
+      "source": "[NPC] Taylor: ✆ Hm, my Abiphone Contact?",
+      "translation": "[NPC] Taylor: ✆ Хм, мой номер абифона?",
+      "style_anchors": [
+        {
+          "source": "Abiphone Contact",
+          "target": "номер абифона"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Taylor?oldid=859233",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Taylor",
+      "source": "[NPC] Taylor: I have a pretty dashing cosmetic if you would care to exchange it for some rare crops.",
+      "translation": "[NPC] Taylor: У меня есть очень стильное украшение. Могу обменять его на редкий урожай.",
+      "style_anchors": [
+        {
+          "source": "dashing ",
+          "target": "стильное"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Taylor?oldid=859233",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Taylor",
+      "source": "[NPC] Taylor: I can see you value fashion over most farmers!",
+      "translation": "[NPC] Taylor: Вижу, ты разбираешься в моде лучше большинства фермеров!",
+      "style_anchors": [
+        {
+          "source": "fashion ",
+          "target": "моде"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Taylor?oldid=859233",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay is in the Royal Palace within the Dwarven Mines.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится в Королевском дворце в Дварфских шахтах.",
+      "style_anchors": [
+        {
+          "source": "Royal Palace ",
+          "target": "Королевском дворце"
+        },
+        {
+          "source": "Dwarven Mines",
+          "target": "Дварфских шахтах"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tia_the_Fairy?oldid=858896",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Tia the Fairy",
+      "source": "[NPC] Tia the Fairy: ✆ The next relay is on top of the Auction House.",
+      "translation": "[NPC] Tia the Fairy: ✆ Следующий ретранслятор находится на крыше Аукционного дома.",
+      "style_anchors": [
+        {
+          "source": "Auction House",
+          "target": "Аукционного дома"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tia_the_Fairy?oldid=858896",
+      "evidence": "explicit_alternate_semantic_layout_target_and_primary_unchanged"
+    },
+    {
+      "speaker": "Brigette",
+      "source": "[NPC] Brigette: There are a lot of scams lurking around every corner.",
+      "translation": "[NPC] Brigette: За каждым углом подстерегает множество мошеннических уловок.",
+      "style_anchors": [
+        {
+          "source": "lot ",
+          "target": "множество"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Brigette?oldid=843624",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Gwendolyn",
+      "source": "[NPC] Gwendolyn: Hey! Someone special has been asking to meet you!",
+      "translation": "[NPC] Gwendolyn: Эй! Кое-кто особенный просил о встрече с вами!",
+      "style_anchors": [
+        {
+          "source": "special ",
+          "target": "особенный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwendolyn?oldid=823095",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Juliette",
+      "source": "[NPC] Juliette: Thank you for delivering it.",
+      "translation": "[NPC] Juliette: Спасибо вам, что принесли его.",
+      "style_anchors": [
+        {
+          "source": "you ",
+          "target": "вам"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Ozanne",
+      "source": "[NPC] Ozanne: Crazy stuff!",
+      "translation": "[NPC] Ozanne: Вот это безумие!",
+      "style_anchors": [
+        {
+          "source": "Crazy ",
+          "target": "безумие"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ozanne?oldid=789956",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    },
+    {
+      "speaker": "Romero",
+      "source": "[NPC] Romero: I do like it though!",
+      "translation": "[NPC] Romero: И всё же мне это действительно нравится!",
+      "style_anchors": [
+        {
+          "source": "do ",
+          "target": "действительно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+      "evidence": "explicit_wording_revision105_primary_and_alternate_reviewed"
+    }
+  ]
+}

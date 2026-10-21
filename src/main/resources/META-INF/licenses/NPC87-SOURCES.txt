@@ -1,0 +1,19 @@
+NPC dialogue expansion 0.15.87-dev
+
+Original English publication: Hypixel SkyBlock Wiki contributors.
+Source: https://hypixelskyblock.minecraft.wiki/
+License: Creative Commons Attribution-NonCommercial-ShareAlike 3.0.
+License text: https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+673 Russian dialogue translations and semantic color anchors authored locally.
+63 source-backed ordered answer groups, including one unchanged ellipsis label.
+Per-record revision URLs are embedded in data/witherskyru/npc-expansion87.json.
+Full pages, conditions, blocks, all occurrences and latest revision API response
+are preserved in NPC_SOURCES_0.15.87.json and companion source-package records.
+
+Literal server-trigger text Help Wizardman! remains typeable with a Russian gloss.
+Proper Latin glyph names match existing item labels. No private-server access or
+proof of every live branch is claimed; variable/removed branches counted apart.
+
+The prior NPC86 attribution draft count was corrected from702 to699 in this
+release. Previously delivered JARs and packages remain unchanged.

@@ -1,0 +1,97 @@
+{
+  "checked_client_date": "2026-10-16",
+  "api_url": "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Dr.+Stone%7CFreddy%7CKaus%7CRollim%7CRoyal+Resident%7CTel+Kar%7CUdel&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+  "matches_pinned_corpus": true,
+  "private_or_unpublished_dialogue_known": false,
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 76583,
+          "ns": 0,
+          "title": "Royal Resident",
+          "revisions": [
+            {
+              "revid": 814591,
+              "parentid": 807998,
+              "timestamp": "2026-08-11T19:46:51Z"
+            }
+          ]
+        },
+        {
+          "pageid": 90671,
+          "ns": 0,
+          "title": "Kaus",
+          "revisions": [
+            {
+              "revid": 830454,
+              "parentid": 817852,
+              "timestamp": "2026-09-03T01:28:03Z"
+            }
+          ]
+        },
+        {
+          "pageid": 90672,
+          "ns": 0,
+          "title": "Rollim",
+          "revisions": [
+            {
+              "revid": 830482,
+              "parentid": 822220,
+              "timestamp": "2026-09-03T01:30:05Z"
+            }
+          ]
+        },
+        {
+          "pageid": 91431,
+          "ns": 0,
+          "title": "Udel",
+          "revisions": [
+            {
+              "revid": 823219,
+              "parentid": 823136,
+              "timestamp": "2026-08-24T11:43:13Z"
+            }
+          ]
+        },
+        {
+          "pageid": 98578,
+          "ns": 0,
+          "title": "Tel Kar",
+          "revisions": [
+            {
+              "revid": 814987,
+              "parentid": 791059,
+              "timestamp": "2026-08-11T19:58:14Z"
+            }
+          ]
+        },
+        {
+          "pageid": 102700,
+          "ns": 0,
+          "title": "Dr. Stone",
+          "revisions": [
+            {
+              "revid": 858364,
+              "parentid": 858179,
+              "timestamp": "2026-10-14T17:40:27Z"
+            }
+          ]
+        },
+        {
+          "pageid": 137511,
+          "ns": 0,
+          "title": "Freddy",
+          "revisions": [
+            {
+              "revid": 828512,
+              "parentid": 819423,
+              "timestamp": "2026-09-01T09:06:58Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

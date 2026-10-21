@@ -1,0 +1,35 @@
+{
+  "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925",
+  "records": [
+    {
+      "source": "[NPC] Ramero: Let us employ these planks to fortify the entrance.",
+      "translation": "[NPC] Ramero: Используем эти доски, чтобы укрепить вход.",
+      "source_legacy_line": "§e[NPC] §bRamero§f: §fLet us employ these §cplanks §fto fortify the §centrance§f.",
+      "raw_line": "&e[NPC] &bRamero&f: &fLet us employ these &cplanks &fto fortify the &centrance&f.",
+      "frozen_queue_source": "[NPC] Ramero: Let us employ these planks to fortify the ¢rance.",
+      "block": {
+        "block_id": "p100465-r814480-o4268",
+        "page": "Ramero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ramero?oldid=814480",
+        "revision": 814480,
+        "coordinate_space": "expanded_source_pages.jsonl",
+        "shared_dialogue_revisions": {},
+        "char_start": 4268,
+        "char_end": 4505,
+        "line_start": 105,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "condition_context_raw": "|-\n| rowspan=\"3\" class=\"ct\" | {{Zone|Murder House}}\n| class=\"ct\" | Before barricading the wall\n| ",
+        "template_options": {},
+        "template_raw": "{{Dialogue|\n&e[NPC] &bRamero&f: &fI have collected yon materials upon the floor.\n&e[NPC] &bRamero&f: &fLet us employ these &cplanks &fto fortify the &centrance&f.\n&e[NPC] &bRamero&f: &fMake haste, for the villain may arrive forthwith.\n}}",
+        "payload_raw": "\n&e[NPC] &bRamero&f: &fI have collected yon materials upon the floor.\n&e[NPC] &bRamero&f: &fLet us employ these &cplanks &fto fortify the &centrance&f.\n&e[NPC] &bRamero&f: &fMake haste, for the villain may arrive forthwith.\n",
+        "provisional_legacy_text": "\n§e[NPC] §bRamero§f: §fI have collected yon materials upon the floor.\n§e[NPC] §bRamero§f: §fLet us employ these §cplanks §fto fortify the ¢rance§f.\n§e[NPC] §bRamero§f: §fMake haste, for the villain may arrive forthwith.\n",
+        "unresolved_markup": false
+      },
+      "counted_as_frozen_corpus_exact_key": false
+    }
+  ]
+}

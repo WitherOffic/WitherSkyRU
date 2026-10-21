@@ -1,0 +1,37 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "status": "OBSERVED_OBJECTIVES_OFFLINE_NOT_LIVE_TESTED",
+  "scope": "24 exact goals from the frozen 35-goal local observation snapshot, plus the screenshot-confirmed Beth goal ending in again. 11 old goal bodies already supported elsewhere. Not all server quests.",
+  "records": [
+    {"source_key":"quest.objective.1","tag":"SYSTEM","speaker":"","source":"Talk to Sam","translation":"Поговорите с Sam","style_anchors":[{"source":"Sam","target":"Sam"}]},
+    {"source_key":"quest.objective.2","tag":"SYSTEM","speaker":"","source":"Bring 25 Wheat to Sam","translation":"Принесите Sam 25 единиц пшеницы","style_anchors":[{"source":"25","target":"25"},{"source":"Wheat","target":"пшеницы"},{"source":"Sam","target":"Sam"}]},
+    {"source_key":"quest.objective.3","tag":"SYSTEM","speaker":"","source":"Talk to Sam at the Composter","translation":"Поговорите с Sam у компостера","style_anchors":[{"source":"Sam","target":"Sam"},{"source":"Composter","target":"компостера"}]},
+    {"source_key":"quest.objective.4","tag":"SYSTEM","speaker":"","source":"Purchase Fuel from SkyMart","translation":"Купите топливо в SkyMart","style_anchors":[{"source":"Fuel","target":"топливо"},{"source":"SkyMart","target":"SkyMart"}]},
+    {"source_key":"quest.objective.5","tag":"SYSTEM","speaker":"","source":"Put Fuel in the Composter","translation":"Положите топливо в компостер","style_anchors":[{"source":"Fuel","target":"топливо"},{"source":"Composter","target":"компостер"}]},
+    {"source_key":"quest.objective.6","tag":"SYSTEM","speaker":"","source":"Take Compost from the Composter","translation":"Заберите готовый компост из компостера","style_anchors":[{"source":"Compost ","target":"компост "},{"source":"Composter","target":"компостера"}]},
+    {"source_key":"quest.objective.7","tag":"SYSTEM","speaker":"","source":"Purchase a Garden Plot at the Desk","translation":"Купите участок Сада через меню стола","style_anchors":[{"source":"Garden Plot","target":"участок Сада"},{"source":"Desk","target":"стола"}]},
+    {"source_key":"quest.objective.8","tag":"SYSTEM","speaker":"","source":"Go to your Garden Plot","translation":"Идите на свой участок Сада","style_anchors":[{"source":"Garden Plot","target":"участок Сада"}]},
+    {"source_key":"quest.objective.9","tag":"SYSTEM","speaker":"","source":"Clean your Garden Plot","translation":"Очистите свой участок Сада","style_anchors":[{"source":"Garden Plot","target":"участок Сада"}]},
+    {"source_key":"quest.objective.10","tag":"SYSTEM","speaker":"","source":"Find out what Sam wants","translation":"Узнайте, что нужно Sam","style_anchors":[{"source":"Sam","target":"Sam"}]},
+    {"source_key":"quest.objective.11","tag":"SYSTEM","speaker":"","source":"Bring Sam 100 Wheat","translation":"Принесите Sam 100 единиц пшеницы","style_anchors":[{"source":"Sam","target":"Sam"},{"source":"100","target":"100"},{"source":"Wheat","target":"пшеницы"}]},
+    {"source_key":"quest.objective.12","tag":"SYSTEM","speaker":"","source":"Open a Shop Stand with Sam","translation":"Откройте торговую лавку вместе с Sam","style_anchors":[{"source":"Shop Stand","target":"торговую лавку"},{"source":"Sam","target":"Sam"}]},
+    {"source_key":"quest.objective.13","tag":"SYSTEM","speaker":"","source":"Find Sam at the Shop Stand","translation":"Найдите Sam у торговой лавки","style_anchors":[{"source":"Sam","target":"Sam"},{"source":"Shop Stand","target":"торговой лавки"}]},
+    {"source_key":"quest.objective.14","tag":"SYSTEM","speaker":"","source":"Serve your first Customer","translation":"Обслужите первого покупателя","style_anchors":[{"source":"Customer","target":"покупателя"}]},
+    {"source_key":"quest.objective.15","tag":"SYSTEM","speaker":"","source":"Reach Garden Level IV","translation":"Достигните уровня Сада IV","style_anchors":[{"source":"Garden Level IV","target":"уровня Сада IV"}]},
+    {"source_key":"quest.objective.16","tag":"SYSTEM","speaker":"","source":"Talk to Jeff in your Barn","translation":"Поговорите с Jeff в своём амбаре","style_anchors":[{"source":"Jeff","target":"Jeff"},{"source":"Barn","target":"амбаре"}]},
+    {"source_key":"quest.objective.17","tag":"SYSTEM","speaker":"","source":"Show Jeff a Specialized Farming Tool","translation":"Покажите Jeff специализированный фермерский инструмент","style_anchors":[{"source":"Jeff","target":"Jeff"},{"source":"Specialized Farming Tool","target":"специализированный фермерский инструмент"}]},
+    {"source_key":"quest.objective.18","tag":"SYSTEM","speaker":"","source":"Give Sam the Greenhouse Blueprint","translation":"Передайте Sam чертёж теплицы","style_anchors":[{"source":"Sam","target":"Sam"},{"source":"Greenhouse Blueprint","target":"чертёж теплицы"}]},
+    {"source_key":"quest.objective.19","tag":"SYSTEM","speaker":"","source":"Collect resources for Sam","translation":"Соберите ресурсы для Sam","style_anchors":[{"source":"Sam","target":"Sam"}]},
+    {"source_key":"quest.objective.20","tag":"SYSTEM","speaker":"","source":"Paste the Greenhouse on a plot at the Desk","translation":"Разместите теплицу на участке через стол","style_anchors":[{"source":"Greenhouse","target":"теплицу"},{"source":"Desk","target":"стол"}]},
+    {"source_key":"quest.objective.21","tag":"SYSTEM","speaker":"","source":"Use the Garden Chip","translation":"Используйте чип Сада","style_anchors":[{"source":"Garden Chip","target":"чип Сада"}]},
+    {"source_key":"quest.objective.22","tag":"SYSTEM","speaker":"","source":"Bring Glowing Mushrooms to Moby","translation":"Принесите Moby светящиеся грибы","style_anchors":[{"source":"Glowing Mushrooms","target":"светящиеся грибы"},{"source":"Moby","target":"Moby"}]},
+    {"source_key":"quest.objective.23","tag":"SYSTEM","speaker":"","source":"Complete Beth's commission","translation":"Выполните поручение Beth","style_anchors":[{"source":"Beth","target":"Beth"}]},
+    {"source_key":"quest.objective.24","tag":"SYSTEM","speaker":"","source":"Wait for Beth to revisit your Garden","translation":"Дождитесь следующего визита Beth в ваш Сад","style_anchors":[{"source":"Beth","target":"Beth"},{"source":"Garden","target":"Сад"}]},
+    {"source_key":"quest.objective.25","tag":"SYSTEM","speaker":"","source":"Wait for Beth to revisit your Garden again","translation":"Дождитесь следующего визита Beth в ваш Сад","style_anchors":[{"source":"Beth","target":"Beth"},{"source":"Garden","target":"Сад"}]}
+    ,{"source_key":"quest.objective.26","tag":"SYSTEM","speaker":"","source":"Take a seat in the Briefing Room","translation":"Займите место в комнате инструктажа","style_anchors":[{"source":"Briefing Room","target":"комнате инструктажа"}],"source_evidence":"User screenshot39848fc0, 2026-10-13"}
+    ,{"source_key":"quest.objective.27","tag":"SYSTEM","speaker":"","source":"Talk to Jimmy","translation":"Поговорите с Jimmy","style_anchors":[{"source":"Jimmy","target":"Jimmy"}],"source_evidence":"User screenshotdc7cf530, 2026-10-13"}
+    ,{"source_key":"quest.objective.28","tag":"SYSTEM","speaker":"","source":"Talk to the Security Clerk","translation":"Поговорите со служащим безопасности","style_anchors":[{"source":"Security Clerk","target":"служащим безопасности"}],"source_evidence":"Observed archived session04:58:18,2026-10-13"}
+    ,{"source_key":"quest.objective.29","tag":"SYSTEM","speaker":"","source":"Talk to Elizabeth","translation":"Поговорите с Элизабет","style_anchors":[{"source":"Elizabeth","target":"Элизабет"}],"source_evidence":"Observed archived session04:59:02,2026-10-13"}
+  ]
+}

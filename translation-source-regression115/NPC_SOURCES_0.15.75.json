@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-16",
+  "scope": "Independent retrieved published sections before translation authoring. Condition labels simplified; exact NPC bodies retained. Not live packets; placeholders and unprefixed continuations excluded from literal candidates.",
+  "retained_sections_rechecked": {
+    "file": "NPC_SOURCES_0.15.74.json",
+    "speakers": [
+      "Lumber Jack",
+      "Taylor",
+      "Jax",
+      "Bartender",
+      "Clerk Seraphine"
+    ],
+    "date": "2026-10-16",
+    "scope": "Exact pending bodies rechecked against currently retrieved pages; unchanged. Historical/Alpha and dynamic variables not proof of production coverage."
+  },
+  "additional_inspection": {
+    "name": "Smithmonger",
+    "url": "https://hypixelskyblock.minecraft.wiki/w/Smithmonger",
+    "retrieved": "2026-10-16",
+    "result": "Published page has no Dialogue section or [NPC] body in retrieved content; no live no-dialogue conclusion."
+  },
+  "pages": [
+    {
+      "name": "Alda",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+      "section": "None | [NPC] Alda: Welcome to Abiphones & Co., <Username>![NPC] Alda: Are you here to buy an Abiphone?Select an option: [What's an Abiphone?]\nSelecting [What's an Abiphone?] | [NPC] Alda: Have ya ever needed to talk to or buy something from an NPC, but they're on a different island?[NPC] Alda: And getting to them would take ages, even if you had a Travel Scroll?[NPC] Alda: That's where the Abiphone comes in![NPC] Alda: Simply add an NPC as a Contact and you can call them anytime, anywhere![NPC] Alda: Sounds amazing, right?Select an option: [I guess.]\nSelecting [I guess.] | [NPC] Alda: Then why don't ya buy one? I'll do a little discount, just for you.\nAfter buying Abiphone Basic | [NPC] Alda: Congratulations on becoming a proud owner of an Abiphone![NPC] Alda: Before you go, let me show you how to add a contact.[NPC] Alda: Simply hold the Abiphone in your hand, and click on an NPC![NPC] Alda: Why don't you try it out on me now?\nAbiphone Contact | [NPC] Alda: ✆ Nice job![NPC] Alda: ✆ It's really as simple as that. I'll add myself to your Contacts now![NPC] Alda: ✆ One last thing - not every NPC owns an Abiphone, so you can't add everyone as a Contact.[NPC] Alda: ✆ To see who you can add, simply open up your phone and check the Contacts Directory.[NPC] Alda: ✆ That's it. Enjoy your purchase!",
+      "retrieved": "2026-10-16",
+      "evidence": "published_community_wiki_not_live_packet"
+    },
+    {
+      "name": "Alixer",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Alixer",
+      "section": "First Interaction | [NPC] Alixer: I'm here to help you with Bingo![NPC] Alixer: Come to me if you want some Potion Effects to help you in your journey![NPC] Alixer: I can give you better effects depending on your Bingo Level.\nGranting Effects | [NPC] Alixer: Splish...BUFF! You have gained [potion effect]! Press TAB or type /effects to view your active effects![NPC] Alixer: Splash...BUFF! You have gained [potion effect]! Press TAB or type /effects to view your active effects![NPC] Alixer: Sploosh!BUFF! You have gained [potion effect]! Press TAB or type /effects to view your active effects![NPC] Alixer: Good Luck!!\nOn Cooldown | [NPC] Alixer: I gave you potions recently! Give me some time to prepare new ones!\nAbiphone, fewer than 4 Bingo Goals | [NPC] Alixer: ✆ You want to have my number?[NPC] Alixer: ✆ I'd love to give you my number![NPC] Alixer: ✆ However, Bingo requests that you have completed at least 4 Bingo Goals before I can give you my number.\n4 or more Bingo Goals | [NPC] Alixer: ✆ That's a bunch of Bingo Goals you've completed![NPC] Alixer: ✆ I'll gladly give you my number!\nCalling | [NPC] Alixer: ✆ Hi! Did your potions run out?[NPC] Alixer: ✆ I'm not sure how well this works over the phone...[NPC] Alixer: ✆ Hold your phone close to your ear, I'll throw the potions into my phone.BUFF! You have gained [potion effect]! Press TAB or type /effects to view your active effects![NPC] Alixer: ✆ Wow![NPC] Alixer: ✆ Potions travel much faster by phone![NPC] Alixer: ✆ Good luck with the Bingo!\nCalling, On Cooldown | [NPC] Alixer: ✆ I gave you potions recently! Give me some time to prepare new ones!",
+      "retrieved": "2026-10-16",
+      "evidence": "published_community_wiki_not_live_packet"
+    },
+    {
+      "name": "Angler Angus",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+      "section": "First interaction | [NPC] Angler Angus: Whenever you fish, make sure you're using some type of Bait.[NPC] Angler Angus: You can store Bait in your inventory or Fishing Bag, which is unlocked at Raw Cod Collection III.[NPC] Angler Angus: Bait is automatically consumed whenever you cast your rod, so it's easy to use![NPC] Angler Angus: I craft Fish Bait all the time because it's so easy to do - just a couple of Raw Cod and a Raw Salmon![NPC] Angler Angus: Here, I've got some spare Fish Bait for ya!\nAfter claiming Fish Bait | [NPC] Angler Angus: Fish Bait seems to give a really effective ☂ Fishing Speed boost![NPC] Angler Angus: All Baits serve some specialized purpose, so be sure to keep some on you at all times![NPC] Angler Angus: If you have any questions about Bait, you can view my Bait Guide at any time![NPC] Angler Angus: You can also use /bait as a shortcut if you aren't feeling like paying me a visit!",
+      "retrieved": "2026-10-16",
+      "evidence": "published_community_wiki_not_live_packet"
+    },
+    {
+      "name": "Apprentice",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Apprentice",
+      "section": "None | [NPC] Apprentice: The Furniture Shop has many different kinds of cool furniture for you to put in your world![NPC] Apprentice: For a price, you can buy it here!\n[NPC] Apprentice: I'm still learning carpentry. I learn the most when crafting enchanted items!\nBefore Talking to Carpenter | [NPC] Apprentice: Talk to the Carpenter upstairs to learn more about Carpentry!\nBefore Giving Carpenter Wool | [NPC] Apprentice: Looking for wool? Try the Mushroom Desert!",
+      "retrieved": "2026-10-16",
+      "evidence": "published_community_wiki_not_live_packet"
+    },
+    {
+      "name": "Bulvar",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+      "section": "First Interaction | [NPC] Bulvar: Ever thought you'd see a Tier 12 Minion?[NPC] Bulvar: Well, today's your lucky day!\nAbiphone Contact | [NPC] Bulvar: ✆ Hmm? My Abiphone Contact?[NPC] Bulvar: ✆ Well, today might just be your lucky day - again.[NPC] Bulvar: ✆ Abiphones ain't much use down here - you'll seldom get a signal, but I do own one.[NPC] Bulvar: ✆ Seeing as I'm feeling nice, I'll give you my contact for the small sum of one Silex.[NPC] Bulvar: ✆ How about it?[GIVE ITEM]\nWithout Silex | [NPC] Bulvar: ✆ I don't know what ya think that is, but it's not a Silex.[NPC] Bulvar: ✆ Come back once you've got yourself one.\nGiving Silex | [NPC] Bulvar: ✆ That'll do it![NPC] Bulvar: ✆ Cheers friend, once I got that on my Drill I'll be mining like Divan![NPC] Bulvar: ✆ Oh, and before I forget - here's that contact you were asking for.[NPC] Bulvar: ✆ Give me a call in case you ever need some Tier XII Mining Minions.",
+      "retrieved": "2026-10-16",
+      "evidence": "published_community_wiki_not_live_packet"
+    },
+    {
+      "name": "Carpenter",
+      "url": "https://hypixelskyblock.minecraft.wiki/w/Carpenter",
+      "section": "Village, First Interaction | [NPC] Carpenter: Hi, [player]! Welcome to the Furniture Shop.[NPC] Carpenter: Sales are too good right now, I can't keep up with the demand![NPC] Carpenter: Could you bring a stack of White Wool to help replenish my stock?[NPC] Carpenter: Sheep over in The Barn drop wool, but you can also purchase it from the Wool Weaver.[NPC] Carpenter: She lives in a house in the main plaza near the bank.\nWithout Wool | [NPC] Carpenter: Come back with a stack of White Wool!\nGiving Wool | [NPC] Carpenter: Wow, thanks so much for the help![NPC] Carpenter: Carpentry is my passion, I always love to teach others.[NPC] Carpenter: Here's the recipe for the Carpentry Table. You can place it in your world and craft furniture that you've unlocked![NPC] Carpenter: You can now gain Carpentry XP by crafting items. Leveling your Carpentry Skill unlocks new furniture recipes![NPC] Carpenter: Some furniture is available exclusively in the Furniture Shop downstairs.\nCheck it out!\nAfter Giving Wool | [NPC] Carpenter: Check out the Furniture Shop downstairs!\n[NPC] Carpenter: The Furniture Shop is downstairs. Purchase cool furniture down there!\nGarden, First Order | [NPC] Carpenter: Hey, <playername>. I found this blueprint laying around in my house, just collecting dust. Thought it might catch your interest.\nCompleting the first order | [NPC] Carpenter: Here you go! Hopefully, you'll make better use of it than I ever could.\nSubsequent orders before building Greenhouse | [NPC] Carpenter: Hey, I noticed you haven't used that blueprint I gave to you. Did you lose it?[NPC] Carpenter: Luckily for you, I made a copy!\nCompleting the above order | [NPC] Carpenter: Here you go! Don't misplace it this time. It would've done just the same in my home.\nDenying the above order | [NPC] Carpenter: No worries, I'll hang on to it for now. I'll come back later.\nGreenhouse before Sam | [NPC] Carpenter: Ah, hello there! I have some information for you, but you need to finish talking to Sam first!\nGreenhouse after Sam | [NPC] Carpenter: Looks like you could use some help with your Greenhouse.[NPC] Carpenter: Don't worry, I got you covered![NPC] Carpenter: Talk to me any time to see your Greenhouse mutation progression.\nNone | [NPC] Carpenter: Hey, how are you doing with the Greenhouse? That blueprint was complex.\nCompleting | [NPC] Carpenter: Thank you! I'll be checking in to see how you're doing with the Greenhouse.\nDenying | [NPC] Carpenter: No worries, I'll come back later.",
+      "retrieved": "2026-10-16",
+      "evidence": "published_community_wiki_not_live_packet"
+    }
+  ]
+}

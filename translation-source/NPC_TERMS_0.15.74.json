@@ -1,0 +1,12 @@
+{
+  "scope":"Final reviewed terminology in new NPC74 rows;not a claim that all historical dictionary entries are globally consistent.",
+  "terms":[
+    {"source":"Foraging","active_dictionary":"Лесорубство","shadowed_older_phrase":"Собирательство","new_npc_word_stem":"лесорубств"},
+    {"source":"Promising Axe","active_dictionary":"Перспективный топор","new_npc_form":"перспективный топор"},
+    {"source":"Rune Sack","active_dictionary":"Мешок рун","new_npc_form":"мешок рун"},
+    {"source":"Safety Advocate","retained_training_title":"представитель отряда безопасности","new_npc_forms_agree":true},
+    {"source":"Susan address","retained_training_address":"вы","new_npc_address_agrees":true}
+  ],
+  "checked_by":"TestNpc74 active dictionary/title consistency assertions plus full styled regression",
+  "preliminary_jar_superseded":"90848FCBD44517854BAEDA300004E054926DC17B6B0D00ECA302EA42E5AAFF07"
+}

@@ -1,0 +1,20 @@
+{
+  "selection": "Same15 short and3 long equal-work controls as111;declared before112 performance results. All raw retained;not game FPS.",
+  "long_modes": [
+    "existing_dynamic",
+    "unknown_system_notifications",
+    "retained_cosmetic_notifications"
+  ],
+  "order": [
+    "111",
+    "112",
+    "112",
+    "111"
+  ],
+  "short_warmup": 300000,
+  "short_rounds": 4,
+  "short_calls_per_round_at_least": 200000,
+  "long_warmup": 1000000,
+  "long_rounds": 4,
+  "long_calls_per_round_at_least": 1000000
+}

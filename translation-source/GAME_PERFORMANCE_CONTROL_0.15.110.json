@@ -1,0 +1,19 @@
+{
+  "selection": "Predeclared before inspecting any110 performance results. Same three long-control modes as109,not a selected best run.",
+  "modes": [
+    "existing_dynamic",
+    "unknown_system_notifications",
+    "retained_cosmetic_notifications"
+  ],
+  "warmup_calls_at_least": 1000000,
+  "measured_rounds": 4,
+  "calls_per_round_at_least": 1000000,
+  "order": [
+    "109",
+    "110",
+    "110",
+    "109"
+  ],
+  "retain_original_raw": true,
+  "scope": "Receipt only,not render/FPS/frametime/0.1% lows."
+}

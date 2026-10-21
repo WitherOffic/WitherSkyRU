@@ -1,0 +1,2866 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "All244 literal Wizard/Wizardman rows in frozen public corpus; seven placeholder rows explicitly pending. Includes labeled historical material. Not a live server completeness claim.",
+  "records": [
+    {
+      "source_key": "npc79.0",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Oh...",
+      "translation": "[NPC] Wizard: Ох...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.1",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I'm afraid crossing the portal would be a bit too dangerous for you.",
+      "translation": "[NPC] Wizard: Боюсь, проходить через портал для тебя пока слишком опасно.",
+      "style_anchors": [
+        {
+          "source": "dangerous",
+          "target": "опасно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.2",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Learn more about this world before thinking of visiting other dimensions!",
+      "translation": "[NPC] Wizard: Узнай побольше об этом мире, прежде чем отправляться в другие измерения!",
+      "style_anchors": [
+        {
+          "source": "this",
+          "target": "этом"
+        },
+        {
+          "source": "other",
+          "target": "другие"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.3",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Greetings, traveler!",
+      "translation": "[NPC] Wizard: Приветствую, путник!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.4",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I can sense that you possess some magical prowess, and I find myself in need of assistance.",
+      "translation": "[NPC] Wizard: Чувствую в тебе магический дар, а мне как раз нужна помощь.",
+      "style_anchors": [
+        {
+          "source": "magical prowess",
+          "target": "магический дар"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.5",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: The matter at hand is rather complex, but I shall be brief.",
+      "translation": "[NPC] Wizard: Дело довольно сложное, но я постараюсь быть краток.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.6",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Are you interested in learning more?",
+      "translation": "[NPC] Wizard: Хочешь узнать подробнее?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.7",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Very well, I shall seek help elsewhere!",
+      "translation": "[NPC] Wizard: Что ж, поищу помощи в другом месте!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.8",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Excellent!",
+      "translation": "[NPC] Wizard: Превосходно!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.9",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: You see, long ago a breach materialized atop the Mountain.",
+      "translation": "[NPC] Wizard: Понимаешь, давным-давно на вершине горы появилась брешь.",
+      "style_anchors": [
+        {
+          "source": "breach",
+          "target": "брешь"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.10",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Crossing through it is a daunting task, but not entirely impossible.",
+      "translation": "[NPC] Wizard: Пройти через неё очень трудно, но всё же возможно.",
+      "style_anchors": [
+        {
+          "source": "it",
+          "target": "неё"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.11",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: The problem is... those who ventured through... never returned.",
+      "translation": "[NPC] Wizard: Проблема в том... что все, кто туда отправился... так и не вернулись.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.12",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I've dedicated much of my life to developing a portal that allows safe passage between our world and this mysterious dimension.",
+      "translation": "[NPC] Wizard: Я посвятил немалую часть жизни созданию портала, который обеспечит безопасный переход между нашим миром и этим загадочным измерением.",
+      "style_anchors": [
+        {
+          "source": "portal",
+          "target": "портала"
+        },
+        {
+          "source": "safe passage",
+          "target": "безопасный переход"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.13",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Indeed!",
+      "translation": "[NPC] Wizard: Именно!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.14",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: With the invaluable help of my dear friend Barry, we managed to create a functioning portal.",
+      "translation": "[NPC] Wizard: С бесценной помощью моего дорогого друга Барри нам удалось создать работающий портал.",
+      "style_anchors": [
+        {
+          "source": "Barry",
+          "target": "Барри"
+        },
+        {
+          "source": "portal",
+          "target": "портал"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.15",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Barry tested it himself and successfully returned.",
+      "translation": "[NPC] Wizard: Барри испытал его на себе и благополучно вернулся.",
+      "style_anchors": [
+        {
+          "source": "Barry",
+          "target": "Барри"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.16",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: He now uh... \"studies\" the Rift across.",
+      "translation": "[NPC] Wizard: Теперь он, э-э... «изучает» Разлом по ту сторону.",
+      "style_anchors": [
+        {
+          "source": "\"studies\"",
+          "target": "«изучает»"
+        },
+        {
+          "source": "Rift",
+          "target": "Разлом"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.17",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Barry informed me that an alternate version of myself is trapped in that dimension, hailing from another world.",
+      "translation": "[NPC] Wizard: Барри сообщил, что другая версия меня, прибывшая из другого мира, оказалась в том измерении в ловушке.",
+      "style_anchors": [
+        {
+          "source": "Barry",
+          "target": "Барри"
+        },
+        {
+          "source": "myself",
+          "target": "меня"
+        },
+        {
+          "source": "trapped",
+          "target": "в ловушке"
+        },
+        {
+          "source": "another",
+          "target": "другого"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.18",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: According to the laws of causality, we must never meet, preventing me from crossing over.",
+      "translation": "[NPC] Wizard: По законам причинности мы ни в коем случае не должны встретиться, поэтому я не могу туда отправиться.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.19",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Imagine that! After devoting my life to this project, I cannot use it!",
+      "translation": "[NPC] Wizard: Представь себе! Я посвятил этому проекту всю жизнь, а воспользоваться им не могу!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.20",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Select an option: [Sounds bad. Why do you need me?]",
+      "translation": "[NPC] Wizard: Выберите ответ: [Скверно. А зачем тебе я?]",
+      "style_anchors": [
+        {
+          "source": "Select an option:",
+          "target": "Выберите ответ:"
+        },
+        {
+          "source": "[Sounds bad. Why do you need me?]",
+          "target": "[Скверно. А зачем тебе я?]"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.21",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I have a reason to believe that a catastrophic event looms in our world's future.",
+      "translation": "[NPC] Wizard: У меня есть основания полагать, что наш мир в будущем ждёт катастрофа.",
+      "style_anchors": [
+        {
+          "source": "catastrophic event",
+          "target": "катастрофа"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.22",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Unraveling the mysteries of the Rift could prove crucial to our survival.",
+      "translation": "[NPC] Wizard: Разгадка тайн Разлома может стать ключом к нашему выживанию.",
+      "style_anchors": [
+        {
+          "source": "Rift",
+          "target": "Разлома"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.23",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: We need all the help we can muster, and you appear to be quite talented.",
+      "translation": "[NPC] Wizard: Нам нужна любая помощь, а ты, похоже, весьма талантлив.",
+      "style_anchors": [
+        {
+          "source": "quite talented",
+          "target": "весьма талантлив"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.24",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Splendid.",
+      "translation": "[NPC] Wizard: Чудесно.",
+      "style_anchors": [
+        {
+          "source": "Splendid",
+          "target": "Чудесно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.25",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: All you need is a Dimensional Infusion...",
+      "translation": "[NPC] Wizard: Тебе нужно лишь межпространственное вливание...",
+      "style_anchors": [
+        {
+          "source": "Dimensional Infusion",
+          "target": "межпространственное вливание"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.26",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: ... then you can safely travel across.",
+      "translation": "[NPC] Wizard: ...и тогда ты сможешь безопасно перейти на ту сторону.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.27",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I can apply it to you every few hours, otherwise you will need to bring me enchanting orbs.",
+      "translation": "[NPC] Wizard: Я могу делать его раз в несколько часов. Если захочешь раньше, принеси мне сферы зачарования.",
+      "style_anchors": [
+        {
+          "source": "enchanting orbs",
+          "target": "сферы зачарования"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.28",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Careful!",
+      "translation": "[NPC] Wizard: Осторожно!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.29",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: You need a Dimensional Infusion before hopping in the portal.",
+      "translation": "[NPC] Wizard: Тебе нужно межпространственное вливание, прежде чем прыгать в портал.",
+      "style_anchors": [
+        {
+          "source": "Dimensional Infusion before hopping in the portal.",
+          "target": "межпространственное вливание, прежде чем прыгать в портал."
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.30",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Come talk to me!",
+      "translation": "[NPC] Wizard: Подойди, поговорим!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.31",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Hold up there!",
+      "translation": "[NPC] Wizard: Погоди-ка!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.32",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: You might explode in a million pieces if you go through the portal.",
+      "translation": "[NPC] Wizard: Если пройдёшь через портал, тебя может разорвать на миллион кусочков.",
+      "style_anchors": [
+        {
+          "source": "explode",
+          "target": "разорвать"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.33",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Come talk to me first!",
+      "translation": "[NPC] Wizard: Сначала поговори со мной!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.34",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: If you want to safely travel through the portal, you need a Dimensional Infusion.",
+      "translation": "[NPC] Wizard: Чтобы безопасно пройти через портал, тебе нужно межпространственное вливание.",
+      "style_anchors": [
+        {
+          "source": "safely",
+          "target": "безопасно"
+        },
+        {
+          "source": "Dimensional Infusion",
+          "target": "межпространственное вливание"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.35",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Jump in the portal now!",
+      "translation": "[NPC] Wizard: Теперь прыгай в портал!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.36",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: You can jump into the portal now.",
+      "translation": "[NPC] Wizard: Теперь можно прыгать в портал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.37",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Be careful, you might be surprised what's on the other side!",
+      "translation": "[NPC] Wizard: Будь осторожен: то, что ждёт по ту сторону, может тебя удивить!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.38",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: You should be able to jump into the portal now.",
+      "translation": "[NPC] Wizard: Теперь у тебя должно получиться пройти через портал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.39",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Most people survive it!",
+      "translation": "[NPC] Wizard: Большинство людей выживает!",
+      "style_anchors": [
+        {
+          "source": "Most",
+          "target": "Большинство"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.40",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Good lord.",
+      "translation": "[NPC] Wizard: Боже мой.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.41",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I came right as I heard the rumbling.",
+      "translation": "[NPC] Wizard: Как только я услышал грохот, сразу прибежал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.42",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Did you just... fix the breach?",
+      "translation": "[NPC] Wizard: Ты что, только что... сумел устранить брешь?",
+      "style_anchors": [
+        {
+          "source": "fix the breach",
+          "target": "устранить брешь"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.43",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I cannot thank you enough.",
+      "translation": "[NPC] Wizard: Не знаю, как тебя отблагодарить.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.44",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Here is a token of my gratitude for your actions.",
+      "translation": "[NPC] Wizard: Прими это в знак благодарности за твой поступок.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.45",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: In addition to my other pursuits, I engage in novel writing during my leisure.",
+      "translation": "[NPC] Wizard: Помимо прочих занятий, на досуге я пишу романы.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.46",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I've composed a fictional narrative about an adventurer who ventures into the Rift and conquers it.",
+      "translation": "[NPC] Wizard: Я написал историю о приключенце, который отправляется в Разлом и покоряет его.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.47",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: While it's yet unpublished, I believe it would be fitting for you to have its cover.",
+      "translation": "[NPC] Wizard: Книга ещё не издана, но, думаю, будет справедливо отдать тебе её обложку.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.48",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Now then, time is of the essence.",
+      "translation": "[NPC] Wizard: Что ж, время не ждёт.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.49",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I must study this new breach.",
+      "translation": "[NPC] Wizard: Мне нужно изучить эту новую брешь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.50",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Because of your help inside the Rift, once I am done, I will let you use my services for free.",
+      "translation": "[NPC] Wizard: В благодарность за помощь в Разломе, когда я закончу, мои услуги будут для тебя бесплатными.",
+      "style_anchors": [
+        {
+          "source": "Rift",
+          "target": "Разломе"
+        },
+        {
+          "source": "free",
+          "target": "бесплатными"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.51",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Please return in 3-5 business days!",
+      "translation": "[NPC] Wizard: Пожалуйста, возвращайся через 3-5 рабочих дней!",
+      "style_anchors": [
+        {
+          "source": "3-5 business days",
+          "target": "3-5 рабочих дней"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.52",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Our knowledge of that era is minimal.",
+      "translation": "[NPC] Wizard: Об этой эпохе мы почти ничего не знаем.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.53",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: But such an aura...",
+      "translation": "[NPC] Wizard: Но какая аура...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.54",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I fear that even if I manage to open the breach, venturing through it would be a grave mistake.",
+      "translation": "[NPC] Wizard: Боюсь, даже если мне удастся открыть брешь, проходить через неё будет огромной ошибкой.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.55",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I can tell this is the Era of Kaeman, when he was at the zenith of his power.",
+      "translation": "[NPC] Wizard: Похоже, это эпоха Каэмана, когда он был на пике своего могущества.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.56",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I am now almost certain that the Breach leads to the Past.",
+      "translation": "[NPC] Wizard: Теперь я почти уверен, что Брешь ведёт в прошлое.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.57",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: But to which point in time...?",
+      "translation": "[NPC] Wizard: Но в какой именно момент...?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.58",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I must ascertain the answer!",
+      "translation": "[NPC] Wizard: Я должен это выяснить!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.59",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I believe this breach was created by Jythar during the Calamity.",
+      "translation": "[NPC] Wizard: Полагаю, эту брешь создал Джитар во время Катастрофы.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.60",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: However, I doubt it will permit us to travel that far back.",
+      "translation": "[NPC] Wizard: Но я сомневаюсь, что она позволит нам попасть настолько далеко в прошлое.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.61",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I suspect someone is altering its destination.",
+      "translation": "[NPC] Wizard: Подозреваю, кто-то меняет точку её назначения.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.62",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I am making progress.",
+      "translation": "[NPC] Wizard: Есть подвижки.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.63",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I can now sense a great and formidable evil lurking beyond these threads of time.",
+      "translation": "[NPC] Wizard: Теперь я чувствую великое и грозное зло, скрывающееся за этими нитями времени.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.64",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: It appears someone else is already utilizing the breach.",
+      "translation": "[NPC] Wizard: Похоже, кто-то уже пользуется брешью.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.65",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I know not who they are, but their understanding exceeds mine!",
+      "translation": "[NPC] Wizard: Не знаю кто, но он разбирается в этом лучше меня!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.66",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: There is certainly something quite...spooky...in the air!",
+      "translation": "[NPC] Wizard: В воздухе определённо витает что-то... жутковатое!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.67",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I suppose that was expected. Not many people have enough potatoes to power a magical portal.",
+      "translation": "[NPC] Wizard: Что ж, этого стоило ожидать. Мало у кого найдётся столько картошки, чтобы запитать магический портал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.68",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Hmm...something appears to be broken. Give me 3-5 business days to fix!",
+      "translation": "[NPC] Wizard: Хм... Похоже, что-то сломалось. Дай мне 3-5 рабочих дней на починку!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.69",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Hmm...something appears to be broken. Give me 2-4 business days to fix!",
+      "translation": "[NPC] Wizard: Хм... Похоже, что-то сломалось. Дай мне 2-4 рабочих дня на починку!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.70",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Hmm...something appears to be broken. Give me 2-3 business days to fix!",
+      "translation": "[NPC] Wizard: Хм... Похоже, что-то сломалось. Дай мне 2-3 рабочих дня на починку!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.71",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Hmm...something appears to be broken. Give me 1-2 business days to fix!",
+      "translation": "[NPC] Wizard: Хм... Похоже, что-то сломалось. Дай мне 1-2 рабочих дня на починку!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.72",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Hmm...something appears to be broken. Give me 24 business hours to fix!",
+      "translation": "[NPC] Wizard: Хм... Похоже, что-то сломалось. Дай мне 24 рабочих часа на починку!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.73",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Hmmm... Something appears to be broken. Give me about 24 business hours to fix!",
+      "translation": "[NPC] Wizard: Хмм... Похоже, что-то сломалось. Дай мне примерно 24 рабочих часа на починку!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.74",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Oh. That's at least 4 business days.",
+      "translation": "[NPC] Wizard: Ох. Это как минимум 4 рабочих дня.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.75",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Time really flies!",
+      "translation": "[NPC] Wizard: Как же летит время!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.76",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: If only Barry had been helping instead of engaging in a popularity contest...",
+      "translation": "[NPC] Wizard: Если бы Барри помогал мне, а не участвовал в состязании за популярность...",
+      "style_anchors": [
+        {
+          "source": "Barry",
+          "target": "Барри"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.77",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Chasing clout? It's chasing clouds!",
+      "translation": "[NPC] Wizard: Гонится за славой? Да он витает в облаках!",
+      "style_anchors": [
+        {
+          "source": "clout",
+          "target": "славой"
+        },
+        {
+          "source": "clouds",
+          "target": "облаках"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.78",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Anyway, he seems to be hard at work now.",
+      "translation": "[NPC] Wizard: Впрочем, теперь он, кажется, трудится не покладая рук.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.79",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Check back later to use the Portal...it seems to be broken. :(",
+      "translation": "[NPC] Wizard: Приходи воспользоваться порталом попозже... Похоже, он сломался. :(",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.80",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Check back later...magic awaits!",
+      "translation": "[NPC] Wizard: Загляни попозже... Магия ждёт!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.81",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: The Portal hasn't worked since...I don't want to talk about it.",
+      "translation": "[NPC] Wizard: Портал не работает с тех пор, как... Не хочу об этом говорить.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard?oldid=815348",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.82",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Mi Wizard, mi lost mi crystal ball",
+      "translation": "[NPC] Wizard: Я волшебник, а свой хрустальный шар посеял.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_(Catacombs)?oldid=819926",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.83",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: If you find mi crystal, can you give it back to me lady",
+      "translation": "[NPC] Wizard: Найдёшь мой шар — верни, будь добра, барышня.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_(Catacombs)?oldid=819926",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.84",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Oh my lovely crystal ball, mi so happy",
+      "translation": "[NPC] Wizard: О, мой милый хрустальный шар! Вот радость-то!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_(Catacombs)?oldid=819926",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.85",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Granted your team a Blessing of Wisdom I",
+      "translation": "[NPC] Wizard: Твоя команда получила Благословение мудрости I.",
+      "style_anchors": [
+        {
+          "source": "Blessing of Wisdom I",
+          "target": "Благословение мудрости I"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_(Catacombs)?oldid=819926",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.86",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Just old wizard y'know",
+      "translation": "[NPC] Wizard: Да просто старый волшебник, понимаешь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_(Catacombs)?oldid=819926",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.87",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Mi don't know what I'd do with no crystal ball",
+      "translation": "[NPC] Wizard: Не знаю уж, как бы я без хрустального шара жил.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_(Catacombs)?oldid=819926",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.88",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Are you really a lady? You ain't trying to play tricks with mi I hope.",
+      "translation": "[NPC] Wizard: Ты точно барышня? Надеюсь, не вздумала надо мной подшучивать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_(Catacombs)?oldid=819926",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.89",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: You find mi crystal ball?",
+      "translation": "[NPC] Wizard: Нашла мой хрустальный шар?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_(Catacombs)?oldid=819926",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.90",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I remember meeting you, out there.",
+      "translation": "[NPC] Wizard: Помню нашу встречу, по ту сторону.",
+      "style_anchors": [
+        {
+          "source": "out there",
+          "target": "по ту сторону"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.91",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: We're in a separate dimension.",
+      "translation": "[NPC] Wizard: Мы в другом измерении.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.92",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: An alternative universe of sorts.",
+      "translation": "[NPC] Wizard: В своего рода параллельной вселенной.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.93",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Both marvelous and dangerous at the same time.",
+      "translation": "[NPC] Wizard: Одновременно удивительной и опасной.",
+      "style_anchors": [
+        {
+          "source": "marvelous",
+          "target": "удивительной"
+        },
+        {
+          "source": "dangerous",
+          "target": "опасной"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.94",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: But listen carefully.",
+      "translation": "[NPC] Wizard: Но слушай внимательно.",
+      "style_anchors": [
+        {
+          "source": "listen carefully",
+          "target": "слушай внимательно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.95",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Some SkyBlock dwellers feel lost here.",
+      "translation": "[NPC] Wizard: Некоторые жители SkyBlock чувствуют себя здесь потерянными.",
+      "style_anchors": [
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        },
+        {
+          "source": "lost",
+          "target": "потерянными"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.96",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Always anxious of laying out their own path.",
+      "translation": "[NPC] Wizard: Всё время боятся проложить собственный путь.",
+      "style_anchors": [
+        {
+          "source": "anxious",
+          "target": "боятся"
+        },
+        {
+          "source": "own",
+          "target": "собственный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.97",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I can help you with finding a path, literally.",
+      "translation": "[NPC] Wizard: Я могу помочь тебе найти путь. В буквальном смысле.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.98",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Here, take these breadcrumbs.",
+      "translation": "[NPC] Wizard: Вот, возьми эти хлебные крошки.",
+      "style_anchors": [
+        {
+          "source": "breadcrumbs",
+          "target": "хлебные крошки"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.99",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Are you lost already?",
+      "translation": "[NPC] Wizard: Уже потерялся?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.100",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I can take you back to my path!",
+      "translation": "[NPC] Wizard: Я могу вернуть тебя на свою тропу!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.101",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Now set a path for yourself.",
+      "translation": "[NPC] Wizard: А теперь проложи собственный путь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.102",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Use the breadcrumbs on the yellow particles.",
+      "translation": "[NPC] Wizard: Используй хлебные крошки там, где видишь жёлтые частицы.",
+      "style_anchors": [
+        {
+          "source": "breadcrumbs",
+          "target": "хлебные крошки"
+        },
+        {
+          "source": "yellow particles",
+          "target": "жёлтые частицы"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.103",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Now that you've laid out a path, you have at least one thing to do if you follow it!",
+      "translation": "[NPC] Wizard: Теперь путь проложен. Следуй по нему — и у тебя найдётся хотя бы одно занятие!",
+      "style_anchors": [
+        {
+          "source": "one thing to do",
+          "target": "одно занятие"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.104",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Some of us prefer a clear path ahead, while others would rather explore on their own.",
+      "translation": "[NPC] Wizard: Одним нравится заранее знать свой путь, а другие предпочитают исследовать всё самостоятельно.",
+      "style_anchors": [
+        {
+          "source": "clear path ahead",
+          "target": "заранее знать свой путь"
+        },
+        {
+          "source": "explore on their own",
+          "target": "исследовать всё самостоятельно"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.105",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Either is fine! One has to experience the universe at their own pace.",
+      "translation": "[NPC] Wizard: Оба подхода хороши! Каждый должен познавать вселенную в своём темпе.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.106",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: One thing is certain, dropping breadcrumbs everywhere would take too long!",
+      "translation": "[NPC] Wizard: Одно ясно: рассыпать хлебные крошки повсюду — слишком долго!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.107",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: That's why we wizards have prepared the Rift Guide, in case you're unsure what to do.",
+      "translation": "[NPC] Wizard: Поэтому мы, волшебники, составили путеводитель по Разлому — на случай, если не знаешь, чем заняться.",
+      "style_anchors": [
+        {
+          "source": "wizards",
+          "target": "волшебники"
+        },
+        {
+          "source": "Rift Guide",
+          "target": "путеводитель по Разлому"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.108",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: The greatest magic comes from the courage to venture into the unknown.",
+      "translation": "[NPC] Wizard: Величайшая магия рождается из смелости шагнуть в неизвестность.",
+      "style_anchors": [
+        {
+          "source": "magic",
+          "target": "магия"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.109",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: An entity we call Enigma has decided to live at the base of the tower.",
+      "translation": "[NPC] Wizard: Существо по имени Энигма решило поселиться у подножия башни.",
+      "style_anchors": [
+        {
+          "source": "Enigma",
+          "target": "Энигма"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.110",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I can barely understand it.",
+      "translation": "[NPC] Wizard: Я едва могу его понять.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.111",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Fear is a barrier to adventure, but embracing it can lead to magical experiences.",
+      "translation": "[NPC] Wizard: Страх — преграда на пути к приключениям. Но если его принять, можно пережить нечто волшебное.",
+      "style_anchors": [
+        {
+          "source": "Fear",
+          "target": "Страх"
+        },
+        {
+          "source": "barrier",
+          "target": "преграда"
+        },
+        {
+          "source": "magical",
+          "target": "волшебное"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.112",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: I wonder where Barry is now. He was the first to step into the portal after we opened it.",
+      "translation": "[NPC] Wizard: Интересно, где сейчас Барри? Он первым шагнул в портал после того, как мы его открыли.",
+      "style_anchors": [
+        {
+          "source": "Barry",
+          "target": "Барри"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.113",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: When you believe in the magic of the world around you, anything is possible.",
+      "translation": "[NPC] Wizard: Если верить в магию окружающего мира, возможно всё.",
+      "style_anchors": [
+        {
+          "source": "magic",
+          "target": "магию"
+        },
+        {
+          "source": "anything",
+          "target": "всё"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.114",
+      "speaker": "Wizard",
+      "tag": "NPC",
+      "source": "[NPC] Wizard: Oops!",
+      "translation": "[NPC] Wizard: Ой!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_But_Weird?oldid=815351",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.115",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Wizardman to the rescue.",
+      "translation": "[NPC] Wizardman: Визардмен спешит на помощь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Detective_Amog?oldid=844532",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.116",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: What kind of pickle are you in?",
+      "translation": "[NPC] Wizardman: В какую передрягу ты попал?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Detective_Amog?oldid=844532",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.117",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I am Wizardman!",
+      "translation": "[NPC] Wizardman: Я Визардмен!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.118",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: How are you doing little fellow?",
+      "translation": "[NPC] Wizardman: Как поживаешь, малыш?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.119",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Do you need the help of Wizardman?",
+      "translation": "[NPC] Wizardman: Нужна помощь Визардмена?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.120",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: All you have to do is scream \"Help Wizardman!\" and I'll come save you if I'm not too busy.",
+      "translation": "[NPC] Wizardman: Просто крикни «На помощь, Визардмен!», и я приду тебя спасать, если не буду слишком занят.",
+      "style_anchors": [
+        {
+          "source": "Help Wizardman!",
+          "target": "На помощь, Визардмен!"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.121",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Ah.",
+      "translation": "[NPC] Wizardman: Ах.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.122",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Sorry young companion, someone needs me!",
+      "translation": "[NPC] Wizardman: Прости, юный друг, кому-то нужна моя помощь!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.123",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I've got to skedaddle.",
+      "translation": "[NPC] Wizardman: Мне пора сматываться.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.124",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Sorry little fellow, I'm busy right now!",
+      "translation": "[NPC] Wizardman: Прости, малыш, я сейчас занят!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.125",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Maybe don't disturb me when I'm trying to save the multiverse!",
+      "translation": "[NPC] Wizardman: Может, не будешь мешать мне спасать мультивселенную?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.126",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Of course.",
+      "translation": "[NPC] Wizardman: Разумеется.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.127",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Sure thing, little one.",
+      "translation": "[NPC] Wizardman: Конечно, малыш.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.128",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Back off and watch the pro.",
+      "translation": "[NPC] Wizardman: Отойди и смотри, как работает профессионал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.129",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: My job here is done.",
+      "translation": "[NPC] Wizardman: Моё дело здесь сделано.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.130",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Cya losers.",
+      "translation": "[NPC] Wizardman: Бывайте, неудачники.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.131",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Ah, it's you. I've been expecting your arrival.",
+      "translation": "[NPC] Wizardman: А, это ты. Я ждал твоего появления.",
+      "style_anchors": [
+        {
+          "source": "you",
+          "target": "ты",
+          "whole_word": true
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.132",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I knew you'd come.",
+      "translation": "[NPC] Wizardman: Я знал, что ты придёшь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.133",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I've seen hundreds of iterations of you, all from different dimensions, who have come before me seeking to claim the title of Wizardman.",
+      "translation": "[NPC] Wizardman: Я видел сотни версий тебя из разных измерений. Все они приходили ко мне, желая получить звание Визардмена.",
+      "style_anchors": [
+        {
+          "source": "you",
+          "target": "тебя"
+        },
+        {
+          "source": "Wizardman",
+          "target": "Визардмена"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.134",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: If you aspire to take my place, you must first defeat me.",
+      "translation": "[NPC] Wizardman: Если хочешь занять моё место, сначала победи меня.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.135",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Are you ready to rise above your predecessors?",
+      "translation": "[NPC] Wizardman: Готов превзойти своих предшественников?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.136",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Are you prepared to succeed where they have faltered?",
+      "translation": "[NPC] Wizardman: Готов добиться успеха там, где они потерпели неудачу?",
+      "style_anchors": [
+        {
+          "source": "succeed",
+          "target": "добиться успеха"
+        },
+        {
+          "source": "faltered",
+          "target": "потерпели неудачу"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.137",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Excellent. Let's find out if you are merely another echo, or if you are the one.",
+      "translation": "[NPC] Wizardman: Прекрасно. Посмотрим, очередное ли ты эхо или тот самый избранный.",
+      "style_anchors": [
+        {
+          "source": "one",
+          "target": "избранный"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.138",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Choose from the three Trials before you.",
+      "translation": "[NPC] Wizardman: Выбери одно из трёх испытаний перед тобой.",
+      "style_anchors": [
+        {
+          "source": "Trials",
+          "target": "испытаний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.139",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Each is designed to test your mettle in its own unique way.",
+      "translation": "[NPC] Wizardman: Каждое по-своему проверит, чего ты стоишь.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.140",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You now have enough Fragments to assemble my Armor.",
+      "translation": "[NPC] Wizardman: Теперь у тебя достаточно фрагментов, чтобы собрать мою броню.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.141",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Put on your new armor and speak to me.",
+      "translation": "[NPC] Wizardman: Надень новую броню и поговори со мной.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.142",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Well then.",
+      "translation": "[NPC] Wizardman: Что ж.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.143",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You are the first one of your kind to defeat me and craft this armor.",
+      "translation": "[NPC] Wizardman: Ты первый из себе подобных, кому удалось победить меня и создать эту броню.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.144",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I, too, once stood in your shoes, having overthrown the Wizardman before me.",
+      "translation": "[NPC] Wizardman: Когда-то я тоже был на твоём месте, одолев предыдущего Визардмена.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.145",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: It is time for you to become Wizardman.",
+      "translation": "[NPC] Wizardman: Пора тебе стать Визардменом.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.146",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Understand this: Wizardman is not merely a person; it is a concept, a legacy handed down through generations, striving towards a singular dream.",
+      "translation": "[NPC] Wizardman: Пойми: Визардмен — не просто человек. Это идея, наследие, которое передают из поколения в поколение ради одной мечты.",
+      "style_anchors": [
+        {
+          "source": "person",
+          "target": "человек"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.147",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Together, one of us will eventually mend the rift and repair the Breach atop the mountain.",
+      "translation": "[NPC] Wizardman: Общими усилиями мы добьёмся того, что один из нас залатает разлом и устранит Брешь на вершине горы.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.148",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Though I faltered, perhaps you will prevail.",
+      "translation": "[NPC] Wizardman: Я потерпел неудачу, но, быть может, у тебя получится.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.149",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You are only missing one part of the armor to become Wizardman.",
+      "translation": "[NPC] Wizardman: Чтобы стать Визардменом, тебе не хватает лишь одной части брони.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.150",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Take this, the final piece.",
+      "translation": "[NPC] Wizardman: Возьми. Это последняя часть.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.151",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Now, wear it.",
+      "translation": "[NPC] Wizardman: А теперь надень её.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.152",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You're lucky I keep a spare in my back pocket!",
+      "translation": "[NPC] Wizardman: Повезло тебе, что я держу запасную в заднем кармане!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.153",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I've been watching over you this whole time...",
+      "translation": "[NPC] Wizardman: Всё это время я присматривал за тобой...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.154",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I remember when you proved your identity to the Eleanors...",
+      "translation": "[NPC] Wizardman: Помню, как ты доказал Элеонорам, кто ты такой...",
+      "style_anchors": [
+        {
+          "source": "Eleanors",
+          "target": "Элеонорам"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.155",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When your blood was first drained by the Riftstalker Bloodfiend...",
+      "translation": "[NPC] Wizardman: Как Кровавый демон Разлома впервые высосал твою кровь...",
+      "style_anchors": [
+        {
+          "source": "Riftstalker Bloodfiend",
+          "target": "Кровавый демон Разлома"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.156",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When you first went to battle with Bacte...",
+      "translation": "[NPC] Wizardman: Как ты впервые вступил в бой с Бактом...",
+      "style_anchors": [
+        {
+          "source": "Bacte",
+          "target": "Бактом"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.157",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When you first ventured deeper into the Living Cave...",
+      "translation": "[NPC] Wizardman: Как ты впервые отважился пройти вглубь Живой пещеры...",
+      "style_anchors": [
+        {
+          "source": "Living Cave",
+          "target": "Живой пещеры"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.158",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When you first explored the Village Pla-",
+      "translation": "[NPC] Wizardman: Как ты впервые исследовал Деревенскую пло-",
+      "style_anchors": [
+        {
+          "source": "Village Pla",
+          "target": "Деревенскую пло"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.159",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Oh... I actually don't remember this...",
+      "translation": "[NPC] Wizardman: Ой... Вообще-то этого я не помню...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.160",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I watched your back as you vacuumed up vermin...",
+      "translation": "[NPC] Wizardman: Я прикрывал тебя, пока ты пылесосил вредителей...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.161",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When you murdered the innocent Ramero...",
+      "translation": "[NPC] Wizardman: Как ты убил невинного Рамеро...",
+      "style_anchors": [
+        {
+          "source": "Ramero",
+          "target": "Рамеро"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.162",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When you raced around collecting hot dogs for Joey McPizza...",
+      "translation": "[NPC] Wizardman: Как ты носился за хот-догами для Джоуи МакПиццы...",
+      "style_anchors": [
+        {
+          "source": "Joey McPizza",
+          "target": "Джоуи МакПиццы"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.163",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When you were on the hunt for Enigma Souls...",
+      "translation": "[NPC] Wizardman: Как ты охотился за душами Энигмы...",
+      "style_anchors": [
+        {
+          "source": "Enigma Souls",
+          "target": "душами Энигмы"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.164",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When you wandered past the Montezuma fragments...",
+      "translation": "[NPC] Wizardman: Как ты проходил мимо фрагментов Монтесумы...",
+      "style_anchors": [
+        {
+          "source": "Montezuma",
+          "target": "Монтесумы"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.165",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When you first learned to count to 10...",
+      "translation": "[NPC] Wizardman: Как ты впервые научился считать до 10...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.166",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: When we first met...",
+      "translation": "[NPC] Wizardman: Как мы впервые встретились...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.167",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: All you have to do is scream \"Help Wizardman\" and I'll come save you if I'm not too busy.",
+      "translation": "[NPC] Wizardman: Просто крикни «На помощь, Визардмен», и я приду тебя спасать, если не буду слишком занят.",
+      "style_anchors": [
+        {
+          "source": "Help Wizardman",
+          "target": "На помощь, Визардмен"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.168",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: So, you believe you can outpace me in a Temporal Race?",
+      "translation": "[NPC] Wizardman: Значит, думаешь обогнать меня в гонке во времени?",
+      "style_anchors": [
+        {
+          "source": "Temporal Race",
+          "target": "гонке во времени"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.169",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I find that quite ambitious.",
+      "translation": "[NPC] Wizardman: Весьма смелые намерения.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.170",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Follow me to the Trial Grounds, let's put that confidence to the test.",
+      "translation": "[NPC] Wizardman: Следуй за мной на площадку испытаний. Проверим твою уверенность на деле.",
+      "style_anchors": [
+        {
+          "source": "Trial Grounds",
+          "target": "площадку испытаний"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.171",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: The rules are straightforward. Once you signal readiness, we race.",
+      "translation": "[NPC] Wizardman: Правила просты. Как только скажешь, что готов, начинаем гонку.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.172",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Have you grasped all the details, little one?",
+      "translation": "[NPC] Wizardman: Ты всё понял, малыш?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.173",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Remember, we race when you signal readiness.",
+      "translation": "[NPC] Wizardman: Помни: начинаем гонку, как только скажешь, что готов.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.174",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Let's race! Good luck to you!",
+      "translation": "[NPC] Wizardman: Начинаем! Удачи тебе!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.175",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: No one can match these raw skillz!",
+      "translation": "[NPC] Wizardman: С таким мастерством никому не сравниться!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.176",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You are proving quite formidable... well played.",
+      "translation": "[NPC] Wizardman: Ты оказался серьёзным соперником... Отличная игра.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.177",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You can't catch me!",
+      "translation": "[NPC] Wizardman: Не догонишь!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.178",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I'm the best! Me, Wizardman! The best!",
+      "translation": "[NPC] Wizardman: Я лучший! Я, Визардмен! Лучший!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.179",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Nicely done! I didn't see that coming.",
+      "translation": "[NPC] Wizardman: Здорово! Вот уж не ожидал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.180",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: A minor setback...",
+      "translation": "[NPC] Wizardman: Небольшая заминка...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.181",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Ah, a clever tactic! You've set me back.",
+      "translation": "[NPC] Wizardman: А, хитрый ход! Тебе удалось меня задержать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.182",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Whoops! That doesn't usually happen!",
+      "translation": "[NPC] Wizardman: Ой! Обычно такого не бывает!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.183",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You saw nothing...",
+      "translation": "[NPC] Wizardman: Ты ничего не видел...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.184",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Already? But I haven't finished yet!",
+      "translation": "[NPC] Wizardman: Уже? Но я ещё не закончил!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.185",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: This is a shocking turn of events!",
+      "translation": "[NPC] Wizardman: Вот это неожиданный поворот!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.186",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Wait, what? How...?",
+      "translation": "[NPC] Wizardman: Постой, что? Как...?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.187",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I win. Ha!",
+      "translation": "[NPC] Wizardman: Я выиграл. Ха!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.188",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: That must be a new personal best for me!",
+      "translation": "[NPC] Wizardman: Кажется, это мой новый личный рекорд!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.189",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I knew I'd win!",
+      "translation": "[NPC] Wizardman: Я знал, что выиграю!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.190",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You have bested me, this time.",
+      "translation": "[NPC] Wizardman: На этот раз ты меня одолел.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.191",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: For your victory, you have earned a Fragment of my armor.",
+      "translation": "[NPC] Wizardman: За победу ты получаешь фрагмент моей брони.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.192",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Keep it safe, for it is a piece of my power.",
+      "translation": "[NPC] Wizardman: Береги его, ведь это частица моей силы.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.193",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Once again, victory eludes you in the face of Wizardman, as it has for your countless predecessors.",
+      "translation": "[NPC] Wizardman: Ты вновь не сумел одолеть Визардмена, как и бесчисленные твои предшественники.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.194",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Would you care to challenge me again, or would you prefer to attempt a different Trial?",
+      "translation": "[NPC] Wizardman: Хочешь снова бросить мне вызов или попробуешь другое испытание?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.195",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Oh, you need a moment? Let's go back so you can decide what to do next.",
+      "translation": "[NPC] Wizardman: О, нужно подумать? Вернёмся, чтобы ты решил, чем заняться дальше.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.196",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Very well.",
+      "translation": "[NPC] Wizardman: Хорошо.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.197",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: A Brawl, you've chosen.",
+      "translation": "[NPC] Wizardman: Значит, выбираешь поединок.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.198",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Very well then, to the Wizard Brawl we go.",
+      "translation": "[NPC] Wizardman: Что ж, отправляемся на магический поединок.",
+      "style_anchors": [
+        {
+          "source": "Wizard Brawl",
+          "target": "магический поединок"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.199",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: To aid you in our duel, you will need this magical wand.",
+      "translation": "[NPC] Wizardman: В нашей дуэли тебе пригодится эта волшебная палочка.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.200",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: This legendary item once vanquished a dire menace to humanity in my home dimension.",
+      "translation": "[NPC] Wizardman: Когда-то в моём родном измерении этот легендарный предмет помог одолеть страшную угрозу человечеству.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.201",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Today, it shall serve us in our brawl.",
+      "translation": "[NPC] Wizardman: Сегодня он послужит нам в поединке.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.202",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: The rules here are simple: In this arena, you may fly, like Wizardman.",
+      "translation": "[NPC] Wizardman: Правила просты: на этой арене можно летать, как Визардмен.",
+      "style_anchors": [
+        {
+          "source": "fly",
+          "target": "летать"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.203",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: The first to deplete the other's ❤ Hearts shall be declared the winner.",
+      "translation": "[NPC] Wizardman: Победит тот, кто первым лишит соперника всех ❤ сердец.",
+      "style_anchors": [
+        {
+          "source": "❤ Hearts",
+          "target": "❤ сердец"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.204",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Are you prepared?",
+      "translation": "[NPC] Wizardman: Ты готов?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.205",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Then let our brawl commence!",
+      "translation": "[NPC] Wizardman: Тогда начнём наш поединок!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.206",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I have people waiting for me. I cannot stay.",
+      "translation": "[NPC] Wizardman: Меня ждут люди. Я не могу задерживаться.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.207",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Come back when you're actually ready!",
+      "translation": "[NPC] Wizardman: Возвращайся, когда действительно будешь готов!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.208",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You handle yourself well, but it's far from over.",
+      "translation": "[NPC] Wizardman: Ты неплохо справляешься, но до конца ещё далеко.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.209",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Let's see if your endurance matches your spirit.",
+      "translation": "[NPC] Wizardman: Посмотрим, хватит ли тебе выносливости под стать твоему боевому духу.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.210",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Well done! You've proven more formidable than I had anticipated.",
+      "translation": "[NPC] Wizardman: Молодец! Ты оказался сильнее, чем я ожидал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.211",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Remarkable resolve!",
+      "translation": "[NPC] Wizardman: Какая решимость!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.212",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: But beware, desperation lends me strength.",
+      "translation": "[NPC] Wizardman: Но берегись: отчаяние придаёт мне сил.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.213",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You've pushed me to the brink.",
+      "translation": "[NPC] Wizardman: Ты довёл меня до предела.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.214",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: But don't underestimate a Wizardman's last stand.",
+      "translation": "[NPC] Wizardman: Но не недооценивай Визардмена в последнем бою.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.215",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: It seems I may have met my match.",
+      "translation": "[NPC] Wizardman: Похоже, мне встретился достойный соперник.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.216",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: You have bested me, a feat none other can claim.",
+      "translation": "[NPC] Wizardman: Ты одолел меня — никому другому это не удавалось.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.217",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Hold this triumph close, as many will look to challenge it.",
+      "translation": "[NPC] Wizardman: Дорожи этой победой: многие захотят её оспорить.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.218",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: For your victory, you've earned a Fragment of my armor.",
+      "translation": "[NPC] Wizardman: За эту победу ты получаешь фрагмент моей брони.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.219",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: It appears you're not quite ready to play in the league of wizards, little fellow.",
+      "translation": "[NPC] Wizardman: Похоже, до состязаний с волшебниками ты ещё не дорос, малыш.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.220",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Reflect, learn, and try once more.",
+      "translation": "[NPC] Wizardman: Подумай над ошибками, потренируйся и попробуй снова.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.221",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Ah, little fellow, it seems this isn't your moment.",
+      "translation": "[NPC] Wizardman: Эх, малыш, похоже, твой час ещё не настал.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.222",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Return when the gaps in your skill are filled.",
+      "translation": "[NPC] Wizardman: Возвращайся, когда отточишь своё мастерство.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.223",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Remember, never let your guard down. Defeat me in battle!",
+      "translation": "[NPC] Wizardman: Помни: нельзя терять бдительность. Одолей меня в бою!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.224",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Let's do this.",
+      "translation": "[NPC] Wizardman: Приступим.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.225",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Ah, the Quad Link Legacy! A personal favorite of mine.",
+      "translation": "[NPC] Wizardman: А, «Наследие четырёх в ряд»! Одна из моих любимых игр.",
+      "style_anchors": [
+        {
+          "source": "Quad Link Legacy",
+          "target": "Наследие четырёх в ряд"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.226",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Prepare yourself for a battle of wits.",
+      "translation": "[NPC] Wizardman: Готовься к битве умов.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.227",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Would you like to review the rules?",
+      "translation": "[NPC] Wizardman: Хочешь освежить в памяти правила?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.228",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Each turn, we will choose a column to drop a colored token into the lowest open slot.",
+      "translation": "[NPC] Wizardman: Каждый ход мы выбираем столбец и опускаем цветную фишку в самую нижнюю свободную ячейку.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.229",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: The first to align four tokens of their color in a row claims victory!",
+      "translation": "[NPC] Wizardman: Побеждает тот, кто первым выстроит четыре фишки своего цвета в ряд!",
+      "style_anchors": [
+        {
+          "source": "four tokens",
+          "target": "четыре фишки"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.230",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Now that you know the rules, let's begin.",
+      "translation": "[NPC] Wizardman: Теперь ты знаешь правила. Начнём.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.231",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Very well, let's begin then.",
+      "translation": "[NPC] Wizardman: Хорошо, тогда начнём.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.232",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Very well. I will not ask you again.",
+      "translation": "[NPC] Wizardman: Хорошо. Больше не буду спрашивать.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.233",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: I'm thinking two steps ahead... hmmm...",
+      "translation": "[NPC] Wizardman: Просчитываю на два хода вперёд... Хмм...",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.234",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Hmmmm, what can I play to win?",
+      "translation": "[NPC] Wizardman: Хммм, какой ход принесёт мне победу?",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.235",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Do not rush the almighty Wizardman.",
+      "translation": "[NPC] Wizardman: Не торопи всемогущего Визардмена.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.236",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Well played!",
+      "translation": "[NPC] Wizardman: Отличная игра!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.237",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: It seems I've underestimated your capacity for foresight and planning.",
+      "translation": "[NPC] Wizardman: Похоже, я недооценил твоё умение предвидеть события и строить планы.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.238",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: We will complete our match one day, little one.",
+      "translation": "[NPC] Wizardman: Когда-нибудь мы доиграем нашу партию, малыш.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.239",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Ah, it seems the depths of wisdom still elude you.",
+      "translation": "[NPC] Wizardman: Ах, похоже, глубины мудрости тебе пока недоступны.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.240",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Return when the fogs of ignorance have lifted.",
+      "translation": "[NPC] Wizardman: Возвращайся, когда рассеется туман невежества.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.241",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: That was a close one!",
+      "translation": "[NPC] Wizardman: Это было на волоске!",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.242",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Unfortunately you didn't beat me.",
+      "translation": "[NPC] Wizardman: К сожалению, тебе не удалось меня победить.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    },
+    {
+      "source_key": "npc79.243",
+      "speaker": "Wizardman",
+      "tag": "NPC",
+      "source": "[NPC] Wizardman: Very well. Let's put your wits to the test.",
+      "translation": "[NPC] Wizardman: Хорошо. Проверим твою смекалку.",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizardman?oldid=816564",
+      "evidence": "frozen_public_wiki_revision_not_live_packet"
+    }
+  ]
+}

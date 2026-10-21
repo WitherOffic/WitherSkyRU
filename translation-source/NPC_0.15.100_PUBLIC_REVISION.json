@@ -1,0 +1,785 @@
+{
+  "checked_at": "2026-10-19T13:40:30.825640+07:00",
+  "api_urls": [
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Aatrox%7CAlan%7CAlatar%7CAndrea%7CBirdwatcher+Tim%7CBoris%7CCastle+Guards%7CCole%7CCosmo%7CDaan%7CDante%2FDialogue%7CDerpy%7CDiana%7CDiaz%7CDirk%7CDisinfestor%7CDory%7CDr.+Edwin%7CDr.+Stone%7CFinnegan%7CFoxy%7CGary%7CGuard+Gornum%7CHelena%7CHendrik%7CHunter+Dennis%7CKalhuiki+Tribe+Member%7CKay%7CLukas+the+Aquarist%7CMaaike&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Madame+Eleanor+Q.+Goldsworth+I%7CMadame+Eleanor+Q.+Goldsworth+II%7CMadame+Eleanor+Q.+Goldsworth+III%7CMadame+Eleanor+Q.+Goldsworth+IX%7CMadame+Eleanor+Q.+Goldsworth+V%7CMadame+Eleanor+Q.+Goldsworth+VII%7CMarina%7CMees%7COdawa%7CPaul%7CPiggy%7CPorhtal%7CPrie%7CRichard%7CRick%7CScorpius%7CScout+Scardius%7CSeymour%7CSeymour+%28Rift%29%7CShen+Chaos%7CShen+Magnum+Opus%7CShen%27s+Agent%7CShifted%7CUndercover+Agent%7CWalter&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2"
+  ],
+  "matches_pinned_corpus": true,
+  "expected": {
+    "Aatrox": 842882,
+    "Alan": 812493,
+    "Alatar": 793235,
+    "Andrea": 828430,
+    "Birdwatcher Tim": 828446,
+    "Boris": 787590,
+    "Castle Guards": 787765,
+    "Cole": 855335,
+    "Cosmo": 787939,
+    "Daan": 813015,
+    "Dante/Dialogue": 681739,
+    "Derpy": 840371,
+    "Diana": 815664,
+    "Diaz": 856138,
+    "Dirk": 813082,
+    "Disinfestor": 788118,
+    "Dory": 828479,
+    "Dr. Edwin": 813108,
+    "Dr. Stone": 858364,
+    "Finnegan": 844132,
+    "Foxy": 788690,
+    "Gary": 857908,
+    "Guard Gornum": 788983,
+    "Helena": 813687,
+    "Hendrik": 857907,
+    "Hunter Dennis": 828549,
+    "Kalhuiki Tribe Member": 852778,
+    "Kay": 813864,
+    "Lukas the Aquarist": 826372,
+    "Maaike": 813993,
+    "Madame Eleanor Q. Goldsworth I": 818433,
+    "Madame Eleanor Q. Goldsworth II": 813998,
+    "Madame Eleanor Q. Goldsworth III": 857334,
+    "Madame Eleanor Q. Goldsworth IX": 858078,
+    "Madame Eleanor Q. Goldsworth V": 856328,
+    "Madame Eleanor Q. Goldsworth VII": 818436,
+    "Marina": 844765,
+    "Mees": 814067,
+    "Odawa": 814265,
+    "Paul": 842883,
+    "Piggy": 844608,
+    "Porhtal": 828211,
+    "Prie": 814411,
+    "Richard": 858668,
+    "Rick": 858171,
+    "Scorpius": 828186,
+    "Scout Scardius": 754804,
+    "Seymour": 814673,
+    "Seymour (Rift)": 814675,
+    "Shen Chaos": 814706,
+    "Shen Magnum Opus": 814708,
+    "Shen's Agent": 790605,
+    "Shifted": 814710,
+    "Undercover Agent": 791289,
+    "Walter": 830507
+  },
+  "actual": {
+    "Gary": 857908,
+    "Diana": 815664,
+    "Aatrox": 842882,
+    "Cole": 855335,
+    "Foxy": 788690,
+    "Diaz": 856138,
+    "Derpy": 840371,
+    "Castle Guards": 787765,
+    "Dante/Dialogue": 681739,
+    "Kalhuiki Tribe Member": 852778,
+    "Finnegan": 844132,
+    "Hendrik": 857907,
+    "Dirk": 813082,
+    "Maaike": 813993,
+    "Helena": 813687,
+    "Daan": 813015,
+    "Dr. Edwin": 813108,
+    "Kay": 813864,
+    "Alatar": 793235,
+    "Cosmo": 787939,
+    "Disinfestor": 788118,
+    "Dr. Stone": 858364,
+    "Lukas the Aquarist": 826372,
+    "Alan": 812493,
+    "Guard Gornum": 788983,
+    "Boris": 787590,
+    "Andrea": 828430,
+    "Dory": 828479,
+    "Hunter Dennis": 828549,
+    "Birdwatcher Tim": 828446,
+    "Rick": 858171,
+    "Walter": 830507,
+    "Seymour": 814673,
+    "Marina": 844765,
+    "Paul": 842883,
+    "Scorpius": 828186,
+    "Piggy": 844608,
+    "Odawa": 814265,
+    "Madame Eleanor Q. Goldsworth III": 857334,
+    "Undercover Agent": 791289,
+    "Prie": 814411,
+    "Shen's Agent": 790605,
+    "Mees": 814067,
+    "Shifted": 814710,
+    "Porhtal": 828211,
+    "Seymour (Rift)": 814675,
+    "Scout Scardius": 754804,
+    "Richard": 858668,
+    "Madame Eleanor Q. Goldsworth I": 818433,
+    "Madame Eleanor Q. Goldsworth VII": 818436,
+    "Madame Eleanor Q. Goldsworth V": 856328,
+    "Madame Eleanor Q. Goldsworth IX": 858078,
+    "Madame Eleanor Q. Goldsworth II": 813998,
+    "Shen Chaos": 814706,
+    "Shen Magnum Opus": 814708
+  },
+  "pages": [
+    {
+      "pageid": 14860,
+      "ns": 0,
+      "title": "Gary",
+      "revisions": [
+        {
+          "revid": 857908,
+          "parentid": 857905,
+          "timestamp": "2026-10-14T11:57:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 65797,
+      "ns": 0,
+      "title": "Diana",
+      "revisions": [
+        {
+          "revid": 815664,
+          "parentid": 788107,
+          "timestamp": "2026-08-11T20:18:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 66895,
+      "ns": 0,
+      "title": "Aatrox",
+      "revisions": [
+        {
+          "revid": 842882,
+          "parentid": 842879,
+          "timestamp": "2026-09-16T10:30:13Z"
+        }
+      ]
+    },
+    {
+      "pageid": 67989,
+      "ns": 0,
+      "title": "Cole",
+      "revisions": [
+        {
+          "revid": 855335,
+          "parentid": 855308,
+          "timestamp": "2026-10-09T23:33:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 68078,
+      "ns": 0,
+      "title": "Foxy",
+      "revisions": [
+        {
+          "revid": 788690,
+          "parentid": 778900,
+          "timestamp": "2026-07-23T23:59:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 68168,
+      "ns": 0,
+      "title": "Diaz",
+      "revisions": [
+        {
+          "revid": 856138,
+          "parentid": 822871,
+          "timestamp": "2026-10-10T18:17:29Z"
+        }
+      ]
+    },
+    {
+      "pageid": 75794,
+      "ns": 0,
+      "title": "Derpy",
+      "revisions": [
+        {
+          "revid": 840371,
+          "parentid": 837087,
+          "timestamp": "2026-09-13T18:38:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 78430,
+      "ns": 0,
+      "title": "Castle Guards",
+      "revisions": [
+        {
+          "revid": 787765,
+          "parentid": 752421,
+          "timestamp": "2026-07-23T23:28:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79258,
+      "ns": 0,
+      "title": "Dante/Dialogue",
+      "revisions": [
+        {
+          "revid": 681739,
+          "parentid": 667536,
+          "timestamp": "2026-05-12T02:31:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82009,
+      "ns": 0,
+      "title": "Kalhuiki Tribe Member",
+      "revisions": [
+        {
+          "revid": 852778,
+          "parentid": 851081,
+          "timestamp": "2026-10-06T16:12:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96486,
+      "ns": 0,
+      "title": "Finnegan",
+      "revisions": [
+        {
+          "revid": 844132,
+          "parentid": 836340,
+          "timestamp": "2026-09-19T12:40:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96871,
+      "ns": 0,
+      "title": "Hendrik",
+      "revisions": [
+        {
+          "revid": 857907,
+          "parentid": 789072,
+          "timestamp": "2026-10-14T11:57:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96889,
+      "ns": 0,
+      "title": "Dirk",
+      "revisions": [
+        {
+          "revid": 813082,
+          "parentid": 788113,
+          "timestamp": "2026-08-11T19:08:24Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96895,
+      "ns": 0,
+      "title": "Maaike",
+      "revisions": [
+        {
+          "revid": 813993,
+          "parentid": 789512,
+          "timestamp": "2026-08-11T19:31:03Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96896,
+      "ns": 0,
+      "title": "Helena",
+      "revisions": [
+        {
+          "revid": 813687,
+          "parentid": 789054,
+          "timestamp": "2026-08-11T19:24:08Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96898,
+      "ns": 0,
+      "title": "Daan",
+      "revisions": [
+        {
+          "revid": 813015,
+          "parentid": 788012,
+          "timestamp": "2026-08-11T19:06:40Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98572,
+      "ns": 0,
+      "title": "Dr. Edwin",
+      "revisions": [
+        {
+          "revid": 813108,
+          "parentid": 788143,
+          "timestamp": "2026-08-11T19:09:02Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98632,
+      "ns": 0,
+      "title": "Kay",
+      "revisions": [
+        {
+          "revid": 813864,
+          "parentid": 789322,
+          "timestamp": "2026-08-11T19:28:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98754,
+      "ns": 0,
+      "title": "Alatar",
+      "revisions": [
+        {
+          "revid": 793235,
+          "parentid": 786643,
+          "timestamp": "2026-07-25T08:51:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98960,
+      "ns": 0,
+      "title": "Cosmo",
+      "revisions": [
+        {
+          "revid": 787939,
+          "parentid": 716164,
+          "timestamp": "2026-07-23T23:33:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99021,
+      "ns": 0,
+      "title": "Disinfestor",
+      "revisions": [
+        {
+          "revid": 788118,
+          "parentid": 716365,
+          "timestamp": "2026-07-23T23:39:50Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102700,
+      "ns": 0,
+      "title": "Dr. Stone",
+      "revisions": [
+        {
+          "revid": 858364,
+          "parentid": 858179,
+          "timestamp": "2026-10-14T17:40:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105424,
+      "ns": 0,
+      "title": "Lukas the Aquarist",
+      "revisions": [
+        {
+          "revid": 826372,
+          "parentid": 816049,
+          "timestamp": "2026-08-28T12:39:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 106838,
+      "ns": 0,
+      "title": "Alan",
+      "revisions": [
+        {
+          "revid": 812493,
+          "parentid": 786642,
+          "timestamp": "2026-08-11T18:51:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107244,
+      "ns": 0,
+      "title": "Guard Gornum",
+      "revisions": [
+        {
+          "revid": 788983,
+          "parentid": 753506,
+          "timestamp": "2026-07-24T00:09:51Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107653,
+      "ns": 0,
+      "title": "Boris",
+      "revisions": [
+        {
+          "revid": 787590,
+          "parentid": 752303,
+          "timestamp": "2026-07-23T22:32:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133366,
+      "ns": 0,
+      "title": "Andrea",
+      "revisions": [
+        {
+          "revid": 828430,
+          "parentid": 812514,
+          "timestamp": "2026-09-01T09:05:28Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133414,
+      "ns": 0,
+      "title": "Dory",
+      "revisions": [
+        {
+          "revid": 828479,
+          "parentid": 807052,
+          "timestamp": "2026-09-01T09:06:19Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133477,
+      "ns": 0,
+      "title": "Hunter Dennis",
+      "revisions": [
+        {
+          "revid": 828549,
+          "parentid": 817449,
+          "timestamp": "2026-09-01T09:07:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133486,
+      "ns": 0,
+      "title": "Birdwatcher Tim",
+      "revisions": [
+        {
+          "revid": 828446,
+          "parentid": 807044,
+          "timestamp": "2026-09-01T09:05:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 730,
+      "ns": 0,
+      "title": "Rick",
+      "revisions": [
+        {
+          "revid": 858171,
+          "parentid": 858168,
+          "timestamp": "2026-10-14T17:16:28Z"
+        }
+      ]
+    },
+    {
+      "pageid": 9682,
+      "ns": 0,
+      "title": "Walter",
+      "revisions": [
+        {
+          "revid": 830507,
+          "parentid": 815269,
+          "timestamp": "2026-09-03T01:33:26Z"
+        }
+      ]
+    },
+    {
+      "pageid": 10851,
+      "ns": 0,
+      "title": "Seymour",
+      "revisions": [
+        {
+          "revid": 814673,
+          "parentid": 790570,
+          "timestamp": "2026-08-11T19:49:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 66295,
+      "ns": 0,
+      "title": "Marina",
+      "revisions": [
+        {
+          "revid": 844765,
+          "parentid": 789605,
+          "timestamp": "2026-09-21T09:59:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 68040,
+      "ns": 0,
+      "title": "Paul",
+      "revisions": [
+        {
+          "revid": 842883,
+          "parentid": 842878,
+          "timestamp": "2026-09-16T10:30:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 74596,
+      "ns": 0,
+      "title": "Scorpius",
+      "revisions": [
+        {
+          "revid": 828186,
+          "parentid": 821741,
+          "timestamp": "2026-08-31T18:47:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79253,
+      "ns": 0,
+      "title": "Piggy",
+      "revisions": [
+        {
+          "revid": 844608,
+          "parentid": 844527,
+          "timestamp": "2026-09-20T19:39:39Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82215,
+      "ns": 0,
+      "title": "Odawa",
+      "revisions": [
+        {
+          "revid": 814265,
+          "parentid": 789914,
+          "timestamp": "2026-08-11T19:37:42Z"
+        }
+      ]
+    },
+    {
+      "pageid": 85746,
+      "ns": 0,
+      "title": "Madame Eleanor Q. Goldsworth III",
+      "revisions": [
+        {
+          "revid": 857334,
+          "parentid": 843701,
+          "timestamp": "2026-10-13T09:55:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91728,
+      "ns": 0,
+      "title": "Undercover Agent",
+      "revisions": [
+        {
+          "revid": 791289,
+          "parentid": 755456,
+          "timestamp": "2026-07-24T01:28:14Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92157,
+      "ns": 0,
+      "title": "Prie",
+      "revisions": [
+        {
+          "revid": 814411,
+          "parentid": 790143,
+          "timestamp": "2026-08-11T19:41:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92281,
+      "ns": 0,
+      "title": "Shen's Agent",
+      "revisions": [
+        {
+          "revid": 790605,
+          "parentid": 754873,
+          "timestamp": "2026-07-24T01:04:22Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96897,
+      "ns": 0,
+      "title": "Mees",
+      "revisions": [
+        {
+          "revid": 814067,
+          "parentid": 789646,
+          "timestamp": "2026-08-11T19:32:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98591,
+      "ns": 0,
+      "title": "Shifted",
+      "revisions": [
+        {
+          "revid": 814710,
+          "parentid": 790613,
+          "timestamp": "2026-08-11T19:50:05Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98643,
+      "ns": 0,
+      "title": "Porhtal",
+      "revisions": [
+        {
+          "revid": 828211,
+          "parentid": 793687,
+          "timestamp": "2026-08-31T20:09:32Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100081,
+      "ns": 0,
+      "title": "Seymour (Rift)",
+      "revisions": [
+        {
+          "revid": 814675,
+          "parentid": 790571,
+          "timestamp": "2026-08-11T19:49:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102443,
+      "ns": 0,
+      "title": "Scout Scardius",
+      "revisions": [
+        {
+          "revid": 754804,
+          "parentid": 719049,
+          "timestamp": "2026-07-03T00:16:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 103137,
+      "ns": 0,
+      "title": "Richard",
+      "revisions": [
+        {
+          "revid": 858668,
+          "parentid": 858667,
+          "timestamp": "2026-10-15T07:05:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105221,
+      "ns": 0,
+      "title": "Madame Eleanor Q. Goldsworth I",
+      "revisions": [
+        {
+          "revid": 818433,
+          "parentid": 813997,
+          "timestamp": "2026-08-12T12:11:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105571,
+      "ns": 0,
+      "title": "Madame Eleanor Q. Goldsworth VII",
+      "revisions": [
+        {
+          "revid": 818436,
+          "parentid": 814001,
+          "timestamp": "2026-08-12T12:11:03Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105575,
+      "ns": 0,
+      "title": "Madame Eleanor Q. Goldsworth V",
+      "revisions": [
+        {
+          "revid": 856328,
+          "parentid": 823721,
+          "timestamp": "2026-10-11T09:05:53Z"
+        }
+      ]
+    },
+    {
+      "pageid": 105577,
+      "ns": 0,
+      "title": "Madame Eleanor Q. Goldsworth IX",
+      "revisions": [
+        {
+          "revid": 858078,
+          "parentid": 856347,
+          "timestamp": "2026-10-14T15:48:41Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108595,
+      "ns": 0,
+      "title": "Madame Eleanor Q. Goldsworth II",
+      "revisions": [
+        {
+          "revid": 813998,
+          "parentid": 789516,
+          "timestamp": "2026-08-11T19:31:08Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108670,
+      "ns": 0,
+      "title": "Shen Chaos",
+      "revisions": [
+        {
+          "revid": 814706,
+          "parentid": 790601,
+          "timestamp": "2026-08-11T19:50:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108675,
+      "ns": 0,
+      "title": "Shen Magnum Opus",
+      "revisions": [
+        {
+          "revid": 814708,
+          "parentid": 790603,
+          "timestamp": "2026-08-11T19:50:03Z"
+        }
+      ]
+    }
+  ],
+  "private_or_unpublished_dialogue_known": false
+}

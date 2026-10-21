@@ -1,0 +1,23 @@
+# speaker|observed source body|reviewed Russian body|semantic anchors JSON (optional)
+Station Master|Last guy who was in this cart didn't feel too well so watch out he might have left a surprise in there.|Последнему пассажиру этой вагонетки было нехорошо. Осторожнее: он мог оставить внутри сюрприз.
+Station Master|Goblin's are not the only creatures that dwell here. Rumor has it dirt monsters linger in these parts too...|Здесь обитают не только гоблины. Поговаривают, в этих краях водятся и грязевые чудовища...
+Lynn|Maybe next time.|Может, в следующий раз.
+Lynn|If you ever get lost, you should check on the Desk on what to do next.|Если запутаешься, загляни в меню рабочего стола: там подскажут, что делать дальше.|[{"source":"Desk","target":"рабочего стола"}]
+Emissary Sisko|I've heard I can find the best mushrooms here, and as the King's favorite emissary I will bring them to him!|Слышал, здесь растут лучшие грибы! Как любимый посланник короля, я непременно доставлю их ему!|[{"source":"King","target":"короля"}]
+Gary|Wow, I just love snow.|Ох, как же я люблю снег.
+Gary|I love it so much that I bought an industrial strength snow machine so that I can have snow on demand!|Так люблю, что купил промышленный снегогенератор! Теперь у меня есть снег в любое время!
+Ophelia|Thanks! I'm headed back to my shop, hope to see you there soon!|Спасибо! Возвращаюсь в свой магазин. Надеюсь, скоро увидимся там!
+Ophelia|Restocking, restocking!|Пополняю запасы, пополняю!
+Jacob|Keep it up!|Так держать!
+Liam|Alright...|Ладно...
+Lazy Miner|It's Tuesday, my resting day! I earned myself a little treat, maybe you could bring me some chocolate?|Сегодня вторник — мой выходной! Я заслужил маленькое угощение. Может, принесёшь мне шоколада?|[{"source":"Tuesday","target":"вторник"}]
+Ticket Master|Welcome to the Far Reserve!|Добро пожаловать в Дальний заповедник!|[{"source":"Far Reserve","target":"Дальний заповедник"}]
+Oringo|Hey, you got some wheat for my pets by any chance? Gotta keep those little monsters fed, haha!|Привет! Не найдётся пшеницы для моих питомцев? Этих маленьких монстров надо кормить, ха-ха!
+Oringo|You know how it is, they never stop eating haha, thank you very much!|Сам знаешь, они едят без остановки, ха-ха! Огромное спасибо!
+Jack|Thanks for the crops. See ya around.|Спасибо за урожай. До встречи!
+Emissary Carlton|How dare you reject me, the King's favorite emissary?!|Как ты смеешь отказывать мне, любимому посланнику короля?!|[{"source":"King","target":"короля"}]
+Emissary Carlton|The King has sent me to go shopping for I am his favorite emissary!|Король отправил меня за покупками, ведь я его любимый посланник!|[{"source":"King","target":"Король"}]
+Moby|Listen. Glowing Mushrooms don't seem to be too good for my health. About time I tried something else. You got anything, chum?|Слушай, светящиеся грибы, кажется, не очень полезны для моего здоровья. Пора попробовать что-нибудь другое. Что-нибудь найдётся, приятель?|[{"source":"Glowing Mushrooms","target":"светящиеся грибы"}]
+Moby|That's good.|Вот и хорошо.
+Duke|You seem new here. You should probably try to get some Enchanted Golden Carrot for me.|Похоже, ты здесь новичок. Попробуй раздобыть для меня зачарованную золотую морковь.|[{"source":"Enchanted Golden Carrot","target":"зачарованную золотую морковь"}]
+Rusty|Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their Enchanted Golden Carrot. Can you find that for me?|Хочешь знать, как я нахожу вещи, потерянные другими игроками? Поручаю поиски другим. Вот сейчас кто-то ищет зачарованную золотую морковь. Найдёшь её для меня?|[{"source":"Enchanted Golden Carrot","target":"зачарованную золотую морковь"}]

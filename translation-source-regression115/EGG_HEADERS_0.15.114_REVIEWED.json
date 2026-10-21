@@ -1,0 +1,15 @@
+{
+  "header_source": "HOPPITY'S HUNT",
+  "header_target": "ОХОТА ХОППИТИ",
+  "prose_source": " You found a ",
+  "prose_target": " Вы нашли ",
+  "egg_names": {
+    "Chocolate Breakfast Egg": "Шоколадное яйцо к завтраку",
+    "Chocolate Brunch Egg": "Шоколадное яйцо к позднему завтраку",
+    "Chocolate Lunch Egg": "Шоколадное яйцо к обеду",
+    "Chocolate Déjeuner Egg": "Шоколадное яйцо к обеду",
+    "Chocolate Dinner Egg": "Шоколадное яйцо к ужину",
+    "Chocolate Supper Egg": "Шоколадное яйцо к вечернему ужину"
+  },
+  "wording_scope": "Six item names deliberately preserve the installed corrections.tsv glossary,including the shared Lunch/Dejeuner Russian label. Honey in a possessive location denotes the NPC,not the material item. Plhlegblast retains the prior proper-name spelling."
+}

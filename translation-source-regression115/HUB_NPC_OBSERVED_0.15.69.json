@@ -1,0 +1,677 @@
+{
+  "scope": "Whitelisted public NPC display lines only. No full log, player chat, personal name greeting or form answer. Legacy text preserves colours but does not prove original channel/click/hover metadata. Independent source samples are not synthesized from targets.",
+  "current_accessory_power_overrides_old_magical_power_claims": true,
+  "records": [
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Farmer Jon",
+      "line": 1950,
+      "source": "[NPC] Farmer Jon: I've competed in numerous sugar cane contests, but I've never actually tried farming other crops.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Farmer Jon: §fI've competed in numerous sugar cane contests, but I've never actually tried farming other crops."
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Shaggy",
+      "line": 1963,
+      "source": "[NPC] Shaggy: Hey kid, I haven't seen you in a while. Arachne's powers are growing day by day. Soon she'll take over the Spider's Den.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Shaggy: §fHey kid, I haven't seen you in a while. Arachne's powers are growing day by day. Soon she'll take over the §cSpider's Den§f."
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Farmer Jon",
+      "line": 1973,
+      "source": "[NPC] Farmer Jon: Cultivating sugar cane gets boring eventually.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Farmer Jon: §fCultivating sugar cane gets boring eventually."
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Shaggy",
+      "line": 1980,
+      "source": "[NPC] Shaggy: I wish peace upon you.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Shaggy: §fI wish peace upon you."
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Security Clerk",
+      "line": 5392,
+      "source": "[NPC] Security Clerk: The Security Hall is only for authorized personnel.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Security Clerk: §f§fThe §bSecurity Hall§f is only for authorized personnel."
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Security Clerk",
+      "line": 5393,
+      "source": "[NPC] Security Clerk: The Security Hall is only for authorized personnel. (x2)",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Security Clerk: §f§fThe §bSecurity Hall§f is only for authorized personnel. §8(§7x§r2§8)"
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Security Clerk",
+      "line": 5394,
+      "source": "[NPC] Security Clerk: The Security Hall is only for authorized personnel. (x3)",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Security Clerk: §f§fThe §bSecurity Hall§f is only for authorized personnel. §8(§7x§r3§8)"
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Security Clerk",
+      "line": 6684,
+      "source": "[NPC] Security Clerk: Your Safety Badge is ready! Your information has been digitally registered.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Security Clerk: §f§fYour Safety Badge is ready! Your information has been digitally registered."
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Security Clerk",
+      "line": 6686,
+      "source": "[NPC] Security Clerk: Thank you for joining the Safety Squad.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Security Clerk: §f§fThank you for joining the Safety Squad."
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Security Clerk",
+      "line": 6687,
+      "source": "[NPC] Security Clerk: You're now a fully fledged Safety Advocate!",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Security Clerk: §f§fYou're now a fully fledged Safety Advocate!"
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Security Clerk",
+      "line": 6693,
+      "source": "[NPC] Security Clerk: Hopefully there won't be more incidents happening around.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Security Clerk: §f§fHopefully there won't be more incidents happening around."
+    },
+    {
+      "archive": "2026-10-13-3.log.gz",
+      "speaker": "Security Clerk",
+      "line": 6700,
+      "source": "[NPC] Security Clerk: Oh, Elizabeth wants to have a word with you.",
+      "archive_sha256": "A091B8C578F9C65A318EEA7203D1A1C7F3F5F8ABA5813221F5743A7CD5848ADB",
+      "sample": "[NPC] Security Clerk: §f§fOh, §dElizabeth§f wants to have a word with you."
+    },
+    {
+      "archive": "2026-10-13-5.log.gz",
+      "speaker": "Lift Operator",
+      "line": 2150,
+      "source": "[NPC] Lift Operator: Operating that lift all day takes a lot outta ya, you know?",
+      "archive_sha256": "C768DDF3C497EC349DEA1382967136F5614ED3F6F4942E2AEA7F6DBBF2B0B84F",
+      "sample": "[NPC] Lift Operator: §fOperating that lift all day takes a lot outta ya, you know?"
+    },
+    {
+      "archive": "2026-10-13-5.log.gz",
+      "speaker": "Bartender",
+      "line": 2156,
+      "source": "[NPC] Bartender: I want to make some new brews, do you think you can give me some ingredients to work with?",
+      "archive_sha256": "C768DDF3C497EC349DEA1382967136F5614ED3F6F4942E2AEA7F6DBBF2B0B84F",
+      "sample": "[NPC] Bartender: §fI want to make some new brews, do you think you can give me some ingredients to work with?"
+    },
+    {
+      "archive": "2026-10-13-5.log.gz",
+      "speaker": "Lift Operator",
+      "line": 2278,
+      "source": "[NPC] Lift Operator: Cheers, that's the stuff!",
+      "archive_sha256": "C768DDF3C497EC349DEA1382967136F5614ED3F6F4942E2AEA7F6DBBF2B0B84F",
+      "sample": "[NPC] Lift Operator: §fCheers, that's the stuff!"
+    },
+    {
+      "archive": "2026-10-13-7.log.gz",
+      "speaker": "Librarian",
+      "line": 10139,
+      "source": "[NPC] Librarian: Greetings! I've been running low on paper recently for my Enchanted Books, could you bring me some Sugar Cane?",
+      "archive_sha256": "EE278FA6E643426D375821E3439EC6C363342FC99FBDE8BB09848C9A3EFB691F",
+      "sample": "[NPC] Librarian: §fGreetings! I've been running low on paper recently for my Enchanted Books, could you bring me some Sugar Cane?"
+    },
+    {
+      "archive": "2026-10-13-7.log.gz",
+      "speaker": "Bartender",
+      "line": 11779,
+      "source": "[NPC] Bartender: Many Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course.",
+      "archive_sha256": "EE278FA6E643426D375821E3439EC6C363342FC99FBDE8BB09848C9A3EFB691F",
+      "sample": "[NPC] Bartender: §fMany Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course."
+    },
+    {
+      "archive": "2026-10-13-7.log.gz",
+      "speaker": "Jerry",
+      "line": 12996,
+      "source": "[NPC] Jerry: This is not my realm. I must return. Thank you.",
+      "archive_sha256": "EE278FA6E643426D375821E3439EC6C363342FC99FBDE8BB09848C9A3EFB691F",
+      "sample": "[NPC] Jerry: §fThis is not my realm. I must return. Thank you."
+    },
+    {
+      "archive": "2026-10-13-7.log.gz",
+      "speaker": "Librarian",
+      "line": 13057,
+      "source": "[NPC] Librarian: Very unfortunate, I really needed that paper...",
+      "archive_sha256": "EE278FA6E643426D375821E3439EC6C363342FC99FBDE8BB09848C9A3EFB691F",
+      "sample": "[NPC] Librarian: §fVery unfortunate, I really needed that paper..."
+    },
+    {
+      "archive": "2026-10-13-7.log.gz",
+      "speaker": "Trevor",
+      "line": 15090,
+      "source": "[NPC] Trevor: I've been tracking an animal for the past few days. Got anything I could use as bait?",
+      "archive_sha256": "EE278FA6E643426D375821E3439EC6C363342FC99FBDE8BB09848C9A3EFB691F",
+      "sample": "[NPC] Trevor: §fI've been tracking an animal for the past few days. Got anything I could use as bait?"
+    },
+    {
+      "archive": "2026-10-13-7.log.gz",
+      "speaker": "Trevor",
+      "line": 15096,
+      "source": "[NPC] Trevor: Looks like I'll have to catch it the old fashioned way.",
+      "archive_sha256": "EE278FA6E643426D375821E3439EC6C363342FC99FBDE8BB09848C9A3EFB691F",
+      "sample": "[NPC] Trevor: §fLooks like I'll have to catch it the old fashioned way."
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Hendrik",
+      "line": 6386,
+      "source": "[NPC] Hendrik: I miss Helena...",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Hendrik: I miss Helena..."
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Hendrik",
+      "line": 6387,
+      "source": "[NPC] Hendrik: Y'know when I'm fishing here it always feels just as fast as up top.",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Hendrik: §fY'know when I'm fishing here it always feels just as fast as up top."
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Jerry",
+      "line": 6397,
+      "source": "[NPC] Jerry: Jerry.",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Jerry: §fJerry."
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Jerry",
+      "line": 6398,
+      "source": "[NPC] Jerry: Jerry. (x2)",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Jerry: §fJerry. §8(§7x§r2§8)"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Jerry",
+      "line": 6399,
+      "source": "[NPC] Jerry: Jerry?",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Jerry: §fJerry?"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Jerry",
+      "line": 6401,
+      "source": "[NPC] Jerry: Jerry!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Jerry: §fJerry!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Jerry",
+      "line": 6402,
+      "source": "[NPC] Jerry: Jerry! (x2)",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Jerry: §fJerry! §8(§7x§r2§8)"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Jerry",
+      "line": 6403,
+      "source": "[NPC] Jerry: Jerry...",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Jerry: §fJerry..."
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Jerry",
+      "line": 6418,
+      "source": "[NPC] Jerry: Jerry? (x2)",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Jerry: §fJerry? §8(§7x§r2§8)"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Jerry",
+      "line": 6434,
+      "source": "[NPC] Jerry: Jerry... (x2)",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Jerry: §fJerry... §8(§7x§r2§8)"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Sherry",
+      "line": 6489,
+      "source": "[NPC] Sherry: For the holidays, we're offering exclusive doorbuster deals for the whole family to enjoy!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Sherry: §fFor the holidays, we're offering exclusive doorbuster deals for the whole family to enjoy!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Sherry",
+      "line": 6497,
+      "source": "[NPC] Sherry: Check out our new Festive Sinker, which is great for fishing up Gifts!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Sherry: §fCheck out our new §fFestive Sinker§f, which is great for fishing up §aGifts§f!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Sherry",
+      "line": 6498,
+      "source": "[NPC] Sherry: We are also offering Frosty the Snow Blaster, an upgraded Snow Cannon that shoots much farther!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Sherry: §fWe are also offering §5Frosty the Snow Blaster§f, an upgraded Snow Cannon that shoots much farther!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Terry",
+      "line": 6530,
+      "source": "[NPC] Terry: You may have noticed that this pond is full of unique creatures and treasures!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Terry: §fYou may have noticed that this pond is full of unique creatures and treasures!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Terry",
+      "line": 6531,
+      "source": "[NPC] Terry: I'm looking for Hunk of Ice and Hunk of Blue Ice.",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Terry: §fI'm looking for §aHunk of Ice §fand §9Hunk of Blue Ice§f."
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Terry",
+      "line": 6532,
+      "source": "[NPC] Terry: You can find these by ice fishing in the pond - break the ice and cast your rod!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Terry: §fYou can find these by §bice fishing §fin the pond - break the ice and cast your rod!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Terry",
+      "line": 6533,
+      "source": "[NPC] Terry: Bring enough hunks back to me and I might even sell you some Reforge Stones for your fishing rods.",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Terry: §fBring enough hunks back to me and I might even sell you some §aReforge Stones §ffor your fishing rods."
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Combat Merchant",
+      "line": 13839,
+      "source": "[NPC] Combat Merchant: Exploring the whole wide world makes me hungry, I could take some fresh potatoes.",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Combat Merchant: §fExploring the whole wide world makes me hungry, I could take some fresh potatoes."
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14783,
+      "source": "[NPC] Pesthunter Phillip: Quit yer playin'! Just take the vacuum!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: §fQuit yer playin'! Just take the §avacuum§f!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14796,
+      "source": "[NPC] Pesthunter Phillip: Quit yer playin'! Just take the vacuum! (x2)",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: §fQuit yer playin'! Just take the §avacuum§f! §8(§7x§r2§8)"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14801,
+      "source": "[NPC] Pesthunter Phillip: Quit yer playin'! Just take the vacuum! (x3)",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: §fQuit yer playin'! Just take the §avacuum§f! §8(§7x§r3§8)"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14805,
+      "source": "[NPC] Pesthunter Phillip: Go out there and vacuum a  Pest!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: §fGo out there and §avacuum §fa §2§2 Pest§f!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14806,
+      "source": "[NPC] Pesthunter Phillip: It's not hard. Just aim, hold down the button, and don't stop until the bug's been squashed!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: §fIt's not hard. Just aim, hold down the button, and don't stop until the bug's been squashed!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14876,
+      "source": "[NPC] Pesthunter Phillip: Wow! Look at that ugly thing. Bet you had a blast trying to wrangle it into your vacuum!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: §fWow! Look at that ugly thing. Bet you had a blast trying to wrangle it into your vacuum!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14878,
+      "source": "[NPC] Pesthunter Phillip: To each their own. I'm fascinated by these little fellers!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: §fTo each their own. I'm fascinated by these little fellers!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14879,
+      "source": "[NPC] Pesthunter Phillip: Bring some back for me to, uh...study...and I'll reward you with  Farming Fortune for your troubles!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: §fBring some back for me to, uh...study...and I'll reward you with §6 Farming Fortune §ffor your troubles!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14906,
+      "source": "[NPC] Pesthunter Phillip: In exchange for 40 Pests, I've given you +200 Farming Fortune for 30m!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: In exchange for §240 Pests§f, I've given you §6+200 Farming Fortune §ffor §a30m§f!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14909,
+      "source": "[NPC] Pesthunter Phillip: You've exchanged enough Pests with me recently. You still have 133 Pests in your Vacuum Bag!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: You've exchanged enough Pests with me recently. You still have §2133 Pests §fin your §6Vacuum Bag§f!"
+    },
+    {
+      "archive": "2026-10-14-2.log.gz",
+      "speaker": "Pesthunter Phillip",
+      "line": 14934,
+      "source": "[NPC] Pesthunter Phillip: Come back soon when I can handle more!",
+      "archive_sha256": "E309EB569775636FCED9F4C4B0791C423DEBCF291A4BB219626D89D8E73A3E7C",
+      "sample": "[NPC] Pesthunter Phillip: Come back soon when I can handle more!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Croesus",
+      "line": 6089,
+      "source": "[NPC] Croesus: Complete a run of The Catacombs or Kuudra first!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Croesus: §fComplete a run of §aThe Catacombs §for §cKuudra§f first!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Croesus",
+      "line": 6092,
+      "source": "[NPC] Croesus: Complete a run of The Catacombs or Kuudra first! (x2)",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Croesus: §fComplete a run of §aThe Catacombs §for §cKuudra§f first! §8(§7x§r2§8)"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6102,
+      "source": "[NPC] Mort: We hope you have a long stay!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: We hope you have a long stay!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6103,
+      "source": "[NPC] Mort: Preferably, an eternal adventure.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: Preferably, an §7§oeternal §radventure."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6104,
+      "source": "[NPC] Mort: Our forces are made of rotting adventurers.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: §4Our forces §rare made of rotting adventurers."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6107,
+      "source": "[NPC] Mort: A /party of 5 players is crucial.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: A §9/party §rof §e5 players §ris crucial."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6108,
+      "source": "[NPC] Mort: Time to make friends.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: Time to make friends."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Adventurer Saul",
+      "line": 6403,
+      "source": "[NPC] Adventurer Saul: I've been thinking recently...",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Adventurer Saul: §fI've been thinking recently..."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Adventurer Saul",
+      "line": 6406,
+      "source": "[NPC] Adventurer Saul: Have you noticed that it's not possible to enter The Catacombs alone?",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Adventurer Saul: §fHave you noticed that it's not possible to enter §cThe Catacombs§f alone?"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6519,
+      "source": "[NPC] Mort: Don't forget your Dungeon Orb!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: Don't forget your §6Dungeon Orb§f!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6521,
+      "source": "[NPC] Mort: It gives each class 2 unique abilities inside Dungeons!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: It gives each class 2 unique abilities inside Dungeons!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6527,
+      "source": "[NPC] Mort: Right-click the Orb for spells, and Left-click (or Drop) to use your Ultimate!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: Right-click the Orb for spells, and Left-click (or Drop) to use your Ultimate!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6562,
+      "source": "[NPC] Mort: Here, I found this map when I first entered the dungeon.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: Here, I found this map when I first entered the dungeon."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6566,
+      "source": "[NPC] Mort: You should find it useful if you get lost.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: You should find it useful if you get lost."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6574,
+      "source": "[NPC] Mort: Good luck.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: Good luck."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6673,
+      "source": "[NPC] Mort: I wish you the best of luck.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: I wish you the best of luck."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6692,
+      "source": "[NPC] Mort: I wish you the best of luck. (x2)",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: I wish you the best of luck. §8(§7x§r2§8)"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6693,
+      "source": "[NPC] Mort: I wish you the best of luck. (x3)",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: I wish you the best of luck. §8(§7x§r3§8)"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6695,
+      "source": "[NPC] Mort: I wish you the best of luck. (x4)",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: I wish you the best of luck. §8(§7x§r4§8)"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Mort",
+      "line": 6696,
+      "source": "[NPC] Mort: I wish you the best of luck. (x5)",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Mort: I wish you the best of luck. §8(§7x§r5§8)"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Seymour",
+      "line": 27916,
+      "source": "[NPC] Seymour: Looking to buy something fancy?",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Seymour: §fLooking to buy something fancy?"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Maxwell",
+      "line": 28062,
+      "source": "[NPC] Maxwell: Accessories are X magical X pieces of gear.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Maxwell: §fAccessories are §6§kX§6 magical §kX§f pieces of gear."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Maxwell",
+      "line": 28063,
+      "source": "[NPC] Maxwell: To truly harness their power, collect as many as possible and store them in your Accessory Bag!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Maxwell: §fTo truly harness their power, collect as many as possible and store them in your §aAccessory Bag§f!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Maxwell",
+      "line": 28119,
+      "source": "[NPC] Maxwell: On top of their existing abilities, each accessory makes your Accessory Bag more powerful!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Maxwell: §fOn top of their existing abilities, each accessory makes your §aAccessory Bag §fmore powerful!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Maxwell",
+      "line": 28120,
+      "source": "[NPC] Maxwell: Accessories add some ACCESSORY POWER to the bag depending on their rarity.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Maxwell: §fAccessories add some §6§lACCESSORY POWER §fto the bag depending on their §drarity§f."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Maxwell",
+      "line": 28123,
+      "source": "[NPC] Maxwell: Yes! The more Accessory Power, the more stats like  Health or  Intelligence you get from your Accessory Bag.",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Maxwell: §fYes! The more §6Accessory Power§f, the more stats like §c Health §for §b Intelligence §fyou get from your §aAccessory Bag§f."
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Maxwell",
+      "line": 28125,
+      "source": "[NPC] Maxwell: No, it's magic!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Maxwell: §fNo, it's §6magic§f!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Maxwell",
+      "line": 28126,
+      "source": "[NPC] Maxwell: Even better, YOU choose what stats you get!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Maxwell: §fEven better, YOU choose what stats you get!"
+    },
+    {
+      "archive": "latest.log",
+      "speaker": "Maxwell",
+      "line": 28128,
+      "source": "[NPC] Maxwell: Check it out!",
+      "archive_sha256": "FD090EA474E31E4B643D6000D6B1BBDEEC6BBA1C970CC86C2C2C595F0B1D0014",
+      "sample": "[NPC] Maxwell: §fCheck it out!"
+    }
+  ],
+  "date": "2026-10-15",
+  "review_sha256": "C27B07E77D52F4B01C5BD1A2319DD3AC86271DEF9D44D0F02E70FB52EAD98EE8",
+  "observed_choice_samples": [
+    {
+      "sample": "Select an option: [Ok, then what?] ",
+      "source": "Select an option: [Ok, then what?]",
+      "archive": "latest.log"
+    },
+    {
+      "sample": "Select an option: [Accessory Power?] ",
+      "source": "Select an option: [Accessory Power?]",
+      "archive": "latest.log"
+    },
+    {
+      "sample": "Select an option: [That's amazing!] ",
+      "source": "Select an option: [That's amazing!]",
+      "archive": "latest.log"
+    }
+  ],
+  "all_hypixel_npcs_translated": false,
+  "published_sources": [
+    "https://hypixel-skyblock.fandom.com/wiki/Maxwell",
+    "https://wiki.hypixel.net/Jacobus",
+    "https://hypixel-skyblock.fandom.com/wiki/Maths_Enjoyer"
+  ],
+  "choices": [
+    {
+      "target": "Выберите ответ: [Хорошо, а дальше?]",
+      "source": "Select an option: [Ok, then what?]"
+    },
+    {
+      "target": "Выберите ответ: [Сила аксессуаров?]",
+      "source": "Select an option: [Accessory Power?]"
+    },
+    {
+      "target": "Выберите ответ: [Потрясающе!]",
+      "source": "Select an option: [That's amazing!]"
+    }
+  ]
+}

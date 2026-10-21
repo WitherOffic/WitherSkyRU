@@ -1,0 +1,7794 @@
+{
+  "corpus_unique_rows": 16244,
+  "occurrences": 18049,
+  "exact_resource_before": 1387,
+  "exact_resource_after": 1524,
+  "before_percent": 8.538537306082246,
+  "after_percent": 9.381925634080277,
+  "without_confirmed_exact_key": 14720,
+  "new_reviewed_rows": 137,
+  "new_speakers": 25,
+  "partition_after": {
+    "variable_definition": 582,
+    "needs_translation_review": 10185,
+    "unprefixed_or_choice_review": 3687,
+    "markup_review": 247,
+    "exact_resource_match_not_runtime_proof": 1524,
+    "nonstandard_tag_review": 19
+  },
+  "batch_resource_sha256": "07D8CB6F133FD082AE93591D2EAE014606C0B41CE5F89B52E20CB4FD36C0C2C8",
+  "corpus_queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925",
+  "runtime_test_result": "See separate NPC77 test output; presence is not runtime/quality/FPS certification",
+  "private_server_scripts_covered": false,
+  "installed_game_modified": false,
+  "dispatch_before": {
+    "scope": "Conservative literal current-publication subset, exact saved legacy lines. Changed text does NOT certify full translation, correctness, all dynamic/live branches or FPS. Cyrillic-without-Latin is only screening, not a quality score.",
+    "corpus_rows": 16244,
+    "tested_literal_rows": 11247,
+    "flat_changed_not_quality_proof": 1378,
+    "published_style_changed_not_quality_proof": 1233,
+    "both_changed_not_quality_proof": 1233,
+    "cyrillic_without_latin_body_screening": 1123,
+    "excluded": {
+      "additional_placeholder_or_choice_guard": 153,
+      "historical_or_alpha": 296,
+      "legacy_not_single_exact_line": 6,
+      "not_tagged_dialogue": 4213,
+      "variable_or_markup_or_layout": 329
+    },
+    "per_speaker_tested_flat_changed_legacy_changed_both": {
+      " St. Jerry": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "\"Hunter\" Tobias": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "----": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Aatrox": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Adventurer Saul": [
+        16,
+        2,
+        2,
+        2
+      ],
+      "Agatha": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Agnes": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Alabaster": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Alan": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Alatar": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Albert": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Alchemage": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Alchemist": [
+        44,
+        12,
+        11,
+        11
+      ],
+      "Alcina": [
+        50,
+        0,
+        0,
+        0
+      ],
+      "Alda": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "Alixer": [
+        20,
+        16,
+        16,
+        16
+      ],
+      "Alwin": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Amelia": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "An": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Andrea": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Andrew": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Angler Angus": [
+        9,
+        9,
+        8,
+        8
+      ],
+      "Anita": [
+        10,
+        1,
+        1,
+        1
+      ],
+      "Ant": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Apprentice": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Arachne": [
+        34,
+        0,
+        0,
+        0
+      ],
+      "Aranya": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Arba": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Arbadak": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Arch": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Archaeologist": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "Archie": [
+        26,
+        0,
+        0,
+        0
+      ],
+      "Argofay Bughunter": [
+        57,
+        0,
+        0,
+        0
+      ],
+      "Argofay Bugshopper": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Argofay Doorholder": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Argofay Serialbather": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Argofay Sonfather": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Argofay Tencounter": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Argofay Threebrother": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Argofay Trafficker": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Argofay Trailblazer": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Argofay Treemerger": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Arthur": [
+        15,
+        14,
+        14,
+        14
+      ],
+      "Ashera": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Auction Master": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "Aura": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Auryon": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Autonull": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Aviar": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Avorius": [
+        12,
+        3,
+        3,
+        3
+      ],
+      "Azax": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Baar": [
+        39,
+        0,
+        0,
+        0
+      ],
+      "Baker": [
+        5,
+        5,
+        4,
+        4
+      ],
+      "Bal": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Banker": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Banker Broadjaw": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Barbarian Emissary": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Barbarian Guard": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Barry": [
+        61,
+        0,
+        0,
+        0
+      ],
+      "Bartender": [
+        18,
+        17,
+        16,
+        16
+      ],
+      "Bea": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "Bednom": [
+        46,
+        0,
+        0,
+        0
+      ],
+      "Beekeeper Bartholomew": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Belanor": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Beth": [
+        64,
+        18,
+        18,
+        18
+      ],
+      "Biblio": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "Bingo": [
+        10,
+        9,
+        5,
+        5
+      ],
+      "Birdwatcher Tim": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Blacksmith": [
+        40,
+        24,
+        19,
+        19
+      ],
+      "Blobbercyst": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Bob": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Bomin": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Bonzo": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "Boris": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Bramass Beastslayer": [
+        18,
+        3,
+        3,
+        3
+      ],
+      "Brarnas": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "Brian": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Brigette": [
+        96,
+        89,
+        88,
+        88
+      ],
+      "Bromm": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Bruto": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Bruuh": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Brynmor": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Bubu": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Builder": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Bulvar": [
+        13,
+        13,
+        12,
+        12
+      ],
+      "Button": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Bylma": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Calvin": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Campfire Adept": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Campfire Initiate": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Captain Ahone": [
+        34,
+        0,
+        0,
+        0
+      ],
+      "Captain Baha": [
+        25,
+        7,
+        7,
+        7
+      ],
+      "Carly": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Carnival Cowboy": [
+        18,
+        18,
+        15,
+        15
+      ],
+      "Carnival Fisherman": [
+        19,
+        19,
+        15,
+        15
+      ],
+      "Carnival Leader": [
+        27,
+        26,
+        16,
+        16
+      ],
+      "Carnival Pirateman": [
+        19,
+        19,
+        11,
+        11
+      ],
+      "Carpenter": [
+        24,
+        23,
+        22,
+        22
+      ],
+      "Carrolyn": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Carrot King Avatar": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Cashier": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Castle Guard": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Centauri": [
+        36,
+        0,
+        0,
+        0
+      ],
+      "Chak": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Chantelle": [
+        8,
+        8,
+        7,
+        7
+      ],
+      "Charlie": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Charlotte": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Chef": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Chester": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Chicken": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Chief Scorn": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "Chihai": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Chipper McPickaxe": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Christopher": [
+        5,
+        3,
+        3,
+        3
+      ],
+      "Chuckleton": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "Chuk": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Chunk": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Clerk Seraphine": [
+        40,
+        26,
+        13,
+        13
+      ],
+      "Coach Jackrabbit": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Cold Enjoyer": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Cole": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Colore": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Combat Merchant": [
+        6,
+        1,
+        1,
+        1
+      ],
+      "Coral": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Corm": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Cosmo": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Counsellor": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Cow": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Cowboy Nick": [
+        28,
+        0,
+        0,
+        0
+      ],
+      "Crag": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Creed": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Croesus": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Cryptosis": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Curator": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Cyndarin": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Daan": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Dackinoru": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Dalbrek": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Dalir": [
+        99,
+        3,
+        3,
+        3
+      ],
+      "Damia": [
+        42,
+        0,
+        0,
+        0
+      ],
+      "Dante": [
+        68,
+        0,
+        0,
+        0
+      ],
+      "Dante Goon": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Darr": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "David Hunterborough": [
+        56,
+        0,
+        0,
+        0
+      ],
+      "Dax": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Dean": [
+        87,
+        0,
+        0,
+        0
+      ],
+      "Deer": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Defunct Wizardman": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Deng": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Derpy": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Desperate Engineer": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Detective Amog": [
+        156,
+        0,
+        0,
+        0
+      ],
+      "Diana": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Diaz": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Dirk": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Dirt Guy": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Disinfestor": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Don Expresso": [
+        25,
+        1,
+        1,
+        1
+      ],
+      "Dory": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Doug": [
+        4,
+        4,
+        3,
+        3
+      ],
+      "Dr Stone": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Dr. Edwin": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Dr. Emmett": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "Dr. Hibble": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Dr. Phear": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Dr. Stone": [
+        107,
+        0,
+        0,
+        0
+      ],
+      "Drakuu": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Duke": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Dulin": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Duncan": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Dusk": [
+        15,
+        15,
+        12,
+        12
+      ],
+      "Dust": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Ede": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Edelis": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Einary": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Elise": [
+        118,
+        0,
+        0,
+        0
+      ],
+      "Elizabeth": [
+        30,
+        13,
+        13,
+        13
+      ],
+      "Elle": [
+        231,
+        9,
+        9,
+        9
+      ],
+      "Elmar": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Eludore": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Emissary Braum": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Emissary Carlton": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Emissary Ceanna": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Emissary Fraiser": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Emissary Lissandra": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Emissary Sisko": [
+        3,
+        1,
+        1,
+        1
+      ],
+      "Emissary Wilson": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Enchantment Nerd": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Enid": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Enigma": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Erihann": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Etc": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Ezekiel": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Fafnir": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Fairylosopher": [
+        31,
+        0,
+        0,
+        0
+      ],
+      "Fake Enigma Soul": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Fann": [
+        41,
+        0,
+        0,
+        0
+      ],
+      "Farm Merchant": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Farmer Jon": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "Farmer Rigby": [
+        11,
+        11,
+        11,
+        11
+      ],
+      "Farmhand": [
+        26,
+        26,
+        26,
+        26
+      ],
+      "Fear Mongerer": [
+        14,
+        14,
+        14,
+        14
+      ],
+      "Feast Baker Scott": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Feast Chef Ted": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Felix": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Fetchur": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Finance Rabbit": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Finnegan": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Finplex": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Fisherman Gerald": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Fishing Merchant": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Forager Daniel": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Forager Rowan": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Forast": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Forger": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Fossil Muncher": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Foxy": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Fragilis": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Frankie": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Fred": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Freddy": [
+        78,
+        0,
+        0,
+        0
+      ],
+      "Friendly Hiker": [
+        12,
+        2,
+        2,
+        2
+      ],
+      "Frosty": [
+        7,
+        6,
+        6,
+        6
+      ],
+      "Frozen Alex": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Garlacius": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Gary": [
+        9,
+        2,
+        2,
+        2
+      ],
+      "Gavin": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Gemma": [
+        29,
+        0,
+        0,
+        0
+      ],
+      "Generow": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Geo": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Geonathan Greatforge": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "George": [
+        57,
+        14,
+        14,
+        14
+      ],
+      "Gerald": [
+        26,
+        0,
+        0,
+        0
+      ],
+      "Ghost of Armorsmith": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Ghost of Goon": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Gimley": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Gladiator": [
+        5,
+        3,
+        3,
+        3
+      ],
+      "Gnyl": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Gold Forger": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Golden Dragon": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Goldor": [
+        23,
+        1,
+        1,
+        1
+      ],
+      "Grandma": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Grandma Wolf": [
+        15,
+        7,
+        7,
+        7
+      ],
+      "Grandpa Wolf": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Gregory": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Grelius": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Gris": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Grog": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Grumblefoot": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Guard": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Guard Gornum": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Guber": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Guildford": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Gulliver": [
+        13,
+        7,
+        7,
+        7
+      ],
+      "Gunther": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Gustave": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Guy": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "Gwendolyn": [
+        25,
+        24,
+        21,
+        21
+      ],
+      "Gwynnie": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Harriette": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "Hattie": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Haymitch": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Helena": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Helia": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Hendrik": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Hilda": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Hina": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Honey": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Hoppity": [
+        22,
+        21,
+        18,
+        18
+      ],
+      "Hornum": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Hound": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Hungry Hiker": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Hunter Ava": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Hunter Billy": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Hunter Dennis": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Hunter Harry": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Hunter Jasper": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Hunter Jean": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Hunter Lennard": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Hunter Luigi": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Hunter McNeil": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Hunter Reeves": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Huntress Alissa": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Huntress Melissa": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Husbandry Merchant": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Ian": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Igor": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Igrupan": [
+        44,
+        0,
+        0,
+        0
+      ],
+      "Ike": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Ikrus": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "Inverted Sirius": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Iron Forger": [
+        4,
+        2,
+        2,
+        2
+      ],
+      "Ivan": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Ivy": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Jack": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Jacob": [
+        28,
+        9,
+        9,
+        9
+      ],
+      "Jacobus": [
+        9,
+        9,
+        9,
+        9
+      ],
+      "Jacquelle": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Jade Dragon": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Jaeger": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Jake": [
+        67,
+        9,
+        9,
+        9
+      ],
+      "Jamie": [
+        3,
+        1,
+        1,
+        1
+      ],
+      "Jax": [
+        25,
+        24,
+        24,
+        24
+      ],
+      "Jeff": [
+        19,
+        17,
+        17,
+        17
+      ],
+      "Jerry": [
+        41,
+        6,
+        6,
+        6
+      ],
+      "Jimmy": [
+        17,
+        16,
+        16,
+        16
+      ],
+      "Jine": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Joey McPizza": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Joliet": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Jonesy": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Jotraeline Greatforge": [
+        22,
+        2,
+        2,
+        2
+      ],
+      "Julian": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Juliette": [
+        71,
+        69,
+        45,
+        45
+      ],
+      "Junker Joel": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Kalhuiki Door Guardian": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Karis": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Kat": [
+        42,
+        3,
+        3,
+        3
+      ],
+      "Kaus": [
+        65,
+        0,
+        0,
+        0
+      ],
+      "Kay": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Keith": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Kelly": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Keran": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Kheharad": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Kiara": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Kiermet": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "King Yolkar": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Kloon": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Krevius": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Kutral": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Kuudra Archaeologist": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Kuudra Archeologist": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Kuudra Believer": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Kuudra Loremaster": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Kysha": [
+        47,
+        0,
+        0,
+        0
+      ],
+      "Lapis Miner": [
+        13,
+        13,
+        13,
+        13
+      ],
+      "Lasea": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Lazarus": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Lazy Miner": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Leo": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Liam": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Librarian": [
+        7,
+        7,
+        6,
+        6
+      ],
+      "Lift Operator": [
+        12,
+        3,
+        3,
+        3
+      ],
+      "Livid": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Liz": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Lone Adventurer": [
+        82,
+        0,
+        0,
+        0
+      ],
+      "Lonely Philosopher": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Loras": [
+        47,
+        0,
+        0,
+        0
+      ],
+      "Lost Wizard": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Lucius": [
+        10,
+        10,
+        5,
+        5
+      ],
+      "Ludleth": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Lukas the Aquarist": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Lumber Jack": [
+        20,
+        20,
+        19,
+        19
+      ],
+      "Lumber Merchant": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "Lumina": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "Lynn": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Lys": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Maaike": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Mad Redstone Engineer": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth I": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth II": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth III": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth IX": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth V": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth VII": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Maddox": [
+        13,
+        9,
+        9,
+        9
+      ],
+      "Maddox the Slayer": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Maeve": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Mage Emissary": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Mage Guard": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Maggie": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Malik": [
+        19,
+        7,
+        7,
+        7
+      ],
+      "Marcia": [
+        33,
+        0,
+        0,
+        0
+      ],
+      "Marco": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Marigold": [
+        25,
+        6,
+        6,
+        6
+      ],
+      "Marina": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Marthos": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Martin": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mason": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Master Tactician Fink": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Master Tactician Funk": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Master Tao": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Maths Enjoyer": [
+        3,
+        1,
+        1,
+        1
+      ],
+      "Maxim": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Maxor": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Maxwell": [
+        20,
+        19,
+        19,
+        19
+      ],
+      "Mayor Aatrox": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Aura": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Mayor Cole": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Diana": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Diaz": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Finnegan": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Foxy": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Marina": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Nancy": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Paul": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Mayor Scorpius": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Mazakala": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Mees": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Melancholic Viking": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Melody ♫": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Michael": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Mining Merchant": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Minister Nancy": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Mino": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Miria": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Moby": [
+        49,
+        7,
+        7,
+        7
+      ],
+      "Molbert": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "Mole": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Mollim": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Mort": [
+        39,
+        9,
+        9,
+        9
+      ],
+      "Motes Grubber": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mushroom Guy": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Nall": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Necron": [
+        28,
+        2,
+        2,
+        2
+      ],
+      "Nemo": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Nene": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Nicole": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "No Name": [
+        75,
+        0,
+        0,
+        0
+      ],
+      "Noway": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Nuvian": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Obo": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Odawa": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Oden": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Odexar": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "Odger": [
+        36,
+        0,
+        0,
+        0
+      ],
+      "Oen": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Offea": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Old Man Garry": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Old Shaman Nyko": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Old Timer": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Ophelia": [
+        17,
+        2,
+        2,
+        2
+      ],
+      "Oringo": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "Oruo The Almighty": [
+        56,
+        0,
+        0,
+        0
+      ],
+      "Ozanne": [
+        4,
+        4,
+        1,
+        1
+      ],
+      "Pablo": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Pam": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Pat": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Paul": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Pearl Dealer": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Pest Wrangler": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Pest Wrangler?": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Pesthunter Pamela": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Pesthunter Phillip": [
+        31,
+        4,
+        4,
+        4
+      ],
+      "Pete": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Phaser": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Phillip": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Piggy": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Piglin Guard": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Plate": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Plenk": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Plumber Joe": [
+        10,
+        9,
+        9,
+        9
+      ],
+      "Pomtair": [
+        40,
+        0,
+        0,
+        0
+      ],
+      "Porc": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "Porhtal": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Pounce": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Prie": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Professor Robot": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Professor Wynd": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Puzzler": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Queen Mismyla": [
+        16,
+        1,
+        1,
+        1
+      ],
+      "Queen Nyx": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Bro": [
+        26,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Cousin": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Daddy": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Dog": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Granny": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Security": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Sis": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Uncle": [
+        31,
+        0,
+        0,
+        0
+      ],
+      "Raffle Box": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Ramero": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Ravenous Rhino": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Redstone Miner": [
+        34,
+        0,
+        0,
+        0
+      ],
+      "Reed": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Rescue Recruiter": [
+        6,
+        1,
+        1,
+        1
+      ],
+      "Researcher Beryl": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Researcher Betty": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Researcher Gilbert": [
+        27,
+        18,
+        18,
+        18
+      ],
+      "Researcher Jade": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Researcher Jessica": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Researcher Kay": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Researcher Lily": [
+        30,
+        1,
+        1,
+        1
+      ],
+      "Researcher Ribery": [
+        14,
+        8,
+        8,
+        8
+      ],
+      "Researcher Tay": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Researcher Timmy": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Researcher Tina": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Resident Neighbor": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Resident Snooty": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Resistance Leader": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Rezzus": [
+        41,
+        0,
+        0,
+        0
+      ],
+      "Rhanora": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Rhanora Cat": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Rhys": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "Ribbit": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Richard": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Rick": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Rock": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Roddy": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Roger": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Rogier": [
+        34,
+        0,
+        0,
+        0
+      ],
+      "Rollim": [
+        60,
+        0,
+        0,
+        0
+      ],
+      "Romero": [
+        114,
+        113,
+        79,
+        79
+      ],
+      "Roosterzilla": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Rosemary": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Rosetta": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "Roy": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Royal Guard": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Royal Resident": [
+        133,
+        0,
+        0,
+        0
+      ],
+      "Rulenor": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Rusty": [
+        24,
+        22,
+        21,
+        21
+      ],
+      "Ryan": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Ryu": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Sadan": [
+        40,
+        3,
+        3,
+        3
+      ],
+      "Safari Manager": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Safari Receptionist": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Safari Shill": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Salesman": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Salvage Old Attributes": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Sam": [
+        117,
+        114,
+        114,
+        114
+      ],
+      "Sanger": [
+        28,
+        0,
+        0,
+        0
+      ],
+      "Sargwyn": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Sawyer": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Scardius": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Scarf": [
+        37,
+        0,
+        0,
+        0
+      ],
+      "Scholar Alluin": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Scoop": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Scorpius": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Scout Plinius": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Scout Scardius": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Security Clerk": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "Seffea": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Seraphine": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "Seymour": [
+        9,
+        1,
+        1,
+        1
+      ],
+      "Shaggy": [
+        36,
+        2,
+        2,
+        2
+      ],
+      "Shania": [
+        31,
+        3,
+        3,
+        3
+      ],
+      "Sheep": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Shen Albedo": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Shen Chaos": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Shen Citrinitas": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Shen Magnum Opus": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Shen Rubedo": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Shen's Agent": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Shepherd": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Sherry": [
+        6,
+        3,
+        3,
+        3
+      ],
+      "Shifted": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Shifty": [
+        16,
+        13,
+        13,
+        13
+      ],
+      "Silnar": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Simon": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Sirih": [
+        48,
+        0,
+        0,
+        0
+      ],
+      "Sirius": [
+        33,
+        2,
+        2,
+        2
+      ],
+      "Skylark": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Sloth": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "Sludge": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Soma": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Sor'Hen": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Sorcerer Okron": [
+        36,
+        0,
+        0,
+        0
+      ],
+      "Soul Campfire Initiate": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Spaceman": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Spider Tamer": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Spike": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "St. Jerry": [
+        28,
+        28,
+        26,
+        26
+      ],
+      "Stain": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Station Master": [
+        24,
+        2,
+        2,
+        2
+      ],
+      "Stella": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Storm": [
+        24,
+        1,
+        1,
+        1
+      ],
+      "Stranger": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Strux": [
+        28,
+        0,
+        0,
+        0
+      ],
+      "Sunny": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Susan": [
+        18,
+        18,
+        18,
+        18
+      ],
+      "Suus": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Swoop": [
+        42,
+        0,
+        0,
+        0
+      ],
+      "Tal Ker": [
+        323,
+        0,
+        0,
+        0
+      ],
+      "Talbot": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Talia": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Tammy": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Tarwen": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Taylor": [
+        30,
+        19,
+        14,
+        14
+      ],
+      "Teddy": [
+        42,
+        0,
+        0,
+        0
+      ],
+      "Tel Kar": [
+        61,
+        0,
+        0,
+        0
+      ],
+      "Terry": [
+        15,
+        2,
+        2,
+        2
+      ],
+      "The Handler": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "The Lotus Eater": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "The Professor": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "The Watcher": [
+        60,
+        1,
+        1,
+        1
+      ],
+      "The Wither King": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Thondin": [
+        52,
+        0,
+        0,
+        0
+      ],
+      "Thorn": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Tia the Fairy": [
+        48,
+        9,
+        7,
+        7
+      ],
+      "Ticket Master": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Tilus": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Tom": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Tomioka": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Tony": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Tornora": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Torrhus Canyon": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Treasure Hunter": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Treehugger Timothy": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Trevor": [
+        16,
+        2,
+        2,
+        2
+      ],
+      "Tribe Member": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Trinity": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Truu": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Turd": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Tyashoi Alchemist": [
+        215,
+        0,
+        0,
+        0
+      ],
+      "Tyzzo": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Ubik Von Neumann": [
+        106,
+        0,
+        0,
+        0
+      ],
+      "Udel": [
+        64,
+        0,
+        0,
+        0
+      ],
+      "Udium": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Ugo": [
+        80,
+        0,
+        0,
+        0
+      ],
+      "Ulyn": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Unbound Explorer": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Undercover Agent": [
+        9,
+        2,
+        2,
+        2
+      ],
+      "Untitled NPC": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Uvia": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Vaeri": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Vanessa": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Vargul": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Velyna": [
+        37,
+        0,
+        0,
+        0
+      ],
+      "Vesuvius": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Vex": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Viking": [
+        37,
+        0,
+        0,
+        0
+      ],
+      "Vincent": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Vinyl Collector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Violetta": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Vreike": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Vulcan": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Walter": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Weaponsmith": [
+        5,
+        2,
+        2,
+        2
+      ],
+      "Weird Sailor": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Windmill Operator": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Wizard": [
+        100,
+        0,
+        0,
+        0
+      ],
+      "Wizard's Assistant": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Wizardman": [
+        129,
+        0,
+        0,
+        0
+      ],
+      "Wool Weaver": [
+        8,
+        7,
+        7,
+        7
+      ],
+      "Worker Xavier": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Xalx": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Yoink": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Yoshua": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Zarina": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Ziri": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Zog": [
+        13,
+        2,
+        2,
+        2
+      ],
+      "[Eye]": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "yrreJ": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Ävaeìkx": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "☣ Sick Farmer ☣": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "runtime_jar_sha256": "9C1E7A9F3AADF17EC8522792776661B933DC3200D0CA6DF93832A955A2871957",
+    "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925"
+  },
+  "dispatch_after": {
+    "scope": "Conservative literal current-publication subset, exact saved legacy lines. Changed text does NOT certify full translation, correctness, all dynamic/live branches or FPS. Cyrillic-without-Latin is only screening, not a quality score.",
+    "corpus_rows": 16244,
+    "tested_literal_rows": 11247,
+    "flat_changed_not_quality_proof": 1512,
+    "published_style_changed_not_quality_proof": 1367,
+    "both_changed_not_quality_proof": 1367,
+    "cyrillic_without_latin_body_screening": 1256,
+    "excluded": {
+      "additional_placeholder_or_choice_guard": 153,
+      "historical_or_alpha": 296,
+      "legacy_not_single_exact_line": 6,
+      "not_tagged_dialogue": 4213,
+      "variable_or_markup_or_layout": 329
+    },
+    "per_speaker_tested_flat_changed_legacy_changed_both": {
+      " St. Jerry": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "\"Hunter\" Tobias": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "----": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Aatrox": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Adventurer Saul": [
+        16,
+        2,
+        2,
+        2
+      ],
+      "Agatha": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Agnes": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Alabaster": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Alan": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Alatar": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Albert": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Alchemage": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Alchemist": [
+        44,
+        12,
+        11,
+        11
+      ],
+      "Alcina": [
+        50,
+        0,
+        0,
+        0
+      ],
+      "Alda": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "Alixer": [
+        20,
+        16,
+        16,
+        16
+      ],
+      "Alwin": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Amelia": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "An": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Andrea": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Andrew": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Angler Angus": [
+        9,
+        9,
+        8,
+        8
+      ],
+      "Anita": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "Ant": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Apprentice": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Arachne": [
+        34,
+        0,
+        0,
+        0
+      ],
+      "Aranya": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Arba": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Arbadak": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Arch": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Archaeologist": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "Archie": [
+        26,
+        0,
+        0,
+        0
+      ],
+      "Argofay Bughunter": [
+        57,
+        0,
+        0,
+        0
+      ],
+      "Argofay Bugshopper": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Argofay Doorholder": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Argofay Serialbather": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Argofay Sonfather": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Argofay Tencounter": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Argofay Threebrother": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Argofay Trafficker": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Argofay Trailblazer": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Argofay Treemerger": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Arthur": [
+        15,
+        15,
+        15,
+        15
+      ],
+      "Ashera": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Auction Master": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "Aura": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Auryon": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Autonull": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Aviar": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Avorius": [
+        12,
+        3,
+        3,
+        3
+      ],
+      "Azax": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Baar": [
+        39,
+        0,
+        0,
+        0
+      ],
+      "Baker": [
+        5,
+        5,
+        4,
+        4
+      ],
+      "Bal": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Banker": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Banker Broadjaw": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Barbarian Emissary": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Barbarian Guard": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Barry": [
+        61,
+        0,
+        0,
+        0
+      ],
+      "Bartender": [
+        18,
+        17,
+        16,
+        16
+      ],
+      "Bea": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "Bednom": [
+        46,
+        0,
+        0,
+        0
+      ],
+      "Beekeeper Bartholomew": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Belanor": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Beth": [
+        64,
+        18,
+        18,
+        18
+      ],
+      "Biblio": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "Bingo": [
+        10,
+        9,
+        5,
+        5
+      ],
+      "Birdwatcher Tim": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Blacksmith": [
+        40,
+        24,
+        19,
+        19
+      ],
+      "Blobbercyst": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Bob": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Bomin": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Bonzo": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "Boris": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Bramass Beastslayer": [
+        18,
+        3,
+        3,
+        3
+      ],
+      "Brarnas": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "Brian": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Brigette": [
+        96,
+        89,
+        88,
+        88
+      ],
+      "Bromm": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Bruto": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Bruuh": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Brynmor": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Bubu": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Builder": [
+        9,
+        9,
+        9,
+        9
+      ],
+      "Bulvar": [
+        13,
+        13,
+        12,
+        12
+      ],
+      "Button": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Bylma": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Calvin": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Campfire Adept": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Campfire Initiate": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Captain Ahone": [
+        34,
+        0,
+        0,
+        0
+      ],
+      "Captain Baha": [
+        25,
+        7,
+        7,
+        7
+      ],
+      "Carly": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Carnival Cowboy": [
+        18,
+        18,
+        15,
+        15
+      ],
+      "Carnival Fisherman": [
+        19,
+        19,
+        15,
+        15
+      ],
+      "Carnival Leader": [
+        27,
+        26,
+        16,
+        16
+      ],
+      "Carnival Pirateman": [
+        19,
+        19,
+        11,
+        11
+      ],
+      "Carpenter": [
+        24,
+        23,
+        22,
+        22
+      ],
+      "Carrolyn": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Carrot King Avatar": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Cashier": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Castle Guard": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Centauri": [
+        36,
+        0,
+        0,
+        0
+      ],
+      "Chak": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Chantelle": [
+        8,
+        8,
+        7,
+        7
+      ],
+      "Charlie": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Charlotte": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Chef": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Chester": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Chicken": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Chief Scorn": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "Chihai": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Chipper McPickaxe": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Christopher": [
+        5,
+        3,
+        3,
+        3
+      ],
+      "Chuckleton": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "Chuk": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Chunk": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Clerk Seraphine": [
+        40,
+        26,
+        13,
+        13
+      ],
+      "Coach Jackrabbit": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Cold Enjoyer": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Cole": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Colore": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Combat Merchant": [
+        6,
+        1,
+        1,
+        1
+      ],
+      "Coral": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Corm": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Cosmo": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Counsellor": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Cow": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Cowboy Nick": [
+        28,
+        0,
+        0,
+        0
+      ],
+      "Crag": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Creed": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Croesus": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "Cryptosis": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Curator": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Cyndarin": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Daan": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Dackinoru": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Dalbrek": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Dalir": [
+        99,
+        3,
+        3,
+        3
+      ],
+      "Damia": [
+        42,
+        0,
+        0,
+        0
+      ],
+      "Dante": [
+        68,
+        0,
+        0,
+        0
+      ],
+      "Dante Goon": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Darr": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "David Hunterborough": [
+        56,
+        0,
+        0,
+        0
+      ],
+      "Dax": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Dean": [
+        87,
+        0,
+        0,
+        0
+      ],
+      "Deer": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Defunct Wizardman": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Deng": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Derpy": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Desperate Engineer": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Detective Amog": [
+        156,
+        0,
+        0,
+        0
+      ],
+      "Diana": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Diaz": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Dirk": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Dirt Guy": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Disinfestor": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Don Expresso": [
+        25,
+        1,
+        1,
+        1
+      ],
+      "Dory": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Doug": [
+        4,
+        4,
+        3,
+        3
+      ],
+      "Dr Stone": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Dr. Edwin": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Dr. Emmett": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "Dr. Hibble": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Dr. Phear": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Dr. Stone": [
+        107,
+        0,
+        0,
+        0
+      ],
+      "Drakuu": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Duke": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Dulin": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Duncan": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Dusk": [
+        15,
+        15,
+        12,
+        12
+      ],
+      "Dust": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Ede": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Edelis": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Einary": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Elise": [
+        118,
+        0,
+        0,
+        0
+      ],
+      "Elizabeth": [
+        30,
+        13,
+        13,
+        13
+      ],
+      "Elle": [
+        231,
+        9,
+        9,
+        9
+      ],
+      "Elmar": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Eludore": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Emissary Braum": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Emissary Carlton": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Emissary Ceanna": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Emissary Fraiser": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Emissary Lissandra": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Emissary Sisko": [
+        3,
+        1,
+        1,
+        1
+      ],
+      "Emissary Wilson": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Enchantment Nerd": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Enid": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Enigma": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Erihann": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Etc": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Ezekiel": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Fafnir": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Fairylosopher": [
+        31,
+        0,
+        0,
+        0
+      ],
+      "Fake Enigma Soul": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Fann": [
+        41,
+        0,
+        0,
+        0
+      ],
+      "Farm Merchant": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "Farmer Jon": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "Farmer Rigby": [
+        11,
+        11,
+        11,
+        11
+      ],
+      "Farmhand": [
+        26,
+        26,
+        26,
+        26
+      ],
+      "Fear Mongerer": [
+        14,
+        14,
+        14,
+        14
+      ],
+      "Feast Baker Scott": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Feast Chef Ted": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Felix": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Fetchur": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Finance Rabbit": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Finnegan": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Finplex": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Fisherman Gerald": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Fishing Merchant": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Forager Daniel": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Forager Rowan": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Forast": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Forger": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Fossil Muncher": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Foxy": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Fragilis": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Frankie": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Fred": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Freddy": [
+        78,
+        0,
+        0,
+        0
+      ],
+      "Friendly Hiker": [
+        12,
+        2,
+        2,
+        2
+      ],
+      "Frosty": [
+        7,
+        6,
+        6,
+        6
+      ],
+      "Frozen Alex": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Garlacius": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Gary": [
+        9,
+        2,
+        2,
+        2
+      ],
+      "Gavin": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Gemma": [
+        29,
+        0,
+        0,
+        0
+      ],
+      "Generow": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Geo": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Geonathan Greatforge": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "George": [
+        57,
+        14,
+        14,
+        14
+      ],
+      "Gerald": [
+        26,
+        0,
+        0,
+        0
+      ],
+      "Ghost of Armorsmith": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Ghost of Goon": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Gimley": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Gladiator": [
+        5,
+        3,
+        3,
+        3
+      ],
+      "Gnyl": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Gold Forger": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Golden Dragon": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Goldor": [
+        23,
+        1,
+        1,
+        1
+      ],
+      "Grandma": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Grandma Wolf": [
+        15,
+        15,
+        15,
+        15
+      ],
+      "Grandpa Wolf": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Gregory": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Grelius": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Gris": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Grog": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Grumblefoot": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Guard": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Guard Gornum": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Guber": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Guildford": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Gulliver": [
+        13,
+        7,
+        7,
+        7
+      ],
+      "Gunther": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Gustave": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Guy": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "Gwendolyn": [
+        25,
+        24,
+        21,
+        21
+      ],
+      "Gwynnie": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Harriette": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "Hattie": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Haymitch": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Helena": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Helia": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Hendrik": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Hilda": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Hina": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Honey": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Hoppity": [
+        22,
+        21,
+        18,
+        18
+      ],
+      "Hornum": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Hound": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Hungry Hiker": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Hunter Ava": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Hunter Billy": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Hunter Dennis": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Hunter Harry": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Hunter Jasper": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Hunter Jean": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Hunter Lennard": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Hunter Luigi": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Hunter McNeil": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Hunter Reeves": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Huntress Alissa": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Huntress Melissa": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Husbandry Merchant": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Ian": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Igor": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Igrupan": [
+        44,
+        0,
+        0,
+        0
+      ],
+      "Ike": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Ikrus": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "Inverted Sirius": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Iron Forger": [
+        4,
+        2,
+        2,
+        2
+      ],
+      "Ivan": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Ivy": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Jack": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Jacob": [
+        28,
+        9,
+        9,
+        9
+      ],
+      "Jacobus": [
+        9,
+        9,
+        9,
+        9
+      ],
+      "Jacquelle": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Jade Dragon": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Jaeger": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Jake": [
+        67,
+        9,
+        9,
+        9
+      ],
+      "Jamie": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Jax": [
+        25,
+        24,
+        24,
+        24
+      ],
+      "Jeff": [
+        19,
+        17,
+        17,
+        17
+      ],
+      "Jerry": [
+        41,
+        6,
+        6,
+        6
+      ],
+      "Jimmy": [
+        17,
+        16,
+        16,
+        16
+      ],
+      "Jine": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Joey McPizza": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Joliet": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Jonesy": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Jotraeline Greatforge": [
+        22,
+        2,
+        2,
+        2
+      ],
+      "Julian": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Juliette": [
+        71,
+        69,
+        45,
+        45
+      ],
+      "Junker Joel": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Kalhuiki Door Guardian": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Karis": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Kat": [
+        42,
+        3,
+        3,
+        3
+      ],
+      "Kaus": [
+        65,
+        0,
+        0,
+        0
+      ],
+      "Kay": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Keith": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Kelly": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Keran": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Kheharad": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Kiara": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "Kiermet": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "King Yolkar": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Kloon": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Krevius": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Kutral": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Kuudra Archaeologist": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Kuudra Archeologist": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Kuudra Believer": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Kuudra Loremaster": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Kysha": [
+        47,
+        0,
+        0,
+        0
+      ],
+      "Lapis Miner": [
+        13,
+        13,
+        13,
+        13
+      ],
+      "Lasea": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Lazarus": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Lazy Miner": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Leo": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Liam": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Librarian": [
+        7,
+        7,
+        6,
+        6
+      ],
+      "Lift Operator": [
+        12,
+        3,
+        3,
+        3
+      ],
+      "Livid": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Liz": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Lone Adventurer": [
+        82,
+        0,
+        0,
+        0
+      ],
+      "Lonely Philosopher": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Loras": [
+        47,
+        0,
+        0,
+        0
+      ],
+      "Lost Wizard": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Lucius": [
+        10,
+        10,
+        5,
+        5
+      ],
+      "Ludleth": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Lukas the Aquarist": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Lumber Jack": [
+        20,
+        20,
+        19,
+        19
+      ],
+      "Lumber Merchant": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "Lumina": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "Lynn": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Lys": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Maaike": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Mad Redstone Engineer": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth I": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth II": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth III": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth IX": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth V": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Madame Eleanor Q. Goldsworth VII": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Maddox": [
+        13,
+        9,
+        9,
+        9
+      ],
+      "Maddox the Slayer": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Maeve": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Mage Emissary": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Mage Guard": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Maggie": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Malik": [
+        19,
+        19,
+        19,
+        19
+      ],
+      "Marcia": [
+        33,
+        0,
+        0,
+        0
+      ],
+      "Marco": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Marigold": [
+        25,
+        6,
+        6,
+        6
+      ],
+      "Marina": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Marthos": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Martin": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mason": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Master Tactician Fink": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Master Tactician Funk": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Master Tao": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Maths Enjoyer": [
+        3,
+        1,
+        1,
+        1
+      ],
+      "Maxim": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Maxor": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Maxwell": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "Mayor Aatrox": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Aura": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Mayor Cole": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Diana": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Diaz": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Finnegan": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Foxy": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Marina": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Nancy": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mayor Paul": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Mayor Scorpius": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Mazakala": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Mees": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Melancholic Viking": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Melody ♫": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Michael": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Mining Merchant": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Minister Nancy": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Mino": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Miria": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Moby": [
+        49,
+        7,
+        7,
+        7
+      ],
+      "Molbert": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "Mole": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Mollim": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Mort": [
+        39,
+        39,
+        39,
+        39
+      ],
+      "Motes Grubber": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Mushroom Guy": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Nall": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Necron": [
+        28,
+        2,
+        2,
+        2
+      ],
+      "Nemo": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Nene": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Nicole": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "No Name": [
+        75,
+        0,
+        0,
+        0
+      ],
+      "Noway": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Nuvian": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Obo": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Odawa": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Oden": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Odexar": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "Odger": [
+        36,
+        0,
+        0,
+        0
+      ],
+      "Oen": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Offea": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Old Man Garry": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Old Shaman Nyko": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Old Timer": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Ophelia": [
+        17,
+        17,
+        17,
+        17
+      ],
+      "Oringo": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "Oruo The Almighty": [
+        56,
+        0,
+        0,
+        0
+      ],
+      "Ozanne": [
+        4,
+        4,
+        1,
+        1
+      ],
+      "Pablo": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Pam": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Pat": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Paul": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Pearl Dealer": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "Pest Wrangler": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Pest Wrangler?": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Pesthunter Pamela": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Pesthunter Phillip": [
+        31,
+        4,
+        4,
+        4
+      ],
+      "Pete": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Phaser": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Phillip": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Piggy": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Piglin Guard": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Plate": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Plenk": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Plumber Joe": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "Pomtair": [
+        40,
+        0,
+        0,
+        0
+      ],
+      "Porc": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "Porhtal": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Pounce": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Prie": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Professor Robot": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Professor Wynd": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "Puzzler": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Queen Mismyla": [
+        16,
+        1,
+        1,
+        1
+      ],
+      "Queen Nyx": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Bro": [
+        26,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Cousin": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Daddy": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Dog": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Granny": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Security": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Sis": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "Rabbit Uncle": [
+        31,
+        0,
+        0,
+        0
+      ],
+      "Raffle Box": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Ramero": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Ravenous Rhino": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Redstone Miner": [
+        34,
+        0,
+        0,
+        0
+      ],
+      "Reed": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Rescue Recruiter": [
+        6,
+        1,
+        1,
+        1
+      ],
+      "Researcher Beryl": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Researcher Betty": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Researcher Gilbert": [
+        27,
+        18,
+        18,
+        18
+      ],
+      "Researcher Jade": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Researcher Jessica": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Researcher Kay": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Researcher Lily": [
+        30,
+        1,
+        1,
+        1
+      ],
+      "Researcher Ribery": [
+        14,
+        8,
+        8,
+        8
+      ],
+      "Researcher Tay": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Researcher Timmy": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Researcher Tina": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Resident Neighbor": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Resident Snooty": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Resistance Leader": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Rezzus": [
+        41,
+        0,
+        0,
+        0
+      ],
+      "Rhanora": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "Rhanora Cat": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Rhys": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "Ribbit": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Richard": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Rick": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Rock": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Roddy": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Roger": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Rogier": [
+        34,
+        0,
+        0,
+        0
+      ],
+      "Rollim": [
+        60,
+        0,
+        0,
+        0
+      ],
+      "Romero": [
+        114,
+        113,
+        79,
+        79
+      ],
+      "Roosterzilla": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Rosemary": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Rosetta": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "Roy": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Royal Guard": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Royal Resident": [
+        133,
+        0,
+        0,
+        0
+      ],
+      "Rulenor": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Rusty": [
+        24,
+        22,
+        21,
+        21
+      ],
+      "Ryan": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Ryu": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Sadan": [
+        40,
+        3,
+        3,
+        3
+      ],
+      "Safari Manager": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "Safari Receptionist": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Safari Shill": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Salesman": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Salvage Old Attributes": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Sam": [
+        117,
+        117,
+        117,
+        117
+      ],
+      "Sanger": [
+        28,
+        0,
+        0,
+        0
+      ],
+      "Sargwyn": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Sawyer": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Scardius": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Scarf": [
+        37,
+        0,
+        0,
+        0
+      ],
+      "Scholar Alluin": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Scoop": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Scorpius": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Scout Plinius": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Scout Scardius": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Security Clerk": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "Seffea": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Seraphine": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "Seymour": [
+        9,
+        1,
+        1,
+        1
+      ],
+      "Shaggy": [
+        36,
+        2,
+        2,
+        2
+      ],
+      "Shania": [
+        31,
+        3,
+        3,
+        3
+      ],
+      "Sheep": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Shen Albedo": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Shen Chaos": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Shen Citrinitas": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Shen Magnum Opus": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Shen Rubedo": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Shen's Agent": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Shepherd": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Sherry": [
+        6,
+        3,
+        3,
+        3
+      ],
+      "Shifted": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Shifty": [
+        16,
+        13,
+        13,
+        13
+      ],
+      "Silnar": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "Simon": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "Sirih": [
+        48,
+        0,
+        0,
+        0
+      ],
+      "Sirius": [
+        33,
+        2,
+        2,
+        2
+      ],
+      "Skylark": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Sloth": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "Sludge": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Soma": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Sor'Hen": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "Sorcerer Okron": [
+        36,
+        0,
+        0,
+        0
+      ],
+      "Soul Campfire Initiate": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Spaceman": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Spider Tamer": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Spike": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "St. Jerry": [
+        28,
+        28,
+        26,
+        26
+      ],
+      "Stain": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Station Master": [
+        24,
+        2,
+        2,
+        2
+      ],
+      "Stella": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Storm": [
+        24,
+        1,
+        1,
+        1
+      ],
+      "Stranger": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Strux": [
+        28,
+        0,
+        0,
+        0
+      ],
+      "Sunny": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Susan": [
+        18,
+        18,
+        18,
+        18
+      ],
+      "Suus": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Swoop": [
+        42,
+        0,
+        0,
+        0
+      ],
+      "Tal Ker": [
+        323,
+        0,
+        0,
+        0
+      ],
+      "Talbot": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Talia": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Tammy": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Tarwen": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Taylor": [
+        30,
+        19,
+        14,
+        14
+      ],
+      "Teddy": [
+        42,
+        0,
+        0,
+        0
+      ],
+      "Tel Kar": [
+        61,
+        0,
+        0,
+        0
+      ],
+      "Terry": [
+        15,
+        2,
+        2,
+        2
+      ],
+      "The Handler": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "The Lotus Eater": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "The Professor": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "The Watcher": [
+        60,
+        1,
+        1,
+        1
+      ],
+      "The Wither King": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "Thondin": [
+        52,
+        0,
+        0,
+        0
+      ],
+      "Thorn": [
+        27,
+        0,
+        0,
+        0
+      ],
+      "Tia the Fairy": [
+        48,
+        9,
+        7,
+        7
+      ],
+      "Ticket Master": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Tilus": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Tom": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Tomioka": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Tony": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Tornora": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Torrhus Canyon": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Treasure Hunter": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "Treehugger Timothy": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "Trevor": [
+        16,
+        2,
+        2,
+        2
+      ],
+      "Tribe Member": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Trinity": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "Truu": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Turd": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "Tyashoi Alchemist": [
+        215,
+        0,
+        0,
+        0
+      ],
+      "Tyzzo": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Ubik Von Neumann": [
+        106,
+        0,
+        0,
+        0
+      ],
+      "Udel": [
+        64,
+        0,
+        0,
+        0
+      ],
+      "Udium": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "Ugo": [
+        80,
+        0,
+        0,
+        0
+      ],
+      "Ulyn": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Unbound Explorer": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Undercover Agent": [
+        9,
+        2,
+        2,
+        2
+      ],
+      "Untitled NPC": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Uvia": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Vaeri": [
+        5,
+        0,
+        0,
+        0
+      ],
+      "Vanessa": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Vargul": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Velyna": [
+        37,
+        0,
+        0,
+        0
+      ],
+      "Vesuvius": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Vex": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "Viking": [
+        37,
+        0,
+        0,
+        0
+      ],
+      "Vincent": [
+        35,
+        0,
+        0,
+        0
+      ],
+      "Vinyl Collector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Violetta": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "Vreike": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Vulcan": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Walter": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Weaponsmith": [
+        5,
+        2,
+        2,
+        2
+      ],
+      "Weird Sailor": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "Windmill Operator": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Wizard": [
+        100,
+        0,
+        0,
+        0
+      ],
+      "Wizard's Assistant": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "Wizardman": [
+        129,
+        0,
+        0,
+        0
+      ],
+      "Wool Weaver": [
+        8,
+        7,
+        7,
+        7
+      ],
+      "Worker Xavier": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "Xalx": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "Yoink": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "Yoshua": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Zarina": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "Ziri": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "Zog": [
+        13,
+        13,
+        13,
+        13
+      ],
+      "[Eye]": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "yrreJ": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Ävaeìkx": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "☣ Sick Farmer ☣": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "runtime_jar_sha256": "83F43BD1E85E987B8AE2F65A1AC66D0F202F5DDA913E278B5F8E0F9FAD49AE9D",
+    "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925"
+  },
+  "existing_plain_vs_style_gap_candidates": 145,
+  "non_batch_dispatch_results_identical_to_76": true
+}

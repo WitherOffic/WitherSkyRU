@@ -1,0 +1,430 @@
+{
+  "checked_client_date": "2026-10-18",
+  "checked_at": "2026-10-18T07:15:21.042500+07:00",
+  "api_urls": [
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Archie%7CCaptain+Baha%7CCoach+Jackrabbit%7CDulin%7CDust%7CEdelis%7CFisherwoman+Enid%7CGeo%7CHarriette%7CIkrus%7CKutral%7CMaeve%7CMiria%7CNall%7COdexar%7COen%7CPorc%7CProfessor+Wynd%7CResearcher+Lily%7CRoddy%7CSanger%7CShania%7CShania+%28Rift%29%7CSoma%7CStain%7CStation+Master%7CStrux%7CTicket+Master%7CTruu%7CTurd%7CUnhinged+Kloon%7CVioletta&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2"
+  ],
+  "matches_pinned_corpus": true,
+  "private_or_unpublished_dialogue_known": false,
+  "pages": [
+    {
+      "pageid": 22262,
+      "ns": 0,
+      "title": "Shania",
+      "revisions": [
+        {
+          "revid": 816334,
+          "parentid": 814688,
+          "timestamp": "2026-08-11T20:37:25Z"
+        }
+      ]
+    },
+    {
+      "pageid": 81908,
+      "ns": 0,
+      "title": "Station Master",
+      "revisions": [
+        {
+          "revid": 790907,
+          "parentid": 751730,
+          "timestamp": "2026-07-24T01:15:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 81915,
+      "ns": 0,
+      "title": "Ticket Master",
+      "revisions": [
+        {
+          "revid": 791139,
+          "parentid": 719740,
+          "timestamp": "2026-07-24T01:22:59Z"
+        }
+      ]
+    },
+    {
+      "pageid": 81934,
+      "ns": 0,
+      "title": "Geo",
+      "revisions": [
+        {
+          "revid": 813518,
+          "parentid": 788785,
+          "timestamp": "2026-08-11T19:19:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91510,
+      "ns": 0,
+      "title": "Odexar",
+      "revisions": [
+        {
+          "revid": 823141,
+          "parentid": 814266,
+          "timestamp": "2026-08-24T06:24:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91780,
+      "ns": 0,
+      "title": "Turd",
+      "revisions": [
+        {
+          "revid": 815173,
+          "parentid": 791256,
+          "timestamp": "2026-08-11T20:02:51Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91811,
+      "ns": 0,
+      "title": "Truu",
+      "revisions": [
+        {
+          "revid": 791249,
+          "parentid": 755412,
+          "timestamp": "2026-07-24T01:26:55Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91814,
+      "ns": 0,
+      "title": "Nall",
+      "revisions": [
+        {
+          "revid": 789829,
+          "parentid": 754205,
+          "timestamp": "2026-07-24T00:37:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91815,
+      "ns": 0,
+      "title": "Kutral",
+      "revisions": [
+        {
+          "revid": 789359,
+          "parentid": 753790,
+          "timestamp": "2026-07-24T00:22:26Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91847,
+      "ns": 0,
+      "title": "Porc",
+      "revisions": [
+        {
+          "revid": 790098,
+          "parentid": 754448,
+          "timestamp": "2026-07-24T00:47:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92027,
+      "ns": 0,
+      "title": "Edelis",
+      "revisions": [
+        {
+          "revid": 788225,
+          "parentid": 752843,
+          "timestamp": "2026-07-23T23:43:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92301,
+      "ns": 0,
+      "title": "Strux",
+      "revisions": [
+        {
+          "revid": 790934,
+          "parentid": 755154,
+          "timestamp": "2026-07-24T01:16:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98958,
+      "ns": 0,
+      "title": "Shania (Rift)",
+      "revisions": [
+        {
+          "revid": 814689,
+          "parentid": 790585,
+          "timestamp": "2026-08-11T19:49:33Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99813,
+      "ns": 0,
+      "title": "Violetta",
+      "revisions": [
+        {
+          "revid": 791340,
+          "parentid": 719986,
+          "timestamp": "2026-07-24T01:29:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99938,
+      "ns": 0,
+      "title": "Unhinged Kloon",
+      "revisions": [
+        {
+          "revid": 817893,
+          "parentid": 815205,
+          "timestamp": "2026-08-11T23:23:51Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100062,
+      "ns": 0,
+      "title": "Soma",
+      "revisions": [
+        {
+          "revid": 790759,
+          "parentid": 755012,
+          "timestamp": "2026-07-24T01:09:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100455,
+      "ns": 0,
+      "title": "Stain",
+      "revisions": [
+        {
+          "revid": 790892,
+          "parentid": 755117,
+          "timestamp": "2026-07-24T01:14:52Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100456,
+      "ns": 0,
+      "title": "Dust",
+      "revisions": [
+        {
+          "revid": 788202,
+          "parentid": 752815,
+          "timestamp": "2026-07-23T23:42:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100460,
+      "ns": 0,
+      "title": "Harriette",
+      "revisions": [
+        {
+          "revid": 789019,
+          "parentid": 753532,
+          "timestamp": "2026-07-24T00:11:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 101401,
+      "ns": 0,
+      "title": "Maeve",
+      "revisions": [
+        {
+          "revid": 828297,
+          "parentid": 753961,
+          "timestamp": "2026-09-01T02:09:40Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102356,
+      "ns": 0,
+      "title": "Dulin",
+      "revisions": [
+        {
+          "revid": 823106,
+          "parentid": 817828,
+          "timestamp": "2026-08-24T06:01:49Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102895,
+      "ns": 0,
+      "title": "Coach Jackrabbit",
+      "revisions": [
+        {
+          "revid": 857891,
+          "parentid": 752528,
+          "timestamp": "2026-10-14T11:29:59Z"
+        }
+      ]
+    },
+    {
+      "pageid": 106013,
+      "ns": 0,
+      "title": "Roddy",
+      "revisions": [
+        {
+          "revid": 830478,
+          "parentid": 829735,
+          "timestamp": "2026-09-03T01:30:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107507,
+      "ns": 0,
+      "title": "Captain Baha",
+      "revisions": [
+        {
+          "revid": 823117,
+          "parentid": 812817,
+          "timestamp": "2026-08-24T06:08:23Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107511,
+      "ns": 0,
+      "title": "Fisherwoman Enid",
+      "revisions": [
+        {
+          "revid": 823115,
+          "parentid": 813387,
+          "timestamp": "2026-08-24T06:07:32Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108576,
+      "ns": 0,
+      "title": "Ikrus",
+      "revisions": [
+        {
+          "revid": 813774,
+          "parentid": 789191,
+          "timestamp": "2026-08-11T19:26:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116447,
+      "ns": 0,
+      "title": "Researcher Lily",
+      "revisions": [
+        {
+          "revid": 814534,
+          "parentid": 790328,
+          "timestamp": "2026-08-11T19:45:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133264,
+      "ns": 0,
+      "title": "Miria",
+      "revisions": [
+        {
+          "revid": 858653,
+          "parentid": 850440,
+          "timestamp": "2026-10-15T06:10:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133411,
+      "ns": 0,
+      "title": "Archie",
+      "revisions": [
+        {
+          "revid": 846853,
+          "parentid": 843632,
+          "timestamp": "2026-09-26T20:20:05Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133732,
+      "ns": 0,
+      "title": "Sanger",
+      "revisions": [
+        {
+          "revid": 855089,
+          "parentid": 828624,
+          "timestamp": "2026-10-09T09:12:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 137784,
+      "ns": 0,
+      "title": "Oen",
+      "revisions": [
+        {
+          "revid": 828599,
+          "parentid": 809322,
+          "timestamp": "2026-09-01T09:08:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 138480,
+      "ns": 0,
+      "title": "Professor Wynd",
+      "revisions": [
+        {
+          "revid": 852931,
+          "parentid": 852888,
+          "timestamp": "2026-10-06T16:16:13Z"
+        }
+      ]
+    }
+  ],
+  "expected": {
+    "Archie": 846853,
+    "Captain Baha": 823117,
+    "Coach Jackrabbit": 857891,
+    "Dulin": 823106,
+    "Dust": 788202,
+    "Edelis": 788225,
+    "Fisherwoman Enid": 823115,
+    "Geo": 813518,
+    "Harriette": 789019,
+    "Ikrus": 813774,
+    "Kutral": 789359,
+    "Maeve": 828297,
+    "Miria": 858653,
+    "Nall": 789829,
+    "Odexar": 823141,
+    "Oen": 828599,
+    "Porc": 790098,
+    "Professor Wynd": 852931,
+    "Researcher Lily": 814534,
+    "Roddy": 830478,
+    "Sanger": 855089,
+    "Shania": 816334,
+    "Shania (Rift)": 814689,
+    "Soma": 790759,
+    "Stain": 790892,
+    "Station Master": 790907,
+    "Strux": 790934,
+    "Ticket Master": 791139,
+    "Truu": 791249,
+    "Turd": 815173,
+    "Unhinged Kloon": 817893,
+    "Violetta": 791340
+  },
+  "differences": {}
+}

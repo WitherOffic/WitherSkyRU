@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-15",
+  "source": "User-provided screenshot codex-clipboard-d203679f-162e-4bbd-a657-6c81c1f128bf.png",
+  "scope": "Healer orb only. Screenshot contains partially translated unit/health rows; English reconstruction marked separately. Values are not replaced with wiki values.",
+  "records": [
+    {
+      "id": "HEALER_WISH_OBSERVED",
+      "source_rows": ["Heals everyone in your group to full", "health and grants them a shield for", "20% of their maximum health. The", "cooldown is reduced by 10 секунды.", "for every player below 25% здоровья."],
+      "target_rows": ["Полностью восстанавливает здоровье всей", "группы и даёт каждому щит на", "20% от максимального здоровья.", "Перезарядка короче на 10 с", "за каждого игрока со здоровьем ниже 25%."],
+      "cooldown_seconds": 120
+    },
+    {
+      "id": "HEALER_CIRCLE_OBSERVED",
+      "source_rows": ["Launches a healing orb that creates", "a healing circle where it lands. The", "healing circle heals friendly players", "inside for 1% of their health every", "секунду."],
+      "target_rows": ["Бросает исцеляющую сферу, создающую", "круг исцеления в месте падения.", "Союзники внутри круга восстанавливают", "по 1% своего здоровья", "каждую секунду."],
+      "cooldown_seconds": 2
+    }
+  ],
+  "not_in_base_catalogue": true,
+  "other_four_live_class_orb_descriptions_captured": false
+}

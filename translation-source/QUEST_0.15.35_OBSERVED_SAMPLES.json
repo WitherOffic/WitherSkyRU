@@ -1,0 +1,931 @@
+{
+  "status": "LOCAL_DISPLAY_LOG_ONLY_CHANNEL_UNVERIFIED",
+  "files_read": 25,
+  "scope": "Five selected observed NPC/quest sections, not all quests or all server NPCs",
+  "samples": [
+    {
+      "pass": 4,
+      "speaker": "Gwendolyn",
+      "source": "[NPC] Gwendolyn: Come back to me when you reach Heart of the Mountain Tier 4.",
+      "sample": "[02:21:21] [NPC] Gwendolyn: Come back to me when you reach §5Heart of the Mountain§f Tier 4.",
+      "origin": "2026-10-10-2.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Marigold",
+      "source": "[NPC] Marigold: Speak to me again after killing a-",
+      "sample": "[20:27:38] [NPC] Marigold: §fSpeak to me again after killing a-",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Marigold",
+      "source": "[NPC] Marigold: Now normally, I run a humble little shop that allows you to upgrade some useful perks in exchange for Gold Essence!",
+      "sample": "[20:27:31] [NPC] Marigold: §fNow normally, I run a humble little shop that allows you to upgrade some useful perks in exchange for §6Gold Essence§f!",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Marigold",
+      "source": "[NPC] Marigold: Hey! I'm Marigold! I don't recall seeing you around these parts before...",
+      "sample": "[20:27:29] [NPC] Marigold: §fHey! I'm §6Marigold§f! I don't recall seeing you around these parts before...",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Lapis Miner",
+      "source": "[NPC] Lapis Miner: How cool is that?",
+      "sample": "[19:52:47] [NPC] Lapis Miner: §fHow cool is that?",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Lapis Miner",
+      "source": "[NPC] Lapis Miner: I use that experience to enchant my Lapis Pickaxe with efficiency, which makes it mine faster!",
+      "sample": "[19:52:45] [NPC] Lapis Miner: §fI use that experience to enchant my §aLapis Pickaxe§f with efficiency, which makes it mine faster!",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Lapis Miner",
+      "source": "[NPC] Lapis Miner: My Lapis Pickaxe might not mine the fastest, but it gives me a lot of experience!",
+      "sample": "[19:52:43] [NPC] Lapis Miner: §fMy §aLapis Pickaxe§f might not mine the fastest, but it gives me a lot of experience!",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Iron Forger",
+      "source": "[NPC] Iron Forger: Seriously though, I only accept Coins.",
+      "sample": "[19:34:23] [NPC] Iron Forger: §fSeriously though, I only accept §6Coins§f.",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Iron Forger",
+      "source": "[NPC] Iron Forger: For my wares, you'll have to pay the iron price!",
+      "sample": "[19:34:21] [NPC] Iron Forger: §fFor my wares, you'll have to pay the §7iron price§f!",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: Jerry unhappy.",
+      "sample": "[NPC] Jerry: §fJerry unhappy.",
+      "origin": "2026-10-10-4.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Queen Mismyla",
+      "source": "[NPC] Queen Mismyla: The King made me go grocery shopping. Me! Can you believe that? He has a pair of perfectly good legs, and still, here I am.",
+      "sample": "[NPC] Queen Mismyla: §fThe King made me go grocery shopping. Me! Can you believe that? He has a pair of perfectly good legs, and still, here I am.",
+      "origin": "2026-10-10-4.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Jamie",
+      "source": "[NPC] Jamie: No worries.",
+      "sample": "[NPC] Jamie: §fNo worries.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Emissary Wilson",
+      "source": "[NPC] Emissary Wilson: I'm sure that by giving him his least favorite vegetable, he'll make me his favoritest emissary!",
+      "sample": "[NPC] Emissary Wilson: §fI'm sure that by giving him his least favorite vegetable, he'll make me his favoritest emissary!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Emissary Wilson",
+      "source": "[NPC] Emissary Wilson: The King's least favorite vegetable is carrot, so he sent me, his favorite emissary, to make it better!",
+      "sample": "[NPC] Emissary Wilson: §fThe King's least favorite vegetable is carrot, so he sent me, his favorite emissary, to make it better!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Arthur",
+      "source": "[NPC] Arthur: Holy Macaroni! That should boost my minion to at least Tier 5! Thank you a lot!",
+      "sample": "[NPC] Arthur: §fHoly Macaroni! That should boost my minion to at least Tier 5! Thank you a lot!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Arthur",
+      "source": "[NPC] Arthur: My wheat minion has been slacking recently, I am thinking about giving it an upgrade. He hasn't produced any wheat in years! Every time I check on him, he's empty.",
+      "sample": "[NPC] Arthur: §fMy wheat minion has been slacking recently, I am thinking about giving it an upgrade. He hasn't produced any wheat in years! Every time I check on him, he's empty.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Lily",
+      "source": "[NPC] Researcher Lily: One moment please - I've run into quite a severe conundrum.",
+      "sample": "[04:22:25] [NPC] Researcher Lily: One moment please - I've run into quite a severe conundrum.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: I can't wait to catch some fish!",
+      "sample": "[04:11:02] [NPC] Researcher Gilbert: I can't wait to catch some fish!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Ribery",
+      "source": "[NPC] Researcher Ribery: We'll need you to catch one of every frog in order to complete our research!",
+      "sample": "[04:06:30] [NPC] Researcher Ribery: We'll need you to catch §aone of every frog §fin order to complete our research!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Ribery",
+      "source": "[NPC] Researcher Ribery: That means there are 48 unique Trophy Frogs to find!",
+      "sample": "[04:06:27] [NPC] Researcher Ribery: That means there are §248 §funique §2Trophy Frogs §fto find!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Ribery",
+      "source": "[NPC] Researcher Ribery: Each species comes in four rarities - BRONZE, SILVER, GOLD, and DIAMOND.",
+      "sample": "[04:06:24] [NPC] Researcher Ribery: Each species comes in four rarities - §8§LBRONZE§f, §7§LSILVER§f, §6§LGOLD§f, and §B§LDIAMOND§f.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Ribery",
+      "source": "[NPC] Researcher Ribery: There are 12 species of Trophy Frogs that can be fished around the Lotus Atoll.",
+      "sample": "[04:06:21] [NPC] Researcher Ribery: There are §212 species §fof §2Trophy Frogs §fthat can be fished around the §3Lotus Atoll§f.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Ribery",
+      "source": "[NPC] Researcher Ribery: Awesome attitude!",
+      "sample": "[04:06:20] [NPC] Researcher Ribery: Awesome attitude!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Ribery",
+      "source": "[NPC] Researcher Ribery: Want to give us a hand?",
+      "sample": "[04:04:30] [NPC] Researcher Ribery: Want to give us a hand?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Ribery",
+      "source": "[NPC] Researcher Ribery: Us Researchers are currently hard at work documenting the various species of Frog found here.",
+      "sample": "[04:04:27] [NPC] Researcher Ribery: Us §2Researchers §fare currently hard at work documenting the various species of §2Frog §ffound here.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Ribery",
+      "source": "[NPC] Researcher Ribery: Welcome to the Lotus Atoll!",
+      "sample": "[04:04:25] [NPC] Researcher Ribery: Welcome to the §3Lotus Atoll§f!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Captain Baha",
+      "source": "[NPC] Captain Baha: You go on and explore! Come back to the Ship and set sail when you're done!",
+      "sample": "[04:02:25] [NPC] Captain Baha: You go on and explore! Come back to the §6Ship §fand set sail when you're done!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Captain Baha",
+      "source": "[NPC] Captain Baha: Land ho! We have landed onto the Lotus Atoll!",
+      "sample": "[04:02:22] [NPC] Captain Baha: Land ho! We have landed onto the §3Lotus Atoll§f!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Anchors away!",
+      "sample": "[04:00:41] [NPC] Researcher Gilbert: Anchors away!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: I'll go introduce myself to the rest of the crew!",
+      "sample": "[04:00:39] [NPC] Researcher Gilbert: I'll go introduce myself to the rest of the crew!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Marigold",
+      "source": "[NPC] Marigold: wait... your Bestiary shows that you've already killed a Golden Goblin!",
+      "sample": "[20:27:39] [NPC] Marigold: §fwait... your §aBestiary §fshows that you've already killed a §6Golden Goblin§f!",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Amazing, thank you so much!",
+      "sample": "[04:00:37] [NPC] Researcher Gilbert: Amazing, thank you so much!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Marigold",
+      "source": "[NPC] Marigold: I can't thank you enough! As a token of my gratitude, here's another 25 Gold Essence to get you started at my shop! It's not a lot, but a little goes a long way!",
+      "sample": "[20:27:43] [NPC] Marigold: §fI can't thank you enough! As a token of my gratitude, here's another §625 Gold Essence §fto get you started at my shop! It's not a lot, but a little goes a long way!",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Farmhand",
+      "source": "[NPC] Farmhand: I took a break from work for too long! Now I need your help to meet my quota!",
+      "sample": "[NPC] Farmhand: §fI took a break from work for too long! Now I need your help to meet my quota!",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 3,
+      "speaker": "Beth",
+      "source": "[NPC] Beth: He also asks strangers to get him some animals, but these animals are nowhere to be found!",
+      "sample": "[05:08:43] [NPC] Beth: He also asks strangers to get him some animals, but these animals are nowhere to be found!",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Beth",
+      "source": "[NPC] Beth: Jake says he can't walk, but I've seen him walk yesterday.",
+      "sample": "[05:08:39] [NPC] Beth: Jake says he can't walk, but I've seen him walk yesterday.",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Beth",
+      "source": "[NPC] Beth: I think I am really onto something here.",
+      "sample": "[05:08:36] [NPC] Beth: I think I am really onto something here.",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Beth",
+      "source": "[NPC] Beth: He says he can't leave his house but I've seen him walking around all the time...",
+      "sample": "[05:06:38] [NPC] Beth: §fHe says he can't leave his house but I've seen him walking around all the time...",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Beth",
+      "source": "[NPC] Beth: That Jake fellow is a bit suspicious.",
+      "sample": "[05:06:35] [NPC] Beth: §fThat Jake fellow is a bit suspicious.",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Moby",
+      "source": "[NPC] Moby: So just bring me Glowing Mushroom x8 and I'll show you how to chum, alright buddy?",
+      "sample": "[05:02:34] [NPC] Moby: §fSo just bring me §aGlowing Mushroom §8x8 §fand I'll show you how to chum, alright buddy?",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Moby",
+      "source": "[NPC] Moby: And listen, I've never seen anybody down here, but you seem like a nice fellow.",
+      "sample": "[05:02:31] [NPC] Moby: §fAnd listen, I've never seen anybody down here, but you seem like a nice fellow.",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Moby",
+      "source": "[NPC] Moby: So yeah, I come back to my crib, right?",
+      "sample": "[05:02:29] [NPC] Moby: §fSo yeah, I come back to my crib, right?",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Moby",
+      "source": "[NPC] Moby: One of them yaps and I say, \"ever tried my tonic\"?",
+      "sample": "[05:02:27] [NPC] Moby: §fOne of them yaps and I say, \"ever tried my tonic\"?",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Moby",
+      "source": "[NPC] Moby: The other day I was chumming with my chums.",
+      "sample": "[05:02:25] [NPC] Moby: §fThe other day I was chumming with my chums.",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 3,
+      "speaker": "Moby",
+      "source": "[NPC] Moby: So listen.",
+      "sample": "[05:02:24] [NPC] Moby: §fSo listen.",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Perfect! Now that we have enough resources, we can finally build this Greenhouse.",
+      "sample": "[02:42:52] [NPC] Sam: §fPerfect! Now that we have enough resources, we can finally build this §aGreenhouse§f.",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: If you can find these items, we'll be one step closer to building our very own Greenhouse!",
+      "sample": "[02:42:07] [NPC] Sam: §fIf you can find these items, we'll be one step closer to building our very own §aGreenhouse§f!",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Looking at the blueprint, it seems we need about 64 Enchanted Oak Logs and ...? 128 Enchanted Sand??",
+      "sample": "[02:42:01] [NPC] Sam: §fLooking at the §9blueprint§f, it seems we need about §a64 §aEnchanted Oak Logs §fand ...? §a128 §aEnchanted Sand§f??",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Alright, I feel better now. First we need to gather some resources to build the Greenhouse.",
+      "sample": "[02:41:56] [NPC] Sam: §fAlright, I feel better now. First we need to gather §esome resources §fto build the §aGreenhouse§f.",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: *deep breathing noises*",
+      "sample": "[02:41:54] [NPC] Sam: §f§7§o*deep breathing noises*",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I'm sorry, I just can't help myself. Let me calm myself down a bit.",
+      "sample": "[02:41:49] [NPC] Sam: §fI'm sorry, I just can't help myself. Let me calm myself down a bit.",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I'm so excited, I can't wait to get started on it!",
+      "sample": "[02:41:46] [NPC] Sam: §fI'm so excited, I can't wait to get started on it!",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: We can build our very own Greenhouse!",
+      "sample": "[02:41:43] [NPC] Sam: §fWe can build our very own §aGreenhouse§f!",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Do you know what this means??",
+      "sample": "[02:41:40] [NPC] Sam: §fDo you know what this means??",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: What's this? ... A blueprint for a Greenhouse?!",
+      "sample": "[02:41:37] [NPC] Sam: §fWhat's this? ... A §9blueprint §ffor a §aGreenhouse§f?!",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Weaponsmith",
+      "source": "[NPC] Weaponsmith: Thanks man! I'll be sure to smear these potatoes all over my weapons, that'll sure improve 'em!",
+      "sample": "[NPC] Weaponsmith: §fThanks man! I'll be sure to smear these potatoes all over my weapons, that'll sure improve 'em!",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Here you go! Hopefully, you'll make better use of it than I ever could.",
+      "sample": "[NPC] Carpenter: Here you go! Hopefully, you'll make better use of it than I ever could.",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Weaponsmith",
+      "source": "[NPC] Weaponsmith: Hey! I am looking to make some Hot Potato Books to enhance some of my weapons, do you have any potatoes to spare?",
+      "sample": "[NPC] Weaponsmith: §fHey! I am looking to make some Hot Potato Books to enhance some of my weapons, do you have any potatoes to spare?",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Rusty",
+      "source": "[NPC] Rusty: There we go, a job well done. I'll make sure to leave a good review for you!",
+      "sample": "[NPC] Rusty: §fThere we go, a job well done. I'll make sure to leave a good review for you!",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Rusty",
+      "source": "[NPC] Rusty: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their Enchanted Wheat. Can you find that for me?",
+      "sample": "[NPC] Rusty: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their §aEnchanted Wheat§f. Can you find that for me?",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Jotraeline Greatforge",
+      "source": "[NPC] Jotraeline Greatforge: Quite fascinating technology you have there, I'm sure with this machinery we could create even better appliances in the future!",
+      "sample": "[NPC] Jotraeline Greatforge: §fQuite fascinating technology you have there, I'm sure with this machinery we could create even better appliances in the future!",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 4,
+      "speaker": "Jotraeline Greatforge",
+      "source": "[NPC] Jotraeline Greatforge: I heard you have a composter in your barn, it happens to run on the same fuel drills run on! Could I check it out?",
+      "sample": "[NPC] Jotraeline Greatforge: §fI heard you have a composter in your barn, it happens to run on the same fuel drills run on! Could I check it out?",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Farmhand",
+      "source": "[NPC] Farmhand: Exactly what I needed. I think I will take the remainder of the day off.",
+      "sample": "[NPC] Farmhand: §fExactly what I needed. I think I will take the remainder of the day off.",
+      "origin": "2026-10-11-2.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Marigold",
+      "source": "[NPC] Marigold: Let me show you the Gold Essence Shop!",
+      "sample": "[20:27:46] [NPC] Marigold: §fLet me show you the §6Gold Essence Shop§f!",
+      "origin": "2026-10-10-7.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: I'm just looking for a Busted Belt Buckle to remember this place by!",
+      "sample": "[03:54:15] [NPC] Researcher Gilbert: I'm just looking for a §9Busted Belt Buckle §fto remember this place by!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Do you have that souvenir for me?",
+      "sample": "[03:54:13] [NPC] Researcher Gilbert: Do you have that souvenir for me?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Please could you get me a Busted Belt Buckle?",
+      "sample": "[03:54:02] [NPC] Researcher Gilbert: Please could you get me a §9Busted Belt Buckle§f?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: To bake us some bread, I think I need about 100 Wheat.",
+      "sample": "[03:03:04] [NPC] Sam: To bake us some bread, I think I need about 100 Wheat.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I have an idea! Why don't you collect me some Wheat and I'll bake us some lovely bread for dinner!",
+      "sample": "[03:03:02] [NPC] Sam: I have an idea! Why don't you collect me some Wheat and I'll bake us some lovely bread for dinner!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Come and talk to me when you've finished up on your Plot!",
+      "sample": "[03:00:02] [NPC] Sam: Come and talk to me when you've finished up on your Plot!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: To save you a bit of time, you can also use a preset farm at your desk!",
+      "sample": "[02:59:57] [NPC] Sam: To save you a bit of time, you can also use a preset farm at your desk!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Now you can grow crops you've unlocked there!",
+      "sample": "[02:59:54] [NPC] Sam: Now you can grow crops you've unlocked there!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Wow! It's squeaky clean over there, you did so well!",
+      "sample": "[02:59:51] [NPC] Sam: Wow! It's squeaky clean over there, you did so well!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I believe in you. Go make it sparkly clean!",
+      "sample": "[02:52:16] [NPC] Sam: I believe in you. Go make it sparkly clean!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Great, you found it!",
+      "sample": "[02:52:14] [NPC] Sam: Great, you found it!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: This Scythe will help you clean your plot even faster!",
+      "sample": "[02:51:33] [NPC] Sam: This Scythe will help you clean your plot even faster!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Also, here take this.",
+      "sample": "[02:51:31] [NPC] Sam: Also, here take this.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Head over to your unlocked plot and try to clean it up a bit and then come back to me once you've done so!",
+      "sample": "[02:51:25] [NPC] Sam: Head over to your unlocked plot and try to clean it up a bit and then come back to me once you've done so!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Now to the dirty part... the plot has to be cleaned up before it can be used...",
+      "sample": "[02:51:20] [NPC] Sam: Now to the dirty part... the plot has to be cleaned up before it can be used...",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Amazing!!! We got ourselves a brand new plot!",
+      "sample": "[02:51:16] [NPC] Sam: Amazing!!! We got ourselves a brand new plot!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: We can finally free up a plot! Take out the compost when you are ready!",
+      "sample": "[02:50:44] [NPC] Sam: We can finally free up a plot! Take out the compost when you are ready!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Oh the Composter is done!",
+      "sample": "[02:50:41] [NPC] Sam: Oh the Composter is done!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Great! Now, you can go open the composter and put the fuel in there, and it'll start doing... whatever it does!",
+      "sample": "[02:50:09] [NPC] Sam: §fGreat! Now, you can go open the composter and put the fuel in there, and it'll start doing... whatever it does!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Remember, you can order fuel from the Desk nearby.",
+      "sample": "[02:46:44] [NPC] Sam: Remember, you can order fuel from the §eDesk §fnearby.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Head over to the desk, there you can browse SkyMart to order some fuel.",
+      "sample": "[02:46:41] [NPC] Sam: §fHead over to the desk, there you can browse SkyMart to order some fuel.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: It needs machine fuel to operate... luckily we can order fuel online!",
+      "sample": "[02:46:36] [NPC] Sam: §fIt needs machine fuel to operate... luckily we can order fuel online!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: It produces Compost when you put crops inside of it... somehow... but that's what I need to increase the amount of plots we can have! So exciting!",
+      "sample": "[02:46:28] [NPC] Sam: §fIt produces Compost when you put crops inside of it... somehow... but that's what I need to increase the §lamount of plots §fwe can have! So exciting!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: You see this machine here...",
+      "sample": "[02:46:25] [NPC] Sam: §fYou see this machine here...",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Now I can finally produce some Compost... let's head inside!",
+      "sample": "[02:46:04] [NPC] Sam: §fNow I can finally produce some Compost... let's head inside!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Wow, you did it!",
+      "sample": "[02:46:03] [NPC] Sam: §fWow, you did it!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Come back with the right amount of items!",
+      "sample": "[02:45:45] [NPC] Sam: Come back with the right amount of items!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: For that however... I need some Compost... If you can bring me some Wheat, I can make some Compost out of it!",
+      "sample": "[02:45:40] [NPC] Sam: §fFor that however... I need some Compost... If you can bring me some Wheat, I can make some Compost out of it!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: You can come to me anytime you need help, but first let's clear out a plot to grow your crops.",
+      "sample": "[02:45:34] [NPC] Sam: §fYou can come to me anytime you need help, but first let's clear out a plot to grow your crops.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I am so excited to have you here!",
+      "sample": "[02:45:32] [NPC] Sam: §fI am so excited to have you here!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Wow!! Thank you so much. I'll bring you right there.",
+      "sample": "[02:45:15] [NPC] Sam: Wow!! Thank you so much. I'll bring you right there.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Could you help me out with my farm?",
+      "sample": "[02:45:13] [NPC] Sam: Could you help me out with my farm?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: That shouldn't be a problem for someone like you, right?",
+      "sample": "[03:03:08] [NPC] Sam: That shouldn't be a problem for someone like you, right?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Wow, that was quick! Here, take some fresh bread! *nom* *nom*",
+      "sample": "[03:04:48] [NPC] Sam: Wow, that was quick! Here, take some fresh bread! *nom* *nom*",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: It's pretty tasty. But it seems like we still have some dozen Wheat left over and our Composter is already full...",
+      "sample": "[03:04:52] [NPC] Sam: It's pretty tasty. But it seems like we still have some dozen Wheat left over and our Composter is already full...",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Oh, I have an idea! We could open a small stand and sell our Wheat to other people!",
+      "sample": "[03:04:55] [NPC] Sam: Oh, I have an idea! We could open a small stand and sell our Wheat to other people!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: It appears you don't have my souvenir yet. It would be such a shame to leave without it...",
+      "sample": "[03:54:00] [NPC] Researcher Gilbert: It appears you don't have my souvenir yet. It would be such a shame to leave without it...",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: As much of a dumping ground as this place is, it really feels like MY dumping ground, you know..?",
+      "sample": "[03:53:57] [NPC] Researcher Gilbert: As much of a dumping ground as this place is, it really feels like MY dumping ground, you know..?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: If it's not too much trouble, might you be able to fish me up a Busted Belt Buckle?",
+      "sample": "[03:53:54] [NPC] Researcher Gilbert: If it's not too much trouble, might you be able to fish me up a §9Busted Belt Buckle§f?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Say, I would like a souvenir to take on my travels, though, to remember this place by.",
+      "sample": "[03:53:51] [NPC] Researcher Gilbert: Say, I would like a souvenir to take on my travels, though, to remember this place by.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Amazing.",
+      "sample": "[03:53:48] [NPC] Researcher Gilbert: Amazing.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: I don't have a lot going on now, with retirement and all.",
+      "sample": "[03:53:45] [NPC] Researcher Gilbert: I don't have a lot going on now, with retirement and all.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Hmm, might I be so bold as to ask if I could join you on your adventures?",
+      "sample": "[03:53:43] [NPC] Researcher Gilbert: Hmm, might I be so bold as to ask if I could join you on your adventures?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Say, is that your Ship parked by the side of the island?",
+      "sample": "[03:53:39] [NPC] Researcher Gilbert: Say, is that your §6Ship §fparked by the side of the island?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Thank you!",
+      "sample": "[03:53:37] [NPC] Researcher Gilbert: Thank you!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Today marks the first day of my retirement!",
+      "sample": "[03:53:27] [NPC] Researcher Gilbert: Today marks the first day of my retirement!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Well, I was a researcher, I suppose.",
+      "sample": "[03:53:25] [NPC] Researcher Gilbert: Well, I §f§owas §fa researcher, I suppose.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: I'm a researcher who focuses upon the study of Frogs!",
+      "sample": "[03:53:23] [NPC] Researcher Gilbert: I'm a researcher who focuses upon the study of §2Frogs§f!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Hello!",
+      "sample": "[03:53:21] [NPC] Researcher Gilbert: Hello!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Captain Baha",
+      "source": "[NPC] Captain Baha: If you find someone that interests you, persuade them to join the crew!",
+      "sample": "[03:51:44] [NPC] Captain Baha: If you find someone that interests you, §apersuade §fthem to join the crew!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 3,
+      "speaker": "Beth",
+      "source": "[NPC] Beth: I'm getting really close to solving this mystery.",
+      "sample": "[05:09:20] [NPC] Beth: I'm getting really close to solving this mystery.",
+      "origin": "latest.log"
+    },
+    {
+      "pass": 2,
+      "speaker": "Captain Baha",
+      "source": "[NPC] Captain Baha: Use it to find NPCs who might want to join us on our adventure!",
+      "sample": "[03:51:41] [NPC] Captain Baha: Use it to find NPCs who might want to join us on our adventure!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Captain Baha",
+      "source": "[NPC] Captain Baha: I've given it some thought, and I think we should recruit some more sailors to help us out.",
+      "sample": "[03:51:36] [NPC] Captain Baha: I've given it some thought, and I think we should recruit some more sailors to help us out.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Captain Baha",
+      "source": "[NPC] Captain Baha: If you want to conquer the seven seas and be the first sailor to reach World's End, we're going to need a bigger crew!",
+      "sample": "[03:51:34] [NPC] Captain Baha: If you want to conquer the seven seas and be the first sailor to reach §5World's End§f, we're going to need a bigger §6crew§f!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Reach Fishing Level X and talk to Captain Baha on your Ship!",
+      "sample": "[03:50:29] [NPC] Researcher Gilbert: Reach §aFishing Level X §fand talk to §6Captain Baha §fon your §6Ship§f!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Researcher Gilbert",
+      "source": "[NPC] Researcher Gilbert: Come back and talk to me once you have unlocked the Ship Crew!",
+      "sample": "[03:50:27] [NPC] Researcher Gilbert: Come back and talk to me once you have unlocked the §6Ship Crew§f!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I'll head back outside now.",
+      "sample": "[03:06:41] [NPC] Sam: I'll head back outside now.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Besides that, you can always go check the desk to find out what to do next!",
+      "sample": "[03:06:36] [NPC] Sam: Besides that, you can always go check the desk to find out what to do next!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Keep checking back on them, I am sure more people will visit our farm soon.",
+      "sample": "[03:06:31] [NPC] Sam: Keep checking back on them, I am sure more people will visit our farm soon.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Wow we did it! We served our first customer!",
+      "sample": "[03:06:28] [NPC] Sam: Wow we did it! We served our first customer!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Jerry",
+      "source": "[NPC] Jerry: This is not my realm. I must return. Thank you.",
+      "sample": "[NPC] Jerry: §fThis is not my realm. I must return. Thank you.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Go ahead and talk to them to see what they need!",
+      "sample": "[03:05:48] [NPC] Sam: Go ahead and talk to them to see what they need!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Your first customer is right in front of you!",
+      "sample": "[03:05:45] [NPC] Sam: Your first customer is right in front of you!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Oh, we already have our first customer! How exciting, I wonder what they want! Can you check on them?",
+      "sample": "[03:05:43] [NPC] Sam: Oh, we already have our first customer! How exciting, I wonder what they want! Can you check on them?",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I think this spot would work perfectly!",
+      "sample": "[03:05:37] [NPC] Sam: §fI think this spot would work perfectly!",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 1,
+      "speaker": "Sam",
+      "source": "[NPC] Sam: We need to set up a stand somewhere...",
+      "sample": "[03:05:02] [NPC] Sam: We need to set up a stand somewhere...",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 2,
+      "speaker": "Captain Baha",
+      "source": "[NPC] Captain Baha: You can find the Ship Crew menu by talking to me.",
+      "sample": "[03:51:39] [NPC] Captain Baha: You can find the §6Ship Crew §fmenu by talking to me.",
+      "origin": "2026-10-10-3.log.gz"
+    },
+    {
+      "pass": 5,
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Hey, how are you doing with the Greenhouse? That blueprint was complex.",
+      "sample": "[NPC] Carpenter: Hey, how are you doing with the Greenhouse? That blueprint was complex.",
+      "origin": "latest.log"
+    }
+  ]
+}

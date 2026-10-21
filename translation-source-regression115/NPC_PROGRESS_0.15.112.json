@@ -1,0 +1,53 @@
+{
+  "version": "0.15.112-dev",
+  "runtime_jar_sha256": "866E0C2277F876229F4EFA98C388CE942F8E548181EDDBDC0FEB96A91AA0095B",
+  "exact_keys": 13744,
+  "total_frozen": 16244,
+  "exact_percent": 84.60970204383158,
+  "without_exact_key": 2500,
+  "new_exact_keys": 482,
+  "new_npc_literals": 2,
+  "new_system_literals": 480,
+  "new_cosmetic_notifications": 295,
+  "new_other_messages": 187,
+  "new_archival_system_literals": 5,
+  "static_choice_groups_unchanged": 345,
+  "prior_name_templates103": 135,
+  "fresh_test_groups": 185,
+  "parser_tests": 15,
+  "new_assertions": 2515395,
+  "primary_cases": 482,
+  "published_layouts": 507,
+  "pinned_pages": 85,
+  "historical_test_sources_unchanged": 290,
+  "isolated_expectation_files": 36,
+  "fixed_pet_literal_negative_upgrades": 2,
+  "byte_identical_runtime_classes": 124,
+  "startup_method_edits_only": {
+    "ru.wither.skyru.NpcDialogueTranslator": [
+      "public static ru.wither.skyru.NpcDialogueTranslator storyDialogues() throws java.io.IOException;",
+      "public static ru.wither.skyru.NpcDialogueTranslator questObjectives() throws java.io.IOException;"
+    ]
+  },
+  "hot_methods_unchanged": true,
+  "performance_not_fps": {
+    "scope": "Isolated chat receipt,not FPS/frame time/0.1% low. New useful translations are not equal-work baseline calls.",
+    "modes": 15,
+    "both_orders_slower_over5": [],
+    "min_wall_change_percent": -4.9879719804820315,
+    "max_wall_change_percent": 5.043896541736181,
+    "max_absolute_allocation_delta_bytes": 48.0,
+    "all_raw_retained": true
+  },
+  "long_performance_not_fps": {
+    "scope": "Isolated chat receipt,not FPS/frame time/0.1% low. New useful translations are not equal-work baseline calls.",
+    "modes": 3,
+    "both_orders_slower_over5": [],
+    "min_wall_change_percent": -1.196398295826273,
+    "max_wall_change_percent": 4.221513440586211,
+    "max_absolute_allocation_delta_bytes": 80.0,
+    "all_raw_retained": true
+  },
+  "installed_pack_modified": false,
+  "game_fps_measured": false
+}

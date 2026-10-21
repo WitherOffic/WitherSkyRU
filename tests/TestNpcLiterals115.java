@@ -1,0 +1,63 @@
+import java.nio.file.*;
+import java.util.*;
+import com.google.gson.*;
+import ru.wither.skyru.*;
+import net.minecraft.network.chat.*;
+import net.minecraft.client.multiplayer.chat.*;
+import net.minecraft.util.StringDecomposer;
+
+/** Published alternate layouts with current actions; old plans tested independently by old suites. */
+public final class TestNpcLiterals115 {
+    private static int checks;
+    private static final LinkedHashMap<String,OfflineDictionary> fixtureDictionaries=new LinkedHashMap<>(16,.75f,true);
+    private static int fixtureNumber;
+    private static OfflineDictionary fixtureDictionary(Path root,String key,String value)throws Exception{
+        String identity=key+"\t"+value;var saved=fixtureDictionaries.get(identity);if(saved!=null)return saved;
+        var path=root.resolve("pooled-override-"+(fixtureNumber++));Files.createDirectories(path);Files.writeString(path.resolve("overrides.tsv"),identity+"\n");
+        var db=new OfflineDictionary(path);db.setRecordUnknown(false);fixtureDictionaries.put(identity,db);
+        if(fixtureDictionaries.size()>8)fixtureDictionaries.remove(fixtureDictionaries.keySet().iterator().next());return db;
+    }
+
+    private static int prefix(String value){int p=value.startsWith("[NPC] ")?value.indexOf(": ")+2:0;return value.startsWith("✆ ",p)?p+2:p;}
+    private static void check(boolean value,String why){if(!value)throw new AssertionError(why);checks++;}
+    private static void flag(String key,Object value)throws Exception{var f=SkyRuClient.class.getDeclaredField(key);f.setAccessible(true);f.set(null,value);}
+    private static String plain(Component input){var out=new StringBuilder();StringDecomposer.iterateFormatted(input,Style.EMPTY,(i,s,p)->{out.appendCodePoint(p);return true;});return out.toString();}
+    private static List<Style> styles(Component input){var out=new ArrayList<Style>();StringDecomposer.iterateFormatted(input,Style.EMPTY,(i,s,p)->{for(int n=0;n<Character.charCount(p);n++)out.add(s);return true;});return out;}
+    private static GuiMessage message(Component value,GuiMessageSource channel){return new GuiMessage(0,value,null,channel,null);}
+    private static Component queued(Component input){return SkyRuClient.npcChat(message(input,GuiMessageSource.SYSTEM_SERVER)).content();}
+    private static int position(String text,JsonObject anchor,String side,int prefix){String term=anchor.get(side).getAsString();boolean whole=anchor.has("whole_word")&&anchor.get("whole_word").getAsBoolean();var pattern=java.util.regex.Pattern.compile((whole?"(?U)(?<![\\p{L}\\p{N}_])":"")+java.util.regex.Pattern.quote(term)+(whole?"(?![\\p{L}\\p{N}_])":""));var m=pattern.matcher(text);m.region(prefix,text.length());var matches=new ArrayList<Integer>();while(m.find())matches.add(m.start());int ordinal=anchor.has(side+"_occurrence")?anchor.get(side+"_occurrence").getAsInt():0;check(ordinal>0?matches.size()>=ordinal:matches.size()==1,"independent semantic occurrence");return ordinal>0?matches.get(ordinal-1):matches.getFirst();}
+    private static JsonArray anchors(String value){var parsed=JsonParser.parseString(value);if(parsed.isJsonArray())return parsed.getAsJsonArray();var out=new JsonArray();for(var entry:parsed.getAsJsonObject().entrySet()){var a=new JsonObject();a.addProperty("source",entry.getKey());a.addProperty("target",entry.getValue().getAsString());out.add(a);}return out;}
+    private static Component modern(String legacy,int seed,boolean fragments,String time,String suffix){var original=Component.literal(legacy);String text=plain(original);var appearance=styles(original);var out=Component.literal(time).setStyle(Style.EMPTY.withColor(0x112233).withInsertion("timestamp "+seed));int prefix=prefix(text);
+        for(int at=0;at<text.length();){int end=at+1;while(end<text.length()&&appearance.get(end).equals(appearance.get(at)))end++;if(at<prefix&&end>prefix)end=prefix;int token=at<prefix?0:appearance.get(at).getColor()==null?1:appearance.get(at).getColor().getValue();var style=appearance.get(at).withShadowColor(seed).withInsertion("fresh-style105 "+seed+"/"+token).withClickEvent(new ClickEvent.RunCommand("/unchanged-style105 "+seed+"/"+token)).withHoverEvent(new HoverEvent.ShowText(Component.literal("hint105 "+seed+"/"+token)));for(int a=at;a<end;){int b=fragments?Math.min(a+7,end):end;out.append(Component.literal(text.substring(a,b)).setStyle(style));a=b;}at=end;}
+        return out.append(Component.literal(suffix).setStyle(Style.EMPTY.withColor(0x334455).withInsertion("repeat "+seed)));
+    }
+    private static void numeric(Component source,Component target){var a=java.util.regex.Pattern.compile("[0-9]+").matcher(plain(source));var b=java.util.regex.Pattern.compile("[0-9]+").matcher(plain(target));var x=styles(source);var y=styles(target);while(a.find()){check(b.find()&&a.group().equals(b.group()),"no numeric edits");check(x.subList(a.start(),a.end()).equals(y.subList(b.start(),b.end())),"numeric current actions/styles");}check(!b.find(),"no invented numbers");}
+    public static void main(String[] args)throws Exception{
+        var config=Path.of(args[0]);var sourceRoot=Path.of(args[1]);var db=new OfflineDictionary(config);db.setRecordUnknown(false);var story=NpcDialogueTranslator.questObjectives();check(story.phraseCount()==3909,"2341 retained plus1568 finite records");
+        flag("dictionary",db);flag("enabled",true);flag("onlyHypixel",false);flag("translateNpcChat",true);flag("translateGameChat",true);check(NpcDialogueTranslator.storyDialogues().phraseCount()==10799,"10761 retained plus2 NPC literals");flag("storyDialogues",NpcDialogueTranslator.storyDialogues());flag("questObjectives",story);flag("npcDialogues",new NpcDialogueTranslator());flag("gardenDialogues",NpcDialogueTranslator.gardenDialogues());flag("questDialogues",NpcDialogueTranslator.questDialogues());flag("winterDialogues",NpcDialogueTranslator.winterDialogues());flag("chatNotifications",new ChatNotificationTranslator(db));
+        TestNpcNumbers115.verifyAuthored(sourceRoot);
+        var frozen=JsonParser.parseString(Files.readString(sourceRoot.resolve("NPC_RECOVERY_CASES_0.15.115.json"))).getAsJsonObject().getAsJsonArray("cases");
+        int count=0;var tested=new HashSet<String>();
+        for(var rawCase:frozen){var previous=rawCase.getAsJsonObject();String source=previous.get("source").getAsString(),target=previous.get("translation").getAsString(),legacy=previous.get("legacy").getAsString();check(tested.add(source+"/"+previous.get("kind").getAsString()),"unique source/layout pair");check(plain(Component.literal(legacy)).equals(source),"published complete source");var definitions=previous.getAsJsonArray("style_anchors");
+            for(int seed=1;seed<=2;seed++)for(boolean fragments:List.of(false,true))for(String time:List.of("","[04:05:06] "))for(String suffix:List.of(""," (x17)")){
+                var input=modern(legacy,seed,fragments,time,suffix);var output=queued(input);if(source.startsWith("[NPC] ")&&!List.of("","[04:05:06] ").contains(time)){check(output==input,"unsupported NPC padding intentionally declined");check(plain(input).equals(time+source+suffix),"negative source immutable");continue;}check(plain(output).equals(time+target+suffix),"alternate published layout: "+source+" => "+plain(output));check(plain(input).equals(time+source+suffix),"source immutable");check(queued(output)==output,"idempotent object");numeric(input,output);int prefix=prefix(source);check(styles(input).subList(0,time.length()+prefix).equals(styles(output).subList(0,time.length()+prefix)),"prefix identity/current actions preserved");
+                for(var raw:definitions){var a=raw.getAsJsonObject();int x=time.length()+position(source,a,"source",prefix),y=time.length()+position(target,a,"target",prefix);String from=a.get("source").getAsString(),to=a.get("target").getAsString();var xs=styles(input);var ys=styles(output);if(from.equals(to)){check(xs.subList(x,x+from.length()).equals(ys.subList(y,y+to.length())),"copy-only current fragment styles");}else for(int n=0;n<to.length();n++)check(ys.get(y+n).equals(xs.get(x)),"semantic current highlight/command copied: "+from+" in "+source);}
+                var originalStyles=styles(input);var translatedStyles=styles(output);
+                var expected=new HashMap<Integer,Style>();var covered=new HashSet<Integer>();
+                for(var raw:definitions){var a=raw.getAsJsonObject();int x=position(source,a,"source",prefix),y=position(target,a,"target",prefix);String from=a.get("source").getAsString(),to=a.get("target").getAsString();for(int n=0;n<from.length();n++)covered.add(x+n);for(int n=0;n<to.length();n++)expected.put(y+n,originalStyles.get(time.length()+x+(from.equals(to)?n:0)));}
+                Style base=null;for(int n=prefix;n<source.length();n++)if(!covered.contains(n)&&!Character.isWhitespace(source.charAt(n))){base=originalStyles.get(time.length()+n);break;}if(base==null)base=originalStyles.get(time.length()+prefix);
+                for(int n=prefix;n<target.length();n++)check(translatedStyles.get(time.length()+n).equals(expected.getOrDefault(n,base)),"every translated glyph keeps current semantic style/actions: "+source+" @"+n);
+                if(!suffix.isEmpty())check(styles(input).subList(plain(input).length()-suffix.length(),plain(input).length()).equals(styles(output).subList(plain(output).length()-suffix.length(),plain(output).length())),"repeat counter current appearance");
+                for(var channel:List.of(GuiMessageSource.PLAYER,GuiMessageSource.SYSTEM_CLIENT)){var m=message(input,channel);check(SkyRuClient.npcChat(m)==m,"protected channel");}
+            }
+            for(var raw:definitions){String term=raw.getAsJsonObject().get("source").getAsString();flag("dictionary",fixtureDictionary(config,term,"Мой термин"));var input=modern(legacy,5,false,"","");check(term.startsWith("#")?plain(queued(input)).equals(target):queued(input)==input,"TSV comment keys are not overrides;recordable semantic overrides win: "+term);flag("dictionary",db);}
+            var flat=Component.literal(source);check(plain(queued(flat)).equals(target),"authored114 locations/headers flat target");
+            flag("dictionary",fixtureDictionary(config,source,"Мой текст"));var input=modern(legacy,6,false,"","");check(queued(input)==input,"full source override wins");flag("dictionary",db);flag("translateGameChat",false);check(source.startsWith("[NPC] ")?plain(queued(input)).equals(target):queued(input)==input,"tag-scoped game switch");flag("translateGameChat",true);flag("translateNpcChat",false);check(source.startsWith("[NPC] ")?queued(input)==input:plain(queued(input)).equals(target),"tag-scoped NPC switch");flag("translateNpcChat",true);var signed=new GuiMessage(0,input,new MessageSignature(new byte[256]),GuiMessageSource.SYSTEM_SERVER,null);check(SkyRuClient.npcChat(signed)==signed,"signed source protected");count++;
+        }
+        check(count==70,"35 recovered complete NPC messages,primary and publication layouts");
+        var input=Component.literal("Your ").setStyle(Style.EMPTY.withColor(0x123456)).append(Component.literal("armadillo is full of energy!").setStyle(Style.EMPTY.withColor(0x654321)));check(story.translate(input,db)==input,"unreviewed semantic split not guessed");
+        for(String value:List.of("[NPC] Unknown: Your armadillo is full of energy!","[VIP] Player: Your armadillo is full of energy!","Future system notification not yet published.","[04:05] Your armadillo is full of energy!","Your armadillo is full of energy! (y17)")){var original=Component.literal(value);check(queued(original)==original,"unknown source/prefix/counter not guessed");}
+        var translatable=Component.translatable("unknown.system107","Your armadillo is full of energy!");check(story.translate(translatable,db)==translatable,"non-literal tree protected");
+        System.out.println("PASS: NPC_LITERALS115 "+checks+" assertions;224 locations+1344 finite envelopes;70 primary/published fixtures,current semantic colors/actions,numeric values,counters,timestamps,fragmentation,overrides,protected channels and unknown-style decline;not all live layouts/FPS");
+    }
+}

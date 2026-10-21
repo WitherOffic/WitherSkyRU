@@ -1,0 +1,6 @@
+{
+  "scope": "Existing numeric NPC notification handler already owns this published source; do not count it as a new translation or shadow it with a different wording.",
+  "records": [
+    {"source":"[NPC] Lucius: You've purchased 7 items from the Dark Auction.","existing_target":"[NPC] Lucius: Ты купил 7 предметов на Тёмном аукционе.","handled_by":"existing ChatNotificationTranslator NPC purchase counter","evidence":"current actual dispatch;frozen73 dispatch rechecked separately"}
+  ]
+}

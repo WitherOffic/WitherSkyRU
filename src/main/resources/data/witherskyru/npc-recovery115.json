@@ -1,0 +1,422 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "35 fixed source-backed messages,including31 archival Hub tutorial lines. Source delimiter repairs are offline only.",
+  "records": [
+    {
+      "source": "[NPC] Generow: Click to claim your reward!",
+      "translation": "[NPC] Generow: Нажми, чтобы забрать награду!",
+      "speaker": "Generow",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Generow?oldid=817841",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Andrew: This game is still under heavy development, don't forget to check the forums often for updates!",
+      "translation": "[NPC] Andrew: Игра ещё активно разрабатывается. Не забывай заглядывать на форумы и следить за обновлениями!",
+      "speaker": "Andrew",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "forums",
+          "target": "форумы"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Andrew: If you'd like to discuss SkyBlock with other players then check out the SkyBlock section of the forums!",
+      "translation": "[NPC] Andrew: Хочешь обсудить SkyBlock с другими игроками? Загляни в раздел SkyBlock на форумах!",
+      "speaker": "Andrew",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "forums",
+          "target": "форумах"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jack: Your SkyBlock Profile in your SkyBlock Menu shows details about your current stats!",
+      "translation": "[NPC] Jack: Твой профиль SkyBlock в меню SkyBlock содержит подробные сведения о твоих характеристиках!",
+      "speaker": "Jack",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Profile",
+          "target": "профиль SkyBlock"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jack: There are 7 stats in total, including ❤ Health, ❁ Strength, and ❈ Defense.",
+      "translation": "[NPC] Jack: Всего есть 7 характеристик, в том числе ❤ Здоровье, ❁ Сила и ❈ Защита.",
+      "speaker": "Jack",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "❤ Health",
+          "target": "❤ Здоровье"
+        },
+        {
+          "source": "❁ Strength",
+          "target": "❁ Сила"
+        },
+        {
+          "source": "❈ Defense",
+          "target": "❈ Защита"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jack: Equipped armor, weapons, and accessories in your inventory all improve your stats.",
+      "translation": "[NPC] Jack: Надетая броня, оружие и аксессуары в инвентаре улучшают твои характеристики.",
+      "speaker": "Jack",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jack: Additionally, leveling your Skills can permanently boost some of your stats!",
+      "translation": "[NPC] Jack: Кроме того, повышение уровня навыков может навсегда улучшить некоторые характеристики!",
+      "speaker": "Jack",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jack: The higher your ❤ Health stat, the faster your health will regenerate!",
+      "translation": "[NPC] Jack: Чем выше твоё ❤ Здоровье, тем быстрее оно восстанавливается!",
+      "speaker": "Jack",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "❤ Health",
+          "target": "❤ Здоровье"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jamie: You might have noticed that you have a Mana bar!",
+      "translation": "[NPC] Jamie: Наверное, ты уже заметил полоску маны!",
+      "speaker": "Jamie",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jamie: Some items have mysterious properties, called Abilities.",
+      "translation": "[NPC] Jamie: У некоторых предметов есть загадочные свойства — способности.",
+      "speaker": "Jamie",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jamie: Abilities use your Mana as a resource. Here, take this Rogue Sword. I don't need it!",
+      "translation": "[NPC] Jamie: Способности расходуют ману. Держи этот меч разбойника — мне он не нужен!",
+      "speaker": "Jamie",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Tom: I will teach you the Promising Axe Recipe to get you started!",
+      "translation": "[NPC] Tom: Для начала я научу тебя рецепту перспективного топора!",
+      "speaker": "Tom",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "Promising Axe Recipe",
+          "target": "рецепту перспективного топора"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Tom: All SkyBlock recipes can be found by opening the Recipe Book in your SkyBlock Menu.",
+      "translation": "[NPC] Tom: Все рецепты SkyBlock можно найти в книге рецептов, которая открывается через меню SkyBlock.",
+      "speaker": "Tom",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "Recipe Book ",
+          "target": "книге рецептов"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Leo: You can unlock Leaflet Armor by progressing through your Oak Log Collection.",
+      "translation": "[NPC] Leo: Продвигаясь по коллекции дубовых брёвен, ты сможешь открыть лиственную броню.",
+      "speaker": "Leo",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "Leaflet Armor",
+          "target": "лиственную броню"
+        },
+        {
+          "source": "Oak Log Collection",
+          "target": "коллекции дубовых брёвен"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Leo: There is a Forest west of the Village where you can gather Oak Logs.",
+      "translation": "[NPC] Leo: К западу от Деревни находится Лес, где можно собирать дубовые брёвна.",
+      "speaker": "Leo",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "Forest",
+          "target": "Лес"
+        },
+        {
+          "source": "Village",
+          "target": "Деревни"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Leo: To check your Collection progress and rewards, open the Collection Menu in your SkyBlock Menu.",
+      "translation": "[NPC] Leo: Чтобы посмотреть прогресс коллекций и награды, открой меню коллекций через меню SkyBlock.",
+      "speaker": "Leo",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "Collection Menu",
+          "target": "меню коллекций"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Felix: You can access your Ender Chest in your SkyBlock Menu.",
+      "translation": "[NPC] Felix: Открыть эндер-сундук можно через меню SkyBlock.",
+      "speaker": "Felix",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "Ender Chest",
+          "target": "эндер-сундук"
+        },
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Felix: Store items in this chest and access them at any time!",
+      "translation": "[NPC] Felix: Храни вещи в этом сундуке и получай к ним доступ в любое время!",
+      "speaker": "Felix",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Duke: Are you new here? As you can see there is a lot to explore!",
+      "translation": "[NPC] Duke: Ты здесь впервые? Как видишь, тут есть что исследовать!",
+      "speaker": "Duke",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Duke: My advice is to start by visiting the Farm, or the Coal Mine both North of here.",
+      "translation": "[NPC] Duke: Советую начать с Фермы или Угольной шахты — обе находятся к северу отсюда.",
+      "speaker": "Duke",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "Farm",
+          "target": "Фермы"
+        },
+        {
+          "source": "Coal Mine",
+          "target": "Угольной шахты"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Duke: If you do need some wood, the best place to get some is West of the Village!",
+      "translation": "[NPC] Duke: Если нужна древесина, лучше всего отправиться к западу от Деревни!",
+      "speaker": "Duke",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "Village",
+          "target": "Деревни"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Stella: At any time you can create a Co-op with your friends!",
+      "translation": "[NPC] Stella: Ты в любой момент можешь создать совместный профиль с друзьями!",
+      "speaker": "Stella",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Stella: Simply go in your SkyBlock Menu where you can find the Profile Menu.",
+      "translation": "[NPC] Stella: Просто открой меню SkyBlock и найди там меню профилей.",
+      "speaker": "Stella",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        },
+        {
+          "source": "Profile Menu",
+          "target": "меню профилей"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Stella: This is where you can create, delete or switch SkyBlock Profiles.",
+      "translation": "[NPC] Stella: Здесь можно создавать, удалять и переключать профили SkyBlock.",
+      "speaker": "Stella",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Stella: Enter /coop followed by the name of all the friends you want to invite!",
+      "translation": "[NPC] Stella: Введи /coop, а затем имена всех друзей, которых хочешь пригласить!",
+      "speaker": "Stella",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "/coop",
+          "target": "/coop"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Stella: All your friends have to be online to accept!",
+      "translation": "[NPC] Stella: Чтобы принять приглашение, все твои друзья должны быть в сети!",
+      "speaker": "Stella",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Vex: You can shift click any player to trade with them!",
+      "translation": "[NPC] Vex: Чтобы предложить обмен, нажми на игрока, удерживая Shift!",
+      "speaker": "Vex",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Vex: Make sure you don't give away all of your belongings!",
+      "translation": "[NPC] Vex: Только не отдай всё своё имущество!",
+      "speaker": "Vex",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Vex: You can disable Player Trading your SkyBlock Settings!",
+      "translation": "[NPC] Vex: Ты можешь отключить обмен между игроками в настройках SkyBlock!",
+      "speaker": "Vex",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "SkyBlock",
+          "target": "SkyBlock"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Vex: Your settings can found in the SkyBlock Menu.",
+      "translation": "[NPC] Vex: Настройки находятся в меню SkyBlock.",
+      "speaker": "Vex",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "SkyBlock Menu",
+          "target": "меню SkyBlock"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Liam: One day those houses in the Village will be rentable for Coins!",
+      "translation": "[NPC] Liam: Когда-нибудь эти дома в Деревне можно будет арендовать за монеты!",
+      "speaker": "Liam",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Liam: Anyone will be able to rent them, players, co-ops, even Guilds!",
+      "translation": "[NPC] Liam: Арендовать их сможет кто угодно: игроки, участники совместных профилей и даже гильдии!",
+      "speaker": "Liam",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jerry: Your SkyBlock island is part of a much larger universe... [1/2]",
+      "translation": "[NPC] Jerry: Твой остров SkyBlock — часть гораздо большей вселенной... [1/2]",
+      "speaker": "Jerry",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jerry?oldid=855973",
+      "style_anchors": [
+        {
+          "source": "[1/2]",
+          "target": "[1/2]"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Jerry: Wait, how did I get here? [2/2]",
+      "translation": "[NPC] Jerry: Постой, как я сюда попал? [2/2]",
+      "speaker": "Jerry",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jerry?oldid=855973",
+      "style_anchors": [
+        {
+          "source": "[2/2]",
+          "target": "[2/2]"
+        }
+      ],
+      "tag": "NPC"
+    },
+    {
+      "source": "[NPC] Mayor Nancy: Hi|",
+      "translation": "[NPC] Mayor Nancy: Привет|",
+      "speaker": "Mayor Nancy",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Nancy?oldid=789830",
+      "style_anchors": [],
+      "tag": "NPC"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+# Closed reviewed numeric variants. Exact pairs and user overrides remain higher priority.
+^Mine ([\d,._ ]+) Mithril in the Dwarven Mines\.?$	Добудьте $1 ед. мифрила в Дварфских шахтах.
+^Mine ([\d,._ ]+) Titanium in the Dwarven Mines\.?$	Добудьте $1 ед. титана в Дварфских шахтах.
+^Mine ([\d,._ ]+) Mithril\.?$	Добудьте $1 ед. мифрила.
+^Mine ([\d,._ ]+) Titanium\.?$	Добудьте $1 ед. титана.
+^Collect ([\d,._ ]+) Mithril\.?$	Соберите $1 ед. мифрила.
+^Collect ([\d,._ ]+) Titanium\.?$	Соберите $1 ед. титана.
+^The composter must have ([\d,.]+)$	Компостеру нужно $1
+^Grants \+([0-9]+(?:[.,][0-9]+)?) Tuning Points\.$	Даёт +$1 очков настройки.
+^Teleport ([0-9]+) blocks ahead of you\.$	Телепортирует на $1 блоков вперёд.
+^Each click allows you to climb ([0-9]+) blocks, up to ([0-9]+)\.$	Каждое нажатие поднимает вас на $1 блоков, максимум — $2.
+^Each click allows you to climb ([0-9]+) blocks, up to$	Каждое нажатие поднимает вас на $1 блоков, максимум —
+^Every ([0-9]+) pet levels, you gain \+1([^A-Za-zА-Яа-яЁё0-9\r\n]{0,12})$	За повышение уровня питомца на $1 уровней вы получаете +1$2
+^Grants \+([0-9]+(?:[.,][0-9]+)?) ☘ Farming$	Даёт +$1 ☘ Фермерство
+^Grants \+([0-9]+(?:[.,][0-9]+)?) ☘ Mining$	Даёт +$1 ☘ Горное дело
+^Grants \+([0-9]+(?:[.,][0-9]+)?)([^A-Za-zА-Яа-яЁё0-9\r\n]{0,12})Hunting Fortune(\.?)$	Даёт +$1$2удачи охоты$3
+^Grants \+([0-9]+(?:[.,][0-9]+)?)([^A-Za-zА-Яа-яЁё0-9\r\n]{0,12})Social Wisdom\.$	Даёт +$1$2мудрости общения.
+^Grants \+(\{[^}]+\}|[0-9]+(?:[.,][0-9]+)?)([^A-Za-zА-Яа-яЁё0-9\r\n]{0,12})Dwarven Metal Fortune\.$	Даёт +$1$2удачи добычи дварфских металлов.
+^Your Critter Capsules are ([0-9]+(?:[.,][0-9]+)?)% more$	Ваши капсулы зверьков на $1% чаще
+^Maximum Capacity: ([0-9]+) Pests$	Максимальная вместимость: $1 вредителей
+^While active, ([^A-Za-zА-Яа-яЁё0-9\r\n]{0,12})Pests will take ([0-9]+(?:[.,][0-9]+)?)x as$	Пока действует, $1вредителям требуется в $2 раз больше времени
+^Field Mice are ([0-9]+(?:[.,][0-9]+)?)x more likely to be$	Полевые мыши в $1 раз чаще
+^Breathe ([0-9]+(?:[.,][0-9]+)?)x as long underwater when$	Позволяет дышать под водой в $1 раз дольше, когда
+^Hold SHIFT for stack total \(([\d,]+) items?\)$	Удерживайте Shift: итог стопки ($1 шт.)
+^for stack total \(([\d,]+) items?\)$	для итога стопки ($1 шт.)
+^([\d,]+) items?\)$	$1 шт.)
+^\(([\d,.]+[kKmMbB]?) each\)$	($1 за шт.)
+^([\d,.]+[kKmMbB]?) \(([\d,.]+[kKmMbB]?) each\)$	$1 ($2 за шт.)
+^SPARKLING ([^A-Za-zА-Яа-яЁё0-9\r\n]{0,12})Critters by ([0-9]+(?:[.,][0-9]+)?)x\.$	СВЕРКАЮЩИХ $1зверьков в $2 раз.
+# Reviewed full cooldown labels. Never replace lone s/m/h in user input.
+^Cooldown: ([0-9]{1,6}(?:\.[0-9]{1,6})?)s$	Перезарядка: $1 с
+^Time Between Actions: ([0-9]{1,6}(?:\.[0-9]{1,6})?|[1-9][0-9]{0,2}(?:,[0-9]{3}){1,2}(?:\.[0-9]{1,6})?)(?:s| seconds)$	Интервал действий: $1 с
+^Cooldown: ([0-9]{1,6}(?:\.[0-9]{1,6})?)m$	Перезарядка: $1 мин
+^Cooldown: ([0-9]{1,6}(?:\.[0-9]{1,6})?)(?:h| hours)$	Перезарядка: $1 ч

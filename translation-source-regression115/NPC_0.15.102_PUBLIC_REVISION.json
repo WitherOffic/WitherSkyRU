@@ -1,0 +1,2090 @@
+{
+  "checked_at": "2026-10-19T19:07:59.440484+07:00",
+  "api_urls": [
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Aatrox%7CAlabaster%7CArgofay+Bugshopper%7CArgofay+Doorholder%7CArgofay+Serialbather%7CArgofay+Tencounter%7CArgofay+Trailblazer%7CAshera%7CAutonull+%28NPC%29%7CBartender%7CBelanor%7CBingo+%28NPC%29%7CBlobbercyst+%28NPC%29%7CBob%7CBrigette%7CBruto%7CBrynmor%7CBubu%7CBylma%7CCalvin%7CCampfire+Initiate%7CCarly%7CCarnival+Leader%7CCarpenter%7CCarrot+King+Avatar%7CCashier%7CChester%7CChicken+%28NPC%29%7CChristopher%7CCole&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Counsellor%7CCow+%28NPC%29%7CCult+of+the+Fallen+Star%7CCyndarin%7CDackinoru%7CDante+Goon%7CDark+Auction%7CDarr%7CDeer%7CDeng%7CDesperate+Engineer%7CDiana%7CDiaz%7CDr.+Phear%7CElle%7CEmissaries%7CFinance+Rabbit%7CFinnegan%7CFinplex%7CFisherman+Gerald%7CForager+Daniel%7CForager+Rowan%7CForast%7CForger%7CFoxy%7CFrosty%7CFrozen+Alex%7CGarlacius%7CGenerow%7CGhost+of+Armorsmith&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Gladiator%7CGolden+Dragon%7CGrandma%7CGregory%7CGwendolyn%7CGwynnie%7CHilda%7CHoppity%7CHub+Villagers%7CHunter+Ava%7CHunter+Jean%7CHunter+McNeil%7CHuntress+Alissa%7CHusbandry+Merchant%7CIron+Forger%7CIvan%7CIvy%7CJeff%7CJimmy%7CKalhuiki+Door+Guardian%7CKuudra+Archeologist%7CLazarus%7CLonely+Philosopher%7CLost+Wizard%7CLucius%7CLudleth%7CMaggie%7CMarina%7CMarthos%7CMartin&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Maths+Enjoyer%7CMaxim%7CMelancholic+Viking%7CMino%7CMotes+Grubber%7CNancy%7CNene%7CNoway%7COld+Shaman+Nyko%7CPaul%7CPest+Wrangler%7CPest+Wrangler%3F%7CPesthunter+Phillip%7CPhaser%7CPiglin+Guard%7CPorhtal%7CRabbit+Security%7CRavenous+Rhino%7CResearcher+Betty%7CResearcher+Jade%7CResearcher+Jessica%7CResearcher+Kay%7CResearcher+Tay%7CResearcher+Timmy%7CResearcher+Tina%7CResident+Neighbor%7CResistance+Leader%7CRhanora%7CRoger%7CRomero&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Roosterzilla%7CRusty%7CSafari+Shill%7CSalesman%7CSalvage+Old+Attributes%7CScorpius%7CScout+Scardius%7CSheep+%28NPC%29%7CSherry%7CShifty%7CSick+Farmer%7CSirius%7CSkylark%7CSt.+Jerry%7CThe+Lotus+Eater%7CUgo%7CUnbound+Explorer%7CUvia%7CVanessa%7CVargul+the+Unearthed%7CVesuvius%7CVinyl+Collector%7CVreike%7CWeaponsmith%7CWool+Weaver%7CYoshua%7CYrreJ%7CZiri&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2"
+  ],
+  "matches_pinned_corpus": false,
+  "expected": {
+    "Aatrox": 842882,
+    "Alabaster": 812492,
+    "Argofay Bugshopper": 815463,
+    "Argofay Doorholder": 786753,
+    "Argofay Serialbather": 815464,
+    "Argofay Tencounter": 786756,
+    "Argofay Trailblazer": 786759,
+    "Ashera": 812562,
+    "Autonull (NPC)": 828102,
+    "Bartender": 830399,
+    "Belanor": 812656,
+    "Bingo (NPC)": 815507,
+    "Blobbercyst (NPC)": 828103,
+    "Bob": 787567,
+    "Brigette": 843624,
+    "Bruto": 812774,
+    "Brynmor": 858838,
+    "Bubu": 856555,
+    "Bylma": 787705,
+    "Calvin": 857885,
+    "Campfire Initiate": 812807,
+    "Carly": 787743,
+    "Carnival Leader": 815559,
+    "Carpenter": 823112,
+    "Carrot King Avatar": 812832,
+    "Cashier": 787764,
+    "Chester": 812870,
+    "Chicken (NPC)": 828106,
+    "Christopher": 787838,
+    "Cole": 855335,
+    "Counsellor": 823138,
+    "Cow (NPC)": 828105,
+    "Cult of the Fallen Star": 843725,
+    "Cyndarin": 788011,
+    "Dackinoru": 813016,
+    "Dante Goon": 859382,
+    "Dark Auction": 853971,
+    "Darr": 815649,
+    "Deer": 821435,
+    "Deng": 788079,
+    "Desperate Engineer": 813064,
+    "Diana": 815664,
+    "Diaz": 856138,
+    "Dr. Phear": 788145,
+    "Elle": 830430,
+    "Emissaries": 823096,
+    "Finance Rabbit": 788585,
+    "Finnegan": 844132,
+    "Finplex": 813368,
+    "Fisherman Gerald": 823116,
+    "Forager Daniel": 828507,
+    "Forager Rowan": 828508,
+    "Forast": 788675,
+    "Forger": 788682,
+    "Foxy": 788690,
+    "Frosty": 813463,
+    "Frozen Alex": 830437,
+    "Garlacius": 813498,
+    "Generow": 817841,
+    "Ghost of Armorsmith": 859451,
+    "Gladiator": 788845,
+    "Golden Dragon": 851594,
+    "Grandma": 813611,
+    "Gregory": 845369,
+    "Gwendolyn": 823095,
+    "Gwynnie": 813658,
+    "Hilda": 789086,
+    "Hoppity": 857890,
+    "Hub Villagers": 852321,
+    "Hunter Ava": 843516,
+    "Hunter Jean": 837484,
+    "Hunter McNeil": 828555,
+    "Huntress Alissa": 828559,
+    "Husbandry Merchant": 806107,
+    "Iron Forger": 827790,
+    "Ivan": 789231,
+    "Ivy": 789232,
+    "Jeff": 823111,
+    "Jimmy": 843502,
+    "Kalhuiki Door Guardian": 823097,
+    "Kuudra Archeologist": 813890,
+    "Lazarus": 813926,
+    "Lonely Philosopher": 858604,
+    "Lost Wizard": 789478,
+    "Lucius": 853946,
+    "Ludleth": 816048,
+    "Maggie": 789532,
+    "Marina": 844765,
+    "Marthos": 789608,
+    "Martin": 814043,
+    "Maths Enjoyer": 789622,
+    "Maxim": 828580,
+    "Melancholic Viking": 843990,
+    "Mino": 754105,
+    "Motes Grubber": 814176,
+    "Nancy": 789830,
+    "Nene": 848449,
+    "Noway": 789884,
+    "Old Shaman Nyko": 814273,
+    "Paul": 842883,
+    "Pest Wrangler": 816181,
+    "Pest Wrangler?": 816182,
+    "Pesthunter Phillip": 859295,
+    "Phaser": 790046,
+    "Piglin Guard": 790060,
+    "Porhtal": 828211,
+    "Rabbit Security": 857899,
+    "Ravenous Rhino": 851532,
+    "Researcher Betty": 790323,
+    "Researcher Jade": 839612,
+    "Researcher Jessica": 814533,
+    "Researcher Kay": 790327,
+    "Researcher Tay": 790330,
+    "Researcher Timmy": 790331,
+    "Researcher Tina": 814536,
+    "Resident Neighbor": 790333,
+    "Resistance Leader": 790336,
+    "Rhanora": 822232,
+    "Roger": 814575,
+    "Romero": 845939,
+    "Roosterzilla": 790403,
+    "Rusty": 834155,
+    "Safari Shill": 828621,
+    "Salesman": 856373,
+    "Salvage Old Attributes": 814617,
+    "Scorpius": 828186,
+    "Scout Scardius": 754804,
+    "Sheep (NPC)": 828107,
+    "Sherry": 857909,
+    "Shifty": 830486,
+    "Sick Farmer": 790639,
+    "Sirius": 858954,
+    "Skylark": 807974,
+    "St. Jerry": 857911,
+    "The Lotus Eater": 816460,
+    "Ugo": 823152,
+    "Unbound Explorer": 791282,
+    "Uvia": 791299,
+    "Vanessa": 791313,
+    "Vargul the Unearthed": 858592,
+    "Vesuvius": 791330,
+    "Vinyl Collector": 816537,
+    "Vreike": 815263,
+    "Weaponsmith": 830023,
+    "Wool Weaver": 830508,
+    "Yoshua": 807973,
+    "YrreJ": 793678,
+    "Ziri": 857539
+  },
+  "actual": {
+    "Bartender": 830399,
+    "Carpenter": 823112,
+    "Bob": 787567,
+    "Aatrox": 842882,
+    "Cole": 855335,
+    "Christopher": 787838,
+    "Bubu": 856555,
+    "Bylma": 787705,
+    "Bingo (NPC)": 815507,
+    "Belanor": 812656,
+    "Bruto": 812774,
+    "Campfire Initiate": 812807,
+    "Argofay Serialbather": 815464,
+    "Argofay Tencounter": 786756,
+    "Alabaster": 812492,
+    "Chester": 812870,
+    "Ashera": 812562,
+    "Argofay Bugshopper": 815463,
+    "Argofay Trailblazer": 786759,
+    "Chicken (NPC)": 828106,
+    "Cashier": 787764,
+    "Carnival Leader": 815559,
+    "Brynmor": 858838,
+    "Argofay Doorholder": 786753,
+    "Autonull (NPC)": 828102,
+    "Blobbercyst (NPC)": 828103,
+    "Carrot King Avatar": 812832,
+    "Carly": 787743,
+    "Brigette": 843624,
+    "Calvin": 857885,
+    "Fisherman Gerald": 823116,
+    "Elle": 830430,
+    "Frosty": 813463,
+    "Dark Auction": 853971,
+    "Diana": 815664,
+    "Foxy": 788690,
+    "Diaz": 856138,
+    "Emissaries": 823096,
+    "Cult of the Fallen Star": 859622,
+    "Forger": 788682,
+    "Desperate Engineer": 813064,
+    "Forast": 788675,
+    "Cyndarin": 788011,
+    "Deng": 788079,
+    "Finnegan": 844132,
+    "Frozen Alex": 830437,
+    "Darr": 815649,
+    "Dackinoru": 813016,
+    "Garlacius": 813498,
+    "Dr. Phear": 788145,
+    "Cow (NPC)": 828105,
+    "Finplex": 813368,
+    "Deer": 821435,
+    "Generow": 817841,
+    "Dante Goon": 859382,
+    "Finance Rabbit": 788585,
+    "Counsellor": 823138,
+    "Forager Daniel": 828507,
+    "Forager Rowan": 828508,
+    "Ghost of Armorsmith": 860696,
+    "Iron Forger": 827790,
+    "Lucius": 853946,
+    "Gladiator": 788845,
+    "Hub Villagers": 852321,
+    "Lonely Philosopher": 858604,
+    "Gregory": 845369,
+    "Marina": 844765,
+    "Gwendolyn": 823095,
+    "Hunter Ava": 843516,
+    "Kalhuiki Door Guardian": 823097,
+    "Kuudra Archeologist": 813890,
+    "Hilda": 789086,
+    "Marthos": 789608,
+    "Maggie": 789532,
+    "Lazarus": 813926,
+    "Grandma": 813611,
+    "Golden Dragon": 851594,
+    "Hoppity": 857890,
+    "Gwynnie": 813658,
+    "Martin": 814043,
+    "Lost Wizard": 789478,
+    "Ivan": 789231,
+    "Ivy": 789232,
+    "Ludleth": 816048,
+    "Jeff": 859505,
+    "Jimmy": 843502,
+    "Hunter McNeil": 828555,
+    "Hunter Jean": 837484,
+    "Huntress Alissa": 828559,
+    "Husbandry Merchant": 806107,
+    "Romero": 845939,
+    "Old Shaman Nyko": 814273,
+    "Melancholic Viking": 843990,
+    "Paul": 842883,
+    "Resistance Leader": 790336,
+    "Nancy": 789830,
+    "Mino": 754105,
+    "Maths Enjoyer": 789622,
+    "Rhanora": 822232,
+    "Piglin Guard": 790060,
+    "Motes Grubber": 814176,
+    "Porhtal": 828211,
+    "Nene": 848449,
+    "Roger": 814575,
+    "Phaser": 790046,
+    "Pesthunter Phillip": 859508,
+    "Pest Wrangler?": 816182,
+    "Ravenous Rhino": 851532,
+    "Pest Wrangler": 816181,
+    "Noway": 789884,
+    "Rabbit Security": 857899,
+    "Resident Neighbor": 790333,
+    "Researcher Jade": 839612,
+    "Researcher Betty": 790323,
+    "Researcher Kay": 790327,
+    "Researcher Tay": 790330,
+    "Researcher Timmy": 790331,
+    "Researcher Tina": 814536,
+    "Researcher Jessica": 814533,
+    "Maxim": 828580,
+    "Sirius": 858954,
+    "Weaponsmith": 830023,
+    "Rusty": 860289,
+    "Shifty": 830486,
+    "Vanessa": 791313,
+    "Sherry": 857909,
+    "St. Jerry": 857911,
+    "Salesman": 856373,
+    "Wool Weaver": 830508,
+    "Scorpius": 828186,
+    "Uvia": 791299,
+    "Ugo": 823152,
+    "Ziri": 857539,
+    "Vreike": 815263,
+    "Sick Farmer": 790639,
+    "Sheep (NPC)": 828107,
+    "Yoshua": 807973,
+    "Skylark": 807974,
+    "Unbound Explorer": 791282,
+    "Vargul the Unearthed": 859634,
+    "Scout Scardius": 754804,
+    "YrreJ": 793678,
+    "Vinyl Collector": 816537,
+    "Salvage Old Attributes": 814617,
+    "Roosterzilla": 790403,
+    "Vesuvius": 791330,
+    "The Lotus Eater": 816460,
+    "Safari Shill": 828621
+  },
+  "pages": [
+    {
+      "pageid": 6489,
+      "ns": 0,
+      "title": "Bartender",
+      "revisions": [
+        {
+          "revid": 830399,
+          "parentid": 823073,
+          "timestamp": "2026-09-03T01:22:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 13616,
+      "ns": 0,
+      "title": "Carpenter",
+      "revisions": [
+        {
+          "revid": 823112,
+          "parentid": 823080,
+          "timestamp": "2026-08-24T06:06:10Z"
+        }
+      ]
+    },
+    {
+      "pageid": 22340,
+      "ns": 0,
+      "title": "Bob",
+      "revisions": [
+        {
+          "revid": 787567,
+          "parentid": 752280,
+          "timestamp": "2026-07-23T22:31:09Z"
+        }
+      ]
+    },
+    {
+      "pageid": 66895,
+      "ns": 0,
+      "title": "Aatrox",
+      "revisions": [
+        {
+          "revid": 842882,
+          "parentid": 842879,
+          "timestamp": "2026-09-16T10:30:13Z"
+        }
+      ]
+    },
+    {
+      "pageid": 67989,
+      "ns": 0,
+      "title": "Cole",
+      "revisions": [
+        {
+          "revid": 855335,
+          "parentid": 855308,
+          "timestamp": "2026-10-09T23:33:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 75553,
+      "ns": 0,
+      "title": "Christopher",
+      "revisions": [
+        {
+          "revid": 787838,
+          "parentid": 716042,
+          "timestamp": "2026-07-23T23:30:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76721,
+      "ns": 0,
+      "title": "Bubu",
+      "revisions": [
+        {
+          "revid": 856555,
+          "parentid": 787629,
+          "timestamp": "2026-10-11T21:09:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 78310,
+      "ns": 0,
+      "title": "Bylma",
+      "revisions": [
+        {
+          "revid": 787705,
+          "parentid": 715889,
+          "timestamp": "2026-07-23T23:25:59Z"
+        }
+      ]
+    },
+    {
+      "pageid": 89322,
+      "ns": 0,
+      "title": "Bingo (NPC)",
+      "revisions": [
+        {
+          "revid": 815507,
+          "parentid": 812670,
+          "timestamp": "2026-08-11T20:14:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91422,
+      "ns": 0,
+      "title": "Belanor",
+      "revisions": [
+        {
+          "revid": 812656,
+          "parentid": 786914,
+          "timestamp": "2026-08-11T18:57:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91423,
+      "ns": 0,
+      "title": "Bruto",
+      "revisions": [
+        {
+          "revid": 812774,
+          "parentid": 787623,
+          "timestamp": "2026-08-11T19:01:05Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96680,
+      "ns": 0,
+      "title": "Campfire Initiate",
+      "revisions": [
+        {
+          "revid": 812807,
+          "parentid": 715912,
+          "timestamp": "2026-08-11T19:01:55Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98579,
+      "ns": 0,
+      "title": "Argofay Serialbather",
+      "revisions": [
+        {
+          "revid": 815464,
+          "parentid": 812551,
+          "timestamp": "2026-08-11T20:13:02Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98603,
+      "ns": 0,
+      "title": "Argofay Tencounter",
+      "revisions": [
+        {
+          "revid": 786756,
+          "parentid": 715482,
+          "timestamp": "2026-07-23T15:52:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98620,
+      "ns": 0,
+      "title": "Alabaster",
+      "revisions": [
+        {
+          "revid": 812492,
+          "parentid": 786641,
+          "timestamp": "2026-08-11T18:50:59Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98624,
+      "ns": 0,
+      "title": "Chester",
+      "revisions": [
+        {
+          "revid": 812870,
+          "parentid": 787804,
+          "timestamp": "2026-08-11T19:03:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98627,
+      "ns": 0,
+      "title": "Ashera",
+      "revisions": [
+        {
+          "revid": 812562,
+          "parentid": 786786,
+          "timestamp": "2026-08-11T18:53:28Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98651,
+      "ns": 0,
+      "title": "Argofay Bugshopper",
+      "revisions": [
+        {
+          "revid": 815463,
+          "parentid": 812550,
+          "timestamp": "2026-08-11T20:13:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98751,
+      "ns": 0,
+      "title": "Argofay Trailblazer",
+      "revisions": [
+        {
+          "revid": 786759,
+          "parentid": 715485,
+          "timestamp": "2026-07-23T15:52:58Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98902,
+      "ns": 0,
+      "title": "Chicken (NPC)",
+      "revisions": [
+        {
+          "revid": 828106,
+          "parentid": 787806,
+          "timestamp": "2026-08-31T15:47:10Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100077,
+      "ns": 0,
+      "title": "Cashier",
+      "revisions": [
+        {
+          "revid": 787764,
+          "parentid": 752420,
+          "timestamp": "2026-07-23T23:28:10Z"
+        }
+      ]
+    },
+    {
+      "pageid": 103219,
+      "ns": 0,
+      "title": "Carnival Leader",
+      "revisions": [
+        {
+          "revid": 815559,
+          "parentid": 812820,
+          "timestamp": "2026-08-11T20:15:52Z"
+        }
+      ]
+    },
+    {
+      "pageid": 104809,
+      "ns": 0,
+      "title": "Brynmor",
+      "revisions": [
+        {
+          "revid": 858838,
+          "parentid": 858815,
+          "timestamp": "2026-10-15T11:18:12Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108703,
+      "ns": 0,
+      "title": "Argofay Doorholder",
+      "revisions": [
+        {
+          "revid": 786753,
+          "parentid": 752039,
+          "timestamp": "2026-07-23T15:52:52Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108707,
+      "ns": 0,
+      "title": "Autonull (NPC)",
+      "revisions": [
+        {
+          "revid": 828102,
+          "parentid": 786826,
+          "timestamp": "2026-08-31T15:45:48Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108708,
+      "ns": 0,
+      "title": "Blobbercyst (NPC)",
+      "revisions": [
+        {
+          "revid": 828103,
+          "parentid": 787532,
+          "timestamp": "2026-08-31T15:45:52Z"
+        }
+      ]
+    },
+    {
+      "pageid": 112233,
+      "ns": 0,
+      "title": "Carrot King Avatar",
+      "revisions": [
+        {
+          "revid": 812832,
+          "parentid": 787759,
+          "timestamp": "2026-08-11T19:02:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116387,
+      "ns": 0,
+      "title": "Carly",
+      "revisions": [
+        {
+          "revid": 787743,
+          "parentid": 766591,
+          "timestamp": "2026-07-23T23:27:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 126017,
+      "ns": 0,
+      "title": "Brigette",
+      "revisions": [
+        {
+          "revid": 843624,
+          "parentid": 823083,
+          "timestamp": "2026-09-18T14:10:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 141133,
+      "ns": 0,
+      "title": "Calvin",
+      "revisions": [
+        {
+          "revid": 857885,
+          "parentid": 857884,
+          "timestamp": "2026-10-14T10:49:44Z"
+        }
+      ]
+    },
+    {
+      "pageid": 2516,
+      "ns": 0,
+      "title": "Fisherman Gerald",
+      "revisions": [
+        {
+          "revid": 823116,
+          "parentid": 821993,
+          "timestamp": "2026-08-24T06:08:14Z"
+        }
+      ]
+    },
+    {
+      "pageid": 3861,
+      "ns": 0,
+      "title": "Elle",
+      "revisions": [
+        {
+          "revid": 830430,
+          "parentid": 830068,
+          "timestamp": "2026-09-03T01:25:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 13485,
+      "ns": 0,
+      "title": "Frosty",
+      "revisions": [
+        {
+          "revid": 813463,
+          "parentid": 788725,
+          "timestamp": "2026-08-11T19:18:09Z"
+        }
+      ]
+    },
+    {
+      "pageid": 51097,
+      "ns": 0,
+      "title": "Dark Auction",
+      "revisions": [
+        {
+          "revid": 853971,
+          "parentid": 853970,
+          "timestamp": "2026-10-06T22:56:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 65797,
+      "ns": 0,
+      "title": "Diana",
+      "revisions": [
+        {
+          "revid": 815664,
+          "parentid": 788107,
+          "timestamp": "2026-08-11T20:18:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 68078,
+      "ns": 0,
+      "title": "Foxy",
+      "revisions": [
+        {
+          "revid": 788690,
+          "parentid": 778900,
+          "timestamp": "2026-07-23T23:59:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 68168,
+      "ns": 0,
+      "title": "Diaz",
+      "revisions": [
+        {
+          "revid": 856138,
+          "parentid": 822871,
+          "timestamp": "2026-10-10T18:17:29Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76641,
+      "ns": 0,
+      "title": "Emissaries",
+      "revisions": [
+        {
+          "revid": 823096,
+          "parentid": 788264,
+          "timestamp": "2026-08-24T05:35:08Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76762,
+      "ns": 0,
+      "title": "Cult of the Fallen Star",
+      "revisions": [
+        {
+          "revid": 859622,
+          "parentid": 843725,
+          "timestamp": "2026-10-16T12:05:04Z"
+        }
+      ]
+    },
+    {
+      "pageid": 86390,
+      "ns": 0,
+      "title": "Forger",
+      "revisions": [
+        {
+          "revid": 788682,
+          "parentid": 727024,
+          "timestamp": "2026-07-23T23:59:12Z"
+        }
+      ]
+    },
+    {
+      "pageid": 89161,
+      "ns": 0,
+      "title": "Desperate Engineer",
+      "revisions": [
+        {
+          "revid": 813064,
+          "parentid": 788088,
+          "timestamp": "2026-08-11T19:07:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 90678,
+      "ns": 0,
+      "title": "Forast",
+      "revisions": [
+        {
+          "revid": 788675,
+          "parentid": 717000,
+          "timestamp": "2026-07-23T23:59:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91565,
+      "ns": 0,
+      "title": "Cyndarin",
+      "revisions": [
+        {
+          "revid": 788011,
+          "parentid": 752657,
+          "timestamp": "2026-07-23T23:36:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 93567,
+      "ns": 0,
+      "title": "Deng",
+      "revisions": [
+        {
+          "revid": 788079,
+          "parentid": 752710,
+          "timestamp": "2026-07-23T23:38:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96486,
+      "ns": 0,
+      "title": "Finnegan",
+      "revisions": [
+        {
+          "revid": 844132,
+          "parentid": 836340,
+          "timestamp": "2026-09-19T12:40:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 96796,
+      "ns": 0,
+      "title": "Frozen Alex",
+      "revisions": [
+        {
+          "revid": 830437,
+          "parentid": 813471,
+          "timestamp": "2026-09-03T01:26:02Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98567,
+      "ns": 0,
+      "title": "Darr",
+      "revisions": [
+        {
+          "revid": 815649,
+          "parentid": 788040,
+          "timestamp": "2026-08-11T20:18:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98621,
+      "ns": 0,
+      "title": "Dackinoru",
+      "revisions": [
+        {
+          "revid": 813016,
+          "parentid": 788013,
+          "timestamp": "2026-08-11T19:06:41Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98628,
+      "ns": 0,
+      "title": "Garlacius",
+      "revisions": [
+        {
+          "revid": 813498,
+          "parentid": 788763,
+          "timestamp": "2026-08-11T19:19:03Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98635,
+      "ns": 0,
+      "title": "Dr. Phear",
+      "revisions": [
+        {
+          "revid": 788145,
+          "parentid": 716394,
+          "timestamp": "2026-07-23T23:40:41Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98903,
+      "ns": 0,
+      "title": "Cow (NPC)",
+      "revisions": [
+        {
+          "revid": 828105,
+          "parentid": 787945,
+          "timestamp": "2026-08-31T15:47:07Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98948,
+      "ns": 0,
+      "title": "Finplex",
+      "revisions": [
+        {
+          "revid": 813368,
+          "parentid": 788588,
+          "timestamp": "2026-08-11T19:15:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99936,
+      "ns": 0,
+      "title": "Deer",
+      "revisions": [
+        {
+          "revid": 821435,
+          "parentid": 821434,
+          "timestamp": "2026-08-19T07:14:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 101562,
+      "ns": 0,
+      "title": "Generow",
+      "revisions": [
+        {
+          "revid": 817841,
+          "parentid": 815855,
+          "timestamp": "2026-08-11T23:22:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 109999,
+      "ns": 0,
+      "title": "Dante Goon",
+      "revisions": [
+        {
+          "revid": 859382,
+          "parentid": 859332,
+          "timestamp": "2026-10-15T22:29:23Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110104,
+      "ns": 0,
+      "title": "Finance Rabbit",
+      "revisions": [
+        {
+          "revid": 788585,
+          "parentid": 753170,
+          "timestamp": "2026-07-23T23:56:03Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110747,
+      "ns": 0,
+      "title": "Counsellor",
+      "revisions": [
+        {
+          "revid": 823138,
+          "parentid": 787940,
+          "timestamp": "2026-08-24T06:24:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133270,
+      "ns": 0,
+      "title": "Forager Daniel",
+      "revisions": [
+        {
+          "revid": 828507,
+          "parentid": 807172,
+          "timestamp": "2026-09-01T09:06:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133724,
+      "ns": 0,
+      "title": "Forager Rowan",
+      "revisions": [
+        {
+          "revid": 828508,
+          "parentid": 813432,
+          "timestamp": "2026-09-01T09:06:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 142940,
+      "ns": 0,
+      "title": "Ghost of Armorsmith",
+      "revisions": [
+        {
+          "revid": 860696,
+          "parentid": 859792,
+          "timestamp": "2026-10-19T09:06:22Z"
+        }
+      ]
+    },
+    {
+      "pageid": 8321,
+      "ns": 0,
+      "title": "Iron Forger",
+      "revisions": [
+        {
+          "revid": 827790,
+          "parentid": 822265,
+          "timestamp": "2026-08-30T17:48:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 12039,
+      "ns": 0,
+      "title": "Lucius",
+      "revisions": [
+        {
+          "revid": 853946,
+          "parentid": 849880,
+          "timestamp": "2026-10-06T21:59:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 12577,
+      "ns": 0,
+      "title": "Gladiator",
+      "revisions": [
+        {
+          "revid": 788845,
+          "parentid": 753396,
+          "timestamp": "2026-07-24T00:04:59Z"
+        }
+      ]
+    },
+    {
+      "pageid": 15607,
+      "ns": 0,
+      "title": "Hub Villagers",
+      "revisions": [
+        {
+          "revid": 852321,
+          "parentid": 820886,
+          "timestamp": "2026-10-06T14:24:51Z"
+        }
+      ]
+    },
+    {
+      "pageid": 36569,
+      "ns": 0,
+      "title": "Lonely Philosopher",
+      "revisions": [
+        {
+          "revid": 858604,
+          "parentid": 813961,
+          "timestamp": "2026-10-15T00:07:02Z"
+        }
+      ]
+    },
+    {
+      "pageid": 47633,
+      "ns": 0,
+      "title": "Gregory",
+      "revisions": [
+        {
+          "revid": 845369,
+          "parentid": 815922,
+          "timestamp": "2026-09-22T14:24:47Z"
+        }
+      ]
+    },
+    {
+      "pageid": 66295,
+      "ns": 0,
+      "title": "Marina",
+      "revisions": [
+        {
+          "revid": 844765,
+          "parentid": 789605,
+          "timestamp": "2026-09-21T09:59:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 78307,
+      "ns": 0,
+      "title": "Gwendolyn",
+      "revisions": [
+        {
+          "revid": 823095,
+          "parentid": 788998,
+          "timestamp": "2026-08-24T05:34:32Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79420,
+      "ns": 0,
+      "title": "Hunter Ava",
+      "revisions": [
+        {
+          "revid": 843516,
+          "parentid": 789140,
+          "timestamp": "2026-09-18T02:35:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82469,
+      "ns": 0,
+      "title": "Kalhuiki Door Guardian",
+      "revisions": [
+        {
+          "revid": 823097,
+          "parentid": 813858,
+          "timestamp": "2026-08-24T05:35:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 90104,
+      "ns": 0,
+      "title": "Kuudra Archeologist",
+      "revisions": [
+        {
+          "revid": 813890,
+          "parentid": 789361,
+          "timestamp": "2026-08-11T19:28:50Z"
+        }
+      ]
+    },
+    {
+      "pageid": 90629,
+      "ns": 0,
+      "title": "Hilda",
+      "revisions": [
+        {
+          "revid": 789086,
+          "parentid": 717455,
+          "timestamp": "2026-07-24T00:13:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 90630,
+      "ns": 0,
+      "title": "Marthos",
+      "revisions": [
+        {
+          "revid": 789608,
+          "parentid": 718017,
+          "timestamp": "2026-07-24T00:30:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92302,
+      "ns": 0,
+      "title": "Maggie",
+      "revisions": [
+        {
+          "revid": 789532,
+          "parentid": 753967,
+          "timestamp": "2026-07-24T00:28:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98625,
+      "ns": 0,
+      "title": "Lazarus",
+      "revisions": [
+        {
+          "revid": 813926,
+          "parentid": 789424,
+          "timestamp": "2026-08-11T19:29:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99737,
+      "ns": 0,
+      "title": "Grandma",
+      "revisions": [
+        {
+          "revid": 813611,
+          "parentid": 788919,
+          "timestamp": "2026-08-11T19:22:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 101997,
+      "ns": 0,
+      "title": "Golden Dragon",
+      "revisions": [
+        {
+          "revid": 851594,
+          "parentid": 844328,
+          "timestamp": "2026-10-05T14:37:21Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102601,
+      "ns": 0,
+      "title": "Hoppity",
+      "revisions": [
+        {
+          "revid": 857890,
+          "parentid": 837371,
+          "timestamp": "2026-10-14T11:29:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107219,
+      "ns": 0,
+      "title": "Gwynnie",
+      "revisions": [
+        {
+          "revid": 813658,
+          "parentid": 788999,
+          "timestamp": "2026-08-11T19:23:22Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107774,
+      "ns": 0,
+      "title": "Martin",
+      "revisions": [
+        {
+          "revid": 814043,
+          "parentid": 789609,
+          "timestamp": "2026-08-11T19:32:09Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108705,
+      "ns": 0,
+      "title": "Lost Wizard",
+      "revisions": [
+        {
+          "revid": 789478,
+          "parentid": 753911,
+          "timestamp": "2026-07-24T00:26:19Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108784,
+      "ns": 0,
+      "title": "Ivan",
+      "revisions": [
+        {
+          "revid": 789231,
+          "parentid": 717603,
+          "timestamp": "2026-07-24T00:18:43Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108785,
+      "ns": 0,
+      "title": "Ivy",
+      "revisions": [
+        {
+          "revid": 789232,
+          "parentid": 717604,
+          "timestamp": "2026-07-24T00:18:43Z"
+        }
+      ]
+    },
+    {
+      "pageid": 109442,
+      "ns": 0,
+      "title": "Ludleth",
+      "revisions": [
+        {
+          "revid": 816048,
+          "parentid": 813980,
+          "timestamp": "2026-08-11T20:29:33Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110294,
+      "ns": 0,
+      "title": "Jeff",
+      "revisions": [
+        {
+          "revid": 859505,
+          "parentid": 823111,
+          "timestamp": "2026-10-16T05:31:40Z"
+        }
+      ]
+    },
+    {
+      "pageid": 126037,
+      "ns": 0,
+      "title": "Jimmy",
+      "revisions": [
+        {
+          "revid": 843502,
+          "parentid": 843165,
+          "timestamp": "2026-09-18T01:36:57Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133418,
+      "ns": 0,
+      "title": "Hunter McNeil",
+      "revisions": [
+        {
+          "revid": 828555,
+          "parentid": 813746,
+          "timestamp": "2026-09-01T09:07:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133424,
+      "ns": 0,
+      "title": "Hunter Jean",
+      "revisions": [
+        {
+          "revid": 837484,
+          "parentid": 828552,
+          "timestamp": "2026-09-10T14:33:28Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133483,
+      "ns": 0,
+      "title": "Huntress Alissa",
+      "revisions": [
+        {
+          "revid": 828559,
+          "parentid": 807088,
+          "timestamp": "2026-09-01T09:07:41Z"
+        }
+      ]
+    },
+    {
+      "pageid": 135785,
+      "ns": 0,
+      "title": "Husbandry Merchant",
+      "revisions": [
+        {
+          "revid": 806107,
+          "parentid": 785146,
+          "timestamp": "2026-08-04T13:33:02Z"
+        }
+      ]
+    },
+    {
+      "pageid": 9657,
+      "ns": 0,
+      "title": "Romero",
+      "revisions": [
+        {
+          "revid": 845939,
+          "parentid": 845935,
+          "timestamp": "2026-09-23T21:01:53Z"
+        }
+      ]
+    },
+    {
+      "pageid": 9805,
+      "ns": 0,
+      "title": "Old Shaman Nyko",
+      "revisions": [
+        {
+          "revid": 814273,
+          "parentid": 789926,
+          "timestamp": "2026-08-11T19:37:51Z"
+        }
+      ]
+    },
+    {
+      "pageid": 9869,
+      "ns": 0,
+      "title": "Melancholic Viking",
+      "revisions": [
+        {
+          "revid": 843990,
+          "parentid": 831435,
+          "timestamp": "2026-09-19T04:16:25Z"
+        }
+      ]
+    },
+    {
+      "pageid": 68040,
+      "ns": 0,
+      "title": "Paul",
+      "revisions": [
+        {
+          "revid": 842883,
+          "parentid": 842878,
+          "timestamp": "2026-09-16T10:30:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79106,
+      "ns": 0,
+      "title": "Resistance Leader",
+      "revisions": [
+        {
+          "revid": 790336,
+          "parentid": 718851,
+          "timestamp": "2026-07-24T00:55:47Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82952,
+      "ns": 0,
+      "title": "Nancy",
+      "revisions": [
+        {
+          "revid": 789830,
+          "parentid": 718266,
+          "timestamp": "2026-07-24T00:37:36Z"
+        }
+      ]
+    },
+    {
+      "pageid": 86991,
+      "ns": 0,
+      "title": "Mino",
+      "revisions": [
+        {
+          "revid": 754105,
+          "parentid": 718134,
+          "timestamp": "2026-07-02T23:53:55Z"
+        }
+      ]
+    },
+    {
+      "pageid": 89720,
+      "ns": 0,
+      "title": "Maths Enjoyer",
+      "revisions": [
+        {
+          "revid": 789622,
+          "parentid": 785938,
+          "timestamp": "2026-07-24T00:30:44Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91517,
+      "ns": 0,
+      "title": "Rhanora",
+      "revisions": [
+        {
+          "revid": 822232,
+          "parentid": 790358,
+          "timestamp": "2026-08-21T20:28:57Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92159,
+      "ns": 0,
+      "title": "Piglin Guard",
+      "revisions": [
+        {
+          "revid": 790060,
+          "parentid": 718519,
+          "timestamp": "2026-07-24T00:45:40Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98569,
+      "ns": 0,
+      "title": "Motes Grubber",
+      "revisions": [
+        {
+          "revid": 814176,
+          "parentid": 789788,
+          "timestamp": "2026-08-11T19:35:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98643,
+      "ns": 0,
+      "title": "Porhtal",
+      "revisions": [
+        {
+          "revid": 828211,
+          "parentid": 793687,
+          "timestamp": "2026-08-31T20:09:32Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99748,
+      "ns": 0,
+      "title": "Nene",
+      "revisions": [
+        {
+          "revid": 848449,
+          "parentid": 789846,
+          "timestamp": "2026-09-29T20:42:55Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99980,
+      "ns": 0,
+      "title": "Roger",
+      "revisions": [
+        {
+          "revid": 814575,
+          "parentid": 790393,
+          "timestamp": "2026-08-11T19:46:29Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100198,
+      "ns": 0,
+      "title": "Phaser",
+      "revisions": [
+        {
+          "revid": 790046,
+          "parentid": 754401,
+          "timestamp": "2026-07-24T00:45:10Z"
+        }
+      ]
+    },
+    {
+      "pageid": 101400,
+      "ns": 0,
+      "title": "Pesthunter Phillip",
+      "revisions": [
+        {
+          "revid": 859508,
+          "parentid": 859295,
+          "timestamp": "2026-10-16T05:32:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 103333,
+      "ns": 0,
+      "title": "Pest Wrangler?",
+      "revisions": [
+        {
+          "revid": 816182,
+          "parentid": 814333,
+          "timestamp": "2026-08-11T20:33:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 103334,
+      "ns": 0,
+      "title": "Ravenous Rhino",
+      "revisions": [
+        {
+          "revid": 851532,
+          "parentid": 851517,
+          "timestamp": "2026-10-05T12:57:16Z"
+        }
+      ]
+    },
+    {
+      "pageid": 103883,
+      "ns": 0,
+      "title": "Pest Wrangler",
+      "revisions": [
+        {
+          "revid": 816181,
+          "parentid": 802208,
+          "timestamp": "2026-08-11T20:33:00Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108706,
+      "ns": 0,
+      "title": "Noway",
+      "revisions": [
+        {
+          "revid": 789884,
+          "parentid": 754247,
+          "timestamp": "2026-07-24T00:39:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110105,
+      "ns": 0,
+      "title": "Rabbit Security",
+      "revisions": [
+        {
+          "revid": 857899,
+          "parentid": 814469,
+          "timestamp": "2026-10-14T11:30:36Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110133,
+      "ns": 0,
+      "title": "Resident Neighbor",
+      "revisions": [
+        {
+          "revid": 790333,
+          "parentid": 718848,
+          "timestamp": "2026-07-24T00:55:44Z"
+        }
+      ]
+    },
+    {
+      "pageid": 111999,
+      "ns": 0,
+      "title": "Researcher Jade",
+      "revisions": [
+        {
+          "revid": 839612,
+          "parentid": 790325,
+          "timestamp": "2026-09-13T04:51:27Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116409,
+      "ns": 0,
+      "title": "Researcher Betty",
+      "revisions": [
+        {
+          "revid": 790323,
+          "parentid": 766681,
+          "timestamp": "2026-07-24T00:55:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116427,
+      "ns": 0,
+      "title": "Researcher Kay",
+      "revisions": [
+        {
+          "revid": 790327,
+          "parentid": 766678,
+          "timestamp": "2026-07-24T00:55:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116428,
+      "ns": 0,
+      "title": "Researcher Tay",
+      "revisions": [
+        {
+          "revid": 790330,
+          "parentid": 766675,
+          "timestamp": "2026-07-24T00:55:41Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116459,
+      "ns": 0,
+      "title": "Researcher Timmy",
+      "revisions": [
+        {
+          "revid": 790331,
+          "parentid": 766674,
+          "timestamp": "2026-07-24T00:55:42Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116464,
+      "ns": 0,
+      "title": "Researcher Tina",
+      "revisions": [
+        {
+          "revid": 814536,
+          "parentid": 790332,
+          "timestamp": "2026-08-11T19:45:22Z"
+        }
+      ]
+    },
+    {
+      "pageid": 121439,
+      "ns": 0,
+      "title": "Researcher Jessica",
+      "revisions": [
+        {
+          "revid": 814533,
+          "parentid": 790326,
+          "timestamp": "2026-08-11T19:45:19Z"
+        }
+      ]
+    },
+    {
+      "pageid": 137524,
+      "ns": 0,
+      "title": "Maxim",
+      "revisions": [
+        {
+          "revid": 828580,
+          "parentid": 818648,
+          "timestamp": "2026-09-01T09:08:08Z"
+        }
+      ]
+    },
+    {
+      "pageid": 2638,
+      "ns": 0,
+      "title": "Sirius",
+      "revisions": [
+        {
+          "revid": 858954,
+          "parentid": 831152,
+          "timestamp": "2026-10-15T15:44:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 5115,
+      "ns": 0,
+      "title": "Weaponsmith",
+      "revisions": [
+        {
+          "revid": 830023,
+          "parentid": 815292,
+          "timestamp": "2026-09-02T13:17:17Z"
+        }
+      ]
+    },
+    {
+      "pageid": 5637,
+      "ns": 0,
+      "title": "Rusty",
+      "revisions": [
+        {
+          "revid": 860289,
+          "parentid": 834155,
+          "timestamp": "2026-10-18T13:44:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 11862,
+      "ns": 0,
+      "title": "Shifty",
+      "revisions": [
+        {
+          "revid": 830486,
+          "parentid": 814711,
+          "timestamp": "2026-09-03T01:30:15Z"
+        }
+      ]
+    },
+    {
+      "pageid": 12694,
+      "ns": 0,
+      "title": "Vanessa",
+      "revisions": [
+        {
+          "revid": 791313,
+          "parentid": 757880,
+          "timestamp": "2026-07-24T01:29:02Z"
+        }
+      ]
+    },
+    {
+      "pageid": 13486,
+      "ns": 0,
+      "title": "Sherry",
+      "revisions": [
+        {
+          "revid": 857909,
+          "parentid": 814709,
+          "timestamp": "2026-10-14T11:58:23Z"
+        }
+      ]
+    },
+    {
+      "pageid": 13505,
+      "ns": 0,
+      "title": "St. Jerry",
+      "revisions": [
+        {
+          "revid": 857911,
+          "parentid": 830495,
+          "timestamp": "2026-10-14T11:58:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 14863,
+      "ns": 0,
+      "title": "Salesman",
+      "revisions": [
+        {
+          "revid": 856373,
+          "parentid": 856372,
+          "timestamp": "2026-10-11T13:01:52Z"
+        }
+      ]
+    },
+    {
+      "pageid": 44222,
+      "ns": 0,
+      "title": "Wool Weaver",
+      "revisions": [
+        {
+          "revid": 830508,
+          "parentid": 815368,
+          "timestamp": "2026-09-03T01:33:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 74596,
+      "ns": 0,
+      "title": "Scorpius",
+      "revisions": [
+        {
+          "revid": 828186,
+          "parentid": 821741,
+          "timestamp": "2026-08-31T18:47:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91840,
+      "ns": 0,
+      "title": "Uvia",
+      "revisions": [
+        {
+          "revid": 791299,
+          "parentid": 755465,
+          "timestamp": "2026-07-24T01:28:30Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92522,
+      "ns": 0,
+      "title": "Ugo",
+      "revisions": [
+        {
+          "revid": 823152,
+          "parentid": 822940,
+          "timestamp": "2026-08-24T06:28:38Z"
+        }
+      ]
+    },
+    {
+      "pageid": 93500,
+      "ns": 0,
+      "title": "Ziri",
+      "revisions": [
+        {
+          "revid": 857539,
+          "parentid": 857530,
+          "timestamp": "2026-10-13T16:41:08Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98626,
+      "ns": 0,
+      "title": "Vreike",
+      "revisions": [
+        {
+          "revid": 815263,
+          "parentid": 791372,
+          "timestamp": "2026-08-11T20:05:13Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98873,
+      "ns": 0,
+      "title": "Sick Farmer",
+      "revisions": [
+        {
+          "revid": 790639,
+          "parentid": 719179,
+          "timestamp": "2026-07-24T01:05:26Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98904,
+      "ns": 0,
+      "title": "Sheep (NPC)",
+      "revisions": [
+        {
+          "revid": 828107,
+          "parentid": 790595,
+          "timestamp": "2026-08-31T15:47:13Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98950,
+      "ns": 0,
+      "title": "Yoshua",
+      "revisions": [
+        {
+          "revid": 807973,
+          "parentid": 791538,
+          "timestamp": "2026-08-05T20:24:21Z"
+        }
+      ]
+    },
+    {
+      "pageid": 98951,
+      "ns": 0,
+      "title": "Skylark",
+      "revisions": [
+        {
+          "revid": 807974,
+          "parentid": 790697,
+          "timestamp": "2026-08-05T20:25:28Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99706,
+      "ns": 0,
+      "title": "Unbound Explorer",
+      "revisions": [
+        {
+          "revid": 791282,
+          "parentid": 737489,
+          "timestamp": "2026-07-24T01:28:01Z"
+        }
+      ]
+    },
+    {
+      "pageid": 101323,
+      "ns": 0,
+      "title": "Vargul the Unearthed",
+      "revisions": [
+        {
+          "revid": 859634,
+          "parentid": 858592,
+          "timestamp": "2026-10-16T13:01:54Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102443,
+      "ns": 0,
+      "title": "Scout Scardius",
+      "revisions": [
+        {
+          "revid": 754804,
+          "parentid": 719049,
+          "timestamp": "2026-07-03T00:16:18Z"
+        }
+      ]
+    },
+    {
+      "pageid": 103825,
+      "ns": 0,
+      "title": "YrreJ",
+      "revisions": [
+        {
+          "revid": 793678,
+          "parentid": 791541,
+          "timestamp": "2026-07-25T12:18:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 104368,
+      "ns": 0,
+      "title": "Vinyl Collector",
+      "revisions": [
+        {
+          "revid": 816537,
+          "parentid": 755508,
+          "timestamp": "2026-08-11T20:43:48Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107835,
+      "ns": 0,
+      "title": "Salvage Old Attributes",
+      "revisions": [
+        {
+          "revid": 814617,
+          "parentid": 790474,
+          "timestamp": "2026-08-11T19:47:31Z"
+        }
+      ]
+    },
+    {
+      "pageid": 108704,
+      "ns": 0,
+      "title": "Roosterzilla",
+      "revisions": [
+        {
+          "revid": 790403,
+          "parentid": 754721,
+          "timestamp": "2026-07-24T00:58:03Z"
+        }
+      ]
+    },
+    {
+      "pageid": 109827,
+      "ns": 0,
+      "title": "Vesuvius",
+      "revisions": [
+        {
+          "revid": 791330,
+          "parentid": 780111,
+          "timestamp": "2026-07-24T01:29:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 116519,
+      "ns": 0,
+      "title": "The Lotus Eater",
+      "revisions": [
+        {
+          "revid": 816460,
+          "parentid": 815030,
+          "timestamp": "2026-08-11T20:41:19Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133268,
+      "ns": 0,
+      "title": "Safari Shill",
+      "revisions": [
+        {
+          "revid": 828621,
+          "parentid": 807116,
+          "timestamp": "2026-09-01T09:08:51Z"
+        }
+      ]
+    }
+  ],
+  "private_or_unpublished_dialogue_known": false
+}

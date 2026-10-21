@@ -1,0 +1,47 @@
+{
+  "version": "0.15.107-dev",
+  "runtime_jar_sha256": "4EABCC14D06DAA2BC4B18E9CEA55ACBB7C2D89FBD0BD76D7099B0576FB46AA26",
+  "exact_keys": 11314,
+  "total_frozen": 16244,
+  "exact_percent": 69.65033243043585,
+  "without_exact_key": 4930,
+  "without_exact_percent": 30.349667569564147,
+  "new_exact_keys": 119,
+  "new_system_notifications": 119,
+  "new_npc_keys": 0,
+  "new_archival_keys": 0,
+  "static_choice_groups_unchanged": 345,
+  "prior_name_templates103": 135,
+  "selected_style_repaired_cumulative105": 72,
+  "selected_style_gaps_remaining": 0,
+  "fresh_test_groups": 180,
+  "parser_tests": 15,
+  "new_system_assertions": 632925,
+  "primary_cases": 119,
+  "published_layouts": 119,
+  "byte_identical_runtime_classes": 124,
+  "startup_method_edits_only": {
+    "ru.wither.skyru.NpcDialogueTranslator": [
+      "public static ru.wither.skyru.NpcDialogueTranslator questObjectives() throws java.io.IOException;"
+    ]
+  },
+  "hot_method_instructions_unchanged": true,
+  "historical_test_sources_unchanged": 272,
+  "isolated_count_assertion_updates": 29,
+  "pinned_pages": 21,
+  "performance_not_fps": {
+    "scope": "Isolated chat receipt,not game FPS/frame times/0.1% lows. New119 useful translations verified separately,not treated as equal work.",
+    "equal_modes": 12,
+    "order": [
+      "106",
+      "107",
+      "107",
+      "106"
+    ],
+    "min_wall_change_percent": -5.527165697469616,
+    "max_wall_change_percent": 4.138921159133635,
+    "both_orders_slower_over5": []
+  },
+  "installed_pack_modified": false,
+  "game_fps_measured": false
+}

@@ -1,0 +1,1033 @@
+{
+  "date": "2026-10-14",
+  "revision": "8e9793b8b05922b7c37407f891c572c40908c93e",
+  "scope": "25 pinned books/four families;repository text,not live Components or complete server",
+  "records": [
+    {
+      "id": "THUNDERLORD;1",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/THUNDERLORD%3B1.json",
+      "source_sha256": "96D01143C9404D04D22E71C0A04CB8DB516AC249863AE243D730F05A6D8D383B",
+      "title_plain": "Thunderlord I",
+      "effect_legacy": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a8% §7of the hit's damage."
+      ],
+      "effect_plain": [
+        "Every 3 hits on a monster,",
+        "strike lightning, dealing",
+        "8% of the hit's damage."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Thunderlord I",
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a8% §7of the hit's damage.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Catacombs (§aVI-VII§7)",
+        " §7- Bazaar (§aVI-VII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 14",
+        "",
+        "§6Conflicts:",
+        " §7- §cThunderbolt",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "THUNDERLORD;2",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/THUNDERLORD%3B2.json",
+      "source_sha256": "20B7E4FEEDA9576719CDB8729A56C55FA0F748DE74D51F80629B5C9292D2B20A",
+      "title_plain": "Thunderlord II",
+      "effect_legacy": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a16% §7of the hit's damage."
+      ],
+      "effect_plain": [
+        "Every 3 hits on a monster,",
+        "strike lightning, dealing",
+        "16% of the hit's damage."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Thunderlord II",
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a16% §7of the hit's damage.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Catacombs (§aVI-VII§7)",
+        " §7- Bazaar (§aVI-VII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 14",
+        "",
+        "§6Conflicts:",
+        " §7- §cThunderbolt",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "THUNDERLORD;3",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/THUNDERLORD%3B3.json",
+      "source_sha256": "F263D2AD7194FB83D11A4FC36DFA5320D13FB36C029BC99D71675187655152C9",
+      "title_plain": "Thunderlord III",
+      "effect_legacy": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a24% §7of the hit's damage."
+      ],
+      "effect_plain": [
+        "Every 3 hits on a monster,",
+        "strike lightning, dealing",
+        "24% of the hit's damage."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Thunderlord III",
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a24% §7of the hit's damage.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Catacombs (§aVI-VII§7)",
+        " §7- Bazaar (§aVI-VII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 14",
+        "",
+        "§6Conflicts:",
+        " §7- §cThunderbolt",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "THUNDERLORD;4",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/THUNDERLORD%3B4.json",
+      "source_sha256": "52580170582C2B21A507BFDBD56C48FC2D13CEF4873ED7EFCA9F72DEB03A490F",
+      "title_plain": "Thunderlord IV",
+      "effect_legacy": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a32% §7of the hit's damage."
+      ],
+      "effect_plain": [
+        "Every 3 hits on a monster,",
+        "strike lightning, dealing",
+        "32% of the hit's damage."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Thunderlord IV",
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a32% §7of the hit's damage.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Catacombs (§aVI-VII§7)",
+        " §7- Bazaar (§aVI-VII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 14",
+        "",
+        "§6Conflicts:",
+        " §7- §cThunderbolt",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "THUNDERLORD;5",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/THUNDERLORD%3B5.json",
+      "source_sha256": "D63EEF10EC228E6F8CBE7D45E8BEE0FB4C970D2DF464F358688C17C1BB3963F9",
+      "title_plain": "Thunderlord V",
+      "effect_legacy": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a40% §7of the hit's damage."
+      ],
+      "effect_plain": [
+        "Every 3 hits on a monster,",
+        "strike lightning, dealing",
+        "40% of the hit's damage."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Thunderlord V",
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a40% §7of the hit's damage.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Catacombs (§aVI-VII§7)",
+        " §7- Bazaar (§aVI-VII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 14",
+        "",
+        "§6Conflicts:",
+        " §7- §cThunderbolt",
+        "",
+        "§a§lUNCOMMON"
+      ]
+    },
+    {
+      "id": "THUNDERLORD;6",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/THUNDERLORD%3B6.json",
+      "source_sha256": "CBE4096933FCB73BC9BF0585866C60722E042894D4B127EE4370AC1022A3CD3B",
+      "title_plain": "Thunderlord VI",
+      "effect_legacy": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a50% §7of the hit's damage."
+      ],
+      "effect_plain": [
+        "Every 3 hits on a monster,",
+        "strike lightning, dealing",
+        "50% of the hit's damage."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Thunderlord VI",
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a50% §7of the hit's damage.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Catacombs (§aVI-VII§7)",
+        " §7- Bazaar (§aVI-VII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 14",
+        "",
+        "§6Conflicts:",
+        " §7- §cThunderbolt",
+        "",
+        "§9§lRARE"
+      ]
+    },
+    {
+      "id": "THUNDERLORD;7",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/THUNDERLORD%3B7.json",
+      "source_sha256": "6E4C454BFA1FA17EB8982F030F1E68F4A5EDE5BB4E8BE1A61B7A9A8186AD8040",
+      "title_plain": "Thunderlord VII",
+      "effect_legacy": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a60% §7of the hit's damage."
+      ],
+      "effect_plain": [
+        "Every 3 hits on a monster,",
+        "strike lightning, dealing",
+        "60% of the hit's damage."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Thunderlord VII",
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a60% §7of the hit's damage.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Catacombs (§aVI-VII§7)",
+        " §7- Bazaar (§aVI-VII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 14",
+        "",
+        "§6Conflicts:",
+        " §7- §cThunderbolt",
+        "",
+        "§5§lEPIC"
+      ]
+    },
+    {
+      "id": "CLEAVE;1",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/CLEAVE%3B1.json",
+      "source_sha256": "5276B5CF39473C2A75F5801D984EB597F7FE3E4C751CFAD0E3C9963D517BD45A",
+      "title_plain": "Cleave I",
+      "effect_legacy": [
+        "§7Deals §a5% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.3 §7blocks of the target."
+      ],
+      "effect_plain": [
+        "Deals 5% of your damage",
+        "dealt to other monsters within",
+        "3.3 blocks of the target."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Cleave I",
+        "§7Deals §a5% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.3 §7blocks of the target.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 4",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "CLEAVE;2",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/CLEAVE%3B2.json",
+      "source_sha256": "B190F77E4612FBFA2A4278F28651BB2DE466FEAFD83665ECE4ADF08FE37779D2",
+      "title_plain": "Cleave II",
+      "effect_legacy": [
+        "§7Deals §a10% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.6 §7blocks of the target."
+      ],
+      "effect_plain": [
+        "Deals 10% of your damage",
+        "dealt to other monsters within",
+        "3.6 blocks of the target."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Cleave II",
+        "§7Deals §a10% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.6 §7blocks of the target.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 4",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "CLEAVE;3",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/CLEAVE%3B3.json",
+      "source_sha256": "95BCC22F618EB7621F0B7F8E955C71265EDFCCA2A4072A2C6E38229FB2EFA135",
+      "title_plain": "Cleave III",
+      "effect_legacy": [
+        "§7Deals §a15% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.9 §7blocks of the target."
+      ],
+      "effect_plain": [
+        "Deals 15% of your damage",
+        "dealt to other monsters within",
+        "3.9 blocks of the target."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Cleave III",
+        "§7Deals §a15% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.9 §7blocks of the target.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 4",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "CLEAVE;4",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/CLEAVE%3B4.json",
+      "source_sha256": "0F75654629646002EF6D528B8441815B34BCD1152FDA25C97F9CB460AADBF147",
+      "title_plain": "Cleave IV",
+      "effect_legacy": [
+        "§7Deals §a20% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.2 §7blocks of the target."
+      ],
+      "effect_plain": [
+        "Deals 20% of your damage",
+        "dealt to other monsters within",
+        "4.2 blocks of the target."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Cleave IV",
+        "§7Deals §a20% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.2 §7blocks of the target.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 4",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "CLEAVE;5",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/CLEAVE%3B5.json",
+      "source_sha256": "8C68BF97441F3EBEA271D84C5689C2780298E2E6167F1B144E99C05F72026891",
+      "title_plain": "Cleave V",
+      "effect_legacy": [
+        "§7Deals §a25% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.5 §7blocks of the target."
+      ],
+      "effect_plain": [
+        "Deals 25% of your damage",
+        "dealt to other monsters within",
+        "4.5 blocks of the target."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Cleave V",
+        "§7Deals §a25% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.5 §7blocks of the target.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 4",
+        "",
+        "§a§lUNCOMMON"
+      ]
+    },
+    {
+      "id": "CLEAVE;6",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/CLEAVE%3B6.json",
+      "source_sha256": "74C69D28C9919EDB57E71BD90348AA6CB5F8FC8A53077D7E13747AE621106BF9",
+      "title_plain": "Cleave VI",
+      "effect_legacy": [
+        "§7Deals §a30% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.8 §7blocks of the target."
+      ],
+      "effect_plain": [
+        "Deals 30% of your damage",
+        "dealt to other monsters within",
+        "4.8 blocks of the target."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Cleave VI",
+        "§7Deals §a30% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.8 §7blocks of the target.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 4",
+        "",
+        "§9§lRARE"
+      ]
+    },
+    {
+      "id": "IMPALING;1",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/IMPALING%3B1.json",
+      "source_sha256": "95751CD64B7210FD9FDD5A75FE7C2CF256491B6D824D98BD924C4A2EB63F5F23",
+      "title_plain": "Impaling I",
+      "effect_legacy": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a5%§7."
+      ],
+      "effect_plain": [
+        "Increases damage dealt to ⚓",
+        "Aquatic mobs by 5%."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Impaling I",
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a5%§7.",
+        "",
+        "§6Source:",
+        " §7- Enchantment Table (§aI-V§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fFishing Rod",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        " §7- §fBow",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 12",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "IMPALING;2",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/IMPALING%3B2.json",
+      "source_sha256": "0C28FC91724290A722B701CA7115B5383B44EF676575059D6F20E319F41377DA",
+      "title_plain": "Impaling II",
+      "effect_legacy": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a10%§7."
+      ],
+      "effect_plain": [
+        "Increases damage dealt to ⚓",
+        "Aquatic mobs by 10%."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Impaling II",
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a10%§7.",
+        "",
+        "§6Source:",
+        " §7- Enchantment Table (§aI-V§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fFishing Rod",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        " §7- §fBow",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 12",
+        "§6Source:",
+        "§aI-V: §7Enchantment Table",
+        "",
+        "§6Applied To:",
+        "§7- §fFishing Rod",
+        "§7- §fSword",
+        "§7- §fFishing Weapon",
+        "§7- §fLongsword",
+        "§7- §fGauntlet",
+        "§7- §fBow",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "IMPALING;3",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/IMPALING%3B3.json",
+      "source_sha256": "799E1911300918DCEE26CAD3F545E77BEEB65ED6CD220DEAF962AC89DFCB4758",
+      "title_plain": "Impaling III",
+      "effect_legacy": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a15%§7."
+      ],
+      "effect_plain": [
+        "Increases damage dealt to ⚓",
+        "Aquatic mobs by 15%."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Impaling III",
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a15%§7.",
+        "",
+        "§6Source:",
+        " §7- Enchantment Table (§aI-V§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fFishing Rod",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        " §7- §fBow",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 12",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "IMPALING;4",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/IMPALING%3B4.json",
+      "source_sha256": "9407D8230550D36AB220FCCAA7984AA65650547F105B7DADD318D81FC9527ACE",
+      "title_plain": "Impaling IV",
+      "effect_legacy": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a20%§7."
+      ],
+      "effect_plain": [
+        "Increases damage dealt to ⚓",
+        "Aquatic mobs by 20%."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Impaling IV",
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a20%§7.",
+        "",
+        "§6Source:",
+        " §7- Enchantment Table (§aI-V§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fFishing Rod",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        " §7- §fBow",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 12",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "IMPALING;5",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/IMPALING%3B5.json",
+      "source_sha256": "CEAB2922DA4FBF12B24348B36E9251F9A2A9AC723063F01496CA135A0A9D9921",
+      "title_plain": "Impaling V",
+      "effect_legacy": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a30%§7."
+      ],
+      "effect_plain": [
+        "Increases damage dealt to ⚓",
+        "Aquatic mobs by 30%."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Impaling V",
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a30%§7.",
+        "",
+        "§6Source:",
+        " §7- Enchantment Table (§aI-V§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fFishing Rod",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        " §7- §fBow",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 12",
+        "",
+        "§a§lUNCOMMON"
+      ]
+    },
+    {
+      "id": "VENOMOUS;1",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/VENOMOUS%3B1.json",
+      "source_sha256": "ECE91C9947A6BD43B7FDEBCF2AE04749C9EE479F4ECC9EC81FDBEA3CCEC17FF6",
+      "title_plain": "Venomous I",
+      "effect_legacy": [
+        "§7Reduces the target's walk speed by",
+        "§a2% §7and deals §2+0.2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ],
+      "effect_plain": [
+        "Reduces the target's walk speed by",
+        "2% and deals +0.2% of your damage",
+        "per second per hit, stacking globally",
+        "up to 40 hits. Lasts 5s."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Venomous I",
+        "§7Reduces the target's walk speed by",
+        "§a2% §7and deals §2+0.2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        " §7- §6Fateful Stinger§7 (§aVII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 17",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "VENOMOUS;2",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/VENOMOUS%3B2.json",
+      "source_sha256": "230DA258636E3B020E091EA32B5A242B08B36CED55A4B8C9255376393C034919",
+      "title_plain": "Venomous II",
+      "effect_legacy": [
+        "§7Reduces the target's walk speed by",
+        "§a4% §7and deals §2+0.4% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ],
+      "effect_plain": [
+        "Reduces the target's walk speed by",
+        "4% and deals +0.4% of your damage",
+        "per second per hit, stacking globally",
+        "up to 40 hits. Lasts 5s."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Venomous II",
+        "§7Reduces the target's walk speed by",
+        "§a4% §7and deals §2+0.4% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        " §7- §6Fateful Stinger§7 (§aVII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 17",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "VENOMOUS;3",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/VENOMOUS%3B3.json",
+      "source_sha256": "EC4DEAA37C70A0A75B26395AAECA914E3BB0EB2A86144A147570BE3C456309B6",
+      "title_plain": "Venomous III",
+      "effect_legacy": [
+        "§7Reduces the target's walk speed by",
+        "§a6% §7and deals §2+0.6% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ],
+      "effect_plain": [
+        "Reduces the target's walk speed by",
+        "6% and deals +0.6% of your damage",
+        "per second per hit, stacking globally",
+        "up to 40 hits. Lasts 5s."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Venomous III",
+        "§7Reduces the target's walk speed by",
+        "§a6% §7and deals §2+0.6% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        " §7- §6Fateful Stinger§7 (§aVII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 17",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "VENOMOUS;4",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/VENOMOUS%3B4.json",
+      "source_sha256": "F645B7ED0355F1EF0BD4D291C2D1E525A4B827725BCE70301F6298E2C4A53BF9",
+      "title_plain": "Venomous IV",
+      "effect_legacy": [
+        "§7Reduces the target's walk speed by",
+        "§a8% §7and deals §2+0.8% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ],
+      "effect_plain": [
+        "Reduces the target's walk speed by",
+        "8% and deals +0.8% of your damage",
+        "per second per hit, stacking globally",
+        "up to 40 hits. Lasts 5s."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Venomous IV",
+        "§7Reduces the target's walk speed by",
+        "§a8% §7and deals §2+0.8% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        " §7- §6Fateful Stinger§7 (§aVII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 17",
+        "",
+        "§f§lCOMMON"
+      ]
+    },
+    {
+      "id": "VENOMOUS;5",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/VENOMOUS%3B5.json",
+      "source_sha256": "69C9902C7FEC191B8323DA72696A49834D8E572B8CA2C659199FFEC3311A2875",
+      "title_plain": "Venomous V",
+      "effect_legacy": [
+        "§7Reduces the target's walk speed by",
+        "§a12% §7and deals §2+1.2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ],
+      "effect_plain": [
+        "Reduces the target's walk speed by",
+        "12% and deals +1.2% of your damage",
+        "per second per hit, stacking globally",
+        "up to 40 hits. Lasts 5s."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Venomous V",
+        "§7Reduces the target's walk speed by",
+        "§a12% §7and deals §2+1.2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        " §7- §6Fateful Stinger§7 (§aVII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 17",
+        "",
+        "§a§lUNCOMMON"
+      ]
+    },
+    {
+      "id": "VENOMOUS;6",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/VENOMOUS%3B6.json",
+      "source_sha256": "AFE6FD61BB80DE87804312D007BAD5BAA19D3255921376ECEBE7E4F160511EEE",
+      "title_plain": "Venomous VI",
+      "effect_legacy": [
+        "§7Reduces the target's walk speed by",
+        "§a15% §7and deals §2+1.6% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ],
+      "effect_plain": [
+        "Reduces the target's walk speed by",
+        "15% and deals +1.6% of your damage",
+        "per second per hit, stacking globally",
+        "up to 40 hits. Lasts 5s."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Venomous VI",
+        "§7Reduces the target's walk speed by",
+        "§a15% §7and deals §2+1.6% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        " §7- §6Fateful Stinger§7 (§aVII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 17",
+        "",
+        "§9§lRARE"
+      ]
+    },
+    {
+      "id": "VENOMOUS;7",
+      "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/8e9793b8b05922b7c37407f891c572c40908c93e/items/VENOMOUS%3B7.json",
+      "source_sha256": "B86953B1E275670280DCF104DBF3103563B99592ED55225BAE2799AD69DDDAA8",
+      "title_plain": "Venomous VII",
+      "effect_legacy": [
+        "§7Reduces the target's walk speed by",
+        "§a20% §7and deals §2+2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ],
+      "effect_plain": [
+        "Reduces the target's walk speed by",
+        "20% and deals +2% of your damage",
+        "per second per hit, stacking globally",
+        "up to 40 hits. Lasts 5s."
+      ],
+      "full_lore_legacy": [
+        "§8Combinable in Anvil",
+        "",
+        "§9Venomous VII",
+        "§7Reduces the target's walk speed by",
+        "§a20% §7and deals §2+2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7.",
+        "",
+        "§6Sources:",
+        " §7- Enchantment Table (§aI-V§7)",
+        " §7- Experiments (§aVI§7)",
+        " §7- Bazaar (§aVI§7)",
+        " §7- §6Fateful Stinger§7 (§aVII§7)",
+        "",
+        "§6Applied To:",
+        " §7- §fSword",
+        " §7- §fLongsword",
+        " §7- §fGauntlet",
+        "",
+        "§6Requirements:",
+        " §7- §bEnchanting Level 17",
+        "",
+        "§5§lEPIC"
+      ]
+    }
+  ]
+}

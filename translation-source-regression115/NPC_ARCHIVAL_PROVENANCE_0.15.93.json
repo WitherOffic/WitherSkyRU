@@ -1,0 +1,240 @@
+{
+  "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925",
+  "scope": "Explicit event/version and alpha conditions preserved;not live certification.13 Clerk historical keys.",
+  "records": [
+    {
+      "source": "[NPC] Clerk Seraphine: Talk to me later for information about the resistance...",
+      "occurrence_id": "p13591-r830411-o5714-l0-f3415",
+      "block_id": "p13591-r830411-o5714",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|4-5 April 2021}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: I managed to undo some of Dante's damage! Pets should be back!",
+      "occurrence_id": "p13591-r830411-o7744-l0-f3432",
+      "block_id": "p13591-r830411-o7744",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |After [[The Uprising]] \n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: Welcome to the mayor elections!",
+      "occurrence_id": "p13591-r830411-o7938-l1-f3433",
+      "block_id": "p13591-r830411-o7938",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.9-0.20.3 in [[Election Room|Election Room]]}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: Democracy has never been this simple!",
+      "occurrence_id": "p13591-r830411-o7938-l2-f3434",
+      "block_id": "p13591-r830411-o7938",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.9-0.20.3 in [[Election Room|Election Room]]}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: Everyone votes for their favorite candidate...",
+      "occurrence_id": "p13591-r830411-o7938-l3-f3435",
+      "block_id": "p13591-r830411-o7938",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.9-0.20.3 in [[Election Room|Election Room]]}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: ... and whoever has the most votes becomes mayor for a year!",
+      "occurrence_id": "p13591-r830411-o7938-l4-f3436",
+      "block_id": "p13591-r830411-o7938",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.9-0.20.3 in [[Election Room|Election Room]]}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: The elected mayor offers perks for everyone!",
+      "occurrence_id": "p13591-r830411-o7938-l5-f3437",
+      "block_id": "p13591-r830411-o7938",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.9-0.20.3 in [[Election Room|Election Room]]}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: We're still decorating since the building renovations!",
+      "occurrence_id": "p13591-r830411-o8378-l2-f3439",
+      "block_id": "p13591-r830411-o8378",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.8.1-0.9}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: The Community Center will be finished soon!",
+      "occurrence_id": "p13591-r830411-o8590-l1-f3440",
+      "block_id": "p13591-r830411-o8590",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.1-0.8.1}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: Check back later for updates!",
+      "occurrence_id": "p13591-r830411-o8590-l2-f3441",
+      "block_id": "p13591-r830411-o8590",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.1-0.8.1}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: This is going to be our Village's Community Center!",
+      "occurrence_id": "p13591-r830411-o8590-l3-f3442",
+      "block_id": "p13591-r830411-o8590",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.1-0.8.1}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: Right now, it's under construction.",
+      "occurrence_id": "p13591-r830411-o8590-l4-f3443",
+      "block_id": "p13591-r830411-o8590",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.1-0.8.1}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Clerk Seraphine: Check back later to view leaderboards and the latest news!",
+      "occurrence_id": "p13591-r830411-o8590-l5-f3444",
+      "block_id": "p13591-r830411-o8590",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |None<br>{{DG|0.1-0.8.1}}\n|",
+      "flags": [
+        "explicit historical version/event condition;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: Have you heard of the Garden?",
+      "occurrence_id": "p97792-r859470-o4071-l1-f14629",
+      "block_id": "p97792-r859470-o4071",
+      "condition_context_raw": "|-\n| colspan=2 class=\"ct\" | First interaction with garden locked {{ahn|small=y}}\n|{{Red|You must complete the Garden tutorial before using this!}}\n",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: Well I'm sure you'll have your own soon enough.",
+      "occurrence_id": "p97792-r859470-o4071-l2-f14630",
+      "block_id": "p97792-r859470-o4071",
+      "condition_context_raw": "|-\n| colspan=2 class=\"ct\" | First interaction with garden locked {{ahn|small=y}}\n|{{Red|You must complete the Garden tutorial before using this!}}\n",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: When you do, come talk to me.",
+      "occurrence_id": "p97792-r859470-o4071-l3-f14631",
+      "block_id": "p97792-r859470-o4071",
+      "condition_context_raw": "|-\n| colspan=2 class=\"ct\" | First interaction with garden locked {{ahn|small=y}}\n|{{Red|You must complete the Garden tutorial before using this!}}\n",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: So you've got your own Garden, but are you shotting for the Stars?",
+      "occurrence_id": "p97792-r859470-o4349-l1-f14632",
+      "block_id": "p97792-r859470-o4349",
+      "condition_context_raw": "|-\n| colspan=2 class=\"ct\" | First interaction with garden unlocked {{ahn|small=y}}\n| ",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: Serve 3,000 Visitors in your Garden and then come back.",
+      "occurrence_id": "p97792-r859470-o4349-l2-f14633",
+      "block_id": "p97792-r859470-o4349",
+      "condition_context_raw": "|-\n| colspan=2 class=\"ct\" | First interaction with garden unlocked {{ahn|small=y}}\n| ",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: From up here I'm able to see all the Gardens in SkyBlock.",
+      "occurrence_id": "p97792-r859470-o5149-l1-f14634",
+      "block_id": "p97792-r859470-o5149",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |After being given a {{Item|Bachelor's Rose}} from a player who served {{Green|3,000}} [[Garden Visitors]] or more {{ahn|small=y}}\n|",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: All the crops...all the Visitors...",
+      "occurrence_id": "p97792-r859470-o5149-l2-f14635",
+      "block_id": "p97792-r859470-o5149",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |After being given a {{Item|Bachelor's Rose}} from a player who served {{Green|3,000}} [[Garden Visitors]] or more {{ahn|small=y}}\n|",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: Your Garden seems particularly of note, however.",
+      "occurrence_id": "p97792-r859470-o5149-l3-f14636",
+      "block_id": "p97792-r859470-o5149",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |After being given a {{Item|Bachelor's Rose}} from a player who served {{Green|3,000}} [[Garden Visitors]] or more {{ahn|small=y}}\n|",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: You've accepted offers from well over 3,000 Visitors...",
+      "occurrence_id": "p97792-r859470-o5149-l4-f14637",
+      "block_id": "p97792-r859470-o5149",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |After being given a {{Item|Bachelor's Rose}} from a player who served {{Green|3,000}} [[Garden Visitors]] or more {{ahn|small=y}}\n|",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Spaceman: If you were to invite me to visit, I would not say no.",
+      "occurrence_id": "p97792-r859470-o5149-l5-f14638",
+      "block_id": "p97792-r859470-o5149",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |After being given a {{Item|Bachelor's Rose}} from a player who served {{Green|3,000}} [[Garden Visitors]] or more {{ahn|small=y}}\n|",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Taylor: Ah, a Bachelor's Rose? You want to view my exclusive Garden skin collection?",
+      "occurrence_id": "p9941-r859233-o3713-l1-f15503",
+      "block_id": "p9941-r859233-o3713",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |Giving [[Bachelor's Rose]] without having {{Aqua|'''DIAMOND'''}} in all [[Jacob's Farming Contest]]s {{ahn|small=y}}\n|",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Taylor: Unfortunately I only visit the Gardens of the best farmers in SkyBlock.",
+      "occurrence_id": "p9941-r859233-o3713-l2-f15504",
+      "block_id": "p9941-r859233-o3713",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |Giving [[Bachelor's Rose]] without having {{Aqua|'''DIAMOND'''}} in all [[Jacob's Farming Contest]]s {{ahn|small=y}}\n|",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    },
+    {
+      "source": "[NPC] Taylor: If you can reach the DIAMOND bracket in each of Jacob's Farming Contests, then we'll talk adventurer!",
+      "occurrence_id": "p9941-r859233-o3713-l3-f15505",
+      "block_id": "p9941-r859233-o3713",
+      "condition_context_raw": "|-\n| colspan=\"2\" class=\"ct\" |Giving [[Bachelor's Rose]] without having {{Aqua|'''DIAMOND'''}} in all [[Jacob's Farming Contest]]s {{ahn|small=y}}\n|",
+      "flags": [
+        "published alpha/experimental note;not live-certified"
+      ]
+    }
+  ]
+}

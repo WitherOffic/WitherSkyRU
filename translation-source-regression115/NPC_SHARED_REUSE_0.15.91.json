@@ -1,0 +1,1476 @@
+{
+  "scope": "147 exact reviewed source/body pairs;recipient conditions read individually;no approximate or automatic translation",
+  "count": 147,
+  "records": [
+    {
+      "source": "[NPC] Nuvian: Are you a Wizard?",
+      "authored_tsv_row": "Nuvian|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o1589-l1-f11220"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Nuvian|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o1589-l2-f11221"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Nuvian|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o1589-l3-f11222"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Nuvian|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o1888-l1-f11223"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: What a fantastic choice!",
+      "authored_tsv_row": "Nuvian|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o1888-l2-f11224"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Nuvian|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o1888-l3-f11225"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Nuvian|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o1888-l4-f11226"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Sul-phur",
+      "authored_tsv_row": "Nuvian|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2311-l1-f11227"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Sulphur?",
+      "authored_tsv_row": "Nuvian|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2311-l2-f11228"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Me Sulphur.",
+      "authored_tsv_row": "Nuvian|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2311-l3-f11229"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Are you a Hero?",
+      "authored_tsv_row": "Nuvian|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2481-l1-f11230"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Nuvian|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2481-l2-f11231"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Nuvian|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2481-l3-f11232"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: You seem suspicious.",
+      "authored_tsv_row": "Nuvian|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2779-l0-f11233"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Nuvian|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2838-l0-f11234"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Nuvian: Please stop bothering me.",
+      "authored_tsv_row": "Nuvian|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p90616-r789894-o2914-l0-f11235"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Are you a Wizard?",
+      "authored_tsv_row": "Plenk|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o863-l1-f11803"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Plenk|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o863-l2-f11804"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Plenk|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o863-l3-f11805"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Plenk|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1159-l1-f11806"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: What a fantastic choice!",
+      "authored_tsv_row": "Plenk|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1159-l2-f11807"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Plenk|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1159-l3-f11808"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Plenk|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1159-l4-f11809"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Sul-phur",
+      "authored_tsv_row": "Plenk|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1578-l1-f11810"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Sulphur?",
+      "authored_tsv_row": "Plenk|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1578-l2-f11811"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Me Sulphur.",
+      "authored_tsv_row": "Plenk|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1578-l3-f11812"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Are you a Hero?",
+      "authored_tsv_row": "Plenk|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1745-l1-f11813"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Plenk|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1745-l2-f11814"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Plenk|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o1745-l3-f11815"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: You seem suspicious.",
+      "authored_tsv_row": "Plenk|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o2040-l0-f11816"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Plenk|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o2098-l0-f11817"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Plenk: Please stop bothering me.",
+      "authored_tsv_row": "Plenk|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91849-r790077-o2173-l0-f11818"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Are you a Wizard?",
+      "authored_tsv_row": "An|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o772-l1-f467"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "An|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o772-l2-f468"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "An|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o772-l3-f469"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "An|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1059-l1-f470"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: What a fantastic choice!",
+      "authored_tsv_row": "An|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1059-l2-f471"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "An|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1059-l3-f472"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "An|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1059-l4-f473"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Sul-phur",
+      "authored_tsv_row": "An|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1466-l1-f474"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Sulphur?",
+      "authored_tsv_row": "An|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1466-l2-f475"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Me Sulphur.",
+      "authored_tsv_row": "An|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1466-l3-f476"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Are you a Hero?",
+      "authored_tsv_row": "An|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1624-l1-f477"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "An|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1624-l2-f478"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "An|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1624-l3-f479"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: You seem suspicious.",
+      "authored_tsv_row": "An|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1910-l0-f480"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "An|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o1965-l0-f481"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] An: Please stop bothering me.",
+      "authored_tsv_row": "An|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91645-r786669-o2037-l0-f482"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Are you a Wizard?",
+      "authored_tsv_row": "Yoink|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o914-l1-f18001"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Yoink|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o914-l2-f18002"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Yoink|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o914-l3-f18003"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Yoink|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1210-l1-f18004"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: What a fantastic choice!",
+      "authored_tsv_row": "Yoink|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1210-l2-f18005"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Yoink|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1210-l3-f18006"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Yoink|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1210-l4-f18007"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Sul-phur",
+      "authored_tsv_row": "Yoink|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1629-l1-f18008"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Sulphur?",
+      "authored_tsv_row": "Yoink|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1629-l2-f18009"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Me Sulphur.",
+      "authored_tsv_row": "Yoink|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1629-l3-f18010"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Are you a Hero?",
+      "authored_tsv_row": "Yoink|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1796-l1-f18011"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Yoink|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1796-l2-f18012"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Yoink|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o1796-l3-f18013"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: You seem suspicious.",
+      "authored_tsv_row": "Yoink|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o2091-l0-f18014"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Yoink|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o2149-l0-f18015"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Yoink: Please stop bothering me.",
+      "authored_tsv_row": "Yoink|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p92413-r815387-o2224-l0-f18016"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Are you a Wizard?",
+      "authored_tsv_row": "Barbarian Emissary|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1158-l1-f1216"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Barbarian Emissary|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1158-l2-f1217"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Barbarian Emissary|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1158-l3-f1218"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Barbarian Emissary|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1493-l1-f1219"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: What a fantastic choice!",
+      "authored_tsv_row": "Barbarian Emissary|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1493-l2-f1220"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Barbarian Emissary|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1493-l3-f1221"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Barbarian Emissary|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1493-l4-f1222"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Sul-phur",
+      "authored_tsv_row": "Barbarian Emissary|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1964-l1-f1223"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Sulphur?",
+      "authored_tsv_row": "Barbarian Emissary|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1964-l2-f1224"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Me Sulphur.",
+      "authored_tsv_row": "Barbarian Emissary|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o1964-l3-f1225"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Are you a Hero?",
+      "authored_tsv_row": "Barbarian Emissary|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o2170-l1-f1226"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Barbarian Emissary|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o2170-l2-f1227"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Barbarian Emissary|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o2170-l3-f1228"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: You seem suspicious.",
+      "authored_tsv_row": "Barbarian Emissary|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o2504-l0-f1229"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Barbarian Emissary|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o2575-l0-f1230"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Barbarian Emissary: Please stop bothering me.",
+      "authored_tsv_row": "Barbarian Emissary|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91670-r857623-o2663-l0-f1231"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Are you a Wizard?",
+      "authored_tsv_row": "Chihai|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o905-l1-f3004"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Chihai|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o905-l2-f3005"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Chihai|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o905-l3-f3006"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Chihai|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1204-l1-f3007"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: What a fantastic choice!",
+      "authored_tsv_row": "Chihai|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1204-l2-f3008"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Chihai|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1204-l3-f3009"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Chihai|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1204-l4-f3010"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Sul-phur",
+      "authored_tsv_row": "Chihai|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1627-l1-f3011"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Sulphur?",
+      "authored_tsv_row": "Chihai|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1627-l2-f3012"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Me Sulphur.",
+      "authored_tsv_row": "Chihai|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1627-l3-f3013"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Are you a Hero?",
+      "authored_tsv_row": "Chihai|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1797-l1-f3014"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Chihai|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1797-l2-f3015"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Chihai|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o1797-l3-f3016"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: You seem suspicious.",
+      "authored_tsv_row": "Chihai|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o2095-l0-f3017"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Chihai|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o2154-l0-f3018"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Chihai: Please stop bothering me.",
+      "authored_tsv_row": "Chihai|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91813-r787817-o2230-l0-f3019"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Are you a Wizard?",
+      "authored_tsv_row": "Jine|Are you a Wizard?|Ты волшебник?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o731-l1-f8751"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Well you don't look like one, and you don't smell like one either.",
+      "authored_tsv_row": "Jine|Well you don't look like one, and you don't smell like one either.|Ну, не похож. И пахнешь не как волшебник.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o731-l2-f8752"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: In that case, I have nothing against you. I wish you a sulphuric day sir.",
+      "authored_tsv_row": "Jine|In that case, I have nothing against you. I wish you a sulphuric day sir.|Тогда я ничего против тебя не имею. Серного тебе дня, сударь.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o731-l3-f8753"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Hello stranger. Are you looking to join our faction?",
+      "authored_tsv_row": "Jine|Hello stranger. Are you looking to join our faction?|Здравствуй, чужеземец. Хочешь вступить в нашу фракцию?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1024-l1-f8754"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: What a fantastic choice!",
+      "authored_tsv_row": "Jine|What a fantastic choice!|Какой прекрасный выбор!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1024-l2-f8755"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: We have a range of motives far deeper and more interesting than those terrible fire mages.",
+      "authored_tsv_row": "Jine|We have a range of motives far deeper and more interesting than those terrible fire mages.|Наши устремления куда глубже и интереснее, чем у этих ужасных огненных магов.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1024-l3-f8756"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Joining our faction is quite hard but I'm sure an incredible individual like you will manage!",
+      "authored_tsv_row": "Jine|Joining our faction is quite hard but I'm sure an incredible individual like you will manage!|Вступить в нашу фракцию непросто, но такая выдающаяся личность, как ты, наверняка справится!",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1024-l4-f8757"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Sul-phur",
+      "authored_tsv_row": "Jine|Sul-phur|Се-ра",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1439-l1-f8758"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Sulphur?",
+      "authored_tsv_row": "Jine|Sulphur?|Сера?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1439-l2-f8759"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Me Sulphur.",
+      "authored_tsv_row": "Jine|Me Sulphur.|Я сера.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1439-l3-f8760"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Are you a Hero?",
+      "authored_tsv_row": "Jine|Are you a Hero?|Ты герой?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1603-l1-f8761"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Did you come to free us from the everlasting threat of the wizards?",
+      "authored_tsv_row": "Jine|Did you come to free us from the everlasting threat of the wizards?|Ты пришёл избавить нас от вечной угрозы волшебников?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1603-l2-f8762"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: The mighty Volcano is protecting us, but for how long?",
+      "authored_tsv_row": "Jine|The mighty Volcano is protecting us, but for how long?|Могучий вулкан защищает нас, но надолго ли?",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1603-l3-f8763"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: You seem suspicious.",
+      "authored_tsv_row": "Jine|You seem suspicious.|Ты выглядишь подозрительно.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1895-l0-f8764"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Jine|Sorry, I can't talk to you right now.|Прости, сейчас я не могу говорить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o1952-l0-f8765"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Jine: Please stop bothering me.",
+      "authored_tsv_row": "Jine|Please stop bothering me.|Пожалуйста, перестань меня беспокоить.",
+      "reviewed_target_source_file": "NPC89_BRUUH_REVIEWED.tsv",
+      "reviewed_file_sha256": "7C2167F437F157388D5E46252B6D2AC6D4C249C95F8935F0F2AF4E6C46E8BD9E",
+      "occurrence_ids": [
+        "p91850-r789267-o2026-l0-f8766"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: Oh, a new face! Welcome to the City of Magic!",
+      "authored_tsv_row": "Colore|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o1139-l1-f3504"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!",
+      "authored_tsv_row": "Colore|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o1139-l2-f3505"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.",
+      "authored_tsv_row": "Colore|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o1139-l3-f3506"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: Have you tried the new ability phone?",
+      "authored_tsv_row": "Colore|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o2526-l1-f3510"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: The new one is barely better than the one from last year, people still buy them like sheep...",
+      "authored_tsv_row": "Colore|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o2526-l2-f3511"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: Wait, you don't even have an Abiphone?",
+      "authored_tsv_row": "Colore|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o2526-l3-f3512"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: Yikes...",
+      "authored_tsv_row": "Colore|Yikes...|М-да...",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o2526-l4-f3513"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: Ah, the Piglins yes, quite troublesome they are.",
+      "authored_tsv_row": "Colore|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o2865-l1-f3514"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: I wouldn't go there if I were you.",
+      "authored_tsv_row": "Colore|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o2865-l2-f3515"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: You seem suspicious.",
+      "authored_tsv_row": "Colore|You seem suspicious.|Подозрительный ты какой-то.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o3083-l0-f3516"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Colore|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o3142-l0-f3517"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Colore: Please stop bothering me.",
+      "authored_tsv_row": "Colore|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91501-r822229-o3218-l0-f3518"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Don't disrespect your elders.",
+      "authored_tsv_row": "Mazakala|Don't disrespect your elders.|Уважай старших.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o772-l0-f10494"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Stop eavesdropping!!!",
+      "authored_tsv_row": "Mazakala|Stop eavesdropping!!!|Хватит подслушивать!!!",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o842-l0-f10495"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Please leave us alone.",
+      "authored_tsv_row": "Mazakala|Please leave us alone.|Пожалуйста, оставь нас в покое.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o904-l0-f10496"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: You are being very rude.",
+      "authored_tsv_row": "Mazakala|You are being very rude.|Ты ведёшь себя очень грубо.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o967-l0-f10497"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Oh, a new face! Welcome to the City of Magic!",
+      "authored_tsv_row": "Mazakala|Oh, a new face! Welcome to the City of Magic!|О, новое лицо! Добро пожаловать в Город магии!|{\"City of Magic\":\"Город магии\"}",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o1187-l1-f10498"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!",
+      "authored_tsv_row": "Mazakala|We used to be Pig Farmers centuries ago, but thanks to Sulphur we are now superior beings capable of mastering the magical elements!|Много веков назад мы разводили свиней, но благодаря сере стали высшими существами, способными повелевать магическими стихиями!|{\"Sulphur \":\"сере\"}",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o1187-l2-f10499"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.",
+      "authored_tsv_row": "Mazakala|If you are interested in tourist attractions I suggest you visit our Cathedral, which is also our Academy now.|Если хочешь осмотреть достопримечательности, советую посетить наш собор: теперь в нём ещё и Академия.|{\"Cathedral\":\"собор\"}",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o1187-l3-f10500"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Have you tried the new ability phone?",
+      "authored_tsv_row": "Mazakala|Have you tried the new ability phone?|Уже пробовал новый телефон способностей?",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o2586-l1-f10504"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: The new one is barely better than the one from last year, people still buy them like sheep...",
+      "authored_tsv_row": "Mazakala|The new one is barely better than the one from last year, people still buy them like sheep...|Он почти не отличается от прошлогоднего, а люди всё равно покупают их, как стадо баранов...",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o2586-l2-f10505"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Wait, you don't even have an Abiphone?",
+      "authored_tsv_row": "Mazakala|Wait, you don't even have an Abiphone?|Постой, у тебя даже Абифона нет?|{\"Abiphone\":\"Абифона\"}",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o2586-l3-f10506"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Yikes...",
+      "authored_tsv_row": "Mazakala|Yikes...|М-да...",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o2586-l4-f10507"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Ah, the Piglins yes, quite troublesome they are.",
+      "authored_tsv_row": "Mazakala|Ah, the Piglins yes, quite troublesome they are.|Ах да, пиглины. Столько от них хлопот.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o2933-l1-f10508"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: I wouldn't go there if I were you.",
+      "authored_tsv_row": "Mazakala|I wouldn't go there if I were you.|На твоём месте я бы туда не ходил.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o2933-l2-f10509"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: You seem suspicious.",
+      "authored_tsv_row": "Mazakala|You seem suspicious.|Подозрительный ты какой-то.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o3155-l0-f10510"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Sorry, I can't talk to you right now.",
+      "authored_tsv_row": "Mazakala|Sorry, I can't talk to you right now.|Извини, сейчас я не могу с тобой говорить.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o3216-l0-f10511"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Mazakala: Please stop bothering me.",
+      "authored_tsv_row": "Mazakala|Please stop bothering me.|Пожалуйста, перестань мне мешать.",
+      "reviewed_target_source_file": "NPC91_ARBADAK_REVIEWED.tsv",
+      "reviewed_file_sha256": "8366B772309E99F26BC07E05A942E6B0938CAAA2850656A1DAD98D8E5169EEE2",
+      "occurrence_ids": [
+        "p91640-r822235-o3294-l0-f10512"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Creed: Barry is a terrible leader!",
+      "authored_tsv_row": "Creed|Barry is a terrible leader!|Барри — ужасный лидер!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100458-r787955-o729-l1-f3716"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Creed: He doesn't want to hear us out!",
+      "authored_tsv_row": "Creed|He doesn't want to hear us out!|Он не хочет нас выслушать!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100458-r787955-o729-l2-f3717"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Creed: Barry is hiding from us!",
+      "authored_tsv_row": "Creed|Barry is hiding from us!|Барри от нас прячется!|{\"Barry \":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100458-r787955-o851-l1-f3718"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Creed: He doesn't want to face reality!",
+      "authored_tsv_row": "Creed|He doesn't want to face reality!|Он не хочет смотреть правде в глаза!",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100458-r787955-o851-l2-f3719"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Creed: Someone promised donuts when coming to this protest.",
+      "authored_tsv_row": "Creed|Someone promised donuts when coming to this protest.|На этом протесте обещали пончики.",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100458-r787955-o971-l1-f3720"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Creed: And I don't see ANY DONUT!",
+      "authored_tsv_row": "Creed|And I don't see ANY DONUT!|А я не вижу НИ ОДНОГО ПОНЧИКА!|{\"ANY DONUT\":\"НИ ОДНОГО ПОНЧИКА\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100458-r787955-o971-l2-f3721"
+      ],
+      "automatic_translation": false
+    },
+    {
+      "source": "[NPC] Creed: Screw Barry!",
+      "authored_tsv_row": "Creed|Screw Barry!|К чёрту Барри!|{\"Barry\":\"Барри\"}",
+      "reviewed_target_source_file": "NPC90_DUST_REVIEWED.tsv",
+      "reviewed_file_sha256": "E32182F878FEDC5BC9A30D86D1A744233353E1D704E2C90CB60C79D3455171B6",
+      "occurrence_ids": [
+        "p100458-r787955-o971-l3-f3722"
+      ],
+      "automatic_translation": false
+    }
+  ]
+}

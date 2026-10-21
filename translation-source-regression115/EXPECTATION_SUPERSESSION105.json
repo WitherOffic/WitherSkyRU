@@ -1,0 +1,754 @@
+{
+  "scope": "Historical golden data unchanged in translation-source. This isolated snapshot intentionally revises only eleven targets/semantic anchors from the authored105 manifest; not a claim of unchanged old expectations.",
+  "revisions": [
+    {
+      "index": 0,
+      "source": "[NPC] Brigette: There are a lot of scams lurking around every corner.",
+      "old_translation": "[NPC] Brigette: Мошенничество может подстерегать на каждом шагу.",
+      "translation": "[NPC] Brigette: За каждым углом подстерегает множество мошеннических уловок.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "scams",
+          "target": "Мошенничество"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "scams",
+          "target": "мошеннических уловок"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "lot ",
+          "target": "множество"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p126017-r843624-o10198-l7-f1955",
+        "block_id": "p126017-r843624-o10198",
+        "page": "Brigette",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Brigette?oldid=843624",
+        "revision": 843624,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Brigette",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Brigette: There are a lot of scams lurking around every corner.",
+        "source_legacy_line": "§e[NPC] Brigette§f: There are a §clot §fof scams lurking around every corner.",
+        "payload_line": 7,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Brigette: Мошенничество может подстерегать на каждом шагу.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p126017-r843624-o10198-l7-f1955"
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "source": "[NPC] Gwendolyn: You should also talk to Emissary Braum, they have more information about commissions.",
+      "old_translation": "[NPC] Gwendolyn: Поговорите также с посланником Braum — он расскажет подробнее о поручениях.",
+      "translation": "[NPC] Gwendolyn: Поговорите также с посланником Браумом — он расскажет подробнее о поручениях.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Emissary Braum",
+          "target": "посланником Braum"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Emissary Braum",
+          "target": "посланником Браумом"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "Emissary Braum",
+          "target": "посланником Браумом"
+        },
+        {
+          "source": "commissions",
+          "target": "поручениях"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p78307-r823095-o978-l8-f7629",
+        "block_id": "p78307-r823095-o978",
+        "page": "Gwendolyn",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwendolyn?oldid=823095",
+        "revision": 823095,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Gwendolyn",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Gwendolyn: You should also talk to Emissary Braum, they have more information about commissions.",
+        "source_legacy_line": "§e[NPC] §5Gwendolyn§f: You should also talk to §6Emissary Braum§f, they have more information about §ecommissions§f.",
+        "payload_line": 8,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Gwendolyn: Поговорите также с посланником Braum — он расскажет подробнее о поручениях.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p78307-r823095-o978-l8-f7629"
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "source": "[NPC] Gwendolyn: Hey! Someone special has been asking to meet you!",
+      "old_translation": "[NPC] Gwendolyn: Эй! Кое-кто очень хотел с вами встретиться!",
+      "translation": "[NPC] Gwendolyn: Эй! Кое-кто особенный просил о встрече с вами!",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [],
+      "primary_anchors": [],
+      "style_anchors": [
+        {
+          "source": "special ",
+          "target": "особенный"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p78307-r823095-o2275-l1-f7633",
+        "block_id": "p78307-r823095-o2275",
+        "page": "Gwendolyn",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Gwendolyn?oldid=823095",
+        "revision": 823095,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Gwendolyn",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Gwendolyn: Hey! Someone special has been asking to meet you!",
+        "source_legacy_line": "§e[NPC] §5Gwendolyn§f: Hey! Someone §dspecial §fhas been asking to meet you!",
+        "payload_line": 1,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Gwendolyn: Эй! Кое-кто очень хотел с вами встретиться!",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p78307-r823095-o2275-l1-f7633"
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+      "old_translation": "[NPC] Juliette: Ох, люблю Romero! Он столько всего умеет.",
+      "translation": "[NPC] Juliette: Ох, люблю Ромеро! Он столько всего умеет.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Romero",
+          "target": "Romero"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Romero",
+          "target": "Ромеро"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "Romero",
+          "target": "Ромеро"
+        },
+        {
+          "source": "He ",
+          "target": "Он"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9654-r789285-o3505-l13-f8907",
+        "block_id": "p9654-r789285-o3505",
+        "page": "Juliette",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+        "revision": 789285,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Juliette",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Juliette: Oh! I love Romero! He has so many skills.",
+        "source_legacy_line": "§e[NPC] Juliette§f: Oh! I love §eRomero§f! §oHe §fhas so many skills.",
+        "payload_line": 13,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Juliette: Ох, люблю Romero! Он столько всего умеет.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9654-r789285-o3505-l13-f8907",
+          "p9654-r789285-o4303-l1-f8911"
+        ]
+      }
+    },
+    {
+      "index": 13,
+      "source": "[NPC] Juliette: Thank you for delivering it.",
+      "old_translation": "[NPC] Juliette: Спасибо, что принесли его.",
+      "translation": "[NPC] Juliette: Спасибо вам, что принесли его.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [],
+      "primary_anchors": [],
+      "style_anchors": [
+        {
+          "source": "you ",
+          "target": "вам"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9654-r789285-o7756-l2-f8958",
+        "block_id": "p9654-r789285-o7756",
+        "page": "Juliette",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+        "revision": 789285,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Juliette",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Juliette: Thank you for delivering it.",
+        "source_legacy_line": "§e[NPC] Juliette§f: Thank §dyou §ffor delivering it.",
+        "payload_line": 2,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Juliette: Спасибо, что принесли его.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9654-r789285-o7756-l2-f8958"
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+      "old_translation": "[NPC] Juliette: Не понимаю, почему Romero никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+      "translation": "[NPC] Juliette: Не понимаю, почему Ромеро никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Romero",
+          "target": "Romero"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Romero",
+          "target": "Ромеро"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "how ",
+          "target": "почему"
+        },
+        {
+          "source": "Romero ",
+          "target": "Ромеро"
+        },
+        {
+          "source": "I LOVE HIM",
+          "target": "Я ЕГО ЛЮБЛЮ"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9654-r789285-o7756-l3-f8959",
+        "block_id": "p9654-r789285-o7756",
+        "page": "Juliette",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Juliette?oldid=789285",
+        "revision": 789285,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Juliette",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Juliette: I don't know how Romero has such hard a time understanding that I LOVE HIM.",
+        "source_legacy_line": "§e[NPC] Juliette§f: I don't know §ohow §eRomero §fhas such hard a time understanding that §dI LOVE HIM§f.",
+        "payload_line": 3,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Juliette: Не понимаю, почему Romero никак не может понять, что Я ЕГО ЛЮБЛЮ.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9654-r789285-o7756-l3-f8959"
+        ]
+      }
+    },
+    {
+      "index": 25,
+      "source": "[NPC] Ozanne: Crazy stuff!",
+      "old_translation": "[NPC] Ozanne: Вот были времена!",
+      "translation": "[NPC] Ozanne: Вот это безумие!",
+      "primary_resource": "npc-expansion74.json",
+      "old_primary_anchors": [],
+      "primary_anchors": [],
+      "style_anchors": [
+        {
+          "source": "Crazy ",
+          "target": "безумие"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p89572-r789956-o1157-l3-f11533",
+        "block_id": "p89572-r789956-o1157",
+        "page": "Ozanne",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ozanne?oldid=789956",
+        "revision": 789956,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Ozanne",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Ozanne: Crazy stuff!",
+        "source_legacy_line": "§e[NPC] Ozanne§f:§c Crazy §fstuff!",
+        "payload_line": 3,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Ozanne: Вот были времена!",
+            "resource": "npc-expansion74.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p89572-r789956-o1157-l3-f11533"
+        ]
+      }
+    },
+    {
+      "index": 36,
+      "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+      "old_translation": "[NPC] Romero: Я хочу добраться до Луны ради Juliette.",
+      "translation": "[NPC] Romero: Я хочу добраться до Луны ради Джульетты.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Juliette"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "moon ",
+          "target": "Луны"
+        },
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9657-r845939-o7785-l1-f13037",
+        "block_id": "p9657-r845939-o7785",
+        "page": "Romero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+        "revision": 845939,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Romero",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Romero: I want to reach the moon for Juliette.",
+        "source_legacy_line": "§e[NPC] Romero§f: I want to reach the §emoon §ffor §eJuliette§f.",
+        "payload_line": 1,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Romero: Я хочу добраться до Луны ради Juliette.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9657-r845939-o7785-l1-f13037"
+        ]
+      }
+    },
+    {
+      "index": 41,
+      "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+      "old_translation": "[NPC] Romero: Хочу сделать для Juliette тайный подарок.",
+      "translation": "[NPC] Romero: Хочу сделать для Джульетты тайный подарок.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Juliette"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "secret gift ",
+          "target": "тайный подарок"
+        },
+        {
+          "source": "Juliette",
+          "target": "Джульетты"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9657-r845939-o9077-l1-f13051",
+        "block_id": "p9657-r845939-o9077",
+        "page": "Romero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+        "revision": 845939,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Romero",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Romero: I want to make a secret gift for Juliette.",
+        "source_legacy_line": "§e[NPC] Romero§f: I want to make a §csecret gift §ffor §eJuliette§f.",
+        "payload_line": 1,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Romero: Хочу сделать для Juliette тайный подарок.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9657-r845939-o9077-l1-f13051"
+        ]
+      }
+    },
+    {
+      "index": 52,
+      "source": "[NPC] Romero: I do like it though!",
+      "old_translation": "[NPC] Romero: Хотя мне нравится!",
+      "translation": "[NPC] Romero: И всё же мне это действительно нравится!",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [],
+      "primary_anchors": [],
+      "style_anchors": [
+        {
+          "source": "do ",
+          "target": "действительно"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9657-r845939-o11894-l1-f13082",
+        "block_id": "p9657-r845939-o11894",
+        "page": "Romero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+        "revision": 845939,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Romero",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Romero: I do like it though!",
+        "source_legacy_line": "§e[NPC] Romero§f: I §ado §flike it though!",
+        "payload_line": 1,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Romero: Хотя мне нравится!",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9657-r845939-o11894-l1-f13082"
+        ]
+      }
+    },
+    {
+      "index": 59,
+      "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+      "old_translation": "[NPC] Romero: Спасибо огромное, что снова свели нас с Juliette.",
+      "translation": "[NPC] Romero: Спасибо огромное, что снова свели нас с Джульеттой.",
+      "primary_resource": "story-dialogues.json",
+      "old_primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Juliette"
+        }
+      ],
+      "primary_anchors": [
+        {
+          "source": "Juliette",
+          "target": "Джульеттой"
+        }
+      ],
+      "style_anchors": [
+        {
+          "source": "Thank you ",
+          "target": "Спасибо"
+        },
+        {
+          "source": "Juliette ",
+          "target": "Джульеттой"
+        }
+      ],
+      "queue_row": {
+        "occurrence_id": "p9657-r845939-o13340-l2-f13099",
+        "block_id": "p9657-r845939-o13340",
+        "page": "Romero",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Romero?oldid=845939",
+        "revision": 845939,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "tag": "NPC",
+        "speaker": "Romero",
+        "kind": "tagged_dialogue",
+        "source_kind": "Dialogue_template",
+        "source": "[NPC] Romero: Thank you so much for reuniting Juliette and I.",
+        "source_legacy_line": "§e[NPC] Romero§f: §aThank you §fso much for reuniting §eJuliette §fand I.",
+        "payload_line": 2,
+        "status": "exact_resource_match_not_runtime_proof",
+        "variable_definition": false,
+        "nonstandard_tag_layout": false,
+        "unresolved_markup": false,
+        "existing_resources": [
+          {
+            "translation": "[NPC] Romero: Спасибо огромное, что снова свели нас с Juliette.",
+            "resource": "story-dialogues.json"
+          }
+        ],
+        "translation_ru": "",
+        "occurrence_ids": [
+          "p9657-r845939-o13340-l2-f13099"
+        ]
+      }
+    }
+  ],
+  "changed_files": [
+    {
+      "file": "NPC_0.15.74_REVIEWED.tsv",
+      "historical_sha256": "1767AF04175D8C91CF4A4F4FE493C585984F10F12A60609B723DF2DE7530BBE8",
+      "revised_expectation_sha256": "59880C81D24ABABF0A25DBF21A3F055F831F935BB93B08285F3C82F3B8D64796"
+    },
+    {
+      "file": "NPC_SOURCES_0.15.101.json",
+      "historical_sha256": "7B3417330396BF5414A152ABC696F1C66A426DB47ABDFC17464F52B0EFE7DA21",
+      "revised_expectation_sha256": "22C9D616BF61D9CE0386968B7BB7AD878B686D477A09C5674117964D630E39CC"
+    },
+    {
+      "file": "NPC_SOURCES_0.15.102.json",
+      "historical_sha256": "59E7A66D85D3E68918EA70677A01428160544136FD4BC864CA2B56A230C219F0",
+      "revised_expectation_sha256": "D41D8FE5FEC65617DDFAEB8A642023B72D10D949A5B02D165D6D113132A2955E"
+    },
+    {
+      "file": "NPC_STYLES_0.15.104_REVIEWED.tsv",
+      "historical_sha256": "E0E99155F27F87B9961AE4896C05B114B33190469B5C63F162173961FB1F052D",
+      "revised_expectation_sha256": "3CA42919D61FF5C1EF39BD1B72B2CF334EAAA07E37E41A4B43433044D36E31A0"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.78.json",
+      "historical_sha256": "D9FB0527031BF30FAC0CA9BACA7A10F43494122CF111FF8F6E98CB0156503613",
+      "revised_expectation_sha256": "6B81884171B70F253CC663FA627651390562071FC134B72B8D3681ABCD13C648"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.79.json",
+      "historical_sha256": "F873A9A1EF410A189F8DE216D8AF32CA5366319800E2808EB820AB837CF0FCB7",
+      "revised_expectation_sha256": "C1B1C4B75281B77A58D76364EDF12E2D63A60778D03726AE61DB2D1B9117EDD6"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.80.json",
+      "historical_sha256": "BC23D2BF83695E984B420DEF42195B23F37B0E53E117E6DB0197A7C13A764E00",
+      "revised_expectation_sha256": "14B8FE1E239D5C5BD36D1D8D740525F6DD5ADA5242009622B88A76B641AD6DAD"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.81.json",
+      "historical_sha256": "BDA478CBC7F2EC4C987F806EE6A380A1E61EDF61EB2C19490D914C884F0F6E3F",
+      "revised_expectation_sha256": "7A25C23090E84AC082E55653BE69050B4CA98F6D7ADBD5441B06A618CCA8D14C"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.82.json",
+      "historical_sha256": "F9B613E824421E79DBDAE784A2B40DFCA0231CCB180CF746FC331F370741DE99",
+      "revised_expectation_sha256": "A3976D386000E381DD3AA9E3C8C8B3B0B794BFFBC4B4EB7CF834454189ED9250"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.83.json",
+      "historical_sha256": "A8EA7286F833B89BC2AD52D6A47B532EA77D721BE17CF3C58165174CD5195067",
+      "revised_expectation_sha256": "E4F155B9D39EF80131D9E3E5336956DCE3252A17B7112F1E1A7764FAC3EA0D84"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.84.json",
+      "historical_sha256": "3FCCD44DC1FB15D3C6371707E53D42522658AF401A40D161A1E7772DE815A4A6",
+      "revised_expectation_sha256": "BC25BAC3544CDD401B821B4CD44DA67FEAA8753E2E61241059936F618D4C90E1"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.85.json",
+      "historical_sha256": "4F9A67C345CB1485D5CEAC53FCBC2B5B5323A4A95CBE0F2758BF814C5A36B973",
+      "revised_expectation_sha256": "E8383A2798E501D431BF7161C939B2089DD480FB0AB27B03E9DD2EDE8BBE7333"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.86.json",
+      "historical_sha256": "5307AE1DD6A7F71F3C4206A770514096318222BB1BB5F66F2BA032ED662D9C81",
+      "revised_expectation_sha256": "A17D32D96A54FFB865143C448C023CFF63F7C7B7672F4D7563681340A3A366AC"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.87.json",
+      "historical_sha256": "E837FDAC14CE4CFA65CA9DA81DE81DDFDDF3FA130584401E111F0C6981DD6EDE",
+      "revised_expectation_sha256": "175662BED264BD3111C4AF1AE8F04682A8BB84825240B88874B10C18E71C5C39"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.88.json",
+      "historical_sha256": "F513781C08820078CDBBB92AD47ED8E495F69E247C0F7C041DBC9CAA8AEE1641",
+      "revised_expectation_sha256": "6E29D9040522837FEB4CEFD0C8F7C53F90D2310556831B88BC25AAB3F468C011"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.89.json",
+      "historical_sha256": "767559A62D829B97FFB507CA42B4D63D4B70E76A9EFF9C25DE4D5DDA252E5A4C",
+      "revised_expectation_sha256": "61127BE05F2A5A7416653E1F63D096E320DA594E4ABDAE294EB5AEF6F6C5A9B8"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.90.json",
+      "historical_sha256": "767559A62D829B97FFB507CA42B4D63D4B70E76A9EFF9C25DE4D5DDA252E5A4C",
+      "revised_expectation_sha256": "61127BE05F2A5A7416653E1F63D096E320DA594E4ABDAE294EB5AEF6F6C5A9B8"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.91.json",
+      "historical_sha256": "767559A62D829B97FFB507CA42B4D63D4B70E76A9EFF9C25DE4D5DDA252E5A4C",
+      "revised_expectation_sha256": "61127BE05F2A5A7416653E1F63D096E320DA594E4ABDAE294EB5AEF6F6C5A9B8"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.92.json",
+      "historical_sha256": "767559A62D829B97FFB507CA42B4D63D4B70E76A9EFF9C25DE4D5DDA252E5A4C",
+      "revised_expectation_sha256": "61127BE05F2A5A7416653E1F63D096E320DA594E4ABDAE294EB5AEF6F6C5A9B8"
+    },
+    {
+      "file": "NPC_STYLE_REMAINING_0.15.93.json",
+      "historical_sha256": "E6FBCEC6689D3B6ED98EC85BC0FADEFA4AB4A9C487D777311E84213134150AD8",
+      "revised_expectation_sha256": "2DFEE55CB591CE72D01D075BE6D8E6FE14F94A69723C3F640310830C8113491B"
+    },
+    {
+      "file": "NPC_STYLE_REVIEW_2026_10_16.json",
+      "historical_sha256": "323695199484B608AFC468AB0088A3C9DC5B4A21AF9358A2F14E2EBB7C5AA143",
+      "revised_expectation_sha256": "A1A0A8BC94C5A96EF6083D38EC99F27C33EB9FE49E569F969FE3067F406A3C5B"
+    },
+    {
+      "file": "NPC_STYLE_SOURCES_0.15.104.json",
+      "historical_sha256": "AFD8837CB16ADB15ECC93700EBC11941176B1FACF0BEA9E2F488AF13B7710942",
+      "revised_expectation_sha256": "C9ECFB84F68D67881064265CC092E10F0A7290B849E97B28A812D768CD8D8E55"
+    },
+    {
+      "file": "NPC_WORDING_PENDING_0.15.104.json",
+      "historical_sha256": "1C8FC0EEEE741012A7A3B118A0D14FAA40A7E0B726F0D28A883AA2AE2966EEA5",
+      "revised_expectation_sha256": "784A95587AA239654A29F5444D8C86D5996D4AA257D0F7F9B1052107D704A28B"
+    },
+    {
+      "file": "NPC_WORDING_SOURCES_0.15.105.json",
+      "historical_sha256": "37C757151F67F2F79743545DD76F46AC3D00DE505B0BC67B5987CD11F8F46821",
+      "revised_expectation_sha256": "6EC8461D5B77DBF4700832FAF942A0FDF4846F2A97CCC024BD4820922ACC9630"
+    }
+  ]
+}

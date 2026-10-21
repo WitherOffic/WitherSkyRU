@@ -1,0 +1,626 @@
+{
+  "checked_at": "2026-10-18T18:51:14.977039+07:00",
+  "api_urls": [
+    "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Adventurer+Saul%7CAlwin%7CAzax%7CBarbarian+Guard%7CBeekeeper+Bartholomew%7CCharlie%7CClerk+Seraphine%7CCold+Enjoyer%7CCryptosis%7CDax%7CErihann%7CEzekiel%7CFetchur%7CGunther%7CHina%7CJulian%7CKeran%7CKheharad%7CKing+Yolkar%7CKuudra+Archeologist%7CLazy+Miner%7CLiz%7CMad+Redstone+Engineer%7CMaddox+the+Slayer+%28Rift%29%7CMage+Guard%7CMage+Guard+%28Cathedral%29%7CMichael%7CMole+%28NPC%29%7COden%7COld+Timer%7CPam%7CPrie%7CRosemary%7CRulenor%7CSeffea%7CSilnar%7CSor%27Hen%7CSpaceman%7CTaylor%7CTaylor+%28Rift%29%7CTerry%7CTrevor%7CTyzzo%7CUlyn%7CWeird+Sailor%7CXalx&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2"
+  ],
+  "matches_pinned_corpus": false,
+  "private_or_unpublished_dialogue_known": false,
+  "pages": [
+    {
+      "pageid": 794,
+      "ns": 0,
+      "title": "Lazy Miner",
+      "revisions": [
+        {
+          "revid": 823037,
+          "parentid": 813927,
+          "timestamp": "2026-08-24T05:05:37Z"
+        }
+      ]
+    },
+    {
+      "pageid": 3435,
+      "ns": 0,
+      "title": "Charlie",
+      "revisions": [
+        {
+          "revid": 823057,
+          "parentid": 823055,
+          "timestamp": "2026-08-24T05:15:53Z"
+        }
+      ]
+    },
+    {
+      "pageid": 9941,
+      "ns": 0,
+      "title": "Taylor",
+      "revisions": [
+        {
+          "revid": 859233,
+          "parentid": 847567,
+          "timestamp": "2026-10-15T17:19:11Z"
+        }
+      ]
+    },
+    {
+      "pageid": 13591,
+      "ns": 0,
+      "title": "Clerk Seraphine",
+      "revisions": [
+        {
+          "revid": 830411,
+          "parentid": 787859,
+          "timestamp": "2026-09-03T01:23:41Z"
+        }
+      ]
+    },
+    {
+      "pageid": 13650,
+      "ns": 0,
+      "title": "Terry",
+      "revisions": [
+        {
+          "revid": 830499,
+          "parentid": 821433,
+          "timestamp": "2026-09-03T01:32:47Z"
+        }
+      ]
+    },
+    {
+      "pageid": 74187,
+      "ns": 0,
+      "title": "Mad Redstone Engineer",
+      "revisions": [
+        {
+          "revid": 813995,
+          "parentid": 789514,
+          "timestamp": "2026-08-11T19:31:05Z"
+        }
+      ]
+    },
+    {
+      "pageid": 76593,
+      "ns": 0,
+      "title": "Fetchur",
+      "revisions": [
+        {
+          "revid": 845673,
+          "parentid": 837739,
+          "timestamp": "2026-09-23T05:01:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 79472,
+      "ns": 0,
+      "title": "Trevor",
+      "revisions": [
+        {
+          "revid": 843181,
+          "parentid": 830502,
+          "timestamp": "2026-09-17T01:13:28Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82281,
+      "ns": 0,
+      "title": "Xalx",
+      "revisions": [
+        {
+          "revid": 834430,
+          "parentid": 834429,
+          "timestamp": "2026-09-07T23:00:33Z"
+        }
+      ]
+    },
+    {
+      "pageid": 82479,
+      "ns": 0,
+      "title": "King Yolkar",
+      "revisions": [
+        {
+          "revid": 830034,
+          "parentid": 823104,
+          "timestamp": "2026-09-02T13:39:16Z"
+        }
+      ]
+    },
+    {
+      "pageid": 90104,
+      "ns": 0,
+      "title": "Kuudra Archeologist",
+      "revisions": [
+        {
+          "revid": 813890,
+          "parentid": 789361,
+          "timestamp": "2026-08-11T19:28:50Z"
+        }
+      ]
+    },
+    {
+      "pageid": 90680,
+      "ns": 0,
+      "title": "Barbarian Guard",
+      "revisions": [
+        {
+          "revid": 859588,
+          "parentid": 852572,
+          "timestamp": "2026-10-16T09:14:15Z"
+        }
+      ]
+    },
+    {
+      "pageid": 90689,
+      "ns": 0,
+      "title": "Ulyn",
+      "revisions": [
+        {
+          "revid": 822223,
+          "parentid": 791276,
+          "timestamp": "2026-08-21T20:28:08Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91426,
+      "ns": 0,
+      "title": "Mage Guard",
+      "revisions": [
+        {
+          "revid": 859587,
+          "parentid": 852815,
+          "timestamp": "2026-10-16T09:13:26Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91430,
+      "ns": 0,
+      "title": "Rulenor",
+      "revisions": [
+        {
+          "revid": 790428,
+          "parentid": 754736,
+          "timestamp": "2026-07-24T00:58:50Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91484,
+      "ns": 0,
+      "title": "Alwin",
+      "revisions": [
+        {
+          "revid": 822224,
+          "parentid": 786659,
+          "timestamp": "2026-08-21T20:28:10Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91486,
+      "ns": 0,
+      "title": "Kheharad",
+      "revisions": [
+        {
+          "revid": 822226,
+          "parentid": 789333,
+          "timestamp": "2026-08-21T20:28:16Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91503,
+      "ns": 0,
+      "title": "Ezekiel",
+      "revisions": [
+        {
+          "revid": 822231,
+          "parentid": 788505,
+          "timestamp": "2026-08-21T20:28:41Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91511,
+      "ns": 0,
+      "title": "Azax",
+      "revisions": [
+        {
+          "revid": 786833,
+          "parentid": 752109,
+          "timestamp": "2026-07-23T15:55:34Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91810,
+      "ns": 0,
+      "title": "Seffea",
+      "revisions": [
+        {
+          "revid": 822237,
+          "parentid": 790562,
+          "timestamp": "2026-08-21T20:29:09Z"
+        }
+      ]
+    },
+    {
+      "pageid": 91851,
+      "ns": 0,
+      "title": "Pam",
+      "revisions": [
+        {
+          "revid": 789965,
+          "parentid": 754327,
+          "timestamp": "2026-07-24T00:42:12Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92156,
+      "ns": 0,
+      "title": "Keran",
+      "revisions": [
+        {
+          "revid": 813868,
+          "parentid": 789329,
+          "timestamp": "2026-08-11T19:28:25Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92157,
+      "ns": 0,
+      "title": "Prie",
+      "revisions": [
+        {
+          "revid": 814411,
+          "parentid": 790143,
+          "timestamp": "2026-08-11T19:41:35Z"
+        }
+      ]
+    },
+    {
+      "pageid": 92876,
+      "ns": 0,
+      "title": "Weird Sailor",
+      "revisions": [
+        {
+          "revid": 826517,
+          "parentid": 815297,
+          "timestamp": "2026-08-28T15:14:10Z"
+        }
+      ]
+    },
+    {
+      "pageid": 93503,
+      "ns": 0,
+      "title": "Tyzzo",
+      "revisions": [
+        {
+          "revid": 830504,
+          "parentid": 815179,
+          "timestamp": "2026-09-03T01:33:14Z"
+        }
+      ]
+    },
+    {
+      "pageid": 97792,
+      "ns": 0,
+      "title": "Spaceman",
+      "revisions": [
+        {
+          "revid": 859732,
+          "parentid": 859470,
+          "timestamp": "2026-10-16T20:14:53Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99726,
+      "ns": 0,
+      "title": "Mole (NPC)",
+      "revisions": [
+        {
+          "revid": 814150,
+          "parentid": 789753,
+          "timestamp": "2026-08-11T19:34:45Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99836,
+      "ns": 0,
+      "title": "Erihann",
+      "revisions": [
+        {
+          "revid": 813293,
+          "parentid": 788468,
+          "timestamp": "2026-08-11T19:13:40Z"
+        }
+      ]
+    },
+    {
+      "pageid": 99935,
+      "ns": 0,
+      "title": "Julian",
+      "revisions": [
+        {
+          "revid": 850213,
+          "parentid": 828296,
+          "timestamp": "2026-10-02T13:24:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100074,
+      "ns": 0,
+      "title": "Maddox the Slayer (Rift)",
+      "revisions": [
+        {
+          "revid": 828753,
+          "parentid": 828082,
+          "timestamp": "2026-09-01T13:59:46Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100075,
+      "ns": 0,
+      "title": "Gunther",
+      "revisions": [
+        {
+          "revid": 823773,
+          "parentid": 823771,
+          "timestamp": "2026-08-25T13:44:20Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100085,
+      "ns": 0,
+      "title": "Cryptosis",
+      "revisions": [
+        {
+          "revid": 815633,
+          "parentid": 813003,
+          "timestamp": "2026-08-11T20:17:55Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100466,
+      "ns": 0,
+      "title": "Taylor (Rift)",
+      "revisions": [
+        {
+          "revid": 791053,
+          "parentid": 755254,
+          "timestamp": "2026-07-24T01:20:23Z"
+        }
+      ]
+    },
+    {
+      "pageid": 100701,
+      "ns": 0,
+      "title": "Adventurer Saul",
+      "revisions": [
+        {
+          "revid": 812485,
+          "parentid": 786621,
+          "timestamp": "2026-08-11T18:50:44Z"
+        }
+      ]
+    },
+    {
+      "pageid": 101926,
+      "ns": 0,
+      "title": "Silnar",
+      "revisions": [
+        {
+          "revid": 814738,
+          "parentid": 754913,
+          "timestamp": "2026-08-11T19:50:47Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102471,
+      "ns": 0,
+      "title": "Sor'Hen",
+      "revisions": [
+        {
+          "revid": 814804,
+          "parentid": 790760,
+          "timestamp": "2026-08-11T19:52:39Z"
+        }
+      ]
+    },
+    {
+      "pageid": 102735,
+      "ns": 0,
+      "title": "Cold Enjoyer",
+      "revisions": [
+        {
+          "revid": 850536,
+          "parentid": 832607,
+          "timestamp": "2026-10-03T10:38:25Z"
+        }
+      ]
+    },
+    {
+      "pageid": 103160,
+      "ns": 0,
+      "title": "Liz",
+      "revisions": [
+        {
+          "revid": 846240,
+          "parentid": 832637,
+          "timestamp": "2026-09-24T20:06:51Z"
+        }
+      ]
+    },
+    {
+      "pageid": 106702,
+      "ns": 0,
+      "title": "Rosemary",
+      "revisions": [
+        {
+          "revid": 830484,
+          "parentid": 814584,
+          "timestamp": "2026-09-03T01:30:09Z"
+        }
+      ]
+    },
+    {
+      "pageid": 106854,
+      "ns": 0,
+      "title": "Hina",
+      "revisions": [
+        {
+          "revid": 835588,
+          "parentid": 823064,
+          "timestamp": "2026-09-08T16:33:29Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107409,
+      "ns": 0,
+      "title": "Oden",
+      "revisions": [
+        {
+          "revid": 789915,
+          "parentid": 754276,
+          "timestamp": "2026-07-24T00:40:39Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107519,
+      "ns": 0,
+      "title": "Dax",
+      "revisions": [
+        {
+          "revid": 813037,
+          "parentid": 788044,
+          "timestamp": "2026-08-11T19:07:16Z"
+        }
+      ]
+    },
+    {
+      "pageid": 107640,
+      "ns": 0,
+      "title": "Michael",
+      "revisions": [
+        {
+          "revid": 831949,
+          "parentid": 789673,
+          "timestamp": "2026-09-04T20:43:57Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110416,
+      "ns": 0,
+      "title": "Old Timer",
+      "revisions": [
+        {
+          "revid": 817509,
+          "parentid": 792621,
+          "timestamp": "2026-08-11T22:46:24Z"
+        }
+      ]
+    },
+    {
+      "pageid": 110758,
+      "ns": 0,
+      "title": "Mage Guard (Cathedral)",
+      "revisions": [
+        {
+          "revid": 789529,
+          "parentid": 717941,
+          "timestamp": "2026-07-24T00:27:58Z"
+        }
+      ]
+    },
+    {
+      "pageid": 133930,
+      "ns": 0,
+      "title": "Beekeeper Bartholomew",
+      "revisions": [
+        {
+          "revid": 831881,
+          "parentid": 828440,
+          "timestamp": "2026-09-04T19:26:44Z"
+        }
+      ]
+    }
+  ],
+  "expected": {
+    "Adventurer Saul": 812485,
+    "Alwin": 822224,
+    "Azax": 786833,
+    "Barbarian Guard": 852572,
+    "Beekeeper Bartholomew": 831881,
+    "Charlie": 823057,
+    "Clerk Seraphine": 830411,
+    "Cold Enjoyer": 850536,
+    "Cryptosis": 815633,
+    "Dax": 813037,
+    "Erihann": 813293,
+    "Ezekiel": 822231,
+    "Fetchur": 845673,
+    "Gunther": 823773,
+    "Hina": 835588,
+    "Julian": 850213,
+    "Keran": 813868,
+    "Kheharad": 822226,
+    "King Yolkar": 830034,
+    "Kuudra Archeologist": 813890,
+    "Lazy Miner": 823037,
+    "Liz": 846240,
+    "Mad Redstone Engineer": 813995,
+    "Maddox the Slayer (Rift)": 828753,
+    "Mage Guard": 852815,
+    "Mage Guard (Cathedral)": 789529,
+    "Michael": 831949,
+    "Mole (NPC)": 814150,
+    "Oden": 789915,
+    "Old Timer": 817509,
+    "Pam": 789965,
+    "Prie": 814411,
+    "Rosemary": 830484,
+    "Rulenor": 790428,
+    "Seffea": 822237,
+    "Silnar": 814738,
+    "Sor'Hen": 814804,
+    "Spaceman": 859470,
+    "Taylor": 859233,
+    "Taylor (Rift)": 791053,
+    "Terry": 830499,
+    "Trevor": 843181,
+    "Tyzzo": 830504,
+    "Ulyn": 822223,
+    "Weird Sailor": 826517,
+    "Xalx": 834430
+  },
+  "differences": {
+    "Barbarian Guard": {
+      "pinned": 852572,
+      "current": 859588
+    },
+    "Mage Guard": {
+      "pinned": 852815,
+      "current": 859587
+    },
+    "Spaceman": {
+      "pinned": 859470,
+      "current": 859732
+    }
+  },
+  "accepted_after_exact_delta_review": true,
+  "delta_review_sha256": "390C51FC3DDC75B67A8E46E575C1DA8BBB725BB3DDE27FD74156EB7A77146779"
+}

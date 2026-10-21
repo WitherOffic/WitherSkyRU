@@ -1,0 +1,84 @@
+{
+  "queue_sha256": "FEDAC2AAAFCA9674634DD99EAAC9A2435AAF6177A74CFB7B1FF485E62E938925",
+  "revision_delta_sha256": "CAB679D9F2A27FAD4A6D2DC6517A49BB91371390817881F84B40A55C5749B32A",
+  "records": [
+    {
+      "source": "[NPC] Molbert: I.. I must have slipped by accident and then fell right into the trap! ... Yes, that's what happened!",
+      "translation": "[NPC] Molbert: Я... я, наверное, случайно поскользнулся и свалился прямо в ловушку! ... Да, именно так всё и было!",
+      "source_legacy_line": "§e[NPC] Molbert§f: §f§oI.. I §fmust have §dslipped by accident §fand then fell right into the §5trap§f! ... §oYes, §f§lthat's what happened§f!",
+      "raw_line": "&e[NPC] Molbert&f: &f&oI.. I &fmust have &dslipped by accident &fand then fell right into the &5trap&f! ... &oYes, &f&lthat's what happened&f!",
+      "frozen_queue_source": "[NPC] Molbert: I.. I must have slipped by accident and then fell right into the trap! ... Yes, <hat's what happened!",
+      "kind": "raw_source_repair",
+      "block": {
+        "block_id": "p107683-r854657-o3953",
+        "page": "Molbert",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Molbert?oldid=854657",
+        "revision": 854657,
+        "coordinate_space": "expanded_source_pages.jsonl",
+        "shared_dialogue_revisions": {},
+        "char_start": 3953,
+        "char_end": 4371,
+        "line_start": 91,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "condition_context_raw": "|-\n| class=\"ct\" | After selecting {{Green|[HELP MOLBERT]}}\n|",
+        "template_options": {},
+        "template_raw": "{{Dialogue|\n&e[NPC] Molbert&f: &aThank you so much&f, I was stuck there for &lat least 3 minutes&f, I was almost gone for good.\n&e[NPC] Molbert&f: &f&oI.. I &fmust have &dslipped by accident &fand then fell right into the &5trap&f! ... &oYes, &f&lthat's what happened&f!\n&e[NPC] Molbert&f: &f...and then I ate the &6carrot &fbecause I was almost starving in there!\n&eSelect an option: &a[I know that you are a mole]\n}}",
+        "payload_raw": "\n&e[NPC] Molbert&f: &aThank you so much&f, I was stuck there for &lat least 3 minutes&f, I was almost gone for good.\n&e[NPC] Molbert&f: &f&oI.. I &fmust have &dslipped by accident &fand then fell right into the &5trap&f! ... &oYes, &f&lthat's what happened&f!\n&e[NPC] Molbert&f: &f...and then I ate the &6carrot &fbecause I was almost starving in there!\n&eSelect an option: &a[I know that you are a mole]\n",
+        "provisional_legacy_text": "\n§e[NPC] Molbert§f: §aThank you so much§f, I was stuck there for §lat least 3 minutes§f, I was almost gone for good.\n§e[NPC] Molbert§f: §f§oI.. I §fmust have §dslipped by accident §fand then fell right into the §5trap§f! ... §oYes, §f<hat's what happened§f!\n§e[NPC] Molbert§f: §f...and then I ate the §6carrot §fbecause I was almost starving in there!\n§eSelect an option: §a[I know that you are a mole]\n",
+        "unresolved_markup": false
+      },
+      "counted_as_frozen_corpus_exact_key": false
+    },
+    {
+      "source": "[NPC] Udel: First, I would like to apologize for this one being a little later than usual.",
+      "translation": "[NPC] Udel: Для начала прошу прощения: эта презентация проходит немного позже обычного.",
+      "source_legacy_line": "§e[NPC] §cUdel: §eFirst, I would like to apologize for this one being a §e§olittle later §ethan usual.",
+      "raw_line": "&e[NPC] &cUdel: &eFirst, I would like to apologize for this one being a &e&olittle later &ethan usual.",
+      "frozen_queue_source": "[NPC] Udel: First, I would like to apologize for this one being a little later ðan usual.",
+      "kind": "raw_source_repair",
+      "block": {
+        "block_id": "p91431-r823219-o5434",
+        "page": "Udel",
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Udel?oldid=823219",
+        "revision": 823219,
+        "coordinate_space": "expanded_source_pages.jsonl",
+        "shared_dialogue_revisions": {},
+        "char_start": 5434,
+        "char_end": 7115,
+        "line_start": 131,
+        "headings": [
+          "Dialogue"
+        ],
+        "historical_heading": false,
+        "alpha_page": false,
+        "condition_context_raw": "|-\n| class=\"ct\" | [[Abiphone|Abiphone Flip+]] Announcement\n|",
+        "template_options": {},
+        "template_raw": "{{Dialogue|\n&e[NPC] &cUdel: &eHello customers!\n&e[NPC] &cUdel: &eI am so glad you could make it to my keynote!\n&e[NPC] &cUdel: &eFirst, I would like to apologize for this one being a &e&olittle later &ethan usual.\n&e[NPC] &cUdel: &eThere is an ongoing lawsuit between myself and a [[Abiphones & Co.|counterfeit Abiphone]], which has been taking up most of my time.\n&e[NPC] &cUdel: &eHowever, I am here, and so are you, so let's begin!\n&e[NPC] &cUdel: &e...\n&e[NPC] &cUdel: &eAhem.\n&e[NPC] &cUdel: &eSince my previous keynote, my minions and I have been even harder at work trying to find something even more innovative than the &6Abiphone Flip&e.\n&e[NPC] &cUdel: &eWe thought and thought and then thought some more before I, and only I, had an &oincredible breakthrough&e.\n&e[NPC] &cUdel: &eWhat if our latest model could save you, like, a second, whenever you wanted to call someone?\n&e[NPC] &cUdel: &eAfter all, less downtime for my clientele means I get more uptime on my all-inclusive holidays!\n&e[NPC] &cUdel: &eSo, without further ado, I am proud to present:\n&e[NPC] &cUdel: &c&lABIPHONE FLIP\n&e[NPC] &cUdel: &c&lPLUS!\n&e[NPC] &cUdel: &eThe most cutting edge technology around today, this new model comes with the &bSpeed Dial &efeature!\n&e[NPC] &cUdel: &eThis allows you to call your favorite contact with just a single click!\n&e[NPC] &cUdel: &eAlso, in my infinite generosity, I have given this model an &aadditional contact slot&e!\n&e[NPC] &cUdel: &eThat's all for this year. &bUdel's Abiphone Services &eappreciate your continued support during the ongoing lawsuit!\n&e[NPC] &cUdel: &eSo, without further ado...\n&e[NPC] &cUdel: &eThe &6Abiphone Flip+ &eis now for sale!\n}}",
+        "payload_raw": "\n&e[NPC] &cUdel: &eHello customers!\n&e[NPC] &cUdel: &eI am so glad you could make it to my keynote!\n&e[NPC] &cUdel: &eFirst, I would like to apologize for this one being a &e&olittle later &ethan usual.\n&e[NPC] &cUdel: &eThere is an ongoing lawsuit between myself and a [[Abiphones & Co.|counterfeit Abiphone]], which has been taking up most of my time.\n&e[NPC] &cUdel: &eHowever, I am here, and so are you, so let's begin!\n&e[NPC] &cUdel: &e...\n&e[NPC] &cUdel: &eAhem.\n&e[NPC] &cUdel: &eSince my previous keynote, my minions and I have been even harder at work trying to find something even more innovative than the &6Abiphone Flip&e.\n&e[NPC] &cUdel: &eWe thought and thought and then thought some more before I, and only I, had an &oincredible breakthrough&e.\n&e[NPC] &cUdel: &eWhat if our latest model could save you, like, a second, whenever you wanted to call someone?\n&e[NPC] &cUdel: &eAfter all, less downtime for my clientele means I get more uptime on my all-inclusive holidays!\n&e[NPC] &cUdel: &eSo, without further ado, I am proud to present:\n&e[NPC] &cUdel: &c&lABIPHONE FLIP\n&e[NPC] &cUdel: &c&lPLUS!\n&e[NPC] &cUdel: &eThe most cutting edge technology around today, this new model comes with the &bSpeed Dial &efeature!\n&e[NPC] &cUdel: &eThis allows you to call your favorite contact with just a single click!\n&e[NPC] &cUdel: &eAlso, in my infinite generosity, I have given this model an &aadditional contact slot&e!\n&e[NPC] &cUdel: &eThat's all for this year. &bUdel's Abiphone Services &eappreciate your continued support during the ongoing lawsuit!\n&e[NPC] &cUdel: &eSo, without further ado...\n&e[NPC] &cUdel: &eThe &6Abiphone Flip+ &eis now for sale!\n",
+        "provisional_legacy_text": "\n§e[NPC] §cUdel: §eHello customers!\n§e[NPC] §cUdel: §eI am so glad you could make it to my keynote!\n§e[NPC] §cUdel: §eFirst, I would like to apologize for this one being a §e§olittle later ðan usual.\n§e[NPC] §cUdel: §eThere is an ongoing lawsuit between myself and a counterfeit Abiphone, which has been taking up most of my time.\n§e[NPC] §cUdel: §eHowever, I am here, and so are you, so let's begin!\n§e[NPC] §cUdel: §e...\n§e[NPC] §cUdel: §eAhem.\n§e[NPC] §cUdel: §eSince my previous keynote, my minions and I have been even harder at work trying to find something even more innovative than the §6Abiphone Flip§e.\n§e[NPC] §cUdel: §eWe thought and thought and then thought some more before I, and only I, had an §oincredible breakthrough§e.\n§e[NPC] §cUdel: §eWhat if our latest model could save you, like, a second, whenever you wanted to call someone?\n§e[NPC] §cUdel: §eAfter all, less downtime for my clientele means I get more uptime on my all-inclusive holidays!\n§e[NPC] §cUdel: §eSo, without further ado, I am proud to present:\n§e[NPC] §cUdel: §c§lABIPHONE FLIP\n§e[NPC] §cUdel: §c§lPLUS!\n§e[NPC] §cUdel: §eThe most cutting edge technology around today, this new model comes with the §bSpeed Dial §efeature!\n§e[NPC] §cUdel: §eThis allows you to call your favorite contact with just a single click!\n§e[NPC] §cUdel: §eAlso, in my infinite generosity, I have given this model an §aadditional contact slot§e!\n§e[NPC] §cUdel: §eThat's all for this year. §bUdel's Abiphone Services §eappreciate your continued support during the ongoing lawsuit!\n§e[NPC] §cUdel: §eSo, without further ado...\n§e[NPC] §cUdel: §eThe §6Abiphone Flip+ §eis now for sale!\n",
+        "unresolved_markup": false
+      },
+      "counted_as_frozen_corpus_exact_key": false
+    },
+    {
+      "source": "[NPC] Pesthunter Phillip: Unfortunate. The  Pests aren't gonna hunt themselves!",
+      "translation": "[NPC] Pesthunter Phillip: Жаль.  Вредители сами себя не переловят!",
+      "source_legacy_line": "§e[NPC] §6Pesthunter Phillip§f: §fUnfortunate. The §2 Pests §faren't gonna hunt themselves!",
+      "raw_line": "&e[NPC] &6Pesthunter Phillip&f: &fUnfortunate. The &2 Pests &faren't gonna hunt themselves!",
+      "frozen_queue_source": null,
+      "kind": "new_published_revision",
+      "block": {
+        "page": "Pesthunter Phillip",
+        "revision": 859508,
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pesthunter_Phillip?oldid=859508",
+        "condition_context_raw": "Denying Garden visitor offer",
+        "template_raw": "{{Dialogue|\n&e[NPC] &6Pesthunter Phillip&f: &fUnfortunate. The &2 Pests &faren't gonna hunt themselves!\n}}"
+      },
+      "counted_as_frozen_corpus_exact_key": false
+    }
+  ]
+}

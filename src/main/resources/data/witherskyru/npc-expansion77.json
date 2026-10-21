@@ -1,0 +1,1582 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "Finite reviewed NPC corpus batch, merged into existing exact story map at startup. Not every NPC, all branches, dynamic values, live color layout or FPS proof.",
+  "records": [
+    {
+      "source_key": "npc77.0",
+      "speaker": "Arthur",
+      "tag": "NPC",
+      "source": "[NPC] Arthur: Sorry but that's mine!",
+      "translation": "[NPC] Arthur: Извини, но это моё!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Farm?oldid=845511"
+    },
+    {
+      "source_key": "npc77.1",
+      "speaker": "Jack",
+      "tag": "NPC",
+      "source": "[NPC] Jack: Did you know that you gain additional ☘ Farming Fortune while on the The Garden? You can check it in your SkyBlock Profile!",
+      "translation": "[NPC] Jack: Знаешь, что в Саду ты получаешь дополнительную ☘ удачу фермерства? Её можно посмотреть в профиле SkyBlock!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321",
+      "style_anchors": [
+        {
+          "source": "☘ Farming Fortune",
+          "target": "☘ удачу фермерства"
+        },
+        {
+          "source": "The Garden",
+          "target": "Саду"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.2",
+      "speaker": "Jamie",
+      "tag": "NPC",
+      "source": "[NPC] Jamie: You might have noticed that you can purchase additional plots within your Desk in the Barn!",
+      "translation": "[NPC] Jamie: Возможно, ты уже заметил: дополнительные участки можно купить через рабочий стол в амбаре!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.3",
+      "speaker": "Jamie",
+      "tag": "NPC",
+      "source": "[NPC] Jamie: Thank you! Until next time!",
+      "translation": "[NPC] Jamie: Спасибо! До следующей встречи!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.4",
+      "speaker": "Tom",
+      "tag": "NPC",
+      "source": "[NPC] Tom: No problem, see ya next time!",
+      "translation": "[NPC] Tom: Без проблем, до следующего раза!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.5",
+      "speaker": "Leo",
+      "tag": "NPC",
+      "source": "[NPC] Leo: Until next time!",
+      "translation": "[NPC] Leo: До следующей встречи!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.6",
+      "speaker": "Felix",
+      "tag": "NPC",
+      "source": "[NPC] Felix: Maybe next time.",
+      "translation": "[NPC] Felix: Может, в другой раз.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.7",
+      "speaker": "Duke",
+      "tag": "NPC",
+      "source": "[NPC] Duke: See ya next time!",
+      "translation": "[NPC] Duke: До следующего раза!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.8",
+      "speaker": "Duke",
+      "tag": "NPC",
+      "source": "[NPC] Duke: Maybe next time.",
+      "translation": "[NPC] Duke: Может, в другой раз.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.9",
+      "speaker": "Lynn",
+      "tag": "NPC",
+      "source": "[NPC] Lynn: Have a good one.",
+      "translation": "[NPC] Lynn: Всего хорошего.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.10",
+      "speaker": "Stella",
+      "tag": "NPC",
+      "source": "[NPC] Stella: Don't worry, I'll come back later.",
+      "translation": "[NPC] Stella: Не переживай, я зайду позже.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.11",
+      "speaker": "Vex",
+      "tag": "NPC",
+      "source": "[NPC] Vex: Oh well that's awkward.",
+      "translation": "[NPC] Vex: Вот неловко-то вышло.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.12",
+      "speaker": "Liam",
+      "tag": "NPC",
+      "source": "[NPC] Liam: That makes me feel better.",
+      "translation": "[NPC] Liam: Теперь мне гораздо лучше.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.13",
+      "speaker": "Ryu",
+      "tag": "NPC",
+      "source": "[NPC] Ryu: Did you know that there is a Garden Level? Increase it by hitting milestones or selling to customers like me!",
+      "translation": "[NPC] Ryu: Знаешь, что у Сада есть уровень? Повышай его, достигая этапов развития или продавая урожай таким покупателям, как я!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.14",
+      "speaker": "Ryu",
+      "tag": "NPC",
+      "source": "[NPC] Ryu: Good trade!",
+      "translation": "[NPC] Ryu: Отличная сделка!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.15",
+      "speaker": "Ryu",
+      "tag": "NPC",
+      "source": "[NPC] Ryu: That's alright.",
+      "translation": "[NPC] Ryu: Ничего страшного.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Hub_Villagers?oldid=852321"
+    },
+    {
+      "source_key": "npc77.16",
+      "speaker": "Maxwell",
+      "tag": "NPC",
+      "source": "[NPC] Maxwell: Yes! The more Accessory Power, the more stats like ❤ Health or ✎ Intelligence you get from your Accessory Bag.",
+      "translation": "[NPC] Maxwell: Да! Чем выше сила аксессуаров, тем больше характеристик, например ❤ здоровья или ✎ интеллекта, даёт твоя сумка аксессуаров.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Maxwell?oldid=843002",
+      "style_anchors": [
+        {
+          "source": "Accessory Power",
+          "target": "сила аксессуаров"
+        },
+        {
+          "source": "❤ Health",
+          "target": "❤ здоровья"
+        },
+        {
+          "source": "✎ Intelligence",
+          "target": "✎ интеллекта"
+        },
+        {
+          "source": "Accessory Bag",
+          "target": "сумка аксессуаров"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.17",
+      "speaker": "Plumber Joe",
+      "tag": "NPC",
+      "source": "[NPC] Plumber Joe: 100% guaranteed service, spanning any dimension!",
+      "translation": "[NPC] Plumber Joe: 100% гарантия на услуги в любом измерении!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Plumber_Joe_(Rift)?oldid=828116",
+      "style_anchors": [
+        {
+          "source": "100% guaranteed service",
+          "target": "100% гарантия на услуги"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.18",
+      "speaker": "Sam",
+      "tag": "NPC",
+      "source": "[NPC] Sam: Remember, you need to plant 2 Wheat crops next to each other.",
+      "translation": "[NPC] Sam: Помни: нужно посадить 2 растения пшеницы рядом друг с другом.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sam?oldid=859304"
+    },
+    {
+      "source_key": "npc77.19",
+      "speaker": "Sam",
+      "tag": "NPC",
+      "source": "[NPC] Sam: Hello!! Just doing a routine check of our Visitor experience.",
+      "translation": "[NPC] Sam: Привет!! Просто проверяю, довольны ли наши посетители.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sam?oldid=859304"
+    },
+    {
+      "source_key": "npc77.20",
+      "speaker": "Sam",
+      "tag": "NPC",
+      "source": "[NPC] Sam: Our customer service is great!",
+      "translation": "[NPC] Sam: Мы отлично обслуживаем покупателей!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sam?oldid=859304"
+    },
+    {
+      "source_key": "npc77.21",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: Hey hey hey!",
+      "translation": "[NPC] Anita: Эй-эй-эй!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207"
+    },
+    {
+      "source_key": "npc77.22",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: I'll trade your Jacob's Tickets for farming tools!",
+      "translation": "[NPC] Anita: Обменяю твои билеты Джейкоба на фермерские инструменты!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207",
+      "style_anchors": [
+        {
+          "source": "Jacob's Tickets",
+          "target": "билеты Джейкоба"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.23",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: ✆ Hi dear!",
+      "translation": "[NPC] Anita: ✆ Привет, дорогуша!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207"
+    },
+    {
+      "source_key": "npc77.24",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: ✆ I only share my contact with those who are on Jacob's contact list.",
+      "translation": "[NPC] Anita: ✆ Я даю свой контакт только тем, кто уже есть в списке контактов Джейкоба.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207"
+    },
+    {
+      "source_key": "npc77.25",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: ✆ Oh and also, you need to have earned a GOLD medal in his contest if you want to be on MY list!",
+      "translation": "[NPC] Anita: ✆ И ещё: хочешь попасть в МОЙ список — сначала получи ЗОЛОТУЮ медаль на его соревновании!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207",
+      "style_anchors": [
+        {
+          "source": "GOLD",
+          "target": "ЗОЛОТУЮ"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.26",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: ✆ Sweet!",
+      "translation": "[NPC] Anita: ✆ Чудесно!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207"
+    },
+    {
+      "source_key": "npc77.27",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: ✆ If I need any farming done back home, I'll be sure to call ya!",
+      "translation": "[NPC] Anita: ✆ Если дома понадобится помощь с огородом, обязательно тебе позвоню!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207"
+    },
+    {
+      "source_key": "npc77.28",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: Hey hey hey again! I'll trade you some copper for some carrots!",
+      "translation": "[NPC] Anita: И снова эй-эй-эй! Дам тебе немного меди за морковку!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207"
+    },
+    {
+      "source_key": "npc77.29",
+      "speaker": "Anita",
+      "tag": "NPC",
+      "source": "[NPC] Anita: Oh, darn it :(",
+      "translation": "[NPC] Anita: Эх, вот досада :(",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Anita?oldid=844207"
+    },
+    {
+      "source_key": "npc77.30",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: If you build, they will come!",
+      "translation": "[NPC] Builder: Построй — и они придут!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402"
+    },
+    {
+      "source_key": "npc77.31",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: Click me again to open the Builder Shop!",
+      "translation": "[NPC] Builder: Нажми на меня ещё раз, чтобы открыть магазин строителя!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402"
+    },
+    {
+      "source_key": "npc77.32",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: ✆ Oh?",
+      "translation": "[NPC] Builder: ✆ О?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402"
+    },
+    {
+      "source_key": "npc77.33",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: ✆ Yes... I could give you my contact... However, may I ask a favor in return?",
+      "translation": "[NPC] Builder: ✆ Да... Я мог бы дать тебе свой контакт... Но можно попросить тебя об одной услуге взамен?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402"
+    },
+    {
+      "source_key": "npc77.34",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: ✆ For a builder to not have a Builder's Wand is quite uncommon.",
+      "translation": "[NPC] Builder: ✆ Строитель без жезла строителя — довольно редкое зрелище.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402",
+      "style_anchors": [
+        {
+          "source": "Builder's Wand",
+          "target": "жезла строителя"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.35",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: ✆ If you give me one I'll gladly give you my contact!",
+      "translation": "[NPC] Builder: ✆ Если подаришь мне такой жезл, с радостью дам тебе свой контакт!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402"
+    },
+    {
+      "source_key": "npc77.36",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: ✆ A Builder's Wand! This is a dream come true!",
+      "translation": "[NPC] Builder: ✆ Жезл строителя! Мечта сбылась!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402",
+      "style_anchors": [
+        {
+          "source": "Builder's Wand",
+          "target": "Жезл строителя"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.37",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: ✆ You don't have what I need! Nice try!",
+      "translation": "[NPC] Builder: ✆ У тебя нет того, что мне нужно! Неплохая попытка!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402"
+    },
+    {
+      "source_key": "npc77.38",
+      "speaker": "Builder",
+      "tag": "NPC",
+      "source": "[NPC] Builder: It do be like that.",
+      "translation": "[NPC] Builder: Такие дела.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Builder?oldid=830402"
+    },
+    {
+      "source_key": "npc77.39",
+      "speaker": "Croesus",
+      "tag": "NPC",
+      "source": "[NPC] Croesus: After completed a dungeon run, you get a selection of treasure chests.",
+      "translation": "[NPC] Croesus: После прохождения подземелья тебе предлагают на выбор сундуки с сокровищами.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Croesus?oldid=812986",
+      "style_anchors": [
+        {
+          "source": "treasure chests",
+          "target": "сундуки с сокровищами"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.40",
+      "speaker": "Croesus",
+      "tag": "NPC",
+      "source": "[NPC] Croesus: If you don't open any, I collect and hoard them for you!",
+      "translation": "[NPC] Croesus: Если ты не откроешь ни одного, я соберу их и сохраню для тебя!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Croesus?oldid=812986",
+      "style_anchors": [
+        {
+          "source": "don't open",
+          "target": "не откроешь"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.41",
+      "speaker": "Croesus",
+      "tag": "NPC",
+      "source": "[NPC] Croesus: Did you know, I used to live in the catacombs before they moved in all the zombies?",
+      "translation": "[NPC] Croesus: Знаешь, я жил в Катакомбах ещё до того, как туда заселили всех этих зомби.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Croesus?oldid=812986"
+    },
+    {
+      "source_key": "npc77.42",
+      "speaker": "Croesus",
+      "tag": "NPC",
+      "source": "[NPC] Croesus: It's always best to keep a handle on things!",
+      "translation": "[NPC] Croesus: Лучше всегда держать всё под контролем!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Croesus?oldid=812986",
+      "style_anchors": [
+        {
+          "source": "handle",
+          "target": "контролем"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.43",
+      "speaker": "Croesus",
+      "tag": "NPC",
+      "source": "[NPC] Croesus: The Wither King now lives in the deepest floor of the Catacombs, but where is the Wither Prince?",
+      "translation": "[NPC] Croesus: Король иссушителей теперь живёт на самом нижнем этаже Катакомб. А где же принц иссушителей?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Croesus?oldid=812986"
+    },
+    {
+      "source_key": "npc77.44",
+      "speaker": "Croesus",
+      "tag": "NPC",
+      "source": "[NPC] Croesus: I wonder if they'll ever open more doors in here.",
+      "translation": "[NPC] Croesus: Интересно, откроют ли здесь когда-нибудь ещё какие-нибудь двери.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Croesus?oldid=812986"
+    },
+    {
+      "source_key": "npc77.45",
+      "speaker": "Grandma Wolf",
+      "tag": "NPC",
+      "source": "[NPC] Grandma Wolf: I've added the Grandma Wolf Pet to your Pets Menu.",
+      "translation": "[NPC] Grandma Wolf: Я добавила питомца «Бабушка-волк» в твоё меню питомцев.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma_Wolf?oldid=813612",
+      "style_anchors": [
+        {
+          "source": "Grandma Wolf Pet",
+          "target": "питомца «Бабушка-волк»"
+        },
+        {
+          "source": "Pets Menu",
+          "target": "меню питомцев"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.46",
+      "speaker": "Grandma Wolf",
+      "tag": "NPC",
+      "source": "[NPC] Grandma Wolf: The Grandma Wolf is particularly adept at combos. The more mobs you kill in quick succession, the better!",
+      "translation": "[NPC] Grandma Wolf: Бабушка-волк особенно хороша в сериях убийств. Чем больше мобов ты убиваешь подряд за короткое время, тем лучше!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma_Wolf?oldid=813612"
+    },
+    {
+      "source_key": "npc77.47",
+      "speaker": "Grandma Wolf",
+      "tag": "NPC",
+      "source": "[NPC] Grandma Wolf: If you reach high enough Bestiary Milestones, I will increase the rarity of this pet!",
+      "translation": "[NPC] Grandma Wolf: Доберись до достаточно высоких этапов бестиария, и я повышу редкость этого питомца!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma_Wolf?oldid=813612",
+      "style_anchors": [
+        {
+          "source": "Bestiary Milestones",
+          "target": "этапов бестиария"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.48",
+      "speaker": "Grandma Wolf",
+      "tag": "NPC",
+      "source": "[NPC] Grandma Wolf: The pet does not need to be spawned for combos to work! Happy hunting!",
+      "translation": "[NPC] Grandma Wolf: Для серий убийств даже не нужно призывать питомца! Удачной охоты!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma_Wolf?oldid=813612"
+    },
+    {
+      "source_key": "npc77.49",
+      "speaker": "Grandma Wolf",
+      "tag": "NPC",
+      "source": "[NPC] Grandma Wolf: I'm afraid you don't have a Grandma Wolf Pet! Leave this little old Grandma alone!",
+      "translation": "[NPC] Grandma Wolf: Боюсь, у тебя нет питомца «Бабушка-волк»! Оставь старушку в покое!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma_Wolf?oldid=813612",
+      "style_anchors": [
+        {
+          "source": "Grandma Wolf Pet",
+          "target": "питомца «Бабушка-волк»"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.50",
+      "speaker": "Grandma Wolf",
+      "tag": "NPC",
+      "source": "[NPC] Grandma Wolf: My little child, you don't look so good. You should eat something. I have an idea, give me some ingredients and I'll make you a nice soup.",
+      "translation": "[NPC] Grandma Wolf: Дитя моё, ты что-то неважно выглядишь. Надо бы поесть. Вот что: принеси мне продукты, и я приготовлю тебе вкусный суп.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma_Wolf?oldid=813612"
+    },
+    {
+      "source_key": "npc77.51",
+      "speaker": "Grandma Wolf",
+      "tag": "NPC",
+      "source": "[NPC] Grandma Wolf: I will make you a meal that you won't forget!",
+      "translation": "[NPC] Grandma Wolf: Приготовлю тебе такое блюдо — вовек не забудешь!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma_Wolf?oldid=813612"
+    },
+    {
+      "source_key": "npc77.52",
+      "speaker": "Grandma Wolf",
+      "tag": "NPC",
+      "source": "[NPC] Grandma Wolf: You denied Grandma Wolf's request. How dare you treat your granny like that.",
+      "translation": "[NPC] Grandma Wolf: Отказать в просьбе бабушке-волку! Ну разве можно так обращаться с бабулей?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Grandma_Wolf?oldid=813612"
+    },
+    {
+      "source_key": "npc77.53",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: Once my hammer delivery is here, I'll let you use my services!",
+      "translation": "[NPC] Malik: Как только мне доставят молот, сможешь воспользоваться моими услугами!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459"
+    },
+    {
+      "source_key": "npc77.54",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ Hello.",
+      "translation": "[NPC] Malik: ✆ Здравствуй.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459"
+    },
+    {
+      "source_key": "npc77.55",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ I don't tend to give out my contact to those delving into The Catacombs.",
+      "translation": "[NPC] Malik: ✆ Обычно я не даю свой контакт тем, кто спускается в Катакомбы.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459",
+      "style_anchors": [
+        {
+          "source": "The Catacombs",
+          "target": "Катакомбы"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.56",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ I used to, but remembering who's still alive and who isn't is a nightmare.",
+      "translation": "[NPC] Malik: ✆ Раньше давал, но запоминать, кто ещё жив, а кто уже нет, — сущий кошмар.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459"
+    },
+    {
+      "source_key": "npc77.57",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ By the end of any given week, 90% of the people in my directory would be dead.",
+      "translation": "[NPC] Malik: ✆ К концу каждой недели 90% людей в моей записной книжке оказывались мертвы.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459",
+      "style_anchors": [
+        {
+          "source": "90%",
+          "target": "90%"
+        },
+        {
+          "source": "dead",
+          "target": "мертвы"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.58",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ Removing them was a real pain.",
+      "translation": "[NPC] Malik: ✆ Удалять их было настоящей морокой.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459"
+    },
+    {
+      "source_key": "npc77.59",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ Anyways, I guess I'll add you, but only if you can prove to me that you won't just die like everyone else.",
+      "translation": "[NPC] Malik: ✆ Ладно, пожалуй, добавлю тебя. Но сначала докажи, что не умрёшь, как все остальные.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459"
+    },
+    {
+      "source_key": "npc77.60",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ Survive long enough to collect 5,000 Undead Essence, and then bring it to me.",
+      "translation": "[NPC] Malik: ✆ Постарайся прожить достаточно долго, чтобы собрать 5,000 эссенции нежити, и принеси её мне.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459",
+      "style_anchors": [
+        {
+          "source": "5,000",
+          "target": "5,000"
+        },
+        {
+          "source": "Undead Essence",
+          "target": "эссенции нежити"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.61",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ Thank you.",
+      "translation": "[NPC] Malik: ✆ Спасибо.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459"
+    },
+    {
+      "source_key": "npc77.62",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ Here's my contact.",
+      "translation": "[NPC] Malik: ✆ Вот мой контакт.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459"
+    },
+    {
+      "source_key": "npc77.63",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ I wish you the best of luck in The Catacombs.",
+      "translation": "[NPC] Malik: ✆ Желаю тебе удачи в Катакомбах.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459",
+      "style_anchors": [
+        {
+          "source": "The Catacombs",
+          "target": "Катакомбах"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.64",
+      "speaker": "Malik",
+      "tag": "NPC",
+      "source": "[NPC] Malik: ✆ Try to stay alive, for both your sake and mine - I don't feel like expending the minimal effort required to remove you from my contacts.",
+      "translation": "[NPC] Malik: ✆ Постарайся остаться в живых — ради нас обоих. Мне лень даже тратить силы на то, чтобы удалить тебя из контактов.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Malik?oldid=830459"
+    },
+    {
+      "source_key": "npc77.65",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: A party of 5 players is crucial.",
+      "translation": "[NPC] Mort: Нужна группа из 5 игроков.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "party",
+          "target": "группа"
+        },
+        {
+          "source": "5 players",
+          "target": "5 игроков"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.66",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: Save your own skin, seek challenge elsewhere first.",
+      "translation": "[NPC] Mort: Побереги свою шкуру: для начала испытай силы где-нибудь ещё.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.67",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: You need Combat Level XV before leading a dungeon.",
+      "translation": "[NPC] Mort: Чтобы возглавить поход в подземелье, нужен XV уровень боя.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.68",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: Right click the Orb for spells, and Left click (or Drop) to use your Ultimate!",
+      "translation": "[NPC] Mort: Нажми ПКМ со сферой в руке, чтобы применить заклинание, или ЛКМ (либо клавишу выброса предмета), чтобы использовать мощную способность!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.69",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: Welcome back. Are you here to enter The Catacombs again?",
+      "translation": "[NPC] Mort: С возвращением. Снова хочешь войти в Катакомбы?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "The Catacombs",
+          "target": "Катакомбы"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.70",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: WHAT? You want to go in alone? I simply cannot allow that to happen.",
+      "translation": "[NPC] Mort: ЧТО? Хочешь пойти туда в одиночку? Я просто не могу этого допустить.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "WHAT?",
+          "target": "ЧТО?"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.71",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: Hmm, what's this?",
+      "translation": "[NPC] Mort: Хм, что это?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.72",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: I see.. you have a recommendation letter from Saul. Well, I guess its OK then, I suppose.",
+      "translation": "[NPC] Mort: Понятно... У тебя рекомендательное письмо от Сола. Что ж, пожалуй, тогда можно.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "recommendation letter",
+          "target": "рекомендательное письмо"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.73",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: I'll allow you to enter The Catacombs alone from now on.",
+      "translation": "[NPC] Mort: Отныне я разрешаю тебе входить в Катакомбы в одиночку.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "The Catacombs",
+          "target": "Катакомбы"
+        },
+        {
+          "source": "alone",
+          "target": "в одиночку"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.74",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: However, let me give you an explicit final warning.",
+      "translation": "[NPC] Mort: Но выслушай моё последнее предупреждение.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "final warning",
+          "target": "последнее предупреждение"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.75",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: The Dungeon you will enter will be exactly the same difficulty as if you joined with a party.",
+      "translation": "[NPC] Mort: Подземелье будет ровно такой же сложности, как и при прохождении с группой.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "exactly the same difficulty",
+          "target": "ровно такой же сложности"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.76",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: After all, The Catacombs won't go easy on you just because you're on your own.",
+      "translation": "[NPC] Mort: Катакомбы ведь не станут к тебе снисходительнее лишь потому, что ты идёшь в одиночку.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "The Catacombs",
+          "target": "Катакомбы"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.77",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: You have been warned. I wish you the best of luck.",
+      "translation": "[NPC] Mort: Я предупредил. Желаю удачи.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.78",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ You do know I am dead, right?",
+      "translation": "[NPC] Mort: ✆ Ты ведь понимаешь, что я мёртв?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.79",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Why do you want me on your Abiphone?",
+      "translation": "[NPC] Mort: ✆ Зачем тебе мой контакт в Абифоне?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.80",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Anyway, you can have it... for a price.",
+      "translation": "[NPC] Mort: ✆ Впрочем, можешь получить его... за определённую плату.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.81",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Could you give me a Saving Grace? No particular reason.",
+      "translation": "[NPC] Mort: ✆ Можешь дать мне спасительную милость? Просто так.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Saving Grace",
+          "target": "спасительную милость"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.82",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Select an option: [GIVE SAVING GRACE]",
+      "translation": "[NPC] Mort: ✆ Выберите ответ: [ОТДАТЬ СПАСИТЕЛЬНУЮ МИЛОСТЬ]",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Select an option:",
+          "target": "Выберите ответ:"
+        },
+        {
+          "source": "[GIVE SAVING GRACE]",
+          "target": "[ОТДАТЬ СПАСИТЕЛЬНУЮ МИЛОСТЬ]"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.83",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ You don't even have a Saving Grace...",
+      "translation": "[NPC] Mort: ✆ У тебя даже нет спасительной милости...",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Saving Grace",
+          "target": "спасительной милости"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.84",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Yeah that didn't work.",
+      "translation": "[NPC] Mort: ✆ Да уж, не сработало.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.85",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ I was a little too optimistic.",
+      "translation": "[NPC] Mort: ✆ Я был слишком оптимистичен.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.86",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Could you maybe give me a Spirit Mask?",
+      "translation": "[NPC] Mort: ✆ Может, дашь мне призрачную маску?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Spirit Mask",
+          "target": "призрачную маску"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.87",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Select an option: [GIVE SPIRIT MASK]",
+      "translation": "[NPC] Mort: ✆ Выберите ответ: [ОТДАТЬ ПРИЗРАЧНУЮ МАСКУ]",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Select an option:",
+          "target": "Выберите ответ:"
+        },
+        {
+          "source": "[GIVE SPIRIT MASK]",
+          "target": "[ОТДАТЬ ПРИЗРАЧНУЮ МАСКУ]"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.88",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ The Saving Grace didn't work.",
+      "translation": "[NPC] Mort: ✆ Спасительная милость не помогла.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Saving Grace",
+          "target": "Спасительная милость"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.89",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Could you maybe give me a Spirit Bone?",
+      "translation": "[NPC] Mort: ✆ Может, дашь мне призрачную кость?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Spirit Bone",
+          "target": "призрачную кость"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.90",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Select an option: [GIVE SPIRIT BONE]",
+      "translation": "[NPC] Mort: ✆ Выберите ответ: [ОТДАТЬ ПРИЗРАЧНУЮ КОСТЬ]",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Select an option:",
+          "target": "Выберите ответ:"
+        },
+        {
+          "source": "[GIVE SPIRIT BONE]",
+          "target": "[ОТДАТЬ ПРИЗРАЧНУЮ КОСТЬ]"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.91",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ You don't even have a Spirit Bone...",
+      "translation": "[NPC] Mort: ✆ У тебя даже нет призрачной кости...",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Spirit Bone",
+          "target": "призрачной кости"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.92",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Thanks.",
+      "translation": "[NPC] Mort: ✆ Спасибо.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.93",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ I've accepted that I'm probably going to remain undead for quite a while.",
+      "translation": "[NPC] Mort: ✆ Я смирился с тем, что, похоже, ещё долго останусь нежитью.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.94",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ So, while I'm here, I might as well try to make some friends.",
+      "translation": "[NPC] Mort: ✆ Так что, пока я здесь, стоит хотя бы попробовать завести друзей.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.95",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ First stop is using this here Spirit Bone to tame myself a canine companion.",
+      "translation": "[NPC] Mort: ✆ Для начала использую эту призрачную кость, чтобы приручить себе пса.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808",
+      "style_anchors": [
+        {
+          "source": "Spirit Bone",
+          "target": "призрачную кость"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.96",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Thought we ourselves are but a blink in the face of eternity, our friendship will be everlasting.",
+      "translation": "[NPC] Mort: ✆ Пусть наша жизнь — лишь миг перед лицом вечности, наша дружба будет вечной.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.97",
+      "speaker": "Mort",
+      "tag": "NPC",
+      "source": "[NPC] Mort: ✆ Alright, thanks for your efforts, take my contact.",
+      "translation": "[NPC] Mort: ✆ Ладно, спасибо за старания. Вот мой контакт.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Mort?oldid=854808"
+    },
+    {
+      "source_key": "npc77.98",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: These Catacombs hold many riches, powerful items and great experience.",
+      "translation": "[NPC] Ophelia: Эти Катакомбы таят несметные богатства, могущественные предметы и бесценный опыт.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599",
+      "style_anchors": [
+        {
+          "source": "Catacombs",
+          "target": "Катакомбы"
+        },
+        {
+          "source": "riches",
+          "target": "богатства"
+        },
+        {
+          "source": "items",
+          "target": "предметы"
+        },
+        {
+          "source": "experience.",
+          "target": "опыт."
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.99",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: My trick? I make coins from the others' greed.",
+      "translation": "[NPC] Ophelia: Мой секрет? Я зарабатываю монеты на чужой жадности.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599",
+      "style_anchors": [
+        {
+          "source": "coins",
+          "target": "монеты"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.100",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: Are you interested in buying anything?",
+      "translation": "[NPC] Ophelia: Хочешь что-нибудь купить?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.101",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ Hmph. I don't know.",
+      "translation": "[NPC] Ophelia: ✆ Хм. Не знаю.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.102",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ I'm really busy.",
+      "translation": "[NPC] Ophelia: ✆ Я очень занята.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.103",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ If I give you my contact it's strictly business, right?",
+      "translation": "[NPC] Ophelia: ✆ Если я дам тебе свой контакт, ты будешь звонить только по делу, верно?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.104",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ I like collecting rings. There is one I've been wanting for a while now.",
+      "translation": "[NPC] Ophelia: ✆ Я люблю собирать кольца. Одно из них давно хочу заполучить.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.105",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ Have you heard of the Catacombs Expert Ring?",
+      "translation": "[NPC] Ophelia: ✆ Слышал о кольце знатока Катакомб?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599",
+      "style_anchors": [
+        {
+          "source": "Catacombs Expert Ring",
+          "target": "кольце знатока Катакомб"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.106",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ I really want it.",
+      "translation": "[NPC] Ophelia: ✆ Очень уж мне его хочется.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.107",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ For real?",
+      "translation": "[NPC] Ophelia: ✆ Правда?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.108",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ I haven't received a present like that...ever I think.",
+      "translation": "[NPC] Ophelia: ✆ Такого подарка я не получала... кажется, вообще никогда.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.109",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ Here take my contact, and thank you!",
+      "translation": "[NPC] Ophelia: ✆ Вот мой контакт. И спасибо тебе!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.110",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: ✆ You don't have what I need, nice try!",
+      "translation": "[NPC] Ophelia: ✆ У тебя нет того, что мне нужно. Неплохая попытка!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.111",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: I'm currently setting up my shop, come back later!",
+      "translation": "[NPC] Ophelia: Я пока обустраиваю магазин. Приходи позже!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.112",
+      "speaker": "Ophelia",
+      "tag": "NPC",
+      "source": "[NPC] Ophelia: I see. Hopefully next time I see you, you won't be needing anything that requires anything from me...",
+      "translation": "[NPC] Ophelia: Понятно. Надеюсь, при следующей встрече тебе не понадобится ничего, что потребует моего участия...",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ophelia?oldid=851599"
+    },
+    {
+      "source_key": "npc77.113",
+      "speaker": "Trinity",
+      "tag": "NPC",
+      "source": "[NPC] Trinity: ✆ You want to know the secret of my potions?",
+      "translation": "[NPC] Trinity: ✆ Хочешь узнать секрет моих зелий?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trinity?oldid=830503"
+    },
+    {
+      "source_key": "npc77.114",
+      "speaker": "Trinity",
+      "tag": "NPC",
+      "source": "[NPC] Trinity: ✆ It's quite simple - the brew requires Revive Stones!",
+      "translation": "[NPC] Trinity: ✆ Всё просто: для варки нужны камни возрождения!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trinity?oldid=830503",
+      "style_anchors": [
+        {
+          "source": "Revive Stones",
+          "target": "камни возрождения"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.115",
+      "speaker": "Trinity",
+      "tag": "NPC",
+      "source": "[NPC] Trinity: ✆ That's why they can only be made around here.",
+      "translation": "[NPC] Trinity: ✆ Поэтому приготовить их можно только здесь.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trinity?oldid=830503"
+    },
+    {
+      "source_key": "npc77.116",
+      "speaker": "Trinity",
+      "tag": "NPC",
+      "source": "[NPC] Trinity: ✆ Give me a couple of those and I'll give you my Abiphone contact.",
+      "translation": "[NPC] Trinity: ✆ Дай мне парочку, и я дам тебе свой контакт для Абифона.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trinity?oldid=830503"
+    },
+    {
+      "source_key": "npc77.117",
+      "speaker": "Trinity",
+      "tag": "NPC",
+      "source": "[NPC] Trinity: ✆ You don't have what I need! Nice try!",
+      "translation": "[NPC] Trinity: ✆ У тебя нет того, что мне нужно! Неплохая попытка!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trinity?oldid=830503"
+    },
+    {
+      "source_key": "npc77.118",
+      "speaker": "Trinity",
+      "tag": "NPC",
+      "source": "[NPC] Trinity: ✆ Ah, just what I needed!",
+      "translation": "[NPC] Trinity: ✆ А, как раз то, что нужно!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trinity?oldid=830503"
+    },
+    {
+      "source_key": "npc77.119",
+      "speaker": "Wizard's Assistant",
+      "tag": "NPC",
+      "source": "[NPC] Wizard's Assistant: Careful!",
+      "translation": "[NPC] Wizard's Assistant: Осторожно!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard%27s_Assistant?oldid=791491"
+    },
+    {
+      "source_key": "npc77.120",
+      "speaker": "Wizard's Assistant",
+      "tag": "NPC",
+      "source": "[NPC] Wizard's Assistant: You need a Dimensional Infusion before hopping in the portal.",
+      "translation": "[NPC] Wizard's Assistant: Тебе нужно межпространственное вливание, прежде чем прыгать в портал.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard%27s_Assistant?oldid=791491",
+      "style_anchors": [
+        {
+          "source": "Dimensional Infusion before hopping in the portal.",
+          "target": "межпространственное вливание, прежде чем прыгать в портал."
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.121",
+      "speaker": "Wizard's Assistant",
+      "tag": "NPC",
+      "source": "[NPC] Wizard's Assistant: Come talk to me!",
+      "translation": "[NPC] Wizard's Assistant: Подойди, поговорим!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard%27s_Assistant?oldid=791491"
+    },
+    {
+      "source_key": "npc77.122",
+      "speaker": "Wizard's Assistant",
+      "tag": "NPC",
+      "source": "[NPC] Wizard's Assistant: Hold up there!",
+      "translation": "[NPC] Wizard's Assistant: Погоди-ка!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard%27s_Assistant?oldid=791491"
+    },
+    {
+      "source_key": "npc77.123",
+      "speaker": "Wizard's Assistant",
+      "tag": "NPC",
+      "source": "[NPC] Wizard's Assistant: You might explode in a million pieces if you go through the portal.",
+      "translation": "[NPC] Wizard's Assistant: Если пройдёшь через портал, тебя может разорвать на миллион кусочков.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard%27s_Assistant?oldid=791491",
+      "style_anchors": [
+        {
+          "source": "explode",
+          "target": "разорвать"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.124",
+      "speaker": "Wizard's Assistant",
+      "tag": "NPC",
+      "source": "[NPC] Wizard's Assistant: Come talk to me first!",
+      "translation": "[NPC] Wizard's Assistant: Сначала поговори со мной!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard%27s_Assistant?oldid=791491"
+    },
+    {
+      "source_key": "npc77.125",
+      "speaker": "Wizard's Assistant",
+      "tag": "NPC",
+      "source": "[NPC] Wizard's Assistant: If you want to safely travel through the portal, you need a Dimensional Infusion.",
+      "translation": "[NPC] Wizard's Assistant: Чтобы безопасно пройти через портал, тебе нужно межпространственное вливание.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Wizard%27s_Assistant?oldid=791491",
+      "style_anchors": [
+        {
+          "source": "safely",
+          "target": "безопасно"
+        },
+        {
+          "source": "Dimensional Infusion",
+          "target": "межпространственное вливание"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.126",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: Hello! Have you heard of pet items?",
+      "translation": "[NPC] Zog: Привет! Слышал о предметах для питомцев?",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632"
+    },
+    {
+      "source_key": "npc77.127",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: Pet items give your companions bonuses!",
+      "translation": "[NPC] Zog: Предметы для питомцев дают твоим спутникам бонусы!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632"
+    },
+    {
+      "source_key": "npc77.128",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: I sell all kinds of them if you'd like to try one out!",
+      "translation": "[NPC] Zog: Хочешь попробовать? У меня есть самые разные!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632"
+    },
+    {
+      "source_key": "npc77.129",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: ✆ So my abiphone contacts list is FILLED with TONS of other pet lovers.",
+      "translation": "[NPC] Zog: ✆ Мой список контактов в Абифоне просто ЗАБИТ ЦЕЛОЙ ТОЛПОЙ любителей питомцев.",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632",
+      "style_anchors": [
+        {
+          "source": "FILLED",
+          "target": "ЗАБИТ"
+        },
+        {
+          "source": "TONS",
+          "target": "ЦЕЛОЙ ТОЛПОЙ"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.130",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: ✆ I don't want to sound too gamey but...",
+      "translation": "[NPC] Zog: ✆ Не хочу, чтобы это звучало как условие в игре, но...",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632"
+    },
+    {
+      "source_key": "npc77.131",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: ✆ If you had 5 Max Lvl pets of Legendary tier or better in your pet menu...",
+      "translation": "[NPC] Zog: ✆ Если бы в твоём меню было 5 питомцев максимального уровня легендарной редкости или выше...",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632",
+      "style_anchors": [
+        {
+          "source": "Max Lvl",
+          "target": "максимального уровня"
+        },
+        {
+          "source": "Legendary",
+          "target": "легендарной"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.132",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: ✆ That would show me you're a pet lover too!",
+      "translation": "[NPC] Zog: ✆ Это показало бы, что ты тоже любишь питомцев!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632"
+    },
+    {
+      "source_key": "npc77.133",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: ✆ Wow, you're a true pet lover!",
+      "translation": "[NPC] Zog: ✆ Ого, ты настоящий любитель питомцев!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632"
+    },
+    {
+      "source_key": "npc77.134",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: ✆ You doubled my HUGE contacts list too!",
+      "translation": "[NPC] Zog: ✆ А ещё ты удвоил мой ОГРОМНЫЙ список контактов!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632",
+      "style_anchors": [
+        {
+          "source": "HUGE",
+          "target": "ОГРОМНЫЙ"
+        }
+      ]
+    },
+    {
+      "source_key": "npc77.135",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: ✆ Now there's both Kat AND you!",
+      "translation": "[NPC] Zog: ✆ Теперь в нём и Кэт, И ты!",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632"
+    },
+    {
+      "source_key": "npc77.136",
+      "speaker": "Zog",
+      "tag": "NPC",
+      "source": "[NPC] Zog: My tongue is hurting for some reason...",
+      "translation": "[NPC] Zog: Почему-то у меня болит язык...",
+      "evidence": "frozen_public_wiki_revision_not_live_packet",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Zog?oldid=842632"
+    }
+  ]
+}

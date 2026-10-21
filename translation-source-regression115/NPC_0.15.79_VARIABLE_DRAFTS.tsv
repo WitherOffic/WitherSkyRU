@@ -1,0 +1,9 @@
+# Exact published variable definition|authored Russian draft|status
+# Drafts only. Not runtime keys; real substitutions and their current styles need a separately tested handler.
+[NPC] Wizard: Where am I? Oh, it's you [player].|[NPC] Wizard: Где я? А, это ты, [player].|PENDING_NAME_CAPTURE_AND_STYLES
+[NPC] Wizard: Thank you. This should be enough potatoes to generate about # volts. Might be just enough to cause a reaction.|[NPC] Wizard: Спасибо. Этой картошки должно хватить примерно на # вольт. Возможно, этого как раз достаточно, чтобы вызвать реакцию.|PENDING_NUMBER_FORMAT_AND_STYLES
+[NPC] Wizard: My Portal seems to be broken, [player]!|[NPC] Wizard: Похоже, мой портал сломался, [player]!|PENDING_NAME_CAPTURE_AND_STYLES
+[NPC] Wizard: Attempt number # of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?|[NPC] Wizard: Попытка починить портал номер # провалилась, и я оказался здесь. Может, нужно чуть больше энергии... Как насчёт картофельной батарейки?|PENDING_NUMBER_FORMAT_AND_STYLES
+[NPC] Wizard: Welcome to the Rift Dimension, [player]!|[NPC] Wizard: Добро пожаловать в измерение Разлома, [player]!|PENDING_NAME_CAPTURE_AND_STYLES
+[NPC] Wizardman: <playername>, truly an impressive finish.|[NPC] Wizardman: <playername>, поистине впечатляющий финиш.|PENDING_NAME_CAPTURE_AND_STYLES
+[NPC] Wizardman: What could <playername> be thinking right now?|[NPC] Wizardman: О чём сейчас думает <playername>?|PENDING_NAME_CAPTURE_AND_STYLES

@@ -1,0 +1,203 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "status": "SOURCE_BACKED_OFFLINE_NOT_LIVE_TESTED",
+  "source_commit": "88c8bf2f566f42150e869fe9cc7b78dff05dc086",
+  "scope": "22 exact source-backed Dungeon messages: Mort 4, Oruo 9, phase/boss 9. Original speaker/tag retained. Not all NPCs or bosses, not trivia answers.",
+  "records": [
+    {
+      "source_key": "continuous-pass41.npc.mort.here-i-found-this-map-wh",
+      "tag": "NPC",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: Here, I found this map when I first entered the dungeon.",
+      "translation": "[NPC] Mort: Держи карту. Я нашёл её, когда впервые вошёл в подземелье.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass41.npc.mort.you-should-find-it-useful",
+      "tag": "NPC",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: You should find it useful if you get lost.",
+      "translation": "[NPC] Mort: Если заблудишься, карта поможет найти дорогу.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass41.npc.mort.good-luck-",
+      "tag": "NPC",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: Good luck.",
+      "translation": "[NPC] Mort: Удачи!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass41.npc.mort.talk-to-me-to-change-your",
+      "tag": "NPC",
+      "speaker": "Mort",
+      "source": "[NPC] Mort: Talk to me to change your class and ready up.",
+      "translation": "[NPC] Mort: Поговори со мной, чтобы сменить класс и подтвердить готовность.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.though-i-sit-stationary-i",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: Though I sit stationary in this prison that is The Catacombs, my knowledge knows no bounds.",
+      "translation": "[STATUE] Oruo the Omniscient: Хотя я заточён в Катакомбах и не могу двигаться, моим знаниям нет предела.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "The Catacombs",
+          "target": "Катакомбах"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.prove-your-knowledge-by-a",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: Prove your knowledge by answering 3 questions and I shall reward you in ways that transcend time!",
+      "translation": "[STATUE] Oruo the Omniscient: Докажи свои знания: ответь на 3 вопроса, и получишь награду, неподвластную времени!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "3",
+          "target": "3"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.answer-incorrectly-and-y",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: Answer incorrectly, and your moment of ineptitude will live on for generations.",
+      "translation": "[STATUE] Oruo the Omniscient: Ответишь неверно — твою ошибку будут помнить ещё многие поколения.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.-questions-left-then-",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: 2 questions left... Then you will have proven your worth to me!",
+      "translation": "[STATUE] Oruo the Omniscient: Осталось 2 вопроса... И ты докажешь мне, чего достоин!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "2",
+          "target": "2"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.one-more-question-",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: One more question!",
+      "translation": "[STATUE] Oruo the Omniscient: Ещё один вопрос!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.i-bestow-upon-you-all-the",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: I bestow upon you all the power of a hundred years!",
+      "translation": "[STATUE] Oruo the Omniscient: Я наделяю вас всех силой целого столетия!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.you-ve-already-proven-eno",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: You've already proven enough to me! No need to press more of my buttons!",
+      "translation": "[STATUE] Oruo the Omniscient: Ты уже прошёл моё испытание! Больше не нужно нажимать на кнопки!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.i-ve-had-enough-of-you-an",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: I've had enough of you and your party fiddling with my buttons. Scram!",
+      "translation": "[STATUE] Oruo the Omniscient: Мне надоело, что вы всей группой нажимаете на мои кнопки. Прочь!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass42.statue.oruo-the-omniscient.enough-my-buttons-are-no",
+      "tag": "STATUE",
+      "speaker": "Oruo the Omniscient",
+      "source": "[STATUE] Oruo the Omniscient: Enough! My buttons are not to be pressed with such lack of grace!",
+      "translation": "[STATUE] Oruo the Omniscient: Хватит! Не нажимайте на мои кнопки как попало!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.the-watcher.you-have-proven-yourself-",
+      "tag": "BOSS",
+      "speaker": "The Watcher",
+      "source": "[BOSS] The Watcher: You have proven yourself. You may pass.",
+      "translation": "[BOSS] The Watcher: Ты доказал, на что способен. Можешь проходить.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossMessages.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.sadan.so-you-made-it-all-the-wa",
+      "tag": "BOSS",
+      "speaker": "Sadan",
+      "source": "[BOSS] Sadan: So you made it all the way here... Now you wish to defy me? Sadan?!",
+      "translation": "[BOSS] Sadan: Значит, вы добрались сюда... И теперь хотите бросить вызов мне? Садану?!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.sadan.enough-",
+      "tag": "BOSS",
+      "speaker": "Sadan",
+      "source": "[BOSS] Sadan: ENOUGH!",
+      "translation": "[BOSS] Sadan: ХВАТИТ!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.sadan.you-did-it-i-understand-",
+      "tag": "BOSS",
+      "speaker": "Sadan",
+      "source": "[BOSS] Sadan: You did it. I understand now, you have earned my respect.",
+      "translation": "[BOSS] Sadan: Вы справились. Теперь я понимаю: вы заслужили моё уважение.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.maxor.well-well-well-look-wh",
+      "tag": "BOSS",
+      "speaker": "Maxor",
+      "source": "[BOSS] Maxor: WELL! WELL! WELL! LOOK WHO'S HERE!",
+      "translation": "[BOSS] Maxor: НУ НАДО ЖЕ! ПОСМОТРИТЕ, КТО К НАМ ПОЖАЛОВАЛ!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.storm.pathetic-maxor-just-like",
+      "tag": "BOSS",
+      "speaker": "Storm",
+      "source": "[BOSS] Storm: Pathetic Maxor, just like expected.",
+      "translation": "[BOSS] Storm: Жалкий Максор. Всё как и ожидалось.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.goldor.who-dares-trespass-into-m",
+      "tag": "BOSS",
+      "speaker": "Goldor",
+      "source": "[BOSS] Goldor: Who dares trespass into my domain?",
+      "translation": "[BOSS] Goldor: Кто посмел вторгнуться в мои владения?",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.necron.you-went-further-than-any",
+      "tag": "BOSS",
+      "speaker": "Necron",
+      "source": "[BOSS] Necron: You went further than any human before, congratulations.",
+      "translation": "[BOSS] Necron: Вы зашли дальше, чем любой человек до вас. Поздравляю.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    },
+    {
+      "source_key": "continuous-pass43.boss.necron.all-this-for-nothing-",
+      "tag": "BOSS",
+      "speaker": "Necron",
+      "source": "[BOSS] Necron: All this, for nothing...",
+      "translation": "[BOSS] Necron: И всё это — напрасно...",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    }
+  ]
+}

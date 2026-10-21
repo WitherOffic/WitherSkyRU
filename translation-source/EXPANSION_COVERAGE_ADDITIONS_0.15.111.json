@@ -1,0 +1,380 @@
+{
+  "scope": "31 explicit upgrades of old negative coverage expectations in6 isolated test copies. Original Java files,positive translation/style goldens and old reference buckets are unchanged. All other negative cases retain unchanged-object checks.",
+  "reason": "111 intentionally adds130 clearly labelled archival literals. Two fixed Fann slot numbers and the fixed [Eye] speaker are complete published strings,not variable tokens.",
+  "cases": [
+    {
+      "id": "N208",
+      "source": "[NPC] Fann: As a reward for your hard work, I will train an extra pet for you in Slot #2",
+      "translation": "[NPC] Fann: В награду за твой упорный труд я буду тренировать для тебя ещё одного питомца в ячейке #2",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fann?oldid=857188",
+      "archival": false,
+      "test": "TestNpc85.java",
+      "previous_bucket": "pending_variables",
+      "layouts": [
+        "§e[NPC] Fann§f: As a reward for your hard work, I will train an extra pet for you in Slot §e#2"
+      ]
+    },
+    {
+      "id": "N209",
+      "source": "[NPC] Fann: As a reward for your hard work, I will train an extra pet for you in Slot #3",
+      "translation": "[NPC] Fann: В награду за твой упорный труд я буду тренировать для тебя ещё одного питомца в ячейке #3",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Fann?oldid=857188",
+      "archival": false,
+      "test": "TestNpc85.java",
+      "previous_bucket": "pending_variables",
+      "layouts": [
+        "§e[NPC] Fann§f: As a reward for your hard work, I will train an extra pet for you in Slot §e#3"
+      ]
+    },
+    {
+      "id": "N51",
+      "source": "[NPC] Barry: Running for Mayor office, I have many times.",
+      "translation": "[NPC] Barry: На пост мэра баллотировался я много раз.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Barry?oldid=850571",
+      "archival": true,
+      "test": "TestNpc85.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §9Barry§f: Running for §aMayor§f office, I have many times."
+      ]
+    },
+    {
+      "id": "N52",
+      "source": "[NPC] Barry: City Projects for coins towards wizards, I tried organizing.",
+      "translation": "[NPC] Barry: Городские проекты для сбора монет на нужды волшебников организовать пытался я.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Barry?oldid=850571",
+      "archival": true,
+      "test": "TestNpc85.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §9Barry§f: City Projects for §6coins§f towards wizards, I tried organizing."
+      ]
+    },
+    {
+      "id": "N53",
+      "source": "[NPC] Barry: Embezzled it all away, Scorpius did.",
+      "translation": "[NPC] Barry: Всё присвоил Скорпиус.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Barry?oldid=850571",
+      "archival": true,
+      "test": "TestNpc85.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §9Barry§f: Embezzled it all away, §5Scorpius§f did."
+      ]
+    },
+    {
+      "id": "N54",
+      "source": "[NPC] Barry: They will see when I turn the world upside down!",
+      "translation": "[NPC] Barry: Вот увидят они, когда весь мир переверну я!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Barry?oldid=850571",
+      "archival": true,
+      "test": "TestNpc85.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §9Barry§f: They will see when I turn the world upside down!"
+      ]
+    },
+    {
+      "id": "N55",
+      "source": "[NPC] Barry: Portal complete, it nearly is.",
+      "translation": "[NPC] Barry: Почти готов уже портал.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Barry?oldid=850571",
+      "archival": true,
+      "test": "TestNpc85.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §9Barry§f: Portal complete, it nearly is."
+      ]
+    },
+    {
+      "id": "N56",
+      "source": "[NPC] Barry: Mayor become, again I will.",
+      "translation": "[NPC] Barry: Мэром снова стану я.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Barry?oldid=850571",
+      "archival": true,
+      "test": "TestNpc85.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §9Barry§f: §aMayor§r become, again I will."
+      ]
+    },
+    {
+      "id": "N57",
+      "source": "[NPC] Barry: Embezzling, not this time.",
+      "translation": "[NPC] Barry: В этот раз без растрат.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Barry?oldid=850571",
+      "archival": true,
+      "test": "TestNpc85.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §9Barry§f: Embezzling, not this time."
+      ]
+    },
+    {
+      "id": "N177",
+      "source": "[NPC] Detective Amog: Mmh...",
+      "translation": "[NPC] Detective Amog: Хм...",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Detective_Amog?oldid=844532",
+      "archival": true,
+      "test": "TestNpc87.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Detective Amog§f: Mmh..."
+      ]
+    },
+    {
+      "id": "N178",
+      "source": "[NPC] Detective Amog: The developer creating this didn't have time to implement a proper barricade breaking sequence.",
+      "translation": "[NPC] Detective Amog: Разработчику, который это делал, не хватило времени на полноценную сцену разрушения баррикады.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Detective_Amog?oldid=844532",
+      "archival": true,
+      "test": "TestNpc87.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Detective Amog§f: The §ddeveloper §fcreating this didn't have time to implement a proper barricade breaking sequence."
+      ]
+    },
+    {
+      "id": "N179",
+      "source": "[NPC] Detective Amog: But since we already broke the 4th wall, maybe we can use this opportunity to break this other wall.",
+      "translation": "[NPC] Detective Amog: Но раз уж мы сломали 4-ю стену, может, заодно сломаем и эту.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Detective_Amog?oldid=844532",
+      "archival": true,
+      "test": "TestNpc87.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Detective Amog§f: But since we already broke the §e4th wall§f, maybe we can use this opportunity to break this other wall."
+      ]
+    },
+    {
+      "id": "N180",
+      "source": "[NPC] Detective Amog: Tada!",
+      "translation": "[NPC] Detective Amog: Та-дам!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Detective_Amog?oldid=844532",
+      "archival": true,
+      "test": "TestNpc87.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Detective Amog§f: Tada!"
+      ]
+    },
+    {
+      "id": "N181",
+      "source": "[NPC] Detective Amog: Let's get inside.",
+      "translation": "[NPC] Detective Amog: Пойдём внутрь.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Detective_Amog?oldid=844532",
+      "archival": true,
+      "test": "TestNpc87.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Detective Amog§f: Let's get inside."
+      ]
+    },
+    {
+      "id": "N194",
+      "source": "[NPC] Elise: Sorry, I'm busy tinkering.",
+      "translation": "[NPC] Elise: Извини, я сейчас вожусь с механизмами.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Elise?oldid=813177",
+      "archival": true,
+      "test": "TestNpc88.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §dElise§f: Sorry, I'm busy tinkering."
+      ]
+    },
+    {
+      "id": "N187",
+      "source": "[NPC] Drakuu: You might be someone worth taking to, but the time isn't right.",
+      "translation": "[NPC] Drakuu: Возможно, с тобой стоит поговорить, но время ещё не пришло.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Drakuu?oldid=822300",
+      "archival": true,
+      "test": "TestNpc91.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §cDrakuu§f: You might be someone worth taking to, but the time isn't right."
+      ]
+    },
+    {
+      "id": "N188",
+      "source": "[NPC] Drakuu: I could talk to you, but the conditions don't seem right.",
+      "translation": "[NPC] Drakuu: Я мог бы с тобой поговорить, но условия, похоже, неподходящие.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Drakuu?oldid=822300",
+      "archival": true,
+      "test": "TestNpc91.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §cDrakuu§f: I could talk to you, but the conditions don't seem right."
+      ]
+    },
+    {
+      "id": "N551",
+      "source": "[NPC] Simon: I've already given you a Sloth Hat for this year! Happy Anniversary!",
+      "translation": "[NPC] Simon: Я уже дал тебе шапку ленивца в этом году! С годовщиной!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Simon?oldid=790660",
+      "archival": true,
+      "test": "TestNpc91.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Simon: §fI've already given you a Sloth Hat for this year! Happy Anniversary!"
+      ]
+    },
+    {
+      "id": "N553",
+      "source": "[NPC] Simon: The century celebration is over.",
+      "translation": "[NPC] Simon: Празднование столетия закончилось.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Simon?oldid=790660",
+      "archival": true,
+      "test": "TestNpc91.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Simon: §fThe century celebration is over."
+      ]
+    },
+    {
+      "id": "N688",
+      "source": "[NPC] Worker Xavier: Plans are all done, we just need to get to work on the build!",
+      "translation": "[NPC] Worker Xavier: Все планы готовы, осталось только начать стройку!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §aWorker Xavier§f: §r§fPlans are all done, we just need to get to work on the build!"
+      ]
+    },
+    {
+      "id": "N689",
+      "source": "[NPC] Worker Xavier: We may be displacing some of the local ecosystem with our terraforming, but hopefully it will all be worth it!",
+      "translation": "[NPC] Worker Xavier: Наша перепланировка местности может потеснить местную экосистему, но, надеюсь, результат того стоит!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] §aWorker Xavier§f: §r§fWe may be displacing some of the local ecosystem with our terraforming, but hopefully it will all be worth it!"
+      ]
+    },
+    {
+      "id": "N690",
+      "source": "[NPC] Worker Xavier: Have you heard? Vincent will be moving in soon!",
+      "translation": "[NPC] Worker Xavier: Слышал? Винсент скоро переедет сюда!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: §r§fHave you heard? §bVincent§f will be moving in soon!"
+      ]
+    },
+    {
+      "id": "N691",
+      "source": "[NPC] Worker Xavier: His art is amazing, I can't wait to meet him!",
+      "translation": "[NPC] Worker Xavier: Его искусство восхитительно, не терпится с ним познакомиться!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: §r§fHis art is amazing, I can't wait to meet him!"
+      ]
+    },
+    {
+      "id": "N692",
+      "source": "[NPC] Worker Xavier: We'll make this house as great as possible, so that he can focus on his work.",
+      "translation": "[NPC] Worker Xavier: Мы сделаем этот дом как можно лучше, чтобы он мог сосредоточиться на работе.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: §r§fWe'll make this house as great as possible, so that he can focus on his work."
+      ]
+    },
+    {
+      "id": "N693",
+      "source": "[NPC] Worker Xavier: I don't know how the wizards have been inhabiting this pile of rubble this long...",
+      "translation": "[NPC] Worker Xavier: Не понимаю, как волшебники так долго жили в этой груде обломков...",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: I don't know how the wizards have been inhabiting this pile of rubble this long..."
+      ]
+    },
+    {
+      "id": "N694",
+      "source": "[NPC] Worker Xavier: They're literally using a hole in the foundation to get in!",
+      "translation": "[NPC] Worker Xavier: Они буквально заходят через дыру в фундаменте!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: They're literally using a hole in the foundation to get in!"
+      ]
+    },
+    {
+      "id": "N695",
+      "source": "[NPC] Worker Xavier: I heard some people enter through broken windows!!",
+      "translation": "[NPC] Worker Xavier: Слышал, некоторые даже залезают через разбитые окна!!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: I heard some people enter through broken windows!!"
+      ]
+    },
+    {
+      "id": "N696",
+      "source": "[NPC] Worker Xavier: Crazy stuff.",
+      "translation": "[NPC] Worker Xavier: Безумие какое-то.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: Crazy stuff."
+      ]
+    },
+    {
+      "id": "N697",
+      "source": "[NPC] Worker Xavier: The construction team just finished renovating the whole village.",
+      "translation": "[NPC] Worker Xavier: Строители только что закончили обновлять всю деревню.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: The construction team just finished renovating the whole village."
+      ]
+    },
+    {
+      "id": "N698",
+      "source": "[NPC] Worker Xavier: There's just a few finishing touches left with this community center, but everything else should be golden!",
+      "translation": "[NPC] Worker Xavier: В общественном центре осталось лишь несколько последних штрихов, а всё остальное уже должно быть в полном порядке!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Worker_Xavier?oldid=823060",
+      "archival": true,
+      "test": "TestNpc99.java",
+      "previous_bucket": "unsafe_excluded",
+      "layouts": [
+        "§e[NPC] Worker Xavier§f: There's just a few finishing touches left with this community center, but everything else should be golden!"
+      ]
+    },
+    {
+      "id": "N478",
+      "source": "[NPC] [Eye]: Quit it!",
+      "translation": "[NPC] [Eye]: Прекрати!",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Porhtal?oldid=828211",
+      "archival": false,
+      "test": "TestNpc102.java",
+      "previous_bucket": "pending_variables",
+      "layouts": [
+        "§e[NPC] §a[Eye]§f: Quit it!"
+      ]
+    }
+  ],
+  "earlier_failed_run_before_full_scope_audit": "build/expansion111-checks-8ebc04cbe3b34286974660f33059c13c",
+  "retained_earlier_test_source": "build/expansion111-test-sources-v4/TestNpc99.java"
+}

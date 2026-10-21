@@ -23,13 +23,23 @@ public abstract class GuiTextMixin {
     private void witherskyru$styledText(net.minecraft.client.gui.Font font,
         net.minecraft.util.FormattedCharSequence source, int x, int y, int color,
         boolean shadow, CallbackInfo ci) {
-        if (witherskyru$drawingTranslated || source == null) return;
+        if (witherskyru$drawingTranslated || source == null || ru.wither.skyru.TechnicalText.active() || TooltipTextFit.renderingPrepared()) return;
+        if(!SkyRuClient.active())return;
+        if(SkyRuClient.numericSequence(source))return;
+        try(var context=ru.wither.skyru.RenderContext.open()){
         boolean hud = HudTextFit.currentPanel();
-        boolean fit = hud || TooltipTextFit.currentPanel();
+        boolean fit = SkyRuClient.hudTextFitActive() && HudTextFit.fixedWidth(hud, TooltipTextFit.currentPanel());
         var translated = SkyRuClient.sequence(source, hud);
         if (translated == source) return;
-        float scale = fit ? HudTextFit.scale(font.width(source), font.width(translated)) : 1f;
         GuiGraphicsExtractor graphics = (GuiGraphicsExtractor)(Object)this;
+        float scale=1f;
+        if(fit){
+            int budget=HudTextFit.currentBudget(net.minecraft.client.gui.TextAlignment.LEFT,x,font.width(source),graphics.pose());
+            int width=font.width(translated);
+            if(!HudTextFit.canFit(budget,width)){translated=SkyRuClient.narrowHud(source,translated);width=font.width(translated);}
+            if(!HudTextFit.canFit(budget,width))return;
+            scale=HudTextFit.scale(budget,width);
+        }
         witherskyru$drawingTranslated = true;
         boolean pushed = false;
         try {
@@ -47,40 +57,41 @@ public abstract class GuiTextMixin {
             witherskyru$drawingTranslated = false;
         }
         ci.cancel();
+        }
     }
 
     @ModifyVariable(
         method="centeredText(Lnet/minecraft/client/gui/Font;Lnet/minecraft/util/FormattedCharSequence;III)V",
         at=@At("HEAD"), argsOnly=true, ordinal=0, require=1)
     private net.minecraft.util.FormattedCharSequence witherskyru$centeredSequence(net.minecraft.util.FormattedCharSequence source) {
-        return HudTextFit.currentPanel() || TooltipTextFit.currentPanel() ? source : SkyRuClient.sequence(source);
+        return SkyRuClient.sequenceOutsideHud(source);
     }
 
     @ModifyVariable(
         method="centeredText(Lnet/minecraft/client/gui/Font;Ljava/lang/String;III)V",
         at=@At("HEAD"), argsOnly=true, ordinal=0, require=1)
     private String witherskyru$centeredString(String source) {
-        return HudTextFit.currentPanel() || TooltipTextFit.currentPanel() ? source : SkyRuClient.text(source);
+        return SkyRuClient.textOutsideHud(source);
     }
     @ModifyVariable(
         method="text(Lnet/minecraft/client/gui/Font;Lnet/minecraft/network/chat/Component;IIIZ)V",
         at=@At("HEAD"), argsOnly=true, ordinal=0, require=1)
     private Component witherskyru$normalText(Component source) {
-        return HudTextFit.currentPanel() || TooltipTextFit.currentPanel() ? source : SkyRuClient.component(source);
+        return SkyRuClient.componentOutsideHud(source);
     }
 
     @ModifyVariable(
         method="text(Lnet/minecraft/client/gui/Font;Ljava/lang/String;IIIZ)V",
         at=@At("HEAD"), argsOnly=true, ordinal=0, require=1)
     private String witherskyru$normalString(String source) {
-        return HudTextFit.currentPanel() || TooltipTextFit.currentPanel() ? source : SkyRuClient.text(source);
+        return SkyRuClient.textOutsideHud(source);
     }
 
     @ModifyVariable(
         method="centeredText(Lnet/minecraft/client/gui/Font;Lnet/minecraft/network/chat/Component;III)V",
         at=@At("HEAD"), argsOnly=true, ordinal=0, require=1)
     private Component witherskyru$centered(Component source) {
-        return HudTextFit.currentPanel() || TooltipTextFit.currentPanel() ? source : SkyRuClient.component(source);
+        return SkyRuClient.componentOutsideHud(source);
     }
 
     @ModifyVariable(

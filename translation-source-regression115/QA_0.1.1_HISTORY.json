@@ -1,0 +1,18 @@
+{
+  "build": "0.1.1-beta",
+  "target": "Minecraft 26.1.2 / Fabric Loader 0.19.5 / Java 25.0.1",
+  "compiled_against_real_libraries": true,
+  "compiler_stubs_used": false,
+  "offline_phrases": 1144,
+  "numbered_templates": 96,
+  "runtime_assertions_passed": 19,
+  "mixin_classes_applied": 3,
+  "injected_handler_methods": 8,
+  "injection_sites": 10,
+  "fabric_knot_smoke_test": "PASSED",
+  "full_pack_transformation_and_dictionary_test": "PASSED with 271 mods including nested dependencies",
+  "full_game_launch": "NOT PERFORMED",
+  "hypixel_connection": "NOT PERFORMED",
+  "guaranteed_all_hypixel_text": false,
+  "unknown_strings": "preserve original and log for curation"
+}

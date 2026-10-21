@@ -1,0 +1,37 @@
+{
+  "checked_client_date": "2026-10-16",
+  "api_url": "https://hypixelskyblock.minecraft.wiki/api.php?action=query&titles=Lone%20Adventurer%7CJuliette&prop=revisions&rvprop=ids%7Ctimestamp&rvslots=main&format=json&formatversion=2",
+  "matches_pinned_corpus": true,
+  "private_or_unpublished_dialogue_known": false,
+  "response": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 9654,
+          "ns": 0,
+          "title": "Juliette",
+          "revisions": [
+            {
+              "revid": 789285,
+              "parentid": 753739,
+              "timestamp": "2026-07-24T00:20:23Z"
+            }
+          ]
+        },
+        {
+          "pageid": 93496,
+          "ns": 0,
+          "title": "Lone Adventurer",
+          "revisions": [
+            {
+              "revid": 823127,
+              "parentid": 822957,
+              "timestamp": "2026-08-24T06:13:16Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

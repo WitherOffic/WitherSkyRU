@@ -1,0 +1,101 @@
+# NPC|exact published body|reviewed Russian body|optional semantic source/target anchors
+Lumber Jack|Have you enchanted your axe with Efficiency V? It'll help ya break stuff a lot faster.|Ты уже зачаровал топор на Эффективность V? Так ты будешь рубить гораздо быстрее.|{"Efficiency V":"Эффективность V"}
+Lumber Jack|Have you spoken to my mate Charlie over in The Park yet? He could probably use your help.|Ты уже говорил с моим приятелем Чарли в Парке? Ему наверняка пригодится твоя помощь.|{"Charlie":"Чарли","The Park":"Парке"}
+Lumber Jack|I thought you'd be more thankful for the sweet axe my assistant gave you.|Я думал, ты будешь поблагодарнее за отличный топор, который тебе дал мой помощник.
+Lumber Jack|My assistant is feeling off, and I think we could do with a hearty meal. Do you think you can help us out?|Мой помощник приболел. Думаю, сытный обед нам бы не помешал. Поможешь?
+Lumber Jack|My mate Charlie has a Treecapitator! With it, he can break down entire trees in a single swipe!|У моего приятеля Чарли есть Древолом! Он срубает целые деревья одним взмахом!|{"Charlie":"Чарли","Treecapitator":"Древолом"}
+Lumber Jack|Thank you! I'm sure this will make him feel better.|Спасибо! Уверен, ему от этого полегчает.
+Taylor|Hmm.. I don't think this preview will fit here.|Хм... Кажется, здесь не хватит места для предпросмотра.
+Taylor|Oh! You can however view this skin on Our Wiki [CLICK HERE]|О! Но этот облик можно посмотреть на нашей вики [НАЖМИТЕ ЗДЕСЬ]|{"Our Wiki":"нашей вики","CLICK HERE":"НАЖМИТЕ ЗДЕСЬ"}
+Jax|✆ Consider yourself lucky you only had to pay 10 million, I could easily have added a zero.|✆ Считай, тебе повезло отделаться всего 10 миллионами. Я запросто мог бы приписать ещё один ноль.|{"10":"10"}
+Jax|✆ Uh... maybe before you dare get my contact, you should prove yourself as a real archer first.|✆ Э-э... Прежде чем просить мой номер, докажи, что ты настоящий лучник.
+Jax|✆ Yep, that's right, I'm the best.|✆ Ага, всё верно. Я лучший.
+Jax|I have only one condition... These are powerful arrows, they can't fall into the wrong hands so keep them in your quiver and don't share them with anyone.|Только одно условие... Эти мощные стрелы не должны попасть в дурные руки. Храни их в колчане и ни с кем не делись.|{"quiver":"колчане"}
+Jax|Ready to test your skills? Step on the pressure plate and all the targets will light up, if you can shoot them all in 25 seconds, I'll know you're the real deal.|Готов проверить свои навыки? Встань на нажимную плиту — все мишени загорятся. Попадёшь во все за 25 секунд — докажешь, что ты настоящий лучник.|{"25":"25","pressure plate":"нажимную плиту"}
+Bartender|✆ I tell 'em every time that it's open every day, but when they put down the phone I know they'll call 'n ask again tomorrow.|✆ Каждый раз говорю: мы открыты ежедневно. Но стоит им положить трубку — уже знаю, что завтра позвонят с тем же вопросом.
+Bartender|✆ Looks like you've reached Spider Slayer 9, so you're as good a choice as any I suppose.|✆ Вижу, ты достиг 9-го уровня охоты на пауков. Пожалуй, твой номер можно добавить.|{"Spider Slayer":"охоты на пауков","9":"9"}
+Bartender|✆ People always adding me left and right these days, asking if the ol' tav is open or not.|✆ Сейчас все только и делают, что добавляют меня и спрашивают, открыта ли наша старая таверна.
+Bartender|✆ You go and reach Spider Slayer 9, and I'll add you.|✆ Достигни 9-го уровня охоты на пауков — и я тебя добавлю.|{"Spider Slayer":"охоты на пауков","9":"9"}
+Bartender|These are trying times, indeed. The Graveyard up ahead is overflowing with monsters! Anyone who comes in is spooked off by the grunts of Zombies in the distance.|Нелёгкие настали времена. Кладбище впереди кишит чудовищами! Стоит кому-то зайти — и рычание зомби тут же обращает его в бегство.|{"The Graveyard":"Кладбище","Zombies":"зомби"}
+Clerk Seraphine|Candidates that were either elected as Mayor or Minister the previous Election sit out the following Election and only have a single perk when they return.|Кандидаты, ставшие мэром или министром на прошлых выборах, пропускают следующие. Вернувшись, они получают только один бонус.|{"Mayor":"мэром","Minister":"министром"}
+Clerk Seraphine|Do you want to hear more about that?|Хотите узнать об этом подробнее?
+Clerk Seraphine|Each Mayor also has a ✯ Minister Perk, which goes hand-in-hand with the Minister system!|У каждого мэра есть и ✯ бонус министра — часть системы министров!|[{"source":"Mayor","target":"мэра"},{"source":"✯","target":"✯"},{"source":"Minister Perk","target":"бонус министра"}]
+Clerk Seraphine|Each Mayor has a perk marked as a "✯ Minister Perk".|У каждого мэра один из бонусов помечен как «✯ бонус министра».|[{"source":"Mayor","target":"мэра"},{"source":"✯","target":"✯"},{"source":"Minister Perk","target":"бонус министра"}]
+Clerk Seraphine|Once a Mayor is elected, the runner-up with the most votes is selected to act as their Minister.|После избрания мэра кандидат, занявший второе место по голосам, становится его министром.|{"Mayor":"мэра","Minister":"министром"}
+Clerk Seraphine|That Minister will provide its ✯ Minister Perk as a nice little bonus!|Этот министр добавит свой ✯ бонус министра к бонусам мэра!|[{"source":"Minister","target":"министр","whole_word":true,"source_occurrence":1},{"source":"✯","target":"✯"},{"source":"Minister Perk","target":"бонус министра"}]
+Clerk Seraphine|They'll usually have somewhere from 1-3, with an 8% chance to receive a 4th if they already have 3.|Обычно их от 1 до 3. С вероятностью 8% добавляется 4-й, если уже есть 3.|{"1":"1","8%":"8%"}
+Clerk Seraphine|Well, most of the Mayors have a total of 4 perks to choose from, the amount they have at once varying.|У большинства мэров есть 4 возможных бонуса, но число действующих одновременно меняется.|{"4":"4","Mayors":"мэров"}
+Alda|Are you here to buy an Abiphone?|Хотите купить Абифон?|{"Abiphone":"Абифон"}
+Alda|Have ya ever needed to talk to or buy something from an NPC, but they're on a different island?|Бывало, что нужно поговорить с NPC или что-то у него купить, а он на другом острове?|{"NPC":"NPC"}
+Alda|And getting to them would take ages, even if you had a Travel Scroll?|И добираться до него долго, даже со свитком перемещения?|{"Travel Scroll":"свитком перемещения"}
+Alda|That's where the Abiphone comes in!|Вот тут и пригодится Абифон!|{"Abiphone":"Абифон"}
+Alda|Simply add an NPC as a Contact and you can call them anytime, anywhere!|Просто добавьте NPC в контакты — и звоните ему откуда угодно и когда угодно!|{"NPC":"NPC","Contact":"контакты"}
+Alda|Sounds amazing, right?|Здорово, правда?
+Alda|Then why don't ya buy one? I'll do a little discount, just for you.|Так почему бы не купить? Только для вас сделаю небольшую скидку.
+Alda|Congratulations on becoming a proud owner of an Abiphone!|Поздравляю с покупкой Абифона!|{"Abiphone":"Абифона"}
+Alda|Before you go, let me show you how to add a contact.|Перед уходом покажу, как добавить контакт.
+Alda|Simply hold the Abiphone in your hand, and click on an NPC!|Возьмите Абифон в руку и нажмите на NPC!|{"Abiphone":"Абифон","NPC":"NPC"}
+Alda|Why don't you try it out on me now?|Попробуйте прямо сейчас на мне!
+Alda|✆ Nice job!|✆ Отлично!
+Alda|✆ It's really as simple as that. I'll add myself to your Contacts now!|✆ Вот так просто! Сейчас добавлю себя в ваши контакты.|{"Contacts":"контакты"}
+Alda|✆ One last thing - not every NPC owns an Abiphone, so you can't add everyone as a Contact.|✆ И последнее: Абифон есть не у каждого NPC, поэтому добавить можно не всех.|{"Abiphone":"Абифон","NPC":"NPC"}
+Alda|✆ To see who you can add, simply open up your phone and check the Contacts Directory.|✆ Откройте телефон и загляните в справочник контактов: там указано, кого можно добавить.|{"Contacts Directory":"справочник контактов"}
+Alda|✆ That's it. Enjoy your purchase!|✆ Вот и всё. Приятного пользования!
+Alixer|I'm here to help you with Bingo!|Я здесь, чтобы помочь тебе с Бинго!|{"Bingo":"Бинго"}
+Alixer|Come to me if you want some Potion Effects to help you in your journey!|Приходи за эффектами зелий — с ними путешествовать легче!|{"Potion Effects":"эффектами зелий"}
+Alixer|I can give you better effects depending on your Bingo Level.|Чем выше твой уровень Бинго, тем лучше эффекты, которые я могу дать.|{"Bingo Level":"уровень Бинго"}
+Alixer|Good Luck!!|Удачи!!
+Alixer|I gave you potions recently! Give me some time to prepare new ones!|Я совсем недавно дал тебе зелья! Дай время приготовить новые!
+Alixer|✆ You want to have my number?|✆ Хочешь мой номер?
+Alixer|✆ I'd love to give you my number!|✆ С радостью дам тебе свой номер!
+Alixer|✆ However, Bingo requests that you have completed at least 4 Bingo Goals before I can give you my number.|✆ Но Бинго просит сначала выполнить хотя бы 4 цели Бинго. Тогда я смогу дать тебе номер.|[{"source":"4","target":"4"},{"source":"Bingo","target":"Бинго","whole_word":true,"source_occurrence":1,"target_occurrence":1},{"source":"Bingo Goals","target":"цели Бинго"}]
+Alixer|✆ That's a bunch of Bingo Goals you've completed!|✆ Ничего себе, сколько целей Бинго ты выполнил!|{"Bingo Goals":"целей Бинго"}
+Alixer|✆ I'll gladly give you my number!|✆ С удовольствием дам свой номер!
+Alixer|✆ Hi! Did your potions run out?|✆ Привет! Действие зелий закончилось?
+Alixer|✆ I'm not sure how well this works over the phone...|✆ Не уверен, сработает ли это по телефону...
+Alixer|✆ Wow!|✆ Ух ты!
+Alixer|✆ Potions travel much faster by phone!|✆ По телефону зелья перемещаются гораздо быстрее!
+Alixer|✆ Good luck with the Bingo!|✆ Удачи в Бинго!|{"Bingo":"Бинго"}
+Alixer|✆ I gave you potions recently! Give me some time to prepare new ones!|✆ Я совсем недавно дал тебе зелья! Дай время приготовить новые!
+Angler Angus|Whenever you fish, make sure you're using some type of Bait.|На рыбалке всегда пользуйся какой-нибудь наживкой.|{"Bait":"наживкой"}
+Angler Angus|You can store Bait in your inventory or Fishing Bag, which is unlocked at Raw Cod Collection III.|Храни наживку в инвентаре или сумке для рыбалки. Сумка открывается на III уровне коллекции сырой трески.|{"Bait":"наживку","Fishing Bag":"сумке для рыбалки","Raw Cod":"сырой трески","III":"III"}
+Angler Angus|Bait is automatically consumed whenever you cast your rod, so it's easy to use!|Наживка расходуется автоматически при забросе удочки — пользоваться ей просто!|{"Bait":"Наживка"}
+Angler Angus|I craft Fish Bait all the time because it's so easy to do - just a couple of Raw Cod and a Raw Salmon!|Я постоянно делаю рыбную наживку: нужна всего пара сырых тресок и один сырой лосось!|{"Fish Bait":"рыбную наживку","Raw Cod":"сырых тресок","Raw Salmon":"сырой лосось"}
+Angler Angus|Here, I've got some spare Fish Bait for ya!|Держи, у меня есть лишняя рыбная наживка!|{"Fish Bait":"рыбная наживка"}
+Angler Angus|Fish Bait seems to give a really effective ☂ Fishing Speed boost!|Рыбная наживка заметно повышает ☂ скорость рыбалки!|{"Fish Bait":"Рыбная наживка","☂ Fishing Speed":"☂ скорость рыбалки"}
+Angler Angus|All Baits serve some specialized purpose, so be sure to keep some on you at all times!|У каждой наживки своё назначение, так что всегда держи запас под рукой!|{"Baits":"наживки"}
+Angler Angus|If you have any questions about Bait, you can view my Bait Guide at any time!|Есть вопросы о наживках? В любой момент загляни в мой справочник наживок!|[{"source":"Bait","target":"наживках","whole_word":true,"source_occurrence":1},{"source":"Bait Guide","target":"справочник наживок"}]
+Angler Angus|You can also use /bait as a shortcut if you aren't feeling like paying me a visit!|Если не хочется идти ко мне, открой его командой /bait!|{"/bait":"/bait"}
+Apprentice|The Furniture Shop has many different kinds of cool furniture for you to put in your world!|В мебельном магазине полно отличной мебели для твоего мира!|{"Furniture Shop":"мебельном магазине"}
+Apprentice|For a price, you can buy it here!|Купить её можно прямо здесь — за плату, конечно!
+Apprentice|I'm still learning carpentry. I learn the most when crafting enchanted items!|Я ещё учусь плотницкому делу. Больше всего опыта получаю, создавая зачарованные предметы!|{"carpentry":"плотницкому делу","enchanted items":"зачарованные предметы"}
+Apprentice|Talk to the Carpenter upstairs to learn more about Carpentry!|Поговори с Плотником наверху, чтобы узнать больше о плотницком деле!|{"Carpenter":"Плотником","Carpentry":"плотницком деле"}
+Apprentice|Looking for wool? Try the Mushroom Desert!|Ищешь шерсть? Загляни в Грибную пустыню!|{"Mushroom Desert":"Грибную пустыню"}
+Bulvar|Ever thought you'd see a Tier 12 Minion?|Не думал, что увидишь миньона ранга 12?|{"12":"12"}
+Bulvar|Well, today's your lucky day!|Что ж, сегодня твой счастливый день!
+Bulvar|✆ Hmm? My Abiphone Contact?|✆ Хм? Мой контакт в Абифоне?|{"Abiphone":"Абифоне"}
+Bulvar|✆ Well, today might just be your lucky day - again.|✆ Похоже, сегодня тебе снова повезло.
+Bulvar|✆ Abiphones ain't much use down here - you'll seldom get a signal, but I do own one.|✆ Здесь от Абифонов мало толку: связь ловит редко. Но у меня один есть.|{"Abiphones":"Абифонов"}
+Bulvar|✆ Seeing as I'm feeling nice, I'll give you my contact for the small sum of one Silex.|✆ Я сегодня добрый, так что дам свой номер всего за один кремень Silex.|{"Silex":"кремень Silex"}
+Bulvar|✆ How about it?|✆ Ну как?
+Bulvar|✆ I don't know what ya think that is, but it's not a Silex.|✆ Не знаю, за что ты это принимаешь, но это не кремень Silex.|{"Silex":"кремень Silex"}
+Bulvar|✆ Come back once you've got yourself one.|✆ Приходи, когда раздобудешь его.
+Bulvar|✆ That'll do it!|✆ Вот это подойдёт!
+Bulvar|✆ Cheers friend, once I got that on my Drill I'll be mining like Divan!|✆ Спасибо, друг! Поставлю это на бур — и буду добывать руду не хуже Дивана!|{"Drill":"бур","Divan":"Дивана"}
+Bulvar|✆ Oh, and before I forget - here's that contact you were asking for.|✆ Да, чуть не забыл: вот номер, который ты просил.
+Bulvar|✆ Give me a call in case you ever need some Tier XII Mining Minions.|✆ Звони, если понадобятся шахтёрские миньоны ранга XII.|{"Tier XII":"ранга XII","Mining Minions":"шахтёрские миньоны"}
+Carpenter|Sales are too good right now, I can't keep up with the demand!|Продажи идут так хорошо, что я не успеваю пополнять запасы!
+Carpenter|Could you bring a stack of White Wool to help replenish my stock?|Принесёшь стопку белой шерсти, чтобы пополнить мои запасы?|{"White Wool":"белой шерсти"}
+Carpenter|Sheep over in The Barn drop wool, but you can also purchase it from the Wool Weaver.|Шерсть выпадает из овец в Амбаре. Ещё её можно купить у Ткача шерсти.|{"The Barn":"Амбаре","Wool Weaver":"Ткача шерсти"}
+Carpenter|She lives in a house in the main plaza near the bank.|Она живёт в доме на главной площади, недалеко от банка.
+Carpenter|Come back with a stack of White Wool!|Возвращайся со стопкой белой шерсти!|{"White Wool":"белой шерсти"}
+Carpenter|Wow, thanks so much for the help!|Ух ты, огромное спасибо за помощь!
+Carpenter|Carpentry is my passion, I always love to teach others.|Плотницкое дело — моя страсть. Всегда рад научить других!|{"Carpentry":"Плотницкое дело"}
+Carpenter|Here's the recipe for the Carpentry Table. You can place it in your world and craft furniture that you've unlocked!|Вот рецепт стола столяра. Поставь его в своём мире и создавай мебель по открытым рецептам!|{"Carpentry Table":"стола столяра"}
+Carpenter|You can now gain Carpentry XP by crafting items. Leveling your Carpentry Skill unlocks new furniture recipes!|Теперь создание предметов даёт опыт плотницкого дела. Повышай уровень этого навыка, чтобы открывать новые рецепты мебели!|[{"source":"Carpentry","target":"плотницкого дела","whole_word":true,"source_occurrence":1},{"source":"XP","target":"опыт","whole_word":true},{"source":"Carpentry Skill","target":"этого навыка"}]
+Carpenter|Check out the Furniture Shop downstairs!|Загляни в мебельный магазин внизу!|{"Furniture Shop":"мебельный магазин"}
+Carpenter|The Furniture Shop is downstairs. Purchase cool furniture down there!|Мебельный магазин внизу. Там можно купить отличную мебель!|{"Furniture Shop":"Мебельный магазин"}
+Carpenter|Ah, hello there! I have some information for you, but you need to finish talking to Sam first!|А, здравствуйте! Мне есть что вам рассказать, но сначала закончите разговор с Сэмом!|{"Sam":"Сэмом"}
+Carpenter|No worries, I'll come back later.|Не беспокойтесь, я зайду позже.
+Carpenter|No worries, I'll hang on to it for now. I'll come back later.|Не беспокойтесь, пока оставлю это у себя. Зайду позже.
+Carpenter|Thank you! I'll be checking in to see how you're doing with the Greenhouse.|Спасибо! Буду заглядывать к вам, чтобы узнать, как идут дела с теплицей.|{"Greenhouse":"теплицей"}

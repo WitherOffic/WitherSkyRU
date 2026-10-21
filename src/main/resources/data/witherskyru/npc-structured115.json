@@ -1,0 +1,473 @@
+{
+  "schema": 1,
+  "scope": "13 closed integer shapes,11 original wiki patterns,two explicit minute/minutes branches;no placeholder exact keys.",
+  "templates": [
+    {
+      "prefix": "[NPC] Ikrus: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Hmmm, ",
+        "target": "Хммм, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Хммм, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", huh? Sounds like a plan!",
+        "target": ", да? Звучит неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 26,
+            "text": ", да? Звучит неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ikrus: Hmmm, {value}, huh? Sounds like a plan!",
+        "[NPC] Ikrus: Hmmm, [#], huh? Sounds like a plan!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Ikrus: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Hmm, ",
+        "target": "Хмм, ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "Хмм, "
+          }
+        ]
+      },
+      "after": {
+        "source": ", huh? Sounds like a plan!",
+        "target": ", да? Звучит неплохо!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 26,
+            "text": ", да? Звучит неплохо!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Ikrus: Hmm, {value}, huh? Sounds like a plan!",
+        "[NPC] Ikrus: Hmm, [#], huh? Sounds like a plan!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Researcher Timmy: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Sadly it'll stop raining in about ",
+        "target": "К сожалению, дождь прекратится примерно через ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 34,
+            "text": "К сожалению, дождь прекратится примерно через "
+          }
+        ]
+      },
+      "after": {
+        "source": " minute from now.",
+        "target": " мин.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": " мин."
+          },
+          {
+            "start": 8,
+            "end": 17,
+            "text": ""
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Researcher Timmy: Sadly it'll stop raining in about {value} minute from now.",
+        "[NPC] Researcher Timmy: Sadly it'll stop raining in about # minute[s] from now.",
+        " minute "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Researcher Timmy: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Sadly it'll stop raining in about ",
+        "target": "К сожалению, дождь прекратится примерно через ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 34,
+            "text": "К сожалению, дождь прекратится примерно через "
+          }
+        ]
+      },
+      "after": {
+        "source": " minutes from now.",
+        "target": " мин.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": " мин."
+          },
+          {
+            "start": 9,
+            "end": 18,
+            "text": ""
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Researcher Timmy: Sadly it'll stop raining in about {value} minutes from now.",
+        "[NPC] Researcher Timmy: Sadly it'll stop raining in about # minute[s] from now.",
+        " minutes "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Researcher Timmy: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Luckily it'll start raining in about ",
+        "target": "К счастью, дождь начнётся примерно через ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 37,
+            "text": "К счастью, дождь начнётся примерно через "
+          }
+        ]
+      },
+      "after": {
+        "source": " minute from now.",
+        "target": " мин.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 8,
+            "text": " мин."
+          },
+          {
+            "start": 8,
+            "end": 17,
+            "text": ""
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Researcher Timmy: Luckily it'll start raining in about {value} minute from now.",
+        "[NPC] Researcher Timmy: Luckily it'll start raining in about # minute[s] from now.",
+        " minute "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Researcher Timmy: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Luckily it'll start raining in about ",
+        "target": "К счастью, дождь начнётся примерно через ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 37,
+            "text": "К счастью, дождь начнётся примерно через "
+          }
+        ]
+      },
+      "after": {
+        "source": " minutes from now.",
+        "target": " мин.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": " мин."
+          },
+          {
+            "start": 9,
+            "end": 18,
+            "text": ""
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Researcher Timmy: Luckily it'll start raining in about {value} minutes from now.",
+        "[NPC] Researcher Timmy: Luckily it'll start raining in about # minute[s] from now.",
+        " minutes "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rezzus: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Hey there! Happy SkyBlock Year ",
+        "target": "Привет! С новым годом SkyBlock № ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 17,
+            "text": "Привет! С новым "
+          },
+          {
+            "start": 17,
+            "end": 31,
+            "text": "годом SkyBlock № "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rezzus: Hey there! Happy SkyBlock Year {value}!",
+        "[NPC] Rezzus: Hey there! Happy SkyBlock Year [year]!",
+        "SkyBlock Year "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rezzus: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "The Big One, which is going to be drawn at the end of Year ",
+        "target": "Большой розыгрыш состоится в конце года ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 11,
+            "text": "Большой розыгрыш"
+          },
+          {
+            "start": 11,
+            "end": 54,
+            "text": " состоится в конце "
+          },
+          {
+            "start": 54,
+            "end": 59,
+            "text": "года "
+          }
+        ]
+      },
+      "after": {
+        "source": "!",
+        "target": "!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rezzus: The Big One, which is going to be drawn at the end of Year {value}!",
+        "[NPC] Rezzus: The Big One, which is going to be drawn at the end of Year [year]!",
+        "The Big One",
+        "Year "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Rezzus: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "There was a big event in celebration of the SkyBlock Year ",
+        "target": "В честь наступления года SkyBlock ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 44,
+            "text": "В честь наступления "
+          },
+          {
+            "start": 44,
+            "end": 58,
+            "text": "года SkyBlock "
+          }
+        ]
+      },
+      "after": {
+        "source": ".",
+        "target": " проходило большое событие.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": " проходило большое событие."
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Rezzus: There was a big event in celebration of the SkyBlock Year {value}.",
+        "[NPC] Rezzus: There was a big event in celebration of the SkyBlock Year [year].",
+        "SkyBlock Year "
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Simon: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "SkyBlock is turning ",
+        "target": "Сегодня годовщина SkyBlock: ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 20,
+            "text": "Сегодня годовщина SkyBlock: "
+          }
+        ]
+      },
+      "after": {
+        "source": " years old today!",
+        "target": " г.",
+        "parts": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": " г."
+          },
+          {
+            "start": 7,
+            "end": 17,
+            "text": ""
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Simon: SkyBlock is turning {value} years old today!",
+        "[NPC] Simon: SkyBlock is turning [#] years old today!",
+        " years "
+      ],
+      "excluded_names": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "prefix": "[NPC] Tia the Fairy: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "You are currently missing ",
+        "target": "Тебе осталось найти душ фей: ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 26,
+            "text": "Тебе осталось найти душ фей: "
+          }
+        ]
+      },
+      "after": {
+        "source": " Fairy Souls. Better get to work!",
+        "target": ". Пора за дело!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 33,
+            "text": ". Пора за дело!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Tia the Fairy: You are currently missing {value} Fairy Souls. Better get to work!",
+        "[NPC] Tia the Fairy: You are currently missing [#] Fairy Souls. Better get to work!"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Trevor: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Try coming back in ",
+        "target": "Попробуй вернуться через ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 19,
+            "text": "Попробуй вернуться через "
+          }
+        ]
+      },
+      "after": {
+        "source": "s!",
+        "target": " с!",
+        "parts": [
+          {
+            "start": 0,
+            "end": 1,
+            "text": " с"
+          },
+          {
+            "start": 1,
+            "end": 2,
+            "text": "!"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Trevor: Try coming back in {value}s!",
+        "[NPC] Trevor: Try coming back in [#]s!",
+        "s"
+      ],
+      "excluded_names": []
+    },
+    {
+      "prefix": "[NPC] Wizard: ",
+      "capture_type": "integer",
+      "before": {
+        "source": "Attempt number ",
+        "target": "Попытка № ",
+        "parts": [
+          {
+            "start": 0,
+            "end": 15,
+            "text": "Попытка № "
+          }
+        ]
+      },
+      "after": {
+        "source": " of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?",
+        "target": " починить портал провалилась, и я оказался здесь. Может, ему просто не хватает мощности... например, от картофельной батарейки?",
+        "parts": [
+          {
+            "start": 0,
+            "end": 134,
+            "text": " починить портал провалилась, и я оказался здесь. Может, ему просто не хватает мощности... например, от картофельной батарейки?"
+          }
+        ]
+      },
+      "override_keys": [
+        "[NPC] Wizard: Attempt number {value} of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?",
+        "[NPC] Wizard: Attempt number # of trying to fix the portal failed and I ended up here. Maybe it needs just a little more power...perhaps a battery made of potatoes?"
+      ],
+      "excluded_names": []
+    }
+  ]
+}

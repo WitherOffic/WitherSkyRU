@@ -1,0 +1,932 @@
+{
+  "results": [
+    {
+      "cpu_pct_by_order": [
+        1.91459943128367,
+        -7.9083168595476145
+      ],
+      "name": "tooltip_components",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        9.381055317820408,
+        -5.198681388208581
+      ],
+      "name": "sack55_components",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        -8.322789406597797,
+        -0.6979223612759489
+      ],
+      "name": "experiment57_notices",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        4.168052996340887,
+        12.447232687114962
+      ],
+      "name": "enchant59_components",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        -4.628285060525206,
+        -2.4549092571461317
+      ],
+      "name": "enchant59_sequences",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        10.369221435562249,
+        5.857535717295637
+      ],
+      "name": "numeric59_negative",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        -1.6340919159437473,
+        -1.1103299115337029
+      ],
+      "name": "npc60_new",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        -5.424723186250214,
+        -1.1709436677341478
+      ],
+      "name": "numeric62_dictionary",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        176.86189730779108,
+        -2.4377919627112665
+      ],
+      "name": "context63_stable",
+      "reproduced_over10pct_both_orders": false
+    },
+    {
+      "cpu_pct_by_order": [
+        14.05874890211769,
+        24.004219973550846
+      ],
+      "name": "context63_oversized",
+      "reproduced_over10pct_both_orders": true
+    }
+  ],
+  "version": "0.15.68-dev",
+  "all_cpu_rounds_retained": true,
+  "runs": [
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "tooltip_components": {
+          "ms_per10": 0.006550717500000001,
+          "allocated_bytes_per10": 13880.012,
+          "rounds_ms": [
+            0.00642473,
+            0.006436355,
+            0.00666508,
+            0.00672659
+          ]
+        }
+      },
+      "file": "tooltip_components-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "tooltip_components": {
+          "ms_per10": 0.0066761375,
+          "allocated_bytes_per10": 13640.012,
+          "rounds_ms": [
+            0.00669846,
+            0.006713505,
+            0.006653815,
+            0.00665223
+          ]
+        }
+      },
+      "file": "tooltip_components-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "tooltip_components": {
+          "ms_per10": 0.00639728,
+          "allocated_bytes_per10": 13640.012,
+          "rounds_ms": [
+            0.00616136,
+            0.006360355,
+            0.006434965,
+            0.006434205
+          ]
+        }
+      },
+      "file": "tooltip_components-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "tooltip_components": {
+          "ms_per10": 0.0069466425,
+          "allocated_bytes_per10": 13880.012,
+          "rounds_ms": [
+            0.00693732,
+            0.006955965,
+            0.00691488,
+            0.00732784
+          ]
+        }
+      },
+      "file": "tooltip_components-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "sack55_components": {
+          "ms_per10": 0.0139972525,
+          "allocated_bytes_per10": 34616.02559999999,
+          "rounds_ms": [
+            0.011998845,
+            0.012875,
+            0.015119505,
+            0.017303965
+          ]
+        }
+      },
+      "file": "sack55_components-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "sack55_components": {
+          "ms_per10": 0.0153103425,
+          "allocated_bytes_per10": 34392.024,
+          "rounds_ms": [
+            0.012044785,
+            0.01392503,
+            0.01860181,
+            0.016695655
+          ]
+        }
+      },
+      "file": "sack55_components-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "sack55_components": {
+          "ms_per10": 0.0132006025,
+          "allocated_bytes_per10": 34392.024,
+          "rounds_ms": [
+            0.011776435,
+            0.01190074,
+            0.016941555,
+            0.014500465
+          ]
+        }
+      },
+      "file": "sack55_components-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "sack55_components": {
+          "ms_per10": 0.0139244925,
+          "allocated_bytes_per10": 34616.024,
+          "rounds_ms": [
+            0.01215394,
+            0.012380045,
+            0.01690481,
+            0.01546894
+          ]
+        }
+      },
+      "file": "sack55_components-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "experiment57_notices": {
+          "ms_per10": 0.024544145,
+          "allocated_bytes_per10": 74320.0,
+          "rounds_ms": [
+            0.01954044,
+            0.02617714,
+            0.024537875,
+            0.024550415
+          ]
+        }
+      },
+      "file": "experiment57_notices-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "experiment57_notices": {
+          "ms_per10": 0.022501387499999997,
+          "allocated_bytes_per10": 73200.0,
+          "rounds_ms": [
+            0.01934175,
+            0.022098655,
+            0.02300469,
+            0.02290412
+          ]
+        }
+      },
+      "file": "experiment57_notices-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "experiment57_notices": {
+          "ms_per10": 0.021256992500000002,
+          "allocated_bytes_per10": 74320.0,
+          "rounds_ms": [
+            0.02081266,
+            0.022223215,
+            0.021409965,
+            0.02110402
+          ]
+        }
+      },
+      "file": "experiment57_notices-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "experiment57_notices": {
+          "ms_per10": 0.0214063925,
+          "allocated_bytes_per10": 73840.0,
+          "rounds_ms": [
+            0.01852524,
+            0.021920425,
+            0.02089236,
+            0.02217168
+          ]
+        }
+      },
+      "file": "experiment57_notices-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "enchant59_components": {
+          "ms_per10": 0.024547732500000002,
+          "allocated_bytes_per10": 53600.042,
+          "rounds_ms": [
+            0.02365721,
+            0.02257299,
+            0.025438255,
+            0.03052571
+          ]
+        }
+      },
+      "file": "enchant59_components-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "enchant59_components": {
+          "ms_per10": 0.025570895,
+          "allocated_bytes_per10": 54000.039000000004,
+          "rounds_ms": [
+            0.023534735,
+            0.02966161,
+            0.02383372,
+            0.02730807
+          ]
+        }
+      },
+      "file": "enchant59_components-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "enchant59_components": {
+          "ms_per10": 0.026079465,
+          "allocated_bytes_per10": 54000.042,
+          "rounds_ms": [
+            0.024302145,
+            0.02469434,
+            0.030366375,
+            0.02746459
+          ]
+        }
+      },
+      "file": "enchant59_components-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "enchant59_components": {
+          "ms_per10": 0.023192625,
+          "allocated_bytes_per10": 53104.042,
+          "rounds_ms": [
+            0.02157446,
+            0.02337426,
+            0.02634891,
+            0.02301099
+          ]
+        }
+      },
+      "file": "enchant59_components-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "enchant59_sequences": {
+          "ms_per10": 0.0195866825,
+          "allocated_bytes_per10": 43880.032999999996,
+          "rounds_ms": [
+            0.01789344,
+            0.01908411,
+            0.020089255,
+            0.021434
+          ]
+        }
+      },
+      "file": "enchant59_sequences-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "enchant59_sequences": {
+          "ms_per10": 0.018680154999999997,
+          "allocated_bytes_per10": 43952.032999999996,
+          "rounds_ms": [
+            0.01791124,
+            0.01936408,
+            0.01799623,
+            0.019667085
+          ]
+        }
+      },
+      "file": "enchant59_sequences-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "enchant59_sequences": {
+          "ms_per10": 0.018462332499999998,
+          "allocated_bytes_per10": 43912.032999999996,
+          "rounds_ms": [
+            0.018375975,
+            0.01854869,
+            0.018042135,
+            0.018723655
+          ]
+        }
+      },
+      "file": "enchant59_sequences-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "enchant59_sequences": {
+          "ms_per10": 0.0189269725,
+          "allocated_bytes_per10": 43952.032999999996,
+          "rounds_ms": [
+            0.018904385,
+            0.017681895,
+            0.01894956,
+            0.0199256
+          ]
+        }
+      },
+      "file": "enchant59_sequences-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "numeric59_negative": {
+          "ms_per10": 0.00524157,
+          "allocated_bytes_per10": 7360.006,
+          "rounds_ms": [
+            0.005250915,
+            0.005232225,
+            0.00540397,
+            0.00510893
+          ]
+        }
+      },
+      "file": "numeric59_negative-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "numeric59_negative": {
+          "ms_per10": 0.00578508,
+          "allocated_bytes_per10": 7600.006,
+          "rounds_ms": [
+            0.00568547,
+            0.005996405,
+            0.005726255,
+            0.005843905
+          ]
+        }
+      },
+      "file": "numeric59_negative-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "numeric59_negative": {
+          "ms_per10": 0.0057778525,
+          "allocated_bytes_per10": 7600.006,
+          "rounds_ms": [
+            0.00593047,
+            0.005800625,
+            0.00575508,
+            0.00573729
+          ]
+        }
+      },
+      "file": "numeric59_negative-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "numeric59_negative": {
+          "ms_per10": 0.00545814,
+          "allocated_bytes_per10": 7600.006,
+          "rounds_ms": [
+            0.005235855,
+            0.00531062,
+            0.00560566,
+            0.006568065
+          ]
+        }
+      },
+      "file": "numeric59_negative-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "npc60_new": {
+          "ms_per10": 0.06353054500000001,
+          "allocated_bytes_per10": 265568.0,
+          "rounds_ms": [
+            0.06237187,
+            0.061344625,
+            0.0670111,
+            0.06468922
+          ]
+        }
+      },
+      "file": "npc60_new-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "npc60_new": {
+          "ms_per10": 0.062492397500000005,
+          "allocated_bytes_per10": 265568.0,
+          "rounds_ms": [
+            0.060317085,
+            0.06280805,
+            0.062176745,
+            0.06430888
+          ]
+        }
+      },
+      "file": "npc60_new-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "npc60_new": {
+          "ms_per10": 0.0611731425,
+          "allocated_bytes_per10": 265568.0,
+          "rounds_ms": [
+            0.06248563,
+            0.059895935,
+            0.06109517,
+            0.061251115
+          ]
+        }
+      },
+      "file": "npc60_new-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "npc60_new": {
+          "ms_per10": 0.0618599925,
+          "allocated_bytes_per10": 265568.0,
+          "rounds_ms": [
+            0.06784225,
+            0.06231389,
+            0.061406095,
+            0.06054815
+          ]
+        }
+      },
+      "file": "npc60_new-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "numeric62_dictionary": {
+          "ms_per10": 0.00018153,
+          "allocated_bytes_per10": 864.0,
+          "rounds_ms": [
+            0.00019026,
+            0.00018436,
+            0.0001787,
+            0.000178255
+          ]
+        }
+      },
+      "file": "numeric62_dictionary-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "numeric62_dictionary": {
+          "ms_per10": 0.0001716825,
+          "allocated_bytes_per10": 864.0,
+          "rounds_ms": [
+            0.00017035,
+            0.00017205,
+            0.000171315,
+            0.000174045
+          ]
+        }
+      },
+      "file": "numeric62_dictionary-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "numeric62_dictionary": {
+          "ms_per10": 0.0001751325,
+          "allocated_bytes_per10": 864.0,
+          "rounds_ms": [
+            0.000176265,
+            0.000173865,
+            0.000174965,
+            0.0001753
+          ]
+        }
+      },
+      "file": "numeric62_dictionary-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "numeric62_dictionary": {
+          "ms_per10": 0.00017720749999999998,
+          "allocated_bytes_per10": 864.0,
+          "rounds_ms": [
+            0.00017396,
+            0.00017737,
+            0.000186325,
+            0.000177045
+          ]
+        }
+      },
+      "file": "numeric62_dictionary-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "context63_stable": {
+          "ms_per10": 0.0006915325,
+          "allocated_bytes_per10": 112.0,
+          "rounds_ms": [
+            0.00068156,
+            0.00069843,
+            0.000699555,
+            0.000684635
+          ]
+        }
+      },
+      "file": "context63_stable-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "context63_stable": {
+          "ms_per10": 0.00191459,
+          "allocated_bytes_per10": 144.0,
+          "rounds_ms": [
+            0.001870175,
+            0.002369995,
+            0.00176311,
+            0.001959005
+          ]
+        }
+      },
+      "file": "context63_stable-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "context63_stable": {
+          "ms_per10": 0.0007095675,
+          "allocated_bytes_per10": 112.0,
+          "rounds_ms": [
+            0.000707945,
+            0.00071119,
+            0.000703585,
+            0.00071376
+          ]
+        }
+      },
+      "file": "context63_stable-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "context63_stable": {
+          "ms_per10": 0.0007272975,
+          "allocated_bytes_per10": 112.0,
+          "rounds_ms": [
+            0.00070306,
+            0.000770415,
+            0.000751535,
+            0.00070054
+          ]
+        }
+      },
+      "file": "context63_stable-3-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "context63_oversized": {
+          "ms_per10": 0.000768525,
+          "allocated_bytes_per10": 696.0,
+          "rounds_ms": [
+            0.000782985,
+            0.001103525,
+            0.000754065,
+            0.000743695
+          ]
+        }
+      },
+      "file": "context63_oversized-0-0.15.67-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "context63_oversized": {
+          "ms_per10": 0.00087657,
+          "allocated_bytes_per10": 696.0,
+          "rounds_ms": [
+            0.000842765,
+            0.000946445,
+            0.00075012,
+            0.000910375
+          ]
+        }
+      },
+      "file": "context63_oversized-1-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.68-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.68-dev.jar",
+        "context63_oversized": {
+          "ms_per10": 0.00104317,
+          "allocated_bytes_per10": 702.3168000000001,
+          "rounds_ms": [
+            0.001911855,
+            0.001321035,
+            0.000759895,
+            0.000765305
+          ]
+        }
+      },
+      "file": "context63_oversized-2-0.15.68-dev"
+    },
+    {
+      "result": {
+        "label": "0.15.67-dev",
+        "warmup_batches": 100000,
+        "measured_batches_per_round": 20000,
+        "rounds": 4,
+        "scope": "Synthetic fixed 10-row text CPU APIs with scoped caller inspection; context63 modes measure one10-row plan incl identical input construction, not10 entire tooltip renders. Churn is unique each batch; oversized contains401-char row. Deep case adds32 recursive fixture frames. Component pipeline includes high-level hook policy then scoped sequence, no world/HUD budget/font/GPU. Roster case compares name-check algorithm with130 synthetic usernames, not a live connection. Medians of4x20000 batches after100000 warm batches. Not FPS.",
+        "loaded_client_source": "file:/C:/Users/Wither/Documents/Codex/2026-10-09/referenced-chatgpt-conversation-this-is-an-3/work/rebuild/WitherSkyRU/build/libs/WitherSkyRU-26.1.2-fabric-0.15.67-dev.jar",
+        "context63_oversized": {
+          "ms_per10": 0.0008412375000000001,
+          "allocated_bytes_per10": 696.0,
+          "rounds_ms": [
+            0.00074688,
+            0.000912925,
+            0.000867865,
+            0.00081461
+          ]
+        }
+      },
+      "file": "context63_oversized-3-0.15.67-dev"
+    }
+  ],
+  "root": "build/common-recheck68-c0ea8cb714da4b868471c632fcc03190",
+  "allocation_medians_only": true,
+  "jar_sha256": "81A0ECE1E69C69903F29616BA6B526586D1F8E84E0ECCA9C0DA2999B7E2CA4EA",
+  "scope": "Ten main-run flags rechecked separately,67/68/68/67. Earlier results remain unchanged, not discarded. CPU elapsed timings in an uncontrolled background, not FPS."
+}

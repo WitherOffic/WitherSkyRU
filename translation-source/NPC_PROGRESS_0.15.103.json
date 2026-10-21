@@ -1,0 +1,54 @@
+{
+  "version": "0.15.103-dev",
+  "runtime_jar_sha256": "01E04AD01F2CF57B09CD5AF4A28093BC6130D48D4D79B2D5748C45D59ECFF028",
+  "exact_keys": 11092,
+  "total_frozen": 16244,
+  "exact_percent": 68.2836739719281,
+  "without_exact_key": 5152,
+  "new_name_templates": 135,
+  "new_name_speaker_labels": 92,
+  "new_phone_templates": 12,
+  "published_layouts": 136,
+  "pinned_pages": 93,
+  "fresh_test_groups": 175,
+  "parser_tests": 15,
+  "new_template_assertions": 329566,
+  "all_11252_previous_literal_outputs_unchanged": true,
+  "preexisting_style_gaps_not_fixed_this_batch": 72,
+  "measurements_not_fps": {
+    "mixed": {
+      "equal_modes": 5,
+      "unequal_modes": 0,
+      "min_change_percent": -8.7605209740944,
+      "max_change_percent": 0.9241637391647295,
+      "both_orders_slower_over5": []
+    },
+    "receipt": {
+      "equal_modes": 36,
+      "unequal_modes": 1,
+      "min_change_percent": -12.663795524242992,
+      "max_change_percent": 22.099438913910884,
+      "both_orders_slower_over5": [
+        "existing_large_batch87",
+        "existing_choices90",
+        "existing_npc102_equal_work"
+      ]
+    },
+    "hud": {
+      "equal_modes": 10,
+      "unequal_modes": 0,
+      "min_change_percent": -15.043272652142969,
+      "max_change_percent": 9.345759307749347,
+      "both_orders_slower_over5": []
+    },
+    "focused": {
+      "equal_modes": 10,
+      "unequal_modes": 0,
+      "min_change_percent": -3.3526932199834936,
+      "max_change_percent": 5.589540856740216,
+      "both_orders_slower_over5": []
+    }
+  },
+  "game_fps_or_frame_times_measured": false,
+  "installed_pack_modified": false
+}

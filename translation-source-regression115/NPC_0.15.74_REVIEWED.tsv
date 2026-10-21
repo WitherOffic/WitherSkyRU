@@ -1,0 +1,247 @@
+# speaker|exact published body|authored Russian body|optional semantic anchors as JSON object
+Enchantment Nerd|There are many, many, many enchantments that exist in SkyBlock.|В SkyBlock существует очень, очень, очень много зачарований.|{"SkyBlock":"SkyBlock","enchantments":"зачарований"}
+Enchantment Nerd|Most enchantments require you to be a certain Enchanting Level to use them, though.|Но для большинства зачарований нужен определённый уровень зачарования.|{"Enchanting":"зачарования","Level":"уровень"}
+Enchantment Nerd|The Experimentation Table, which is unlocked at Enchanting X, is definitely the fastest way to level up quickly!|Стол экспериментов, доступный с уровня зачарования X, — самый быстрый способ прокачки!|{"Experimentation Table":"Стол экспериментов","Enchanting X":"зачарования X"}
+Enchantment Nerd|Anyways, I've been writing down every enchantment I've come across so far. Here, take a look!|В общем, я записываю все зачарования, которые мне встречаются. Вот, взгляни!
+Alchemist|I've seen it in my flames, you are destined for great things.|Я видел в пламени: тебе суждены великие дела.
+Alchemist|For now, you shouldn't let it get to your head.|Но пока не стоит зазнаваться.
+Alchemist|✆ An Abiphone? What kind of witchcraft is that?|✆ Абифон? Что это за колдовство?|{"Abiphone":"Абифон"}
+Alchemist|✆ I see.|✆ Понятно.
+Alchemist|✆ Turns out I own one too. I never knew what it was called.|✆ Оказывается, у меня тоже такой есть. Я и не знал, как он называется.
+Alchemist|✆ So, you want me to add you?|✆ Значит, хочешь попасть в мои контакты?
+Alchemist|✆ Get me a stack of Mutant Nether Wart.|✆ Принеси мне стак мутировавшего адского нароста.|{"Mutant Nether Wart":"мутировавшего адского нароста"}
+Alchemist|✆ You have less warts than I have on my face!|✆ У тебя наростов меньше, чем у меня бородавок на лице!
+Alchemist|✆ I was right, you are indeed destined for great things.|✆ Я был прав: тебе и впрямь суждены великие дела.
+Alchemist|Been running low on my brewing supplies, Nether Warts are quite hard to come by these days.|Ингредиенты для зелий заканчиваются. В наши дни адский нарост непросто раздобыть.|{"Nether Warts":"адский нарост"}
+Alchemist|Project Centurion can finally begin. You've been quite the help.|Наконец-то можно начинать проект «Центурион». Ты очень помог.
+Alchemist|Unfortunate, I'll see if I can find some Nether Warts from someone else.|Жаль. Попробую раздобыть адский нарост у кого-нибудь другого.|{"Nether Warts":"адский нарост"}
+Christopher|The world is filled with incredibly talented people!|В мире столько невероятно талантливых людей!
+Christopher|I like to visit people's private islands with my hot air balloon.|Я люблю посещать частные острова игроков на своём воздушном шаре.
+Christopher|I can show you some of the best islands I've ever visited!|Могу показать тебе лучшие острова из тех, что я посещал!
+Plumber Joe|Water troubles? No problem!|Проблемы с водой? Не беда!
+Plumber Joe|I once dumped a magical water bucket into the toilet. It won't stop overflowing. Anyway, you got something for me?|Однажды я вылил в унитаз волшебное ведро воды. Теперь вода льётся без конца. Ладно, у тебя что-то для меня есть?
+Plumber Joe|Thanks. That should help me fix my water troubles.|Спасибо. Это должно помочь мне разобраться с водой.
+Plumber Joe|I guess I'll just try to fix it myself.|Что ж, попробую справиться сам.
+Plumber Joe|✆ My abiphone? You got it!|✆ Мой абифон? Конечно!
+Plumber Joe|✆ Call me during business hours and I'll help with your water troubles at a discount!|✆ Звони в рабочее время — помогу с водой со скидкой!
+Plumber Joe|Water troubles? You know I'm on it!|Проблемы с водой? Я уже спешу на помощь!
+Plumber Joe|✆ Please only call me during business hours.|✆ Пожалуйста, звони только в рабочее время.
+Plumber Joe|✆ If there's really an emergency, come and see me!|✆ Если дело действительно срочное, приходи лично!
+Lumber Merchant|Buy and sell Wooden Axes with me!|У меня можно покупать и продавать деревянные топоры!|{"Wooden Axes":"деревянные топоры"}
+Lumber Merchant|✆ You want my contact? Sure.|✆ Хочешь мой номер? Конечно.
+Lumber Merchant|✆ Let's see...|✆ Посмотрим...
+Lumber Merchant|✆ My Axe could do with an upgrade...|✆ Мой топор неплохо бы улучшить...
+Lumber Merchant|✆ That's right! A Spruce Axe is what I desire!|✆ Точно! Мне нужен еловый топор!|{"Spruce Axe":"еловый топор"}
+Lumber Merchant|✆ You don't have what I need! Nice try!|✆ У тебя нет того, что мне нужно! Неплохая попытка!
+Lumber Merchant|✆ A Spruce Axe! I sure owe you one!|✆ Еловый топор! Теперь я у тебя в долгу!|{"Spruce Axe":"Еловый топор"}
+Lumber Merchant|✆ A deal is a deal and I'm a man of my word. Here's my contact.|✆ Уговор есть уговор, а я держу слово. Вот мой номер.
+Fishing Merchant|Welcome! Feel free to browse my fishing wares!|Добро пожаловать! Посмотри мои товары для рыбалки!
+Fishing Merchant|Good choice! You can equip that beauty by right-clicking it while it's in your hand.|Отличный выбор! Чтобы надеть эту вещь, возьми её в руку и нажми ПКМ.
+Fishing Merchant|Or, you can type /equipment to access your equipment menu.|Или открой меню снаряжения командой /equipment.|{"/equipment":"/equipment"}
+Mining Merchant|My specialites are ores, stone, and mining equipment!|Я торгую рудами, камнем и снаряжением для добычи ресурсов!
+Farm Merchant|You can buy and sell harvested crops with me!|У меня можно покупать и продавать урожай!
+Farm Merchant|Wheat, carrots, potatoes, and melon are my specialities!|Моя специализация — пшеница, морковь, картофель и арбузы!
+Farm Merchant|I'm hungry...whatcha got?|Я голоден... Что у тебя есть?
+Farm Merchant|Ooh, this is exactly what I wanted!|О, именно это я и хотел!
+Farm Merchant|Back to standing still for hours on end!|Снова стоять на месте часами напролёт!
+Auction Master|Hey there, I'm the Auction Master.|Привет! Я аукционист.
+Auction Master|At the auction house you can put your valuable items up for auction!|В аукционном доме можно выставить свои ценные вещи на торги!
+Auction Master|You may also want to check back here to see what items other players are selling to see if you can get a good deal.|Заглядывай почаще: среди вещей других игроков можно найти выгодное предложение.
+Auction Master|Talk to me if you would like to start your first auction or if you want to see the items currently being sold.|Поговори со мной, чтобы открыть свои первые торги или посмотреть вещи в продаже.
+Banker|Hello there!|Здравствуйте!
+Banker|You may want to store your Coins in a safe place while you are off adventuring.|Пока вы путешествуете, монеты лучше хранить в надёжном месте.|{"Coins":"монеты"}
+Banker|Storing them in your Bank keeps them safe and allows you to earn interest at the start of every season!|В банке ваши сбережения будут в безопасности, а в начале каждого сезона вы получите проценты!|{"Bank":"банке"}
+Bea|Hello! Do you have a pet?|Привет! У тебя есть питомец?
+Bea|Pets are little companions for your adventures in SkyBlock!|Питомцы — маленькие спутники в приключениях по SkyBlock!|{"Pets":"Питомцы","SkyBlock":"SkyBlock"}
+Bea|Personally, I prefer the bee pet!|Лично мне больше всего нравится пчела!
+Dusk|Runes are cosmetic effects that drop from Runic mobs!|Руны добавляют декоративные эффекты и выпадают из рунических существ!|{"Runes":"Руны","Runic mobs":"рунических существ"}
+Dusk|Most mobs have a chance to spawn as Runic, so keep your eye out!|Большинство существ иногда появляются в руническом обличье, так что будь начеку!|{"Runic":"руническом обличье"}
+Dusk|You can apply runes to weapons and armor with the Rune Pedestal behind me.|На руническом пьедестале позади меня можно наносить руны на оружие и броню.|{"Rune Pedestal":"руническом пьедестале"}
+Dusk|You can also combine two runes for a chance to create a higher level rune with a better effect!|Ещё можно объединить две руны: есть шанс получить руну более высокого уровня с лучшим эффектом!
+Dusk|If you're having trouble storing all the runes you've been collecting, you can buy a Rune Sack from Elizabeth in the Community Center!|Если руны уже некуда складывать, купи мешок рун у Элизабет в Общественном центре!|{"Rune Sack":"мешок рун","Elizabeth":"Элизабет","Community Center":"Общественном центре"}
+Dusk|✆ Shhhh!|✆ Тс-с-с!
+Dusk|✆ Don't talk so loud.|✆ Не говори так громко.
+Dusk|✆ I can give you my contact but you need to do something for me.|✆ Дам тебе свой номер, если кое-что для меня сделаешь.
+Dusk|✆ Could you kill a Runic Enderman? It HAS to be an enderman. Please.|✆ Убей рунического эндермена. Нужен ИМЕННО эндермен. Пожалуйста.|{"Runic Enderman":"рунического эндермена","HAS":"ИМЕННО"}
+Dusk|✆ Ohhhh, you did it.|✆ О-о-о, получилось.
+Dusk|✆ Perfect.|✆ Прекрасно.
+Dusk|✆ Here take my contact, but don't give it to anyone else!|✆ Вот мой номер, только никому его не давай!
+Dusk|Dusk needs some watermelon to quench his thirst. Dusk would appreciate it.|Даску нужен арбуз, чтобы утолить жажду. Даск будет благодарен.
+Dusk|Dusk thanks you. Dusk will make sure to visit your farm again.|Даск благодарит тебя. Даск обязательно ещё заглянет на твою ферму.
+Dusk|Dusk is disappointed. Dusk goes away now.|Даск разочарован. Даск уходит.
+George|Hey there, I'm George the Pet Collector!|Привет! Я Джордж, коллекционер питомцев!
+George|I travel the world searching far and wide for the rarest pets I can find!|Я путешествую по всему миру в поисках самых редких питомцев!
+George|If you have any pets which need a new home I'd be happy to buy them off you!|Если твоим питомцам нужен новый дом, я с радостью их куплю!
+George|Your Taming level cap has been increased!|Максимальный уровень приручения повышен!|{"Taming":"приручения"}
+George|Thank you for bringing me this pet!|Спасибо, что принёс мне этого питомца!
+George|✆ Oh absolutely you can have my contact info.|✆ Конечно, я дам тебе свой номер.
+George|✆ It may look like I'm always here at my desk, but really I'm always traveling.|✆ Кажется, будто я всегда сижу за столом, но на самом деле я постоянно путешествую.
+George|✆ Lately I've been looking across the universe for 3 specific pets.|✆ В последнее время я ищу по всей вселенной 3 определённых питомцев.
+George|✆ If you can bring me ALL of those, you can have my contact!|✆ Принесёшь их ВСЕХ — получишь мой номер!|{"ALL":"ВСЕХ"}
+George|✆ Oh, by the way, they should all be Lvl 1.|✆ Кстати, у всех должен быть 1-й уровень.|{"Lvl 1":"1-й уровень"}
+George|✆ That's fantastic!|✆ Замечательно!
+George|✆ I love pets!|✆ Обожаю питомцев!
+George|✆ Here take my contact.|✆ Вот мой номер.
+George|✆ You'll be able to reach me while I am or you are in the wilderness.|✆ Теперь мы сможем связаться, даже если кто-то из нас в глуши.
+Lumber Jack|Timber!|Берегись, дерево!
+Lumber Jack|My woodcutting assistant has fallen quite ill! Do you think you could take over for him?|Мой помощник-лесоруб тяжело заболел! Сможешь его подменить?
+Lumber Jack|Oh okay... maybe come back later!|Ну ладно... Может, зайдёшь попозже!
+Lumber Jack|Cheers! Let me tell ya a little about what we're going to be doing.|Спасибо! Сейчас расскажу, чем мы займёмся.
+Lumber Jack|We will be Foraging! As one of SkyBlock's core skills, Foraging involves cutting down lots of different types of trees!|Займёмся лесорубством! Это один из основных навыков SkyBlock: нужно рубить разные деревья.
+Lumber Jack|As you do this, you'll unlock various crafts and useful stat boosts that will help in other areas of your adventure.|Так ты откроешь новые рецепты и полезные прибавки к характеристикам, которые пригодятся в приключениях.
+Lumber Jack|Here, let me unlock the Foraging skill for you, and then you can get started!|Сейчас я открою тебе навык лесорубства, и можно приступать!|{"Foraging":"лесорубства"}
+Lumber Jack|To get you started, please bring me 20 Oak Logs! You can break the trees just off the trail to get 'em.|Для начала принеси мне 20 дубовых брёвен! Их можно добыть из деревьев рядом с тропой.|{"20 Oak Logs":"20 дубовых брёвен"}
+Lumber Jack|Use your fists for now - I'll give you my previous assistant's axe if you can prove your worth!|Пока руби руками. Докажешь, на что способен, — отдам топор прежнего помощника!
+Lumber Jack|Please collect and then bring to me 20 Oak Logs! You can get 'em from the Forest just off the trail.|Собери и принеси мне 20 дубовых брёвен! Они есть в Лесу рядом с тропой.|{"20 Oak Logs":"20 дубовых брёвен","Forest":"Лесу"}
+Lumber Jack|Nice job! In return for those logs, I'll give ya this Promising Axe.|Отлично! В обмен на брёвна держи этот перспективный топор.|{"Promising Axe":"перспективный топор"}
+Lumber Jack|It's far less painful than using your fists to punch trees, I'll tell ya that much!|Уж поверь: рубить им куда приятнее, чем колотить по деревьям кулаками!
+Lumber Jack|If you feel like Foraging is the thing for you, continue down the path and head towards The Park.|Если лесорубство тебе по душе, иди дальше по тропе к Парку.|{"Foraging":"лесорубство","The Park":"Парку"}
+Lumber Jack|My friend Charlie can be found there. I'm sure he'll have some work for you!|Там найдёшь моего друга Чарли. Уверен, у него найдётся для тебя работа!|{"Charlie":"Чарли"}
+Pat|You like flint? I like flint! I sell flint!|Любишь кремень? Я люблю кремень! И продаю кремень!
+Pat|My brother is mining the gravel from the Spider's Den. We are the Flint Bros!|Мой брат добывает гравий в Паучьем логове. Мы — кремневые братья!|{"Spider's Den":"Паучьем логове","Flint Bros":"кремневые братья"}
+Shania|Moo.|Му-у.
+Shania|Moo!|Му-у!
+Shania|Moooooo!|Му-у-у-у!
+Taylor|Hey there adventurer!|Привет, искатель приключений!
+Taylor|You look like someone who values fashion as much as fighting!|Похоже, ты ценишь моду не меньше, чем сражения!
+Taylor|Want to stand out while you slash and dash?|Хочешь выглядеть ярко даже в пылу битвы?
+Taylor|Check out my cosmetic collection!|Взгляни на мою коллекцию украшений!
+Taylor|✆ Hey adventurer!|✆ Привет, искатель приключений!
+Taylor|✆ You're looking quite dapper today!|✆ Сегодня ты выглядишь очень стильно!
+Taylor|✆ Hm, my Abiphone Contact?|✆ Хм, мой номер абифона?|{"Abiphone":"абифона"}
+Taylor|✆ Sure, I guess I can do that.|✆ Конечно, почему бы и нет.
+Taylor|✆ Give me a call whenever you want to access Taylor's Shop!|✆ Звони, когда захочешь заглянуть в магазин Тейлора!|{"Taylor's Shop":"магазин Тейлора"}
+Taylor|✆ Give me a call anytime or drop by in person to check out what I've got for sale!|✆ Звони или заходи лично, если захочешь посмотреть мои товары!
+Taylor|Hi adventurer.|Привет, искатель приключений.
+Taylor|I have a pretty dashing cosmetic if you would care to exchange it for some rare crops.|У меня есть очень стильное украшение. Могу обменять его на редкий урожай.
+Taylor|I can see you value fashion over most farmers!|Вижу, ты разбираешься в моде лучше большинства фермеров!
+Taylor|Cheers!|Спасибо!
+Taylor|Such a shame.|Какая жалость.
+Taylor|Make sure to check out my Fashion Shop in the Hub to see if there's something you'd like more.|Загляни в мой модный магазин в Хабе — вдруг там найдётся что-то тебе по душе.|{"Fashion Shop":"модный магазин","Hub":"Хабе"}
+Taylor|Hello!|Привет!
+Taylor|You look dashing today!|Сегодня ты выглядишь великолепно!
+Wool Weaver|If wool shrinks when you wash it...|Если шерсть садится после стирки...
+Wool Weaver|...why don't sheep get smaller when it rains?|...почему овцы не уменьшаются под дождём?
+Wool Weaver|✆ You want to add m-me... as a contact?|✆ Ты хочешь добавить м-меня... в контакты?
+Wool Weaver|✆ I'm so happy!!|✆ Я так рада!!
+Wool Weaver|✆ I'd gladly supply you with colorful blocks anywhere, but I'm running out of supplies.|✆ Я бы с радостью доставляла тебе цветные блоки куда угодно, но мои запасы заканчиваются.
+Wool Weaver|✆ Would you mind getting me 512 Enchanted Wool?|✆ Не принесёшь мне 512 зачарованной шерсти?|{"512 Enchanted Wool":"512 зачарованной шерсти"}
+Wool Weaver|✆ Thanks a lot. Call me any time to make your island more v i b r a n t!|✆ Большое спасибо. Звони в любое время — сделаем твой остров ещё я р ч е!|{"v i b r a n t":"я р ч е"}
+Wool Weaver|✆ You don't have what I need! Nice try!|✆ У тебя нет того, что мне нужно! Неплохая попытка!
+Rosetta|Don't know what equipment to aim for?|Не знаешь, какое снаряжение выбрать?
+Rosetta|Try some of my starter gear!|Попробуй моё снаряжение для новичков!
+Arthur|Sorry, but that's mine!|Извини, но это моё!
+Arthur|Fuel makes your Minion work harder for a limited time.|Топливо на время ускоряет работу миньона.|{"Fuel":"Топливо","Minion":"миньона"}
+Arthur|There are multiple types of Fuel, like Coal, Enchanted Bread and many more!|Есть разные виды топлива: уголь, зачарованный хлеб и многое другое!|{"Fuel":"топлива","Coal":"уголь","Enchanted Bread":"зачарованный хлеб"}
+Arthur|If you place your Minions poorly, they will complain!|Если неправильно расставить миньонов, они начнут жаловаться!|{"Minions":"миньонов"}
+Arthur|Open their Menu and look for their Perfect Layout!|Открой меню миньона и посмотри его идеальную расстановку!|{"Menu":"меню","Perfect Layout":"идеальную расстановку"}
+Arthur|Once you unlock a Minion, you also unlock all their Level up recipes!|Открыв миньона, ты сразу получаешь все рецепты повышения его уровня!|{"Minion":"миньона"}
+Arthur|Use a Budget Hopper to make your Minions automatically sell their items once full!|Установи бюджетную воронку, чтобы миньоны автоматически продавали вещи при заполнении хранилища!|{"Budget Hopper":"бюджетную воронку","Minions":"миньоны"}
+Arthur|My favorite Minion Upgrade is the Compactor, soooo useful!|Моё любимое улучшение миньона — уплотнитель. Ну о-очень полезная штука!|{"Minion Upgrade":"улучшение миньона","Compactor":"уплотнитель"}
+Arthur|I have one in my Minion, look!|У моего миньона такой есть, взгляни!|{"Minion":"миньона"}
+Arthur|People always empty the storage of my Minion when I'm not looking!|Стоит отвернуться — и кто-нибудь уже опустошает хранилище моего миньона!|{"Minion":"миньона"}
+Arthur|Minions always have 4 Upgrade Slots where you can place Fuel or other items.|У миньонов всегда есть 4 ячейки улучшений для топлива и других предметов.|{"Minions":"миньонов","Upgrade Slots":"ячейки улучшений","Fuel":"топлива"}
+Arthur|My wheat minion has been slacking recently, I am thinking about giving it an upgrade. He hasn't produced any wheat in years! Every time I check on him, he's empty.|Мой пшеничный миньон совсем обленился. Думаю его улучшить: он уже целую вечность не производит пшеницу! Сколько ни проверяю — всегда пусто.
+Arthur|Holy Macaroni! That should boost my minion to at least Tier 5! Thank you a lot!|Вот это да! Теперь мой миньон точно достигнет хотя бы 5-го уровня! Огромное спасибо!|{"Tier 5":"5-го уровня"}
+Arthur|I guess I'll have to keep going like this.|Видимо, придётся и дальше обходиться тем, что есть.
+Amelia|You seem like quite the social butterfly!|Похоже, ты очень общительный человек!
+Amelia|Why not buy some social items for your island?|Не хочешь купить предметы для общения на своём острове?
+Biblio|Not everything in this world is immediately obvious.|Не всё в этом мире понятно с первого взгляда.
+Biblio|I've dedicated my life to collecting all the information I can about this place.|Я посвятил жизнь сбору всевозможных сведений об этом месте.
+Biblio|Keep your eye out for anyone with ⚑ GUIDE above their head. They tend to have useful information!|Обращай внимание на персонажей с надписью ⚑ «Руководство» над головой. У них обычно есть полезные сведения!|{"⚑ GUIDE":"⚑ «Руководство»"}
+Biblio|You can use /guides to view all of the guides you've learned about.|Команда /guides покажет все руководства, о которых тебе уже известно.|{"/guides":"/guides"}
+Ozanne|Did you know that for the longest time...|А ты знаешь, что раньше...
+Ozanne|The Blacksmith would reforge your accessories?|Кузнец перековывал аксессуары?|{"Blacksmith":"Кузнец"}
+Ozanne|Crazy stuff!|Вот это безумие!
+Ozanne|If you find reforged accessories, I'll buy their reforges from you for coins!|Найдёшь перекованные аксессуары — я выкуплю их перековки за монеты!
+Scoop|I love the snow!|Обожаю снег!
+Scoop|I've got the perfect tool to make your island a winter wonderland!|У меня есть отличный инструмент, который превратит твой остров в зимнюю сказку!
+Susan|You look like you're still getting the hang of things. Come back when you're SkyBlock Level 10!|Похоже, вы ещё осваиваетесь. Возвращайтесь на 10-м уровне SkyBlock!|{"SkyBlock Level 10":"10-м уровне SkyBlock"}
+Susan|The Safety Squad is dedicated to keeping SkyBlock safe.|Отряд безопасности заботится о безопасности SkyBlock.|{"Safety Squad":"Отряд безопасности","SkyBlock":"SkyBlock"}
+Susan|A lot of incidents can be avoided if there just was more awareness about safety.|Многих неприятностей можно избежать, если лучше разбираться в вопросах безопасности.
+Susan|As such, we are recruiting Safety Advocates to help spread the importance of safety in SkyBlock.|Поэтому мы набираем представителей отряда безопасности: они помогут объяснять жителям SkyBlock, как уберечь себя.|{"Safety Advocates":"представителей отряда безопасности","SkyBlock":"SkyBlock"}
+Susan|Are you willing to become a Safety Advocate?|Хотите стать представителем отряда безопасности?|{"Safety Advocate":"представителем отряда безопасности"}
+Susan|The world needs your help!|Миру нужна ваша помощь!
+Susan|That's fine, you can always come back later.|Ничего страшного, вы можете вернуться позже.
+Susan|Talk to me when you're ready.|Поговорите со мной, когда будете готовы.
+Susan|Are you ready for your Safety Advocate training?|Готовы пройти обучение, чтобы стать представителем отряда безопасности?|{"Safety Advocate":"представителем отряда безопасности"}
+Susan|Processing your registration...|Оформляю твою регистрацию...
+Susan|Brigette is waiting for you in the Security Hall. Better not keep her waiting!|Бриджет ждёт тебя в Зале охраны. Не заставляй её ждать!|{"Brigette":"Бриджет","Security Hall":"Зале охраны"}
+Susan|Stay safe out there, recruit!|Берегите себя, новобранец!
+Jax|If you can prove to me you're a real archer I'll forge you arrows whenever you need them.|Докажи, что ты настоящий лучник, — и я буду ковать тебе стрелы в любое время.
+Jax|Wow, you can really shoot a bow!|Ого, а ты действительно умеешь стрелять!
+Jax|Well, a deal's a deal! Come to me any time and I'll forge you whatever arrows you need for adventures.|Уговор есть уговор! Приходи в любое время — выкую любые стрелы для твоих приключений.
+Jax|✆ My Abiphone contact?|✆ Мой номер абифона?|{"Abiphone":"абифона"}
+Jax|✆ Listen pal, I've been nice with you but it's strictly business etiquette.|✆ Слушай, приятель, моя вежливость — это просто деловой этикет.
+Jax|✆ I'm freaking Jax the Archer, you see those lanterns? I can clear them all in 11 seconds!|✆ Я же сам Джакс-лучник! Видишь те фонари? Я собью их все за 11 секунд!|{"11 seconds":"11 секунд"}
+Jax|✆ I'm just that good!|✆ Вот насколько я хорош!
+Jax|✆ If you want my contact you'll have to show me you can hit them all in UNDER 11 seconds.|✆ Хочешь мой номер — докажи, что собьёшь их все МЕНЬШЕ чем за 11 секунд.|{"UNDER":"МЕНЬШЕ","11 seconds":"11 секунд"}
+Jax|✆ Otherwise you'll have to give me 10M coins to get my contact, no less.|✆ Иначе мой номер обойдётся тебе в 10M монет, ни монетой меньше.|{"10M":"10M"}
+Jax|✆ What do you say, buddy?|✆ Ну что скажешь, приятель?
+Jax|✆ Delusional are we today?|✆ Сегодня мы явно себя переоцениваем?
+Jax|✆ Alright let me know when you realize the massive skill gap between us.|✆ Ладно, дай знать, когда поймёшь, какая пропасть между нашим мастерством.
+Jax|✆ I unlocked Target Partice IV for you, good luck kiddo.|✆ Я открыл тебе IV испытание по стрельбе. Удачи, малец!|{"Target Partice IV":"IV испытание по стрельбе"}
+Jax|✆ Did you...|✆ Ты что...
+Jax|✆ I mean...|✆ То есть...
+Jax|✆ wat. How??|✆ Что? Как??
+Jax|✆ Take my contact and go.|✆ Бери мой номер и уходи.
+Jax|✆ You're poor too, huh?|✆ Ты ещё и без денег, да?
+Jax|✆ Come back when you have the money.|✆ Возвращайся, когда будут деньги.
+Lucius|Psst! Listen here!|Пс-с! Слушай сюда!
+Lucius|Not too loud!|Тише!
+Lucius|My cousin Sirius leads an... organization.|Мой кузен Сириус возглавляет одну... организацию.|{"Sirius":"Сириус"}
+Lucius|It's a... business, auctioning sweet items.|Это такой... бизнес. Торгуем отличными вещицами с аукциона.
+Lucius|He regularly runs events at a nearby house, but only under the cover of night.|Он часто проводит торги в соседнем доме, но только под покровом ночи.
+Lucius|Buy a few items from Sirius and come back!|Купи несколько вещей у Сириуса и возвращайся!|{"Sirius":"Сириуса"}
+Lucius|Come back when you've purchased 3. I'll have something for you then.|Возвращайся после 3 покупок. Тогда у меня будет кое-что для тебя.
+Lucius|Come back when you've purchased 7. I'll have something for you then.|Возвращайся после 7 покупок. Тогда у меня будет кое-что для тебя.
+Lucius|You've purchased 7 items from the Dark Auction.|Ты купил 7 вещей на Тёмном аукционе.|{"Dark Auction":"Тёмном аукционе"}
+Lucius|You're basically family at this point.|Ты уже практически член семьи.
+Shifty|✆ There ain't many customers around here, so I spend all my time playing Snake on my Abiphone.|✆ Клиентов тут немного, так что я всё время играю в «Змейку» на абифоне.|{"Snake":"Змейку","Abiphone":"абифоне"}
+Shifty|✆ The controls are really bad, right?|✆ Управление ужасное, правда?
+Shifty|✆ Anyway, I get bored by this job.|✆ Как бы то ни было, эта работа мне наскучила.
+Shifty|✆ Not just because of the lack of action, but there's nothing to be proud about the drinks I serve.|✆ И дело не только в скуке: напитками, которые я подаю, тоже не похвастаешься.
+Shifty|✆ I'm a fan of fancy drinks!|✆ А я люблю изысканные напитки!
+Shifty|✆ And yet Lucius makes me sell addictive garbage!|✆ Но Люциус заставляет меня торговать дрянью, вызывающей привыкание!|{"Lucius":"Люциус"}
+Shifty|✆ You don't have both beverages in your inventory!|✆ У тебя в инвентаре нет обоих напитков!
+Shifty|✆ Sadly, Lucius heard of our little deal and asked me to hold the drinks for him.|✆ Увы, Люциус узнал о нашей сделке и велел оставить напитки ему.|{"Lucius":"Люциус"}
+Shifty|✆ Here, take my contact anyway.|✆ Но мой номер всё равно держи.
+Shifty|✆ This place is terrible.|✆ Ужасное место.
+Shifty|It seems like my brew selection is rather small...I've recently heard that melon juice is really sought after so maybe it can enhance my drinks' flavors!|Выбор у меня небогатый... Говорят, арбузный сок сейчас очень популярен. Может, он улучшит вкус моих напитков!
+Shifty|Well done! I'm sure that even Sirius will enjoy my revolutionary melon refreshments.|Отлично! Уверен, даже Сириус оценит мои революционные арбузные напитки.|{"Sirius":"Сириус"}
+Shifty|What a pity! Enjoy the Bartender's terrible and unrefreshing mixins.|Как жаль! Тогда наслаждайся отвратительными смесями Бармена, от которых никакого толку.|{"Bartender":"Бармена"}
+Bartender|Ah! You look like someone strong.|О! С виду ты сильный.
+Bartender|Could you give me a hand? If you help clear out some of these monsters, I'll pay you for it!|Поможешь мне? Разберёшься с частью этих чудовищ — я заплачу!
+Bartender|If you're up for the challenge, both the Graveyard and the Spider's Den beyond it are great training grounds for improving your Combat Skill.|Если готов к испытаниям, Кладбище и Паучье логово за ним отлично подходят для развития боевого навыка.|{"Graveyard":"Кладбище","Spider's Den":"Паучье логово","Combat Skill":"боевого навыка"}
+Bartender|For now, here's a reward for helping me out!|А пока держи награду за помощь!
+Bartender|Be careful in the Graveyard during the night time, the Zombies are stronger and even more of them like to show up!|Ночью на Кладбище будь осторожнее: зомби становятся сильнее и появляются гораздо чаще!|{"Graveyard":"Кладбище","Zombies":"зомби"}
+Bartender|✆ Sorry mate, not much space in the old handheld.|✆ Прости, приятель, в моём стареньком телефоне мало места.
+Bartender|✆ Since I'm so limited on space, I've got to be quite particular on who I add.|✆ Из-за нехватки места приходится тщательно выбирать, кого добавлять.
+Bartender|✆ You want me to add ya to my handheld, huh?|✆ Хочешь, чтобы я добавил тебя в телефон, а?
+Bartender|✆ Just don't call me asking when the tavern is open, okay?|✆ Только не звони с вопросом, когда открыта таверна, ладно?
+Bartender|✆ We're always open...|✆ Мы всегда открыты...
+Bartender|I want to make some new brews, do you think you can give me some ingredients to work with?|Хочу приготовить новые напитки. Не поделишься ингредиентами?
+Bartender|Many Thanks! I'll be sure to let you have the first taste as soon as it's done... at a discounted price of course.|Большое спасибо! Когда всё будет готово, ты попробуешь первым... Со скидкой, разумеется.
+Bartender|Hard times we are in. Take care!|Нелёгкие нынче времена. Береги себя!
+Gladiator|Welcome to the Colosseum!|Добро пожаловать в Колизей!|{"Colosseum":"Колизей"}
+Gladiator|Oh...wait. Nevermind.|Ой... Постой. Забудь.
+Gladiator|Here, you can join me in drinking away your sorrows.|Можешь присоединиться ко мне и залить своё горе.
+Clerk Seraphine|Welcome to the Community Center!|Добро пожаловать в Общественный центр!|{"Community Center":"Общественный центр"}
+Clerk Seraphine|Contribute to community projects, upgrade your account, and more by talking to Elizabeth!|Помогай общим проектам, улучшай аккаунт и многое другое — поговори с Элизабет!|{"Elizabeth":"Элизабет"}
+Clerk Seraphine|Welcome to the Election Room!|Добро пожаловать в Зал выборов!|{"Election Room":"Зал выборов"}
+Clerk Seraphine|Is there anything I can help you with?|Могу чем-нибудь помочь?
+Clerk Seraphine|Every few months, a Special Mayor enters the running.|Раз в несколько месяцев в выборах участвует особый мэр.|{"Special Mayor":"особый мэр"}
+Clerk Seraphine|Their perks are much stronger and crazier!|Его бонусы намного сильнее и необычнее!
+Clerk Seraphine|They're always sure to shake things up.|С ним жизнь точно не будет прежней.
+Clerk Seraphine|Was there anything else you wanted to know about?|Хочешь узнать что-нибудь ещё?
+Clerk Seraphine|If you say so.|Как скажешь.
+Clerk Seraphine|The mayor elections are currently closed but come back later and check them out!|Сейчас выборы мэра закрыты, но загляни позже!
+Clerk Seraphine|You can also vote in the mayor elections by heading through the warp to the left!|Через портал слева можно пройти и проголосовать на выборах мэра!
+Clerk Seraphine|✆ Hm, you'd like my Abiphone Contact?|✆ Хм, хочешь мой номер абифона?|{"Abiphone":"абифона"}
+Clerk Seraphine|✆ Sure, I'd be honored!|✆ Конечно, с радостью!
+Clerk Seraphine|✆ Give me a call if you ever want to vote remotely in a Mayor Election!|✆ Позвони мне, если захочешь проголосовать на выборах мэра издалека!
+Clerk Seraphine|✆ I'll also give you a call each year to let you know when voting's begun!|✆ И каждый год я буду звонить тебе, когда начнётся голосование!
+Clerk Seraphine|✆ I just wanted to call to let you know that voting for this year's Mayor Election has begun!|✆ Звоню сообщить: голосование на выборах мэра в этом году уже началось!
+Clerk Seraphine|✆ Here, take a look at the candidates!|✆ Вот, взгляни на кандидатов!
+Clerk Seraphine|Thank you very much! I'll make sure to give these extra ballots to only the elites!|Большое спасибо! Прослежу, чтобы дополнительные бюллетени достались только избранным!
+Clerk Seraphine|Oh no... I might have to cancel the elections now...|О нет... Пожалуй, теперь придётся отменить выборы...

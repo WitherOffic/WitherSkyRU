@@ -1,0 +1,15 @@
+{
+  "scope":"Ten exact winter NPC utterances observed in the user's current latest.log, not all winter dialogue branches",
+  "records":[
+    {"speaker":"St. Jerry","source":"[NPC] St. Jerry: You may have noticed some Gifts laying around.","translation":"[NPC] St. Jerry: Ты, наверное, уже заметил подарки вокруг.","style_anchors":[{"source":"Gifts","target":"подарки"}]},
+    {"speaker":"St. Jerry","source":"[NPC] St. Jerry: Each SkyBlock year, I place them throughout the village to spread joy and good tidings.","translation":"[NPC] St. Jerry: Каждый год в SkyBlock я раскладываю их по всей деревне, чтобы дарить радость и праздничное настроение.","style_anchors":[{"source":"SkyBlock","target":"SkyBlock"}]},
+    {"speaker":"St. Jerry","source":"[NPC] St. Jerry: Find them all and come back to me!","translation":"[NPC] St. Jerry: Найди их все и возвращайся ко мне!"},
+    {"speaker":"St. Jerry","source":"[NPC] St. Jerry: Find all of the Gifts around the village and come back to me!","translation":"[NPC] St. Jerry: Найди все подарки в деревне и возвращайся ко мне!","style_anchors":[{"source":"Gifts","target":"подарки"}]},
+    {"speaker":"Frosty","source":"[NPC] Frosty: Welcome to Jerry's Workshop!","translation":"[NPC] Frosty: Добро пожаловать в Мастерскую Джерри!","style_anchors":[{"source":"Jerry's Workshop","target":"Мастерскую Джерри"}]},
+    {"speaker":"Frosty","source":"[NPC] Frosty: Here the Jerrys make and deliver Gifts to all of SkyBlock!","translation":"[NPC] Frosty: Здесь Джерри делают подарки и доставляют их по всему SkyBlock!","style_anchors":[{"source":"Jerrys","target":"Джерри"},{"source":"Gifts","target":"подарки"},{"source":"SkyBlock","target":"SkyBlock"}]},
+    {"speaker":"Frosty","source":"[NPC] Frosty: When it's time to deliver Gifts, Mount Jerry always erupts and the village is ravaged by heat-based enemies!","translation":"[NPC] Frosty: Когда приходит время раздавать подарки, вулкан Джерри извергается, а деревню атакуют огненные враги!","style_anchors":[{"source":"Gifts","target":"подарки"},{"source":"Mount Jerry","target":"вулкан Джерри"}]},
+    {"speaker":"Frosty","source":"[NPC] Frosty: You'll need a Frosty the Snow Cannon to aid you in your defense against the Magma Grinches.","translation":"[NPC] Frosty: Тебе понадобится снежная пушка Фрости, чтобы защититься от магмовых Гринчей.","style_anchors":[{"source":"Frosty the Snow Cannon","target":"снежная пушка Фрости"},{"source":"Magma Grinches","target":"магмовых Гринчей"}]},
+    {"speaker":"Frosty","source":"[NPC] Frosty: It holds and fires Snowballs, which are the best way the extinguish the enemy!","translation":"[NPC] Frosty: Она хранит снежки и стреляет ими — это лучший способ потушить врагов!","style_anchors":[{"source":"Snowballs","target":"снежки"}]},
+    {"speaker":"Frosty","source":"[NPC] Frosty: I can refill it at any time for a modest price!","translation":"[NPC] Frosty: Я могу пополнить её в любое время за небольшую плату!"}
+  ]
+}

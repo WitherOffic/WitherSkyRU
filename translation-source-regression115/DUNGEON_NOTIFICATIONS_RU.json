@@ -1,0 +1,337 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "status": "SOURCE_BACKED_OFFLINE_NOT_LIVE_TESTED",
+  "source_commit": "88c8bf2f566f42150e869fe9cc7b78dff05dc086",
+  "scope": "28 exact Dungeon system notifications; not all server messages.",
+  "records": [
+    {
+      "source_key": "continuous-pass44.system.01",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Guided Sheep is now available!",
+      "translation": "Управляемая овца теперь доступна!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Guided Sheep",
+          "target": "Управляемая овца"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.02",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Creeper Veil Activated!",
+      "translation": "Завеса криперов включена!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Creeper Veil",
+          "target": "Завеса криперов"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.03",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Creeper Veil De-activated!",
+      "translation": "Завеса криперов отключена!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Creeper Veil",
+          "target": "Завеса криперов"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.04",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Rapid Fire is ready to use! Press DROP to activate it!",
+      "translation": "Скоростная стрельба готова к использованию! Нажмите клавишу выброса предмета, чтобы активировать способность!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Rapid Fire",
+          "target": "Скоростная стрельба"
+        },
+        {
+          "source": "DROP",
+          "target": "клавишу выброса предмета"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.05",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Castle of Stone is ready to use! Press DROP to activate it!",
+      "translation": "Каменная крепость готова к использованию! Нажмите клавишу выброса предмета, чтобы активировать способность!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Castle of Stone",
+          "target": "Каменная крепость"
+        },
+        {
+          "source": "DROP",
+          "target": "клавишу выброса предмета"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.06",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Ragnarok is ready to use! Press DROP to activate it!",
+      "translation": "Рагнарёк готов к использованию! Нажмите клавишу выброса предмета, чтобы активировать способность!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Ragnarok",
+          "target": "Рагнарёк"
+        },
+        {
+          "source": "DROP",
+          "target": "клавишу выброса предмета"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.07",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Thunderstorm is ready to use! Press DROP to activate it!",
+      "translation": "Гроза готова к использованию! Нажмите клавишу выброса предмета, чтобы активировать способность!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Thunderstorm",
+          "target": "Гроза"
+        },
+        {
+          "source": "DROP",
+          "target": "клавишу выброса предмета"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.08",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "You cannot hit the silverfish while it's moving!",
+      "translation": "Нельзя ударить чешуйницу, пока она движется!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.09",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "You cannot move the silverfish in that direction!",
+      "translation": "Нельзя переместить чешуйницу в этом направлении!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.10",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "There are blocks in the way!",
+      "translation": "Путь преграждают блоки!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.11",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "This chest has already been searched!",
+      "translation": "Этот сундук уже обыскали!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.12",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "This lever has already been used.",
+      "translation": "Этот рычаг уже использовали.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.13",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "You cannot do that in this room!",
+      "translation": "В этой комнате так делать нельзя!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.14",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "You do not have the key for this door!",
+      "translation": "У вас нет ключа от этой двери!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.15",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "You have already opened this dungeon chest!",
+      "translation": "Вы уже открыли этот сундук подземелья!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.16",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "You cannot use abilities in this room!",
+      "translation": "В этой комнате нельзя использовать способности!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.17",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "A mystical force in this room prevents you from using that ability!",
+      "translation": "Таинственная сила в этой комнате не позволяет использовать эту способность!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.18",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Your active Potion Effects have been paused and stored. They will be restored when you leave Dungeons! You are not allowed to use existing Potion Effects while in Dungeons.",
+      "translation": "Ваши активные эффекты зелий приостановлены и сохранены. Они восстановятся, когда вы выйдете из подземелий! В подземельях нельзя использовать эффекты зелий, полученные до входа.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.19",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Dungeon starts in 1 second.",
+      "translation": "Подземелье начнётся через 1 секунду.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "1",
+          "target": "1"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.20",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "You can no longer consume or splash any potions during the remainder of this Dungeon run!",
+      "translation": "До конца этого прохождения подземелья больше нельзя пить или бросать никакие зелья!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.21",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!",
+      "translation": "Нажмите ПКМ по двери иссушителя, чтобы открыть её. Этот ключ открывает только 1 дверь!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "RIGHT CLICK",
+          "target": "ПКМ"
+        },
+        {
+          "source": "WITHER",
+          "target": "иссушителя"
+        },
+        {
+          "source": "1",
+          "target": "1"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.22",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "RIGHT CLICK on the BLOOD DOOR to open it. This key can only be used to open 1 door!",
+      "translation": "Нажмите ПКМ по кровавой двери, чтобы открыть её. Этот ключ открывает только 1 дверь!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "RIGHT CLICK",
+          "target": "ПКМ"
+        },
+        {
+          "source": "BLOOD DOOR",
+          "target": "кровавой двери"
+        },
+        {
+          "source": "1",
+          "target": "1"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.23",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "The Crystal withers your soul as you hold it in your hands!",
+      "translation": "Кристалл иссушает вашу душу, пока вы держите его в руках!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossMessages.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.24",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "It doesn't seem like that is supposed to go there.",
+      "translation": "Похоже, этому здесь не место.",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossMessages.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.25",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "The Core entrance is opening!",
+      "translation": "Вход в ядро открывается!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonBossApi.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.26",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "You found a Wither Essence! Everyone gains an extra essence!",
+      "translation": "Вы нашли эссенцию иссушителя! Все получают по дополнительной эссенции!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Wither Essence",
+          "target": "эссенцию иссушителя"
+        }
+      ]
+    },
+    {
+      "source_key": "continuous-pass44.system.27",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "A shiver runs down your spine...",
+      "translation": "По спине пробегает дрожь...",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt"
+    },
+    {
+      "source_key": "continuous-pass44.system.28",
+      "tag": "SYSTEM",
+      "speaker": "",
+      "source": "Mute silenced you!",
+      "translation": "Mute наложил на вас эффект молчания!",
+      "source_file": "https://github.com/hannibal002/SkyHanni/blob/88c8bf2f566f42150e869fe9cc7b78dff05dc086/src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonChatFilter.kt",
+      "style_anchors": [
+        {
+          "source": "Mute",
+          "target": "Mute"
+        }
+      ]
+    }
+  ]
+}

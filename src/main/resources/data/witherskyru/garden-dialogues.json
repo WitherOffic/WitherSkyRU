@@ -1,0 +1,415 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "status": "SCREENSHOT_BACKED_OFFLINE_NOT_LIVE_TESTED",
+  "scope": "43 additional exact dialogues: 32 Sam lines and 11 neighbouring Garden NPC lines from screenshots and the read-only local log. Eight already-reviewed sources remain in the original NPC resource. Not all server NPCs. Original speakers retained.",
+  "records": [
+    {
+      "source_key": "garden.sam.greenhouse-growth", "speaker": "Sam",
+      "source": "[NPC] Sam: Inside the Greenhouse, crops usually grow at a much slower speed than normal, but they will also yield way more!",
+      "translation": "[NPC] Sam: В теплице культуры, как правило, растут гораздо медленнее обычного, зато дают намного больше урожая!",
+      "style_anchors": [{"source":"Greenhouse","target":"теплице"}]
+    },
+    {
+      "source_key": "garden.sam.dry-out", "speaker": "Sam",
+      "source": "[NPC] Sam: Otherwise they'll completely dry out!",
+      "translation": "[NPC] Sam: Без полива растения пересохнут и перестанут расти!"
+    },
+    {
+      "source_key": "garden.sam.watering", "speaker": "Sam",
+      "source": "[NPC] Sam: Just aim the can at the crop you want to water and hold right-click!",
+      "translation": "[NPC] Sam: Наведите лейку на растение, которое хотите полить, и удерживайте ПКМ!"
+    },
+    {
+      "source_key": "garden.sam.growing", "speaker": "Sam",
+      "source": "[NPC] Sam: Look at that! It's already growing! It should be ready to harvest soon.",
+      "translation": "[NPC] Sam: Смотрите, уже растёт! Скоро можно будет собирать урожай."
+    },
+    {
+      "source_key": "garden.sam.harvest-ready", "speaker": "Sam",
+      "source": "[NPC] Sam: It's fully grown! You should be able to harvest it now.",
+      "translation": "[NPC] Sam: Растение полностью выросло! Теперь можно собрать урожай."
+    },
+    {
+      "source_key": "garden.sam.first-harvest", "speaker": "Sam",
+      "source": "[NPC] Sam: Amazing! We've done it! Our very first harvest from the Greenhouse. You've really got the hang of this.",
+      "translation": "[NPC] Sam: Отлично, получилось! Первый урожай из теплицы собран. Вы уже хорошо освоились!",
+      "style_anchors": [{"source":"Greenhouse","target":"теплицы"}]
+    },
+    {
+      "source_key": "garden.sam.advanced", "speaker": "Sam",
+      "source": "[NPC] Sam: Now that you are familiar with the basics, let's move on to the more advanced techniques.",
+      "translation": "[NPC] Sam: С основами вы уже знакомы. Теперь перейдём к более продвинутым приёмам.",
+      "style_anchors": [{"source":"basics","target":"основами"},{"source":"advanced","target":"продвинутым"}]
+    },
+    {
+      "source_key": "garden.sam.neighbour-effects", "speaker": "Sam",
+      "source": "[NPC] Sam: Planted crops in your Greenhouse apply buffs and debuffs to nearby crops!",
+      "translation": "[NPC] Sam: Культуры в вашей теплице накладывают на соседние растения положительные и отрицательные эффекты!",
+      "style_anchors": [{"source":"Greenhouse","target":"теплице"},{"source":"buffs","target":"положительные","whole_word":true},{"source":"debuffs","target":"отрицательные"}]
+    },
+    {
+      "source_key": "garden.sam.visualize", "speaker": "Sam",
+      "source": "[NPC] Sam: Let's visualize it to help.",
+      "translation": "[NPC] Sam: Давайте покажу это наглядно."
+    },
+    {
+      "source_key": "garden-observed.03",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Wow, it looks even better than I imagined!",
+      "translation": "[NPC] Sam: Ого, результат превзошёл все ожидания!"
+    },
+    {
+      "source_key": "garden-observed.04",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Now, let's get to work. It's time to plant our first crop.",
+      "translation": "[NPC] Sam: Теперь за дело: пора посадить нашу первую культуру.",
+      "style_anchors": [
+        {
+          "source": "first crop",
+          "target": "первую культуру"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.05",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Why don't you do the honor? Here, take this carrot and plant it in the Greenhouse!",
+      "translation": "[NPC] Sam: Первая посадка — за вами! Возьмите эту морковь и посадите её в теплице!",
+      "style_anchors": [
+        {
+          "source": "carrot",
+          "target": "морковь"
+        },
+        {
+          "source": "Greenhouse",
+          "target": "теплице"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.06",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Nice! But crops need water to grow. Use this watering can to water the plot.",
+      "translation": "[NPC] Sam: Отлично! Но растениям нужна вода. Полейте участок этой лейкой."
+    },
+    {
+      "source_key": "garden-observed.07",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Watering a crop inside the Greenhouse is different than normal.",
+      "translation": "[NPC] Sam: В теплице растения нужно поливать иначе, чем на обычных участках.",
+      "style_anchors": [
+        {
+          "source": "Greenhouse",
+          "target": "теплице"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.08",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: In here, you need to water crops from time to time to keep them healthy.",
+      "translation": "[NPC] Sam: Здесь нужно время от времени поливать растения, чтобы они продолжали расти.",
+      "style_anchors": [
+        {
+          "source": "water crops",
+          "target": "поливать растения"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.09",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Take these Carrot x2 and plant them next to each other in the Greenhouse.",
+      "translation": "[NPC] Sam: Возьмите 2 моркови и посадите их рядом друг с другом в теплице.",
+      "style_anchors": [
+        {
+          "source": "Carrot",
+          "target": "моркови"
+        },
+        {
+          "source": "x2",
+          "target": "2"
+        },
+        {
+          "source": "Greenhouse",
+          "target": "теплице"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.10",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: And don't forget to water them!",
+      "translation": "[NPC] Sam: И не забудьте полить их!",
+      "style_anchors": [
+        {
+          "source": "water",
+          "target": "полить"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.11",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Nice! Now that both plants are growing, take this Plant Diagnostics Tool to learn how crops are affected by each other.",
+      "translation": "[NPC] Sam: Отлично, оба растения растут! Возьмите анализатор растений: он покажет, как культуры влияют друг на друга.",
+      "style_anchors": [
+        {
+          "source": "Plant Diagnostics Tool",
+          "target": "анализатор растений"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.12",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: It's also great for knowing when a crop will finish growing or how much water it needs!",
+      "translation": "[NPC] Sam: Он также покажет, когда растение полностью вырастет и сколько воды ему нужно!",
+      "style_anchors": [
+        {
+          "source": "finish growing",
+          "target": "полностью вырастет"
+        },
+        {
+          "source": "water",
+          "target": "воды"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.13",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Why don't you try it out right now?",
+      "translation": "[NPC] Sam: Попробуйте его прямо сейчас!"
+    },
+    {
+      "source_key": "garden-observed.14",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Great job! I think you are ready to learn about mutations now!",
+      "translation": "[NPC] Sam: Отличная работа! Теперь вы готовы узнать о мутациях!",
+      "style_anchors": [
+        {
+          "source": "mutations",
+          "target": "мутациях"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.15",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Sometimes, when you grow certain crops next to each other, a mutation will eventually sprout nearby. This doesn't always need to be on dirt!",
+      "translation": "[NPC] Sam: Если определённые культуры растут рядом, со временем поблизости может появиться мутация. Она не обязательно вырастет на блоках земли!",
+      "style_anchors": [
+        {
+          "source": "mutation",
+          "target": "мутация"
+        },
+        {
+          "source": "sprout nearby",
+          "target": "поблизости может появиться"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.16",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: There are lots of mutations that exist and they are quite interesting to discover, however I really only know how to spread one of them.",
+      "translation": "[NPC] Sam: Существует много интересных мутаций, но я знаю, как получить только одну из них.",
+      "style_anchors": [
+        {
+          "source": "mutations",
+          "target": "мутаций"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.17",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: From what I remember, all you need to do is plant 2x Seeds side by side. Make sure to leave space for the mutation to spread!",
+      "translation": "[NPC] Sam: Насколько помню, достаточно посадить 2 семени рядом друг с другом. Обязательно оставьте место для появления мутации!",
+      "style_anchors": [
+        {
+          "source": "2x Seeds",
+          "target": "2 семени"
+        },
+        {
+          "source": "mutation",
+          "target": "мутации"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.18",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I have a few seeds left for you to try it out for yourself!",
+      "translation": "[NPC] Sam: У меня осталось немного семян — попробуйте сами!"
+    },
+    {
+      "source_key": "garden-observed.19",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Hmmmm I think that's right. I watered them too so they grow strong and healthy!",
+      "translation": "[NPC] Sam: Хм, кажется, всё правильно. Растения уже политы, чтобы вырасти крепкими и здоровыми!"
+    },
+    {
+      "source_key": "garden-observed.20",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Wow, it worked!",
+      "translation": "[NPC] Sam: Ого, получилось!"
+    },
+    {
+      "source_key": "garden-observed.21",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Go ahead and harvest the mutated crop. Right there, in the middle of the wheat!",
+      "translation": "[NPC] Sam: Соберите мутировавшее растение — вот оно, посреди пшеницы!"
+    },
+    {
+      "source_key": "garden-observed.22",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: You are pretty much a Greenhouse Expert now!",
+      "translation": "[NPC] Sam: Теперь вы настоящий знаток теплиц!",
+      "style_anchors": [
+        {
+          "source": "Greenhouse Expert",
+          "target": "знаток теплиц"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.23",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: I taught you all I know about Greenhouses, you are on your own from now on!",
+      "translation": "[NPC] Sam: Вот и всё, что я могу рассказать о теплицах. Дальше вы справитесь самостоятельно!",
+      "style_anchors": [
+        {
+          "source": "Greenhouses",
+          "target": "теплицах"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.24",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: If you have any more questions, you can talk to the Carpenter in the Greenhouse.",
+      "translation": "[NPC] Sam: Если появятся вопросы, поговорите с Плотником в теплице.",
+      "style_anchors": [
+        {
+          "source": "Carpenter",
+          "target": "Плотником"
+        },
+        {
+          "source": "Greenhouse",
+          "target": "теплице"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.25",
+      "speaker": "Sam",
+      "source": "[NPC] Sam: Looks like your HydroCan ran out of water, you can simply refill it by right-clicking on any water block! [I GET IT]",
+      "translation": "[NPC] Sam: В лейке HydroCan закончилась вода. Чтобы наполнить её, нажмите ПКМ по любому блоку воды! [ПОНЯТНО]",
+      "style_anchors": [
+        {
+          "source": "[I GET IT]",
+          "target": "[ПОНЯТНО]"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.26",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Looks like you could use some help with your Greenhouse.",
+      "translation": "[NPC] Carpenter: Похоже, вам нужна помощь с теплицей.",
+      "style_anchors": [
+        {
+          "source": "Greenhouse",
+          "target": "теплицей"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.27",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Don't worry, I got you covered!",
+      "translation": "[NPC] Carpenter: Не волнуйтесь, я помогу!"
+    },
+    {
+      "source_key": "garden-observed.28",
+      "speaker": "Carpenter",
+      "source": "[NPC] Carpenter: Talk to me any time to see your Greenhouse mutation progression.",
+      "translation": "[NPC] Carpenter: Обращайтесь ко мне, чтобы посмотреть свой прогресс открытия мутаций в теплице."
+    },
+    {
+      "source_key": "garden-observed.29",
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Sorry for the intrusion, but I got a report of a  Pests outbreak around here?",
+      "translation": "[NPC] Pesthunter Phillip: Извините за вторжение, но мне сообщили, что здесь завелись  вредители?",
+      "style_anchors": [
+        {
+          "source": " Pests",
+          "target": " вредители"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.30",
+      "speaker": "Pesthunter Phillip",
+      "source": "[NPC] Pesthunter Phillip: Quit yer playin'! Just take the vacuum!",
+      "translation": "[NPC] Pesthunter Phillip: Хватит баловаться! Просто возьмите пылесос!",
+      "style_anchors": [
+        {
+          "source": "vacuum",
+          "target": "пылесос"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.31",
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: Howdy! Fine day eh?",
+      "translation": "[NPC] Jacob: Здравствуйте! Хороший денёк, правда?"
+    },
+    {
+      "source_key": "garden-observed.32",
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You wouldn't happen to be one mighty farmer eh?",
+      "translation": "[NPC] Jacob: Вы ведь опытный фермер, верно?"
+    },
+    {
+      "source_key": "garden-observed.33",
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: Well, well! I coordinate a farming contest every few SkyBlock days, eh?",
+      "translation": "[NPC] Jacob: Я устраиваю фермерские состязания каждые несколько дней SkyBlock!",
+      "style_anchors": [
+        {
+          "source": "farming contest",
+          "target": "фермерские состязания"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.34",
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: Check ye calendar eh? Or better yet, click me to learn more, eh!",
+      "translation": "[NPC] Jacob: Загляните в календарь! А лучше нажмите на меня, чтобы узнать подробности."
+    },
+    {
+      "source_key": "garden-observed.38",
+      "speaker": "Jacob",
+      "source": "[NPC] Jacob: You didn't earn a medal, but you may claim a participation reward in the Carrot Contest!",
+      "translation": "[NPC] Jacob: Вы не получили медаль, но можете забрать награду за участие в состязании по моркови!",
+      "style_anchors": [
+        {
+          "source": "Carrot Contest",
+          "target": "состязании по моркови"
+        }
+      ]
+    },
+    {
+      "source_key": "garden-observed.41",
+      "speaker": "Lazy Miner",
+      "source": "[NPC] Lazy Miner: It's Saturday, my resting day! I earned myself a little treat, maybe you could bring me some chocolate?",
+      "translation": "[NPC] Lazy Miner: Сегодня суббота — мой день отдыха! Я заслужил немного сладкого. Не принесёте шоколада?"
+    }
+  ]
+}
