@@ -6,13 +6,15 @@ import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
 /** Foreign internals are enabled only for an explicitly inspected version. */
 public final class CompatibilityMixinPlugin implements IMixinConfigPlugin {
     public static boolean supportedRrvVersion(String version) {
-        return "8.10.9+26.1.2".equals(version);
+        return "8.10.9+26.1.2".equals(version) || "8.11.1+26.2".equals(version);
     }
 
     public static boolean supportedSkyRecipesVersion(String version) { return "0.5.13".equals(version); }
-    public static boolean supportedSkyblockerVersion(String version) { return "6.10.4+26.1.2".equals(version); }
+    public static boolean supportedSkyblockerVersion(String version) { return "6.10.4+26.1.2".equals(version) || "6.11.0+26.2".equals(version); }
     public static boolean supportedOverhaulVersion(String version) { return "1.4.3+mc26.1".equals(version); }
-    public static boolean supportedOverhaul151Version(String version) { return "1.5.1+mc26.1".equals(version); }
+    public static boolean supportedOverhaul151Version(String version) { return "1.5.1+mc26.1".equals(version) || "1.5.1+mc26.2".equals(version); }
+
+    public static boolean supportedCustomScoreboardVersion(String version) { return "1.12.14-2".equals(version) || "1.13.2".equals(version); }
 
     @Override public boolean shouldApplyMixin(String target, String mixin) {
         if(mixin.endsWith(".Overhaul151BudgetMixin"))return FabricLoader.getInstance().getModContainer("scoreboard-overhaul")

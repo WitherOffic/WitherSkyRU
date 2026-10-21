@@ -185,7 +185,7 @@ if (source==null || TechnicalText.active() || !active() || DisplayNoop.text(sour
     public static boolean hudDisplayActive() {
         if (!active()) return false;
         Minecraft mc = Minecraft.getInstance();
-        return mc != null && mc.level != null && (mc.screen == null || mc.screen instanceof net.minecraft.client.gui.screens.ChatScreen);
+        return mc != null && mc.level != null && (mc.gui.screen() == null || mc.gui.screen() instanceof net.minecraft.client.gui.screens.ChatScreen);
     }
 
     public static boolean tooltipTextFitActive() { return fitTooltipText && active(); }

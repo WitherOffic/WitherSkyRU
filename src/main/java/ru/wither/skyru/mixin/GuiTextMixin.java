@@ -12,7 +12,7 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import org.spongepowered.asm.mixin.Unique;
 
-/** Display-time hooks targeting the real Minecraft 26.1.2 API; dev hooks pending runtime QA. */
+/** Display-time hooks targeting the real Minecraft 26.2 API. */
 @Mixin(GuiGraphicsExtractor.class)
 public abstract class GuiTextMixin {
     @Unique private boolean witherskyru$drawingTranslated;

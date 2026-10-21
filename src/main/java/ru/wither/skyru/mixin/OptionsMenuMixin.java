@@ -19,7 +19,7 @@ public abstract class OptionsMenuMixin extends Screen {
     @Inject(method = "init()V", at = @At("RETURN"), require = 1)
     private void witherskyru$addSettings(CallbackInfo ci) {
         witherskyru$settings = addRenderableWidget(Button.builder(Component.literal("WitherSkyRU"),
-            button -> minecraft.setScreen(new SkyRuSettingsScreen((Screen)(Object)this)))
+            button -> minecraft.gui.setScreen(new SkyRuSettingsScreen((Screen)(Object)this)))
             .bounds(Math.max(4, width - 104), 4, 100, 20).build());
     }
     @Inject(method = "repositionElements()V", at = @At("RETURN"), require = 1)

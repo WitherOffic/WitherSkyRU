@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "witherskyru",
-  "version": "0.15.115-dev",
+  "version": "0.16.0-dev",
   "name": "WitherSkyRU — Hypixel SkyBlock Offline Russian",
   "description": "Russian offline dictionary and dynamic templates for Hypixel SkyBlock. No translation API, no AI, no network calls.",
   "authors": ["WitherSkyRU project"],
@@ -9,5 +9,5 @@
   "environment": "client",
   "entrypoints": {"client": ["ru.wither.skyru.SkyRuClient"]},
   "mixins": ["witherskyru.mixins.json"],
-  "depends": {"fabricloader": ">=0.19.5", "fabric-resource-loader-v1": ">=2.0.10", "minecraft": "26.1.2", "java": ">=25"}
+  "depends": {"fabricloader": ">=0.19.5", "fabric-resource-loader-v1": ">=2.0.13", "minecraft": "26.2", "java": ">=25"}
 }

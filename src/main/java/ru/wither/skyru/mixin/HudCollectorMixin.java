@@ -14,7 +14,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-/** StringWidget HUD rendering in 26.1.2 bypasses GuiGraphicsExtractor.text(). */
+/** StringWidget HUD rendering in 26.2 bypasses GuiGraphicsExtractor.text(). */
 @Mixin(targets="net.minecraft.client.gui.GuiGraphicsExtractor$RenderingTextCollector")
 public abstract class HudCollectorMixin {
     @Unique private boolean witherskyru$collectingTranslated;

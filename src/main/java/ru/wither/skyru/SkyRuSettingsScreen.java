@@ -46,5 +46,5 @@ public final class SkyRuSettingsScreen extends Screen {
         graphics.centeredText(font, "Только обычные подсказки предметов", width / 2, top + 114, 0xffaaaaaa);
         if (error != null) graphics.centeredText(font, error, width / 2, top + 130, 0xffff5555);
     }
-    @Override public void onClose() { minecraft.setScreen(parent); }
+    @Override public void onClose() { minecraft.gui.setScreen(parent); }
 }

@@ -69,7 +69,7 @@ public final class RenderContext {
         boolean custom=type.startsWith("me.owdding.customscoreboard.core.");
         if(custom)flags|=CUSTOM;
         if(custom||type.startsWith("de.hysky.skyblocker.skyblock.tabhud.")||type.startsWith("at.hannibal2.skyhanni.")
-            ||type.equals("net.minecraft.client.gui.Gui")&&(action.contains("scoreboard")||action.contains("sidebar"))
+            ||(type.equals("net.minecraft.client.gui.Gui")||type.equals("net.minecraft.client.gui.Hud"))&&(action.contains("scoreboard")||action.contains("sidebar"))
             ||lower.contains("scoreboardoverhaul")||action.contains("scoreboardoverhaul"))flags|=HUD;
         if(tooltip&&(action.contains("extract")||action.contains("draw")||action.contains("render")))flags|=TOOLTIP;
         return flags;

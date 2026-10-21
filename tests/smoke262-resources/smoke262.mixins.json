@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "smoke.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["ClientSmokeMixin262", "TextProbeMixin262"],
+  "injectors": {"defaultRequire": 1}
+}

@@ -1,19 +1,64 @@
 plugins {
-    id 'net.fabricmc.fabric-loom' version '1.17-SNAPSHOT'
+    id 'net.fabricmc.fabric-loom' version '1.17.21'
     id 'maven-publish'
 }
 
 group = 'ru.wither.skyru'
-version = '0.15.115-dev'
+version = '0.16.0-dev'
 
-base { archivesName = 'WitherSkyRU-26.1.2-fabric' }
+base { archivesName = 'WitherSkyRU-26.2-fabric' }
 repositories { maven { url = 'https://maven.fabricmc.net/' }; mavenCentral() }
 
 dependencies {
-    minecraft 'com.mojang:minecraft:26.1.2'
+    minecraft 'com.mojang:minecraft:26.2'
     implementation 'net.fabricmc:fabric-loader:0.19.5'
-    runtimeOnly 'net.fabricmc.fabric-api:fabric-resource-loader-v1:2.0.10+7c44c7324c'
+    // Only the resource-loader module is used; do not add the entire API to consumers.
+    runtimeOnly fabricApi.module('fabric-resource-loader-v1', '0.161.0+26.2')
 }
 
 java { toolchain.languageVersion = JavaLanguageVersion.of(25) }
 tasks.withType(JavaCompile).configureEach { it.options.release = 25; it.options.encoding = 'UTF-8' }
+tasks.withType(AbstractArchiveTask).configureEach {
+    preserveFileTimestamps = false
+    reproducibleFileOrder = true
+}
+
+// These existing regression suites have executable mains rather than JUnit tests.
+// Current115 preserves the accepted isolated expectations; originals stay immutable.
+sourceSets.test.java.srcDirs = ['tests/current115', 'tests/migration262']
+
+def executableChecks = ['TestMigration262', 'TestRussianSearch', 'TestPerformanceCaches',
+    'TestTooltipFont', 'TestPlayerTextProtection', 'TestInteractionModes',
+    'TestNpcLiterals115', 'TestNpcNumbers115', 'TestHudLayout']
+def verificationTasks = executableChecks.collect { suite ->
+    tasks.register("verify${suite}", JavaExec) {
+        dependsOn tasks.testClasses
+        classpath = sourceSets.test.runtimeClasspath
+        mainClass = suite
+        maxHeapSize = '768m'
+        jvmArgs '-Djava.awt.headless=true', '-Dfile.encoding=UTF-8'
+        args layout.buildDirectory.dir("checks/${suite}").get().asFile.absolutePath,
+            file('translation-source-regression115').absolutePath
+    }
+}
+// No fake JUnit discovery: these are main-based suites. `test` and `check`
+// execute the suites above; the 190-suite archive differential uses its runner.
+tasks.named('test') {
+    dependsOn verificationTasks
+    testClassesDirs = files()
+}
+
+tasks.register('clientSmokeTestJar', Jar) {
+    dependsOn tasks.testClasses
+    archiveFileName = 'client-smoke262-test-only.jar'
+    destinationDirectory = layout.buildDirectory.dir('test-mods')
+    from(sourceSets.test.output) { include 'smoke/**' }
+    from('tests/smoke262-resources')
+}
+
+tasks.register('writeVerificationClasspath') {
+    dependsOn tasks.testClasses, tasks.jar
+    doLast {
+        layout.buildDirectory.file('verification-classpath.txt').get().asFile.text = sourceSets.test.runtimeClasspath.asPath
+    }
+}

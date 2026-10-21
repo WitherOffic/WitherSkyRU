@@ -1,0 +1,329 @@
+{
+  "scope": "Preserves114 isolated expectations and105 supersession. Story cardinality10764→10799. Five exact source-backed positives across six former negative fixtures in three isolated test copies;all other negatives unchanged.",
+  "files": [
+    {
+      "file": "TestDungeonChatResources.java",
+      "original_sha256": "8CC51D46B04FA60FCA0033103F8A20452F521EFC4637DAAB8C36E8823829F02E",
+      "baseline_derived_path": "build/eggs114-test-sources/TestDungeonChatResources.java",
+      "baseline_derived_sha256": "B90615DDA8EB825A32B365B425229B4019E3BACEA51B8BA35BFB6D0E4931B86D",
+      "generated_sha256": "B90615DDA8EB825A32B365B425229B4019E3BACEA51B8BA35BFB6D0E4931B86D",
+      "new_story_count_replacements": 0
+    },
+    {
+      "file": "TestEggs114.java",
+      "original_sha256": "C7303223EC95ECB654509640DDF5675E19A66874C495A9521BD8BA4B75F8D223",
+      "baseline_derived_path": "build/eggs114-test-sources/TestEggs114.java",
+      "baseline_derived_sha256": "C7303223EC95ECB654509640DDF5675E19A66874C495A9521BD8BA4B75F8D223",
+      "generated_sha256": "C0F34033089FFB23E1A1FEB47AB509D2A5293813C5DE2B029F5ADD3A3FCC9C65",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestExpansion111.java",
+      "original_sha256": "0B1D3B23A8591E4B48B45F1BF98AAD75AD2651E3A324FF3016B63D00E3F358D2",
+      "baseline_derived_path": "build/eggs114-test-sources/TestExpansion111.java",
+      "baseline_derived_sha256": "FF1F8D59F90DCFAFADB14DBDDB558D045FAC69C6B7710A0E4CB1019FE4A91637",
+      "generated_sha256": "B0747E7851F2EE5BA9F761234CFF48FBCCB84B2B2F8A57BD2A5B0A55737F1C9C",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestExpansion112.java",
+      "original_sha256": "ADAF085BB45D58B945F5BAA402823A5F85267689327344894F45D16DEBF8868E",
+      "baseline_derived_path": "build/eggs114-test-sources/TestExpansion112.java",
+      "baseline_derived_sha256": "D221B7E16F8338B5C81E4CDA4580A984F77A1017833E13FFB34FE83C38BE42F0",
+      "generated_sha256": "CFBA28EFBE96319D56CF6BE703C0CDCE77EB2706889506BD6A8F463852E3EA0F",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestGame110.java",
+      "original_sha256": "13B7E2C89567D79D92E9E95EAA78AC68090EFFCA490FE01AF1DE87918627CD81",
+      "baseline_derived_path": "build/eggs114-test-sources/TestGame110.java",
+      "baseline_derived_sha256": "17B53F2853E89EF23318D11E6D9E5CAF044BE8DA3E97BDA57B2B99D6FE6DBF53",
+      "generated_sha256": "17B53F2853E89EF23318D11E6D9E5CAF044BE8DA3E97BDA57B2B99D6FE6DBF53",
+      "new_story_count_replacements": 0
+    },
+    {
+      "file": "TestHubNpcs69.java",
+      "original_sha256": "2D60263352E1BE7AA0EE32642F760A9D5064DB71B0006E95FE09DC99B744E24C",
+      "baseline_derived_path": "build/eggs114-test-sources/TestHubNpcs69.java",
+      "baseline_derived_sha256": "4E40C80A3CBB7ACBA1F11B2498084B2DC764D09881B69D84BA1E03D157F7CFDE",
+      "generated_sha256": "3FDA4CB49CAE18A1AB4F3B5FD1B62D8480FCEEDF0DE4813D01E22485E0195342",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc100.java",
+      "original_sha256": "C87BDF4A4E64A3964530538F6944B12D6744F6D99CCACE751C7091F4471334B8",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc100.java",
+      "baseline_derived_sha256": "655C5CFC614D836A706DD16939484674206E445CD7BCD3E5030D73AB5B879B0A",
+      "generated_sha256": "113508180970DC58EBFFC237B2B43E28BD2825B14B1950473243BA2701081473",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc101.java",
+      "original_sha256": "70F0E9C1B0391489D671435AEE614E30463F936996439839B4A71A05DBAC0291",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc101.java",
+      "baseline_derived_sha256": "7E2EF5BF3974BDD34095CE88596AB8D316018C16CE899FE8651F1C212DB43191",
+      "generated_sha256": "52AEE37CEFF9176B5F8E4059237FDE55BAF7CC2C8219AB847144113B4DE66A1C",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc102.java",
+      "original_sha256": "646090BBFFAC48600EDF195EF2B5653205BA34076B198EB3688C94BC0218ACF4",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc102.java",
+      "baseline_derived_sha256": "385152F5DD24404ADB5507E2FD71F3C72CBD8F8A5980B062C40A3304C215F3F7",
+      "generated_sha256": "22A93B7E4E13F2635506BE12598A9F37A831B6DE497F9FDB18175C799BBBE881",
+      "new_story_count_replacements": 1,
+      "explicit_positive_upgrade": [
+        "Nancy Hi|",
+        "Generow complete claim",
+        "Andrew complete second sentence"
+      ]
+    },
+    {
+      "file": "TestNpc106.java",
+      "original_sha256": "FD7F037B4E191B07915B19510020C0B3F7CED11BD1A0D3FEDEE181D50FA890E2",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc106.java",
+      "baseline_derived_sha256": "11F68753EADAE8BB31D7F21F3BC8B195D90F8EEC4E5B7CA6BCA1780670CF3C63",
+      "generated_sha256": "388D7469823AA55F04669B7F71D411946B8E0961B69F003FEE23CDAB0122408A",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc113.java",
+      "original_sha256": "8F72968E280D1F2486622F8A8689FEB5AAC5E43146FB3FE6DF25726954E4B3A1",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc113.java",
+      "baseline_derived_sha256": "A24FC32EA033E44DB17CBFC38C9FCB38ABE070ACC48AEB023F5FFAB3086FD32F",
+      "generated_sha256": "5B0489F479AE78D96997B41F97F34E77F323B20DB596C203D96C89F52E03C001",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc70.java",
+      "original_sha256": "356504EF1AB8D43683A8F2896F34F3DCD10C1A4B184AFEC05F2B357E908E1267",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc70.java",
+      "baseline_derived_sha256": "991DA1B65A0AD4FEB13248D6C1086A9749489757E03C5FA7529209248DBC4E81",
+      "generated_sha256": "4CA9B426F7A3EF298909978F9BB61C54AC1A22C04B2A8F7497EFDD757E4DBF4C",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc74.java",
+      "original_sha256": "B1ABF149352F57D558C349B4D24894282A2FEEA4D6197BF6E0CA85151B8C7910",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc74.java",
+      "baseline_derived_sha256": "873DC4E32CF5685DD56B8FE4E231938AB9C5A9BD5D034818FD2C437635867A4D",
+      "generated_sha256": "88E595E35A07AAF43118F8386DAC15104DFC58EC20DCCFB33EA58D9B9E8D1E07",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc75.java",
+      "original_sha256": "EAC4A6DF98F28E334B443F84A145FE2D4EB9257FF4A435559B6C960BE212082A",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc75.java",
+      "baseline_derived_sha256": "C3BA649D7B3FEF80780EEAA3AD8B90E3D6EF27E9CCA6940287EF1F253E48C86D",
+      "generated_sha256": "ECC37D9CBC2651C22E810FCA25758D46D851D1A4807D18646FA6B1C9947204F7",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc76.java",
+      "original_sha256": "F1E21A1FEBA112FEDD7527DCB0AE0641DF9CE338DC68C7E8FF67229ABFCF47BB",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc76.java",
+      "baseline_derived_sha256": "F2BCB3AB248CEE21105FFA97AC4ACD25DFDE217D6E352B69D44148486F42A72B",
+      "generated_sha256": "53087C6C5048BC44118DA0540EB999EF53CE7F5D50E38A55D24B21FA1D001212",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc77.java",
+      "original_sha256": "180DBA4FBDE9BEAB708C79E29F6A80B8BC87CD4F63F51584CB3F021A482209E3",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc77.java",
+      "baseline_derived_sha256": "BAF356C9243AD621DDE8E8709320A2588C48553980D2D2AABC2BB5F17D5DA037",
+      "generated_sha256": "CA92292D875CB06E6B91A5E9D67DBA46B4EC22ABC8B26CF0AD390DA7B3CE46DC",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc78.java",
+      "original_sha256": "E4122E85623AEAB7235206D09D192419D912D25F7B132BAB621C7AB338106C66",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc78.java",
+      "baseline_derived_sha256": "32BDEB228F42C686E2D345754F79C6DDA717D8701F7B6720C03D9EB9961926AB",
+      "generated_sha256": "D8D4764D65E8FC2B6C52A7A7FD11D6CF13DEDB260E3260D5C0759FA20FDACB49",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc79.java",
+      "original_sha256": "8AF9760EE247AF35E8316E101C36E4EC0FB0F7A6D5D56F0D9CFFCDDFF9B186FC",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc79.java",
+      "baseline_derived_sha256": "29374229BD5F9ECC22A2E599987178AE5F4569905333BB7C50BA12603E0EDFC3",
+      "generated_sha256": "24E965BCFFB9BA7EDAD7CB6C264CD49D3FB6D70A6DCF2D7683C4B5F72537C1AA",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc80.java",
+      "original_sha256": "04B2B9B950689188163B9CBC56E1058977FD74E56A49300D51DD24B2670FA872",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc80.java",
+      "baseline_derived_sha256": "4683996C4DB760CA7EFBA3FE50CE43C13FAAD27A3E2A9E4B7FB3D25A77E4BA4F",
+      "generated_sha256": "84808A4E6B743B260A9F14D0135D551A5F9DEA2488FB9BA661534A9D60E23D48",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc81.java",
+      "original_sha256": "0A94EA1744635BC5799E18AEB4339D345401AA144AD816ED54EEE9938160138E",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc81.java",
+      "baseline_derived_sha256": "9AE67D3F6F5967B19784F873D7B6AA153950CC7DDD46745BDCE9521EC68341BF",
+      "generated_sha256": "BF672D2444751442AE2E4A8ADB2C0B4C1C6D9FC1B5509827FAF046A1826F3E8F",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc82.java",
+      "original_sha256": "5964272FFAA85D746CB9F7F8E9EAD6506112E6B077CCE42A90D1E29B4242C61E",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc82.java",
+      "baseline_derived_sha256": "0ADD3080D7BC246E26E7D1A79ABBF78E9365C3CBDFFE8AA1806461CD6B0675F5",
+      "generated_sha256": "8800B108A91017C1C537BA1269C2C69D4A2BC9D93C0E7B9BC323D595113EAE1C",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc83.java",
+      "original_sha256": "5B135A0344CF0CDB6D729DDAA34F510CEF9D0AC4B7D0343E08A1A57EEB49BF68",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc83.java",
+      "baseline_derived_sha256": "BAC044EC2A23ADF6FA2AD8D2E63652D8114F5DDEBC58940A533F0FF2D665D155",
+      "generated_sha256": "EA3E985A4771FF68843175B4D460EC7F3C944353D709829AC47D9C27AC0EDDD5",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc84.java",
+      "original_sha256": "2619F15804FF852B6B3D0EDFB5769B72AA488890883464BE67E88C38551BBE56",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc84.java",
+      "baseline_derived_sha256": "46559B6FE2D4FA7BBC9D8C0B653224736E2BC9A6938F92AD02BB02361BC599C4",
+      "generated_sha256": "A12BE71D2FB146E5D3D22A17747CAB6B51888BCEFC27994F5B6EE8E051B48062",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc85.java",
+      "original_sha256": "5489A932F1613A3BE551C4BD569BFA78365A2883D89CA7B97AD1054A559B5C24",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc85.java",
+      "baseline_derived_sha256": "2151C0A69D13128FA5AAA13A0B2FF3770B5E69A185984495E26CC6112C34E4B9",
+      "generated_sha256": "CA8CE06D63D0548B66AA435A8CA7755F99067E536113E736523A8A2B5EAE04FC",
+      "new_story_count_replacements": 1,
+      "explicit_positive_upgrade": [
+        "Jerry complete part1/2",
+        "Jerry complete part2/2"
+      ]
+    },
+    {
+      "file": "TestNpc86.java",
+      "original_sha256": "20F60752DE2D296239536BA69FBFD7BE305E7025123CE63ACCD0563B330F4413",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc86.java",
+      "baseline_derived_sha256": "22EA66AA24EB56EA241CDC127AB818356C3BC3D393EAA3DCF93D15B05FA4E457",
+      "generated_sha256": "99237DD72151C47171581E73939F796C79E8EA303EFC734980B08E8D7BE13737",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc87.java",
+      "original_sha256": "D9DA654843BB2DB0B4B42C82260D1E38FFB22A466357F41A0DADC47761E9CB69",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc87.java",
+      "baseline_derived_sha256": "3275ED6104D460907C3E6824160E9079C11829391DE3610D1F73936A1139A2DB",
+      "generated_sha256": "8F2211773B3A83C73F215F5F5195020808AFBAAB070DF69E85CEFEF565D1A110",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc88.java",
+      "original_sha256": "C141113C6552B29BA6636B47962C03532B056F31CCF5C137B381D27D5DA3195E",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc88.java",
+      "baseline_derived_sha256": "6081176D3C5E217EFA2D4927A5B468E57AD4C9ADB77D162C96532F283E043841",
+      "generated_sha256": "303E3FEA0B30379C4282F66CFF597A8F60B452B9FC810BEFC3AB9E5524ECCE71",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc89.java",
+      "original_sha256": "86ECE5D92BC24D8FB19B851585CA64AD3562920ECA60DD1F5B8D14E7B2EA1472",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc89.java",
+      "baseline_derived_sha256": "AF42AF0F41DCE87B0E1210D90AC01387CC55581DC60778EF93A4D3EAF624E64D",
+      "generated_sha256": "E46C2BA4D8DDC3A27E033C67ED80694CBB524D1099BDA18F0A3CCC447AAB0772",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc90.java",
+      "original_sha256": "D7D8E4991BD2E897AA047D07C0C2FC33F9AE883351C58E92EA2C5F4B6E8411E8",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc90.java",
+      "baseline_derived_sha256": "D8CED668FFECAE9ED8311B76AE8C443ED244CC5D8F723DBECE313D83C9145004",
+      "generated_sha256": "D21FCE798E8B37654B2A880D3AC872266646374105252B8E82F2AD74A07DFE15",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc91.java",
+      "original_sha256": "0CB52409BEF951E23B71278BA7636A3602F7A64ABCC65E4F8298FE4D1C8DBCB3",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc91.java",
+      "baseline_derived_sha256": "E1346FEBAC3AF3B7D2D9908315ED162A316D33BD5D7C924DEB82D813A65DF137",
+      "generated_sha256": "AE7C808FDA7BBB8EB518D0A8D490D6A6B899B9EB1DBFF47BB085209649BBA229",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc92.java",
+      "original_sha256": "45DBBD4268DDB60875812CC74B6FEAD11B358F5E47C5A6FD946272CB318DAFE6",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc92.java",
+      "baseline_derived_sha256": "EC33A523F163800273AE3F035C3B57A96615AFDCF146220848B2941284A444AA",
+      "generated_sha256": "0BA6ED8A4D8C3E7721847889E5C5D51472FC9D0480C206555AF4B3D95086BFEE",
+      "new_story_count_replacements": 1,
+      "explicit_positive_upgrade": [
+        "Generow complete claim"
+      ]
+    },
+    {
+      "file": "TestNpc93.java",
+      "original_sha256": "2CBBE4CB8BD4CCB4B46E41278D8E013C6DF410E689CA83E4C3906B63B35F5A36",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc93.java",
+      "baseline_derived_sha256": "663693F83C8FDE050FE35B9D1495F25D840C4C63E363C5B3F90C0F952929A7AB",
+      "generated_sha256": "25D50D81D2CE2D765813E9EB8969E74DC92E31163039FAE209E8F723D3BB22AB",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpc98.java",
+      "original_sha256": "DED7EA3F6BB424053AA1B809B971EF74E2D78688E6FFD40D92C08469094FB512",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc98.java",
+      "baseline_derived_sha256": "F8B5AA35E282818A42CFECA11A0E1895A8FB1CDEB8342665CB599DF7670A01FE",
+      "generated_sha256": "F8B5AA35E282818A42CFECA11A0E1895A8FB1CDEB8342665CB599DF7670A01FE",
+      "new_story_count_replacements": 0
+    },
+    {
+      "file": "TestNpc99.java",
+      "original_sha256": "78C45AC4E56B40A5D1D32EC79DCD7DACAA38C5A255C84A0BFA77D9A80E80CEE4",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpc99.java",
+      "baseline_derived_sha256": "D291D43FF9FA616D4F2C2980C4427D0602E4567AC590982F14FF0F8E0D438679",
+      "generated_sha256": "FA2139CF3F7F363CF53BC238D8F1E1D3578710977FBC9CBA16B27CE7A8F0ED08",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestNpcCurrent102.java",
+      "original_sha256": "FB2D31E913F7024A3146DE53550572DF16D9DFA03762D63527F51483A42ED363",
+      "baseline_derived_path": "build/eggs114-test-sources/TestNpcCurrent102.java",
+      "baseline_derived_sha256": "C4DD68AADE14FD5EC7689B63AB822ADED5417C2D58495AE273E5E04606FB47FE",
+      "generated_sha256": "FC0D25AACB630B7862C6838C8CBEE207A19BE9CA98A5745F16F0A7FFE60A5BBD",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestOptimization94.java",
+      "original_sha256": "A3BC5AA591450CD733AF75031C8E6D3B364E4A0E44F51A2D0DB337DB3514E77D",
+      "baseline_derived_path": "build/eggs114-test-sources/TestOptimization94.java",
+      "baseline_derived_sha256": "D4D0C41171336216D5EEE8A75B77F6B5BA2B4346C5AFFDF2BE196C6247EB3E72",
+      "generated_sha256": "E0A924FBE17AB25673EDA5B0648CB96A1D442BE6C9EA16275F450233E6C16499",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestSkins109.java",
+      "original_sha256": "40CF72593F7FDF7D3ACD7A16A7DC8A975AE4993373AC96E2BE6F52DF3D58DE6B",
+      "baseline_derived_path": "build/eggs114-test-sources/TestSkins109.java",
+      "baseline_derived_sha256": "3F7C258C39605DEBEDC7AAFC06F3B03D195A3986E0B77622F085B358D23A190F",
+      "generated_sha256": "3F7C258C39605DEBEDC7AAFC06F3B03D195A3986E0B77622F085B358D23A190F",
+      "new_story_count_replacements": 0
+    },
+    {
+      "file": "TestStoryDialogues.java",
+      "original_sha256": "2E225312A8F5AD029409C5A3591999D9A5B170C6E6FA4D9C6DF88F094162F379",
+      "baseline_derived_path": "build/eggs114-test-sources/TestStoryDialogues.java",
+      "baseline_derived_sha256": "B2FEB7455C95A2F51138147F1A16C215D8BFF7E1716FEF5CB74D68ADBC4C785B",
+      "generated_sha256": "374F6042A7296D633FA88698BC254FEE625F3DA76D4E2A01834E21E686DC5E78",
+      "new_story_count_replacements": 1
+    },
+    {
+      "file": "TestSystem107.java",
+      "original_sha256": "7068584937EBD13EF4315781179D92A190626D2269A2915D69559EFA131B755F",
+      "baseline_derived_path": "build/eggs114-test-sources/TestSystem107.java",
+      "baseline_derived_sha256": "7824803A4AA0057454800949A56E79CD8C3F44B174E646CD00789BD21765EA9B",
+      "generated_sha256": "7824803A4AA0057454800949A56E79CD8C3F44B174E646CD00789BD21765EA9B",
+      "new_story_count_replacements": 0
+    }
+  ]
+}

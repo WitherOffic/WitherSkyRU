@@ -23,7 +23,7 @@ final class CustomScoreboardBudget {
         if (attempted) return;
         try {
             boolean supported = net.fabricmc.loader.api.FabricLoader.getInstance().getModContainer("customscoreboard")
-                .map(mod -> mod.getMetadata().getVersion().getFriendlyString().equals("1.12.14-2")).orElse(false);
+                .map(mod -> CompatibilityMixinPlugin.supportedCustomScoreboardVersion(mod.getMetadata().getVersion().getFriendlyString())).orElse(false);
             if (!supported) return;
             var type = Class.forName("me.owdding.customscoreboard.core.CustomScoreboardRenderer", false,
                 CustomScoreboardBudget.class.getClassLoader());

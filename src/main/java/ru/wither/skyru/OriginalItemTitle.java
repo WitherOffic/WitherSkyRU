@@ -16,7 +16,7 @@ public final class OriginalItemTitle {
         if (!SkyRuClient.active()) return false;
         try {
             Minecraft mc = Minecraft.getInstance();
-            return mc != null && mc.screen instanceof AbstractContainerScreen<?>
+            return mc != null && mc.gui.screen() instanceof AbstractContainerScreen<?>
                 && (InputConstants.isKeyDown(mc.getWindow(), InputConstants.KEY_LSHIFT)
                     || InputConstants.isKeyDown(mc.getWindow(), InputConstants.KEY_RSHIFT));
         } catch (RuntimeException ignored) { return false; }
@@ -39,7 +39,7 @@ public final class OriginalItemTitle {
         if (source == null || !held()) return false;
         try {
             Minecraft mc = Minecraft.getInstance();
-            if (!(mc.screen instanceof ContainerScreenAccessor access)) return false;
+            if (!(mc.gui.screen() instanceof ContainerScreenAccessor access)) return false;
             var slot = access.witherskyru$hoveredSlot();
             return slot != null && slot.hasItem()
                 && java.util.Objects.equals(ChatFormatting.stripFormatting(source),

@@ -26,7 +26,7 @@ public final class HudTextFit {
             panel |= frame.startsWith("me.owdding.customscoreboard.core.")
                 || frame.startsWith("de.hysky.skyblocker.skyblock.tabhud.")
                 || frame.startsWith("at.hannibal2.skyhanni.")
-                || (frame.startsWith("net.minecraft.client.gui.Gui#")
+                || ((frame.startsWith("net.minecraft.client.gui.Gui#") || frame.startsWith("net.minecraft.client.gui.Hud#"))
                     && (lower.contains("scoreboard") || lower.contains("sidebar")))
                 || lower.contains("scoreboardoverhaul");
         }

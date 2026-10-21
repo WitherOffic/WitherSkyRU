@@ -7,7 +7,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.*;
 import ru.wither.skyru.TechnicalText;
 
-/** Exact 26.1.2 technical line draw; retain original source, metrics and colours. */
+/** Exact 26.2 technical line draw; retain original source, metrics and colours. */
 @Mixin(DebugScreenOverlay.class)
 public abstract class DebugTextMixin {
     @Redirect(method="extractLines(Lnet/minecraft/client/gui/GuiGraphicsExtractor;Ljava/util/List;Z)V",
