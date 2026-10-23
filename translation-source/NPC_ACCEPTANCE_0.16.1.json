@@ -1,0 +1,68 @@
+{
+  "format_version": 1,
+  "version": "0.16.1-dev",
+  "scope": "Four independently authored targets from reviewed117; Ghost is documented alpha, not a live-server claim.",
+  "records": [
+    {
+      "source": "[NPC] Calvin: Hey, you're a familiar face!",
+      "translation": "[NPC] Calvin: О, знакомое лицо!",
+      "speaker": "Calvin",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Calvin?oldid=861049",
+      "source_revision": 861049,
+      "source_raw_sha256": "3d9f4789d3e4862e18871b61df3a3854da813299713baa63eb5eef6a228224d0",
+      "source_state": "published_wiki_snapshot_not_live_packet",
+      "legacy": "§e[NPC] §dCalvin§f: §fHey, you're a familiar face!"
+    },
+    {
+      "source": "[NPC] Calvin: I don't have any Returning Player Rewards for you right now. Thanks for playing SkyBlock!",
+      "translation": "[NPC] Calvin: Сейчас у меня нет для тебя наград за возвращение. Спасибо, что играешь в SkyBlock!",
+      "speaker": "Calvin",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Calvin?oldid=861049",
+      "source_revision": 861049,
+      "source_raw_sha256": "3d9f4789d3e4862e18871b61df3a3854da813299713baa63eb5eef6a228224d0",
+      "source_state": "published_wiki_snapshot_not_live_packet",
+      "legacy": "§e[NPC] §dCalvin§f: §fI don't have any Returning Player Rewards for you right now. Thanks for playing SkyBlock!"
+    },
+    {
+      "source": "[NPC] Ghost of Game Agent: I need something to pass the time while I wait to be reincarnated.",
+      "translation": "[NPC] Ghost of Game Agent: Нужно чем-то заняться, пока я жду перерождения.",
+      "speaker": "Ghost of Game Agent",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Game_Agent?oldid=860695",
+      "source_revision": 860695,
+      "source_raw_sha256": "5f2897d0de3cdc5531ad95080a67caf639ac3ecd4ed3b5e296355f60f46b2dcf",
+      "source_state": "alpha_documented",
+      "legacy": "§e[NPC] §6Ghost of Game Agent§f: §fI need something to pass the time while I wait to be reincarnated."
+    },
+    {
+      "source": "[NPC] Ghost of Game Agent: Well hopefully I can't bore myself to death given the fact I'm already dead!",
+      "translation": "[NPC] Ghost of Game Agent: Что ж, надеюсь, от скуки я не умру — я ведь уже мёртв!",
+      "speaker": "Ghost of Game Agent",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Game_Agent?oldid=860695",
+      "source_revision": 860695,
+      "source_raw_sha256": "5f2897d0de3cdc5531ad95080a67caf639ac3ecd4ed3b5e296355f60f46b2dcf",
+      "source_state": "alpha_documented",
+      "legacy": "§e[NPC] §6Ghost of Game Agent§f: §fWell hopefully I can't bore myself to death given the fact I'm already dead!"
+    }
+  ],
+  "rejected": [
+    {
+      "source": "[BOSS] Bonzo: Sike",
+      "reason": "Bonzo Dialogue has Sike!; bare Sike was not demonstrated as a complete dialogue line. Existing Sike! translation retained.",
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bonzo?oldid=859492",
+      "source_raw_sha256": "d15891bce7e63012c335ded4f7f55308d45a0de007cfc0ff2d65e16b4ab78aa0"
+    }
+  ],
+  "fresh_source_access": {
+    "attempted_date": "2026-10-21",
+    "community_api_result": "HTTP 502 for Bonzo, Calvin, Ghost_of_Game_Agent",
+    "fallback": "Pinned raw wikitext from locally retained source_pages.jsonl; raw SHA-256 verified against snapshot metadata."
+  }
+}

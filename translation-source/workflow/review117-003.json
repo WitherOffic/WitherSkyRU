@@ -1,0 +1,293 @@
+{
+  "run_id": "review117-003",
+  "state": "completed_offline",
+  "completed_at": "2026-10-21T16:14:40+07:00",
+  "previous_run": "review117-002",
+  "source": "translation-source/FIVE_PASS_117_REVIEWED.json",
+  "source_sha256": "55a17a4179ebd6330cc8a51d1bb61ed5d05830d3f500d5ebb126253a519bbb66",
+  "known_candidates": 27,
+  "accepted_runtime_total_in_queue": 21,
+  "accepted_runtime_this_run": 7,
+  "new_literals": 2,
+  "new_dynamic_patterns": 4,
+  "existing_greeting_extended": 1,
+  "rejected_total": 1,
+  "drafts_remaining": 5,
+  "records": [
+    {
+      "id": "9829e0405eb1e3d67056d29e50f5b6f8e65e3f4d7269b3eba1c88de528850029",
+      "source_index": 0,
+      "source": "[BOSS] Bonzo: Sike",
+      "status": "rejected_prose_variant",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.1.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "d08b463bd77f0edb5d320c09dcbd80ea513c71d75eafe94a2abbc62e24ab7bb4",
+      "source_index": 1,
+      "source": "[NPC] Calvin: Hey, you're a familiar face!",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.1.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "5188d40dbe44cff9b027f7bee071feca43df2718f0260cb5d243b715fad1e679",
+      "source_index": 2,
+      "source": "[NPC] Calvin: I don't have any Returning Player Rewards for you right now. Thanks for playing SkyBlock!",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.1.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "521d0c29f75d13092e9817547fa74496faba7078ca40a529951750b0f087cfef",
+      "source_index": 3,
+      "source": "[NPC] Ghost of Game Agent: I need something to pass the time while I wait to be reincarnated.",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.1.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "20ebabacf6aa4c7fd4c6667b02f3666db1acb93138067d2afb439a05be5dc891",
+      "source_index": 4,
+      "source": "[NPC] Ghost of Game Agent: Well hopefully I can't bore myself to death given the fact I'm already dead!",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.1.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "f5da3ff1942b8b1811183a78dc7df55f8787776d994ed5302f93e7313045c154",
+      "source_index": 5,
+      "source": "[NPC] Ghost of Warren: Curse your investments!",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "7a447a5b0fea367567d1e50fba8dcf92a1021b48443e0f4eaaa15df031792275",
+      "source_index": 6,
+      "source": "[NPC] Ghost of Warren: Even in death I am obsessed with the prospect of something that just keeps growing, and growing, and growing.",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "0d0988ec7e01dc1fe017fa94713071bf677bfbda045236047b6443fbad5832f7",
+      "source_index": 7,
+      "source": "[NPC] Ghost of Warren: These look promising, thanks!",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "aacdf1797f37a8321755f4b72cc2643afc25d5d09f781269a0ee367c66a3be9f",
+      "source_index": 8,
+      "source": "[NPC] Pesthunter Pamela: Hi! I want to reforge my Peony Bracelet to Blooming. Would you happen to have a Flowering Bouquet?",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "054dad2582a5981647fed968ab46b5a7cde47674606e812ff7d164a5a092bf7c",
+      "source_index": 9,
+      "source": "[NPC] Sam: I hope you aren't denying too many Visitors...",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "70a2673ba4dbe2de697df8a720f53d48c037fb61a838facbfde7f49a3b5dc94d",
+      "source_index": 10,
+      "source": "[NPC] Tyashoi Alchemist: Amateurism at its finest!",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "5c17ea19ea37375032beaf5ff0221a7131071ac3408e22fc01cd1751250cf1b6",
+      "source_index": 11,
+      "source": "[NPC] Tyashoi Alchemist: I see...",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "fff2d3f726f646fd317a6cb00b10442058f447a3afe3aa5390b18e2987574751",
+      "source_index": 12,
+      "source": "[NPC] Tyashoi Alchemist: Oh my!",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "434b9a8cecfaecab18f11fffa6c853c00c4c78429d90336fd0a9816fbeb2e617",
+      "source_index": 13,
+      "source": "[NPC] Tyashoi Alchemist: Still... progress.",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "3b3aac83c5221f38fafb4b66971109bb58707a6cb5321956b5948d09c56b05b2",
+      "source_index": 14,
+      "source": "[NPC] Tyashoi Alchemist: We are only a few more terrible ideas away from success.",
+      "status": "accepted_runtime_offline",
+      "source_fixture": "translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "in_game_verified": false
+    },
+    {
+      "id": "6e635190ea4a3dee306fce3b2a58a14cd8920682d4f749232003b61e5a2d156c",
+      "source_index": 15,
+      "source": "[NPC] Tyashoi Alchemist: Well well well.",
+      "status": "accepted_literal",
+      "in_game_verified": false
+    },
+    {
+      "id": "bec253b31e9ba5a040a36708cec68e4b3d5485804910d263b9335b54b18580bb",
+      "source_index": 16,
+      "source": "[NPC] Ryan: A Campfire Initiate Badge I, for our latest initiate, <username>!",
+      "status": "accepted_existing_extended",
+      "in_game_verified": false
+    },
+    {
+      "id": "c2777e32a09c5c424de0103aeefca523951c55209b12f3576950a6aad1b83646",
+      "source_index": 17,
+      "source": "[NPC] Ryan: Congrats! Your <old badge item name> was upgraded to a <new badge item name>!",
+      "status": "accepted_pattern",
+      "in_game_verified": false
+    },
+    {
+      "id": "ff955252cad18fc228be30fe0dcc3d874ed2786d9ba7abff518a1ce5277e0245",
+      "source_index": 18,
+      "source": "[NPC] Ryan: I need you to hold your <badge item name> so I can upgrade it!",
+      "status": "accepted_pattern",
+      "in_game_verified": false
+    },
+    {
+      "id": "22d7de108625d7f84c162dbe189396f2db4f6390b1893eacfc50ceca90e243f7",
+      "source_index": 19,
+      "source": "[NPC] Ryan: Next step is the Trial of Fire <tier>! (<amount> damage)",
+      "status": "accepted_pattern",
+      "in_game_verified": false
+    },
+    {
+      "id": "24b90e0d99267c880a7c2d1a3f729ab3f748fb8a22a474efe18b77d2f59bc311",
+      "source_index": 20,
+      "source": "[NPC] Ryan: Try the Trial of Fire Trial <tier> for a greater challenge!",
+      "status": "accepted_pattern",
+      "in_game_verified": false
+    },
+    {
+      "id": "1f6d57c379d0adae4eba65a039023d1af9c7bd465dbab317b2733a70c658a77a",
+      "source_index": 21,
+      "source": "[NPC] Ryan: Y'know, someone as stealthy as you could be a useful member of the Campfire Cult.",
+      "status": "accepted_literal",
+      "in_game_verified": false
+    }
+  ],
+  "version_sources": "0.16.4-dev",
+  "last_accepted_jar": "0.16.4-dev",
+  "tests": {
+    "result": "PASS",
+    "command": "./gradlew.bat build writeVerificationClasspath",
+    "suite_count": 12,
+    "suites": {
+      "TestHudLayout": 6521,
+      "TestInteractionModes": 638,
+      "TestMigration262": 16,
+      "TestNpcLiterals115": 97310,
+      "TestNpcLiterals117": 13175,
+      "TestNpcNames103": 329566,
+      "TestNpcNumbers115": 111202,
+      "TestPerformanceCaches": 6926,
+      "TestPlayerTextProtection": 275,
+      "TestRussianSearch": 66,
+      "TestRyanTemplates117": 5547,
+      "TestTooltipFont": 1925
+    },
+    "assertions_total": 573167,
+    "concrete_ryan_cases": 95,
+    "additional_numeric_upper_bound_cases": 2,
+    "old_jar_baseline": {
+      "new_dynamic_cases_unchanged": 92,
+      "new_literal_baseline_assertions": 7
+    },
+    "packaged_jar": {
+      "ryan_assertions": 5543,
+      "literal_assertions": 13175,
+      "result": "PASS",
+      "main_classes_resources_excluded": true
+    },
+    "legacy_compatibility": "{name} override, exact target/exclusions, headless16 immutable plans retained. Only Ryan matching-head negative was explicitly upgraded to positive in isolated103 test; historical original unchanged.",
+    "prior_attempt": {
+      "session_id": 28896,
+      "result": "FAILED",
+      "cause": "Test switched SkyRuClient.dictionary but not the ChatNotificationTranslator final dictionary reference. Harness now rebuilds translator when swapping fixture dictionary."
+    },
+    "game_test": "NOT_RUN"
+  },
+  "jar": {
+    "path": "build/libs/WitherSkyRU-26.2-fabric-0.16.4-dev.jar",
+    "sha256": "4191ea3d262c931bf776ece810e9ed7950479c7c6554872b42f1d975286769a4",
+    "size_bytes": 2945455,
+    "production_classes": 126,
+    "classes_identical_to_fully_tested_candidate3": 126,
+    "old_data_fonts_licenses_unchanged": 132,
+    "old14_reviewed_records_unchanged": true,
+    "superseded_candidate3": {
+      "sha256": "c720e90bfae4e794e03fdb2bf2ee01cb5cd69bbf34298c752d16a71bff340083",
+      "reason": "Only descriptive scope count and version corrected in new immutable version4; previous JAR3 retained."
+    },
+    "changed_old_classes": [
+      "ChatNotificationTranslator.class",
+      "ChatNotificationTranslator$QuizLine66.class (javap instruction listing identical; non-instruction metadata change)"
+    ]
+  },
+  "performance": {
+    "raw": "translation-source/workflow/review117-003-perf.json",
+    "orders": [
+      {
+        "time_change_percent": -0.9587817658168629,
+        "allocation_delta_bytes_per10": -367.9939999999988,
+        "baseline_bytes_per10": 14128.0,
+        "candidate_bytes_per10": 13760.006000000001
+      },
+      {
+        "time_change_percent": -0.6097248804366795,
+        "allocation_delta_bytes_per10": 0.012000000000625732,
+        "baseline_bytes_per10": 13760.0,
+        "candidate_bytes_per10": 13760.012
+      }
+    ],
+    "scope": "One unchanged numeric workload, four sequential JVMs A-B-B-A; 20000 warmup and4x10000 measured10-row batches; not live FPS, frametime or retained heap.",
+    "previous_plus352_observation": "Not explained or claimed fixed; baseline allocations vary between JVMs, so retain controlled investigation.",
+    "fps_frametime_retained_heap": "NOT_MEASURED"
+  },
+  "bugs": {
+    "open": 0,
+    "critical_open": 0,
+    "awaiting_game": 0,
+    "closed_this_run": 0
+  },
+  "file_sha256": {
+    "src/main/java/ru/wither/skyru/RyanDialogueTemplates.java": "7136598541406b974e42eaa57de1fd3d36e5f6f7b7358229e1730f74949093b1",
+    "src/main/java/ru/wither/skyru/ChatNotificationTranslator.java": "422497fc740d032b7e5e0d263b70606b248e2042b4510cdc6e599d29a12811e9",
+    "src/main/resources/data/witherskyru/npc-ryan117.json": "7da7f34be12cb17c19a56bfc6ddbbcb1ce85b2b3ec18fa61b72f88da661d12c2",
+    "src/main/resources/data/witherskyru/npc-reviewed117.json": "31fe11807cecc12064a872469f6360aa2a8daf27073a03eaeb07bccf8f4026e0",
+    "tests/migration262/TestRyanTemplates117.java": "6652ce4ddd83427f7393bf121c37986b93e7c0fe5a1a794b720d9d46c9a581ae",
+    "translation-source/RYAN_ACCEPTANCE_0.16.3.json": "b58a886157b421dc5622b24cc3200297efbc47743de2f7cc2a92753c01c25f97",
+    "translation-source/NPC_ACCEPTANCE_0.16.3.json": "d700d68e407330a85a8e617651541096ae89043e37df1e1e049fa808158ab5b4",
+    "build.gradle": "37657582173fa22d56e8fe51f4d98c1fe2a434958ea13b679ae091ea104d9153",
+    "src/main/resources/fabric.mod.json": "323cfcdbfaa5c2824dea57d8e50162524bf9de9fbaa4e535946a66aff0c7647b",
+    "tests/current115/TestNpcLiterals115.java": "572347fe0bf7414a2a4811fcb634fbebd4bdd6fc8610df4c2a709eddd1dfa7f9",
+    "tests/current115/TestNpcNames103.java": "3057ede2314e2010b3721c97ceb3018e3cabc3e21050a5f8b24c9f51a24f5fd0",
+    "tests/migration262/TestNpcLiterals117.java": "30d9c5c727608987e5d11f32fd42d5f23537f1e702c655e6615d41eebbd62efe",
+    "translation-source/EXPECTATION_UPDATES_0.16.3.json": "c92ab3b5b6483bd7e8fafe3946659c7a7ebea667976f53c66c0ebb6bec73b6eb"
+  },
+  "git": {
+    "branch": "feature/minecraft-26.2",
+    "head": "8a65e62f768b2ee863e60a324de743dc695dfdf9",
+    "status": " M build.gradle\n M src/main/java/ru/wither/skyru/ChatNotificationTranslator.java\n M src/main/java/ru/wither/skyru/NpcDialogueTranslator.java\n M src/main/resources/fabric.mod.json\n M tests/current115/TestNpcLiterals115.java\n M tests/current115/TestNpcNames103.java\n?? AGENTS.md\n?? docs/BUGS.md\n?? docs/DEV_STATUS.md\n?? docs/TRANSLATION_WORKFLOW.md\n?? docs/translation-runs/review117-001.md\n?? docs/translation-runs/review117-002.md\n?? docs/translation-runs/review117-003.md\n?? docs/translation-runs/runtime117-001.md\n?? src/main/java/ru/wither/skyru/RyanDialogueTemplates.java\n?? src/main/resources/data/witherskyru/npc-reviewed117.json\n?? src/main/resources/data/witherskyru/npc-ryan117.json\n?? tests/migration262/TestNpcLiterals117.java\n?? tests/migration262/TestRyanTemplates117.java\n?? translation-source/EXPECTATION_UPDATES_0.16.1.json\n?? translation-source/EXPECTATION_UPDATES_0.16.2.json\n?? translation-source/EXPECTATION_UPDATES_0.16.3.json\n?? translation-source/NPC_ACCEPTANCE_0.16.1.json\n?? translation-source/NPC_ACCEPTANCE_0.16.2.json\n?? translation-source/NPC_ACCEPTANCE_0.16.3.json\n?? translation-source/RYAN_ACCEPTANCE_0.16.3.json\n?? translation-source/workflow/review117-001.json\n?? translation-source/workflow/review117-002.json\n?? translation-source/workflow/review117-003-perf.json\n?? translation-source/workflow/review117-003.json\n?? translation-source/workflow/runtime117-001-perf.json\n?? translation-source/workflow/runtime117-001.json\n",
+    "tracked_diff_sha256": "686e081864d1940c1b638a85d556310ba8d278d9e58aef9d77bed086db251790"
+  },
+  "next_action": "review117-004: records[22:27], four quest/location objectives and one notification. First22 candidates terminal; do not redo source review. Separate allocation/JIT investigation pending."
+}

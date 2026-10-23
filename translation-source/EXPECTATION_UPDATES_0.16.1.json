@@ -1,0 +1,12 @@
+{
+  "version": "0.16.1-dev",
+  "changes": [
+    {
+      "file": "tests/current115/TestNpcLiterals115.java",
+      "old_story_count": 10799,
+      "new_story_count": 10803,
+      "reason": "Four source-backed literals appended; existing 10799 keys/targets and historical tests/TestNpcLiterals115.java remain unchanged."
+    }
+  ],
+  "acceptance_fixture": "NPC_ACCEPTANCE_0.16.1.json"
+}

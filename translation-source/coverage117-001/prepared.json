@@ -1,0 +1,27 @@
+{
+  "normalization": "API multiline fields split at explicit newlines, not visual wrapping. Convert only recognized API %%color%%/style markers to legacy; remove legacy colors; trim outer whitespace; preserve variables, inner whitespace and case; SHA256 of UTF8 source ID. Nonlexical rows retained in historical NPC denominator for comparability; other corpora require ASCII letters.",
+  "counts": {
+    "npc_frozen16244": 16244,
+    "wiki_tagged11409": 11409,
+    "npc_tagged_additional": 529,
+    "wiki_objective_choice": 339,
+    "api_items": 5983,
+    "api_skills": 1024,
+    "neu_item_names": 7828,
+    "api_collections": 1066,
+    "neu_item_lore": 16756,
+    "api_skyblock_achievements": 461,
+    "api_election": 29,
+    "neu_abiphone_guide": 85,
+    "api_bingo": 51,
+    "melody_fixed30": 30
+  },
+  "unique_union": 44326,
+  "probe_groups": 58199,
+  "probe_slots": 117142,
+  "npc_queue_sha256": "fedac2aaafca9674634dd99eaac9a2435aaf6177a74cfb7b1ff485e62e938925",
+  "neu_commit": "20a302457375ddfd7005e192486ac86781729b0a",
+  "neu_archive_sha256": "05ce13384a84eac5527b8380559470b868b7538565b2a52bc24d322996c79188",
+  "source_limits": "NEU public repository templates include placeholders/test/unobtainable items; wiki includes historical/alpha/variables. None is all live game packets. Rows retained and flagged, not silently removed.",
+  "wiki_prose_candidates_excluded": 138828
+}

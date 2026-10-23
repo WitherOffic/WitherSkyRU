@@ -1,0 +1,58 @@
+{
+  "candidate": "0.16.16-dev",
+  "candidate_sha256": "38b34db04e49367cefc8587095ec2f30da4e0cacfd72e1dffe639b2bdda1908f",
+  "candidate_bytes": 3401958,
+  "replaced_by": "0.16.17-dev (reserved)",
+  "old_expectations_archive": "build/bulk117005/candidate16-evidence.zip",
+  "edits": [
+    {
+      "batch_index": 491,
+      "source": "View all your Half-Eaten Carrot",
+      "before": "Просмотрите весь свой прогресс коллекции надкусанной моркови:",
+      "after": "Просмотрите коллекцию надкусанной моркови:",
+      "reason": "Read together with existing next-row target «её достижения и награды!»: remove redundant «весь свой прогресс», preserve a natural collection heading and reduce tooltip width."
+    },
+    {
+      "batch_index": 493,
+      "source": "View all your Wilted Berberis",
+      "before": "Просмотрите весь свой прогресс коллекции увядшего барбариса:",
+      "after": "Просмотрите коллекцию увядшего барбариса:",
+      "reason": "Read together with existing next-row target «её достижения и награды!»: remove redundant «весь свой прогресс», preserve a natural collection heading and reduce tooltip width."
+    },
+    {
+      "batch_index": 495,
+      "source": "View all your Caducous Stem",
+      "before": "Просмотрите весь свой прогресс коллекции опадающего стебля:",
+      "after": "Просмотрите коллекцию опадающего стебля:",
+      "reason": "Read together with existing next-row target «её достижения и награды!»: remove redundant «весь свой прогресс», preserve a natural collection heading and reduce tooltip width."
+    },
+    {
+      "batch_index": 497,
+      "source": "View all your Timite",
+      "before": "Просмотрите весь свой прогресс коллекции тимита:",
+      "after": "Просмотрите коллекцию тимита:",
+      "reason": "Read together with existing next-row target «её достижения и награды!»: remove redundant «весь свой прогресс», preserve a natural collection heading and reduce tooltip width."
+    },
+    {
+      "batch_index": 499,
+      "source": "View all your Agaricus Cap",
+      "before": "Просмотрите весь свой прогресс коллекции шляпки шампиньона:",
+      "after": "Просмотрите коллекцию шляпки шампиньона:",
+      "reason": "Read together with existing next-row target «её достижения и награды!»: remove redundant «весь свой прогресс», preserve a natural collection heading and reduce tooltip width."
+    },
+    {
+      "batch_index": 501,
+      "source": "View all your Living Metal Heart",
+      "before": "Просмотрите весь свой прогресс коллекции сердца живого металла:",
+      "after": "Просмотрите коллекцию сердца живого металла:",
+      "reason": "Read together with existing next-row target «её достижения и награды!»: remove redundant «весь свой прогресс», preserve a natural collection heading and reduce tooltip width."
+    },
+    {
+      "batch_index": 503,
+      "source": "View all your Hemovibe",
+      "before": "Просмотрите весь свой прогресс коллекции гемовиба:",
+      "after": "Просмотрите коллекцию гемовиба:",
+      "reason": "Read together with existing next-row target «её достижения и награды!»: remove redundant «весь свой прогресс», preserve a natural collection heading and reduce tooltip width."
+    }
+  ]
+}

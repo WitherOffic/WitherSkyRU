@@ -1,0 +1,13 @@
+{
+  "version": "0.16.3-dev",
+  "old_story_count": 10813,
+  "new_story_count": 10815,
+  "reason": "Two exact literals; five Ryan dynamic shapes are accounted separately, greeting text preserved from accepted103.",
+  "names103_update": {
+    "file": "tests/current115/TestNpcNames103.java",
+    "change": "Only Ryan matching [Name head]Name is now supported; its authored target is retained. Other speakers and mismatched heads remain negative. Original tests/TestNpcNames103.java unchanged."
+  },
+  "greeting_compatibility": "Legacy{name} override key and excluded-name list retained; headless greetings reuse the existing16 immutable plans.",
+  "delivered_version": "0.16.4-dev",
+  "candidate3_superseded": "Existing JAR3 immutable; descriptive scope count corrected by a new unique version4. Production bytecode unchanged."
+}

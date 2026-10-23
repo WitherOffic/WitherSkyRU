@@ -1,0 +1,18 @@
+{
+  "old_sha256": "af6ff4266576d2bbd5d1fb000844497de898dc7cdf43037a69089fbe9f53d473",
+  "new_sha256": "7d38f610b7512edf1149cba5476f2bbdb53bea2373aff032f51da6591cded41c",
+  "new_bytes": 3333347,
+  "changed": [
+    "data/witherskyru/lore.tsv",
+    "fabric.mod.json",
+    "ru/wither/skyru/BulkLore117.class"
+  ],
+  "added": [
+    "data/witherskyru/bulk117-004.json"
+  ],
+  "removed": [],
+  "identical_entries": 287,
+  "collector_and_skycubed_identical_entries": 15,
+  "notices_fonts_identical": true,
+  "test_drivers_packaged": false
+}

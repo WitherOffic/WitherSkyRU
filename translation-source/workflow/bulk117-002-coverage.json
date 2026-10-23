@@ -1,0 +1,47 @@
+{
+  "frozen_original_size": 44326,
+  "expanded_size": 45326,
+  "new_outside_previous_corpus": 1000,
+  "before_original": {
+    "total": 44326,
+    "unchanged_review": 3289,
+    "registered_exact": 39241,
+    "changed_without_exact_review": 1796,
+    "exact_percent": 88.5282,
+    "offline_changed": 38848,
+    "exact_but_unchanged": 2189,
+    "identity_exact_only": 9,
+    "russian_exact_target": 39230,
+    "flagged_source_review": 1591
+  },
+  "before_same_expanded_corpus": {
+    "total": 45326,
+    "unchanged_review": 4289,
+    "registered_exact": 39241,
+    "changed_without_exact_review": 1796,
+    "exact_percent": 86.575,
+    "offline_changed": 38848,
+    "exact_but_unchanged": 2189,
+    "identity_exact_only": 9,
+    "russian_exact_target": 39230,
+    "flagged_source_review": 1591
+  },
+  "after": {
+    "total": 45326,
+    "unchanged_review": 3289,
+    "registered_exact": 40241,
+    "changed_without_exact_review": 1796,
+    "exact_percent": 88.7813,
+    "offline_changed": 39860,
+    "exact_but_unchanged": 2177,
+    "identity_exact_only": 9,
+    "russian_exact_target": 40230,
+    "flagged_source_review": 1591
+  },
+  "old_changed_sources_lost": [],
+  "observed_occurrences": 118142,
+  "changed_source_cases": 1027,
+  "method": "Same frozen original117142 probes plus1000 new actual UI contexts; no source re-download. Before new UI1000 all3 routes unchanged in old JAR. Corpus expansion separate from translation delta.",
+  "old_runtime_outputs_changed_count": 27,
+  "additional_old_sources_started_changing": 12
+}

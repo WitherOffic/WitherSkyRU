@@ -1,0 +1,118 @@
+{
+  "run_id": "review117-001",
+  "created_at": "2026-10-21T11:07:50+07:00",
+  "scope": "Limited static review of first five authored117 records; no runtime import, no full corpus reclassification.",
+  "source": "translation-source/FIVE_PASS_117_REVIEWED.json",
+  "source_sha256": "55a17a4179ebd6330cc8a51d1bb61ed5d05830d3f500d5ebb126253a519bbb66",
+  "source_record_count": 27,
+  "source_records_with_authored_translation": 27,
+  "processed_this_run": 5,
+  "static_review_complete": 5,
+  "remaining_initial_static_review": 22,
+  "accepted_runtime_this_run": 0,
+  "changed_runtime_translations_this_run": 0,
+  "pending_runtime_review_of_selected": 5,
+  "full_corpus_runtime_counts": null,
+  "previous_comparable_run": null,
+  "historical_frozen_snapshot": {
+    "path": "translation-source/NPC_PROGRESS_0.15.115.json",
+    "sha256": "0d9bf11ffa44caff4ea46b25d6564552b2ed4521617a6f8a8af996f10baf17db",
+    "total": 16244,
+    "exact": 13984,
+    "without_exact_key": 2260,
+    "recomputed_full_corpus": false
+  },
+  "bugs": {
+    "open": 0,
+    "awaiting_game": 0,
+    "critical_open": 0,
+    "confirmed_closed_this_run": 0
+  },
+  "tests": {
+    "command": "python -X utf8 -m unittest discover -s tests -p 'test_five_pass117.py' -v",
+    "exit_code": 0,
+    "tests_run": 16,
+    "result": "PASS",
+    "evidence": "Fresh tool output in this run; 16 tests OK; this receipt records the result, no separate log was saved.",
+    "runtime_or_game_test": false
+  },
+  "lock_probe": {
+    "result": "PASS",
+    "exclusive_holder_pid": 9196,
+    "competing_open": "denied",
+    "future_runner_installed": false
+  },
+  "jar": {
+    "version": "0.16.0-dev",
+    "path": "build/libs/WitherSkyRU-26.2-fabric-0.16.0-dev.jar",
+    "sha256": "5442ba678770bc244743582a80fcdebfd05ef1c6c4118e4e8e2d17cf8444ef51",
+    "size_bytes": 2936537,
+    "rebuilt_this_run": false
+  },
+  "records": [
+    {
+      "id": "9829e0405eb1e3d67056d29e50f5b6f8e65e3f4d7269b3eba1c88de528850029",
+      "source_index": 0,
+      "source": "[BOSS] Bonzo: Sike",
+      "translation": "[BOSS] Bonzo: Попался!",
+      "status": "draft_static_review_complete_runtime_pending",
+      "exact_source_matches": [],
+      "punctuation_variants": [
+        {
+          "path": "src/main/resources/data/witherskyru/dungeon-expansion98.json",
+          "pointer": "/records/4",
+          "source": "[BOSS] Bonzo: Sike!",
+          "translation": "[BOSS] Bonzo: А вот и нет!",
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Bonzo?oldid=852604"
+        }
+      ],
+      "final_runtime_acceptance": false,
+      "next_action": "Confirm full source/context and execute runtime/style checks before import or declaring already covered."
+    },
+    {
+      "id": "d08b463bd77f0edb5d320c09dcbd80ea513c71d75eafe94a2abbc62e24ab7bb4",
+      "source_index": 1,
+      "source": "[NPC] Calvin: Hey, you're a familiar face!",
+      "translation": "[NPC] Calvin: О, знакомое лицо!",
+      "status": "draft_static_review_complete_runtime_pending",
+      "exact_source_matches": [],
+      "punctuation_variants": [],
+      "final_runtime_acceptance": false,
+      "next_action": "Confirm full source/context and execute runtime/style checks before import or declaring already covered."
+    },
+    {
+      "id": "5188d40dbe44cff9b027f7bee071feca43df2718f0260cb5d243b715fad1e679",
+      "source_index": 2,
+      "source": "[NPC] Calvin: I don't have any Returning Player Rewards for you right now. Thanks for playing SkyBlock!",
+      "translation": "[NPC] Calvin: Сейчас у меня нет для тебя наград за возвращение. Спасибо, что играешь в SkyBlock!",
+      "status": "draft_static_review_complete_runtime_pending",
+      "exact_source_matches": [],
+      "punctuation_variants": [],
+      "final_runtime_acceptance": false,
+      "next_action": "Confirm full source/context and execute runtime/style checks before import or declaring already covered."
+    },
+    {
+      "id": "521d0c29f75d13092e9817547fa74496faba7078ca40a529951750b0f087cfef",
+      "source_index": 3,
+      "source": "[NPC] Ghost of Game Agent: I need something to pass the time while I wait to be reincarnated.",
+      "translation": "[NPC] Ghost of Game Agent: Нужно чем-то заняться, пока я жду перерождения.",
+      "status": "draft_static_review_complete_runtime_pending",
+      "exact_source_matches": [],
+      "punctuation_variants": [],
+      "final_runtime_acceptance": false,
+      "next_action": "Confirm full source/context and execute runtime/style checks before import or declaring already covered."
+    },
+    {
+      "id": "20ebabacf6aa4c7fd4c6667b02f3666db1acb93138067d2afb439a05be5dc891",
+      "source_index": 4,
+      "source": "[NPC] Ghost of Game Agent: Well hopefully I can't bore myself to death given the fact I'm already dead!",
+      "translation": "[NPC] Ghost of Game Agent: Что ж, надеюсь, от скуки я не умру — я ведь уже мёртв!",
+      "status": "draft_static_review_complete_runtime_pending",
+      "exact_source_matches": [],
+      "punctuation_variants": [],
+      "final_runtime_acceptance": false,
+      "next_action": "Confirm full source/context and execute runtime/style checks before import or declaring already covered."
+    }
+  ],
+  "next_operation": "Resolve Bonzo Sike/Sike! provenance, then runtime proof/style checks for these five; do not repeat completed static scan."
+}

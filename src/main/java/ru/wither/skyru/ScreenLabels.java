@@ -4,6 +4,13 @@ import java.util.*;
 
 /** Closed visible labels. Never writes chat, commands, names or GUI input. */
 final class ScreenLabels {
+    // Only the short, closed harp progress label. Never consume or rebuild the live number span.
+    private static final java.util.regex.Pattern HARP_BEST=java.util.regex.Pattern.compile(
+        "Best: (?:100(?:\\.0{1,2})?|(?:[1-9]?[0-9])(?:\\.[0-9]{1,2})?)%!?"
+    );
+    private static boolean harpBest(String text){
+        return text.length()<=20&&text.startsWith("Best: ")&&HARP_BEST.matcher(text).matches();
+    }
     private record Label(List<String> source,List<String> target,String sourceText,String targetText,List<String> keys) {}
     private static Label label(String... pairs){
         var a=new ArrayList<String>();var b=new ArrayList<String>();
@@ -12,6 +19,27 @@ final class ScreenLabels {
         return new Label(List.copyOf(a),List.copyOf(b),source,target,List.copyOf(keys));
     }
     private static final List<Label> LABELS=List.of(
+        // Melody selection, difficulty and tips; current values are separate spans.
+        label("La Vie en Rose","Жизнь в розовом цвете"),
+        label("Easy Song","Лёгкая мелодия"),
+        label("Hard Song","Сложная мелодия"),
+        label("Expert Song","Мелодия для экспертов"),
+        label("Virtuoso Song","Мелодия для виртуозов"),
+        label("Best:","Лучший результат:"),
+        label("Click to select song!","Нажмите, чтобы выбрать мелодию!"),
+        label("Useful Tip!","Полезный совет!"),
+        label("If you are having lag issues, try","Если игра подтормаживает, попробуйте"),
+        // Closed Melody titles: join same-style fragments before translating child words.
+        label("Hymn to the Joy","Ода к радости"),
+        label("Frère Jacques","Братец Жак"),
+        label("Amazing Grace","О, благодать"),
+        label("Brahm's Lullaby","Колыбельная Брамса"),
+        label("Happy Birthday to You","С днём рождения тебя"),
+        label("Greensleeves","Зелёные рукава"),
+        label("Geothermy?","Геотермия?"),
+        label("Minuet","Менуэт"),
+        label("Joy to the World","Радуйся, мир"),
+        label("Godly Imagination","Божественное воображение"),
         label("To Sack of Sacks","К сумке мешков"),label("Get From Sacks","Взять из мешков"),
         label("Enchanted Agronomy Sack","Мешок для зачарованного урожая"),label("Agronomy Sacks","Мешки для урожая"),
         label("Small Sack of Sacks","Малая сумка мешков"),label("Sack of Sacks ","Сумка мешков ","III","III"),
@@ -137,6 +165,7 @@ final class ScreenLabels {
         return null;
     }
     static String wrappedTranslation(String text){
+        if(harpBest(text))return "Лучший результат:"+text.substring(5);
         String prefix=objectivePrefix(text);if(prefix==null)return null;
         String body=text.substring(prefix.length());
         var label=BY_SOURCE.get(body);return label==null?null:"Цель: "+label.targetText();
@@ -146,11 +175,14 @@ final class ScreenLabels {
         return TARGETS.contains(text);
     }
     static List<String> keys(String text){
+        if(harpBest(text))return List.of(text,"Best:");
         String prefix=objectivePrefix(text);
         if(prefix!=null){var result=new ArrayList<>(keys(text.substring(prefix.length())));result.add(text);result.add("Objective");return List.copyOf(result);}
         var label=BY_SOURCE.get(text);return label==null?List.of(text):label.keys();
     }
     static List<OfflineDictionary.TitleEdit> edits(String text,String target){
+        if(harpBest(text)&&Objects.equals("Лучший результат:"+text.substring(5),target))
+            return List.of(new OfflineDictionary.TitleEdit(0,5,"Лучший результат:"));
         String prefix=objectivePrefix(text);
         if(prefix!=null&&Objects.equals(wrappedTranslation(text),target)){
             var result=new ArrayList<OfflineDictionary.TitleEdit>();

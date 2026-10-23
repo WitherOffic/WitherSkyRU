@@ -1,0 +1,48 @@
+{
+  "run_id": "bulk117-005",
+  "id": 1307,
+  "source": "The Prodigy",
+  "translation": "Виртуоз",
+  "current_api_snapshot_sha256": "397687ce9117a6483d68a75e1d360f328a9079cc103b951b22d08ffc1d50a14b",
+  "json_path": [
+    "achievements",
+    "skyblock",
+    "one_time",
+    "THE_PRODIGY"
+  ],
+  "current_api_record": {
+    "points": 10,
+    "name": "The Prodigy",
+    "description": "Complete Through the Campfire song at any score",
+    "gamePercentUnlocked": 1.6673363475167118,
+    "globalPercentUnlocked": 0.8032904323475062
+  },
+  "actual_ui": {
+    "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+    "page": "Achievements/UI",
+    "revision": 641139,
+    "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+    "template_start": 26208,
+    "template_end": 31028,
+    "template_name": "UI",
+    "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+    "slot": "3, 8",
+    "menu": "(6/7) SkyBlock Challenge Achi...",
+    "slot_raw": "Coal; 10, none, &cThe Prodigy, &fComplete Through the Campfire/&fsong at any score/&7/&7Reward:/&8+&e10 &7Achievement Points/&7/&7&7Unlocked by 0.33% of SkyBlock/&7players!/&7/&cAchievement locked!"
+  },
+  "old_origin_preserved": {
+    "source_url": "https://api.hypixel.net/v2/resources/achievements",
+    "json_path": [
+      "achievements",
+      "skyblock",
+      "one_time",
+      "THE_PRODIGY",
+      "name"
+    ],
+    "line": 0,
+    "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+  },
+  "baseline": "JAR15 misses in dictionary/component/full tooltip;4001 whole-batch assertions",
+  "accepted": "JAR17;47003 whole-batch assertions and coverage API/title routes",
+  "not_additional_to_batch": true
+}

@@ -52,3 +52,19 @@ licensed under the SIL Open Font License 1.1; the MIT license does not replace i
 The font is not SF Pro or any other Apple font. The style was chosen as an
 independent interface font for a similar clean visual feel; no Apple affiliation
 or endorsement is claimed. The original font binary/name was not modified.
+
+## Bulk117-001 through Bulk117-007 translation additions
+
+Wiki-derived Russian adaptations are attributed to Hypixel SkyBlock Wiki contributors
+(https://hypixelskyblock.minecraft.wiki/) and remain under CC BY-NC-SA 3.0:
+https://creativecommons.org/licenses/by-nc-sa/3.0/ . Changes: Russian translation
+and semantic colour/style mappings. This license does not replace the code's MIT
+license or the font's OFL-1.1. Original game content remains attributable to Hypixel;
+public API facts are not asserted to be exclusively owned or relicensed by this project.
+Pinned source links and revisions for these seven batches are bundled at
+`META-INF/licenses/BULK117-SOURCES.txt`; full independent acceptance fixtures remain
+in the source tree under `translation-source/BULK117_*_ACCEPTANCE.json`.
+
+The public display name is SkyblockRPG_RU; the original WitherSkyRU copyright
+notices and third-party attributions are retained. This is an unofficial community
+translation, not an endorsement by Hypixel, Mojang, the wiki or font authors.

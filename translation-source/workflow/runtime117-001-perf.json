@@ -1,0 +1,133 @@
+{
+  "runs": [
+    {
+      "mode": "titles_pipeline",
+      "jar_sha256": "5442ba678770bc244743582a80fcdebfd05ef1c6c4118e4e8e2d17cf8444ef51",
+      "label": "baseline",
+      "order": 0,
+      "result": {
+        "ms_per10": 0.031170535,
+        "allocated_bytes_per10": 34976.0228,
+        "rounds_ms": [
+          0.03138652,
+          0.03109321,
+          0.03122134,
+          0.03111973
+        ]
+      }
+    },
+    {
+      "mode": "numeric62_pipeline",
+      "jar_sha256": "5442ba678770bc244743582a80fcdebfd05ef1c6c4118e4e8e2d17cf8444ef51",
+      "label": "baseline",
+      "order": 0,
+      "result": {
+        "ms_per10": 0.012448535,
+        "allocated_bytes_per10": 13408.0,
+        "rounds_ms": [
+          0.01270169,
+          0.01218714,
+          0.01238826,
+          0.01250881
+        ]
+      }
+    },
+    {
+      "mode": "titles_pipeline",
+      "jar_sha256": "46cdb4d76b103f02791e5b03def4979e9a38036819be3887659c308c2096a7fa",
+      "label": "candidate",
+      "order": 1,
+      "result": {
+        "ms_per10": 0.03088399,
+        "allocated_bytes_per10": 34976.0288,
+        "rounds_ms": [
+          0.03050772,
+          0.03086333,
+          0.03090465,
+          0.03107662
+        ]
+      }
+    },
+    {
+      "mode": "numeric62_pipeline",
+      "jar_sha256": "46cdb4d76b103f02791e5b03def4979e9a38036819be3887659c308c2096a7fa",
+      "label": "candidate",
+      "order": 1,
+      "result": {
+        "ms_per10": 0.012484445,
+        "allocated_bytes_per10": 13760.0,
+        "rounds_ms": [
+          0.01252948,
+          0.01248577,
+          0.0123697,
+          0.01248312
+        ]
+      }
+    },
+    {
+      "mode": "titles_pipeline",
+      "jar_sha256": "46cdb4d76b103f02791e5b03def4979e9a38036819be3887659c308c2096a7fa",
+      "label": "candidate",
+      "order": 2,
+      "result": {
+        "ms_per10": 0.03027363,
+        "allocated_bytes_per10": 34976.0288,
+        "rounds_ms": [
+          0.03024797,
+          0.03010089,
+          0.03029929,
+          0.03031975
+        ]
+      }
+    },
+    {
+      "mode": "numeric62_pipeline",
+      "jar_sha256": "46cdb4d76b103f02791e5b03def4979e9a38036819be3887659c308c2096a7fa",
+      "label": "candidate",
+      "order": 2,
+      "result": {
+        "ms_per10": 0.012120785,
+        "allocated_bytes_per10": 13760.0,
+        "rounds_ms": [
+          0.01215339,
+          0.01209119,
+          0.01191299,
+          0.01215038
+        ]
+      }
+    },
+    {
+      "mode": "titles_pipeline",
+      "jar_sha256": "5442ba678770bc244743582a80fcdebfd05ef1c6c4118e4e8e2d17cf8444ef51",
+      "label": "baseline",
+      "order": 3,
+      "result": {
+        "ms_per10": 0.02998804,
+        "allocated_bytes_per10": 34976.0288,
+        "rounds_ms": [
+          0.03018735,
+          0.02989286,
+          0.03002469,
+          0.02995139
+        ]
+      }
+    },
+    {
+      "mode": "numeric62_pipeline",
+      "jar_sha256": "5442ba678770bc244743582a80fcdebfd05ef1c6c4118e4e8e2d17cf8444ef51",
+      "label": "baseline",
+      "order": 3,
+      "result": {
+        "ms_per10": 0.01228723,
+        "allocated_bytes_per10": 13408.0,
+        "rounds_ms": [
+          0.0123324,
+          0.01205258,
+          0.01249746,
+          0.01224206
+        ]
+      }
+    }
+  ],
+  "scope": "Two unchanged synthetic text API workloads; 8 sequential JVMs, A-B-B-A; 20000 warmup, 4x10000 measured 10-row batches. Not game FPS, frametime, retained heap, or proof of zero cost."
+}

@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "unique_source_ids": 44326,
+  "runtime_probe_occurrences": 117142,
+  "accepted_bulk117_001_expected_targets_matched": 1000,
+  "inventory_records": 52595,
+  "inventory_unique_sources": 52564,
+  "duplicate_keys_across_providers": 31,
+  "regex_definitions": 1231,
+  "original_production_and_previous_evidence_hashes_unchanged": true,
+  "jar_sha256": "b91d8b0c2567b6afac49c5f11f7b09a5157fa4cd7a83d126ad89bcb88779b761",
+  "scope": "Source provenance/accounting and offline diagnostics, not an editorial review of all targets or an in-game test."
+}

@@ -1,0 +1,62 @@
+{
+  "run_id": "review117-005",
+  "recorded_at": "2026-10-21T16:38:55+07:00",
+  "source_verification": {
+    "raw_sha256": "7e5db03051e3c5967d28af99d8ea6c66f584663b79203abf1775201d20051554",
+    "matched_candidates": 10,
+    "normalization": "strip Minecraft legacy colors; unescape UI template literal comma \\,"
+  },
+  "baseline": {
+    "command": "TestMelodyTitles117 --expect-missing --fixture=translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+    "exit_code": 0,
+    "assertions": 728,
+    "correct_complete_translations_missing": 10
+  },
+  "gradle": {
+    "command": "./gradlew.bat verifyTestMelodyTitles117 verifyTestPlayerTextProtection verifyTestPerformanceCaches",
+    "exit_code": 0,
+    "melody_assertions": 1985,
+    "player_assertions": 275,
+    "cache_assertions": 6926,
+    "total_unique_suite_assertions": 9186
+  },
+  "initial_test_setup_failure": "Percent test initially expected non-inherited child click style while constructing a styled parent. Independent sibling spans now represent distinct published styles. Production guards unchanged. No JAR existed until corrected test passed.",
+  "artifact": {
+    "command": "./gradlew.bat jar writeVerificationClasspath; java TestMelodyTitles117 with0.16.6 JAR first and main classes/resources excluded",
+    "exit_code": 0,
+    "assertions": 1985,
+    "sha256": "c010d54a8d31016456a04d7e827fde4f75fb3175728442f6e6caa6807b1905cc",
+    "bytes": 2947216,
+    "version": "0.16.6-dev",
+    "changed_zip_entries": [
+      "data/witherskyru/quest-interface.tsv",
+      "fabric.mod.json",
+      "ru/wither/skyru/ScreenLabels$Label.class",
+      "ru/wither/skyru/ScreenLabels.class"
+    ],
+    "identical_zip_entries": 266,
+    "nested_Label_javap_c_p_identical": true
+  },
+  "duplicates": {
+    "La Vie en Rose": 1,
+    "Easy Song": 1,
+    "Hard Song": 1,
+    "Expert Song": 1,
+    "Virtuoso Song": 1,
+    "Best:": 1,
+    "Click to select song!": 1,
+    "Useful Tip!": 1,
+    "If you are having lag issues, try": 1
+  },
+  "synthetic_percent_values": [
+    "0%",
+    "0.0%",
+    "37.5%",
+    "99.99%",
+    "100%!",
+    "100.00%!"
+  ],
+  "synthetic_values_are_not_additional_corpus_lines": true,
+  "in_game": "NOT_RUN",
+  "fps_frametime_heap": "NOT_MEASURED"
+}

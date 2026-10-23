@@ -1,0 +1,43 @@
+{
+  "reason": "Independent editorial review before final acceptance, no runtime-derived targets",
+  "candidate14_sha256": "9404a0f4a7b24de11ad28a6646004cb587637327e3d306ef087a5968e7261f00",
+  "previous_fixture_sha256": "e978c8cf23b475e939c9d8122043f803a1f7ca9389c58be59f4b14ebba2cb1b1",
+  "updates": [
+    {
+      "batch_index": 0,
+      "before": "Если включены этот параметр и «Рыболовная панель»,",
+      "after": "Если включены этот параметр и «Fishing Overlay»,",
+      "reason": "Preserve the actual currently English setting label quoted by the instruction"
+    },
+    {
+      "batch_index": 244,
+      "before": "превращать всё, к чему прикасается, в золото. Он надевал",
+      "after": "касался, в золото. Он использовал",
+      "reason": "Translate the literal continuation without duplicating the previous line"
+    },
+    {
+      "batch_index": 323,
+      "before": "При попадании ненадолго оглушает любого",
+      "after": "При попадании оглушает любого",
+      "reason": "Remove duplicate short-duration adverb already retained on the following line"
+    },
+    {
+      "batch_index": 681,
+      "before": "Предложит сыграть в прятки",
+      "after": "Предложит сыграть с вами",
+      "reason": "Russian Hide and Seek is one game: redistribute the two adjacent translated rows"
+    },
+    {
+      "batch_index": 682,
+      "before": "и поиск. Странно.",
+      "after": "в прятки. Странно.",
+      "reason": "Complete the Russian game name on the second source row"
+    },
+    {
+      "batch_index": 1101,
+      "before": "Воскресите через 50 секунд.",
+      "after": "Возродитесь через 50 секунд.",
+      "reason": "Revive yourself needs a reflexive Russian verb"
+    }
+  ]
+}

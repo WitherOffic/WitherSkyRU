@@ -1,0 +1,62 @@
+{
+  "matched_after_documented_outer_padding_normalization": 1000,
+  "preserved_source_padding_cases": [
+    {
+      "batch_index": 77,
+      "source": "- Chillblade and Chillshot (VI)",
+      "expected_unpadded": "- Ледяной клинок и Ледяной выстрел (VI)",
+      "observed": [
+        " - Ледяной клинок и Ледяной выстрел (VI)"
+      ]
+    },
+    {
+      "batch_index": 85,
+      "source": "- Librarian Garden Visitor (IV)",
+      "expected_unpadded": "- Библиотекарь — посетитель Сада (IV)",
+      "observed": [
+        " - Библиотекарь — посетитель Сада (IV)"
+      ]
+    },
+    {
+      "batch_index": 86,
+      "source": "- Ravenous Rhino Garden Visitor (IV)",
+      "expected_unpadded": "- Прожорливый носорог — посетитель Сада (IV)",
+      "observed": [
+        " - Прожорливый носорог — посетитель Сада (IV)"
+      ]
+    },
+    {
+      "batch_index": 91,
+      "source": "- Agatha's Shop (Level 3+) (III)",
+      "expected_unpadded": "- Магазин Agatha (уровень 3+) (III)",
+      "observed": [
+        " - Магазин Agatha (уровень 3+) (III)"
+      ]
+    },
+    {
+      "batch_index": 99,
+      "source": "- Beetle Pest (I)",
+      "expected_unpadded": "- Вредитель-жук (I)",
+      "observed": [
+        " - Вредитель-жук (I)"
+      ]
+    },
+    {
+      "batch_index": 100,
+      "source": "- Miria's Shop (Level 3+) (I)",
+      "expected_unpadded": "- Магазин Miria (уровень 3+) (I)",
+      "observed": [
+        " - Магазин Miria (уровень 3+) (I)"
+      ]
+    },
+    {
+      "batch_index": 109,
+      "source": "- Nemo's Shop (IV)",
+      "expected_unpadded": "- Магазин Nemo (IV)",
+      "observed": [
+        " - Магазин Nemo (IV)"
+      ]
+    }
+  ],
+  "scope": "Source identity already trims outer padding. Padding is retained by the renderer, not a translation failure. Independent fixture targets unchanged; no style or in-game validation implied."
+}

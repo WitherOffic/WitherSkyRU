@@ -1,6 +1,8 @@
 # Историческая локальная справка до переноса на 26.2
 
-Актуальная версия этой ветки: **0.16.0-dev / Minecraft 26.2**. См. [README.md](README.md) и [отчёт переноса](docs/MIGRATION_26_2_RU.md). Ниже сохранён прежний текст для истории; его номера версий и результаты не являются отчётом о 26.2.
+> **Текущая разработка: SkyblockRPG_RU, Minecraft26.2/Fabric/Java25.** Mod ID/config остаются `witherskyru`. Публичный русификатор не содержит сетевой телеметрии, регистрации или встроенного Collector. Независимый `skyblockrpgru_collector` необязателен и не вызывается переводчиком. Актуальные сборка/проверки: [DEV_STATUS](docs/DEV_STATUS.md), [граница публичного JAR](docs/PUBLIC_DISTRIBUTION.md). Старые версии ниже — история. Подготовка публикации: [CurseForge](docs/CURSEFORGE_RELEASE.md).
+
+Актуальная версия этой ветки: **SkyblockRPG_RU 0.16.21-dev / Minecraft 26.2**. См. [README.md](README.md) и [отчёт переноса](docs/MIGRATION_26_2_RU.md). Ниже сохранён прежний текст для истории; его номера версий и результаты не являются отчётом о 26.2.
 
 ## WitherSkyRU 0.15.76-dev — Minecraft 26.1.2 / Fabric
 

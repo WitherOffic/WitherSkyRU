@@ -13,7 +13,7 @@ public final class SkyRuSettingsScreen extends Screen {
     private TooltipFont.Choice selected = TooltipFont.choice();
     private boolean wrap = SkyRuClient.tooltipWrap();
     private String error;
-    public SkyRuSettingsScreen(Screen parent) { super(Component.literal("WitherSkyRU — шрифт")); this.parent = parent; }
+    public SkyRuSettingsScreen(Screen parent) { super(Component.literal("SkyblockRPG_RU — шрифт")); this.parent = parent; }
     @Override protected void init() {
         int boxWidth = Math.min(280, width - 24), left = (width - boxWidth) / 2;
         int top = Math.max(30, height / 2 - 80);
@@ -29,7 +29,7 @@ public final class SkyRuSettingsScreen extends Screen {
         int half = (boxWidth - 4) / 2;
         addRenderableWidget(Button.builder(Component.literal("Сохранить"), button -> {
             try { TooltipFont.save(selected, wrap); onClose(); }
-            catch (Exception ex) { error = "Не удалось сохранить настройки"; System.err.println("[WitherSkyRU] Font settings save failed: " + ex); }
+            catch (Exception ex) { error = "Не удалось сохранить настройки"; System.err.println("[SkyblockRPG_RU] Font settings save failed: " + ex); }
         }).bounds(left, Math.min(height - 26, top + 148), half, 20).build());
         addRenderableWidget(Button.builder(Component.literal("Отмена"), button -> onClose())
             .bounds(left + half + 4, Math.min(height - 26, top + 148), half, 20).build());
@@ -44,7 +44,7 @@ public final class SkyRuSettingsScreen extends Screen {
         graphics.centeredText(font, sample, width / 2, top + 80, 0xff55ffff);
         graphics.centeredText(font, "Текущий — шрифт игры/ресурспака", width / 2, top + 100, 0xffaaaaaa);
         graphics.centeredText(font, "Только обычные подсказки предметов", width / 2, top + 114, 0xffaaaaaa);
-        if (error != null) graphics.centeredText(font, error, width / 2, top + 130, 0xffff5555);
+        if (error != null) graphics.centeredText(font, error, width / 2, top + 68, 0xffff5555);
     }
     @Override public void onClose() { minecraft.gui.setScreen(parent); }
 }

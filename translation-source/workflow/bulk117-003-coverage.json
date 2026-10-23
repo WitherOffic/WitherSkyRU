@@ -1,0 +1,37 @@
+{
+  "previous_size": 45326,
+  "expanded_size": 46325,
+  "new_outside_previous_corpus": 999,
+  "added_probe_groups": 546,
+  "before_same_expanded_corpus": {
+    "total": 46325,
+    "unchanged_review": 4288,
+    "registered_exact": 40241,
+    "changed_without_exact_review": 1796,
+    "exact_percent": 86.8667,
+    "offline_changed": 39860,
+    "exact_but_unchanged": 2177,
+    "identity_exact_only": 9,
+    "russian_exact_target": 40230,
+    "flagged_source_review": 1591
+  },
+  "after": {
+    "total": 46325,
+    "unchanged_review": 3289,
+    "registered_exact": 41241,
+    "changed_without_exact_review": 1795,
+    "exact_percent": 89.0254,
+    "offline_changed": 40860,
+    "exact_but_unchanged": 2176,
+    "identity_exact_only": 9,
+    "russian_exact_target": 41230,
+    "flagged_source_review": 1591
+  },
+  "old_changed_sources_lost": [],
+  "changed_source_cases": 1001,
+  "new_exact_rows_with_prior_other_context_output": [
+    "first hit from an enemy."
+  ],
+  "observed_occurrences": 119143,
+  "method": "Actual old0.16.10/new0.16.12 JARs, identical expanded frozen probes; exact Russian key coverage is not whole-game/editorial coverage."
+}

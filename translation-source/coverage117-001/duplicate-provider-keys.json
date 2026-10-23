@@ -1,0 +1,378 @@
+{
+  "same_source_multiple_providers": {
+    "Bring 25 Wheat to Sam": [
+      {
+        "source": "Bring 25 Wheat to Sam",
+        "translation": "Принесите Sam 25 единиц пшеницы",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Bring 25 Wheat to Sam",
+        "translation": "Принесите Sam 25 единиц пшеницы",
+        "provider": "questObjectives"
+      }
+    ],
+    "Bring Glowing Mushrooms to Moby": [
+      {
+        "source": "Bring Glowing Mushrooms to Moby",
+        "translation": "Принесите Moby светящиеся грибы",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Bring Glowing Mushrooms to Moby",
+        "translation": "Принесите Moby светящиеся грибы",
+        "provider": "questObjectives"
+      }
+    ],
+    "Bring Sam 100 Wheat": [
+      {
+        "source": "Bring Sam 100 Wheat",
+        "translation": "Принесите Sam 100 единиц пшеницы",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Bring Sam 100 Wheat",
+        "translation": "Принесите Sam 100 единиц пшеницы",
+        "provider": "questObjectives"
+      }
+    ],
+    "Clean your Garden Plot": [
+      {
+        "source": "Clean your Garden Plot",
+        "translation": "Очистите свой участок Сада",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Clean your Garden Plot",
+        "translation": "Очистите свой участок Сада",
+        "provider": "questObjectives"
+      }
+    ],
+    "Collect resources for Sam": [
+      {
+        "source": "Collect resources for Sam",
+        "translation": "Соберите ресурсы для Sam",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Collect resources for Sam",
+        "translation": "Соберите ресурсы для Sam",
+        "provider": "questObjectives"
+      }
+    ],
+    "Complete Beth's commission": [
+      {
+        "source": "Complete Beth's commission",
+        "translation": "Выполните поручение Beth",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Complete Beth's commission",
+        "translation": "Выполните поручение Beth",
+        "provider": "questObjectives"
+      }
+    ],
+    "Find Sam at the Shop Stand": [
+      {
+        "source": "Find Sam at the Shop Stand",
+        "translation": "Найдите Sam у торговой лавки",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Find Sam at the Shop Stand",
+        "translation": "Найдите Sam у торговой лавки",
+        "provider": "questObjectives"
+      }
+    ],
+    "Find out what Sam wants": [
+      {
+        "source": "Find out what Sam wants",
+        "translation": "Узнайте, что нужно Sam",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Find out what Sam wants",
+        "translation": "Узнайте, что нужно Sam",
+        "provider": "questObjectives"
+      }
+    ],
+    "Give Sam the Greenhouse Blueprint": [
+      {
+        "source": "Give Sam the Greenhouse Blueprint",
+        "translation": "Передайте Sam чертёж теплицы",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Give Sam the Greenhouse Blueprint",
+        "translation": "Передайте Sam чертёж теплицы",
+        "provider": "questObjectives"
+      }
+    ],
+    "Go to your Garden Plot": [
+      {
+        "source": "Go to your Garden Plot",
+        "translation": "Идите на свой участок Сада",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Go to your Garden Plot",
+        "translation": "Идите на свой участок Сада",
+        "provider": "questObjectives"
+      }
+    ],
+    "Open a Shop Stand with Sam": [
+      {
+        "source": "Open a Shop Stand with Sam",
+        "translation": "Откройте торговую лавку вместе с Sam",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Open a Shop Stand with Sam",
+        "translation": "Откройте торговую лавку вместе с Sam",
+        "provider": "questObjectives"
+      }
+    ],
+    "Paste the Greenhouse on a plot at the Desk": [
+      {
+        "source": "Paste the Greenhouse on a plot at the Desk",
+        "translation": "Разместите теплицу на участке через стол",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Paste the Greenhouse on a plot at the Desk",
+        "translation": "Разместите теплицу на участке через стол",
+        "provider": "questObjectives"
+      }
+    ],
+    "Purchase Fuel from SkyMart": [
+      {
+        "source": "Purchase Fuel from SkyMart",
+        "translation": "Купите топливо в SkyMart",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Purchase Fuel from SkyMart",
+        "translation": "Купите топливо в SkyMart",
+        "provider": "questObjectives"
+      }
+    ],
+    "Purchase a Garden Plot at the Desk": [
+      {
+        "source": "Purchase a Garden Plot at the Desk",
+        "translation": "Купите участок Сада через меню стола",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Purchase a Garden Plot at the Desk",
+        "translation": "Купите участок Сада через меню стола",
+        "provider": "questObjectives"
+      }
+    ],
+    "Put Fuel in the Composter": [
+      {
+        "source": "Put Fuel in the Composter",
+        "translation": "Положите топливо в компостер",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Put Fuel in the Composter",
+        "translation": "Положите топливо в компостер",
+        "provider": "questObjectives"
+      }
+    ],
+    "Reach Garden Level IV": [
+      {
+        "source": "Reach Garden Level IV",
+        "translation": "Достигните уровня Сада IV",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Reach Garden Level IV",
+        "translation": "Достигните уровня Сада IV",
+        "provider": "questObjectives"
+      }
+    ],
+    "Serve your first Customer": [
+      {
+        "source": "Serve your first Customer",
+        "translation": "Обслужите первого покупателя",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Serve your first Customer",
+        "translation": "Обслужите первого покупателя",
+        "provider": "questObjectives"
+      }
+    ],
+    "Show Jeff a Specialized Farming Tool": [
+      {
+        "source": "Show Jeff a Specialized Farming Tool",
+        "translation": "Покажите Jeff специализированный фермерский инструмент",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Show Jeff a Specialized Farming Tool",
+        "translation": "Покажите Jeff специализированный фермерский инструмент",
+        "provider": "questObjectives"
+      }
+    ],
+    "Take Compost from the Composter": [
+      {
+        "source": "Take Compost from the Composter",
+        "translation": "Заберите готовый компост из компостера",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Take Compost from the Composter",
+        "translation": "Заберите готовый компост из компостера",
+        "provider": "questObjectives"
+      }
+    ],
+    "Take a seat in the Briefing Room": [
+      {
+        "source": "Take a seat in the Briefing Room",
+        "translation": "Займите место в комнате инструктажа",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Take a seat in the Briefing Room",
+        "translation": "Займите место в комнате инструктажа",
+        "provider": "questObjectives"
+      }
+    ],
+    "Talk to Elizabeth": [
+      {
+        "source": "Talk to Elizabeth",
+        "translation": "Поговорите с Элизабет",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Talk to Elizabeth",
+        "translation": "Поговорите с Элизабет",
+        "provider": "questObjectives"
+      }
+    ],
+    "Talk to Jeff in your Barn": [
+      {
+        "source": "Talk to Jeff in your Barn",
+        "translation": "Поговорите с Jeff в своём амбаре",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Talk to Jeff in your Barn",
+        "translation": "Поговорите с Jeff в своём амбаре",
+        "provider": "questObjectives"
+      }
+    ],
+    "Talk to Jimmy": [
+      {
+        "source": "Talk to Jimmy",
+        "translation": "Поговорите с Jimmy",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Talk to Jimmy",
+        "translation": "Поговорите с Jimmy",
+        "provider": "questObjectives"
+      }
+    ],
+    "Talk to Sam": [
+      {
+        "source": "Talk to Sam",
+        "translation": "Поговорите с Sam",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Talk to Sam",
+        "translation": "Поговорите с Sam",
+        "provider": "questObjectives"
+      }
+    ],
+    "Talk to Sam at the Composter": [
+      {
+        "source": "Talk to Sam at the Composter",
+        "translation": "Поговорите с Sam у компостера",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Talk to Sam at the Composter",
+        "translation": "Поговорите с Sam у компостера",
+        "provider": "questObjectives"
+      }
+    ],
+    "Talk to the Security Clerk": [
+      {
+        "source": "Talk to the Security Clerk",
+        "translation": "Поговорите со служащим безопасности",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Talk to the Security Clerk",
+        "translation": "Поговорите со служащим безопасности",
+        "provider": "questObjectives"
+      }
+    ],
+    "This feature is currently disabled!": [
+      {
+        "source": "This feature is currently disabled!",
+        "translation": "Эта возможность сейчас отключена!",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "This feature is currently disabled!",
+        "translation": "Эта функция временно отключена!",
+        "provider": "questObjectives"
+      }
+    ],
+    "Use the Garden Chip": [
+      {
+        "source": "Use the Garden Chip",
+        "translation": "Используйте чип Сада",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Use the Garden Chip",
+        "translation": "Используйте чип Сада",
+        "provider": "questObjectives"
+      }
+    ],
+    "Wait for Beth to revisit your Garden": [
+      {
+        "source": "Wait for Beth to revisit your Garden",
+        "translation": "Дождитесь следующего визита Beth в ваш Сад",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Wait for Beth to revisit your Garden",
+        "translation": "Дождитесь следующего визита Beth в ваш Сад",
+        "provider": "questObjectives"
+      }
+    ],
+    "Wait for Beth to revisit your Garden again": [
+      {
+        "source": "Wait for Beth to revisit your Garden again",
+        "translation": "Дождитесь следующего визита Beth в ваш Сад",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "Wait for Beth to revisit your Garden again",
+        "translation": "Дождитесь следующего визита Beth в ваш Сад",
+        "provider": "questObjectives"
+      }
+    ],
+    "You can only use this item on your private island!": [
+      {
+        "source": "You can only use this item on your private island!",
+        "translation": "Этот предмет можно использовать только на личном острове!",
+        "provider": "OfflineDictionary.exact"
+      },
+      {
+        "source": "You can only use this item on your private island!",
+        "translation": "Этот предмет можно использовать только на вашем личном острове!",
+        "provider": "questObjectives"
+      }
+    ]
+  },
+  "conflicting_target_count": 2,
+  "note": "Different routes may intentionally share a key. Two wording variants require editorial consistency review, not evidence of a functional crash or duplicate new translation."
+}

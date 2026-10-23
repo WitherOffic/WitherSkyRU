@@ -1,0 +1,40 @@
+{
+  "run_id": "bulk117-007",
+  "accepted_old_queue_records": [
+    {
+      "id": 1433,
+      "source": "Whale",
+      "source_id": "c976b88a482c0024dc66a5aab2889bbaedfabd15d6fa8ecbfb6ef1433bbbad89",
+      "current_pinned_api_equal": true,
+      "pinned_api_sha256": "adb76eae35cbce2f18f01b947f9d914967b36e53895adf615e39efbd9d2c4fe8",
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Flex_Helmet/UI?oldid=492408",
+        "page": "Flex Helmet/UI",
+        "revision": 492408,
+        "raw_sha256": "9A6612A36AFDB7A0A926B84D3702C193FE053F73540C12336677EB361D8DFEEB",
+        "template_start": 0,
+        "template_end": 2533,
+        "template_name": "UI",
+        "template_raw_sha256": "8814a2580b6c2aad9d41e41bba54549f16879325f159872b79fcf9faa43ce39d",
+        "slot": "2, 7",
+        "menu": "Flex Helmet",
+        "slot_raw": "Flex Helmet (Whale), none;none, &aWhale, &7Fact: Antarctic blue whales can/&7weigh 112\\,000kg (250\\,000lb) and/&7still swim at 25+ km\\/h (18/&7mp\\/h).//&eClick to select this animal!"
+      }
+    }
+  ],
+  "within_1000_not_additional": true,
+  "secret_achievement_deferred": {
+    "id": 1309,
+    "metadata": {
+      "points": 10,
+      "name": "The Ring",
+      "description": "???",
+      "secret": true,
+      "gamePercentUnlocked": 0.20829665295876715,
+      "globalPercentUnlocked": 0.10035330223622406
+    },
+    "pinned_api_sha256": "397687ce9117a6483d68a75e1d360f328a9079cc103b951b22d08ffc1d50a14b",
+    "return_condition": "new confirmed real UI or user-supplied independent Collector observation with sufficient nonprivate context"
+  },
+  "historical_origins_preserved": true
+}

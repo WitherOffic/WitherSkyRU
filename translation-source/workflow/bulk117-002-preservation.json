@@ -1,0 +1,12 @@
+{
+  "inverse_own_edits_reconstruct_previous_checkpoint_hashes": {
+    "build.gradle": true,
+    "src/main/resources/fabric.mod.json": true,
+    "AGENTS.md": true,
+    "src/main/java/ru/wither/skyru/BulkLore117.java": true,
+    "src/main/resources/data/witherskyru/lore.tsv": true,
+    "docs/DEV_STATUS.md": true,
+    "translation-source/BULK117_PROGRESS.json": true
+  },
+  "scope": "Own edits inverted in memory only; no source reset/stash/rewrite; LF/CRLF and final-newline candidates compared to original SHA256. All other old checkpoint hashes verified directly."
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "url": "https://api.hypixel.net/v2/resources/skyblock/items",
+    "retrieved_utc": "2026-10-21T10:52:58.566784+00:00",
+    "file": "api-resources-skyblock-items.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/skyblock/items",
+    "bytes": 4810899,
+    "sha256": "adb76eae35cbce2f18f01b947f9d914967b36e53895adf615e39efbd9d2c4fe8",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/v2/resources/skyblock/skills",
+    "retrieved_utc": "2026-10-21T10:52:59.603716+00:00",
+    "file": "api-resources-skyblock-skills.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/skyblock/skills",
+    "bytes": 115751,
+    "sha256": "e9b7e75a1f8e1f209c034959b397f5975560b72302ec5fc696c08c36be11710d",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/v2/resources/skyblock/collections",
+    "retrieved_utc": "2026-10-21T10:52:59.998207+00:00",
+    "file": "api-resources-skyblock-collections.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/skyblock/collections",
+    "bytes": 82956,
+    "sha256": "c8d77a3d89dc7c44fff1c564bc6aa5a22929f7e44a736d5a3b060e79f1cbea90",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/v2/resources/skyblock/bingo",
+    "retrieved_utc": "2026-10-21T10:53:00.376028+00:00",
+    "file": "api-resources-skyblock-bingo.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/skyblock/bingo",
+    "bytes": 5037,
+    "sha256": "8cf8e02a1bd4185098eae6ddb3fd1de62ff9b91e958c38e70c87d3fe10b9042c",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/v2/resources/skyblock/election",
+    "retrieved_utc": "2026-10-21T10:53:00.678476+00:00",
+    "file": "api-resources-skyblock-election.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/skyblock/election",
+    "bytes": 2406,
+    "sha256": "bbbe44c72482c7999a5cae89fd9bc868d3f304ead49f23863e9ae39b49021433",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/v2/resources/achievements",
+    "retrieved_utc": "2026-10-21T10:53:00.996329+00:00",
+    "file": "api-resources-achievements.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/achievements",
+    "bytes": 433937,
+    "sha256": "397687ce9117a6483d68a75e1d360f328a9079cc103b951b22d08ffc1d50a14b",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/v2/resources/packs",
+    "retrieved_utc": "2026-10-21T10:53:01.619313+00:00",
+    "file": "api-resources-packs.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/packs",
+    "bytes": 624,
+    "sha256": "140d8877991bed20d364809008bfd8c02009247da7ce6e098172250c020c9f4a",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/v2/resources/quests",
+    "retrieved_utc": "2026-10-21T11:05:20.684748+00:00",
+    "file": "api-resources-quests.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/quests",
+    "bytes": 56139,
+    "sha256": "f2b8e25f04a97d57a27e380ed65bda7766ea0a15ba02a7858c7e49f8dc5ee979",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/v2/resources/challenges",
+    "retrieved_utc": "2026-10-21T11:05:21.093702+00:00",
+    "file": "api-resources-challenges.json",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/v2/resources/challenges",
+    "bytes": 14212,
+    "sha256": "9909f3ca596069bc1f915a22afc3a84ce11ca4ce9b1b009a20dfd8ec344bbad6",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.hypixel.net/",
+    "retrieved_utc": "2026-10-21T10:53:01.901390+00:00",
+    "file": "api-documentation.html",
+    "status": 200,
+    "resolved_url": "https://api.hypixel.net/",
+    "bytes": 1410598,
+    "sha256": "ef7088a5b2eed9c077be1a315ab99223cadabd56be5e86da44c7f8664350ae25",
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://developer.hypixel.net/policies/",
+    "retrieved_utc": "2026-10-21T10:53:02.686661+00:00",
+    "file": "api-policy.html",
+    "status": 200,
+    "resolved_url": "https://developer.hypixel.net/policies/",
+    "bytes": 44587,
+    "sha256": "3313a092d3ee09b295ca9cd8cd9d1d226268eae0b63e92cb3b4a560d582bda0a",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://hypixelskyblock.minecraft.wiki/api.php?action=query&meta=siteinfo&format=json",
+    "retrieved_utc": "2026-10-21T10:53:03.122456+00:00",
+    "file": "community-siteinfo.json",
+    "status": 502,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://api.github.com/repos/NotEnoughUpdates/NotEnoughUpdates-REPO/commits/master",
+    "retrieved_utc": "2026-10-21T10:53:03.536075+00:00",
+    "file": "head-NotEnoughUpdates--NotEnoughUpdates-REPO.json",
+    "status": 200,
+    "resolved_url": "https://api.github.com/repos/NotEnoughUpdates/NotEnoughUpdates-REPO/commits/master",
+    "bytes": 5833,
+    "sha256": "fb1f4626e026b78d26c91d61929e01cc25c5de26d90ff3f37e0c9b3423e28094",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.github.com/repos/SkyHanniStudios/SkyHanni-REPO/commits/main",
+    "retrieved_utc": "2026-10-21T10:53:04.107006+00:00",
+    "file": "head-SkyHanniStudios--SkyHanni-REPO.json",
+    "status": 200,
+    "resolved_url": "https://api.github.com/repos/SkyHanniStudios/SkyHanni-REPO/commits/main",
+    "bytes": 5766,
+    "sha256": "ce1f5c9707fe17c6ac324555d4568ac859301081635fe5fcaf20bdaaccb80699",
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.github.com/repos/SkyblockerMod/Skyblocker-Assets/commits/main",
+    "retrieved_utc": "2026-10-21T10:53:04.576180+00:00",
+    "file": "head-SkyblockerMod--Skyblocker-Assets.json",
+    "status": 200,
+    "resolved_url": "https://api.github.com/repos/SkyblockerMod/Skyblocker-Assets/commits/main",
+    "bytes": 13556,
+    "sha256": "7fb736a747f866261bec40d543610c3202cc0fccd38187e947878c03e1c5c9ca",
+    "content_type": "application/json; charset=utf-8"
+  }
+]

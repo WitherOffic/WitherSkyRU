@@ -1,0 +1,15 @@
+{
+  "version": "0.16.2-dev",
+  "changes": [
+    {
+      "file": "tests/current115/TestNpcLiterals115.java",
+      "old_story_count": 10803,
+      "new_story_count": 10813,
+      "reason": "Ten source-backed literals appended; prior accepted keys/targets unchanged. Historical tests/TestNpcLiterals115.java untouched."
+    }
+  ],
+  "acceptance_fixture": "NPC_ACCEPTANCE_0.16.2.json",
+  "test_harness_change": "Style runs are contiguous; independent semantic anchors checked, including term overrides. Prior four fixtures retained.",
+  "test_harness_guard_cases": "Published contiguous style runs; positive fragmentation uses at most seven characters per component; over128-node trees are checked as deliberate negative cases. Runtime limit remains128.",
+  "semantic_events": "Each reviewed semantic anchor has its own click/hover/insertion token, distinct from other anchors and body, for both fresh-style seeds."
+}

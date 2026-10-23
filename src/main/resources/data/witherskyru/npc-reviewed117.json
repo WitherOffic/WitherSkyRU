@@ -1,0 +1,209 @@
+{
+  "format_version": 1,
+  "language": "ru",
+  "scope": "Reviewed117 literals. Source alpha/update markers retained per record; not live-packet certification.",
+  "records": [
+    {
+      "source": "[NPC] Calvin: Hey, you're a familiar face!",
+      "translation": "[NPC] Calvin: О, знакомое лицо!",
+      "speaker": "Calvin",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Calvin?oldid=861049",
+      "source_revision": 861049,
+      "source_raw_sha256": "3d9f4789d3e4862e18871b61df3a3854da813299713baa63eb5eef6a228224d0",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    },
+    {
+      "source": "[NPC] Calvin: I don't have any Returning Player Rewards for you right now. Thanks for playing SkyBlock!",
+      "translation": "[NPC] Calvin: Сейчас у меня нет для тебя наград за возвращение. Спасибо, что играешь в SkyBlock!",
+      "speaker": "Calvin",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Calvin?oldid=861049",
+      "source_revision": 861049,
+      "source_raw_sha256": "3d9f4789d3e4862e18871b61df3a3854da813299713baa63eb5eef6a228224d0",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    },
+    {
+      "source": "[NPC] Ghost of Game Agent: I need something to pass the time while I wait to be reincarnated.",
+      "translation": "[NPC] Ghost of Game Agent: Нужно чем-то заняться, пока я жду перерождения.",
+      "speaker": "Ghost of Game Agent",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Game_Agent?oldid=860695",
+      "source_revision": 860695,
+      "source_raw_sha256": "5f2897d0de3cdc5531ad95080a67caf639ac3ecd4ed3b5e296355f60f46b2dcf",
+      "source_state": "alpha_documented"
+    },
+    {
+      "source": "[NPC] Ghost of Game Agent: Well hopefully I can't bore myself to death given the fact I'm already dead!",
+      "translation": "[NPC] Ghost of Game Agent: Что ж, надеюсь, от скуки я не умру — я ведь уже мёртв!",
+      "speaker": "Ghost of Game Agent",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Game_Agent?oldid=860695",
+      "source_revision": 860695,
+      "source_raw_sha256": "5f2897d0de3cdc5531ad95080a67caf639ac3ecd4ed3b5e296355f60f46b2dcf",
+      "source_state": "alpha_documented"
+    },
+    {
+      "source": "[NPC] Ghost of Warren: Curse your investments!",
+      "translation": "[NPC] Ghost of Warren: Будь прокляты твои вложения!",
+      "speaker": "Ghost of Warren",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Warren?oldid=860847",
+      "source_revision": 860847,
+      "source_revision_timestamp": "2026-10-19T17:35:41Z",
+      "source_raw_sha256": "7c159ffdddeccd1bcf1e10307cac655d9332a50489ad96e21090b6c5421eb435",
+      "source_state": "alpha_documented"
+    },
+    {
+      "source": "[NPC] Ghost of Warren: Even in death I am obsessed with the prospect of something that just keeps growing, and growing, and growing.",
+      "translation": "[NPC] Ghost of Warren: Даже после смерти меня не отпускает мысль о том, что может расти, расти и расти без конца.",
+      "speaker": "Ghost of Warren",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Warren?oldid=860847",
+      "source_revision": 860847,
+      "source_revision_timestamp": "2026-10-19T17:35:41Z",
+      "source_raw_sha256": "7c159ffdddeccd1bcf1e10307cac655d9332a50489ad96e21090b6c5421eb435",
+      "source_state": "alpha_documented"
+    },
+    {
+      "source": "[NPC] Ghost of Warren: These look promising, thanks!",
+      "translation": "[NPC] Ghost of Warren: Выглядит многообещающе, спасибо!",
+      "speaker": "Ghost of Warren",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Warren?oldid=860847",
+      "source_revision": 860847,
+      "source_revision_timestamp": "2026-10-19T17:35:41Z",
+      "source_raw_sha256": "7c159ffdddeccd1bcf1e10307cac655d9332a50489ad96e21090b6c5421eb435",
+      "source_state": "alpha_documented"
+    },
+    {
+      "source": "[NPC] Pesthunter Pamela: Hi! I want to reforge my Peony Bracelet to Blooming. Would you happen to have a Flowering Bouquet?",
+      "translation": "[NPC] Pesthunter Pamela: Привет! Хочу наложить на свой браслет пиона перековку «Цветущий». У тебя случайно нет цветущего букета?",
+      "speaker": "Pesthunter Pamela",
+      "tag": "NPC",
+      "style_anchors": [
+        {
+          "source": "Peony Bracelet",
+          "target": "браслет пиона"
+        },
+        {
+          "source": "Blooming",
+          "target": "«Цветущий»"
+        },
+        {
+          "source": "Flowering Bouquet",
+          "target": "цветущего букета"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Pesthunter_Pamela?oldid=861127",
+      "source_revision": 861127,
+      "source_revision_timestamp": "2026-10-20T15:24:55Z",
+      "source_raw_sha256": "6134f9c747b0426b0522b8dda5ba6eb2d81b06ffd9aca6c11d680c9e959782fe",
+      "source_state": "page_marked_alpha_update"
+    },
+    {
+      "source": "[NPC] Sam: I hope you aren't denying too many Visitors...",
+      "translation": "[NPC] Sam: Надеюсь, ты не слишком часто отказываешь посетителям...",
+      "speaker": "Sam",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Sam?oldid=859509",
+      "source_revision": 859509,
+      "source_revision_timestamp": "2026-10-16T05:33:55Z",
+      "source_raw_sha256": "1b4c0bd55599f1d652f03b6da5ee2bac1e5f07952abfff6823718c95b52d84e2",
+      "source_state": "page_marked_alpha_update"
+    },
+    {
+      "source": "[NPC] Tyashoi Alchemist: Amateurism at its finest!",
+      "translation": "[NPC] Tyashoi Alchemist: Верх дилетантства!",
+      "speaker": "Tyashoi Alchemist",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist?oldid=860078",
+      "source_revision": 860078,
+      "source_revision_timestamp": "2026-10-17T19:57:22Z",
+      "source_raw_sha256": "7d10657e6297b8e2a6f598583169985c0716573ea72c463661d30e13aa54c1b4",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    },
+    {
+      "source": "[NPC] Tyashoi Alchemist: I see...",
+      "translation": "[NPC] Tyashoi Alchemist: Понятно...",
+      "speaker": "Tyashoi Alchemist",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist?oldid=860078",
+      "source_revision": 860078,
+      "source_revision_timestamp": "2026-10-17T19:57:22Z",
+      "source_raw_sha256": "7d10657e6297b8e2a6f598583169985c0716573ea72c463661d30e13aa54c1b4",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    },
+    {
+      "source": "[NPC] Tyashoi Alchemist: Oh my!",
+      "translation": "[NPC] Tyashoi Alchemist: Вот это да!",
+      "speaker": "Tyashoi Alchemist",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist?oldid=860078",
+      "source_revision": 860078,
+      "source_revision_timestamp": "2026-10-17T19:57:22Z",
+      "source_raw_sha256": "7d10657e6297b8e2a6f598583169985c0716573ea72c463661d30e13aa54c1b4",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    },
+    {
+      "source": "[NPC] Tyashoi Alchemist: Still... progress.",
+      "translation": "[NPC] Tyashoi Alchemist: И всё же... прогресс.",
+      "speaker": "Tyashoi Alchemist",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist?oldid=860078",
+      "source_revision": 860078,
+      "source_revision_timestamp": "2026-10-17T19:57:22Z",
+      "source_raw_sha256": "7d10657e6297b8e2a6f598583169985c0716573ea72c463661d30e13aa54c1b4",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    },
+    {
+      "source": "[NPC] Tyashoi Alchemist: We are only a few more terrible ideas away from success.",
+      "translation": "[NPC] Tyashoi Alchemist: Ещё несколько ужасных идей — и нас ждёт успех.",
+      "speaker": "Tyashoi Alchemist",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist?oldid=860078",
+      "source_revision": 860078,
+      "source_revision_timestamp": "2026-10-17T19:57:22Z",
+      "source_raw_sha256": "7d10657e6297b8e2a6f598583169985c0716573ea72c463661d30e13aa54c1b4",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    },
+    {
+      "source": "[NPC] Tyashoi Alchemist: Well well well.",
+      "translation": "[NPC] Tyashoi Alchemist: Так-так-так.",
+      "speaker": "Tyashoi Alchemist",
+      "tag": "NPC",
+      "style_anchors": [],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist?oldid=860078",
+      "source_raw_sha256": "7d10657e6297b8e2a6f598583169985c0716573ea72c463661d30e13aa54c1b4",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    },
+    {
+      "source": "[NPC] Ryan: Y'know, someone as stealthy as you could be a useful member of the Campfire Cult.",
+      "translation": "[NPC] Ryan: Знаешь, такой скрытный, как ты, мог бы пригодиться Культу костра.",
+      "speaker": "Ryan",
+      "tag": "NPC",
+      "style_anchors": [
+        {
+          "source": "Campfire Cult",
+          "target": "Культу костра"
+        }
+      ],
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ryan?oldid=837804",
+      "source_raw_sha256": "0986cc922608a07abfe1a7c9eac163e807530444904b622ce1f83f170c64ed66",
+      "source_state": "published_wiki_snapshot_not_live_packet"
+    }
+  ]
+}

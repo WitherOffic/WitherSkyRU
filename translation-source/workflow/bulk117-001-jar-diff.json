@@ -1,0 +1,20 @@
+{
+  "changed": [
+    "data/witherskyru/lore.tsv",
+    "fabric.mod.json",
+    "ru/wither/skyru/OfflineDictionary$ReorderedTitle.class",
+    "ru/wither/skyru/OfflineDictionary$TitleEdit.class",
+    "ru/wither/skyru/OfflineDictionary.class"
+  ],
+  "added": [
+    "data/witherskyru/bulk117-001.json",
+    "ru/wither/skyru/BulkLore117$Match.class",
+    "ru/wither/skyru/BulkLore117$Plan.class",
+    "ru/wither/skyru/BulkLore117.class"
+  ],
+  "removed": [],
+  "unchanged": 265,
+  "old_sha256": "c010d54a8d31016456a04d7e827fde4f75fb3175728442f6e6caa6807b1905cc",
+  "new_sha256": "b91d8b0c2567b6afac49c5f11f7b09a5157fa4cd7a83d126ad89bcb88779b761",
+  "bytes": 3061101
+}

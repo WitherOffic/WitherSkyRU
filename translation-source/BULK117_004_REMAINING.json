@@ -1,0 +1,3276 @@
+{
+  "scope": "79 unaccepted candidates; recheck on final JAR15, not accepted translations",
+  "next_index": 1169,
+  "records": [
+    {
+      "source": "this type take increased damage",
+      "legacy": "§7this type take increased damage",
+      "source_id": "e81570dae2bced530084c12026323db2882f4c430881b047f8007b7d8a34649c",
+      "context_id": "b92a3ed9e40ad1d1134e8071a12896e4479d545ee4acefa9581ce64156839d2f",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ike/UI/Default?oldid=823385",
+          "page": "Ike/UI/Default",
+          "revision": 823385,
+          "raw_sha256": "E55D49231106BA3975B3C2D07BDDAE764365B40D9EC8911AE2E3DFD83D10ABB5",
+          "template_start": 0,
+          "template_end": 7343,
+          "template_name": "UI",
+          "template_raw_sha256": "0fd858aef18569cda0ec71c7a0e6260c322ae903cae6c7c6662eb1d16c629e5c",
+          "slot": "2, 6",
+          "menu": "Collected Mob Types",
+          "slot_raw": "Gray Dye, none, &7 Arthropod, &7Enemies of this type are typically/&7found in the &cSpider's Den&7. Enemies of/&7this type take increased damage/&7from the &9Bane of Arthropods/&9&7enchantment.//&7Rewards:/&5 &8+&31\\,000 &7Combat Experience/&5 &8+&61\\,000 Coins/&5 &8+&b1 SkyBlock XP/&5&o/&cKill an enemy of this type to unlock/&cthese rewards!",
+          "context_id": "b92a3ed9e40ad1d1134e8071a12896e4479d545ee4acefa9581ce64156839d2f",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1169,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Most commonly found flying around.",
+      "legacy": "§7Most commonly found flying around.",
+      "source_id": "366759085ebcbb318838fc03113e0f56e60197010c68a80df9f70b8dba366742",
+      "context_id": "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ike/UI/Default?oldid=823385",
+          "page": "Ike/UI/Default",
+          "revision": 823385,
+          "raw_sha256": "E55D49231106BA3975B3C2D07BDDAE764365B40D9EC8911AE2E3DFD83D10ABB5",
+          "template_start": 0,
+          "template_end": 7343,
+          "template_name": "UI",
+          "template_raw_sha256": "0fd858aef18569cda0ec71c7a0e6260c322ae903cae6c7c6662eb1d16c629e5c",
+          "slot": "2, 2",
+          "menu": "Collected Mob Types",
+          "slot_raw": "Gray Dye, none, &7 Airborne, &7Most commonly found flying around./&7Enemies of this type take increased/&7damage from the &9Gravity &7enchantment.//&7Rewards:/&5 &8+&31\\,000 &7Combat Experience/&5 &8+&61\\,000 Coins/&5 &8+&b1 SkyBlock XP/&5&o/&cKill an enemy of this type to unlock/&cthese rewards!",
+          "context_id": "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1170,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Enemies of this type take increased",
+      "legacy": "§7Enemies of this type take increased",
+      "source_id": "3d1f3b4e7b279ebf0a56dc4d22d6797839c458a9d5623e7ccc01dffa8d6ffdce",
+      "context_id": "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ike/UI/Default?oldid=823385",
+          "page": "Ike/UI/Default",
+          "revision": 823385,
+          "raw_sha256": "E55D49231106BA3975B3C2D07BDDAE764365B40D9EC8911AE2E3DFD83D10ABB5",
+          "template_start": 0,
+          "template_end": 7343,
+          "template_name": "UI",
+          "template_raw_sha256": "0fd858aef18569cda0ec71c7a0e6260c322ae903cae6c7c6662eb1d16c629e5c",
+          "slot": "2, 2",
+          "menu": "Collected Mob Types",
+          "slot_raw": "Gray Dye, none, &7 Airborne, &7Most commonly found flying around./&7Enemies of this type take increased/&7damage from the &9Gravity &7enchantment.//&7Rewards:/&5 &8+&31\\,000 &7Combat Experience/&5 &8+&61\\,000 Coins/&5 &8+&b1 SkyBlock XP/&5&o/&cKill an enemy of this type to unlock/&cthese rewards!",
+          "context_id": "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1171,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Kill an enemy of this type to unlock",
+      "legacy": "§cKill an enemy of this type to unlock",
+      "source_id": "726d569051af05ea0c97a70f3ba1814373580c83d48c1b16d72d4b83f2981228",
+      "context_id": "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781",
+      "context_row_index": 10,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ike/UI/Default?oldid=823385",
+          "page": "Ike/UI/Default",
+          "revision": 823385,
+          "raw_sha256": "E55D49231106BA3975B3C2D07BDDAE764365B40D9EC8911AE2E3DFD83D10ABB5",
+          "template_start": 0,
+          "template_end": 7343,
+          "template_name": "UI",
+          "template_raw_sha256": "0fd858aef18569cda0ec71c7a0e6260c322ae903cae6c7c6662eb1d16c629e5c",
+          "slot": "2, 2",
+          "menu": "Collected Mob Types",
+          "slot_raw": "Gray Dye, none, &7 Airborne, &7Most commonly found flying around./&7Enemies of this type take increased/&7damage from the &9Gravity &7enchantment.//&7Rewards:/&5 &8+&31\\,000 &7Combat Experience/&5 &8+&61\\,000 Coins/&5 &8+&b1 SkyBlock XP/&5&o/&cKill an enemy of this type to unlock/&cthese rewards!",
+          "context_id": "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781",
+          "context_row_index": 10
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1172,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "these rewards!",
+      "legacy": "§cthese rewards!",
+      "source_id": "c7fbe5f35299872fd74cf5ccb5dbe627e8f16fbf841ee832b51a35933cb74bfd",
+      "context_id": "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781",
+      "context_row_index": 11,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ike/UI/Default?oldid=823385",
+          "page": "Ike/UI/Default",
+          "revision": 823385,
+          "raw_sha256": "E55D49231106BA3975B3C2D07BDDAE764365B40D9EC8911AE2E3DFD83D10ABB5",
+          "template_start": 0,
+          "template_end": 7343,
+          "template_name": "UI",
+          "template_raw_sha256": "0fd858aef18569cda0ec71c7a0e6260c322ae903cae6c7c6662eb1d16c629e5c",
+          "slot": "2, 2",
+          "menu": "Collected Mob Types",
+          "slot_raw": "Gray Dye, none, &7 Airborne, &7Most commonly found flying around./&7Enemies of this type take increased/&7damage from the &9Gravity &7enchantment.//&7Rewards:/&5 &8+&31\\,000 &7Combat Experience/&5 &8+&61\\,000 Coins/&5 &8+&b1 SkyBlock XP/&5&o/&cKill an enemy of this type to unlock/&cthese rewards!",
+          "context_id": "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781",
+          "context_row_index": 11
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1173,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "when vacuuming!",
+      "legacy": "§7when vacuuming!",
+      "source_id": "8b7974997f05a00db49534e8aef34ac697ffb6b762c83459941f4874aa0a5211",
+      "context_id": "189b6a6f49d2ea371ef622296aa9935c5713be40f11ce97fc745f766fa718946",
+      "context_row_index": 5,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+          "page": "InfiniVacuum™ Hooverius/UI",
+          "revision": 844655,
+          "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+          "template_start": 21,
+          "template_end": 3938,
+          "template_name": "UI",
+          "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+          "slot": "2, 4",
+          "menu": "Stereo Harmony",
+          "slot_raw": "Gray Dye, none;none, &cCricket Choir, &7When playing\\, &2Cricket Pests &7are more/&7likely to spawn on your &aGarden &7plots!//&7Dropped by &2Cricket Pests &7rarely/&7when vacuuming!//&7&eClick a &aCricket Choir Vinyl &ein your/&einventory to add it to your collection!",
+          "context_id": "189b6a6f49d2ea371ef622296aa9935c5713be40f11ce97fc745f766fa718946",
+          "context_row_index": 5
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1174,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "your inventory to add it to your",
+      "legacy": "§eyour inventory to add it to your",
+      "source_id": "ea1b3f5349c0c02e0cb3fb463bced209c62be10033bc23899ca57c89f1f23d09",
+      "context_id": "367ab52fb952eb4f717ff5e7d47768024aaeff3211a7957a5fd8f20a94fba014",
+      "context_row_index": 8,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+          "page": "InfiniVacuum™ Hooverius/UI",
+          "revision": 844655,
+          "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+          "template_start": 21,
+          "template_end": 3938,
+          "template_name": "UI",
+          "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+          "slot": "2, 6",
+          "menu": "Stereo Harmony",
+          "slot_raw": "Gray Dye, none;none, &cRodent Revolution, &7When playing\\, &2Rat Pests &7are more/&7likely to spawn on your &aGarden &7plots!//&7Dropped by &2Rat Pests &7rarely when/&7vacuuming!//&7&eClick a &aRodent Revolution Vinyl &ein/&eyour inventory to add it to your/&ecollection!",
+          "context_id": "367ab52fb952eb4f717ff5e7d47768024aaeff3211a7957a5fd8f20a94fba014",
+          "context_row_index": 8
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1175,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "are more likely to spawn on your",
+      "legacy": "§7are more likely to spawn on your",
+      "source_id": "fbeba4e899fc837fb75a61d78099efc9c7e9c3b52948ce45eb645c937fac263c",
+      "context_id": "9b29bdc7e67aa06421e1d1e104857db70f1859bd84ea20bb1db4c3f6d30da20e",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+          "page": "InfiniVacuum™ Hooverius/UI",
+          "revision": 844655,
+          "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+          "template_start": 21,
+          "template_end": 3938,
+          "template_name": "UI",
+          "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+          "slot": "4, 6",
+          "menu": "Stereo Harmony",
+          "slot_raw": "Gray Dye, none;none, &cPray For Me, &7When playing\\, &2Praying Mantis Pests/&7are more likely to spawn on your/&aGarden &7plots!//&7Dropped by &2Praying Mantis Pests/&7rarely when vacuuming!//&7&eClick a &aPray For Me Vinyl &ein your/&einventory to add it to your collection!",
+          "context_id": "9b29bdc7e67aa06421e1d1e104857db70f1859bd84ea20bb1db4c3f6d30da20e",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1176,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "rarely when vacuuming!",
+      "legacy": "§7rarely when vacuuming!",
+      "source_id": "67543b96cf8318f0dc2837ed04c6f9e13527912f4328628da3468665f0ea2a95",
+      "context_id": "9b29bdc7e67aa06421e1d1e104857db70f1859bd84ea20bb1db4c3f6d30da20e",
+      "context_row_index": 6,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+          "page": "InfiniVacuum™ Hooverius/UI",
+          "revision": 844655,
+          "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+          "template_start": 21,
+          "template_end": 3938,
+          "template_name": "UI",
+          "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+          "slot": "4, 6",
+          "menu": "Stereo Harmony",
+          "slot_raw": "Gray Dye, none;none, &cPray For Me, &7When playing\\, &2Praying Mantis Pests/&7are more likely to spawn on your/&aGarden &7plots!//&7Dropped by &2Praying Mantis Pests/&7rarely when vacuuming!//&7&eClick a &aPray For Me Vinyl &ein your/&einventory to add it to your collection!",
+          "context_id": "9b29bdc7e67aa06421e1d1e104857db70f1859bd84ea20bb1db4c3f6d30da20e",
+          "context_row_index": 6
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1177,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "inventory to add it to your collection!",
+      "legacy": "§einventory to add it to your collection!",
+      "source_id": "c48ed1e072f09b2383a0a3a9ddfc0c60821ad0622be725e3f0716575c1452023",
+      "context_id": "f34b75cacdaf7b79104f5a8583252f5a81b720fccaecd2632164dbf05e7ad0a7",
+      "context_row_index": 8,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+          "page": "InfiniVacuum™ Hooverius/UI",
+          "revision": 844655,
+          "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+          "template_start": 21,
+          "template_end": 3938,
+          "template_name": "UI",
+          "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+          "slot": "2, 3",
+          "menu": "Stereo Harmony",
+          "slot_raw": "Gray Dye, none;none, &cPretty Fly, &7When playing\\, &2Fly Pests &7are more/&7likely to spawn on your &aGarden &7plots!//&7Dropped by &2Fly Pests &7rarely when/&7vacuuming!//&7&eClick a &aPretty Fly Vinyl &ein your/&einventory to add it to your collection!",
+          "context_id": "f34b75cacdaf7b79104f5a8583252f5a81b720fccaecd2632164dbf05e7ad0a7",
+          "context_row_index": 8
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1178,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Select the type of this island",
+      "legacy": "§7Select the type of this island",
+      "source_id": "a428408910adebad82a6227ce3acf3b6de032014b851f8f63fad97a8f6d6a998",
+      "context_id": "1d7589e3bf08aba874aeba7a5e0640cdc6eed08f1ee199692d23dafc04e83f07",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "3, 3",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Spawn, types, &aSelect NPC Type, &7Select the type of this island/&7NPC.//&7Current: &eVillager//&eClick to view!",
+          "context_id": "1d7589e3bf08aba874aeba7a5e0640cdc6eed08f1ee199692d23dafc04e83f07",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1179,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "You can add dialogue to island",
+      "legacy": "§7You can add dialogue to island",
+      "source_id": "7f9c22493d1b6a59d96c7a53edaf5e20bec15a23d7b21dbe4491e153080efd7e",
+      "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "3, 7",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Map, none;none, &aEdit Dialogue, &7You can add dialogue to island/&7NPCs for players to read.//&7Current:/&cNone//&7&7Once you select this island/&7NPC\\, use &b\\/dialogue &7to edit/&7its dialogue.//&7&8Left-Click the NPC to view/&8dialogue as a guest./&7&8100 lines max.//&eClick to select and edit!",
+          "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1180,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "NPCs for players to read.",
+      "legacy": "§7NPCs for players to read.",
+      "source_id": "58c7884f6204225205c7f0be55a3ba44fb23ce45353108a1bf1dbdea12770791",
+      "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "3, 7",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Map, none;none, &aEdit Dialogue, &7You can add dialogue to island/&7NPCs for players to read.//&7Current:/&cNone//&7&7Once you select this island/&7NPC\\, use &b\\/dialogue &7to edit/&7its dialogue.//&7&8Left-Click the NPC to view/&8dialogue as a guest./&7&8100 lines max.//&eClick to select and edit!",
+          "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1181,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "its dialogue.",
+      "legacy": "§7its dialogue.",
+      "source_id": "5f68c1eb068dc0d437b8a1185cd02a1b2ff42cfbf38a3e56ca18b7d040da8993",
+      "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+      "context_row_index": 9,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "3, 7",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Map, none;none, &aEdit Dialogue, &7You can add dialogue to island/&7NPCs for players to read.//&7Current:/&cNone//&7&7Once you select this island/&7NPC\\, use &b\\/dialogue &7to edit/&7its dialogue.//&7&8Left-Click the NPC to view/&8dialogue as a guest./&7&8100 lines max.//&eClick to select and edit!",
+          "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+          "context_row_index": 9
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1182,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "dialogue as a guest.",
+      "legacy": "§8dialogue as a guest.",
+      "source_id": "2b98651b651116b6a050dd6e8ffdd3b3affd5ff3b73b92ea0446885f3eb2644e",
+      "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+      "context_row_index": 12,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "3, 7",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Map, none;none, &aEdit Dialogue, &7You can add dialogue to island/&7NPCs for players to read.//&7Current:/&cNone//&7&7Once you select this island/&7NPC\\, use &b\\/dialogue &7to edit/&7its dialogue.//&7&8Left-Click the NPC to view/&8dialogue as a guest./&7&8100 lines max.//&eClick to select and edit!",
+          "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+          "context_row_index": 12
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1183,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Click to select and edit!",
+      "legacy": "§eClick to select and edit!",
+      "source_id": "315d6282e7022c798d737605636e4d0e973d79e5423f7b4dc86cec14e6b0bde7",
+      "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+      "context_row_index": 15,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "3, 7",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Map, none;none, &aEdit Dialogue, &7You can add dialogue to island/&7NPCs for players to read.//&7Current:/&cNone//&7&7Once you select this island/&7NPC\\, use &b\\/dialogue &7to edit/&7its dialogue.//&7&8Left-Click the NPC to view/&8dialogue as a guest./&7&8100 lines max.//&eClick to select and edit!",
+          "context_id": "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c",
+          "context_row_index": 15
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1184,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Choose a name for your island",
+      "legacy": "§7Choose a name for your island",
+      "source_id": "b79dd36fe19681b727f5deeeac43cd6819bfe85e017f672688c0da5784b2e7f1",
+      "context_id": "80a12ef17c4243a7f5225d4bad1643747242594b003804ad6a8912742f1ba87e",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "3, 5",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Name Tag, none, &aSelect NPC Name, &7Choose a name for your island/&7NPC.//&7Current: &eUntitled NPC//&eClick to edit!",
+          "context_id": "80a12ef17c4243a7f5225d4bad1643747242594b003804ad6a8912742f1ba87e",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1185,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Select the profession type of",
+      "legacy": "§7Select the profession type of",
+      "source_id": "d6a6d2688bcf8947a85003b72adbc01d2d94c8b7601ca99a623af15f6db23380",
+      "context_id": "9a6026b53af56ce18005905d9b76aaf11599f230b80257c050c76f5656c47ac8",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "4, 5",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Iron Hoe, villager, &aSelect Profession, &7Select the profession type of/&7this villager NPC.//&7Current: &eLibrarian//&eClick to view!",
+          "context_id": "9a6026b53af56ce18005905d9b76aaf11599f230b80257c050c76f5656c47ac8",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1186,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "this villager NPC.",
+      "legacy": "§7this villager NPC.",
+      "source_id": "93551f610bc160984845379c635a70769256be391bdd96896de105549c8c6c81",
+      "context_id": "9a6026b53af56ce18005905d9b76aaf11599f230b80257c050c76f5656c47ac8",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "4, 5",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Iron Hoe, villager, &aSelect Profession, &7Select the profession type of/&7this villager NPC.//&7Current: &eLibrarian//&eClick to view!",
+          "context_id": "9a6026b53af56ce18005905d9b76aaf11599f230b80257c050c76f5656c47ac8",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1187,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Picks up this island NPC and",
+      "legacy": "§7Picks up this island NPC and",
+      "source_id": "46c617164e6bd0417aaf6791f9cc25792688b5b90639bfccc74149009e42f06d",
+      "context_id": "d42e5634d6a7496184200e8397d4146a8b304035d3bfe1fc6a2aec101cd239a5",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "6, 9",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Bedrock, none;none, &aPickup Island NPC, &7Picks up this island NPC and/&7puts it in your inventory.//&eClick to pickup!",
+          "context_id": "d42e5634d6a7496184200e8397d4146a8b304035d3bfe1fc6a2aec101cd239a5",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1188,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "puts it in your inventory.",
+      "legacy": "§7puts it in your inventory.",
+      "source_id": "62a363d2bca9339364b23e15178cf0c420f7a9915927a7fc218b5bfead13d9d3",
+      "context_id": "d42e5634d6a7496184200e8397d4146a8b304035d3bfe1fc6a2aec101cd239a5",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+          "page": "Island NPC/UI",
+          "revision": 429031,
+          "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+          "template_start": 28,
+          "template_end": 918,
+          "template_name": "UI",
+          "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+          "slot": "6, 9",
+          "menu": "Island NPC Settings",
+          "slot_raw": "Bedrock, none;none, &aPickup Island NPC, &7Picks up this island NPC and/&7puts it in your inventory.//&eClick to pickup!",
+          "context_id": "d42e5634d6a7496184200e8397d4146a8b304035d3bfe1fc6a2aec101cd239a5",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1189,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "this menu instead of popping out the item!",
+      "legacy": "§7this menu instead of popping out the item!",
+      "source_id": "48ac5bd0f031626063232aa307df22f61d82ddb5d37d843a329163be2cee96e4",
+      "context_id": "c1bcc51f6801bcf1207663cea37537c36c429506a9370f5aba245919e49363bf",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Item_Frame/UI?oldid=819459",
+          "page": "Item Frame/UI",
+          "revision": 819459,
+          "raw_sha256": "3AE2DE716FFD8BDB7CC9B26F1DE61987A1E15A6E4FE718F5FE02F61218709C1B",
+          "template_start": 0,
+          "template_end": 309,
+          "template_name": "UI",
+          "template_raw_sha256": "6b452ed62bfea03d6b0cdbe5876ad6fca74a355e6d07dbae046096a785053348",
+          "slot": "4, 9",
+          "menu": "Item Frame",
+          "slot_raw": "Item Frame, none;none, &6Menu Toggle, &7When you hit an &bItem Frame &7it will open/&7this menu instead of popping out the item!//&8&oYou can still Shift+Left-Click/&8&oto remove Item Frames normally.&r//&7Status: &cDisabled//&eClick to toggle!",
+          "context_id": "c1bcc51f6801bcf1207663cea37537c36c429506a9370f5aba245919e49363bf",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1190,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Click to toggle!",
+      "legacy": "§eClick to toggle!",
+      "source_id": "f1e890ed3f81329c08611b3b3b2e19936f417789b0ec1422b6d8f41952cf32d4",
+      "context_id": "c1bcc51f6801bcf1207663cea37537c36c429506a9370f5aba245919e49363bf",
+      "context_row_index": 9,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Item_Frame/UI?oldid=819459",
+          "page": "Item Frame/UI",
+          "revision": 819459,
+          "raw_sha256": "3AE2DE716FFD8BDB7CC9B26F1DE61987A1E15A6E4FE718F5FE02F61218709C1B",
+          "template_start": 0,
+          "template_end": 309,
+          "template_name": "UI",
+          "template_raw_sha256": "6b452ed62bfea03d6b0cdbe5876ad6fca74a355e6d07dbae046096a785053348",
+          "slot": "4, 9",
+          "menu": "Item Frame",
+          "slot_raw": "Item Frame, none;none, &6Menu Toggle, &7When you hit an &bItem Frame &7it will open/&7this menu instead of popping out the item!//&8&oYou can still Shift+Left-Click/&8&oto remove Item Frames normally.&r//&7Status: &cDisabled//&eClick to toggle!",
+          "context_id": "c1bcc51f6801bcf1207663cea37537c36c429506a9370f5aba245919e49363bf",
+          "context_row_index": 9
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1191,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "(20 minutes)",
+      "legacy": "§8(20 minutes)",
+      "source_id": "904379d8bdc0a6ea7b5b01d4bb583a6345577907d7d576b6d712c469cecf2b4a",
+      "context_id": "039b0e2ad2818660811a90798d51c88616ffe1bb59a1331f9261f2e1dc1d5c2e",
+      "context_row_index": 7,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+          "page": "Jacob/UI",
+          "revision": 490828,
+          "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+          "template_start": 28,
+          "template_end": 938,
+          "template_name": "UI",
+          "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+          "slot": "2,3",
+          "menu": "Jacob's Farming Contests",
+          "slot_raw": "Sign, none;none, &aWhat is this?, &8Instructions//&7Every 3 SkyBlock days\\, I hold a contest/&7for 3 &efarming &7collections.//&7The contests last 1 SkyBlock day./&8(20 minutes)//&7The &etop &7players who increase/&7their collection the most earn/&aJacob's Tickets &7and &dunique/&drewards&7!//&8You may participate in 1 collection/&8contest per event!//&8Minions do not count in contests!",
+          "context_id": "039b0e2ad2818660811a90798d51c88616ffe1bb59a1331f9261f2e1dc1d5c2e",
+          "context_row_index": 7
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1192,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Previous contests",
+      "legacy": "§8Previous contests",
+      "source_id": "def231e283a68335c0efb7815dd269516c7a3964ba57e625c1d94b00ab70131a",
+      "context_id": "32d3cd1b2385fb7bf49169afbe78f7b2b6d9bca7d4c88bce9f03992cb6b566e9",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+          "page": "Jacob/UI",
+          "revision": 490828,
+          "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+          "template_start": 28,
+          "template_end": 938,
+          "template_name": "UI",
+          "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+          "slot": "2,7",
+          "menu": "Jacob's Farming Contests",
+          "slot_raw": "Wheat, none;none, &bClaim your rewards!, &8Previous contests//&7You've participated in &e#/&7previous contests.//&7Medals inventory:/&6&lGOLD &7medals: &6#/&f&lSILVER &7medals: &f#/&c&lBRONZE &7medals: &c#//&eClick to view contests!",
+          "context_id": "32d3cd1b2385fb7bf49169afbe78f7b2b6d9bca7d4c88bce9f03992cb6b566e9",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1193,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "previous contests.",
+      "legacy": "§7previous contests.",
+      "source_id": "49718b7294be9ae28ec5f503f508da323d8b515626835fd59ec4f265009fdd27",
+      "context_id": "32d3cd1b2385fb7bf49169afbe78f7b2b6d9bca7d4c88bce9f03992cb6b566e9",
+      "context_row_index": 4,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+          "page": "Jacob/UI",
+          "revision": 490828,
+          "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+          "template_start": 28,
+          "template_end": 938,
+          "template_name": "UI",
+          "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+          "slot": "2,7",
+          "menu": "Jacob's Farming Contests",
+          "slot_raw": "Wheat, none;none, &bClaim your rewards!, &8Previous contests//&7You've participated in &e#/&7previous contests.//&7Medals inventory:/&6&lGOLD &7medals: &6#/&f&lSILVER &7medals: &f#/&c&lBRONZE &7medals: &c#//&eClick to view contests!",
+          "context_id": "32d3cd1b2385fb7bf49169afbe78f7b2b6d9bca7d4c88bce9f03992cb6b566e9",
+          "context_row_index": 4
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1194,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Medals inventory:",
+      "legacy": "§7Medals inventory:",
+      "source_id": "593d71348d8095b185427675b6a9ddc758fa2404e30e973d453acdb09de637d2",
+      "context_id": "32d3cd1b2385fb7bf49169afbe78f7b2b6d9bca7d4c88bce9f03992cb6b566e9",
+      "context_row_index": 6,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+          "page": "Jacob/UI",
+          "revision": 490828,
+          "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+          "template_start": 28,
+          "template_end": 938,
+          "template_name": "UI",
+          "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+          "slot": "2,7",
+          "menu": "Jacob's Farming Contests",
+          "slot_raw": "Wheat, none;none, &bClaim your rewards!, &8Previous contests//&7You've participated in &e#/&7previous contests.//&7Medals inventory:/&6&lGOLD &7medals: &6#/&f&lSILVER &7medals: &f#/&c&lBRONZE &7medals: &c#//&eClick to view contests!",
+          "context_id": "32d3cd1b2385fb7bf49169afbe78f7b2b6d9bca7d4c88bce9f03992cb6b566e9",
+          "context_row_index": 6
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1195,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "View this info in your full",
+      "legacy": "§8View this info in your full",
+      "source_id": "faff7946ca944f5257151f044c1728c7548f495eecee05f90e57d126615d09d7",
+      "context_id": "c8c0804e0b564cd8eade87544b4be6140e0890ea19ae4e627eebda58480c43cc",
+      "context_row_index": 13,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+          "page": "Jacob/UI",
+          "revision": 490828,
+          "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+          "template_start": 28,
+          "template_end": 938,
+          "template_name": "UI",
+          "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+          "slot": "2,5",
+          "menu": "Jacob's Farming Contests",
+          "slot_raw": "Clock, none;none, &6Upcoming Contests, &8Schedule//&e[season] [#date]/&e○ &7[crop]/&e○ &7[crop]/&e○ &7[crop]//&e[season] [#date]/&e○ &7[crop]/&e○ &7[crop]/&e○ &7[crop]//&8View this info in your full/&8SkyBlock calendar!",
+          "context_id": "c8c0804e0b564cd8eade87544b4be6140e0890ea19ae4e627eebda58480c43cc",
+          "context_row_index": 13
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1198,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "SkyBlock calendar!",
+      "legacy": "§8SkyBlock calendar!",
+      "source_id": "499af27263a8f977fae0bab5ac88f5d8179b5cd866e3f0ca8cddfbc80a429957",
+      "context_id": "c8c0804e0b564cd8eade87544b4be6140e0890ea19ae4e627eebda58480c43cc",
+      "context_row_index": 14,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+          "page": "Jacob/UI",
+          "revision": 490828,
+          "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+          "template_start": 28,
+          "template_end": 938,
+          "template_name": "UI",
+          "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+          "slot": "2,5",
+          "menu": "Jacob's Farming Contests",
+          "slot_raw": "Clock, none;none, &6Upcoming Contests, &8Schedule//&e[season] [#date]/&e○ &7[crop]/&e○ &7[crop]/&e○ &7[crop]//&e[season] [#date]/&e○ &7[crop]/&e○ &7[crop]/&e○ &7[crop]//&8View this info in your full/&8SkyBlock calendar!",
+          "context_id": "c8c0804e0b564cd8eade87544b4be6140e0890ea19ae4e627eebda58480c43cc",
+          "context_row_index": 14
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1199,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Hey, it's a shortcut!",
+      "legacy": "§7Hey, it's a shortcut!",
+      "source_id": "b5baa6e2638c686c634015886f530577a1de77b8a75b0933b71f9cb06b331fb3",
+      "context_id": "8445e295cefc50d7a72ca321acdcebbfc370da740b857a5c8bc05dd9523edcae",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jax/UI?oldid=830019",
+          "page": "Jax/UI",
+          "revision": 830019,
+          "raw_sha256": "5540FCE01DEE4FBA18FE2D32805EB687310F1927382DCA4A62291E3C4F8EA4AE",
+          "template_start": 0,
+          "template_end": 1795,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "8cb01a8c9460ba74e724ec31fe316b3190b618ae35d3bceacc54059fb3187143",
+          "slot": "6, 6",
+          "menu": "Forge Arrows",
+          "slot_raw": "Quiver, none, &aOpen Quiver, &7Hey\\, it's a shortcut!/&5&o/&eClick to open!",
+          "context_id": "8445e295cefc50d7a72ca321acdcebbfc370da740b857a5c8bc05dd9523edcae",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1200,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "when fishing in them, and allow you to",
+      "legacy": "§7when fishing in them, and allow you to",
+      "source_id": "c265f18293f082f1922026152e401af222a17f21083f4afa772519fa7a529af1",
+      "context_id": "10d35257bb801077956b2cbb4f11510e2c26c9fd2d7025a8a521452d4e7daf9f",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 2364,
+          "template_end": 3624,
+          "template_name": "UI",
+          "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+          "slot": "3, 7",
+          "menu": "Backwater Bayou ➜ Chapter I",
+          "slot_raw": "Gray Dye, none; none, &cLearn About Hotspots, &dFishing Hotspots &7grant bonus stats/&7when fishing in them\\, and allow you to/&7catch &dHotspot Sea Creatures&7. They/&7can be found around many islands./&5/&7Reward:/&5  &8+&3100 &7Fishing Experience",
+          "context_id": "10d35257bb801077956b2cbb4f11510e2c26c9fd2d7025a8a521452d4e7daf9f",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1201,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "can be found around many islands.",
+      "legacy": "§7can be found around many islands.",
+      "source_id": "c5546261f3f172a2e11612230a9d237323bd41519f42a55fda0644f364b826d0",
+      "context_id": "10d35257bb801077956b2cbb4f11510e2c26c9fd2d7025a8a521452d4e7daf9f",
+      "context_row_index": 4,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 2364,
+          "template_end": 3624,
+          "template_name": "UI",
+          "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+          "slot": "3, 7",
+          "menu": "Backwater Bayou ➜ Chapter I",
+          "slot_raw": "Gray Dye, none; none, &cLearn About Hotspots, &dFishing Hotspots &7grant bonus stats/&7when fishing in them\\, and allow you to/&7catch &dHotspot Sea Creatures&7. They/&7can be found around many islands./&5/&7Reward:/&5  &8+&3100 &7Fishing Experience",
+          "context_id": "10d35257bb801077956b2cbb4f11510e2c26c9fd2d7025a8a521452d4e7daf9f",
+          "context_row_index": 4
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1202,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Time to upgrade the biggest hunk of",
+      "legacy": "§7Time to upgrade the biggest hunk of",
+      "source_id": "385fbfcdb7fd8ac5f1dff94e7c404619bd4a642838f886c74ab9a7a9c130d78a",
+      "context_id": "4772ff32c771d9681d2dbdc353dc6a51608c17fa51fce2ec7b6a0a8741ae1337",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 6",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 5, none; none, &cChapter V, &8Backwater Bayou/&5/&7Time to upgrade the biggest hunk of/&7junk of them all - your &6Ship&7!/&5/&7Chapter V Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "4772ff32c771d9681d2dbdc353dc6a51608c17fa51fce2ec7b6a0a8741ae1337",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1203,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "but you'll need it if you want to get",
+      "legacy": "§7but you'll need it if you want to get",
+      "source_id": "234e19bb1deb046032c638b46710890c7f02251a1a8f21ecaddf2caddae3dbc9",
+      "context_id": "52f50bdf88d8de2ff2a3a333ce8cc80ed035995b40e8f53145e10e9a0fd9bdd3",
+      "context_row_index": 4,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 7",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 6, none; none, &cChapter VI, &8Backwater Bayou/&5/&7Some &2Junk &7is actually pretty rare\\,/&7but you'll need it if you want to get/&7the strongest upgrades./&5/&7Chapter VI Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "52f50bdf88d8de2ff2a3a333ce8cc80ed035995b40e8f53145e10e9a0fd9bdd3",
+          "context_row_index": 4
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1204,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "the strongest upgrades.",
+      "legacy": "§7the strongest upgrades.",
+      "source_id": "41b1b5144847a3f9d4cc37acaf6370547e4b54fa9144ac88524c3d2e83ab798c",
+      "context_id": "52f50bdf88d8de2ff2a3a333ce8cc80ed035995b40e8f53145e10e9a0fd9bdd3",
+      "context_row_index": 5,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 7",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 6, none; none, &cChapter VI, &8Backwater Bayou/&5/&7Some &2Junk &7is actually pretty rare\\,/&7but you'll need it if you want to get/&7the strongest upgrades./&5/&7Chapter VI Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "52f50bdf88d8de2ff2a3a333ce8cc80ed035995b40e8f53145e10e9a0fd9bdd3",
+          "context_row_index": 5
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1205,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "You're a true resident of the",
+      "legacy": "§7You're a true resident of the",
+      "source_id": "b851353c35ef2cf9bf5b5a6c784b77d6c5a2dfeabaa692f4c2f5b6de0ef12b58",
+      "context_id": "71c183824a0e73ed0d174e7866adf88c909c8257f954ffd551b0a8325311bb3f",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 5",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 4, none; none, &cChapter IV, &8Backwater Bayou/&5/&7You're a true resident of the/&2Backwater Bayou &7now\\, but stronger/&7challenges await./&5/&7Chapter IV Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "71c183824a0e73ed0d174e7866adf88c909c8257f954ffd551b0a8325311bb3f",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1206,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "challenges await.",
+      "legacy": "§7challenges await.",
+      "source_id": "7cf5e4246bf14cc3e9f7afe95d7b4f2e7093cb020842cbd2b3c6b87418f12b1c",
+      "context_id": "71c183824a0e73ed0d174e7866adf88c909c8257f954ffd551b0a8325311bb3f",
+      "context_row_index": 5,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 5",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 4, none; none, &cChapter IV, &8Backwater Bayou/&5/&7You're a true resident of the/&2Backwater Bayou &7now\\, but stronger/&7challenges await./&5/&7Chapter IV Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "71c183824a0e73ed0d174e7866adf88c909c8257f954ffd551b0a8325311bb3f",
+          "context_row_index": 5
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1207,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "in exchange for some powerful",
+      "legacy": "§7in exchange for some powerful",
+      "source_id": "d42082ea046d31240a99d90bfd3e5c340b6f279d76286ebc42f67773bdf08946",
+      "context_id": "7a16be663074b61ad4e923948528c5a942fb40f6be2c4cc62c177fe87da7fa8c",
+      "context_row_index": 4,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 4",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 3, none; none, &cChapter III, &8Backwater Bayou/&5/&7Start trading in &2Junk &7at &2Junker Joel/&7in exchange for some powerful/&7upgrades to your gear./&5/&7Chapter III Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "7a16be663074b61ad4e923948528c5a942fb40f6be2c4cc62c177fe87da7fa8c",
+          "context_row_index": 4
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1208,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "upgrades to your gear.",
+      "legacy": "§7upgrades to your gear.",
+      "source_id": "f0c1e5a01e0f2c093b6eaf50e261a9a2c21c6b32a8f4b0b74d434d9c6f51a0a1",
+      "context_id": "7a16be663074b61ad4e923948528c5a942fb40f6be2c4cc62c177fe87da7fa8c",
+      "context_row_index": 5,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 4",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 3, none; none, &cChapter III, &8Backwater Bayou/&5/&7Start trading in &2Junk &7at &2Junker Joel/&7in exchange for some powerful/&7upgrades to your gear./&5/&7Chapter III Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "7a16be663074b61ad4e923948528c5a942fb40f6be2c4cc62c177fe87da7fa8c",
+          "context_row_index": 5
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1209,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "can help with customizing your",
+      "legacy": "§7can help with customizing your",
+      "source_id": "bcb109dba7d06fd3992c234c2f496cfd6ed3d682bedb85039c050321e32b93b3",
+      "context_id": "871798db18b748670f001eb7a28ac52bf6d43c9f7493176c8d2142d192eccf9c",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 2364,
+          "template_end": 3624,
+          "template_name": "UI",
+          "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+          "slot": "3, 5",
+          "menu": "Backwater Bayou ➜ Chapter I",
+          "slot_raw": "Gray Dye, none; none, &cApply a Rod Part, &2Roddy &7can apply &9Rod Parts&7\\, which/&7can help with customizing your/&afishing rods&7./&5/&7Reward:/&5  &8+&3100 &7Fishing Experience",
+          "context_id": "871798db18b748670f001eb7a28ac52bf6d43c9f7493176c8d2142d192eccf9c",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1210,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Obtain rewards for completing all",
+      "legacy": "§7Obtain rewards for completing all",
+      "source_id": "66f487b3bc9b3283176a86f591c7f517e02b9b4a5f6fa4497c29d5cf7c565466",
+      "context_id": "ac9942c81cf0c6ece41fbbe69f587b8dc741153e56f84c193678f1f5b4dca001",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 2364,
+          "template_end": 3624,
+          "template_name": "UI",
+          "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+          "slot": "4, 5",
+          "menu": "Backwater Bayou ➜ Chapter I",
+          "slot_raw": "Ender Chest, none; none, &cCompletion Rewards, &8Chapter I/&5/&7Obtain rewards for completing all/&7tasks in this Chapter!/&5/&7Chapter I Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e3/&5/&7Rewards:/&5  &bChapter II/&5  &9Treasure Bait &8x4/&5  &8+&b5 SkyBlock XP/&5/&cComplete all tasks to claim!",
+          "context_id": "ac9942c81cf0c6ece41fbbe69f587b8dc741153e56f84c193678f1f5b4dca001",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1211,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "tasks in this Chapter!",
+      "legacy": "§7tasks in this Chapter!",
+      "source_id": "3520c648795067563fa04e5673c861f26d74875fd804309789fddf2be896e4be",
+      "context_id": "ac9942c81cf0c6ece41fbbe69f587b8dc741153e56f84c193678f1f5b4dca001",
+      "context_row_index": 4,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 2364,
+          "template_end": 3624,
+          "template_name": "UI",
+          "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+          "slot": "4, 5",
+          "menu": "Backwater Bayou ➜ Chapter I",
+          "slot_raw": "Ender Chest, none; none, &cCompletion Rewards, &8Chapter I/&5/&7Obtain rewards for completing all/&7tasks in this Chapter!/&5/&7Chapter I Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e3/&5/&7Rewards:/&5  &bChapter II/&5  &9Treasure Bait &8x4/&5  &8+&b5 SkyBlock XP/&5/&cComplete all tasks to claim!",
+          "context_id": "ac9942c81cf0c6ece41fbbe69f587b8dc741153e56f84c193678f1f5b4dca001",
+          "context_row_index": 4
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1212,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Complete all tasks to claim!",
+      "legacy": "§cComplete all tasks to claim!",
+      "source_id": "0d77422bd287698453b92e10dfd2eb1ea6aecbc13c2329ee85502cd7ea4e4235",
+      "context_id": "ac9942c81cf0c6ece41fbbe69f587b8dc741153e56f84c193678f1f5b4dca001",
+      "context_row_index": 14,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 2364,
+          "template_end": 3624,
+          "template_name": "UI",
+          "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+          "slot": "4, 5",
+          "menu": "Backwater Bayou ➜ Chapter I",
+          "slot_raw": "Ender Chest, none; none, &cCompletion Rewards, &8Chapter I/&5/&7Obtain rewards for completing all/&7tasks in this Chapter!/&5/&7Chapter I Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e3/&5/&7Rewards:/&5  &bChapter II/&5  &9Treasure Bait &8x4/&5  &8+&b5 SkyBlock XP/&5/&cComplete all tasks to claim!",
+          "context_id": "ac9942c81cf0c6ece41fbbe69f587b8dc741153e56f84c193678f1f5b4dca001",
+          "context_row_index": 14
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1213,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Grab your rod and join the cleanup",
+      "legacy": "§7Grab your rod and join the cleanup",
+      "source_id": "5dcbe992aceee906d0b9c6fd4fd140f51fb0fe365ca9925a724b7ea91028432e",
+      "context_id": "b9e097af10f427a0553370afb746a1717738918cbc410877cb86acc0921e46b7",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 3",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 2, none; none, &cChapter II, &8Backwater Bayou/&5/&7Grab your rod and join the cleanup/&7effort! Let's catch some &2Junk&7!/&5/&7Chapter II Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e5/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "b9e097af10f427a0553370afb746a1717738918cbc410877cb86acc0921e46b7",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1214,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "You haven't unlocked this Chapter",
+      "legacy": "§cYou haven't unlocked this Chapter",
+      "source_id": "34a56c7f89ddc31e8aa276b6cef7195c1e72c50577e520ef60cd2d3997776d11",
+      "context_id": "b9e097af10f427a0553370afb746a1717738918cbc410877cb86acc0921e46b7",
+      "context_row_index": 9,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+          "page": "Jonesy/UI",
+          "revision": 676814,
+          "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+          "template_start": 28,
+          "template_end": 2363,
+          "template_name": "UI",
+          "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+          "slot": "3, 3",
+          "menu": "Backwater Bayou",
+          "slot_raw": "Red Stained Glass Pane; 2, none; none, &cChapter II, &8Backwater Bayou/&5/&7Grab your rod and join the cleanup/&7effort! Let's catch some &2Junk&7!/&5/&7Chapter II Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e5/&5/&cYou haven't unlocked this Chapter/&cyet!",
+          "context_id": "b9e097af10f427a0553370afb746a1717738918cbc410877cb86acc0921e46b7",
+          "context_row_index": 9
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1215,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Vote against freeing the prisoners.",
+      "legacy": "§7Vote against freeing the prisoners.",
+      "source_id": "bd3fa7fa88d239b259f6c7d53b7dfda96142d6b68aeae5ea31b53bc60175837a",
+      "context_id": "6f3b854e1aa99c1115bae8342e3db6f67cc4f562e107430962dd3994642a2e2d",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Judicial_Goon/UI?oldid=656342",
+          "page": "Judicial Goon/UI",
+          "revision": 656342,
+          "raw_sha256": "0F7412FF4737821A7B085F7FAC46332DDE788E831ADAFF5425B874642EC018AE",
+          "template_start": 0,
+          "template_end": 355,
+          "template_name": "UI",
+          "template_raw_sha256": "344137001ba93444b92cf483a4fd7adf6ad48ae275cd9f07d6c4606aae3374eb",
+          "slot": "2, 7",
+          "menu": "Vote to Free?",
+          "slot_raw": "Red Stained Clay, none, &cDeny, &7Vote against freeing the prisoners.//&7&6Bribe/&7Gain &b+5✯ Magic Find &7for &a2hr&7. You/&7can re-cast your vote after this/&7effect expires.",
+          "context_id": "6f3b854e1aa99c1115bae8342e3db6f67cc4f562e107430962dd3994642a2e2d",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1216,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "can re-cast your vote after this",
+      "legacy": "§7can re-cast your vote after this",
+      "source_id": "2c3d9ae6cf95672ad1d9a75ceea797c116466feaa30f7f31b5618f2fdcb76c9b",
+      "context_id": "6f3b854e1aa99c1115bae8342e3db6f67cc4f562e107430962dd3994642a2e2d",
+      "context_row_index": 5,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Judicial_Goon/UI?oldid=656342",
+          "page": "Judicial Goon/UI",
+          "revision": 656342,
+          "raw_sha256": "0F7412FF4737821A7B085F7FAC46332DDE788E831ADAFF5425B874642EC018AE",
+          "template_start": 0,
+          "template_end": 355,
+          "template_name": "UI",
+          "template_raw_sha256": "344137001ba93444b92cf483a4fd7adf6ad48ae275cd9f07d6c4606aae3374eb",
+          "slot": "2, 7",
+          "menu": "Vote to Free?",
+          "slot_raw": "Red Stained Clay, none, &cDeny, &7Vote against freeing the prisoners.//&7&6Bribe/&7Gain &b+5✯ Magic Find &7for &a2hr&7. You/&7can re-cast your vote after this/&7effect expires.",
+          "context_id": "6f3b854e1aa99c1115bae8342e3db6f67cc4f562e107430962dd3994642a2e2d",
+          "context_row_index": 5
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1217,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "effect expires.",
+      "legacy": "§7effect expires.",
+      "source_id": "25d2c5d28e1cdebd1cd0d320bea95f86d64bba4579d0227edc20740e7e7e8e54",
+      "context_id": "6f3b854e1aa99c1115bae8342e3db6f67cc4f562e107430962dd3994642a2e2d",
+      "context_row_index": 6,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Judicial_Goon/UI?oldid=656342",
+          "page": "Judicial Goon/UI",
+          "revision": 656342,
+          "raw_sha256": "0F7412FF4737821A7B085F7FAC46332DDE788E831ADAFF5425B874642EC018AE",
+          "template_start": 0,
+          "template_end": 355,
+          "template_name": "UI",
+          "template_raw_sha256": "344137001ba93444b92cf483a4fd7adf6ad48ae275cd9f07d6c4606aae3374eb",
+          "slot": "2, 7",
+          "menu": "Vote to Free?",
+          "slot_raw": "Red Stained Clay, none, &cDeny, &7Vote against freeing the prisoners.//&7&6Bribe/&7Gain &b+5✯ Magic Find &7for &a2hr&7. You/&7can re-cast your vote after this/&7effect expires.",
+          "context_id": "6f3b854e1aa99c1115bae8342e3db6f67cc4f562e107430962dd3994642a2e2d",
+          "context_row_index": 6
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1218,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Vote to free the prisoners!",
+      "legacy": "§7Vote to free the prisoners!",
+      "source_id": "193dceaa83f459869a9178d37ca905d9afc57e2a1639141a08bec7681d8978d9",
+      "context_id": "cb898cc3b012b836d23d61f9eb746291a5d877f449fcc0a4de83de3d8f5866a9",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Judicial_Goon/UI?oldid=656342",
+          "page": "Judicial Goon/UI",
+          "revision": 656342,
+          "raw_sha256": "0F7412FF4737821A7B085F7FAC46332DDE788E831ADAFF5425B874642EC018AE",
+          "template_start": 0,
+          "template_end": 355,
+          "template_name": "UI",
+          "template_raw_sha256": "344137001ba93444b92cf483a4fd7adf6ad48ae275cd9f07d6c4606aae3374eb",
+          "slot": "2, 3",
+          "menu": "Vote to Free?",
+          "slot_raw": "Lime Stained Clay, none, &aFree, &7Vote to free the prisoners!/&7You can change this vote at any time.",
+          "context_id": "cb898cc3b012b836d23d61f9eb746291a5d877f449fcc0a4de83de3d8f5866a9",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1219,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "You can change this vote at any time.",
+      "legacy": "§7You can change this vote at any time.",
+      "source_id": "03bcff89ccec6ba2fe3e04c10264e8f709e7e7b76fc195c3d5f1e7c3c1bed267",
+      "context_id": "cb898cc3b012b836d23d61f9eb746291a5d877f449fcc0a4de83de3d8f5866a9",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Judicial_Goon/UI?oldid=656342",
+          "page": "Judicial Goon/UI",
+          "revision": 656342,
+          "raw_sha256": "0F7412FF4737821A7B085F7FAC46332DDE788E831ADAFF5425B874642EC018AE",
+          "template_start": 0,
+          "template_end": 355,
+          "template_name": "UI",
+          "template_raw_sha256": "344137001ba93444b92cf483a4fd7adf6ad48ae275cd9f07d6c4606aae3374eb",
+          "slot": "2, 3",
+          "menu": "Vote to Free?",
+          "slot_raw": "Lime Stained Clay, none, &aFree, &7Vote to free the prisoners!/&7You can change this vote at any time.",
+          "context_id": "cb898cc3b012b836d23d61f9eb746291a5d877f449fcc0a4de83de3d8f5866a9",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1220,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Vacuum more vermin!",
+      "legacy": "§cVacuum more vermin!",
+      "source_id": "d375465a12e24dc679cf6b7bb14bec215f88291caff0fba6cfa29e98257632d7",
+      "context_id": "0c32eeed4a1d785684d0e335c3695bc6d03f347eb04f55504369ef0cc422e954",
+      "context_row_index": 29,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_%28Rift%29/UI?oldid=454438",
+          "page": "Kat (Rift)/UI",
+          "revision": 454438,
+          "raw_sha256": "B5946923E29FBD7C73715086F0C66943D6E7B9DC16F64829C8886F11797A7322",
+          "template_start": 0,
+          "template_end": 1451,
+          "template_name": "UI",
+          "template_raw_sha256": "e5d5add60147c66063e32a56cc11112c23a991e3d29e8337f15981070f0f380c",
+          "slot": "2, 5",
+          "menu": "Neuroscientist Kat",
+          "slot_raw": "Rift Ferret Pet, none, &aOptional Reward, &7[Lvl 100] &5Rift Ferret/&8Combat Pet//&7Speed: &a+50/&7Intelligence: &a-2//&6Orbs are Fun/&7&7Gain &a+10% &7experience from/&7&bXP Orbs&7.//&b&lMAX LEVEL//&7&eRight-click to add this pet to/&eyour pet menu!//&8&l* &8Soulbound &8&l*/&5&kX&5 Rift-Transferable &kX/&5&lEPIC/&8&m-----------------/&aVermin Bin/&c✖ &7Fly: &c0\\/20/&c✖ &7Spider: &c0\\/10/&c✖ &7Silverfish: &c0\\/20//&7Costs/&aRiftwart Roots &8x12/&d3\\,000 Motes//&cVacuum more vermin!",
+          "context_id": "0c32eeed4a1d785684d0e335c3695bc6d03f347eb04f55504369ef0cc422e954",
+          "context_row_index": 29
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1221,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Place a pet above for Kat to take",
+      "legacy": "§7Place a pet above for Kat to take",
+      "source_id": "d7f6181e0f89e3e0d73d95de8c88adddd5eefedc62eadbc3992ebeb957abe97e",
+      "context_id": "34bd70884919c4162e7dcd2dc358463dbc24eb59ac231bfc0a706040452457e9",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat/UI?oldid=468621",
+          "page": "Kat/UI",
+          "revision": 468621,
+          "raw_sha256": "1076E2F44E176F5FB7AD00606462D542BA3ED86DD0679A4C0565B104DB6FB181",
+          "template_start": 0,
+          "template_end": 199,
+          "template_name": "UI",
+          "template_raw_sha256": "2888c7b7b52522ea71fac98f5baed34cd497724788b96e4ee878a0a254825c2b",
+          "slot": "3,5",
+          "menu": "Pet Sitter",
+          "slot_raw": "Red Hardened Clay, none;none, &ePet Sitter, &7Place a pet above for Kat to take/&7care of!//&7After some time\\, your pet &9Rarity &7will/&7be upgraded!",
+          "context_id": "34bd70884919c4162e7dcd2dc358463dbc24eb59ac231bfc0a706040452457e9",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1222,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "be upgraded!",
+      "legacy": "§7be upgraded!",
+      "source_id": "13f7ea3fd97507427de59d43fdbb327f60db2eb38e4815fad31de2e07bb4f969",
+      "context_id": "34bd70884919c4162e7dcd2dc358463dbc24eb59ac231bfc0a706040452457e9",
+      "context_row_index": 5,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat/UI?oldid=468621",
+          "page": "Kat/UI",
+          "revision": 468621,
+          "raw_sha256": "1076E2F44E176F5FB7AD00606462D542BA3ED86DD0679A4C0565B104DB6FB181",
+          "template_start": 0,
+          "template_end": 199,
+          "template_name": "UI",
+          "template_raw_sha256": "2888c7b7b52522ea71fac98f5baed34cd497724788b96e4ee878a0a254825c2b",
+          "slot": "3,5",
+          "menu": "Pet Sitter",
+          "slot_raw": "Red Hardened Clay, none;none, &ePet Sitter, &7Place a pet above for Kat to take/&7care of!//&7After some time\\, your pet &9Rarity &7will/&7be upgraded!",
+          "context_id": "34bd70884919c4162e7dcd2dc358463dbc24eb59ac231bfc0a706040452457e9",
+          "context_row_index": 5
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1223,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Kay will toss you to the",
+      "legacy": "§7Kay will toss you to the",
+      "source_id": "e110133957ecc2cf470a38cdedda91803441aa8d9cc86422a921e3bc47b27aa3",
+      "context_id": "aea253a94e359fc6d84347fe9f7c2f5f70f1ba760760753d7fb3fdf37fb81deb",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kay/UI?oldid=705814",
+          "page": "Kay/UI",
+          "revision": 705814,
+          "raw_sha256": "6ABDAFFFA462AE4A3E8DE06A0255DBEFC6BE1D0F0CB102315BD4CE1C58A44ADE",
+          "template_start": 0,
+          "template_end": 453,
+          "template_name": "UI",
+          "template_raw_sha256": "4bbc0407e85f470cbc30855a663be2edf5e4033bb46087ea7975298de3559621",
+          "slot": "2, 7",
+          "menu": "Kay",
+          "slot_raw": "Ladder, none;none, &aToss To Shore, &7Kay will toss you to the/&7mainland\\, no problem.//&7Cost: &d200 Motes//&eClick to get tossed!",
+          "context_id": "aea253a94e359fc6d84347fe9f7c2f5f70f1ba760760753d7fb3fdf37fb81deb",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1224,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "mainland, no problem.",
+      "legacy": "§7mainland, no problem.",
+      "source_id": "35c380ec3a0b0d513c78557dc2c5447f784e057cdcf8a87a20e03396653e6a1f",
+      "context_id": "aea253a94e359fc6d84347fe9f7c2f5f70f1ba760760753d7fb3fdf37fb81deb",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kay/UI?oldid=705814",
+          "page": "Kay/UI",
+          "revision": 705814,
+          "raw_sha256": "6ABDAFFFA462AE4A3E8DE06A0255DBEFC6BE1D0F0CB102315BD4CE1C58A44ADE",
+          "template_start": 0,
+          "template_end": 453,
+          "template_name": "UI",
+          "template_raw_sha256": "4bbc0407e85f470cbc30855a663be2edf5e4033bb46087ea7975298de3559621",
+          "slot": "2, 7",
+          "menu": "Kay",
+          "slot_raw": "Ladder, none;none, &aToss To Shore, &7Kay will toss you to the/&7mainland\\, no problem.//&7Cost: &d200 Motes//&eClick to get tossed!",
+          "context_id": "aea253a94e359fc6d84347fe9f7c2f5f70f1ba760760753d7fb3fdf37fb81deb",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1225,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Click to get tossed!",
+      "legacy": "§eClick to get tossed!",
+      "source_id": "944093e184da66bf844ed2af6a8f9d035412fe1d2ea8df8c3480dc7e1907843a",
+      "context_id": "aea253a94e359fc6d84347fe9f7c2f5f70f1ba760760753d7fb3fdf37fb81deb",
+      "context_row_index": 6,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kay/UI?oldid=705814",
+          "page": "Kay/UI",
+          "revision": 705814,
+          "raw_sha256": "6ABDAFFFA462AE4A3E8DE06A0255DBEFC6BE1D0F0CB102315BD4CE1C58A44ADE",
+          "template_start": 0,
+          "template_end": 453,
+          "template_name": "UI",
+          "template_raw_sha256": "4bbc0407e85f470cbc30855a663be2edf5e4033bb46087ea7975298de3559621",
+          "slot": "2, 7",
+          "menu": "Kay",
+          "slot_raw": "Ladder, none;none, &aToss To Shore, &7Kay will toss you to the/&7mainland\\, no problem.//&7Cost: &d200 Motes//&eClick to get tossed!",
+          "context_id": "aea253a94e359fc6d84347fe9f7c2f5f70f1ba760760753d7fb3fdf37fb81deb",
+          "context_row_index": 6
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1226,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Kay hates leeches and collects",
+      "legacy": "§7Kay hates leeches and collects",
+      "source_id": "1b4b1ab4546677e930df3c02ce0e2e539fc4e950982a7da0579c19801f6aced1",
+      "context_id": "ef55cee7480373458b70ff40c7a50522e953a3eeb139a807240ef97ebc3e4858",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kay/UI?oldid=705814",
+          "page": "Kay/UI",
+          "revision": 705814,
+          "raw_sha256": "6ABDAFFFA462AE4A3E8DE06A0255DBEFC6BE1D0F0CB102315BD4CE1C58A44ADE",
+          "template_start": 0,
+          "template_end": 453,
+          "template_name": "UI",
+          "template_raw_sha256": "4bbc0407e85f470cbc30855a663be2edf5e4033bb46087ea7975298de3559621",
+          "slot": "2, 5",
+          "menu": "Kay",
+          "slot_raw": "Lily Pad, none;none, &aSell Lil' Pads, &7Kay hates leeches and collects/&7their lil' pads for research.//&7Per pad: &d10 Motes/&7You have: &a13 pads//&7You earn: &d130 Motes//&eClick to sell!",
+          "context_id": "ef55cee7480373458b70ff40c7a50522e953a3eeb139a807240ef97ebc3e4858",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1227,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "their lil' pads for research.",
+      "legacy": "§7their lil' pads for research.",
+      "source_id": "24c9e172f679bdb39c752e965be2fbc0902b0605d10e06a540ebe65a30c9cd86",
+      "context_id": "ef55cee7480373458b70ff40c7a50522e953a3eeb139a807240ef97ebc3e4858",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kay/UI?oldid=705814",
+          "page": "Kay/UI",
+          "revision": 705814,
+          "raw_sha256": "6ABDAFFFA462AE4A3E8DE06A0255DBEFC6BE1D0F0CB102315BD4CE1C58A44ADE",
+          "template_start": 0,
+          "template_end": 453,
+          "template_name": "UI",
+          "template_raw_sha256": "4bbc0407e85f470cbc30855a663be2edf5e4033bb46087ea7975298de3559621",
+          "slot": "2, 5",
+          "menu": "Kay",
+          "slot_raw": "Lily Pad, none;none, &aSell Lil' Pads, &7Kay hates leeches and collects/&7their lil' pads for research.//&7Per pad: &d10 Motes/&7You have: &a13 pads//&7You earn: &d130 Motes//&eClick to sell!",
+          "context_id": "ef55cee7480373458b70ff40c7a50522e953a3eeb139a807240ef97ebc3e4858",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1228,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "genetics, they only require 2 shards",
+      "legacy": "§7genetics, they only require 2 shards",
+      "source_id": "285f1ae76d55b44aa6df1d651e6af785b5ec5c9279c1f8736060974c56e104a0",
+      "context_id": "7f3c834ff45e7ddeada288276cc1680d5f50839fc4ecfa843f179b3e02152a23",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kiara/UI?oldid=832642",
+          "page": "Kiara/UI",
+          "revision": 832642,
+          "raw_sha256": "A0F7FE3BC73DFF2CF76E37DD91B97EFEE1F36AFB36BD7F520BA202897E56D409",
+          "template_start": 21,
+          "template_end": 1653,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "78b7d9ebba193d1e23aaba25d75a00853c54d5747443cc238ec812513027ac9a",
+          "slot": "1, 5",
+          "menu": "Kiara",
+          "slot_raw": "Kiara Head, none;none, &bKiara, &aReptiles &7and &bAmphibians &7have unique/&7genetics\\, they only require 2 shards/&7to combine inside the Fusion Machine\\,/&7instead of 5!",
+          "context_id": "7f3c834ff45e7ddeada288276cc1680d5f50839fc4ecfa843f179b3e02152a23",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1229,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "to combine inside the Fusion Machine,",
+      "legacy": "§7to combine inside the Fusion Machine,",
+      "source_id": "b503949fb0dab1e548f8dda2b2c798a31976ecdaa5eb57b8a50285d1efc43427",
+      "context_id": "7f3c834ff45e7ddeada288276cc1680d5f50839fc4ecfa843f179b3e02152a23",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kiara/UI?oldid=832642",
+          "page": "Kiara/UI",
+          "revision": 832642,
+          "raw_sha256": "A0F7FE3BC73DFF2CF76E37DD91B97EFEE1F36AFB36BD7F520BA202897E56D409",
+          "template_start": 21,
+          "template_end": 1653,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "78b7d9ebba193d1e23aaba25d75a00853c54d5747443cc238ec812513027ac9a",
+          "slot": "1, 5",
+          "menu": "Kiara",
+          "slot_raw": "Kiara Head, none;none, &bKiara, &aReptiles &7and &bAmphibians &7have unique/&7genetics\\, they only require 2 shards/&7to combine inside the Fusion Machine\\,/&7instead of 5!",
+          "context_id": "7f3c834ff45e7ddeada288276cc1680d5f50839fc4ecfa843f179b3e02152a23",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1230,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "instead of 5!",
+      "legacy": "§7instead of 5!",
+      "source_id": "930054ddf5b4648db5fe3f41cdc40603ff811f2490b7ca208d9b045bcff447fe",
+      "context_id": "7f3c834ff45e7ddeada288276cc1680d5f50839fc4ecfa843f179b3e02152a23",
+      "context_row_index": 4,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kiara/UI?oldid=832642",
+          "page": "Kiara/UI",
+          "revision": 832642,
+          "raw_sha256": "A0F7FE3BC73DFF2CF76E37DD91B97EFEE1F36AFB36BD7F520BA202897E56D409",
+          "template_start": 21,
+          "template_end": 1653,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "78b7d9ebba193d1e23aaba25d75a00853c54d5747443cc238ec812513027ac9a",
+          "slot": "1, 5",
+          "menu": "Kiara",
+          "slot_raw": "Kiara Head, none;none, &bKiara, &aReptiles &7and &bAmphibians &7have unique/&7genetics\\, they only require 2 shards/&7to combine inside the Fusion Machine\\,/&7instead of 5!",
+          "context_id": "7f3c834ff45e7ddeada288276cc1680d5f50839fc4ecfa843f179b3e02152a23",
+          "context_row_index": 4
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1231,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Click to set the Launch Pad's",
+      "legacy": "§7Click to set the Launch Pad's",
+      "source_id": "108d99662ae8ebf34160cbba88eada954a8fb03aa3eb91f5fd0942919a93374e",
+      "context_id": "02b8b4205c3ac7108b8f8a4943cc0bc9ad8218ee000fcd2cb21e641e624a9e68",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 28,
+          "template_end": 758,
+          "template_name": "UI",
+          "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+          "slot": "2, 5",
+          "menu": "Launch Pad Settings",
+          "slot_raw": "Weighted Pressure Plate (Heavy), horizontal, &aChange Horizontal Strength, &7Click to set the Launch Pad's/&7launch strength!//&7Current Strength: &a5//&eClick to change!",
+          "context_id": "02b8b4205c3ac7108b8f8a4943cc0bc9ad8218ee000fcd2cb21e641e624a9e68",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1232,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "launch strength!",
+      "legacy": "§7launch strength!",
+      "source_id": "dab005a09f3dca7dbfa5b88525e87a9a3239c3227f07dc0a413ba77358d8c60b",
+      "context_id": "02b8b4205c3ac7108b8f8a4943cc0bc9ad8218ee000fcd2cb21e641e624a9e68",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 28,
+          "template_end": 758,
+          "template_name": "UI",
+          "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+          "slot": "2, 5",
+          "menu": "Launch Pad Settings",
+          "slot_raw": "Weighted Pressure Plate (Heavy), horizontal, &aChange Horizontal Strength, &7Click to set the Launch Pad's/&7launch strength!//&7Current Strength: &a5//&eClick to change!",
+          "context_id": "02b8b4205c3ac7108b8f8a4943cc0bc9ad8218ee000fcd2cb21e641e624a9e68",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1233,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Click to set how high the Launch",
+      "legacy": "§7Click to set how high the Launch",
+      "source_id": "5a7d04684d45dd45e47b5262a4576181eccb10c04500521cda2151b780e5a7ba",
+      "context_id": "99452812b165fedf098ab6af81359799e7a546f6ca41cd3e78b267d5f460c4a8",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 28,
+          "template_end": 758,
+          "template_name": "UI",
+          "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+          "slot": "2, 7",
+          "menu": "Launch Pad Settings",
+          "slot_raw": "Weighted Pressure Plate (Light), vertical, &aChange Vertical Strength, &7Click to set how high the Launch/&7Pad's will launch you!//&7Current Strength: &a5//&eClick to change!",
+          "context_id": "99452812b165fedf098ab6af81359799e7a546f6ca41cd3e78b267d5f460c4a8",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1234,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Pad's will launch you!",
+      "legacy": "§7Pad's will launch you!",
+      "source_id": "619512ac8cd92063ec99865f0e0cd19f401a4da4b3cfc5052d0326c2e2359838",
+      "context_id": "99452812b165fedf098ab6af81359799e7a546f6ca41cd3e78b267d5f460c4a8",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 28,
+          "template_end": 758,
+          "template_name": "UI",
+          "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+          "slot": "2, 7",
+          "menu": "Launch Pad Settings",
+          "slot_raw": "Weighted Pressure Plate (Light), vertical, &aChange Vertical Strength, &7Click to set how high the Launch/&7Pad's will launch you!//&7Current Strength: &a5//&eClick to change!",
+          "context_id": "99452812b165fedf098ab6af81359799e7a546f6ca41cd3e78b267d5f460c4a8",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1235,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Change the launch pads mode,",
+      "legacy": "§7Change the launch pads mode,",
+      "source_id": "8f07b73a517273596033726c529e69b7da0b1622224b5a8747bd25a6cebfb543",
+      "context_id": "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 28,
+          "template_end": 758,
+          "template_name": "UI",
+          "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+          "slot": "2, 3",
+          "menu": "Launch Pad Settings",
+          "slot_raw": "Slime Block, none, &aToggle Mode, &7Change the launch pads mode\\,/&7which will change how you are/&7launched when stepping on it!//&7Current Mode: &aForward/&7The launch pad will launch you/&7forward.//&eClick to toggle!",
+          "context_id": "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1236,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "which will change how you are",
+      "legacy": "§7which will change how you are",
+      "source_id": "9a41884ee31a26641dee8468d55818573dc78737e268702eab1c333b41fd5d12",
+      "context_id": "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 28,
+          "template_end": 758,
+          "template_name": "UI",
+          "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+          "slot": "2, 3",
+          "menu": "Launch Pad Settings",
+          "slot_raw": "Slime Block, none, &aToggle Mode, &7Change the launch pads mode\\,/&7which will change how you are/&7launched when stepping on it!//&7Current Mode: &aForward/&7The launch pad will launch you/&7forward.//&eClick to toggle!",
+          "context_id": "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1237,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "launched when stepping on it!",
+      "legacy": "§7launched when stepping on it!",
+      "source_id": "cb392c609aa07a454d092838a7892df3362d5b9f8dc19eec6860af29b06dc627",
+      "context_id": "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 28,
+          "template_end": 758,
+          "template_name": "UI",
+          "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+          "slot": "2, 3",
+          "menu": "Launch Pad Settings",
+          "slot_raw": "Slime Block, none, &aToggle Mode, &7Change the launch pads mode\\,/&7which will change how you are/&7launched when stepping on it!//&7Current Mode: &aForward/&7The launch pad will launch you/&7forward.//&eClick to toggle!",
+          "context_id": "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1238,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "The launch pad will launch you",
+      "legacy": "§7The launch pad will launch you",
+      "source_id": "e5cc582ef3851098de8ef1383b04177a39ac7f31a811d0b8b995470fcd7db219",
+      "context_id": "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026",
+      "context_row_index": 6,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 28,
+          "template_end": 758,
+          "template_name": "UI",
+          "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+          "slot": "2, 3",
+          "menu": "Launch Pad Settings",
+          "slot_raw": "Slime Block, none, &aToggle Mode, &7Change the launch pads mode\\,/&7which will change how you are/&7launched when stepping on it!//&7Current Mode: &aForward/&7The launch pad will launch you/&7forward.//&eClick to toggle!",
+          "context_id": "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026",
+          "context_row_index": 6
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1239,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Click to select a strength of",
+      "legacy": "§7Click to select a strength of",
+      "source_id": "9ea7c5deb88525345d7cd3bb73d22199bbedc19970d0494207b1ceb19e35151a",
+      "context_id": "e088b429180481eb2ffccaf4d46aa13b9879a19431ad504640d85f6075b968a0",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 759,
+          "template_end": 2314,
+          "template_name": "UI",
+          "template_raw_sha256": "c247660e25cc410b6a68b0cb09e299c62fb93daabfdcc665aeb450feba7887f3",
+          "slot": "2, 2",
+          "menu": "Horizontal Strength",
+          "slot_raw": "Gray Dye, none, &aSelect: 1, &7Click to select a strength of/&a1&7 for the Launch Pad's/&7launch strength!",
+          "context_id": "e088b429180481eb2ffccaf4d46aa13b9879a19431ad504640d85f6075b968a0",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1240,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "vertical strength!",
+      "legacy": "§7vertical strength!",
+      "source_id": "5822a65524e546705905ab4a7205d25e14362a8f7244f10e3fc3d00076edbc1e",
+      "context_id": "f1c41a4946cac269670111101e3a9b20caa54a5f68422593ab795668170a21e5",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+          "page": "Launch Pad/UI",
+          "revision": 391616,
+          "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+          "template_start": 2315,
+          "template_end": 3890,
+          "template_name": "UI",
+          "template_raw_sha256": "43b6442a5532e47124eeaf4d5fb8760a37f833cc6a14408e4b0349d5759e5b07",
+          "slot": "2, 2",
+          "menu": "Vertical Strength",
+          "slot_raw": "Gray Dye, none, &aSelect: 1, &7Click to select a strength of/&a1&7 for the Launch Pad's/&7vertical strength!",
+          "context_id": "f1c41a4946cac269670111101e3a9b20caa54a5f68422593ab795668170a21e5",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1241,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Lava Fishing Sack",
+      "legacy": "§8Lava Fishing Sack",
+      "source_id": "c6b33c015474308df0ffd2d3fd80ba61bfca2e9248f9a683c777e701dd28d468",
+      "context_id": "c95b63e7788a3f1e326b624912e51e85c01e8c080aad51f2a3d6c115d606a445",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lava_Fishing_Sack/UI?oldid=768223",
+          "page": "Lava Fishing Sack/UI",
+          "revision": 768223,
+          "raw_sha256": "4036CA7FAC499D309B68AA0CD4DADA84D9F32D8280DBEDA46C31BDA9442CD748",
+          "template_start": 0,
+          "template_end": 2633,
+          "template_name": "UI",
+          "template_raw_sha256": "da8ea4e104e7ece2dff41125a2d1ee474413df27e0d807b5e3e6fa241710841b",
+          "slot": "2, 2",
+          "menu": "Lava Fishing Sack",
+          "slot_raw": "Blaze Powder, none; Blaze Powder, &aBlaze Powder, &8Lava Fishing Sack//&7Stored: &80&7\\/20k//&8Empty sack!",
+          "context_id": "c95b63e7788a3f1e326b624912e51e85c01e8c080aad51f2a3d6c115d606a445",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1242,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Trade in items that are no longer",
+      "legacy": "§7Trade in items that are no longer",
+      "source_id": "516f50e3d507048c835e65922a7f3d50ad22edf9418d0d6efb069b0854153021",
+      "context_id": "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Legacy_Trades/UI?oldid=785449",
+          "page": "Legacy Trades/UI",
+          "revision": 785449,
+          "raw_sha256": "10C0A42C6AFA73BBA7C2BFA16034003889CCCAAE10A91DCB79B0E9F971DCCCAD",
+          "template_start": 0,
+          "template_end": 936,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "abf8688469e3879f9bb7fd5c18bbd737af21835d4716a010662b6db297d56ce6",
+          "slot": "1, 5",
+          "menu": "Legacy Trades",
+          "slot_raw": "Blaze Powder, none;none, &aLegacy Trades,&7Trade in items that are no longer/&7used throughout SkyBlock and/&7receive their more modern/&7counterparts in return!",
+          "context_id": "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1243,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "used throughout SkyBlock and",
+      "legacy": "§7used throughout SkyBlock and",
+      "source_id": "0ecc12ec47f793072edc6a46cfe09d15ac11d4522c26405594bcbfb814dd1fd9",
+      "context_id": "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Legacy_Trades/UI?oldid=785449",
+          "page": "Legacy Trades/UI",
+          "revision": 785449,
+          "raw_sha256": "10C0A42C6AFA73BBA7C2BFA16034003889CCCAAE10A91DCB79B0E9F971DCCCAD",
+          "template_start": 0,
+          "template_end": 936,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "abf8688469e3879f9bb7fd5c18bbd737af21835d4716a010662b6db297d56ce6",
+          "slot": "1, 5",
+          "menu": "Legacy Trades",
+          "slot_raw": "Blaze Powder, none;none, &aLegacy Trades,&7Trade in items that are no longer/&7used throughout SkyBlock and/&7receive their more modern/&7counterparts in return!",
+          "context_id": "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1244,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "receive their more modern",
+      "legacy": "§7receive their more modern",
+      "source_id": "809f261452628bd0447a22f4c30029f48d45641bc47540e7d10aeac4777acbb8",
+      "context_id": "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa",
+      "context_row_index": 3,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Legacy_Trades/UI?oldid=785449",
+          "page": "Legacy Trades/UI",
+          "revision": 785449,
+          "raw_sha256": "10C0A42C6AFA73BBA7C2BFA16034003889CCCAAE10A91DCB79B0E9F971DCCCAD",
+          "template_start": 0,
+          "template_end": 936,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "abf8688469e3879f9bb7fd5c18bbd737af21835d4716a010662b6db297d56ce6",
+          "slot": "1, 5",
+          "menu": "Legacy Trades",
+          "slot_raw": "Blaze Powder, none;none, &aLegacy Trades,&7Trade in items that are no longer/&7used throughout SkyBlock and/&7receive their more modern/&7counterparts in return!",
+          "context_id": "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa",
+          "context_row_index": 3
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1245,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "counterparts in return!",
+      "legacy": "§7counterparts in return!",
+      "source_id": "c3cce85fa621aeeeaf75005cbb727e3f59cf006269d0bc31d7f1c85f195dbef8",
+      "context_id": "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa",
+      "context_row_index": 4,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Legacy_Trades/UI?oldid=785449",
+          "page": "Legacy Trades/UI",
+          "revision": 785449,
+          "raw_sha256": "10C0A42C6AFA73BBA7C2BFA16034003889CCCAAE10A91DCB79B0E9F971DCCCAD",
+          "template_start": 0,
+          "template_end": 936,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "abf8688469e3879f9bb7fd5c18bbd737af21835d4716a010662b6db297d56ce6",
+          "slot": "1, 5",
+          "menu": "Legacy Trades",
+          "slot_raw": "Blaze Powder, none;none, &aLegacy Trades,&7Trade in items that are no longer/&7used throughout SkyBlock and/&7receive their more modern/&7counterparts in return!",
+          "context_id": "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa",
+          "context_row_index": 4
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1246,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "View a complete list of all",
+      "legacy": "§7View a complete list of all",
+      "source_id": "79b060236b16131528c06a4149f4de945910ce6e44c66a16f04dd06ece6018de",
+      "context_id": "042118e68feafb935be37076bc00ccc296439f82341dff8bda871eb4d7d7b30c",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian/UI?oldid=785239",
+          "page": "Librarian/UI",
+          "revision": 785239,
+          "raw_sha256": "3D70E8C73D92CCFBC32B27573D34A14B79C3A1E15AA63DBCAD8B5D612D3FF449",
+          "template_start": 0,
+          "template_end": 1258,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "6384066879aaa941f5a9cbed3b94a78efea3c7d59d06767bb3c4e04f4fe993dc",
+          "slot": "6, 6",
+          "menu": "Librarian",
+          "slot_raw": "Knowledge Book, none; none, &a⚑ Enchantment Guide, &7View a complete list of all/&7enchantments and their requirements./&5&o/&8Also accessible via \\/enchantments/&5&o/&eClick to view!",
+          "context_id": "042118e68feafb935be37076bc00ccc296439f82341dff8bda871eb4d7d7b30c",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1247,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "enchantments and their requirements.",
+      "legacy": "§7enchantments and their requirements.",
+      "source_id": "506cce20c87653089b5e07b98cc90b0fe0203a625e76277f7de72143f1fdc3ec",
+      "context_id": "042118e68feafb935be37076bc00ccc296439f82341dff8bda871eb4d7d7b30c",
+      "context_row_index": 2,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian/UI?oldid=785239",
+          "page": "Librarian/UI",
+          "revision": 785239,
+          "raw_sha256": "3D70E8C73D92CCFBC32B27573D34A14B79C3A1E15AA63DBCAD8B5D612D3FF449",
+          "template_start": 0,
+          "template_end": 1258,
+          "template_name": "Shop UI",
+          "template_raw_sha256": "6384066879aaa941f5a9cbed3b94a78efea3c7d59d06767bb3c4e04f4fe993dc",
+          "slot": "6, 6",
+          "menu": "Librarian",
+          "slot_raw": "Knowledge Book, none; none, &a⚑ Enchantment Guide, &7View a complete list of all/&7enchantments and their requirements./&5&o/&8Also accessible via \\/enchantments/&5&o/&eClick to view!",
+          "context_id": "042118e68feafb935be37076bc00ccc296439f82341dff8bda871eb4d7d7b30c",
+          "context_row_index": 2
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1248,
+      "baseline_jar": "0.16.13-dev"
+    },
+    {
+      "source": "Teleports you to the",
+      "legacy": "§7Teleports you to the",
+      "source_id": "a2cc555265e5f53f19a732903b931e83ddfc909e3875076a159d1ec61f09d20e",
+      "context_id": "e5dfe80183f19a60799d190fe139fcddbfaafa03d8ec431ee77054b92123cdd9",
+      "context_row_index": 1,
+      "origins": [
+        {
+          "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lift_Operator/UI?oldid=460739",
+          "page": "Lift Operator/UI",
+          "revision": 460739,
+          "raw_sha256": "F28B0399E3AE225FA5DC38B161FAEFE906489D813CA8234EA42128C5B8DC8706",
+          "template_start": 0,
+          "template_end": 862,
+          "template_name": "UI",
+          "template_raw_sha256": "525a8bef6fdf4a5ab09ae586ae4c864655307e30bad1f9d54e050c573d7c7e1a",
+          "slot": "2,8",
+          "menu": "Lift Operator",
+          "slot_raw": "Emerald, none;Slimehill, &aSlimehill, &7Teleports you to the/&bSlimehill&7!//&eClick to travel!",
+          "context_id": "e5dfe80183f19a60799d190fe139fcddbfaafa03d8ec431ee77054b92123cdd9",
+          "context_row_index": 1
+        }
+      ],
+      "kind": "wiki_ui_literal",
+      "status": "awaiting_baseline_and_editorial_review",
+      "batch_index": 1249,
+      "baseline_jar": "0.16.13-dev"
+    }
+  ],
+  "contexts": {
+    "b92a3ed9e40ad1d1134e8071a12896e4479d545ee4acefa9581ce64156839d2f": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ike/UI/Default?oldid=823385",
+        "page": "Ike/UI/Default",
+        "revision": 823385,
+        "raw_sha256": "E55D49231106BA3975B3C2D07BDDAE764365B40D9EC8911AE2E3DFD83D10ABB5",
+        "template_start": 0,
+        "template_end": 7343,
+        "template_name": "UI",
+        "template_raw_sha256": "0fd858aef18569cda0ec71c7a0e6260c322ae903cae6c7c6662eb1d16c629e5c",
+        "slot": "2, 6",
+        "menu": "Collected Mob Types",
+        "slot_raw": "Gray Dye, none, &7 Arthropod, &7Enemies of this type are typically/&7found in the &cSpider's Den&7. Enemies of/&7this type take increased damage/&7from the &9Bane of Arthropods/&9&7enchantment.//&7Rewards:/&5 &8+&31\\,000 &7Combat Experience/&5 &8+&61\\,000 Coins/&5 &8+&b1 SkyBlock XP/&5&o/&cKill an enemy of this type to unlock/&cthese rewards!"
+      },
+      "lines": [
+        "§7 Arthropod",
+        "§7Enemies of this type are typically",
+        "§7found in the §cSpider's Den§7. Enemies of",
+        "§7this type take increased damage",
+        "§7from the §9Bane of Arthropods",
+        "§9§7enchantment.",
+        "",
+        "§7Rewards:",
+        "§5 §8+§31,000 §7Combat Experience",
+        "§5 §8+§61,000 Coins",
+        "§5 §8+§b1 SkyBlock XP",
+        "§5§o",
+        "§cKill an enemy of this type to unlock",
+        "§cthese rewards!"
+      ]
+    },
+    "ee325ebb243c6990843b05a5a82b4cb09d5e9580c89603ddca4a53dee73c1781": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ike/UI/Default?oldid=823385",
+        "page": "Ike/UI/Default",
+        "revision": 823385,
+        "raw_sha256": "E55D49231106BA3975B3C2D07BDDAE764365B40D9EC8911AE2E3DFD83D10ABB5",
+        "template_start": 0,
+        "template_end": 7343,
+        "template_name": "UI",
+        "template_raw_sha256": "0fd858aef18569cda0ec71c7a0e6260c322ae903cae6c7c6662eb1d16c629e5c",
+        "slot": "2, 2",
+        "menu": "Collected Mob Types",
+        "slot_raw": "Gray Dye, none, &7 Airborne, &7Most commonly found flying around./&7Enemies of this type take increased/&7damage from the &9Gravity &7enchantment.//&7Rewards:/&5 &8+&31\\,000 &7Combat Experience/&5 &8+&61\\,000 Coins/&5 &8+&b1 SkyBlock XP/&5&o/&cKill an enemy of this type to unlock/&cthese rewards!"
+      },
+      "lines": [
+        "§7 Airborne",
+        "§7Most commonly found flying around.",
+        "§7Enemies of this type take increased",
+        "§7damage from the §9Gravity §7enchantment.",
+        "",
+        "§7Rewards:",
+        "§5 §8+§31,000 §7Combat Experience",
+        "§5 §8+§61,000 Coins",
+        "§5 §8+§b1 SkyBlock XP",
+        "§5§o",
+        "§cKill an enemy of this type to unlock",
+        "§cthese rewards!"
+      ]
+    },
+    "189b6a6f49d2ea371ef622296aa9935c5713be40f11ce97fc745f766fa718946": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+        "page": "InfiniVacuum™ Hooverius/UI",
+        "revision": 844655,
+        "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+        "template_start": 21,
+        "template_end": 3938,
+        "template_name": "UI",
+        "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+        "slot": "2, 4",
+        "menu": "Stereo Harmony",
+        "slot_raw": "Gray Dye, none;none, &cCricket Choir, &7When playing\\, &2Cricket Pests &7are more/&7likely to spawn on your &aGarden &7plots!//&7Dropped by &2Cricket Pests &7rarely/&7when vacuuming!//&7&eClick a &aCricket Choir Vinyl &ein your/&einventory to add it to your collection!"
+      },
+      "lines": [
+        "§cCricket Choir",
+        "§7When playing, §2Cricket Pests §7are more",
+        "§7likely to spawn on your §aGarden §7plots!",
+        "",
+        "§7Dropped by §2Cricket Pests §7rarely",
+        "§7when vacuuming!",
+        "",
+        "§7§eClick a §aCricket Choir Vinyl §ein your",
+        "§einventory to add it to your collection!"
+      ]
+    },
+    "367ab52fb952eb4f717ff5e7d47768024aaeff3211a7957a5fd8f20a94fba014": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+        "page": "InfiniVacuum™ Hooverius/UI",
+        "revision": 844655,
+        "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+        "template_start": 21,
+        "template_end": 3938,
+        "template_name": "UI",
+        "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+        "slot": "2, 6",
+        "menu": "Stereo Harmony",
+        "slot_raw": "Gray Dye, none;none, &cRodent Revolution, &7When playing\\, &2Rat Pests &7are more/&7likely to spawn on your &aGarden &7plots!//&7Dropped by &2Rat Pests &7rarely when/&7vacuuming!//&7&eClick a &aRodent Revolution Vinyl &ein/&eyour inventory to add it to your/&ecollection!"
+      },
+      "lines": [
+        "§cRodent Revolution",
+        "§7When playing, §2Rat Pests §7are more",
+        "§7likely to spawn on your §aGarden §7plots!",
+        "",
+        "§7Dropped by §2Rat Pests §7rarely when",
+        "§7vacuuming!",
+        "",
+        "§7§eClick a §aRodent Revolution Vinyl §ein",
+        "§eyour inventory to add it to your",
+        "§ecollection!"
+      ]
+    },
+    "9b29bdc7e67aa06421e1d1e104857db70f1859bd84ea20bb1db4c3f6d30da20e": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+        "page": "InfiniVacuum™ Hooverius/UI",
+        "revision": 844655,
+        "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+        "template_start": 21,
+        "template_end": 3938,
+        "template_name": "UI",
+        "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+        "slot": "4, 6",
+        "menu": "Stereo Harmony",
+        "slot_raw": "Gray Dye, none;none, &cPray For Me, &7When playing\\, &2Praying Mantis Pests/&7are more likely to spawn on your/&aGarden &7plots!//&7Dropped by &2Praying Mantis Pests/&7rarely when vacuuming!//&7&eClick a &aPray For Me Vinyl &ein your/&einventory to add it to your collection!"
+      },
+      "lines": [
+        "§cPray For Me",
+        "§7When playing, §2Praying Mantis Pests",
+        "§7are more likely to spawn on your",
+        "§aGarden §7plots!",
+        "",
+        "§7Dropped by §2Praying Mantis Pests",
+        "§7rarely when vacuuming!",
+        "",
+        "§7§eClick a §aPray For Me Vinyl §ein your",
+        "§einventory to add it to your collection!"
+      ]
+    },
+    "f34b75cacdaf7b79104f5a8583252f5a81b720fccaecd2632164dbf05e7ad0a7": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI?oldid=844655",
+        "page": "InfiniVacuum™ Hooverius/UI",
+        "revision": 844655,
+        "raw_sha256": "51550B877A859422D2A222919F40D0A072F75B73C8D3BA3900548FA853D548FE",
+        "template_start": 21,
+        "template_end": 3938,
+        "template_name": "UI",
+        "template_raw_sha256": "1f2424f3e06efb822ad09735597db990dcb523bcb68de42337222e3a5c0b785b",
+        "slot": "2, 3",
+        "menu": "Stereo Harmony",
+        "slot_raw": "Gray Dye, none;none, &cPretty Fly, &7When playing\\, &2Fly Pests &7are more/&7likely to spawn on your &aGarden &7plots!//&7Dropped by &2Fly Pests &7rarely when/&7vacuuming!//&7&eClick a &aPretty Fly Vinyl &ein your/&einventory to add it to your collection!"
+      },
+      "lines": [
+        "§cPretty Fly",
+        "§7When playing, §2Fly Pests §7are more",
+        "§7likely to spawn on your §aGarden §7plots!",
+        "",
+        "§7Dropped by §2Fly Pests §7rarely when",
+        "§7vacuuming!",
+        "",
+        "§7§eClick a §aPretty Fly Vinyl §ein your",
+        "§einventory to add it to your collection!"
+      ]
+    },
+    "1d7589e3bf08aba874aeba7a5e0640cdc6eed08f1ee199692d23dafc04e83f07": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+        "page": "Island NPC/UI",
+        "revision": 429031,
+        "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+        "template_start": 28,
+        "template_end": 918,
+        "template_name": "UI",
+        "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+        "slot": "3, 3",
+        "menu": "Island NPC Settings",
+        "slot_raw": "Spawn, types, &aSelect NPC Type, &7Select the type of this island/&7NPC.//&7Current: &eVillager//&eClick to view!"
+      },
+      "lines": [
+        "§aSelect NPC Type",
+        "§7Select the type of this island",
+        "§7NPC.",
+        "",
+        "§7Current: §eVillager",
+        "",
+        "§eClick to view!"
+      ]
+    },
+    "4d1026ff803be18e577c5fdd78d9a01f5cd8f63377b537730fdfd8ec9036e43c": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+        "page": "Island NPC/UI",
+        "revision": 429031,
+        "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+        "template_start": 28,
+        "template_end": 918,
+        "template_name": "UI",
+        "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+        "slot": "3, 7",
+        "menu": "Island NPC Settings",
+        "slot_raw": "Map, none;none, &aEdit Dialogue, &7You can add dialogue to island/&7NPCs for players to read.//&7Current:/&cNone//&7&7Once you select this island/&7NPC\\, use &b\\/dialogue &7to edit/&7its dialogue.//&7&8Left-Click the NPC to view/&8dialogue as a guest./&7&8100 lines max.//&eClick to select and edit!"
+      },
+      "lines": [
+        "§aEdit Dialogue",
+        "§7You can add dialogue to island",
+        "§7NPCs for players to read.",
+        "",
+        "§7Current:",
+        "§cNone",
+        "",
+        "§7§7Once you select this island",
+        "§7NPC, use §b/dialogue §7to edit",
+        "§7its dialogue.",
+        "",
+        "§7§8Left-Click the NPC to view",
+        "§8dialogue as a guest.",
+        "§7§8100 lines max.",
+        "",
+        "§eClick to select and edit!"
+      ]
+    },
+    "80a12ef17c4243a7f5225d4bad1643747242594b003804ad6a8912742f1ba87e": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+        "page": "Island NPC/UI",
+        "revision": 429031,
+        "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+        "template_start": 28,
+        "template_end": 918,
+        "template_name": "UI",
+        "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+        "slot": "3, 5",
+        "menu": "Island NPC Settings",
+        "slot_raw": "Name Tag, none, &aSelect NPC Name, &7Choose a name for your island/&7NPC.//&7Current: &eUntitled NPC//&eClick to edit!"
+      },
+      "lines": [
+        "§aSelect NPC Name",
+        "§7Choose a name for your island",
+        "§7NPC.",
+        "",
+        "§7Current: §eUntitled NPC",
+        "",
+        "§eClick to edit!"
+      ]
+    },
+    "9a6026b53af56ce18005905d9b76aaf11599f230b80257c050c76f5656c47ac8": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+        "page": "Island NPC/UI",
+        "revision": 429031,
+        "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+        "template_start": 28,
+        "template_end": 918,
+        "template_name": "UI",
+        "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+        "slot": "4, 5",
+        "menu": "Island NPC Settings",
+        "slot_raw": "Iron Hoe, villager, &aSelect Profession, &7Select the profession type of/&7this villager NPC.//&7Current: &eLibrarian//&eClick to view!"
+      },
+      "lines": [
+        "§aSelect Profession",
+        "§7Select the profession type of",
+        "§7this villager NPC.",
+        "",
+        "§7Current: §eLibrarian",
+        "",
+        "§eClick to view!"
+      ]
+    },
+    "d42e5634d6a7496184200e8397d4146a8b304035d3bfe1fc6a2aec101cd239a5": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC/UI?oldid=429031",
+        "page": "Island NPC/UI",
+        "revision": 429031,
+        "raw_sha256": "777EDE6D82EC8C6BE9E0E8980A0D03A85865311FB9833CCDA9F3976BC79FCAEB",
+        "template_start": 28,
+        "template_end": 918,
+        "template_name": "UI",
+        "template_raw_sha256": "06abe644b11796b124e3e73bf6b7e74895d58e8289e8515a7c7b4b13dc2b2686",
+        "slot": "6, 9",
+        "menu": "Island NPC Settings",
+        "slot_raw": "Bedrock, none;none, &aPickup Island NPC, &7Picks up this island NPC and/&7puts it in your inventory.//&eClick to pickup!"
+      },
+      "lines": [
+        "§aPickup Island NPC",
+        "§7Picks up this island NPC and",
+        "§7puts it in your inventory.",
+        "",
+        "§eClick to pickup!"
+      ]
+    },
+    "c1bcc51f6801bcf1207663cea37537c36c429506a9370f5aba245919e49363bf": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Item_Frame/UI?oldid=819459",
+        "page": "Item Frame/UI",
+        "revision": 819459,
+        "raw_sha256": "3AE2DE716FFD8BDB7CC9B26F1DE61987A1E15A6E4FE718F5FE02F61218709C1B",
+        "template_start": 0,
+        "template_end": 309,
+        "template_name": "UI",
+        "template_raw_sha256": "6b452ed62bfea03d6b0cdbe5876ad6fca74a355e6d07dbae046096a785053348",
+        "slot": "4, 9",
+        "menu": "Item Frame",
+        "slot_raw": "Item Frame, none;none, &6Menu Toggle, &7When you hit an &bItem Frame &7it will open/&7this menu instead of popping out the item!//&8&oYou can still Shift+Left-Click/&8&oto remove Item Frames normally.&r//&7Status: &cDisabled//&eClick to toggle!"
+      },
+      "lines": [
+        "§6Menu Toggle",
+        "§7When you hit an §bItem Frame §7it will open",
+        "§7this menu instead of popping out the item!",
+        "",
+        "§8§oYou can still Shift+Left-Click",
+        "§8§oto remove Item Frames normally.§r",
+        "",
+        "§7Status: §cDisabled",
+        "",
+        "§eClick to toggle!"
+      ]
+    },
+    "039b0e2ad2818660811a90798d51c88616ffe1bb59a1331f9261f2e1dc1d5c2e": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+        "page": "Jacob/UI",
+        "revision": 490828,
+        "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+        "template_start": 28,
+        "template_end": 938,
+        "template_name": "UI",
+        "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+        "slot": "2,3",
+        "menu": "Jacob's Farming Contests",
+        "slot_raw": "Sign, none;none, &aWhat is this?, &8Instructions//&7Every 3 SkyBlock days\\, I hold a contest/&7for 3 &efarming &7collections.//&7The contests last 1 SkyBlock day./&8(20 minutes)//&7The &etop &7players who increase/&7their collection the most earn/&aJacob's Tickets &7and &dunique/&drewards&7!//&8You may participate in 1 collection/&8contest per event!//&8Minions do not count in contests!"
+      },
+      "lines": [
+        "§aWhat is this?",
+        "§8Instructions",
+        "",
+        "§7Every 3 SkyBlock days, I hold a contest",
+        "§7for 3 §efarming §7collections.",
+        "",
+        "§7The contests last 1 SkyBlock day.",
+        "§8(20 minutes)",
+        "",
+        "§7The §etop §7players who increase",
+        "§7their collection the most earn",
+        "§aJacob's Tickets §7and §dunique",
+        "§drewards§7!",
+        "",
+        "§8You may participate in 1 collection",
+        "§8contest per event!",
+        "",
+        "§8Minions do not count in contests!"
+      ]
+    },
+    "32d3cd1b2385fb7bf49169afbe78f7b2b6d9bca7d4c88bce9f03992cb6b566e9": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+        "page": "Jacob/UI",
+        "revision": 490828,
+        "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+        "template_start": 28,
+        "template_end": 938,
+        "template_name": "UI",
+        "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+        "slot": "2,7",
+        "menu": "Jacob's Farming Contests",
+        "slot_raw": "Wheat, none;none, &bClaim your rewards!, &8Previous contests//&7You've participated in &e#/&7previous contests.//&7Medals inventory:/&6&lGOLD &7medals: &6#/&f&lSILVER &7medals: &f#/&c&lBRONZE &7medals: &c#//&eClick to view contests!"
+      },
+      "lines": [
+        "§bClaim your rewards!",
+        "§8Previous contests",
+        "",
+        "§7You've participated in §e#",
+        "§7previous contests.",
+        "",
+        "§7Medals inventory:",
+        "§6§lGOLD §7medals: §6#",
+        "§f§lSILVER §7medals: §f#",
+        "§c§lBRONZE §7medals: §c#",
+        "",
+        "§eClick to view contests!"
+      ]
+    },
+    "c8c0804e0b564cd8eade87544b4be6140e0890ea19ae4e627eebda58480c43cc": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jacob/UI?oldid=490828",
+        "page": "Jacob/UI",
+        "revision": 490828,
+        "raw_sha256": "24995C940F366558F9CE41D069D5003D6AA902D2A3A8DA60BAE8A9EFEA46DC35",
+        "template_start": 28,
+        "template_end": 938,
+        "template_name": "UI",
+        "template_raw_sha256": "762d942b3ed9e1eb47fca458459708add5480cbab530cabe3d864c9784ad519a",
+        "slot": "2,5",
+        "menu": "Jacob's Farming Contests",
+        "slot_raw": "Clock, none;none, &6Upcoming Contests, &8Schedule//&e[season] [#date]/&e○ &7[crop]/&e○ &7[crop]/&e○ &7[crop]//&e[season] [#date]/&e○ &7[crop]/&e○ &7[crop]/&e○ &7[crop]//&8View this info in your full/&8SkyBlock calendar!"
+      },
+      "lines": [
+        "§6Upcoming Contests",
+        "§8Schedule",
+        "",
+        "§e[season] [#date]",
+        "§e○ §7[crop]",
+        "§e○ §7[crop]",
+        "§e○ §7[crop]",
+        "",
+        "§e[season] [#date]",
+        "§e○ §7[crop]",
+        "§e○ §7[crop]",
+        "§e○ §7[crop]",
+        "",
+        "§8View this info in your full",
+        "§8SkyBlock calendar!"
+      ]
+    },
+    "8445e295cefc50d7a72ca321acdcebbfc370da740b857a5c8bc05dd9523edcae": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jax/UI?oldid=830019",
+        "page": "Jax/UI",
+        "revision": 830019,
+        "raw_sha256": "5540FCE01DEE4FBA18FE2D32805EB687310F1927382DCA4A62291E3C4F8EA4AE",
+        "template_start": 0,
+        "template_end": 1795,
+        "template_name": "Shop UI",
+        "template_raw_sha256": "8cb01a8c9460ba74e724ec31fe316b3190b618ae35d3bceacc54059fb3187143",
+        "slot": "6, 6",
+        "menu": "Forge Arrows",
+        "slot_raw": "Quiver, none, &aOpen Quiver, &7Hey\\, it's a shortcut!/&5&o/&eClick to open!"
+      },
+      "lines": [
+        "§aOpen Quiver",
+        "§7Hey, it's a shortcut!",
+        "§5§o",
+        "§eClick to open!"
+      ]
+    },
+    "10d35257bb801077956b2cbb4f11510e2c26c9fd2d7025a8a521452d4e7daf9f": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+        "page": "Jonesy/UI",
+        "revision": 676814,
+        "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+        "template_start": 2364,
+        "template_end": 3624,
+        "template_name": "UI",
+        "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+        "slot": "3, 7",
+        "menu": "Backwater Bayou ➜ Chapter I",
+        "slot_raw": "Gray Dye, none; none, &cLearn About Hotspots, &dFishing Hotspots &7grant bonus stats/&7when fishing in them\\, and allow you to/&7catch &dHotspot Sea Creatures&7. They/&7can be found around many islands./&5/&7Reward:/&5  &8+&3100 &7Fishing Experience"
+      },
+      "lines": [
+        "§cLearn About Hotspots",
+        "§dFishing Hotspots §7grant bonus stats",
+        "§7when fishing in them, and allow you to",
+        "§7catch §dHotspot Sea Creatures§7. They",
+        "§7can be found around many islands.",
+        "§5",
+        "§7Reward:",
+        "§5  §8+§3100 §7Fishing Experience"
+      ]
+    },
+    "4772ff32c771d9681d2dbdc353dc6a51608c17fa51fce2ec7b6a0a8741ae1337": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+        "page": "Jonesy/UI",
+        "revision": 676814,
+        "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+        "template_start": 28,
+        "template_end": 2363,
+        "template_name": "UI",
+        "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+        "slot": "3, 6",
+        "menu": "Backwater Bayou",
+        "slot_raw": "Red Stained Glass Pane; 5, none; none, &cChapter V, &8Backwater Bayou/&5/&7Time to upgrade the biggest hunk of/&7junk of them all - your &6Ship&7!/&5/&7Chapter V Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!"
+      },
+      "lines": [
+        "§cChapter V",
+        "§8Backwater Bayou",
+        "§5",
+        "§7Time to upgrade the biggest hunk of",
+        "§7junk of them all - your §6Ship§7!",
+        "§5",
+        "§7Chapter V Progress: §e0§6%",
+        "§f§l--------------------§5 §e0§6/§e6",
+        "§5",
+        "§cYou haven't unlocked this Chapter",
+        "§cyet!"
+      ]
+    },
+    "52f50bdf88d8de2ff2a3a333ce8cc80ed035995b40e8f53145e10e9a0fd9bdd3": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+        "page": "Jonesy/UI",
+        "revision": 676814,
+        "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+        "template_start": 28,
+        "template_end": 2363,
+        "template_name": "UI",
+        "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+        "slot": "3, 7",
+        "menu": "Backwater Bayou",
+        "slot_raw": "Red Stained Glass Pane; 6, none; none, &cChapter VI, &8Backwater Bayou/&5/&7Some &2Junk &7is actually pretty rare\\,/&7but you'll need it if you want to get/&7the strongest upgrades./&5/&7Chapter VI Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!"
+      },
+      "lines": [
+        "§cChapter VI",
+        "§8Backwater Bayou",
+        "§5",
+        "§7Some §2Junk §7is actually pretty rare,",
+        "§7but you'll need it if you want to get",
+        "§7the strongest upgrades.",
+        "§5",
+        "§7Chapter VI Progress: §e0§6%",
+        "§f§l--------------------§5 §e0§6/§e6",
+        "§5",
+        "§cYou haven't unlocked this Chapter",
+        "§cyet!"
+      ]
+    },
+    "71c183824a0e73ed0d174e7866adf88c909c8257f954ffd551b0a8325311bb3f": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+        "page": "Jonesy/UI",
+        "revision": 676814,
+        "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+        "template_start": 28,
+        "template_end": 2363,
+        "template_name": "UI",
+        "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+        "slot": "3, 5",
+        "menu": "Backwater Bayou",
+        "slot_raw": "Red Stained Glass Pane; 4, none; none, &cChapter IV, &8Backwater Bayou/&5/&7You're a true resident of the/&2Backwater Bayou &7now\\, but stronger/&7challenges await./&5/&7Chapter IV Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!"
+      },
+      "lines": [
+        "§cChapter IV",
+        "§8Backwater Bayou",
+        "§5",
+        "§7You're a true resident of the",
+        "§2Backwater Bayou §7now, but stronger",
+        "§7challenges await.",
+        "§5",
+        "§7Chapter IV Progress: §e0§6%",
+        "§f§l--------------------§5 §e0§6/§e6",
+        "§5",
+        "§cYou haven't unlocked this Chapter",
+        "§cyet!"
+      ]
+    },
+    "7a16be663074b61ad4e923948528c5a942fb40f6be2c4cc62c177fe87da7fa8c": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+        "page": "Jonesy/UI",
+        "revision": 676814,
+        "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+        "template_start": 28,
+        "template_end": 2363,
+        "template_name": "UI",
+        "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+        "slot": "3, 4",
+        "menu": "Backwater Bayou",
+        "slot_raw": "Red Stained Glass Pane; 3, none; none, &cChapter III, &8Backwater Bayou/&5/&7Start trading in &2Junk &7at &2Junker Joel/&7in exchange for some powerful/&7upgrades to your gear./&5/&7Chapter III Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e6/&5/&cYou haven't unlocked this Chapter/&cyet!"
+      },
+      "lines": [
+        "§cChapter III",
+        "§8Backwater Bayou",
+        "§5",
+        "§7Start trading in §2Junk §7at §2Junker Joel",
+        "§7in exchange for some powerful",
+        "§7upgrades to your gear.",
+        "§5",
+        "§7Chapter III Progress: §e0§6%",
+        "§f§l--------------------§5 §e0§6/§e6",
+        "§5",
+        "§cYou haven't unlocked this Chapter",
+        "§cyet!"
+      ]
+    },
+    "871798db18b748670f001eb7a28ac52bf6d43c9f7493176c8d2142d192eccf9c": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+        "page": "Jonesy/UI",
+        "revision": 676814,
+        "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+        "template_start": 2364,
+        "template_end": 3624,
+        "template_name": "UI",
+        "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+        "slot": "3, 5",
+        "menu": "Backwater Bayou ➜ Chapter I",
+        "slot_raw": "Gray Dye, none; none, &cApply a Rod Part, &2Roddy &7can apply &9Rod Parts&7\\, which/&7can help with customizing your/&afishing rods&7./&5/&7Reward:/&5  &8+&3100 &7Fishing Experience"
+      },
+      "lines": [
+        "§cApply a Rod Part",
+        "§2Roddy §7can apply §9Rod Parts§7, which",
+        "§7can help with customizing your",
+        "§afishing rods§7.",
+        "§5",
+        "§7Reward:",
+        "§5  §8+§3100 §7Fishing Experience"
+      ]
+    },
+    "ac9942c81cf0c6ece41fbbe69f587b8dc741153e56f84c193678f1f5b4dca001": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+        "page": "Jonesy/UI",
+        "revision": 676814,
+        "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+        "template_start": 2364,
+        "template_end": 3624,
+        "template_name": "UI",
+        "template_raw_sha256": "affeba76257756263f11dca720804cd7277739bcacb3fc56907b0f65a6a47943",
+        "slot": "4, 5",
+        "menu": "Backwater Bayou ➜ Chapter I",
+        "slot_raw": "Ender Chest, none; none, &cCompletion Rewards, &8Chapter I/&5/&7Obtain rewards for completing all/&7tasks in this Chapter!/&5/&7Chapter I Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e3/&5/&7Rewards:/&5  &bChapter II/&5  &9Treasure Bait &8x4/&5  &8+&b5 SkyBlock XP/&5/&cComplete all tasks to claim!"
+      },
+      "lines": [
+        "§cCompletion Rewards",
+        "§8Chapter I",
+        "§5",
+        "§7Obtain rewards for completing all",
+        "§7tasks in this Chapter!",
+        "§5",
+        "§7Chapter I Progress: §e0§6%",
+        "§f§l--------------------§5 §e0§6/§e3",
+        "§5",
+        "§7Rewards:",
+        "§5  §bChapter II",
+        "§5  §9Treasure Bait §8x4",
+        "§5  §8+§b5 SkyBlock XP",
+        "§5",
+        "§cComplete all tasks to claim!"
+      ]
+    },
+    "b9e097af10f427a0553370afb746a1717738918cbc410877cb86acc0921e46b7": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Jonesy/UI?oldid=676814",
+        "page": "Jonesy/UI",
+        "revision": 676814,
+        "raw_sha256": "770CBCE90125751CBF1B11E61C4FBC116D8925670E300D70B379BF380545A84C",
+        "template_start": 28,
+        "template_end": 2363,
+        "template_name": "UI",
+        "template_raw_sha256": "64ef6fce2b0eef7b0ad84a5ae63af8543b89a5a124d2932e78eedd9562dbcf28",
+        "slot": "3, 3",
+        "menu": "Backwater Bayou",
+        "slot_raw": "Red Stained Glass Pane; 2, none; none, &cChapter II, &8Backwater Bayou/&5/&7Grab your rod and join the cleanup/&7effort! Let's catch some &2Junk&7!/&5/&7Chapter II Progress: &e0&6%/&f&l--------------------&5 &e0&6\\/&e5/&5/&cYou haven't unlocked this Chapter/&cyet!"
+      },
+      "lines": [
+        "§cChapter II",
+        "§8Backwater Bayou",
+        "§5",
+        "§7Grab your rod and join the cleanup",
+        "§7effort! Let's catch some §2Junk§7!",
+        "§5",
+        "§7Chapter II Progress: §e0§6%",
+        "§f§l--------------------§5 §e0§6/§e5",
+        "§5",
+        "§cYou haven't unlocked this Chapter",
+        "§cyet!"
+      ]
+    },
+    "6f3b854e1aa99c1115bae8342e3db6f67cc4f562e107430962dd3994642a2e2d": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Judicial_Goon/UI?oldid=656342",
+        "page": "Judicial Goon/UI",
+        "revision": 656342,
+        "raw_sha256": "0F7412FF4737821A7B085F7FAC46332DDE788E831ADAFF5425B874642EC018AE",
+        "template_start": 0,
+        "template_end": 355,
+        "template_name": "UI",
+        "template_raw_sha256": "344137001ba93444b92cf483a4fd7adf6ad48ae275cd9f07d6c4606aae3374eb",
+        "slot": "2, 7",
+        "menu": "Vote to Free?",
+        "slot_raw": "Red Stained Clay, none, &cDeny, &7Vote against freeing the prisoners.//&7&6Bribe/&7Gain &b+5✯ Magic Find &7for &a2hr&7. You/&7can re-cast your vote after this/&7effect expires."
+      },
+      "lines": [
+        "§cDeny",
+        "§7Vote against freeing the prisoners.",
+        "",
+        "§7§6Bribe",
+        "§7Gain §b+5✯ Magic Find §7for §a2hr§7. You",
+        "§7can re-cast your vote after this",
+        "§7effect expires."
+      ]
+    },
+    "cb898cc3b012b836d23d61f9eb746291a5d877f449fcc0a4de83de3d8f5866a9": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Judicial_Goon/UI?oldid=656342",
+        "page": "Judicial Goon/UI",
+        "revision": 656342,
+        "raw_sha256": "0F7412FF4737821A7B085F7FAC46332DDE788E831ADAFF5425B874642EC018AE",
+        "template_start": 0,
+        "template_end": 355,
+        "template_name": "UI",
+        "template_raw_sha256": "344137001ba93444b92cf483a4fd7adf6ad48ae275cd9f07d6c4606aae3374eb",
+        "slot": "2, 3",
+        "menu": "Vote to Free?",
+        "slot_raw": "Lime Stained Clay, none, &aFree, &7Vote to free the prisoners!/&7You can change this vote at any time."
+      },
+      "lines": [
+        "§aFree",
+        "§7Vote to free the prisoners!",
+        "§7You can change this vote at any time."
+      ]
+    },
+    "0c32eeed4a1d785684d0e335c3695bc6d03f347eb04f55504369ef0cc422e954": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat_%28Rift%29/UI?oldid=454438",
+        "page": "Kat (Rift)/UI",
+        "revision": 454438,
+        "raw_sha256": "B5946923E29FBD7C73715086F0C66943D6E7B9DC16F64829C8886F11797A7322",
+        "template_start": 0,
+        "template_end": 1451,
+        "template_name": "UI",
+        "template_raw_sha256": "e5d5add60147c66063e32a56cc11112c23a991e3d29e8337f15981070f0f380c",
+        "slot": "2, 5",
+        "menu": "Neuroscientist Kat",
+        "slot_raw": "Rift Ferret Pet, none, &aOptional Reward, &7[Lvl 100] &5Rift Ferret/&8Combat Pet//&7Speed: &a+50/&7Intelligence: &a-2//&6Orbs are Fun/&7&7Gain &a+10% &7experience from/&7&bXP Orbs&7.//&b&lMAX LEVEL//&7&eRight-click to add this pet to/&eyour pet menu!//&8&l* &8Soulbound &8&l*/&5&kX&5 Rift-Transferable &kX/&5&lEPIC/&8&m-----------------/&aVermin Bin/&c✖ &7Fly: &c0\\/20/&c✖ &7Spider: &c0\\/10/&c✖ &7Silverfish: &c0\\/20//&7Costs/&aRiftwart Roots &8x12/&d3\\,000 Motes//&cVacuum more vermin!"
+      },
+      "lines": [
+        "§aOptional Reward",
+        "§7[Lvl 100] §5Rift Ferret",
+        "§8Combat Pet",
+        "",
+        "§7Speed: §a+50",
+        "§7Intelligence: §a-2",
+        "",
+        "§6Orbs are Fun",
+        "§7§7Gain §a+10% §7experience from",
+        "§7§bXP Orbs§7.",
+        "",
+        "§b§lMAX LEVEL",
+        "",
+        "§7§eRight-click to add this pet to",
+        "§eyour pet menu!",
+        "",
+        "§8§l* §8Soulbound §8§l*",
+        "§5§kX§5 Rift-Transferable §kX",
+        "§5§lEPIC",
+        "§8§m-----------------",
+        "§aVermin Bin",
+        "§c✖ §7Fly: §c0/20",
+        "§c✖ §7Spider: §c0/10",
+        "§c✖ §7Silverfish: §c0/20",
+        "",
+        "§7Costs",
+        "§aRiftwart Roots §8x12",
+        "§d3,000 Motes",
+        "",
+        "§cVacuum more vermin!"
+      ]
+    },
+    "34bd70884919c4162e7dcd2dc358463dbc24eb59ac231bfc0a706040452457e9": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kat/UI?oldid=468621",
+        "page": "Kat/UI",
+        "revision": 468621,
+        "raw_sha256": "1076E2F44E176F5FB7AD00606462D542BA3ED86DD0679A4C0565B104DB6FB181",
+        "template_start": 0,
+        "template_end": 199,
+        "template_name": "UI",
+        "template_raw_sha256": "2888c7b7b52522ea71fac98f5baed34cd497724788b96e4ee878a0a254825c2b",
+        "slot": "3,5",
+        "menu": "Pet Sitter",
+        "slot_raw": "Red Hardened Clay, none;none, &ePet Sitter, &7Place a pet above for Kat to take/&7care of!//&7After some time\\, your pet &9Rarity &7will/&7be upgraded!"
+      },
+      "lines": [
+        "§ePet Sitter",
+        "§7Place a pet above for Kat to take",
+        "§7care of!",
+        "",
+        "§7After some time, your pet §9Rarity §7will",
+        "§7be upgraded!"
+      ]
+    },
+    "aea253a94e359fc6d84347fe9f7c2f5f70f1ba760760753d7fb3fdf37fb81deb": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kay/UI?oldid=705814",
+        "page": "Kay/UI",
+        "revision": 705814,
+        "raw_sha256": "6ABDAFFFA462AE4A3E8DE06A0255DBEFC6BE1D0F0CB102315BD4CE1C58A44ADE",
+        "template_start": 0,
+        "template_end": 453,
+        "template_name": "UI",
+        "template_raw_sha256": "4bbc0407e85f470cbc30855a663be2edf5e4033bb46087ea7975298de3559621",
+        "slot": "2, 7",
+        "menu": "Kay",
+        "slot_raw": "Ladder, none;none, &aToss To Shore, &7Kay will toss you to the/&7mainland\\, no problem.//&7Cost: &d200 Motes//&eClick to get tossed!"
+      },
+      "lines": [
+        "§aToss To Shore",
+        "§7Kay will toss you to the",
+        "§7mainland, no problem.",
+        "",
+        "§7Cost: §d200 Motes",
+        "",
+        "§eClick to get tossed!"
+      ]
+    },
+    "ef55cee7480373458b70ff40c7a50522e953a3eeb139a807240ef97ebc3e4858": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kay/UI?oldid=705814",
+        "page": "Kay/UI",
+        "revision": 705814,
+        "raw_sha256": "6ABDAFFFA462AE4A3E8DE06A0255DBEFC6BE1D0F0CB102315BD4CE1C58A44ADE",
+        "template_start": 0,
+        "template_end": 453,
+        "template_name": "UI",
+        "template_raw_sha256": "4bbc0407e85f470cbc30855a663be2edf5e4033bb46087ea7975298de3559621",
+        "slot": "2, 5",
+        "menu": "Kay",
+        "slot_raw": "Lily Pad, none;none, &aSell Lil' Pads, &7Kay hates leeches and collects/&7their lil' pads for research.//&7Per pad: &d10 Motes/&7You have: &a13 pads//&7You earn: &d130 Motes//&eClick to sell!"
+      },
+      "lines": [
+        "§aSell Lil' Pads",
+        "§7Kay hates leeches and collects",
+        "§7their lil' pads for research.",
+        "",
+        "§7Per pad: §d10 Motes",
+        "§7You have: §a13 pads",
+        "",
+        "§7You earn: §d130 Motes",
+        "",
+        "§eClick to sell!"
+      ]
+    },
+    "7f3c834ff45e7ddeada288276cc1680d5f50839fc4ecfa843f179b3e02152a23": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Kiara/UI?oldid=832642",
+        "page": "Kiara/UI",
+        "revision": 832642,
+        "raw_sha256": "A0F7FE3BC73DFF2CF76E37DD91B97EFEE1F36AFB36BD7F520BA202897E56D409",
+        "template_start": 21,
+        "template_end": 1653,
+        "template_name": "Shop UI",
+        "template_raw_sha256": "78b7d9ebba193d1e23aaba25d75a00853c54d5747443cc238ec812513027ac9a",
+        "slot": "1, 5",
+        "menu": "Kiara",
+        "slot_raw": "Kiara Head, none;none, &bKiara, &aReptiles &7and &bAmphibians &7have unique/&7genetics\\, they only require 2 shards/&7to combine inside the Fusion Machine\\,/&7instead of 5!"
+      },
+      "lines": [
+        "§bKiara",
+        "§aReptiles §7and §bAmphibians §7have unique",
+        "§7genetics, they only require 2 shards",
+        "§7to combine inside the Fusion Machine,",
+        "§7instead of 5!"
+      ]
+    },
+    "02b8b4205c3ac7108b8f8a4943cc0bc9ad8218ee000fcd2cb21e641e624a9e68": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+        "page": "Launch Pad/UI",
+        "revision": 391616,
+        "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+        "template_start": 28,
+        "template_end": 758,
+        "template_name": "UI",
+        "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+        "slot": "2, 5",
+        "menu": "Launch Pad Settings",
+        "slot_raw": "Weighted Pressure Plate (Heavy), horizontal, &aChange Horizontal Strength, &7Click to set the Launch Pad's/&7launch strength!//&7Current Strength: &a5//&eClick to change!"
+      },
+      "lines": [
+        "§aChange Horizontal Strength",
+        "§7Click to set the Launch Pad's",
+        "§7launch strength!",
+        "",
+        "§7Current Strength: §a5",
+        "",
+        "§eClick to change!"
+      ]
+    },
+    "99452812b165fedf098ab6af81359799e7a546f6ca41cd3e78b267d5f460c4a8": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+        "page": "Launch Pad/UI",
+        "revision": 391616,
+        "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+        "template_start": 28,
+        "template_end": 758,
+        "template_name": "UI",
+        "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+        "slot": "2, 7",
+        "menu": "Launch Pad Settings",
+        "slot_raw": "Weighted Pressure Plate (Light), vertical, &aChange Vertical Strength, &7Click to set how high the Launch/&7Pad's will launch you!//&7Current Strength: &a5//&eClick to change!"
+      },
+      "lines": [
+        "§aChange Vertical Strength",
+        "§7Click to set how high the Launch",
+        "§7Pad's will launch you!",
+        "",
+        "§7Current Strength: §a5",
+        "",
+        "§eClick to change!"
+      ]
+    },
+    "bfbfdf7fea1fa44e99f2e320340897083b062e3f5723e6b43f5af2cad416f026": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+        "page": "Launch Pad/UI",
+        "revision": 391616,
+        "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+        "template_start": 28,
+        "template_end": 758,
+        "template_name": "UI",
+        "template_raw_sha256": "f22936b760e21433355bd19c9ce16ed722e049df442827b9ec3dbddb3a32c054",
+        "slot": "2, 3",
+        "menu": "Launch Pad Settings",
+        "slot_raw": "Slime Block, none, &aToggle Mode, &7Change the launch pads mode\\,/&7which will change how you are/&7launched when stepping on it!//&7Current Mode: &aForward/&7The launch pad will launch you/&7forward.//&eClick to toggle!"
+      },
+      "lines": [
+        "§aToggle Mode",
+        "§7Change the launch pads mode,",
+        "§7which will change how you are",
+        "§7launched when stepping on it!",
+        "",
+        "§7Current Mode: §aForward",
+        "§7The launch pad will launch you",
+        "§7forward.",
+        "",
+        "§eClick to toggle!"
+      ]
+    },
+    "e088b429180481eb2ffccaf4d46aa13b9879a19431ad504640d85f6075b968a0": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+        "page": "Launch Pad/UI",
+        "revision": 391616,
+        "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+        "template_start": 759,
+        "template_end": 2314,
+        "template_name": "UI",
+        "template_raw_sha256": "c247660e25cc410b6a68b0cb09e299c62fb93daabfdcc665aeb450feba7887f3",
+        "slot": "2, 2",
+        "menu": "Horizontal Strength",
+        "slot_raw": "Gray Dye, none, &aSelect: 1, &7Click to select a strength of/&a1&7 for the Launch Pad's/&7launch strength!"
+      },
+      "lines": [
+        "§aSelect: 1",
+        "§7Click to select a strength of",
+        "§a1§7 for the Launch Pad's",
+        "§7launch strength!"
+      ]
+    },
+    "f1c41a4946cac269670111101e3a9b20caa54a5f68422593ab795668170a21e5": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad/UI?oldid=391616",
+        "page": "Launch Pad/UI",
+        "revision": 391616,
+        "raw_sha256": "2903F3A08C771EC3A707A5D9CC7EC6BDB11183F3355628BB94418F992B0B0780",
+        "template_start": 2315,
+        "template_end": 3890,
+        "template_name": "UI",
+        "template_raw_sha256": "43b6442a5532e47124eeaf4d5fb8760a37f833cc6a14408e4b0349d5759e5b07",
+        "slot": "2, 2",
+        "menu": "Vertical Strength",
+        "slot_raw": "Gray Dye, none, &aSelect: 1, &7Click to select a strength of/&a1&7 for the Launch Pad's/&7vertical strength!"
+      },
+      "lines": [
+        "§aSelect: 1",
+        "§7Click to select a strength of",
+        "§a1§7 for the Launch Pad's",
+        "§7vertical strength!"
+      ]
+    },
+    "c95b63e7788a3f1e326b624912e51e85c01e8c080aad51f2a3d6c115d606a445": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lava_Fishing_Sack/UI?oldid=768223",
+        "page": "Lava Fishing Sack/UI",
+        "revision": 768223,
+        "raw_sha256": "4036CA7FAC499D309B68AA0CD4DADA84D9F32D8280DBEDA46C31BDA9442CD748",
+        "template_start": 0,
+        "template_end": 2633,
+        "template_name": "UI",
+        "template_raw_sha256": "da8ea4e104e7ece2dff41125a2d1ee474413df27e0d807b5e3e6fa241710841b",
+        "slot": "2, 2",
+        "menu": "Lava Fishing Sack",
+        "slot_raw": "Blaze Powder, none; Blaze Powder, &aBlaze Powder, &8Lava Fishing Sack//&7Stored: &80&7\\/20k//&8Empty sack!"
+      },
+      "lines": [
+        "§aBlaze Powder",
+        "§8Lava Fishing Sack",
+        "",
+        "§7Stored: §80§7/20k",
+        "",
+        "§8Empty sack!"
+      ]
+    },
+    "cbf592edf5bd528b3acf27afcbaad0da170ec6318a646fd142ba70e1927f5faa": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Legacy_Trades/UI?oldid=785449",
+        "page": "Legacy Trades/UI",
+        "revision": 785449,
+        "raw_sha256": "10C0A42C6AFA73BBA7C2BFA16034003889CCCAAE10A91DCB79B0E9F971DCCCAD",
+        "template_start": 0,
+        "template_end": 936,
+        "template_name": "Shop UI",
+        "template_raw_sha256": "abf8688469e3879f9bb7fd5c18bbd737af21835d4716a010662b6db297d56ce6",
+        "slot": "1, 5",
+        "menu": "Legacy Trades",
+        "slot_raw": "Blaze Powder, none;none, &aLegacy Trades,&7Trade in items that are no longer/&7used throughout SkyBlock and/&7receive their more modern/&7counterparts in return!"
+      },
+      "lines": [
+        "§aLegacy Trades",
+        "§7Trade in items that are no longer",
+        "§7used throughout SkyBlock and",
+        "§7receive their more modern",
+        "§7counterparts in return!"
+      ]
+    },
+    "042118e68feafb935be37076bc00ccc296439f82341dff8bda871eb4d7d7b30c": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Librarian/UI?oldid=785239",
+        "page": "Librarian/UI",
+        "revision": 785239,
+        "raw_sha256": "3D70E8C73D92CCFBC32B27573D34A14B79C3A1E15AA63DBCAD8B5D612D3FF449",
+        "template_start": 0,
+        "template_end": 1258,
+        "template_name": "Shop UI",
+        "template_raw_sha256": "6384066879aaa941f5a9cbed3b94a78efea3c7d59d06767bb3c4e04f4fe993dc",
+        "slot": "6, 6",
+        "menu": "Librarian",
+        "slot_raw": "Knowledge Book, none; none, &a⚑ Enchantment Guide, &7View a complete list of all/&7enchantments and their requirements./&5&o/&8Also accessible via \\/enchantments/&5&o/&eClick to view!"
+      },
+      "lines": [
+        "§a⚑ Enchantment Guide",
+        "§7View a complete list of all",
+        "§7enchantments and their requirements.",
+        "§5§o",
+        "§8Also accessible via /enchantments",
+        "§5§o",
+        "§eClick to view!"
+      ]
+    },
+    "e5dfe80183f19a60799d190fe139fcddbfaafa03d8ec431ee77054b92123cdd9": {
+      "origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Lift_Operator/UI?oldid=460739",
+        "page": "Lift Operator/UI",
+        "revision": 460739,
+        "raw_sha256": "F28B0399E3AE225FA5DC38B161FAEFE906489D813CA8234EA42128C5B8DC8706",
+        "template_start": 0,
+        "template_end": 862,
+        "template_name": "UI",
+        "template_raw_sha256": "525a8bef6fdf4a5ab09ae586ae4c864655307e30bad1f9d54e050c573d7c7e1a",
+        "slot": "2,8",
+        "menu": "Lift Operator",
+        "slot_raw": "Emerald, none;Slimehill, &aSlimehill, &7Teleports you to the/&bSlimehill&7!//&eClick to travel!"
+      },
+      "lines": [
+        "§aSlimehill",
+        "§7Teleports you to the",
+        "§bSlimehill§7!",
+        "",
+        "§eClick to travel!"
+      ]
+    }
+  }
+}

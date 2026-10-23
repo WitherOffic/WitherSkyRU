@@ -14,7 +14,7 @@ import net.minecraft.network.chat.Style;
 import net.minecraft.util.FormattedCharSequence;
 import java.util.concurrent.atomic.AtomicLong;
 
-/** Local-only SkyBlock translation, no requests, no changes to game packets. */
+/** Offline SkyBlock translation, no telemetry or changes to game packets. */
 public final class SkyRuClient implements ClientModInitializer {
     private static volatile OfflineDictionary dictionary;
     private static volatile RussianSearchAliases searchAliases;
@@ -58,7 +58,7 @@ public final class SkyRuClient implements ClientModInitializer {
                 props.setProperty("fitHudText","true");
                 props.setProperty("compactHudLabels","true");
                 props.setProperty("fitTooltipText","true");
-                try (var output=java.nio.file.Files.newOutputStream(flags)) { props.store(output,"WitherSkyRU - restart Minecraft after edits"); }
+                try (var output=java.nio.file.Files.newOutputStream(flags)) { props.store(output,"SkyblockRPG_RU - restart Minecraft after edits"); }
             }
             enabled = Boolean.parseBoolean(props.getProperty("enabled","true"));
             onlyHypixel = Boolean.parseBoolean(props.getProperty("onlyHypixel","true"));
@@ -72,38 +72,38 @@ public final class SkyRuClient implements ClientModInitializer {
             dictionary.setRecordUnknown(Boolean.parseBoolean(props.getProperty("recordUnknown","true")));
             chatNotifications = new ChatNotificationTranslator(dictionary);
             try { winterDialogues=NpcDialogueTranslator.winterDialogues(); }
-            catch(Exception winterError){ System.err.println("[WitherSkyRU] Winter dialogue resource unavailable: "+winterError); }
-            System.out.println("[WitherSkyRU] Offline ready: "+dictionary.phraseCount()+" phrases, "+dictionary.patternCount()+" patterns. No AI or network used.");
+            catch(Exception winterError){ System.err.println("[SkyblockRPG_RU] Winter dialogue resource unavailable: "+winterError); }
+            System.out.println("[SkyblockRPG_RU] Offline ready: "+dictionary.phraseCount()+" phrases, "+dictionary.patternCount()+" patterns. Translation is offline; no telemetry.");
             try {
                 npcDialogues = new NpcDialogueTranslator();
-                System.out.println("[WitherSkyRU] Exact NPC dialogue entries: " + npcDialogues.phraseCount());
+                System.out.println("[SkyblockRPG_RU] Exact NPC dialogue entries: " + npcDialogues.phraseCount());
             } catch (Exception npcError) {
-                System.err.println("[WitherSkyRU] NPC translation disabled: " + npcError);
+                System.err.println("[SkyblockRPG_RU] NPC translation disabled: " + npcError);
             }
             try {
                 gardenDialogues=NpcDialogueTranslator.gardenDialogues();
             } catch(Exception gardenError){
-                System.err.println("[WitherSkyRU] Garden dialogue resource unavailable: "+gardenError);
+                System.err.println("[SkyblockRPG_RU] Garden dialogue resource unavailable: "+gardenError);
             }
             try {
                 questDialogues=NpcDialogueTranslator.questDialogues();
                 questObjectives=NpcDialogueTranslator.questObjectives();
             } catch(Exception questError){
-                System.err.println("[WitherSkyRU] Quest dialogue resource unavailable: "+questError);
+                System.err.println("[SkyblockRPG_RU] Quest dialogue resource unavailable: "+questError);
             }
             try {
                 storyDialogues=NpcDialogueTranslator.storyDialogues();
             } catch(Exception storyError){
-                System.err.println("[WitherSkyRU] Story dialogue resource unavailable: "+storyError);
+                System.err.println("[SkyblockRPG_RU] Story dialogue resource unavailable: "+storyError);
             }
             try {
                 dungeonDialogues=NpcDialogueTranslator.dungeonDialogues();
                 dungeonNotifications=NpcDialogueTranslator.dungeonNotifications();
             } catch(Exception dungeonError){
-                System.err.println("[WitherSkyRU] Dungeon dialogue resource unavailable: "+dungeonError);
+                System.err.println("[SkyblockRPG_RU] Dungeon dialogue resource unavailable: "+dungeonError);
             }
         } catch (Exception ex) {
-            System.err.println("[WitherSkyRU] Failed to load offline dictionary; mod disabled: "+ex);
+            System.err.println("[SkyblockRPG_RU] Failed to load offline dictionary; mod disabled: "+ex);
             enabled = false;
         }
     }
@@ -124,8 +124,9 @@ public final class SkyRuClient implements ClientModInitializer {
     }
 
     public static String text(String source) {
-if (source==null || TechnicalText.active() || !active() || DisplayNoop.text(source) || UserInputText.rendering() || CollectionContributors.protectedRow(source) || PlayerNames.contains(source) || OriginalItemTitle.hoveredName(source)) return source;
-        return dictionary.translate(source);
+if (source==null || TechnicalText.active() || !active() || DisplayNoop.text(source) || UserInputText.rendering() || CollectionContributors.protectedRow(source) || PlayerNames.contains(source) || OriginalItemTitle.hoveredName(source)) {return source;}
+        String translated=dictionary.translate(source);
+        return translated;
     }
 
     /** Late-bound dictionary for optional search indexes; also honours enabled/server restrictions. */
@@ -199,6 +200,16 @@ if (source==null || TechnicalText.active() || !active() || DisplayNoop.text(sour
         return active() && !UserInputText.rendering() && !dictionary.hasCustomOverride(source);
     }
 
+    // The optional overlay reuses the existing NPC engine on an unsigned display copy.
+    static Component overlayChat(Component original) {
+        if(!overlayDialogueActive())return original;
+        return npcChat(new net.minecraft.client.multiplayer.chat.GuiMessage(0,original,null,
+            net.minecraft.client.multiplayer.chat.GuiMessageSource.SYSTEM_SERVER,null)).content();
+    }
+    static boolean overlayDialogueActive(){return active()&&translateNpcChat&&!UserInputText.rendering()&&!TechnicalText.active();}
+    static Component overlayComponent(Component original){
+        return overlayDialogueActive()?component(original,original.getString()):original;
+    }
     public static net.minecraft.client.multiplayer.chat.GuiMessage npcChat(net.minecraft.client.multiplayer.chat.GuiMessage message) {
         if (message == null || !active()
             || message.source() == net.minecraft.client.multiplayer.chat.GuiMessageSource.PLAYER
@@ -253,10 +264,11 @@ if (source==null || TechnicalText.active() || !active() || DisplayNoop.text(sour
         if(source==null || TechnicalText.active() || !active())return source;
         String visible=source.getString();
         if(DisplayNoop.text(visible)||UserInputText.rendering())return source;
-        return component(source,visible);
+        Component translated=component(source,visible);
+        return translated;
     }
     private static Component component(Component source,String visible){
-        if(CollectionContributors.protectedRow(visible) || PlayerNames.contains(visible) || OriginalItemTitle.hoveredName(visible))return source;
+        if(CollectionContributors.protectedRow(visible) || PlayerNames.contains(visible) || OriginalItemTitle.hoveredName(visible)){return source;}
         // Closed item-title and authored requirement spans can join fragmented literals.
         // All other text, including non-literal translation keys, uses the original tree policy.
         try {
@@ -270,7 +282,10 @@ if (source==null || TechnicalText.active() || !active() || DisplayNoop.text(sour
     public static Component componentOutsideHud(Component source) {
         if(source==null||TechnicalText.active()||!active())return source;
         String visible=source.getString();if(DisplayNoop.text(visible))return source;
-        try(var context=RenderContext.open()){return HudTextFit.currentPanel()||UserInputText.rendering()?source:component(source,visible);}
+        try(var context=RenderContext.open()){
+            Component translated=HudTextFit.currentPanel()||UserInputText.rendering()?source:component(source,visible);
+            return translated;
+        }
     }
     public static String textOutsideHud(String source) {
         if(source==null||TechnicalText.active()||!active())return source;
@@ -338,11 +353,15 @@ if (source==null || TechnicalText.active() || !active() || DisplayNoop.text(sour
         if (source == null || TechnicalText.active() || OriginalItemTitle.protectedSequence(source) || !active() || UserInputText.rendering()) return source;
         try {
             var current=StyledRuns.collect(source);String visible=current.text;
-            if (DisplayNoop.text(visible) || CollectionContributors.protectedRow(visible) || PlayerNames.contains(visible) || OriginalItemTitle.hoveredName(visible)) return source;
+            if (DisplayNoop.text(visible) || CollectionContributors.protectedRow(visible) || PlayerNames.contains(visible) || OriginalItemTitle.hoveredName(visible)){return source;}
             var db=dictionary;boolean compact=hudPanel&&compactHudLabels;
-            var prepared=PreparedDisplay.find(source,current,db,compact);if(prepared!=null)return prepared;
+            var prepared=PreparedDisplay.find(source,current,db,compact);if(prepared!=null){
+                return prepared;
+            }
             var title = StyledItemTitle.translate(source, db, current);
-            if (title != null){PreparedDisplay.remember(source,title,current,db,compact);return title;}
+            if (title != null){PreparedDisplay.remember(source,title,current,db,compact);
+                return title;
+            }
             List<FormattedCharSequence> result = null;
             for(var run:current.runs){
                 String old=visible.substring(run.start(),run.end());
@@ -352,7 +371,8 @@ if (source==null || TechnicalText.active() || !active() || DisplayNoop.text(sour
                 if(result!=null)result.add(FormattedCharSequence.forward(next,run.style()));
             }
             var translated=result!=null?FormattedCharSequence.composite(result):source;
-            PreparedDisplay.remember(source,translated,current,db,compact);return translated;
+            PreparedDisplay.remember(source,translated,current,db,compact);
+            return translated;
         } catch (Throwable ignored) { return source; }
     }
 }

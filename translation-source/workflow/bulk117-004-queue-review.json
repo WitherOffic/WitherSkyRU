@@ -1,0 +1,448 @@
+{
+  "new_runtime_rows_from_metadata": 0,
+  "deferred_records": [
+    {
+      "id": 614,
+      "source": "Achieve Alchemy Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "CONCOCTOR",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 615,
+      "source": "Achieve Combat Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "COMBAT",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 616,
+      "source": "Achieve Enchanting Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "AUGMENTATION",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 617,
+      "source": "Achieve Farming Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "HARVESTER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 618,
+      "source": "Achieve Fishing Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "ANGLER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 619,
+      "source": "Achieve Foraging Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "GATHERER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 620,
+      "source": "Achieve Hunting Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "PREDATOR",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 621,
+      "source": "Achieve Mining Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "EXCAVATOR",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 622,
+      "source": "Achieve Taming Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "DOMESTICATOR",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 718,
+      "source": "Complete %%value%% commissions",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "HARD_WORKING_MINER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 723,
+      "source": "Complete the Crystal Nucleus %%value%% times",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "CRYSTAL_NUCLEUS",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 783,
+      "source": "Donate %%value%% items/sets to the Museum",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "CURATOR",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 863,
+      "source": "Find %%value%% Secrets in dungeons",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "TREASURE_HUNTER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 874,
+      "source": "Find treasures in the Mines of Divan %%value%% times",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "DIVANS_TREASURES",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 907,
+      "source": "Get %%value%%k Slayer exp",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "SLAYER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 918,
+      "source": "Give gifts to %%value%% different players",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "UNIQUE_GIFTS",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1016,
+      "source": "Kill %%value%% Golden Goblins",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "GOBLIN_KILLER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1058,
+      "source": "Looks delicious. Perhaps a certain %%critter%% would like it?",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/skyblock/items",
+        "json_path": [
+          "items",
+          5669,
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "9cf8e240828419d482d5f9d0f279b71d4fca232d202ce896e09fd8e5dbf5361a"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1059,
+      "source": "Looks flavorsome. Perhaps a certain %%critter%% would like it?",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/skyblock/items",
+        "json_path": [
+          "items",
+          5667,
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "9cf8e240828419d482d5f9d0f279b71d4fca232d202ce896e09fd8e5dbf5361a"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1060,
+      "source": "Looks scrumptious. Perhaps a certain %%critter%% would like it?",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/skyblock/items",
+        "json_path": [
+          "items",
+          5668,
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "9cf8e240828419d482d5f9d0f279b71d4fca232d202ce896e09fd8e5dbf5361a"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1195,
+      "source": "Reach Level %%value%% of any Dungeon Class",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "DUNGEONEER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1196,
+      "source": "Reach SkyBlock Level %%value%%",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "SB_LEVELS",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1239,
+      "source": "Serve %%value%% Total Visitors in The Garden",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "PEOPLE_PLEASER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1389,
+      "source": "Unlock %%value%% Collections",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "TREASURY",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    },
+    {
+      "id": 1464,
+      "source": "[Co-op or you] Craft %%value%% unique minions",
+      "origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "tiered",
+          "MINION_LOVER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "reason": "API metadata contains unresolved variable; actual displayed text/formatter not proven"
+    }
+  ],
+  "previous_counts": {
+    "accepted_runtime_offline": 1000,
+    "already_covered_runtime": 2,
+    "alias_pending_runtime": 1,
+    "changed_requires_editorial_review": 273,
+    "preserve_literal_name_command_or_required_input": 9,
+    "already_covered_context": 7,
+    "accepted_style_fix_existing_key": 1,
+    "unreviewed": 195,
+    "deferred_test_item_visibility": 3
+  },
+  "after_counts": {
+    "accepted_runtime_offline": 1000,
+    "already_covered_runtime": 2,
+    "alias_pending_runtime": 1,
+    "changed_requires_editorial_review": 273,
+    "preserve_literal_name_command_or_required_input": 9,
+    "already_covered_context": 7,
+    "accepted_style_fix_existing_key": 1,
+    "deferred_metadata_placeholder": 25,
+    "deferred_test_item_visibility": 3,
+    "unreviewed": 170
+  },
+  "retry_only_on_new_evidence": true
+}

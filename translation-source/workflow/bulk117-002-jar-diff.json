@@ -1,0 +1,18 @@
+{
+  "old_sha256": "b91d8b0c2567b6afac49c5f11f7b09a5157fa4cd7a83d126ad89bcb88779b761",
+  "new_sha256": "5b975db9545b48c7b6940decb63b95ed9ad51a7888f27b57f93a78e4672cc063",
+  "new_bytes": 3124715,
+  "byte_identical_entries": 271,
+  "changed": [
+    "data/witherskyru/lore.tsv",
+    "fabric.mod.json",
+    "ru/wither/skyru/BulkLore117.class"
+  ],
+  "added": [
+    "data/witherskyru/bulk117-002.json"
+  ],
+  "removed": [],
+  "new_resource_exact_rows": 1000,
+  "old_bulk_resource_byte_identical": true,
+  "licenses_identical": true
+}

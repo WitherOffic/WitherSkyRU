@@ -1,0 +1,394 @@
+{
+  "run_id": "review117-005",
+  "state": "completed_offline",
+  "previous_run": "review117-004",
+  "started_at": "2026-10-21T16:32:59.163529+07:00",
+  "scope": "Melody candidates10:20 only; accepted0:10 are regression controls only",
+  "source_queue": "translation-source/MELODY_PROGRESS_117.json",
+  "source_indices": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "allowed_paths": [
+    "src/main/java/ru/wither/skyru/ScreenLabels.java",
+    "src/main/resources/data/witherskyru/quest-interface.tsv",
+    "tests/migration262/TestMelodyTitles117.java",
+    "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+    "translation-source/MELODY_PROGRESS_117.json",
+    "build.gradle",
+    "src/main/resources/fabric.mod.json",
+    "docs/DEV_STATUS.md",
+    "docs/translation-runs/review117-005.md",
+    "translation-source/workflow/review117-005.json"
+  ],
+  "source_before": {
+    "src/main/java/ru/wither/skyru/ScreenLabels.java": "184f60b5fca855a543cacd0a2d22c6010b4f16943b1422eecf5dd69c96a87993",
+    "src/main/resources/data/witherskyru/quest-interface.tsv": "fa3a0dcf27f4a0a2a35f309ab295b0f40777b45655ff8aee404553b228d6dd35",
+    "tests/migration262/TestMelodyTitles117.java": "739931c4e4450be3bd459337f124942424ddc3903d2fe93dd480beb3a7c91878",
+    "translation-source/MELODY_PROGRESS_117.json": "1bd782dd7c8b7f9747a0f5e25670ae05cdd54054a476b12b86437b106907c35b",
+    "build.gradle": "6819ef0fe960fb97808fd8ed63c4c660eb86550fd5defc940b69cf412f57f3ca",
+    "src/main/resources/fabric.mod.json": "ea6549567e0cc04e90733354a0e705c22f8b59e98250e7a54c781651aec4c06f"
+  },
+  "reserved_version": "0.16.6-dev",
+  "baseline": {
+    "assertions": 728,
+    "candidates_missing": 10,
+    "fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json"
+  },
+  "completed_at": "2026-10-21T16:40:40+07:00",
+  "known_candidates": 30,
+  "accepted_runtime_total_in_queue": 20,
+  "accepted_runtime_this_run": 10,
+  "new_literals": 9,
+  "new_dynamic_patterns": 1,
+  "drafts_remaining": 10,
+  "confirmed_untranslated_remaining": null,
+  "records": [
+    {
+      "id": "f055073305e4fd2004853427536addac5014fa689269a8d02670ed1e2e04a5ca",
+      "source": "Hymn to the Joy",
+      "translation": "Ода к радости",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "953224b6d3d050dbb59e67ea6f32f3c358b43bacee06180bc56c21f324ccded8",
+      "source": "Frère Jacques",
+      "translation": "Братец Жак",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "956825315c6777f2d1bbb4ab84a30f4ef559c2add746094226c4000509a5fc9a",
+      "source": "Amazing Grace",
+      "translation": "О, благодать",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "621f5b987b0a863151f188fa3e1fe48f2a909eae0d181aeb5f7ab45e52094b1b",
+      "source": "Brahm's Lullaby",
+      "translation": "Колыбельная Брамса",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "f1241ee55d71ff24943e7dadbb98d54c795d11d1b4670cff948145e0cfead553",
+      "source": "Happy Birthday to You",
+      "translation": "С днём рождения тебя",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "52e2da6735a33aee7887931eda36af56002ce9ce7a8e434844f257534d40c200",
+      "source": "Greensleeves",
+      "translation": "Зелёные рукава",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "868e190502ed055c815d7d3301ea488fec58d38f809cdf0ed67566630f9cce44",
+      "source": "Geothermy?",
+      "translation": "Геотермия?",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "d310a97af4d43c3d894b2ada9f42505d8b12a8a1c08551e9e5504fdb85bd9880",
+      "source": "Minuet",
+      "translation": "Менуэт",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "3d8474d7ccec453520375f6c1d8527ef999254e4b32d63d540879fb63dc625fe",
+      "source": "Joy to the World",
+      "translation": "Радуйся, мир",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "1f386f5dd7b41fabb84d814f79253e390bb2a6c57ea1c1f79cb9395e289e770e",
+      "source": "Godly Imagination",
+      "translation": "Божественное воображение",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "d2597fbd56e9e20948da89a6f1a18fd0c07a541117f1e04a1c90c53a23925864",
+      "source": "La Vie en Rose",
+      "translation": "Жизнь в розовом цвете",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "01019a06689db6429bee35d90344aeea7a00367402d85307e4cc91415229f46e",
+      "source": "Easy Song",
+      "translation": "Лёгкая мелодия",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "2612eff6d1596cc9481d6eb96f766ad81091641f7305bb75f229040882b4519d",
+      "source": "Hard Song",
+      "translation": "Сложная мелодия",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "07a4363423cefea376b6fabc3d652d9c295300e7b62762466787812e9df1d2dd",
+      "source": "Expert Song",
+      "translation": "Мелодия для экспертов",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "4078fca92247c554e058a462ae17d746425b576a8342c0e6cde59b7cdda0c72d",
+      "source": "Virtuoso Song",
+      "translation": "Мелодия для виртуозов",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "a05ce1ad372e960fed79b048e18d5536474a72cc511bd1f2346ae7d75b5dcf3e",
+      "source": "Best:",
+      "translation": "Лучший результат:",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "58101307cd995fea74587d993e0c0cd1385c2fd85fc246987698ca3b640c49ea",
+      "source": "Best: 100%!",
+      "translation": "Лучший результат: 100%!",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "bounded_percent_template"
+    },
+    {
+      "id": "a6a288ccae4aa46a68ef2da5469326a8118285ffc7c7f71fdcc063cdbd944abe",
+      "source": "Click to select song!",
+      "translation": "Нажмите, чтобы выбрать мелодию!",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "5fc1e2c9a8c962f407457406019a757773267ff0df343a3bc8967bf74f2f9c3f",
+      "source": "Useful Tip!",
+      "translation": "Полезный совет!",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "8b7b6a7fc1a54f310d4f37e01fce872af8dc888a96d277fa38ae9d5fba007710",
+      "source": "If you are having lag issues, try",
+      "translation": "Если игра подтормаживает, попробуйте",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "0ccab2e5506acccd1e98ef2de45f9ef653a5b33054949cdc3b4923c62a5409d8",
+      "source": "using middle click (clicking the",
+      "translation": "нажимать среднюю кнопку мыши",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "6bcc2d2914af7e16eccaa044a2bcb9aea746a16f9a42d3eaafcedebe4ca75807",
+      "source": "mousewheel).",
+      "translation": "(нажмите на колёсико).",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "dcf3163f021db182c15e1cb838d454aa711d61bb4b726a6331a7abef306263bc",
+      "source": "You may also change your Minecraft",
+      "translation": "Также в настройках управления Minecraft",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "09807ac6e49f7de50147d7e18c12fdc386ea3bf81e0709741856cc62ed5b3aab",
+      "source": "control for \"Drop\" to left-click.",
+      "translation": "можно назначить выбрасывание предмета на ЛКМ.",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "1c5fd38dbb07321aa40b67b4b9c10e3b68a9165bc14f1318095996574a110ef2",
+      "source": "Finally, try using a larger GUI scale,",
+      "translation": "Ещё попробуйте увеличить масштаб интерфейса —",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "63ffb2e5c010085ef4a9b8323194cde906639b82fa1aa780c39f2d284f26bfb9",
+      "source": "it helps a lot!",
+      "translation": "это очень помогает!",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "9d78738437aa648217c81f4393f3010e79a9826f572ed3c7250b8c302955b04a",
+      "source": "Use the Harp furniture to complete",
+      "translation": "Поставьте арфу, чтобы играть",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "23b1bc04279f34377a7f66144f9d25b18a47ef3a38b8fb5b7d5945be6f74e5f4",
+      "source": "songs from the comfort of your",
+      "translation": "мелодии, не покидая свой",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "4048afab3bef5f28dd2bbd916633c091ed32d84e0f553e4fad19e2c1b5667f60",
+      "source": "island!",
+      "translation": "остров!",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    },
+    {
+      "id": "43870eb193e337a6d47ab0cad1e198df6a1a44fca4ea0197e814d33a17d162f6",
+      "source": "Cost: 600,000 coins",
+      "translation": "Цена: 600,000 монет",
+      "status": "draft_not_runtime_screened",
+      "last_run": null
+    }
+  ],
+  "checks_receipt": "translation-source/workflow/review117-005-checks.json",
+  "checks_sha256": "90353822c0f63844580b039076057a5423f4304d2c17d31a07cf197bf5813a0b",
+  "jar": {
+    "command": "./gradlew.bat jar writeVerificationClasspath; java TestMelodyTitles117 with0.16.6 JAR first and main classes/resources excluded",
+    "exit_code": 0,
+    "assertions": 1985,
+    "sha256": "c010d54a8d31016456a04d7e827fde4f75fb3175728442f6e6caa6807b1905cc",
+    "bytes": 2947216,
+    "version": "0.16.6-dev",
+    "changed_zip_entries": [
+      "data/witherskyru/quest-interface.tsv",
+      "fabric.mod.json",
+      "ru/wither/skyru/ScreenLabels$Label.class",
+      "ru/wither/skyru/ScreenLabels.class"
+    ],
+    "identical_zip_entries": 266,
+    "nested_Label_javap_c_p_identical": true
+  },
+  "bugs": {
+    "open": 0,
+    "critical": 0,
+    "awaiting_in_game": 0,
+    "fixed_this_run": 0
+  },
+  "next_action": {
+    "queue": "translation-source/MELODY_PROGRESS_117.json",
+    "index": 20,
+    "source": "using middle click (clicking the",
+    "next_candidate_version": "0.16.7-dev",
+    "scope": "screen20:30; translate missing only"
+  },
+  "file_sha256": {
+    "AGENTS.md": "7b1bb70bce28155fa86625b6544acb551f17372325bfc4e15c7ceb951561963f",
+    "build.gradle": "f23bdb7fe072c63100a7bd010efd9fcc41ca53dada26c79fc72df23d69741941",
+    "docs/DEV_STATUS.md": "ec87870eb664c425f8ce1463c3a1e2b63582f657332c3224427d4233284766e6",
+    "docs/TRANSLATION_WORKFLOW.md": "b6968e804832f610ff1eb7ed9f169bd6b966ffe05cd02ad15f1e6dba39a47aee",
+    "docs/translation-runs/review117-004.md": "6feadebaf3f99f2e18d17ca2433e7882d980a92bb7455e2325b0ff3a2639994b",
+    "docs/translation-runs/review117-005.md": "7662c0341e1dae253b58015ddc1b5a3a59212d10d6797fe2eaec7f3a7cf3acc9",
+    "src/main/java/ru/wither/skyru/ChatNotificationTranslator.java": "422497fc740d032b7e5e0d263b70606b248e2042b4510cdc6e599d29a12811e9",
+    "src/main/java/ru/wither/skyru/RyanDialogueTemplates.java": "7136598541406b974e42eaa57de1fd3d36e5f6f7b7358229e1730f74949093b1",
+    "src/main/java/ru/wither/skyru/ScreenLabels.java": "eedecbc3c886d0cc09a0647c38ab1585d67b5f21c17a25ad416a9ab282036e2b",
+    "src/main/resources/data/witherskyru/npc-reviewed117.json": "31fe11807cecc12064a872469f6360aa2a8daf27073a03eaeb07bccf8f4026e0",
+    "src/main/resources/data/witherskyru/npc-ryan117.json": "7da7f34be12cb17c19a56bfc6ddbbcb1ce85b2b3ec18fa61b72f88da661d12c2",
+    "src/main/resources/data/witherskyru/quest-interface.tsv": "84910d2400ff9368970b60fed040fdc959d94f9e48b56db188c677c2d2fe8c7a",
+    "src/main/resources/fabric.mod.json": "9b721ee59f1324c186b604b75422138653fb207288e141b12880be2446207e1f",
+    "tests/current115/TestNpcLiterals115.java": "572347fe0bf7414a2a4811fcb634fbebd4bdd6fc8610df4c2a709eddd1dfa7f9",
+    "tests/current115/TestNpcNames103.java": "3057ede2314e2010b3721c97ceb3018e3cabc3e21050a5f8b24c9f51a24f5fd0",
+    "tests/migration262/TestMelodyTitles117.java": "5c29d6ae3093c151e4baf4dd5ae89e92e7c663d2b81014430b54cc74153a9d8c",
+    "tests/migration262/TestNpcLiterals117.java": "30d9c5c727608987e5d11f32fd42d5f23537f1e702c655e6615d41eebbd62efe",
+    "tests/migration262/TestRyanTemplates117.java": "6652ce4ddd83427f7393bf121c37986b93e7c0fe5a1a794b720d9d46c9a581ae",
+    "translation-source/EXPECTATION_UPDATES_0.16.3.json": "c92ab3b5b6483bd7e8fafe3946659c7a7ebea667976f53c66c0ebb6bec73b6eb",
+    "translation-source/MELODY_ACCEPTANCE_0.16.6.json": "9f4ff2c5f438412d78911e8d1bfd0509075691da4acfa8998c8b2c152c3ae43a",
+    "translation-source/MELODY_ACCEPTANCE_117.json": "217fa5c086fa26d96c826c7cf48d004ddf9fd5999c52c60086ff7bef5221edbf",
+    "translation-source/MELODY_PROGRESS_117.json": "314b79398be89532f8bd9ecd64302c8cff1644af4a814afdb725cd4514c35170",
+    "translation-source/NPC_ACCEPTANCE_0.16.3.json": "d700d68e407330a85a8e617651541096ae89043e37df1e1e049fa808158ab5b4",
+    "translation-source/RYAN_ACCEPTANCE_0.16.3.json": "b58a886157b421dc5622b24cc3200297efbc47743de2f7cc2a92753c01c25f97",
+    "translation-source/workflow/review117-005-checks.json": "90353822c0f63844580b039076057a5423f4304d2c17d31a07cf197bf5813a0b"
+  },
+  "git": {
+    "branch": "feature/minecraft-26.2",
+    "head": "8a65e62f768b2ee863e60a324de743dc695dfdf9",
+    "status_porcelain": [
+      "M build.gradle",
+      " M src/main/java/ru/wither/skyru/ChatNotificationTranslator.java",
+      " M src/main/java/ru/wither/skyru/NpcDialogueTranslator.java",
+      " M src/main/java/ru/wither/skyru/ScreenLabels.java",
+      " M src/main/resources/data/witherskyru/quest-interface.tsv",
+      " M src/main/resources/fabric.mod.json",
+      " M tests/current115/TestNpcLiterals115.java",
+      " M tests/current115/TestNpcNames103.java",
+      "?? AGENTS.md",
+      "?? docs/BUGS.md",
+      "?? docs/DEV_STATUS.md",
+      "?? docs/TRANSLATION_WORKFLOW.md",
+      "?? docs/translation-runs/review117-001.md",
+      "?? docs/translation-runs/review117-002.md",
+      "?? docs/translation-runs/review117-003.md",
+      "?? docs/translation-runs/review117-004.md",
+      "?? docs/translation-runs/review117-005.md",
+      "?? docs/translation-runs/runtime117-001.md",
+      "?? src/main/java/ru/wither/skyru/RyanDialogueTemplates.java",
+      "?? src/main/resources/data/witherskyru/npc-reviewed117.json",
+      "?? src/main/resources/data/witherskyru/npc-ryan117.json",
+      "?? tests/migration262/TestMelodyTitles117.java",
+      "?? tests/migration262/TestNpcLiterals117.java",
+      "?? tests/migration262/TestRyanTemplates117.java",
+      "?? translation-source/EXPECTATION_UPDATES_0.16.1.json",
+      "?? translation-source/EXPECTATION_UPDATES_0.16.2.json",
+      "?? translation-source/EXPECTATION_UPDATES_0.16.3.json",
+      "?? translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "?? translation-source/MELODY_ACCEPTANCE_117.json",
+      "?? translation-source/MELODY_PROGRESS_117.json",
+      "?? translation-source/NPC_ACCEPTANCE_0.16.1.json",
+      "?? translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "?? translation-source/NPC_ACCEPTANCE_0.16.3.json",
+      "?? translation-source/RYAN_ACCEPTANCE_0.16.3.json",
+      "?? translation-source/workflow/review117-001.json",
+      "?? translation-source/workflow/review117-002.json",
+      "?? translation-source/workflow/review117-003-perf.json",
+      "?? translation-source/workflow/review117-003.json",
+      "?? translation-source/workflow/review117-004.json",
+      "?? translation-source/workflow/review117-005-checks.json",
+      "?? translation-source/workflow/review117-005.json",
+      "?? translation-source/workflow/runtime117-001-perf.json",
+      "?? translation-source/workflow/runtime117-001.json"
+    ],
+    "tracked_diff_sha256": "b100c11c7c5fc109b785c87f7c6c60dade4ba4505e82125f0a5155b6f7058265"
+  }
+}

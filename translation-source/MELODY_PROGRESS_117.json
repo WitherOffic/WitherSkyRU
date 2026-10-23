@@ -1,0 +1,247 @@
+{
+  "corpus": "MELODY_UI authored queue117",
+  "known_unique_sources": 30,
+  "coverage_definition": "30/30 fixed Melody candidates supported offline:28 accepted across runs,2 already covered. No claim of all songs or live layouts.",
+  "records": [
+    {
+      "id": "f055073305e4fd2004853427536addac5014fa689269a8d02670ed1e2e04a5ca",
+      "source": "Hymn to the Joy",
+      "translation": "Ода к радости",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "953224b6d3d050dbb59e67ea6f32f3c358b43bacee06180bc56c21f324ccded8",
+      "source": "Frère Jacques",
+      "translation": "Братец Жак",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "956825315c6777f2d1bbb4ab84a30f4ef559c2add746094226c4000509a5fc9a",
+      "source": "Amazing Grace",
+      "translation": "О, благодать",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "621f5b987b0a863151f188fa3e1fe48f2a909eae0d181aeb5f7ab45e52094b1b",
+      "source": "Brahm's Lullaby",
+      "translation": "Колыбельная Брамса",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "f1241ee55d71ff24943e7dadbb98d54c795d11d1b4670cff948145e0cfead553",
+      "source": "Happy Birthday to You",
+      "translation": "С днём рождения тебя",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "52e2da6735a33aee7887931eda36af56002ce9ce7a8e434844f257534d40c200",
+      "source": "Greensleeves",
+      "translation": "Зелёные рукава",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "868e190502ed055c815d7d3301ea488fec58d38f809cdf0ed67566630f9cce44",
+      "source": "Geothermy?",
+      "translation": "Геотермия?",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "d310a97af4d43c3d894b2ada9f42505d8b12a8a1c08551e9e5504fdb85bd9880",
+      "source": "Minuet",
+      "translation": "Менуэт",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "3d8474d7ccec453520375f6c1d8527ef999254e4b32d63d540879fb63dc625fe",
+      "source": "Joy to the World",
+      "translation": "Радуйся, мир",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "1f386f5dd7b41fabb84d814f79253e390bb2a6c57ea1c1f79cb9395e289e770e",
+      "source": "Godly Imagination",
+      "translation": "Божественное воображение",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-004"
+    },
+    {
+      "id": "d2597fbd56e9e20948da89a6f1a18fd0c07a541117f1e04a1c90c53a23925864",
+      "source": "La Vie en Rose",
+      "translation": "Жизнь в розовом цвете",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "01019a06689db6429bee35d90344aeea7a00367402d85307e4cc91415229f46e",
+      "source": "Easy Song",
+      "translation": "Лёгкая мелодия",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "2612eff6d1596cc9481d6eb96f766ad81091641f7305bb75f229040882b4519d",
+      "source": "Hard Song",
+      "translation": "Сложная мелодия",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "07a4363423cefea376b6fabc3d652d9c295300e7b62762466787812e9df1d2dd",
+      "source": "Expert Song",
+      "translation": "Мелодия для экспертов",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "4078fca92247c554e058a462ae17d746425b576a8342c0e6cde59b7cdda0c72d",
+      "source": "Virtuoso Song",
+      "translation": "Мелодия для виртуозов",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "a05ce1ad372e960fed79b048e18d5536474a72cc511bd1f2346ae7d75b5dcf3e",
+      "source": "Best:",
+      "translation": "Лучший результат:",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "58101307cd995fea74587d993e0c0cd1385c2fd85fc246987698ca3b640c49ea",
+      "source": "Best: 100%!",
+      "translation": "Лучший результат: 100%!",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "bounded_percent_template"
+    },
+    {
+      "id": "a6a288ccae4aa46a68ef2da5469326a8118285ffc7c7f71fdcc063cdbd944abe",
+      "source": "Click to select song!",
+      "translation": "Нажмите, чтобы выбрать мелодию!",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "5fc1e2c9a8c962f407457406019a757773267ff0df343a3bc8967bf74f2f9c3f",
+      "source": "Useful Tip!",
+      "translation": "Полезный совет!",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "8b7b6a7fc1a54f310d4f37e01fce872af8dc888a96d277fa38ae9d5fba007710",
+      "source": "If you are having lag issues, try",
+      "translation": "Если игра подтормаживает, попробуйте",
+      "status": "accepted_runtime_offline",
+      "last_run": "review117-005",
+      "acceptance_fixture": "translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "kind": "literal"
+    },
+    {
+      "id": "0ccab2e5506acccd1e98ef2de45f9ef653a5b33054949cdc3b4923c62a5409d8",
+      "source": "using middle click (clicking the",
+      "translation": "нажимать среднюю кнопку мыши",
+      "status": "accepted_runtime_offline",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/BULK117_001_ACCEPTANCE.json"
+    },
+    {
+      "id": "6bcc2d2914af7e16eccaa044a2bcb9aea746a16f9a42d3eaafcedebe4ca75807",
+      "source": "mousewheel).",
+      "translation": "(колёсико).",
+      "status": "accepted_runtime_offline",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/BULK117_001_ACCEPTANCE.json"
+    },
+    {
+      "id": "dcf3163f021db182c15e1cb838d454aa711d61bb4b726a6331a7abef306263bc",
+      "source": "You may also change your Minecraft",
+      "translation": "Также в настройках управления Minecraft",
+      "status": "accepted_runtime_offline",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/BULK117_001_ACCEPTANCE.json"
+    },
+    {
+      "id": "09807ac6e49f7de50147d7e18c12fdc386ea3bf81e0709741856cc62ed5b3aab",
+      "source": "control for \"Drop\" to left-click.",
+      "translation": "можно назначить действие «Drop» на ЛКМ.",
+      "status": "accepted_runtime_offline",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/BULK117_001_ACCEPTANCE.json"
+    },
+    {
+      "id": "1c5fd38dbb07321aa40b67b4b9c10e3b68a9165bc14f1318095996574a110ef2",
+      "source": "Finally, try using a larger GUI scale,",
+      "translation": "Ещё попробуйте увеличить масштаб интерфейса —",
+      "status": "accepted_runtime_offline",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/BULK117_001_ACCEPTANCE.json"
+    },
+    {
+      "id": "63ffb2e5c010085ef4a9b8323194cde906639b82fa1aa780c39f2d284f26bfb9",
+      "source": "it helps a lot!",
+      "translation": "это очень помогает!",
+      "status": "accepted_runtime_offline",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/BULK117_001_ACCEPTANCE.json"
+    },
+    {
+      "id": "9d78738437aa648217c81f4393f3010e79a9826f572ed3c7250b8c302955b04a",
+      "source": "Use the Harp furniture to complete",
+      "translation": "Используйте арфу, чтобы играть",
+      "status": "accepted_runtime_offline",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/BULK117_001_ACCEPTANCE.json"
+    },
+    {
+      "id": "23b1bc04279f34377a7f66144f9d25b18a47ef3a38b8fb5b7d5945be6f74e5f4",
+      "source": "songs from the comfort of your",
+      "translation": "мелодии, не покидая свой",
+      "status": "accepted_runtime_offline",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/BULK117_001_ACCEPTANCE.json"
+    },
+    {
+      "id": "4048afab3bef5f28dd2bbd916633c091ed32d84e0f553e4fad19e2c1b5667f60",
+      "source": "island!",
+      "translation": "Остров!",
+      "status": "already_covered_runtime",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/workflow/bulk117-001-covered-melody-output.jsonl"
+    },
+    {
+      "id": "43870eb193e337a6d47ab0cad1e198df6a1a44fca4ea0197e814d33a17d162f6",
+      "source": "Cost: 600,000 coins",
+      "translation": "Стоимость: 600,000 монет",
+      "status": "already_covered_runtime",
+      "last_run": "bulk117-001",
+      "acceptance_fixture": "translation-source/workflow/bulk117-001-covered-melody-output.jsonl"
+    }
+  ]
+}

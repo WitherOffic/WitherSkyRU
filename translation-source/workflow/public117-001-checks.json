@@ -1,0 +1,129 @@
+{
+  "state": "PASS",
+  "run_id": "public117-001",
+  "full_suite_count": 22,
+  "full_assertions_common_counter": 873720,
+  "additional_migration_policy_checks": 16,
+  "python_tests": 45,
+  "artifact_suites": {
+    "bulk117-007": 47003,
+    "SkyCubed": 477,
+    "public_boundary": 16
+  },
+  "baseline_bulk_assertions": 4001,
+  "jar": {
+    "path": "C:\\Users\\Wither\\Documents\\Codex\\2026-10-09\\referenced-chatgpt-conversation-this-is-an-3\\work\\minecraft-26.2\\WitherSkyRU\\build\\libs\\SkyblockRPGRU-26.2-fabric-0.16.20-dev.jar",
+    "bytes": 3473558,
+    "sha256": "8817c091aa4412737695261143ceaf13f4372c72c5130b765bac961b79f19c9b",
+    "java_class_major": 69
+  },
+  "audit": {
+    "sources_scanned_before": 1452,
+    "source_files_after": 1434,
+    "production_classes": 131,
+    "identical_translation_and_license_resources": 137,
+    "removed_private_class_entries": 12,
+    "network_client_refs_in_public_classes": 0,
+    "private_endpoints_in_jar": 0,
+    "external_framework_artifacts_scanned": 5,
+    "embedded_jars": 0
+  },
+  "translation_replay": {
+    "runtime-inventory.jsonl": {
+      "records": 58595,
+      "semantic_identical": true
+    },
+    "runtime-patterns.jsonl": {
+      "records": 1231,
+      "semantic_identical": true
+    },
+    "runtime-probes.jsonl": {
+      "records": 123143,
+      "semantic_identical": true
+    }
+  },
+  "games": {
+    "translator_only": {
+      "state": "PASS",
+      "checks": 7,
+      "result": "build/public-client117-translator-866dbecd73274caeb537aa654758694d/public-smoke-result.txt",
+      "sha256": "d44a3122dd830baff19ccdfe6cd4743c111a416556b063182ec68ed3abd8d67a",
+      "offline_test_identity": true,
+      "not_multiplayer": true,
+      "installed_pack_modified": false
+    },
+    "skycubed_native": {
+      "state": "PASS",
+      "checks": 23,
+      "result": "build/skycubed-client117-23431ab39cbb40b5bb385e502a814a68/skycubed-smoke-result.txt",
+      "sha256": "4032cfec0d6744401fc9d8b600e49c3afcdc13c5f93aea14cc3bab5716f45959",
+      "offline_test_identity": true,
+      "not_multiplayer": true,
+      "installed_pack_modified": false
+    }
+  },
+  "scenarios": {
+    "A": "PASS actual isolated Minecraft client with public JAR20 and no Collector",
+    "B": "NOT_RUN awaiting current independent skyblockrpgru_collector artifact",
+    "C": "NOT_RUN awaiting current independent skyblockrpgru_collector artifact"
+  },
+  "standalone_source_modified": false,
+  "vps_or_database_accessed": false,
+  "fps_frametime_heap": "NOT_MEASURED; no live gameplay benchmark",
+  "not_live_hypixel": true,
+  "logs": {
+    ".migration/public117-001/artifact-TestBulk117007.log": {
+      "sha256": "c5c472470f9efa127c93dff1298645efb6e83e1018b31b5ea72f2ccddcbfce99",
+      "bytes": 97
+    },
+    ".migration/public117-001/artifact-TestPublicDistribution117.log": {
+      "sha256": "0cddcb09db57b40895a0edd1b00da26ad6db5bd2535170331a48bbd2738f883e",
+      "bytes": 128
+    },
+    ".migration/public117-001/artifact-TestSkyCubedDialogue117.log": {
+      "sha256": "12d0356d1310e5c230de360dc144581ea0cef867dc8742be98e356b0e2228b54",
+      "bytes": 184
+    },
+    ".migration/public117-001/build-backup.log": {
+      "sha256": "d7e9cce1dcee2f5575f8d184637e9c858c0fb7f121dc251f6b666ef1c74c49cc",
+      "bytes": 1371
+    },
+    ".migration/public117-001/bulk-old-final.log": {
+      "sha256": "e16c4ad5aa1bb9a6936963050711553dc81f4cf187c034932cfa6c59d147ecd0",
+      "bytes": 92
+    },
+    ".migration/public117-001/clean-check-build.log": {
+      "sha256": "74fd45ac54b9fbdcdf1bab6c02f6d38f7622956cfc10c9e43b5487f43886f819",
+      "bytes": 4337
+    },
+    ".migration/public117-001/coverage-after.log": {
+      "sha256": "3c53e68f2d3bf402dd0f9d3f06b9c21c916e6a890b648ad00575113f000657d2",
+      "bytes": 355
+    },
+    ".migration/public117-001/coverage-before.log": {
+      "sha256": "a352017e0ac2d836502922bbb95e2029e41169856fe1e32486c742ff92e5ec32",
+      "bytes": 355
+    },
+    ".migration/public117-001/coverage-pre-split.log": {
+      "sha256": "3c53e68f2d3bf402dd0f9d3f06b9c21c916e6a890b648ad00575113f000657d2",
+      "bytes": 355
+    },
+    ".migration/public117-001/coverage-summary.log": {
+      "sha256": "9ff391ebec5bd289e17b29ec5ba9ac1859ff85c9fa5a2c3f67dae30ab1437f05",
+      "bytes": 32954
+    },
+    ".migration/public117-001/python-tests.log": {
+      "sha256": "115016ab30d1990ed5a6109a89881ab70f367574c4b0a94c41d6f4b82d3cc3b6",
+      "bytes": 5318
+    },
+    ".migration/public117-001/smoke-driver-build.log": {
+      "sha256": "daba75f8bae7d59401f8ef35f5e9a0f7258abb87873094d7e5f42f16a715c729",
+      "bytes": 497
+    },
+    ".migration/public117-001/targeted.log": {
+      "sha256": "03b1663daf42ef6cf62d32f6aa6fc7bccdb2dd98611a4e9f9f08c8e207850520",
+      "bytes": 1131
+    }
+  },
+  "time": "2026-10-23T09:51:17.304729+07:00"
+}

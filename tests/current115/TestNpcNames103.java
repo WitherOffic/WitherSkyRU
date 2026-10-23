@@ -91,7 +91,10 @@ public final class TestNpcNames103 {
             var signed=new GuiMessage(0,input,new MessageSignature(new byte[256]),GuiMessageSource.SYSTEM_SERVER,null);check(SkyRuClient.npcChat(signed)==signed,"signed protected");
             flag("translateNpcChat",false);check(dispatch(input)==input,"NPC toggle");flag("translateNpcChat",true);
             for(String bad:List.of("","Player12345678901_","name with spaces","имя","<player>","name\nInjected","name!","[Name head]Name")){
-                var c=Component.literal(real(row.source,bad));check(dispatch(c)==c,"unsupported name stays original: "+row.source+"/"+bad);
+                var c=Component.literal(real(row.source,bad));
+                if(row.source.startsWith("[NPC] Ryan: ")&&bad.equals("[Name head]Name"))
+                    check(plain(dispatch(c)).equals(real(row.target,bad)),"reviewed Ryan matching-head extension; EXPECTATION_UPDATES_0.16.3.json");
+                else check(dispatch(c)==c,"unsupported name stays original: "+row.source+"/"+bad);
             }
             for(String altered:List.of(real(row.source,"Wither_101")+" added",real(row.source,"Wither_101").replace("[NPC] ","[BOSS] "),"prefix "+real(row.source,"Wither_101"))){var c=Component.literal(altered);check(dispatch(c)==c,"anchored closed template");}
         }

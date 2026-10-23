@@ -1,0 +1,36 @@
+{
+  "not_counted": {
+    "numeric_family_variants": [
+      229,
+      234,
+      237,
+      277,
+      279,
+      286
+    ],
+    "wiki_context_mismatch": {
+      "index": 797,
+      "reason": "Cactus Minion UI slot contains carrot text inconsistent with item; no certified import"
+    },
+    "unselected_contextual_case": [
+      1004
+    ]
+  },
+  "modules": {
+    "Module:UI": {
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Module:UI?oldid=836871",
+      "revision": 836871,
+      "raw_sha256": "E99521398E0AEB22B11A8221ABB9D1BB69544550FE2DC44FF80C9813B6942726"
+    },
+    "Module:Inventory slot": {
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Module:Inventory_slot?oldid=836812",
+      "revision": 836812,
+      "raw_sha256": "6784596B63ACD2AFF05BB0BF6A69AB5C271FBCFDEA291E540F455E9B4788F663"
+    },
+    "Module:UIText": {
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Module:UIText?oldid=842200",
+      "revision": 842200,
+      "raw_sha256": "A23413D0DE9D0B274CC59D0FC69AE7B503F2BCCC3C6D3DAE0C31DB71A678BD62"
+    }
+  }
+}

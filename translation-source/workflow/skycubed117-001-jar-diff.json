@@ -1,0 +1,24 @@
+{
+  "old_sha256": "a30b9336e7d879a2b7918aad9e48fea3fe634cff8d3cb052f4a941ec9485ca4e",
+  "new_sha256": "af6ff4266576d2bbd5d1fb000844497de898dc7cdf43037a69089fbe9f53d473",
+  "new_bytes": 3260270,
+  "changed": [
+    "fabric.mod.json",
+    "ru/wither/skyru/CollectorCapture.class",
+    "ru/wither/skyru/CompatibilityMixinPlugin.class",
+    "ru/wither/skyru/SkyRuClient.class",
+    "witherskyru.mixins.json"
+  ],
+  "added": [
+    "ru/wither/skyru/SkyCubedDialogueBridge.class",
+    "ru/wither/skyru/mixin/SkyCubedDialogueMixin.class"
+  ],
+  "removed": [],
+  "identical_entries": 283,
+  "identical_data_assets_notices_entries": 139,
+  "all_data_assets_licenses_identical": true,
+  "single_mod_id": "witherskyru",
+  "version": "0.16.13-dev",
+  "no_vendor_or_test_classes": true,
+  "candidate_shared_difference_only_loom_manifest": true
+}

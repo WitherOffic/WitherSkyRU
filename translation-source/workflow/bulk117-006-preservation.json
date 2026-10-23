@@ -1,0 +1,16 @@
+{
+  "state": "PASS",
+  "incoming_hashes": 250,
+  "untouched_exact_hashes": 243,
+  "controlled_prior_file_changes": [
+    "AGENTS.md",
+    "build.gradle",
+    "docs/DEV_STATUS.md",
+    "src/main/java/ru/wither/skyru/BulkLore117.java",
+    "src/main/resources/data/witherskyru/lore.tsv",
+    "src/main/resources/fabric.mod.json",
+    "translation-source/BULK117_PROGRESS.json"
+  ],
+  "comparison": "Untouched exactSHA; inverse version/suite/loader changes with normalizedCRLF/LF against saved originals; lore prefix unchanged; DEV append only; queue only26 matched records statuses/evidence and aggregate metadata. All old origins and other record fields preserved.",
+  "no_reset_stash_clean_commit_push_install": true
+}

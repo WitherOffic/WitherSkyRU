@@ -1,3 +1,9 @@
+## 0.16.21-dev — SkyblockRPG_RU
+
+- Rename public display, settings button, logs and JAR to SkyblockRPG_RU; keep mod ID/config witherskyru.
+- Bundle the original MIT license, third-party notices and pinned source attribution for bulk117-001..007.
+- Translations and the public no-Collector boundary remain unchanged.
+
 # Изменения
 
 ## 0.16.0-dev — 21 октября 2026, Minecraft 26.2

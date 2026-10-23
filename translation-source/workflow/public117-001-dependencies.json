@@ -1,0 +1,36 @@
+{
+  "state": "PASS",
+  "method": "All bytes/classes of external direct/transitive Fabric framework artifacts scanned for private Collector references; Minecraft own multiplayer network is outside translation telemetry",
+  "artifacts": [
+    {
+      "name": "fabric-loader-0.19.5.jar",
+      "sha256": "93044e4dd46de5d8136701292f05e868da096d2c9fddb4793e4fdbcc63efc695",
+      "private_collector_refs": 0,
+      "network_framework_refs": []
+    },
+    {
+      "name": "mixinextras-fabric-0.5.5.jar",
+      "sha256": "5da883dc4bfb16e4ceca3f16d8c4ad937bdfb1ce337ed5ba15472d4d81dd6242",
+      "private_collector_refs": 0,
+      "network_framework_refs": []
+    },
+    {
+      "name": "fabric-log4j-util-1.0.2.jar",
+      "sha256": "538e845a086d58301b7dfb2135db52213666374ee9a23f0d9dc776c6e37c25b2",
+      "private_collector_refs": 0,
+      "network_framework_refs": []
+    },
+    {
+      "name": "fabric-resource-loader-v1-2.0.13+9edec1269e.jar",
+      "sha256": "e9e71603cfe29960eff8cc7b5be799e17463bb8267c16dafd232be2238281e7a",
+      "private_collector_refs": 0,
+      "network_framework_refs": []
+    },
+    {
+      "name": "fabric-api-base-2.0.4+ece063239e.jar",
+      "sha256": "91679a213120ca9fe8681461f4e9ff65f296a80a844d50c7dfc2113787b8b41a",
+      "private_collector_refs": 0,
+      "network_framework_refs": []
+    }
+  ]
+}

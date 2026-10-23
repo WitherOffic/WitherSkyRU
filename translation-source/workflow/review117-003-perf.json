@@ -1,0 +1,65 @@
+{
+  "runs": [
+    {
+      "order": 0,
+      "label": "baseline",
+      "jar_sha256": "f7ef26f7321891a2e5ea34e48f588e78178732d8e67571c3348a4cfd40cf9640",
+      "result": {
+        "ms_per10": 0.012204550000000002,
+        "allocated_bytes_per10": 14128.0,
+        "rounds_ms": [
+          0.01219007,
+          0.01212453,
+          0.01221903,
+          0.01222958
+        ]
+      }
+    },
+    {
+      "order": 1,
+      "label": "candidate",
+      "jar_sha256": "4191ea3d262c931bf776ece810e9ed7950479c7c6554872b42f1d975286769a4",
+      "result": {
+        "ms_per10": 0.012087535,
+        "allocated_bytes_per10": 13760.006000000001,
+        "rounds_ms": [
+          0.01214561,
+          0.01210682,
+          0.01206825,
+          0.01201652
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "label": "candidate",
+      "jar_sha256": "4191ea3d262c931bf776ece810e9ed7950479c7c6554872b42f1d975286769a4",
+      "result": {
+        "ms_per10": 0.01213353,
+        "allocated_bytes_per10": 13760.012,
+        "rounds_ms": [
+          0.01242923,
+          0.01219034,
+          0.01207672,
+          0.01204629
+        ]
+      }
+    },
+    {
+      "order": 3,
+      "label": "baseline",
+      "jar_sha256": "f7ef26f7321891a2e5ea34e48f588e78178732d8e67571c3348a4cfd40cf9640",
+      "result": {
+        "ms_per10": 0.012207965000000001,
+        "allocated_bytes_per10": 13760.0,
+        "rounds_ms": [
+          0.01233467,
+          0.01211926,
+          0.0119568,
+          0.01229667
+        ]
+      }
+    }
+  ],
+  "scope": "One unchanged numeric workload, four sequential JVMs A-B-B-A; 20000 warmup and4x10000 measured10-row batches; not live FPS, frametime or retained heap."
+}

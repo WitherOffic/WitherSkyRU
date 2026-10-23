@@ -1,0 +1,53 @@
+{
+  "state": "PASS",
+  "archives": [
+    {
+      "archive": "SkyblockRPG_RU-26.2-fabric-0.16.21-dev.jar",
+      "sha256": "bcdda1c6c57d7e8178f170fb5a10432f605e5c2e18115ae8b55cf929931a2164",
+      "entries": 285,
+      "classes": 131,
+      "nested_jars": [],
+      "class_major_versions": [
+        69
+      ]
+    }
+  ],
+  "jar": {
+    "name": "SkyblockRPG_RU-26.2-fabric-0.16.21-dev.jar",
+    "bytes": 3482002,
+    "sha256": "bcdda1c6c57d7e8178f170fb5a10432f605e5c2e18115ae8b55cf929931a2164"
+  },
+  "metadata": {
+    "schemaVersion": 1,
+    "id": "witherskyru",
+    "version": "0.16.21-dev",
+    "name": "SkyblockRPG_RU",
+    "description": "Russian offline dictionary and dynamic templates for Hypixel SkyBlock. Fully offline translation. No telemetry or diagnostic uploads. No translation API or AI.",
+    "authors": [
+      "WitherSkyRU project"
+    ],
+    "license": [
+      "MIT",
+      "OFL-1.1",
+      "CC-BY-NC-SA-3.0"
+    ],
+    "environment": "client",
+    "entrypoints": {
+      "client": [
+        "ru.wither.skyru.SkyRuClient"
+      ]
+    },
+    "mixins": [
+      "witherskyru.mixins.json"
+    ],
+    "depends": {
+      "fabricloader": ">=0.19.5",
+      "fabric-resource-loader-v1": ">=2.0.13",
+      "minecraft": "26.2",
+      "java": ">=25"
+    }
+  },
+  "preserved_prior_resources": 137,
+  "bundled_source_urls": 359,
+  "new_legal_resources": 3
+}

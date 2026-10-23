@@ -1,0 +1,66 @@
+{
+  "state": "PASS",
+  "baseline_jar": "0.16.17-dev",
+  "baseline_assertions": 4001,
+  "screened_candidates": 1712,
+  "full_suite_count": 22,
+  "explicit_assertions_reported_by_suites": 826768,
+  "additional_suites_without_assertion_count": "Migration26216 scenarios and CollectorSpool117 recovery/ACK/replay/quota/eviction; not included in explicit total",
+  "new_batch_assertions": 47003,
+  "artifact_assertions": 47003,
+  "artifact_skycubed_regression_assertions": 479,
+  "full_ui_cases": 1000,
+  "unique_slots": 962,
+  "raw_pages_verified": 173,
+  "kinds": {
+    "wiki_ui_literal": 78,
+    "wiki_ui_title": 922
+  },
+  "extra_neighbor_review": {
+    "actual_old_jar": "0.16.17-dev",
+    "contexts": 55,
+    "rendered_rows": 557,
+    "purpose": "Check authored lore together with existing neighboring translations before import; not an in-game visual test"
+  },
+  "shift_original_title_policy": "PASS components/styled/subsequent renderer; lore still translates",
+  "duplicate_new_keys": 0,
+  "numbers_roman_commands_spans_unicode_scripts": "PASS;targets use Cyrillic/Latin letters with no accidental mixed scripts",
+  "artifact_classpath_excludes_main": true,
+  "old_changed_sources_lost": 0,
+  "live_minecraft": "not run;WSRU-0002/0003 still await live confirmation",
+  "fps_frametime_memory": "not measured",
+  "jar": {
+    "from": "0.16.17-dev",
+    "to": "0.16.18-dev",
+    "identical_count": 289,
+    "changed": [
+      "data/witherskyru/lore.tsv",
+      "fabric.mod.json",
+      "ru/wither/skyru/BulkLore117.class"
+    ],
+    "added": [
+      "data/witherskyru/bulk117-006.json"
+    ],
+    "removed": [],
+    "collector_skycubed_identical": [
+      "ru/wither/skyru/CollectorCapture$Scope.class",
+      "ru/wither/skyru/CollectorCapture$ThrottleHit.class",
+      "ru/wither/skyru/CollectorCapture.class",
+      "ru/wither/skyru/CollectorConsent$Decision.class",
+      "ru/wither/skyru/CollectorConsent.class",
+      "ru/wither/skyru/CollectorConsentScreen.class",
+      "ru/wither/skyru/CollectorEnrollment.class",
+      "ru/wither/skyru/CollectorEnvironment.class",
+      "ru/wither/skyru/CollectorOfflineSpool.class",
+      "ru/wither/skyru/CollectorSourcePolicy.class",
+      "ru/wither/skyru/CollectorTelemetry.class",
+      "ru/wither/skyru/SkyCubedDialogueBridge.class",
+      "ru/wither/skyru/mixin/CollectorLifecycleMixin.class",
+      "ru/wither/skyru/mixin/HudCollectorMixin.class",
+      "ru/wither/skyru/mixin/SkyCubedDialogueMixin.class"
+    ],
+    "jar_sha256": "54e934ff2662c81b6bcba1088236ab035ac430620dca94f0f521ffab0f2f5501",
+    "jar_bytes": 3453531,
+    "licenses_fonts_unchanged": true
+  }
+}

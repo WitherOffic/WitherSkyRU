@@ -1,0 +1,867 @@
+{
+  "run_id": "bulk117-006",
+  "accepted_old_queue_records": 26,
+  "within_1000_not_additional": true,
+  "current_api_snapshot_sha256": "397687ce9117a6483d68a75e1d360f328a9079cc103b951b22d08ffc1d50a14b",
+  "method": "All26 current API strings equal their historical source, and pinned actual UI instances exist in acceptance; baseline17 misses, artifact18 authored matches. Historical origins retained. Scope is accepted UI rendering, not every live layout.",
+  "records": [
+    {
+      "id": 1308,
+      "source": "The Real Zoo Shady",
+      "current_api_equal": true,
+      "current_value": "The Real Zoo Shady",
+      "batch_index": 138,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 26208,
+        "template_end": 31028,
+        "template_name": "UI",
+        "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+        "slot": "4, 2",
+        "menu": "(6/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 20, none, &cThe Real Zoo Shady, &fHave 20 different pets in your/&fpet menu/&7/&7Reward:/&8+&e20 &7Achievement Points/&7/&7&7Unlocked by 1.12% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "THE_REAL_ZOO_SHADY",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Настоящий зоолог"
+    },
+    {
+      "id": 1346,
+      "source": "This is fair",
+      "current_api_equal": true,
+      "current_value": "This is fair",
+      "batch_index": 141,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 26208,
+        "template_end": 31028,
+        "template_name": "UI",
+        "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+        "slot": "4, 3",
+        "menu": "(6/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cThis is fair, &fKill a pig using the Pigman/&fSword/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 0.51% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "THIS_IS_FAIR",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Всё честно"
+    },
+    {
+      "id": 1354,
+      "source": "Three Birds, One Arrow",
+      "current_api_equal": true,
+      "current_value": "Three Birds, One Arrow",
+      "batch_index": 140,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 26208,
+        "template_end": 31028,
+        "template_name": "UI",
+        "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+        "slot": "4, 4",
+        "menu": "(6/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cThree Birds\\, One Arrow, &fKill 3 monsters with one shot/&ffrom Runaans Bow/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 9.03% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "THREE_BIRDS_ONE_ARROW",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Три птицы одной стрелой"
+    },
+    {
+      "id": 1355,
+      "source": "Time To Start Fishing",
+      "current_api_equal": true,
+      "current_value": "Time To Start Fishing",
+      "batch_index": 143,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 26208,
+        "template_end": 31028,
+        "template_name": "UI",
+        "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+        "slot": "4, 5",
+        "menu": "(6/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cTime To Start Fishing, &f[Coop or you] Place the Pond/&fIsland/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 5.13% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "TIME_TO_START_FISHING",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Пора начать рыбачить"
+    },
+    {
+      "id": 1356,
+      "source": "Time to go on vacation",
+      "current_api_equal": true,
+      "current_value": "Time to go on vacation",
+      "batch_index": 144,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 26208,
+        "template_end": 31028,
+        "template_name": "UI",
+        "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+        "slot": "4, 6",
+        "menu": "(6/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cTime to go on vacation, &f[Coop or you] Upgrade a minion/&fwith the Super Compactor 3000/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 17.56% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "TIME_TO_GO_ON_VACATION",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Пора в отпуск"
+    },
+    {
+      "id": 1362,
+      "source": "To space we go!",
+      "current_api_equal": true,
+      "current_value": "To space we go!",
+      "batch_index": 146,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 26208,
+        "template_end": 31028,
+        "template_name": "UI",
+        "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+        "slot": "4, 7",
+        "menu": "(6/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cTo space we go!, &fUse a launch pad on your private/&fisland/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 1.08% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "TO_SPACE_WE_GO",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Вперёд в космос!"
+    },
+    {
+      "id": 1366,
+      "source": "Tough Choice",
+      "current_api_equal": true,
+      "current_value": "Tough Choice",
+      "batch_index": 137,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 26208,
+        "template_end": 31028,
+        "template_name": "UI",
+        "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+        "slot": "4, 8",
+        "menu": "(6/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cTough Choice, &fApply an Ultimate Enchantment on/&fan item/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 5.43% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "THOUGH_CHOICE",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Трудный выбор"
+    },
+    {
+      "id": 1374,
+      "source": "Travel to hub from your island",
+      "current_api_equal": true,
+      "current_value": "Travel to hub from your island",
+      "batch_index": 51,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "3, 7",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cYour adventure begins..., &fTravel to hub from your island/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 96.03% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "YOUR_ADVENTURE_BEGINS",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Отправьтесь со своего острова в Хаб"
+    },
+    {
+      "id": 1377,
+      "source": "True Adventurer",
+      "current_api_equal": true,
+      "current_value": "True Adventurer",
+      "batch_index": 131,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "2, 3",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 10, none, &cTrue Adventurer, &fReach Catacombs level 40/&7/&7Reward:/&8+&e10 &7Achievement Points/&7/&7&7Unlocked by 0.02% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "TRUE_ADVENTURER",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Настоящий искатель приключений"
+    },
+    {
+      "id": 1378,
+      "source": "True Alchemist",
+      "current_api_equal": true,
+      "current_value": "True Alchemist",
+      "batch_index": 145,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "2, 4",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cTrue Alchemist, &fObtain the Potion Affinity/&fArtifact/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 1.49% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "TRUE_ALCHEMIST",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Настоящий алхимик"
+    },
+    {
+      "id": 1392,
+      "source": "Upgrades people, Upgrades!",
+      "current_api_equal": true,
+      "current_value": "Upgrades people, Upgrades!",
+      "batch_index": 127,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "2, 6",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 10, none, &cUpgrades people\\, Upgrades!, &fRecombobulate any item/&7/&7Reward:/&8+&e10 &7Achievement Points/&7/&7&7Unlocked by 2.12% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "UPGRADES_PEOPLE_UPGRADES",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Улучшения, народ, улучшения!"
+    },
+    {
+      "id": 1395,
+      "source": "Use an Inflatable Jerry",
+      "current_api_equal": true,
+      "current_value": "Use an Inflatable Jerry",
+      "batch_index": 65,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 13000,
+        "template_end": 17701,
+        "template_name": "UI",
+        "template_raw_sha256": "7b6b45ade316141051a507a4e763c55225d0aa94090abc8ff37d9c8b59691190",
+        "slot": "4, 3",
+        "menu": "(3/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cJerry!!, &fUse an Inflatable Jerry/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 3.97% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "JERRY",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Используйте надувного Джерри"
+    },
+    {
+      "id": 1409,
+      "source": "Watch Me Shine",
+      "current_api_equal": true,
+      "current_value": "Watch Me Shine",
+      "batch_index": 136,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "2, 8",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 15, none, &cWatch Me Shine, &fWear the Crystal Armor Set/&7/&7Reward:/&8+&e15 &7Achievement Points/&7/&7&7Unlocked by 4.21% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "WATCH_ME_SHINE",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Смотрите, как я сияю"
+    },
+    {
+      "id": 1415,
+      "source": "Water Blade",
+      "current_api_equal": true,
+      "current_value": "Water Blade",
+      "batch_index": 139,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "3, 2",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cWater Blade, &fKill a squid using the/&fPrismarine Blade/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 0.54% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "WATER_SWORD",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Водяной клинок"
+    },
+    {
+      "id": 1418,
+      "source": "Wear a full set of Emerald Armor",
+      "current_api_equal": true,
+      "current_value": "Wear a full set of Emerald Armor",
+      "batch_index": 69,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 17710,
+        "template_end": 22411,
+        "template_name": "UI",
+        "template_raw_sha256": "8033043c2f65eb25938974a35a541fb65883a03eaa959c0027a716440535272d",
+        "slot": "3, 8",
+        "menu": "(4/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cPrecious Minerals, &fWear a full set of Emerald Armor/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 0.40% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "PRECIOUS_MINERALS",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Наденьте полный комплект изумрудной брони"
+    },
+    {
+      "id": 1419,
+      "source": "Wear a full set of Fairy Armor",
+      "current_api_equal": true,
+      "current_value": "Wear a full set of Fairy Armor",
+      "batch_index": 104,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 17710,
+        "template_end": 22411,
+        "template_name": "UI",
+        "template_raw_sha256": "8033043c2f65eb25938974a35a541fb65883a03eaa959c0027a716440535272d",
+        "slot": "4, 5",
+        "menu": "(4/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cRaaaiiinnnnbbooww!, &fWear a full set of Fairy Armor/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 2.06% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "RAINBOW",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Наденьте полный комплект брони феи"
+    },
+    {
+      "id": 1420,
+      "source": "Wear a full set of Farm Armor",
+      "current_api_equal": true,
+      "current_value": "Wear a full set of Farm Armor",
+      "batch_index": 42,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 26208,
+        "template_end": 31028,
+        "template_name": "UI",
+        "template_raw_sha256": "866a87f7ca805b1d39df567f182d9794ce48476b28b87f45711c815e8b25c8eb",
+        "slot": "2, 7",
+        "menu": "(6/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cSupreme Farmer, &fWear a full set of Farm Armor/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 0.57% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "SUPREME_FARMER",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Наденьте полный комплект фермерской брони"
+    },
+    {
+      "id": 1425,
+      "source": "Wear the Creeper Pants",
+      "current_api_equal": true,
+      "current_value": "Wear the Creeper Pants",
+      "batch_index": 19,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 13000,
+        "template_end": 17701,
+        "template_name": "UI",
+        "template_raw_sha256": "7b6b45ade316141051a507a4e763c55225d0aa94090abc8ff37d9c8b59691190",
+        "slot": "3, 2",
+        "menu": "(3/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cHsssss, &fWear the Creeper Pants/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 1.47% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "HSSSSS",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Наденьте штаны крипера"
+    },
+    {
+      "id": 1426,
+      "source": "Wear the Crystal Armor Set",
+      "current_api_equal": true,
+      "current_value": "Wear the Crystal Armor Set",
+      "batch_index": 68,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "2, 8",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 15, none, &cWatch Me Shine, &fWear the Crystal Armor Set/&7/&7Reward:/&8+&e15 &7Achievement Points/&7/&7&7Unlocked by 4.21% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "WATCH_ME_SHINE",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Наденьте комплект кристальной брони"
+    },
+    {
+      "id": 1427,
+      "source": "Wear the Elegant Tux",
+      "current_api_equal": true,
+      "current_value": "Wear the Elegant Tux",
+      "batch_index": 110,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 8241,
+        "template_end": 12991,
+        "template_name": "UI",
+        "template_raw_sha256": "3a29b7b88973ccf2080666dd16a946b6eea7aae26633e03fb18506b29eaa559f",
+        "slot": "4, 5",
+        "menu": "(2/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 15, none, &cGlass Cannon, &fWear the Elegant Tux/&7/&7Reward:/&8+&e15 &7Achievement Points/&7/&7&7Unlocked by 0.25% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "GLASS_CANNON",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Наденьте элегантный смокинг"
+    },
+    {
+      "id": 1428,
+      "source": "Wear the Guardian Chestplate",
+      "current_api_equal": true,
+      "current_value": "Wear the Guardian Chestplate",
+      "batch_index": 21,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 13000,
+        "template_end": 17701,
+        "template_name": "UI",
+        "template_raw_sha256": "7b6b45ade316141051a507a4e763c55225d0aa94090abc8ff37d9c8b59691190",
+        "slot": "4, 6",
+        "menu": "(3/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cKing Of The Sea, &fWear the Guardian Chestplate/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 2.19% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "KING_OF_THE_SEA",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Наденьте нагрудник стража"
+    },
+    {
+      "id": 1430,
+      "source": "Wear the full Speedster Armor",
+      "current_api_equal": true,
+      "current_value": "Wear the full Speedster Armor",
+      "batch_index": 85,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 8241,
+        "template_end": 12991,
+        "template_name": "UI",
+        "template_raw_sha256": "3a29b7b88973ccf2080666dd16a946b6eea7aae26633e03fb18506b29eaa559f",
+        "slot": "4, 8",
+        "menu": "(2/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cGottagofast, &fWear the full Speedster Armor/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 0.55% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "GOTTAGOFAST",
+          "description"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Наденьте полный комплект брони скорохода"
+    },
+    {
+      "id": 1432,
+      "source": "Welcome to my Factory",
+      "current_api_equal": true,
+      "current_value": "Welcome to my Factory",
+      "batch_index": 118,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "3, 3",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cWelcome to my Factory, &f[Coop or you] Place a Farm/&fCrystal/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 2.48% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "WELCOME_TO_MY_FACTORY",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Добро пожаловать на мою фабрику"
+    },
+    {
+      "id": 1445,
+      "source": "Wonderful Treasures",
+      "current_api_equal": true,
+      "current_value": "Wonderful Treasures",
+      "batch_index": 142,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "3, 4",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 10, none, &cWonderful Treasures, &fOpen an Obsidian Chest/&7/&7Reward:/&8+&e10 &7Achievement Points/&7/&7&7Unlocked by 2.89% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "WONDERFUL_TREASURES",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Чудесные сокровища"
+    },
+    {
+      "id": 1457,
+      "source": "Your adventure begins...",
+      "current_api_equal": true,
+      "current_value": "Your adventure begins...",
+      "batch_index": 133,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "3, 7",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 5, none, &cYour adventure begins..., &fTravel to hub from your island/&7/&7Reward:/&8+&e5 &7Achievement Points/&7/&7&7Unlocked by 96.03% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "YOUR_ADVENTURE_BEGINS",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Ваше приключение начинается..."
+    },
+    {
+      "id": 1461,
+      "source": "Zookeeper",
+      "current_api_equal": true,
+      "current_value": "Zookeeper",
+      "batch_index": 1222,
+      "ui_origin": {
+        "source_url": "https://hypixelskyblock.minecraft.wiki/w/Achievements/UI?oldid=641139",
+        "page": "Achievements/UI",
+        "revision": 641139,
+        "raw_sha256": "AE2E398C0465D8E8976DDB03DAECE32A3CDB870561DDC4FC5B528CBB375EE375",
+        "template_start": 31037,
+        "template_end": 34378,
+        "template_name": "UI",
+        "template_raw_sha256": "9f0af5854150e5c997ee115049054a95dfc6144d6c2d5b9bc885fda82fe3948a",
+        "slot": "3, 8",
+        "menu": "(7/7) SkyBlock Challenge Achi...",
+        "slot_raw": "Coal; 10, none, &cZookeeper, &fBuy a pet from Oringo during the/&fTravelling Zoo/&7/&7Reward:/&8+&e10 &7Achievement Points/&7/&7&7Unlocked by 6.02% of SkyBlock/&7players!/&7/&cAchievement locked!"
+      },
+      "old_origin": {
+        "source_url": "https://api.hypixel.net/v2/resources/achievements",
+        "json_path": [
+          "achievements",
+          "skyblock",
+          "one_time",
+          "ZOOKEEPER",
+          "name"
+        ],
+        "line": 0,
+        "snapshot_sha256": "0cf946eb0b1f3f191efb6005e07b7765c83207c5cc99e36b1f12e02a6b14d37c"
+      },
+      "translation": "Смотритель зоопарка"
+    }
+  ]
+}

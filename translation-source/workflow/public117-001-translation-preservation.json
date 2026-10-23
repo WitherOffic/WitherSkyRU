@@ -1,0 +1,21 @@
+{
+  "state": "PASS",
+  "before": "0.16.19-dev pre-split",
+  "after": "0.16.20-dev public",
+  "method": "actual JARs, same probes; JSON records compared semantically in original order",
+  "files": {
+    "runtime-inventory.jsonl": {
+      "records": 58595,
+      "semantic_identical": true
+    },
+    "runtime-patterns.jsonl": {
+      "records": 1231,
+      "semantic_identical": true
+    },
+    "runtime-probes.jsonl": {
+      "records": 123143,
+      "semantic_identical": true
+    }
+  },
+  "translation_output_differences": 0
+}

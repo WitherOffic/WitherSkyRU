@@ -1,0 +1,87 @@
+{
+  "state": "PASS",
+  "full_suite_count": 19,
+  "full_assertions": 692804,
+  "new_suite_assertions": 479,
+  "artifact_assertions": 479,
+  "games": {
+    "with_skycubed": {
+      "result": "PASS",
+      "checks": 27,
+      "root": "build/skycubed-client117-cf4242d21f0649159dc28b3283ba0b92",
+      "result_sha256": "f0f79bdf7a6fe0815c7f1a12452468fc1a6c049e73d9105109acfd6cbb124929",
+      "jar_sha256": "af6ff4266576d2bbd5d1fb000844497de898dc7cdf43037a69089fbe9f53d473",
+      "offline_test_account": true,
+      "not_multiplayer": true,
+      "installed_pack_modified": false
+    },
+    "without_skycubed": {
+      "result": "PASS",
+      "checks": 4,
+      "root": "build/skycubed-client117-0109f22f263b42c7908791801b678cc9",
+      "result_sha256": "9248c577a6d5a46321c18059483f1b32e0db9254c5d60cc9740c3fb1f79df5c9",
+      "jar_sha256": "af6ff4266576d2bbd5d1fb000844497de898dc7cdf43037a69089fbe9f53d473",
+      "offline_test_account": true,
+      "not_multiplayer": true,
+      "installed_pack_modified": false
+    }
+  },
+  "collector_test": "Native test-only status spy plus loopback-only temporary owner; five final intents match TRANSLATED/MISSING, no intents for Russian/private fixtures, zero sendable observations. Real consent/lifecycle/filter suites also pass.",
+  "live_hypixel": "not tested; manual NPC dialogue, mouse/key response, visual layout and panel verification required",
+  "fps_frametime_memory": "not measured",
+  "source_reference": {
+    "repository": "https://github.com/meowdding/SkyCubed",
+    "file_commit": "54937a790ae1ed4f8b99271e3e930f56cf0acd0c",
+    "file": "src/main/kotlin/tech/thatgravyboat/skycubed/features/overlays/dialogue/DialogueOverlay.kt",
+    "retrieved_source_sha256": "dffa563a052f6fe964f82cf9357af84b8c9fc6b0cc178b037b817c9e4d94f5f9"
+  },
+  "jar_sha256": "af6ff4266576d2bbd5d1fb000844497de898dc7cdf43037a69089fbe9f53d473",
+  "logs": {
+    "targeted.log": {
+      "sha256": "937c6a364bf7ea3762f7d77d29c0060b8d01c861aedc23b94a53f31f4c6fcd74",
+      "pass_lines": [
+        "PASS SkyCubed dialogue117: 479 assertions; existing NPC/options, live semantic styles, Custom actions, overrides, mixed text, misses, chat privacy and version gates; not live Hypixel",
+        "BUILD SUCCESSFUL in 2s"
+      ]
+    },
+    "final-check.log": {
+      "sha256": "f34ee5eb561389894ee70c7917498c3c51d227de056f4f774c6ee7de2a5a059b",
+      "pass_lines": [
+        "PASS bulk117: 37046 assertions;1000 new source cases;43 full item contexts;baseline=false",
+        "PASS bulk117-002: 40006 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "PASS bulk117-003: 40027 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "Collector117 PASS 65 assertions",
+        "ASSERTIONS=29",
+        "PASS offline_recovery + HTTP_ACK + replay_previous_profile + quota_128MiB + eviction=1",
+        "PASS: HUD policy 6521 assertions",
+        "PASS: input/Shift modes 638 assertions",
+        "PASS Melody titles117: 1985 assertions; 20 titles; baseline=false",
+        "PASS: migration262 16 GUI/HUD classification and bounded compatibility checks; not a game test",
+        "PASS: NPC_LITERALS115 97310 assertions;224 locations+1344 finite envelopes;70 primary/published fixtures,current semantic colors/actions,numeric values,counters,timestamps,fragmentation,overrides,protected channels and unknown-style decline;not all live layouts/FPS",
+        "PASS: NPC_LITERALS117 13175 assertions; 16 literals; current colors/actions, fragmentation, timestamps/counters, overrides and chat protection; not an in-game test",
+        "PASS: NpcNames103 329566 assertions;135 templates/92 NPC labels/136 published layouts;fresh colors/actions/names/counters/toggles/protected messages;not FPS or all-game completeness",
+        "PASS: NPC_NUMBERS115 111202 assertions;13 bounded number templates;current glyph styles/actions,bounds,overrides,channels;not FPS",
+        "PASS: performance caches 6926 assertions; fresh styles/actions/values, separate bounded plans/quiet cache, log semantics, context equivalence/lifetime and whole-chat guards; no live game",
+        "PASS: player text protection 275 assertions; offline queue/context/name boundaries, not a live chat test",
+        "PASS: name index 8940 snapshot items; build 43 ms",
+        "PASS: Russian search 66 assertions",
+        "PASS: RYAN117 5547 assertions; 95 concrete cases of five closed patterns; styles/actions, opaque heads, bounds, overrides and protected channels; not a game test",
+        "PASS SkyCubed dialogue117: 479 assertions; existing NPC/options, live semantic styles, Custom actions, overrides, mixed text, misses, chat privacy and version gates; not live Hypixel",
+        "PASS: tooltip fonts 1925 assertions",
+        "BUILD SUCCESSFUL in 26s"
+      ]
+    },
+    "artifact-build.log": {
+      "sha256": "6c4466c595d90bacbbedaf35303de28e0fc92e416c323d45fff920d9c52203e0",
+      "pass_lines": [
+        "BUILD SUCCESSFUL in 1s"
+      ]
+    },
+    "artifact-test.log": {
+      "sha256": "b82f9f1e7808e79d09a1449d37c529db3deb8751503ec8c51feb90271ca183b2",
+      "pass_lines": [
+        "PASS SkyCubed dialogue117: 479 assertions; existing NPC/options, live semantic styles, Custom actions, overrides, mixed text, misses, chat privacy and version gates; not live Hypixel"
+      ]
+    }
+  }
+}

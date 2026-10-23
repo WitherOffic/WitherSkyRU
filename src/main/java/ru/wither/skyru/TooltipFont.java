@@ -45,7 +45,7 @@ public final class TooltipFont {
         properties.setProperty("fitTooltipText", Boolean.toString(wrap));
         Path temporary = Files.createTempFile(settingsFile.toAbsolutePath().getParent(), "witherskyru-font-", ".tmp");
         try {
-            try (var output = Files.newOutputStream(temporary)) { properties.store(output, "WitherSkyRU settings"); }
+            try (var output = Files.newOutputStream(temporary)) { properties.store(output, "SkyblockRPG_RU settings"); }
             try { Files.move(temporary, settingsFile, StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE); }
             catch (AtomicMoveNotSupportedException ex) { Files.move(temporary, settingsFile, StandardCopyOption.REPLACE_EXISTING); }
         } finally { Files.deleteIfExists(temporary); }

@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "scope": "Five closed Ryan grammars. Badges are exactly29 accepted catalogue names; trials are published I..XXX; no live value/component cache.",
+  "badges": {
+    "Campfire Adept Badge I": "Знак адепта костра I",
+    "Campfire Adept Badge II": "Знак адепта костра II",
+    "Campfire Adept Badge III": "Знак адепта костра III",
+    "Campfire Adept Badge IV": "Знак адепта костра IV",
+    "Campfire Cultist Badge I": "Знак служителя костра I",
+    "Campfire Cultist Badge II": "Знак служителя костра II",
+    "Campfire Cultist Badge III": "Знак служителя костра III",
+    "Campfire Cultist Badge IV": "Знак служителя костра IV",
+    "Campfire Cultist Badge V": "Знак служителя костра V",
+    "Campfire God Badge I": "Знак бога костра I",
+    "Campfire God Badge II": "Знак бога костра II",
+    "Campfire God Badge III": "Знак бога костра III",
+    "Campfire God Badge IV": "Знак бога костра IV",
+    "Campfire God Badge IX": "Знак бога костра IX",
+    "Campfire God Badge V": "Знак бога костра V",
+    "Campfire God Badge VI": "Знак бога костра VI",
+    "Campfire God Badge VII": "Знак бога костра VII",
+    "Campfire God Badge VIII": "Знак бога костра VIII",
+    "Campfire Initiate Badge I": "Знак посвящённого костра I",
+    "Campfire Initiate Badge II": "Знак посвящённого костра II",
+    "Campfire Initiate Badge III": "Знак посвящённого костра III",
+    "Campfire Scion Badge I": "Знак наследника костра I",
+    "Campfire Scion Badge II": "Знак наследника костра II",
+    "Campfire Scion Badge III": "Знак наследника костра III",
+    "Campfire Scion Badge IV": "Знак наследника костра IV",
+    "Campfire Scion Badge V": "Знак наследника костра V",
+    "Campfire Scion Badge VI": "Знак наследника костра VI",
+    "Campfire Scion Badge VII": "Знак наследника костра VII",
+    "Campfire Scion Badge VIII": "Знак наследника костра VIII"
+  },
+  "tiers": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI",
+    "VII",
+    "VIII",
+    "IX",
+    "X",
+    "XI",
+    "XII",
+    "XIII",
+    "XIV",
+    "XV",
+    "XVI",
+    "XVII",
+    "XVIII",
+    "XIX",
+    "XX",
+    "XXI",
+    "XXII",
+    "XXIII",
+    "XXIV",
+    "XXV",
+    "XXVI",
+    "XXVII",
+    "XXVIII",
+    "XXIX",
+    "XXX"
+  ],
+  "sources": [
+    {
+      "title": "Ryan",
+      "revision": 837804,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ryan?oldid=837804",
+      "raw_sha256": "0986CC922608A07ABFE1A7C9EAC163E807530444904B622CE1F83F170C64ED66"
+    },
+    {
+      "title": "Tyashoi Alchemist",
+      "revision": 860078,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist?oldid=860078",
+      "raw_sha256": "7D10657E6297B8E2A6F598583169985C0716573EA72C463661D30E13AA54C1B4"
+    },
+    {
+      "title": "Trials of Fire/List",
+      "revision": 841914,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trials_of_Fire/List?oldid=841914",
+      "raw_sha256": "C9DCEB510AF6E1CFF0DB92439C9B7D6B1AFBAC7D1CF7F155417C4D31EE5D9BA2"
+    }
+  ],
+  "greeting_target": "Знак посвящённого костра I — нашему новому посвящённому, ",
+  "greeting_override_keys": [
+    "[NPC] Ryan: A Campfire Initiate Badge I, for our latest initiate, {name}!"
+  ],
+  "greeting_excluded_names": []
+}

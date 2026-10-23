@@ -1,0 +1,312 @@
+{
+  "run_id": "bulk117-001",
+  "state": "completed_offline",
+  "requested_unique_new_lines": 1000,
+  "started_at": "2026-10-21T16:46:37+07:00",
+  "previous_run": "review117-005",
+  "user_instruction": "one group of1000 new lines; one overall report; no repeated accepted lines",
+  "guard_pid": 49644,
+  "guard_session": 29884,
+  "source_before": {
+    "docs/TRANSLATION_WORKFLOW.md": "b6968e804832f610ff1eb7ed9f169bd6b966ffe05cd02ad15f1e6dba39a47aee",
+    "docs/DEV_STATUS.md": "ec87870eb664c425f8ce1463c3a1e2b63582f657332c3224427d4233284766e6",
+    "AGENTS.md": "7b1bb70bce28155fa86625b6544acb551f17372325bfc4e15c7ceb951561963f",
+    "src/main/java/ru/wither/skyru/OfflineDictionary.java": "7b92980889ae359159927800ab2242bb53a943cc7e0de1f68c2c67fab02e4264",
+    "src/main/resources/data/witherskyru/lore.tsv": "e8aba58dde3fea889d5bf2e656c576a6f8092962034a39a1ab6afa33d0a768d4",
+    "build.gradle": "f23bdb7fe072c63100a7bd010efd9fcc41ca53dada26c79fc72df23d69741941",
+    "src/main/resources/fabric.mod.json": "9b721ee59f1324c186b604b75422138653fb207288e141b12880be2446207e1f"
+  },
+  "accepted_this_run": 1000,
+  "next_operation": "bulk117-002: new1000, start registry unreviewed id197, then expand confirmed source corpus; never recount accepted1000",
+  "selected_sources": 1000,
+  "source_list": "translation-source/BULK117_001_SOURCE.jsonl",
+  "source_list_sha256": "d8a50b20e4a07549f8e4dd75f9ea073e3474469fd880288fe70e6d3e2539abcd",
+  "excluded": [
+    {
+      "id": 80,
+      "status": "protected_required_English_quest_input"
+    },
+    {
+      "id": 614,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 615,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 616,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 617,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 618,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 619,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 620,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 621,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 622,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 718,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 723,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 783,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 863,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 874,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 907,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 918,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 1016,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 1058,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 1059,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 1060,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 1195,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 1196,
+      "status": "unresolved_markup_not_importable_literal"
+    },
+    {
+      "id": 1239,
+      "status": "unresolved_markup_not_importable_literal"
+    }
+  ],
+  "authored_target_rows": 1000,
+  "protected_or_alias_indices": [
+    75,
+    81,
+    82,
+    87,
+    92,
+    94,
+    116,
+    564
+  ],
+  "excluded_selected_indices": [
+    74,
+    75,
+    80,
+    81,
+    82,
+    84,
+    87,
+    92,
+    94,
+    95,
+    96,
+    105,
+    116,
+    564,
+    969,
+    1000,
+    1001,
+    1002
+  ],
+  "already_contextually_covered_indices": [
+    74,
+    80,
+    84,
+    95,
+    96
+  ],
+  "integrated_unique_rows": 1000,
+  "reserved_version": "0.16.7-dev",
+  "baseline": {
+    "old_jar": "0.16.6-dev",
+    "assertions": 3044,
+    "unique_source_cases": 1000,
+    "full_item_contexts": 43,
+    "exit_code": 0
+  },
+  "completed_at": "2026-10-21T17:40:12+07:00",
+  "known_candidate_corpus": 1491,
+  "coverage_lower_bound_percent": 67.0690811535882,
+  "registry": "translation-source/BULK117_PROGRESS.json",
+  "registry_counts": {
+    "accepted_runtime_offline": 1000,
+    "already_covered_runtime": 2,
+    "alias_pending_runtime": 1,
+    "changed_requires_editorial_review": 273,
+    "preserve_literal_name_command_or_required_input": 9,
+    "already_covered_context": 6,
+    "unreviewed": 197,
+    "deferred_test_item_visibility": 3
+  },
+  "checks": "translation-source/workflow/bulk117-001-checks.json",
+  "report": "docs/translation-runs/bulk117-001.md",
+  "jar": {
+    "build_command": "./gradlew.bat jar writeVerificationClasspath",
+    "test": "TestBulk117, JAR first; main classes/resources excluded",
+    "version": "0.16.7-dev",
+    "bytes": 3061101,
+    "sha256": "b91d8b0c2567b6afac49c5f11f7b09a5157fa4cd7a83d126ad89bcb88779b761",
+    "assertions": 37046,
+    "exit_code": 0,
+    "nested_record_javap_c_p_identical": true
+  },
+  "next_candidate_version": "0.16.8-dev",
+  "goal_complete": false,
+  "file_sha256": {
+    "AGENTS.md": "d6bb4ff2ee0bd5539e1e8ab519afcd98cbab020664b0802a158342d5a8991b94",
+    "build.gradle": "b0de7be5224f7c1be7eaa16611468ea76381ea642e1ab94545878190e0c04ca5",
+    "docs/DEV_STATUS.md": "f631c5039161a0a9402b4eaf2f02f52270aed0c042073ccf865073eee720efe6",
+    "docs/TRANSLATION_WORKFLOW.md": "cbe631bfeadb9c76a14c6fa25bca0ebc2d6e7b5e2adcb0ee782076d06dac9e4c",
+    "docs/translation-runs/bulk117-001.md": "38b27cce7388b49138d4baad29cc228975122f0792d93f2e56c949bc64c27e2e",
+    "docs/translation-runs/review117-004.md": "6feadebaf3f99f2e18d17ca2433e7882d980a92bb7455e2325b0ff3a2639994b",
+    "docs/translation-runs/review117-005.md": "7662c0341e1dae253b58015ddc1b5a3a59212d10d6797fe2eaec7f3a7cf3acc9",
+    "src/main/java/ru/wither/skyru/BulkLore117.java": "9fd56d37cdab4d339bf9303404a509db487ce47fbda49031efa9f743abcf1a7a",
+    "src/main/java/ru/wither/skyru/ChatNotificationTranslator.java": "422497fc740d032b7e5e0d263b70606b248e2042b4510cdc6e599d29a12811e9",
+    "src/main/java/ru/wither/skyru/OfflineDictionary.java": "f6b5155d18d2e0f6221ff3bbf68409c063e5557fe57b1062e8c8dc653a967821",
+    "src/main/java/ru/wither/skyru/RyanDialogueTemplates.java": "7136598541406b974e42eaa57de1fd3d36e5f6f7b7358229e1730f74949093b1",
+    "src/main/java/ru/wither/skyru/ScreenLabels.java": "eedecbc3c886d0cc09a0647c38ab1585d67b5f21c17a25ad416a9ab282036e2b",
+    "src/main/resources/data/witherskyru/bulk117-001.json": "54b1315131816ce978b83847945888134aae19c70309160da97331dabf276086",
+    "src/main/resources/data/witherskyru/lore.tsv": "521401362615b19e7da063b246adaba3a8f210d34f610bbee630ff572adcf361",
+    "src/main/resources/data/witherskyru/npc-reviewed117.json": "31fe11807cecc12064a872469f6360aa2a8daf27073a03eaeb07bccf8f4026e0",
+    "src/main/resources/data/witherskyru/npc-ryan117.json": "7da7f34be12cb17c19a56bfc6ddbbcb1ce85b2b3ec18fa61b72f88da661d12c2",
+    "src/main/resources/data/witherskyru/quest-interface.tsv": "84910d2400ff9368970b60fed040fdc959d94f9e48b56db188c677c2d2fe8c7a",
+    "src/main/resources/fabric.mod.json": "874de591272552d313951cb44513630b2d72d971d523cf7276a652d1e59f8f68",
+    "tests/current115/TestNpcLiterals115.java": "572347fe0bf7414a2a4811fcb634fbebd4bdd6fc8610df4c2a709eddd1dfa7f9",
+    "tests/current115/TestNpcNames103.java": "3057ede2314e2010b3721c97ceb3018e3cabc3e21050a5f8b24c9f51a24f5fd0",
+    "tests/migration262/TestBulk117.java": "fd3700a9804837c0c4a189ae84b5454e936041220bb55a6b2afd83bc8b8e4f4a",
+    "tests/migration262/TestMelodyTitles117.java": "5c29d6ae3093c151e4baf4dd5ae89e92e7c663d2b81014430b54cc74153a9d8c",
+    "tests/migration262/TestNpcLiterals117.java": "30d9c5c727608987e5d11f32fd42d5f23537f1e702c655e6615d41eebbd62efe",
+    "tests/migration262/TestRyanTemplates117.java": "6652ce4ddd83427f7393bf121c37986b93e7c0fe5a1a794b720d9d46c9a581ae",
+    "tools/check_bulk117.py": "59a68a11e8ce8780655cb046f0fd717ad398d506bfe3feb0b08a398543715566",
+    "translation-source/BULK117_001_ACCEPTANCE.json": "56f5cea9ca4583f7c8564ee6f6bc55e308999624a14652d58fb82b41ed26f3da",
+    "translation-source/BULK117_001_SOURCE.jsonl": "d8a50b20e4a07549f8e4dd75f9ea073e3474469fd880288fe70e6d3e2539abcd",
+    "translation-source/BULK117_001_TARGETS.tsv": "3606f1a9e3c7a7ab4d21711a6126d61755eb9d144b83afa9983863009966b5ff",
+    "translation-source/BULK117_PROGRESS.json": "85543e453a04fb3f733978c87730ce6467d9f102e1d9d3b11953ace0ca2d1bf7",
+    "translation-source/EXPECTATION_UPDATES_0.16.3.json": "c92ab3b5b6483bd7e8fafe3946659c7a7ebea667976f53c66c0ebb6bec73b6eb",
+    "translation-source/MELODY_ACCEPTANCE_0.16.6.json": "9f4ff2c5f438412d78911e8d1bfd0509075691da4acfa8998c8b2c152c3ae43a",
+    "translation-source/MELODY_ACCEPTANCE_117.json": "217fa5c086fa26d96c826c7cf48d004ddf9fd5999c52c60086ff7bef5221edbf",
+    "translation-source/MELODY_PROGRESS_117.json": "695a622d886e539ce3995184212ad6f603a7498309cb5a28f728dc2f1c4303de",
+    "translation-source/NPC_ACCEPTANCE_0.16.3.json": "d700d68e407330a85a8e617651541096ae89043e37df1e1e049fa808158ab5b4",
+    "translation-source/RYAN_ACCEPTANCE_0.16.3.json": "b58a886157b421dc5622b24cc3200297efbc47743de2f7cc2a92753c01c25f97",
+    "translation-source/workflow/bulk117-001-checks.json": "3ee4fcccc0788c5cccd21609c1d266693b43da50afbddf110f6fc89641736c3b",
+    "translation-source/workflow/bulk117-001-covered-melody-output.jsonl": "b5eaabe7e6c001344af0afc35363907922f0b456588e091df1f5c8b4846e5d4a",
+    "translation-source/workflow/bulk117-001-jar-diff.json": "2a6f5bd4e7ad677943c5905839d528907bc20b615e906f11eb38fab714f75ead",
+    "translation-source/workflow/review117-005-checks.json": "90353822c0f63844580b039076057a5423f4304d2c17d31a07cf197bf5813a0b"
+  },
+  "git": {
+    "branch": "feature/minecraft-26.2",
+    "head": "8a65e62f768b2ee863e60a324de743dc695dfdf9",
+    "status_porcelain": [
+      "M build.gradle",
+      " M src/main/java/ru/wither/skyru/ChatNotificationTranslator.java",
+      " M src/main/java/ru/wither/skyru/NpcDialogueTranslator.java",
+      " M src/main/java/ru/wither/skyru/OfflineDictionary.java",
+      " M src/main/java/ru/wither/skyru/ScreenLabels.java",
+      " M src/main/resources/data/witherskyru/lore.tsv",
+      " M src/main/resources/data/witherskyru/quest-interface.tsv",
+      " M src/main/resources/fabric.mod.json",
+      " M tests/current115/TestNpcLiterals115.java",
+      " M tests/current115/TestNpcNames103.java",
+      "?? AGENTS.md",
+      "?? docs/BUGS.md",
+      "?? docs/DEV_STATUS.md",
+      "?? docs/TRANSLATION_WORKFLOW.md",
+      "?? docs/translation-runs/bulk117-001.md",
+      "?? docs/translation-runs/review117-001.md",
+      "?? docs/translation-runs/review117-002.md",
+      "?? docs/translation-runs/review117-003.md",
+      "?? docs/translation-runs/review117-004.md",
+      "?? docs/translation-runs/review117-005.md",
+      "?? docs/translation-runs/runtime117-001.md",
+      "?? src/main/java/ru/wither/skyru/BulkLore117.java",
+      "?? src/main/java/ru/wither/skyru/RyanDialogueTemplates.java",
+      "?? src/main/resources/data/witherskyru/bulk117-001.json",
+      "?? src/main/resources/data/witherskyru/npc-reviewed117.json",
+      "?? src/main/resources/data/witherskyru/npc-ryan117.json",
+      "?? tests/migration262/TestBulk117.java",
+      "?? tests/migration262/TestMelodyTitles117.java",
+      "?? tests/migration262/TestNpcLiterals117.java",
+      "?? tests/migration262/TestRyanTemplates117.java",
+      "?? tools/check_bulk117.py",
+      "?? translation-source/BULK117_001_ACCEPTANCE.json",
+      "?? translation-source/BULK117_001_SOURCE.jsonl",
+      "?? translation-source/BULK117_001_TARGETS.tsv",
+      "?? translation-source/BULK117_PROGRESS.json",
+      "?? translation-source/EXPECTATION_UPDATES_0.16.1.json",
+      "?? translation-source/EXPECTATION_UPDATES_0.16.2.json",
+      "?? translation-source/EXPECTATION_UPDATES_0.16.3.json",
+      "?? translation-source/MELODY_ACCEPTANCE_0.16.6.json",
+      "?? translation-source/MELODY_ACCEPTANCE_117.json",
+      "?? translation-source/MELODY_PROGRESS_117.json",
+      "?? translation-source/NPC_ACCEPTANCE_0.16.1.json",
+      "?? translation-source/NPC_ACCEPTANCE_0.16.2.json",
+      "?? translation-source/NPC_ACCEPTANCE_0.16.3.json",
+      "?? translation-source/RYAN_ACCEPTANCE_0.16.3.json",
+      "?? translation-source/workflow/bulk117-001-api-candidates.jsonl",
+      "?? translation-source/workflow/bulk117-001-baseline.jsonl",
+      "?? translation-source/workflow/bulk117-001-candidates.jsonl",
+      "?? translation-source/workflow/bulk117-001-checks.json",
+      "?? translation-source/workflow/bulk117-001-context-baseline.jsonl",
+      "?? translation-source/workflow/bulk117-001-covered-melody-output.jsonl",
+      "?? translation-source/workflow/bulk117-001-covered-melody.jsonl",
+      "?? translation-source/workflow/bulk117-001-input.jsonl",
+      "?? translation-source/workflow/bulk117-001-jar-diff.json",
+      "?? translation-source/workflow/bulk117-001-prepared.json",
+      "?? translation-source/workflow/bulk117-001-whole-baseline.jsonl",
+      "?? translation-source/workflow/bulk117-001.json",
+      "?? translation-source/workflow/review117-001.json",
+      "?? translation-source/workflow/review117-002.json",
+      "?? translation-source/workflow/review117-003-perf.json",
+      "?? translation-source/workflow/review117-003.json",
+      "?? translation-source/workflow/review117-004.json",
+      "?? translation-source/workflow/review117-005-checks.json",
+      "?? translation-source/workflow/review117-005.json",
+      "?? translation-source/workflow/runtime117-001-perf.json",
+      "?? translation-source/workflow/runtime117-001.json"
+    ],
+    "tracked_diff_sha256": "9cfd9f7d559e1ae417f1191b8f1cf4eda4000e1a513616ace58993b3d52113a0"
+  },
+  "reviewed_selected_cases": 1018
+}

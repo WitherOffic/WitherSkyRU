@@ -1,0 +1,18 @@
+{
+  "archive": "exports.zip",
+  "bytes": 51986679,
+  "sha256": "40b722d5145aa4eb9673de2028a53c85c6a77c3bf26c6fb5ab9b10f536c4e75b",
+  "members": 52,
+  "archived_jsonl_sha256": {
+    "changed_without_exact_review.jsonl": "f84f41ea8d65df5a836cb2ae0bcabfea968c7cc5c64470391750ff42a11e5bd8",
+    "corpus.jsonl": "f885ae7f2ac0d35a323c8b89a2cfc3fdad6dc4377271042d975832dd3f15ca6f",
+    "coverage.jsonl": "36d5a24d19619b343346eec0d8ee01b0d266590f9cbdb464cf925e8caad3428b",
+    "probes.jsonl": "033488c68898b30a32bf017cc4b35e7b5bbe1b14493375ba0b0b0bc8860b61c2",
+    "registered_exact.jsonl": "5f9348cb5d3933ba96a91ede9d228a04bedc9c7d929af8db6e6a16fdc77630f5",
+    "runtime-inventory.jsonl": "e191b5cdfedb0d6dcc8a9766c41f03749ba5dc79fab2dd685cf12f8b9c9b7341",
+    "runtime-patterns.jsonl": "5873f0f457b44841b1c9d5fbea84e37ce9b26a9156d2fce23547c7c1f678c7b3",
+    "runtime-probes.jsonl": "faa2ebdbacb0ef49cc0a0c9bf69aeddd9e50f835d16922ab1fd4adc0e6eb8fea",
+    "unchanged_review.jsonl": "452311760bad66343d19e6862b5c842b7e6903b82a208366cf4f2b63d8894dbb"
+  },
+  "crc_and_member_sha256_verified": true
+}

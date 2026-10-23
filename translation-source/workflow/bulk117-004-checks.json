@@ -1,0 +1,85 @@
+{
+  "state": "PASS",
+  "baseline_jar": "0.16.13-dev",
+  "baseline_assertions": 4001,
+  "full_suite_count": 20,
+  "full_assertions": 732807,
+  "new_batch_assertions": 40003,
+  "artifact_assertions": 40003,
+  "artifact_skycubed_regression_assertions": 479,
+  "full_ui_cases": 1000,
+  "unique_slots": 500,
+  "raw_pages_verified": 118,
+  "duplicate_new_keys": 0,
+  "authored_numeric_roman_commands_spans": "PASS; English first-person I and velocity units are not mistaken for levels/commands",
+  "old_changed_sources_lost": 0,
+  "live_minecraft": "not rerun; Collector/SkyCubed bytecode unchanged and previous manual acceptance still pending",
+  "fps_frametime_memory": "not measured",
+  "logs": {
+    "baseline-test.log": {
+      "sha256": "ab2d6f289061240fbcbfc230baa0b9576708fa559d02dc27704c0872dcba6fc5",
+      "pass_lines": [
+        "PASS bulk117-004: 4001 assertions;1000 new source cases;0 full item contexts;baseline=true"
+      ]
+    },
+    "targeted-check.log": {
+      "sha256": "f7ec75dcce60033b2845fd2a8ad4bef82091070f41dcc9dc36983d38717787fc",
+      "pass_lines": [
+        "PASS bulk117-004: 40003 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "BUILD SUCCESSFUL in 4s"
+      ]
+    },
+    "final-check.log": {
+      "sha256": "f8ce762f1dd3880c19c2d384777654fa76a0dfdcdb0ce88de8314fab2d357d01",
+      "pass_lines": [
+        "PASS bulk117: 37046 assertions;1000 new source cases;43 full item contexts;baseline=false",
+        "PASS bulk117-002: 40006 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "PASS bulk117-003: 40027 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "PASS bulk117-004: 40003 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "Collector117 PASS 65 assertions",
+        "ASSERTIONS=29",
+        "PASS offline_recovery + HTTP_ACK + replay_previous_profile + quota_128MiB + eviction=1",
+        "PASS: HUD policy 6521 assertions",
+        "PASS: input/Shift modes 638 assertions",
+        "PASS Melody titles117: 1985 assertions; 20 titles; baseline=false",
+        "PASS: migration262 16 GUI/HUD classification and bounded compatibility checks; not a game test",
+        "PASS: NPC_LITERALS115 97310 assertions;224 locations+1344 finite envelopes;70 primary/published fixtures,current semantic colors/actions,numeric values,counters,timestamps,fragmentation,overrides,protected channels and unknown-style decline;not all live layouts/FPS",
+        "PASS: NPC_LITERALS117 13175 assertions; 16 literals; current colors/actions, fragmentation, timestamps/counters, overrides and chat protection; not an in-game test",
+        "PASS: NpcNames103 329566 assertions;135 templates/92 NPC labels/136 published layouts;fresh colors/actions/names/counters/toggles/protected messages;not FPS or all-game completeness",
+        "PASS: NPC_NUMBERS115 111202 assertions;13 bounded number templates;current glyph styles/actions,bounds,overrides,channels;not FPS",
+        "PASS: performance caches 6926 assertions; fresh styles/actions/values, separate bounded plans/quiet cache, log semantics, context equivalence/lifetime and whole-chat guards; no live game",
+        "PASS: player text protection 275 assertions; offline queue/context/name boundaries, not a live chat test",
+        "PASS: name index 8940 snapshot items; build 41 ms",
+        "PASS: Russian search 66 assertions",
+        "PASS: RYAN117 5547 assertions; 95 concrete cases of five closed patterns; styles/actions, opaque heads, bounds, overrides and protected channels; not a game test",
+        "PASS SkyCubed dialogue117: 479 assertions; existing NPC/options, live semantic styles, Custom actions, overrides, mixed text, misses, chat privacy and version gates; not live Hypixel",
+        "PASS: tooltip fonts 1925 assertions",
+        "BUILD SUCCESSFUL in 27s"
+      ]
+    },
+    "final-artifact-test.log": {
+      "sha256": "00310d17eac8cc1a70b5d531fc5256f6cb76765a6e70f61890935720d851f87f",
+      "pass_lines": [
+        "PASS bulk117-004: 40003 assertions;1000 new source cases;1000 full item contexts;baseline=false"
+      ]
+    },
+    "final-artifact-skycubed.log": {
+      "sha256": "b82f9f1e7808e79d09a1449d37c529db3deb8751503ec8c51feb90271ca183b2",
+      "pass_lines": [
+        "PASS SkyCubed dialogue117: 479 assertions; existing NPC/options, live semantic styles, Custom actions, overrides, mixed text, misses, chat privacy and version gates; not live Hypixel"
+      ]
+    },
+    "coverage-before.log": {
+      "sha256": "3b02090a35c724f13479c3b8d3c43fcb459d232d8ca3db4c8decaddf703063ea",
+      "pass_lines": [
+        "DONE groups=60245 rows=120143 exact=39085 regex=1231"
+      ]
+    },
+    "coverage-after.log": {
+      "sha256": "0492c99d5cc573d28b68e081999fa64f8b7af03ed598558b73dc4c7aa7411af9",
+      "pass_lines": [
+        "DONE groups=60245 rows=120143 exact=40085 regex=1231"
+      ]
+    }
+  }
+}

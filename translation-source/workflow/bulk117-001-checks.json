@@ -1,0 +1,76 @@
+{
+  "run_id": "bulk117-001",
+  "completed_at": "2026-10-21T17:40:12+07:00",
+  "source_cases": 1000,
+  "kinds": {
+    "melody": 8,
+    "abiphone": 66,
+    "item_lore": 43,
+    "api_skyblock": 883
+  },
+  "dictionary_check": {
+    "command": "python -X utf8 tools/check_bulk117.py",
+    "exit_code": 0,
+    "unique_rows": 1000,
+    "duplicate_keys": 0,
+    "numeric_integrity": "PASS",
+    "semantic_span_integrity": "PASS"
+  },
+  "baseline": {
+    "artifact_version": "0.16.6-dev",
+    "assertions": 3044,
+    "component_and_dictionary_misses": 1000,
+    "full_item_contexts_checked": 43,
+    "exit_code": 0
+  },
+  "combined": {
+    "command": "./gradlew.bat check",
+    "exit_code": 0,
+    "suites": 14,
+    "initial_assertions": 610198,
+    "log": "build/bulk117/check.log",
+    "log_sha256": "38c01e429aaa27cf048efd29517945b89eab1e84bbf9e6d2be43c1f33072fed1"
+  },
+  "followup": {
+    "reason": "Added unknown-style negative cases without changing production code",
+    "command": "./gradlew.bat verifyTestBulk117",
+    "assertions": 37046,
+    "exit_code": 0,
+    "log": "build/bulk117/style-negatives.log"
+  },
+  "latest_suite_assertions": {
+    "TestBulk117": 37046,
+    "TestHudLayout": 6521,
+    "TestInteractionModes": 638,
+    "TestMelodyTitles117": 1985,
+    "TestMigration262": 16,
+    "TestNpcLiterals115": 97310,
+    "TestNpcLiterals117": 13175,
+    "TestNpcNames103": 329566,
+    "TestNpcNumbers115": 111202,
+    "TestPerformanceCaches": 6926,
+    "TestPlayerTextProtection": 275,
+    "TestRussianSearch": 66,
+    "TestRyanTemplates117": 5547,
+    "TestTooltipFont": 1925
+  },
+  "latest_suite_assertion_sum": 612198,
+  "artifact": {
+    "build_command": "./gradlew.bat jar writeVerificationClasspath",
+    "test": "TestBulk117, JAR first; main classes/resources excluded",
+    "version": "0.16.7-dev",
+    "bytes": 3061101,
+    "sha256": "b91d8b0c2567b6afac49c5f11f7b09a5157fa4cd7a83d126ad89bcb88779b761",
+    "assertions": 37046,
+    "exit_code": 0,
+    "nested_record_javap_c_p_identical": true
+  },
+  "in_game": "NOT_RUN",
+  "fps_frametime_retained_heap": "NOT_MEASURED",
+  "bugs": {
+    "open": 0,
+    "critical": 0,
+    "awaiting_game": 0,
+    "fixed_this_run": 0
+  }
+}

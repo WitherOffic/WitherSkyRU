@@ -1,0 +1,6915 @@
+{
+  "version": "0.16.3-dev",
+  "source_indices": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "source_shapes": [
+    {
+      "source": "[NPC] Ryan: A Campfire Initiate Badge I, for our latest initiate, <username>!",
+      "translation": "[NPC] Ryan: Значок посвящённого костра I — нашему новому посвящённому, <username>!",
+      "kind": "variable_template_review",
+      "runtime_constraint": "Preserve actual username and observed player-head component without expanding the global username guard."
+    },
+    {
+      "source": "[NPC] Ryan: Congrats! Your <old badge item name> was upgraded to a <new badge item name>!",
+      "translation": "[NPC] Ryan: Поздравляю! Значок улучшен: <old badge item name> → <new badge item name>!",
+      "kind": "variable_template_review",
+      "runtime_constraint": "Closed known badge names/tiers only;do not accept arbitrary item or player text."
+    },
+    {
+      "source": "[NPC] Ryan: I need you to hold your <badge item name> so I can upgrade it!",
+      "translation": "[NPC] Ryan: Возьми в руку «<badge item name>», чтобы я мог улучшить значок!",
+      "kind": "variable_template_review",
+      "runtime_constraint": "Copy current component and styles of the closed known badge name."
+    },
+    {
+      "source": "[NPC] Ryan: Next step is the Trial of Fire <tier>! (<amount> damage)",
+      "translation": "[NPC] Ryan: Следующее испытание огня — <tier>! (<amount> урона)",
+      "kind": "variable_template_review",
+      "runtime_constraint": "Validate Roman tier and bounded numeric damage separately;preserve both current components."
+    },
+    {
+      "source": "[NPC] Ryan: Try the Trial of Fire Trial <tier> for a greater challenge!",
+      "translation": "[NPC] Ryan: Попробуй испытание огня <tier>, если хочешь задачу посложнее!",
+      "kind": "variable_template_review",
+      "runtime_constraint": "Closed valid published Trial of Fire tiers only."
+    }
+  ],
+  "scope": "Five patterns, concrete variants are tests not separate translated queue entries. Canonical badge terminology follows catalogue.tsv.",
+  "cases": [
+    {
+      "kind": "greeting",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "A Campfire Initiate Badge I, for our latest initiate, ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "A",
+          "role": "name",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак посвящённого костра I — нашему новому посвящённому, ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "A",
+          "role": "name",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Campfire Initiate Badge I"
+    },
+    {
+      "kind": "greeting",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "A Campfire Initiate Badge I, for our latest initiate, ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Player_1",
+          "role": "name",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак посвящённого костра I — нашему новому посвящённому, ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Player_1",
+          "role": "name",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Campfire Initiate Badge I"
+    },
+    {
+      "kind": "greeting",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "A Campfire Initiate Badge I, for our latest initiate, ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Abcdefghijklmn_9",
+          "role": "name",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак посвящённого костра I — нашему новому посвящённому, ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Abcdefghijklmn_9",
+          "role": "name",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Campfire Initiate Badge I"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Adept Badge I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак адепта костра I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Adept Badge I"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Adept Badge II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак адепта костра II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Adept Badge II"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Adept Badge III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак адепта костра III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Adept Badge III"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Adept Badge IV",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак адепта костра IV",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Adept Badge IV"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Cultist Badge I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак служителя костра I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Cultist Badge I"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Cultist Badge II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак служителя костра II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Cultist Badge II"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Cultist Badge III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак служителя костра III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Cultist Badge III"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Cultist Badge IV",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак служителя костра IV",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Cultist Badge IV"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Cultist Badge V",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак служителя костра V",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Cultist Badge V"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge I"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge II"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge III"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge IV",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра IV",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge IV"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge IX",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра IX",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge IX"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge V",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра V",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge V"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge VI",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра VI",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge VI"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge VII",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра VII",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge VII"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire God Badge VIII",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак бога костра VIII",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire God Badge VIII"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Initiate Badge I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак посвящённого костра I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Initiate Badge I"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Initiate Badge II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак посвящённого костра II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Initiate Badge II"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Initiate Badge III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак посвящённого костра III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Initiate Badge III"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Scion Badge I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак наследника костра I",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Scion Badge I"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Scion Badge II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак наследника костра II",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Scion Badge II"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Scion Badge III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак наследника костра III",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Scion Badge III"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Scion Badge IV",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак наследника костра IV",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Scion Badge IV"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Scion Badge V",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак наследника костра V",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Scion Badge V"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Scion Badge VI",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак наследника костра VI",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Scion Badge VI"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Scion Badge VII",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак наследника костра VII",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Scion Badge VII"
+    },
+    {
+      "kind": "hold",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "I need you to hold your ",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Campfire Scion Badge VIII",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": " so I can upgrade it!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Возьми в руку «",
+          "role": "body",
+          "color": 16733525
+        },
+        {
+          "text": "Знак наследника костра VIII",
+          "role": "badge",
+          "color": 11184810
+        },
+        {
+          "text": "», чтобы я мог улучшить знак!",
+          "role": "body",
+          "color": 16733525
+        }
+      ],
+      "override_term": "Campfire Scion Badge VIII"
+    },
+    {
+      "kind": "upgrade",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Congrats! ",
+          "role": "congrats",
+          "color": 5635925
+        },
+        {
+          "text": "Your ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Campfire Initiate Badge I",
+          "role": "old",
+          "color": 11184810
+        },
+        {
+          "text": " was upgraded to a ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Campfire Initiate Badge II",
+          "role": "new",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Поздравляю! ",
+          "role": "congrats",
+          "color": 5635925
+        },
+        {
+          "text": "Знак улучшен: ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак посвящённого костра I",
+          "role": "old",
+          "color": 11184810
+        },
+        {
+          "text": " → ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак посвящённого костра II",
+          "role": "new",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Campfire Initiate Badge I"
+    },
+    {
+      "kind": "upgrade",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Congrats! ",
+          "role": "congrats",
+          "color": 5635925
+        },
+        {
+          "text": "Your ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Campfire Scion Badge VIII",
+          "role": "old",
+          "color": 11184810
+        },
+        {
+          "text": " was upgraded to a ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Campfire God Badge I",
+          "role": "new",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Поздравляю! ",
+          "role": "congrats",
+          "color": 5635925
+        },
+        {
+          "text": "Знак улучшен: ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак наследника костра VIII",
+          "role": "old",
+          "color": 11184810
+        },
+        {
+          "text": " → ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак бога костра I",
+          "role": "new",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Campfire Scion Badge VIII"
+    },
+    {
+      "kind": "upgrade",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Congrats! ",
+          "role": "congrats",
+          "color": 5635925
+        },
+        {
+          "text": "Your ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Campfire God Badge VIII",
+          "role": "old",
+          "color": 11184810
+        },
+        {
+          "text": " was upgraded to a ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Campfire God Badge IX",
+          "role": "new",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Поздравляю! ",
+          "role": "congrats",
+          "color": 5635925
+        },
+        {
+          "text": "Знак улучшен: ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак бога костра VIII",
+          "role": "old",
+          "color": 11184810
+        },
+        {
+          "text": " → ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Знак бога костра IX",
+          "role": "new",
+          "color": 11184810
+        },
+        {
+          "text": "!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Campfire God Badge VIII"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire I",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(1 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — I",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(1 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial I",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня I",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire II",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(6 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — II",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(6 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial II",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня II",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire III",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(11 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — III",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(11 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial III",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня III",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire IV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(21 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — IV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(21 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial IV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня IV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire V",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(31 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — V",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(31 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial V",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня V",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire VI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(46 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — VI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(46 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial VI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня VI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire VII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(61 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — VII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(61 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial VII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня VII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire VIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(81 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — VIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(81 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial VIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня VIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire IX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(101 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — IX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(101 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial IX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня IX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire X",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(126 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — X",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(126 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial X",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня X",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(151 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(151 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(201 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(201 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(251 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(251 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XIV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(326 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XIV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(326 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XIV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XIV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(401 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(401 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XVI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(501 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XVI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(501 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XVI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XVI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XVII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(651 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XVII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(651 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XVII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XVII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XVIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(851 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XVIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(851 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XVIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XVIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XIX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(1,101 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XIX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(1,101 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XIX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XIX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(1,401 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(1,401 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(1,751 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(1,751 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(2,151 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(2,151 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(2,601 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(2,601 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXIV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(3,101 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXIV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(3,101 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXIV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXIV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(3,651 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(3,651 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXV",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXVI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(4,251 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXVI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(4,251 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXVI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXVI",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXVII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(4,901 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXVII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(4,901 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXVII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXVII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXVIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(5,601 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXVIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(5,601 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXVIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXVIII",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXIX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(6,351 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXIX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(6,351 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXIX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXIX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "progress",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Next step is the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire XXX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(7,151 damage)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Следующее ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня — XXX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": "! ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "(7,151 урона)",
+          "role": "damage",
+          "color": 11184810
+        }
+      ],
+      "override_term": "Trial of Fire"
+    },
+    {
+      "kind": "challenge",
+      "source_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Try the ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Trial of Fire Trial XXX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": " for a greater challenge!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "target_segments": [
+        {
+          "text": "[NPC] ",
+          "role": "prefix",
+          "color": 16777045
+        },
+        {
+          "text": "Ryan",
+          "role": "npc",
+          "color": 16733525
+        },
+        {
+          "text": ": ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "Попробуй ",
+          "role": "body",
+          "color": 16777215
+        },
+        {
+          "text": "испытание огня XXX",
+          "role": "trial",
+          "color": 16755200
+        },
+        {
+          "text": ", если хочешь задачу посложнее!",
+          "role": "body",
+          "color": 16777215
+        }
+      ],
+      "override_term": "Trial of Fire"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ryan",
+      "revision": 837804,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Ryan?oldid=837804",
+      "raw_sha256": "0986CC922608A07ABFE1A7C9EAC163E807530444904B622CE1F83F170C64ED66"
+    },
+    {
+      "title": "Tyashoi Alchemist",
+      "revision": 860078,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist?oldid=860078",
+      "raw_sha256": "7D10657E6297B8E2A6F598583169985C0716573EA72C463661D30E13AA54C1B4"
+    },
+    {
+      "title": "Trials of Fire/List",
+      "revision": 841914,
+      "source_url": "https://hypixelskyblock.minecraft.wiki/w/Trials_of_Fire/List?oldid=841914",
+      "raw_sha256": "C9DCEB510AF6E1CFF0DB92439C9B7D6B1AFBAC7D1CF7F155417C4D31EE5D9BA2"
+    }
+  ]
+}

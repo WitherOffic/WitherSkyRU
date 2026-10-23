@@ -1,0 +1,52 @@
+{
+  "state": "PASS",
+  "incoming_files": 1452,
+  "identical_inputs": 1418,
+  "authorised_changed_inputs": [
+    "src/main/resources/fabric.mod.json",
+    "src/main/resources/witherskyru.mixins.json",
+    "src/main/java/ru/wither/skyru/OfflineDictionary.java",
+    "src/main/java/ru/wither/skyru/RenderContext.java",
+    "src/main/java/ru/wither/skyru/SkyCubedDialogueBridge.java",
+    "src/main/java/ru/wither/skyru/SkyRuClient.java",
+    "src/main/java/ru/wither/skyru/SkyRuSettingsScreen.java",
+    "src/main/java/ru/wither/skyru/TooltipTranslation.java",
+    "tests/migration262/TestSkyCubedDialogue117.java",
+    "tests/skycubed-smoke117-resources/skycubed-smoke117.mixins.json",
+    "tests/migration262/skycubedsmoke/SkyCubedSmoke117.java",
+    "tools/launch_skycubed_smoke117.ps1",
+    "AGENTS.md",
+    "build.gradle",
+    "README.md",
+    "README_RU.md",
+    "translation-source/workflow/bulk117-007.json"
+  ],
+  "authorised_removed_private_files": [
+    "src/main/java/ru/wither/skyru/CollectorCapture.java",
+    "src/main/java/ru/wither/skyru/CollectorConsent.java",
+    "src/main/java/ru/wither/skyru/CollectorConsentScreen.java",
+    "src/main/java/ru/wither/skyru/CollectorEnrollment.java",
+    "src/main/java/ru/wither/skyru/CollectorEnvironment.java",
+    "src/main/java/ru/wither/skyru/CollectorOfflineSpool.java",
+    "src/main/java/ru/wither/skyru/CollectorSourcePolicy.java",
+    "src/main/java/ru/wither/skyru/CollectorTelemetry.java",
+    "src/main/java/ru/wither/skyru/mixin/CollectorLifecycleMixin.java",
+    "tests/collector-smoke117-resources/collector-smoke117.mixins.json",
+    "tests/collector-smoke117-resources/fabric.mod.json",
+    "tests/migration262/TestCollector117.java",
+    "tests/migration262/TestCollectorSpool117.java",
+    "tests/migration262/collectorsmoke/CollectorSmoke117.java",
+    "tests/migration262/skycubedsmoke/mixin/CollectorIntentMixin117.java",
+    "tests/migration262/collectorsmoke/mixin/CollectorSmokeMixin117.java",
+    "tools/launch_collector_smoke117.ps1"
+  ],
+  "unchanged_native_hooks": [
+    "HudCollectorMixin",
+    "ChatDrawMixin",
+    "ChatClickableDrawMixin"
+  ],
+  "source_backup": ".migration/public117-001/source-before.zip",
+  "build_backup": ".migration/public117-001/build",
+  "translation_chain": "bulk117-007 source_before273 fingerprints; its imported resources/data preserved by public split audit and full JAR replay",
+  "no_unexpected_input_changes": true
+}

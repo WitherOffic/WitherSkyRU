@@ -1,0 +1,527 @@
+<!DOCTYPE html><html  lang="en"><head><meta charset="utf-8"><meta name="referrer" content="no-referrer"><meta http-equiv="content-security-policy" content="
+base-uri 'self';
+default-src 'self';
+script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://cdnjs.cloudflare.com https://ajax.cloudflare.com https://static.cloudflareinsights.com;
+style-src 'self' https: 'unsafe-inline';
+connect-src 'self' https://dev-api.hypixel.net  https://cloudflareinsights.com;
+frame-src 'self' https://challenges.cloudflare.com; 
+img-src 'self' data: https://forumassets.hypixel.net https://secure.gravatar.com https://gravatar.com https://staticassets.hypixel.net;
+font-src 'self' https://raw.githubusercontent.com/noppa/text-security/v3.2.0/dist/text-security-disc.woff2 https://fonts.gstatic.com https://fonts.googleapis.com https://cdnjs.cloudflare.com;
+media-src 'none';
+object-src 'none';
+child-src 'self';
+worker-src 'self';
+manifest-src 'self';
+"><script data-hid="auth-return-sanitizer">(function captureAuthReturn(browser) {
+    const url = new URL(browser.location.href);
+    if (!/^\/auth\/return(?:\/|$)/.test(url.pathname)) return;
+
+    const codes = url.searchParams.getAll('code');
+    let code = codes.length === 1 && /^[A-Za-z0-9_-]{32,128}$/.test(codes[0])
+        && [...url.searchParams.keys()].every(key => key === 'code')
+        && !url.hash ? codes[0] : null;
+
+    // Legacy JWT callbacks and malformed inputs must be scrubbed too. No
+    // callback query or fragment is needed after this one-time handoff.
+    try {
+        browser.history.replaceState(browser.history.state, '', url.pathname);
+    } catch {
+        browser.location.replace(url.pathname);
+        return;
+    }
+
+    // Layout components may ask for the current user during mount. A callback
+    // must not let those requests reuse a previous login before verification.
+    try {
+        browser.localStorage.removeItem('accessToken');
+    } catch {
+        code = null;
+    }
+
+    const key = Symbol.for('hypixel.authReturn');
+    if (browser[key]) return;
+    Object.defineProperty(browser, key, {
+        configurable: true,
+        value: () => {
+            const result = code;
+            code = null;
+            delete browser[key];
+            return result;
+        }
+    });
+})(window);</script><meta name="viewport" content="width=device-width, initial-scale=1"><title>Hypixel Developer Dashboard</title><style>@import"https://fonts.googleapis.com/css2?family=Raleway&display=swap";#footer-company[data-v-6bc4bff1]{padding:0 50px 0 0}#footer-links[data-v-6bc4bff1]{display:flex;flex:1;flex-direction:column;flex-wrap:wrap;font-size:15px;max-height:120px}#footer-links>li[data-v-6bc4bff1]{padding:4px 10px}#footer-logo[data-v-6bc4bff1]{max-height:64px}#footer-socials[data-v-6bc4bff1]{display:inline-block;font-size:16px;vertical-align:top}#footer-socials .fab[data-v-6bc4bff1]{min-width:18px;text-align:center;vertical-align:middle}#footer-socials a[data-v-6bc4bff1]:hover{color:gray!important}#footer-socials a:hover>.fa-discord[data-v-6bc4bff1]{color:#7289da}#footer-socials a:hover>.fa-facebook[data-v-6bc4bff1]{color:#4267b2}#footer-socials a:hover>.fa-instagram[data-v-6bc4bff1]{color:#405de6}#footer-socials a:hover>.fa-tiktok[data-v-6bc4bff1]{color:#000}#footer-socials a:hover>.fa-twitter[data-v-6bc4bff1]{color:#1da1f2}#footer-socials a:hover>.fa-youtube[data-v-6bc4bff1]{color:red}#tagline[data-v-6bc4bff1]{display:block;font-weight:600;margin-bottom:0;position:relative;top:50%;transform:translateY(-50%)}#tagline[data-v-6bc4bff1],.footer[data-v-6bc4bff1]{-webkit-user-select:none;-moz-user-select:none;user-select:none}.footer[data-v-6bc4bff1]{background-image:linear-gradient(to bottom,#ffffffeb,#fff),var(--background);background-position:50%;background-repeat:no-repeat;background-size:cover;border-top:1px solid #ddd;color:#fff;margin-top:60px;padding:30px 0}.footer a[data-v-6bc4bff1]{color:gray!important;text-decoration:none!important;transition:.12s ease-in-out}.footer a[data-v-6bc4bff1]:hover{color:#fff!important}#footer-socials[data-v-6bc4bff1],.footer-copyright[data-v-6bc4bff1]{color:gray;display:block;padding:0 4px}.footer-inner[data-v-6bc4bff1]{flex-wrap:wrap;padding:0!important;width:65%!important}.footer-inner[data-v-6bc4bff1],.header[data-v-6bc4bff1]{display:flex;justify-content:space-between;margin:0 auto;max-width:1160px}.header[data-v-6bc4bff1]{align-items:center;background:transparent!important;height:71px;padding:0 5%;position:relative}.hero[data-v-6bc4bff1]{background-image:radial-gradient(farthest-side at top,#ffffff80,#fff),var(--background)!important;background-position:50%;background-size:cover;height:200px;margin-top:-71px!important;padding:0 20px;text-align:center;width:100%}.logo[data-v-6bc4bff1]{padding-top:10px;-webkit-user-select:none;-moz-user-select:none;user-select:none}.logo a[data-v-6bc4bff1]{text-decoration:none!important}.logo img[data-v-6bc4bff1]{max-height:55px!important;vertical-align:middle}.logo span#branding[data-v-6bc4bff1]{color:#1a1a1a;font-size:19px;font-weight:600;line-height:42px}a[data-v-6bc4bff1]{background-color:transparent;color:#61a6d8;text-decoration:none}a[data-v-6bc4bff1]:active,a[data-v-6bc4bff1]:focus,a[data-v-6bc4bff1]:hover{text-decoration:underline}b[data-v-6bc4bff1],strong[data-v-6bc4bff1]{font-weight:bolder}body[data-v-6bc4bff1]{-webkit-font-smoothing:antialiased;background-color:#fff;color:#333;font-family:Raleway,Segoe UI,Helvetica,Arial,sans-serif;font-size:15px;font-weight:400;line-height:1.5;margin:0}h1[data-v-6bc4bff1]{font-size:32px;margin:.67em 0}h1[data-v-6bc4bff1],h2[data-v-6bc4bff1],h3[data-v-6bc4bff1],h4[data-v-6bc4bff1],h5[data-v-6bc4bff1],h6[data-v-6bc4bff1]{font-family:Raleway,Segoe UI,Helvetica,Arial,sans-serif;font-weight:400;margin-top:0}h2[data-v-6bc4bff1]{font-size:22px}h3[data-v-6bc4bff1]{font-size:18px;font-weight:600}h4[data-v-6bc4bff1]{font-size:16px}hr[data-v-6bc4bff1]{box-sizing:content-box;height:0;overflow:visible}html[data-v-6bc4bff1]{-webkit-text-size-adjust:100%;background:#1a1a1a;line-height:1.15}img[data-v-6bc4bff1]{border-style:none}main[data-v-6bc4bff1]{display:block}small[data-v-6bc4bff1]{font-size:80%}ul[data-v-6bc4bff1]{list-style:none;margin:0;padding:0}@media only screen and (max-width:1024px){#footer-links[data-v-6bc4bff1]{max-width:100%}.footer-inner[data-v-6bc4bff1]{padding:0 5%!important;width:100%!important}.hero[data-v-6bc4bff1]{background-image:linear-gradient(to bottom,#ffffff80,#fff),var(--background)!important;height:250px!important}.section[data-v-6bc4bff1]{margin-bottom:0!important}body>main[data-v-6bc4bff1]{min-height:65vh}}@media only screen and (max-width:768px){#footer-company[data-v-6bc4bff1]{padding:0 0 30px;text-align:center;width:100%}#footer-links[data-v-6bc4bff1]{max-height:100%;text-align:center}}@media(min-width:1160px){.container[data-v-6bc4bff1],.footer-inner[data-v-6bc4bff1],.header[data-v-6bc4bff1]{padding:0;width:90%}}@media(prefers-color-scheme:dark){.footer[data-v-6bc4bff1]{background-image:linear-gradient(to bottom,#1a1a1ad9,#1a1a1a),var(--background);border-top:1px solid #1a1a1a}.hero[data-v-6bc4bff1]{background-image:radial-gradient(farthest-side at top,#1a1a1a80,#1a1a1a),var(--background)!important}.logo span#branding[data-v-6bc4bff1]{color:#e7e7e7}body[data-v-6bc4bff1]{background:#1a1a1a!important;color:#ddd!important}}@media only screen and (max-width:1024px)and (prefers-color-scheme:dark){.hero[data-v-6bc4bff1]{background-image:linear-gradient(to bottom,#1a1a1a80,#1a1a1a),var(--background)!important}}</style><style id="vuetify-theme-stylesheet">:root {
+      color-scheme: dark;
+    }
+    :root {
+      --v-theme-background: 26,26,26;
+      --v-theme-background-overlay-multiplier: 1;
+      --v-theme-surface: 33,33,33;
+      --v-theme-surface-overlay-multiplier: 1;
+      --v-theme-surface-bright: 204,191,214;
+      --v-theme-surface-bright-overlay-multiplier: 2;
+      --v-theme-surface-light: 66,66,66;
+      --v-theme-surface-light-overlay-multiplier: 1;
+      --v-theme-surface-variant: 200,200,200;
+      --v-theme-surface-variant-overlay-multiplier: 2;
+      --v-theme-on-surface-variant: 0,0,0;
+      --v-theme-primary: 255,195,118;
+      --v-theme-primary-overlay-multiplier: 2;
+      --v-theme-primary-darken-1: 39,124,193;
+      --v-theme-primary-darken-1-overlay-multiplier: 2;
+      --v-theme-secondary: 13,111,103;
+      --v-theme-secondary-overlay-multiplier: 1;
+      --v-theme-secondary-darken-1: 72,169,166;
+      --v-theme-secondary-darken-1-overlay-multiplier: 2;
+      --v-theme-error: 207,102,121;
+      --v-theme-error-overlay-multiplier: 2;
+      --v-theme-info: 33,150,243;
+      --v-theme-info-overlay-multiplier: 2;
+      --v-theme-success: 76,175,80;
+      --v-theme-success-overlay-multiplier: 2;
+      --v-theme-warning: 251,140,0;
+      --v-theme-warning-overlay-multiplier: 2;
+      --v-theme-on-background: 255,255,255;
+      --v-theme-on-surface: 255,255,255;
+      --v-theme-on-surface-bright: 0,0,0;
+      --v-theme-on-surface-light: 255,255,255;
+      --v-theme-on-primary: 0,0,0;
+      --v-theme-on-primary-darken-1: 255,255,255;
+      --v-theme-on-secondary: 255,255,255;
+      --v-theme-on-secondary-darken-1: 255,255,255;
+      --v-theme-on-error: 255,255,255;
+      --v-theme-on-info: 255,255,255;
+      --v-theme-on-success: 255,255,255;
+      --v-theme-on-warning: 255,255,255;
+      --v-border-color: 255, 255, 255;
+      --v-border-opacity: 0.12;
+      --v-high-emphasis-opacity: 1;
+      --v-medium-emphasis-opacity: 0.7;
+      --v-disabled-opacity: 0.5;
+      --v-idle-opacity: 0.1;
+      --v-hover-opacity: 0.04;
+      --v-focus-opacity: 0.12;
+      --v-selected-opacity: 0.08;
+      --v-activated-opacity: 0.12;
+      --v-pressed-opacity: 0.16;
+      --v-dragged-opacity: 0.08;
+      --v-theme-kbd: 66, 66, 66;
+      --v-theme-on-kbd: 255, 255, 255;
+      --v-theme-code: 52, 52, 52;
+      --v-theme-on-code: 204, 204, 204;
+    }
+    .v-theme--light {
+      color-scheme: normal;
+      --v-theme-background: 255,255,255;
+      --v-theme-background-overlay-multiplier: 1;
+      --v-theme-surface: 255,255,255;
+      --v-theme-surface-overlay-multiplier: 1;
+      --v-theme-surface-bright: 255,255,255;
+      --v-theme-surface-bright-overlay-multiplier: 1;
+      --v-theme-surface-light: 238,238,238;
+      --v-theme-surface-light-overlay-multiplier: 1;
+      --v-theme-surface-variant: 66,66,66;
+      --v-theme-surface-variant-overlay-multiplier: 2;
+      --v-theme-on-surface-variant: 238,238,238;
+      --v-theme-primary: 24,103,192;
+      --v-theme-primary-overlay-multiplier: 2;
+      --v-theme-primary-darken-1: 31,85,146;
+      --v-theme-primary-darken-1-overlay-multiplier: 2;
+      --v-theme-secondary: 72,169,166;
+      --v-theme-secondary-overlay-multiplier: 1;
+      --v-theme-secondary-darken-1: 1,135,134;
+      --v-theme-secondary-darken-1-overlay-multiplier: 1;
+      --v-theme-error: 176,0,32;
+      --v-theme-error-overlay-multiplier: 2;
+      --v-theme-info: 33,150,243;
+      --v-theme-info-overlay-multiplier: 1;
+      --v-theme-success: 76,175,80;
+      --v-theme-success-overlay-multiplier: 1;
+      --v-theme-warning: 251,140,0;
+      --v-theme-warning-overlay-multiplier: 1;
+      --v-theme-on-background: 0,0,0;
+      --v-theme-on-surface: 0,0,0;
+      --v-theme-on-surface-bright: 0,0,0;
+      --v-theme-on-surface-light: 0,0,0;
+      --v-theme-on-primary: 255,255,255;
+      --v-theme-on-primary-darken-1: 255,255,255;
+      --v-theme-on-secondary: 255,255,255;
+      --v-theme-on-secondary-darken-1: 255,255,255;
+      --v-theme-on-error: 255,255,255;
+      --v-theme-on-info: 255,255,255;
+      --v-theme-on-success: 255,255,255;
+      --v-theme-on-warning: 255,255,255;
+      --v-border-color: 0, 0, 0;
+      --v-border-opacity: 0.12;
+      --v-high-emphasis-opacity: 0.87;
+      --v-medium-emphasis-opacity: 0.6;
+      --v-disabled-opacity: 0.38;
+      --v-idle-opacity: 0.04;
+      --v-hover-opacity: 0.04;
+      --v-focus-opacity: 0.12;
+      --v-selected-opacity: 0.08;
+      --v-activated-opacity: 0.12;
+      --v-pressed-opacity: 0.12;
+      --v-dragged-opacity: 0.08;
+      --v-theme-kbd: 238, 238, 238;
+      --v-theme-on-kbd: 0, 0, 0;
+      --v-theme-code: 245, 245, 245;
+      --v-theme-on-code: 0, 0, 0;
+    }
+    .v-theme--dark {
+      color-scheme: dark;
+      --v-theme-background: 18,18,18;
+      --v-theme-background-overlay-multiplier: 1;
+      --v-theme-surface: 33,33,33;
+      --v-theme-surface-overlay-multiplier: 1;
+      --v-theme-surface-bright: 204,191,214;
+      --v-theme-surface-bright-overlay-multiplier: 2;
+      --v-theme-surface-light: 66,66,66;
+      --v-theme-surface-light-overlay-multiplier: 1;
+      --v-theme-surface-variant: 200,200,200;
+      --v-theme-surface-variant-overlay-multiplier: 2;
+      --v-theme-on-surface-variant: 0,0,0;
+      --v-theme-primary: 33,150,243;
+      --v-theme-primary-overlay-multiplier: 2;
+      --v-theme-primary-darken-1: 39,124,193;
+      --v-theme-primary-darken-1-overlay-multiplier: 2;
+      --v-theme-secondary: 84,182,178;
+      --v-theme-secondary-overlay-multiplier: 2;
+      --v-theme-secondary-darken-1: 72,169,166;
+      --v-theme-secondary-darken-1-overlay-multiplier: 2;
+      --v-theme-error: 207,102,121;
+      --v-theme-error-overlay-multiplier: 2;
+      --v-theme-info: 33,150,243;
+      --v-theme-info-overlay-multiplier: 2;
+      --v-theme-success: 76,175,80;
+      --v-theme-success-overlay-multiplier: 2;
+      --v-theme-warning: 251,140,0;
+      --v-theme-warning-overlay-multiplier: 2;
+      --v-theme-on-background: 255,255,255;
+      --v-theme-on-surface: 255,255,255;
+      --v-theme-on-surface-bright: 0,0,0;
+      --v-theme-on-surface-light: 255,255,255;
+      --v-theme-on-primary: 255,255,255;
+      --v-theme-on-primary-darken-1: 255,255,255;
+      --v-theme-on-secondary: 255,255,255;
+      --v-theme-on-secondary-darken-1: 255,255,255;
+      --v-theme-on-error: 255,255,255;
+      --v-theme-on-info: 255,255,255;
+      --v-theme-on-success: 255,255,255;
+      --v-theme-on-warning: 255,255,255;
+      --v-border-color: 255, 255, 255;
+      --v-border-opacity: 0.12;
+      --v-high-emphasis-opacity: 1;
+      --v-medium-emphasis-opacity: 0.7;
+      --v-disabled-opacity: 0.5;
+      --v-idle-opacity: 0.1;
+      --v-hover-opacity: 0.04;
+      --v-focus-opacity: 0.12;
+      --v-selected-opacity: 0.08;
+      --v-activated-opacity: 0.12;
+      --v-pressed-opacity: 0.16;
+      --v-dragged-opacity: 0.08;
+      --v-theme-kbd: 66, 66, 66;
+      --v-theme-on-kbd: 255, 255, 255;
+      --v-theme-code: 52, 52, 52;
+      --v-theme-on-code: 204, 204, 204;
+    }
+    .v-theme--hypixelDarkTheme {
+      color-scheme: dark;
+      --v-theme-background: 26,26,26;
+      --v-theme-background-overlay-multiplier: 1;
+      --v-theme-surface: 33,33,33;
+      --v-theme-surface-overlay-multiplier: 1;
+      --v-theme-surface-bright: 204,191,214;
+      --v-theme-surface-bright-overlay-multiplier: 2;
+      --v-theme-surface-light: 66,66,66;
+      --v-theme-surface-light-overlay-multiplier: 1;
+      --v-theme-surface-variant: 200,200,200;
+      --v-theme-surface-variant-overlay-multiplier: 2;
+      --v-theme-on-surface-variant: 0,0,0;
+      --v-theme-primary: 255,195,118;
+      --v-theme-primary-overlay-multiplier: 2;
+      --v-theme-primary-darken-1: 39,124,193;
+      --v-theme-primary-darken-1-overlay-multiplier: 2;
+      --v-theme-secondary: 13,111,103;
+      --v-theme-secondary-overlay-multiplier: 1;
+      --v-theme-secondary-darken-1: 72,169,166;
+      --v-theme-secondary-darken-1-overlay-multiplier: 2;
+      --v-theme-error: 207,102,121;
+      --v-theme-error-overlay-multiplier: 2;
+      --v-theme-info: 33,150,243;
+      --v-theme-info-overlay-multiplier: 2;
+      --v-theme-success: 76,175,80;
+      --v-theme-success-overlay-multiplier: 2;
+      --v-theme-warning: 251,140,0;
+      --v-theme-warning-overlay-multiplier: 2;
+      --v-theme-on-background: 255,255,255;
+      --v-theme-on-surface: 255,255,255;
+      --v-theme-on-surface-bright: 0,0,0;
+      --v-theme-on-surface-light: 255,255,255;
+      --v-theme-on-primary: 0,0,0;
+      --v-theme-on-primary-darken-1: 255,255,255;
+      --v-theme-on-secondary: 255,255,255;
+      --v-theme-on-secondary-darken-1: 255,255,255;
+      --v-theme-on-error: 255,255,255;
+      --v-theme-on-info: 255,255,255;
+      --v-theme-on-success: 255,255,255;
+      --v-theme-on-warning: 255,255,255;
+      --v-border-color: 255, 255, 255;
+      --v-border-opacity: 0.12;
+      --v-high-emphasis-opacity: 1;
+      --v-medium-emphasis-opacity: 0.7;
+      --v-disabled-opacity: 0.5;
+      --v-idle-opacity: 0.1;
+      --v-hover-opacity: 0.04;
+      --v-focus-opacity: 0.12;
+      --v-selected-opacity: 0.08;
+      --v-activated-opacity: 0.12;
+      --v-pressed-opacity: 0.16;
+      --v-dragged-opacity: 0.08;
+      --v-theme-kbd: 66, 66, 66;
+      --v-theme-on-kbd: 255, 255, 255;
+      --v-theme-code: 52, 52, 52;
+      --v-theme-on-code: 204, 204, 204;
+    }
+    .v-theme--hypixelLightTheme {
+      color-scheme: normal;
+      --v-theme-background: 255,255,255;
+      --v-theme-background-overlay-multiplier: 1;
+      --v-theme-surface: 255,255,255;
+      --v-theme-surface-overlay-multiplier: 1;
+      --v-theme-surface-bright: 255,255,255;
+      --v-theme-surface-bright-overlay-multiplier: 1;
+      --v-theme-surface-light: 238,238,238;
+      --v-theme-surface-light-overlay-multiplier: 1;
+      --v-theme-surface-variant: 66,66,66;
+      --v-theme-surface-variant-overlay-multiplier: 2;
+      --v-theme-on-surface-variant: 238,238,238;
+      --v-theme-primary: 230,174,71;
+      --v-theme-primary-overlay-multiplier: 1;
+      --v-theme-primary-darken-1: 31,85,146;
+      --v-theme-primary-darken-1-overlay-multiplier: 2;
+      --v-theme-secondary: 13,111,103;
+      --v-theme-secondary-overlay-multiplier: 2;
+      --v-theme-secondary-darken-1: 1,135,134;
+      --v-theme-secondary-darken-1-overlay-multiplier: 1;
+      --v-theme-error: 176,0,32;
+      --v-theme-error-overlay-multiplier: 2;
+      --v-theme-info: 33,150,243;
+      --v-theme-info-overlay-multiplier: 1;
+      --v-theme-success: 76,175,80;
+      --v-theme-success-overlay-multiplier: 1;
+      --v-theme-warning: 251,140,0;
+      --v-theme-warning-overlay-multiplier: 1;
+      --v-theme-on-background: 0,0,0;
+      --v-theme-on-surface: 0,0,0;
+      --v-theme-on-surface-bright: 0,0,0;
+      --v-theme-on-surface-light: 0,0,0;
+      --v-theme-on-primary: 0,0,0;
+      --v-theme-on-primary-darken-1: 255,255,255;
+      --v-theme-on-secondary: 255,255,255;
+      --v-theme-on-secondary-darken-1: 255,255,255;
+      --v-theme-on-error: 255,255,255;
+      --v-theme-on-info: 255,255,255;
+      --v-theme-on-success: 255,255,255;
+      --v-theme-on-warning: 255,255,255;
+      --v-border-color: 0, 0, 0;
+      --v-border-opacity: 0.12;
+      --v-high-emphasis-opacity: 0.87;
+      --v-medium-emphasis-opacity: 0.6;
+      --v-disabled-opacity: 0.38;
+      --v-idle-opacity: 0.04;
+      --v-hover-opacity: 0.04;
+      --v-focus-opacity: 0.12;
+      --v-selected-opacity: 0.08;
+      --v-activated-opacity: 0.12;
+      --v-pressed-opacity: 0.12;
+      --v-dragged-opacity: 0.08;
+      --v-theme-kbd: 238, 238, 238;
+      --v-theme-on-kbd: 0, 0, 0;
+      --v-theme-code: 245, 245, 245;
+      --v-theme-on-code: 0, 0, 0;
+    }
+    .bg-background {
+      --v-theme-overlay-multiplier: var(--v-theme-background-overlay-multiplier);
+      background-color: rgb(var(--v-theme-background)) !important;
+      color: rgb(var(--v-theme-on-background)) !important;
+    }
+    .bg-surface {
+      --v-theme-overlay-multiplier: var(--v-theme-surface-overlay-multiplier);
+      background-color: rgb(var(--v-theme-surface)) !important;
+      color: rgb(var(--v-theme-on-surface)) !important;
+    }
+    .bg-surface-bright {
+      --v-theme-overlay-multiplier: var(--v-theme-surface-bright-overlay-multiplier);
+      background-color: rgb(var(--v-theme-surface-bright)) !important;
+      color: rgb(var(--v-theme-on-surface-bright)) !important;
+    }
+    .bg-surface-light {
+      --v-theme-overlay-multiplier: var(--v-theme-surface-light-overlay-multiplier);
+      background-color: rgb(var(--v-theme-surface-light)) !important;
+      color: rgb(var(--v-theme-on-surface-light)) !important;
+    }
+    .bg-surface-variant {
+      --v-theme-overlay-multiplier: var(--v-theme-surface-variant-overlay-multiplier);
+      background-color: rgb(var(--v-theme-surface-variant)) !important;
+      color: rgb(var(--v-theme-on-surface-variant)) !important;
+    }
+    .bg-primary {
+      --v-theme-overlay-multiplier: var(--v-theme-primary-overlay-multiplier);
+      background-color: rgb(var(--v-theme-primary)) !important;
+      color: rgb(var(--v-theme-on-primary)) !important;
+    }
+    .bg-primary-darken-1 {
+      --v-theme-overlay-multiplier: var(--v-theme-primary-darken-1-overlay-multiplier);
+      background-color: rgb(var(--v-theme-primary-darken-1)) !important;
+      color: rgb(var(--v-theme-on-primary-darken-1)) !important;
+    }
+    .bg-secondary {
+      --v-theme-overlay-multiplier: var(--v-theme-secondary-overlay-multiplier);
+      background-color: rgb(var(--v-theme-secondary)) !important;
+      color: rgb(var(--v-theme-on-secondary)) !important;
+    }
+    .bg-secondary-darken-1 {
+      --v-theme-overlay-multiplier: var(--v-theme-secondary-darken-1-overlay-multiplier);
+      background-color: rgb(var(--v-theme-secondary-darken-1)) !important;
+      color: rgb(var(--v-theme-on-secondary-darken-1)) !important;
+    }
+    .bg-error {
+      --v-theme-overlay-multiplier: var(--v-theme-error-overlay-multiplier);
+      background-color: rgb(var(--v-theme-error)) !important;
+      color: rgb(var(--v-theme-on-error)) !important;
+    }
+    .bg-info {
+      --v-theme-overlay-multiplier: var(--v-theme-info-overlay-multiplier);
+      background-color: rgb(var(--v-theme-info)) !important;
+      color: rgb(var(--v-theme-on-info)) !important;
+    }
+    .bg-success {
+      --v-theme-overlay-multiplier: var(--v-theme-success-overlay-multiplier);
+      background-color: rgb(var(--v-theme-success)) !important;
+      color: rgb(var(--v-theme-on-success)) !important;
+    }
+    .bg-warning {
+      --v-theme-overlay-multiplier: var(--v-theme-warning-overlay-multiplier);
+      background-color: rgb(var(--v-theme-warning)) !important;
+      color: rgb(var(--v-theme-on-warning)) !important;
+    }
+    .text-background {
+      color: rgb(var(--v-theme-background)) !important;
+    }
+    .border-background {
+      --v-border-color: var(--v-theme-background);
+    }
+    .text-surface {
+      color: rgb(var(--v-theme-surface)) !important;
+    }
+    .border-surface {
+      --v-border-color: var(--v-theme-surface);
+    }
+    .text-surface-bright {
+      color: rgb(var(--v-theme-surface-bright)) !important;
+    }
+    .border-surface-bright {
+      --v-border-color: var(--v-theme-surface-bright);
+    }
+    .text-surface-light {
+      color: rgb(var(--v-theme-surface-light)) !important;
+    }
+    .border-surface-light {
+      --v-border-color: var(--v-theme-surface-light);
+    }
+    .text-surface-variant {
+      color: rgb(var(--v-theme-surface-variant)) !important;
+    }
+    .border-surface-variant {
+      --v-border-color: var(--v-theme-surface-variant);
+    }
+    .on-surface-variant {
+      color: rgb(var(--v-theme-on-surface-variant)) !important;
+    }
+    .text-primary {
+      color: rgb(var(--v-theme-primary)) !important;
+    }
+    .border-primary {
+      --v-border-color: var(--v-theme-primary);
+    }
+    .text-primary-darken-1 {
+      color: rgb(var(--v-theme-primary-darken-1)) !important;
+    }
+    .border-primary-darken-1 {
+      --v-border-color: var(--v-theme-primary-darken-1);
+    }
+    .text-secondary {
+      color: rgb(var(--v-theme-secondary)) !important;
+    }
+    .border-secondary {
+      --v-border-color: var(--v-theme-secondary);
+    }
+    .text-secondary-darken-1 {
+      color: rgb(var(--v-theme-secondary-darken-1)) !important;
+    }
+    .border-secondary-darken-1 {
+      --v-border-color: var(--v-theme-secondary-darken-1);
+    }
+    .text-error {
+      color: rgb(var(--v-theme-error)) !important;
+    }
+    .border-error {
+      --v-border-color: var(--v-theme-error);
+    }
+    .text-info {
+      color: rgb(var(--v-theme-info)) !important;
+    }
+    .border-info {
+      --v-border-color: var(--v-theme-info);
+    }
+    .text-success {
+      color: rgb(var(--v-theme-success)) !important;
+    }
+    .border-success {
+      --v-border-color: var(--v-theme-success);
+    }
+    .text-warning {
+      color: rgb(var(--v-theme-warning)) !important;
+    }
+    .border-warning {
+      --v-border-color: var(--v-theme-warning);
+    }
+    .on-background {
+      color: rgb(var(--v-theme-on-background)) !important;
+    }
+    .on-surface {
+      color: rgb(var(--v-theme-on-surface)) !important;
+    }
+    .on-surface-bright {
+      color: rgb(var(--v-theme-on-surface-bright)) !important;
+    }
+    .on-surface-light {
+      color: rgb(var(--v-theme-on-surface-light)) !important;
+    }
+    .on-primary {
+      color: rgb(var(--v-theme-on-primary)) !important;
+    }
+    .on-primary-darken-1 {
+      color: rgb(var(--v-theme-on-primary-darken-1)) !important;
+    }
+    .on-secondary {
+      color: rgb(var(--v-theme-on-secondary)) !important;
+    }
+    .on-secondary-darken-1 {
+      color: rgb(var(--v-theme-on-secondary-darken-1)) !important;
+    }
+    .on-error {
+      color: rgb(var(--v-theme-on-error)) !important;
+    }
+    .on-info {
+      color: rgb(var(--v-theme-on-info)) !important;
+    }
+    .on-success {
+      color: rgb(var(--v-theme-on-success)) !important;
+    }
+    .on-warning {
+      color: rgb(var(--v-theme-on-warning)) !important;
+    }
+</style><link rel="stylesheet" href="/_nuxt/entry.DOQP8lQg.css" crossorigin><link rel="preload" as="font" crossorigin href="https://raw.githubusercontent.com/noppa/text-security/v3.2.0/dist/text-security-disc.woff2"><link rel="preload" as="fetch" crossorigin="anonymous" href="/policies/_payload.json?3663b52b-c27d-4ba2-8a4a-3ee236a20940"><link rel="modulepreload" as="script" crossorigin href="/_nuxt/DI7jL4MY.js"><link rel="modulepreload" as="script" crossorigin href="/_nuxt/CTAFVfJN.js"><link rel="modulepreload" as="script" crossorigin href="/_nuxt/Bd12B4jL.js"><script type="module" src="/_nuxt/DI7jL4MY.js" crossorigin></script><link rel="prefetch" as="image" type="image/png" href="/_nuxt/logo.N0ItYBQv.png"><link rel="prefetch" as="image" type="image/png" href="/_nuxt/background.DjObmSU1.png"><meta hid="description" name="description" content="This comprehensive dashboard provides developers with easy access to the server's extensive public API"><meta name="format-detection" content="telephone=no"><meta property="og:type" content="website"><meta property="og:url" content="https://developer.hypixel.net"><meta property="og:title" content="Hypixel Developer Dashboard"><meta property="og:description" content="This comprehensive dashboard provides developers with easy access to the server's extensive public API"><meta property="og:image" content="https://nuxt3.developer-dashboard.pages.dev/logo.png"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:url" content="https://developer.hypixel.net"><meta property="twitter:title" content="Hypixel Developer Dashboard"><meta property="twitter:description" content="This comprehensive dashboard provides developers with easy access to the server's extensive public API"><meta property="twitter:image" content="https://nuxt3.developer-dashboard.pages.dev/logo.png"><meta name="theme-color" content="#FFC376"><link rel="icon" type="image/png" href="/favicon.png"><link rel="manifest" href="/manifest.json"><script id="unhead:payload" type="application/json">{"title":"Hypixel Developer Dashboard"}</script></head><body><div id="__nuxt"><div><!--[--><div></div><div class="v-application v-theme--hypixelDarkTheme v-layout v-layout--full-height v-locale--is-ltr" style=""><div class="v-application__wrap"><!--[--><!--[--><!----><!----><!--]--><header class="v-toolbar v-toolbar--collapse-start v-toolbar--density-default v-theme--hypixelDarkTheme v-locale--is-ltr v-app-bar" style="top:0;z-index:1004;transform:translateY(0%);position:fixed;transition:none !important;" fixed id="hy-app-bar"><!----><!--[--><div class="v-toolbar__content" style="height:64px;"><div class="v-toolbar__prepend"><!--[--><div class="v-responsive v-img v-img--booting app-bar-logo" style="height:60px;" tabindex="0"><div class="v-responsive__sizer" style=""></div><!--[--><!--[--><!----><img class="v-img__img v-img__img--preload v-img__img--contain" style="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAD1BMVEUAAADfsEexekJSREQnIR83BsLwAAAAAXRSTlMAQObYZgAAAE9JREFUGNOtz7ERwCAMA0ARMkCUCfBlAe8/XVpLVHCo+5MLC9v5lBxVDUxp8VaHuc/mqA71NZl8qkntiVVHdSOY1ts/Ab1P6H5NmLv5xqH8Ia4F0v0pjDIAAAAASUVORK5CYII="><!----><!----><!----><!--]--><!--]--><!----></div><!--]--></div><!----><!--[--><div class="v-container v-locale--is-ltr fill-height d-flex" style=""><div class="v-toolbar-title v-app-bar-title" style="" tabindex="0"><div class="v-toolbar-title__placeholder"><!----><!--[--><a href="/" class="app-bar-link">Developer Dashboard</a><!--]--></div></div><div class="v-spacer d-none d-sm-block" style=""></div></div><!--]--><div class="v-toolbar__append"><!--[--><div><!--[--><!--[--><div class="v-avatar v-theme--hypixelDarkTheme v-avatar--density-default v-avatar--size-default v-avatar--variant-flat app-bar-avatar" style="display:none;" aria-haspopup="menu" aria-expanded="false" aria-controls="v-menu-v-0-1" aria-owns="v-menu-v-0-1"><!--[--><!--[--><div class="v-responsive v-img v-img--booting" style=""><div class="v-responsive__sizer" style=""></div><!--[--><!--[--><!----><!----><!----><!----><!----><!--]--><!--]--><!----></div><!--]--><!--]--><!--[--><!----><span class="v-avatar__underlay"></span><!--]--></div><!--]--><!----><!--]--><a href="/auth/login" class="v-btn v-theme--hypixelDarkTheme text-secondary v-btn--density-default v-btn--size-default v-btn--variant-text" style=""><!--[--><span class="v-btn__overlay"></span><span class="v-btn__underlay"></span><!--]--><!----><span class="v-btn__content" data-no-activator><!--[--><!--[-->Login<!--]--><!--]--></span><!----><!----></a></div><!--]--></div></div><!--]--><!--[--><!----><!--]--></header><main class="v-main" style="--v-layout-left:0px;--v-layout-right:0px;--v-layout-top:0px;--v-layout-bottom:0px;transition:none !important;"><!--[--><div class="v-container v-locale--is-ltr" style=""><!--[--><div class="nuxt-loading-indicator" style="position:fixed;top:0;right:0;left:0;pointer-events:none;width:auto;height:3px;opacity:0;background:repeating-linear-gradient(to right,#00dc82 0%,#34cdfe 50%,#0047e1 100%);background-size:0% auto;transform:scaleX(0%);transform-origin:left;transition:transform 0.1s, height 0.4s, opacity 0.4s;z-index:999999;"></div><div class="v-row align-center justify-center" style=""><div class="v-col-sm-10 v-col-md-8 v-col-12" style=""><div class="v-card v-theme--hypixelDarkTheme v-card--density-default v-card--variant-elevated" style=""><!----><div class="v-card__loader"><div class="v-progress-linear v-theme--hypixelDarkTheme v-locale--is-ltr" style="top:0;height:0;--v-progress-linear-height:2px;" role="progressbar" aria-hidden="true" aria-valuemin="0" aria-valuemax="100"><!----><div class="v-progress-linear__background" style="opacity:NaN;"></div><div class="v-progress-linear__buffer" style="opacity:NaN;width:0%;"></div><div class="v-progress-linear__indeterminate"><!--[--><div class="v-progress-linear__indeterminate long" style=""></div><div class="v-progress-linear__indeterminate short" style=""></div><!--]--></div><!----></div></div><!----><!----><!--[--><div class="v-card-title headline" style=""><button type="button" class="v-btn v-btn--icon v-theme--hypixelDarkTheme v-btn--density-default v-btn--size-default v-btn--variant-text" style="" title="Back to Dashboard"><!--[--><span class="v-btn__overlay"></span><span class="v-btn__underlay"></span><!--]--><!----><span class="v-btn__content" data-no-activator><i class="mdi-arrow-left mdi v-icon notranslate v-theme--hypixelDarkTheme v-icon--size-default" style="" aria-hidden="true"></i></span><!----><!----></button><h2 class="text-h5 d-inline vertical-align-middle">API Policy</h2></div><div class="v-card-text" style=""><div class="v-container v-locale--is-ltr pt-0" style=""><div><p> When working with the Hypixel Public API we have several rules and policies that must be followed. Usage of the Public API must also conform to our <a href="https://hypixel.net/terms" target="_blank">Terms of Service</a>. Please ensure you are familiar with these policies and documents before beginning your project. </p><p> These policies may change over time to best serve the ever-changing usage and needs of the Public API. As a result, developers must remain up to date with these policies and are expected to adhere to changes as they arise. </p><p> Violation of our policies may result in your application being terminated from the Public API, and may prevent you from being able to request further applications in the future. </p></div><br><div><h3 class="text-h6">Core Policies</h3><ul><li> Projects cannot violate any laws. </li><li> Do not create or develop projects that infringe on the Hypixel trademark and branding. </li><li> Your product must be clear that it is not affiliated or endorsed by Hypixel. </li><li> Our API is designed to be used by players, and not for automated data collection at scale. <ul><li> For example, you may not use the API for continuous polling of player data for detection of stats earned in-game to offer a history to players using your website. This includes applications that offer a temporary tracking of their stats based on user input, sometimes known as session tracking. </li><li> We do make an exception to this rule for those wishing to use the API for Guild activity tracking. With some restrictions: <ul><li> Requests must still be made at a reasonable interval, we suggest no more than requesting the same player once an hour. But less frequent requests are preferred. </li><li> We will only grant personal applications for this purpose, these applications will only be granted to the owner of a guild. Production applications and increased limits cannot be granted for this purpose. </li></ul></li><li> We provide some endpoints that do not require an API key, these exist to allow more continuous polling of that data and we will not provide an increased API limit for requests that wish to bypass this for faster updates of their data. </li><li> We also make an exception for some endpoints that are created for continuous polling, we however still expect developers to request them at respectful intervals. These endpoints are: <ul><li>/v2/boosters</li><li>/v2/counts</li><li>/v2/leaderboards</li><li>/v2/punishmentstats</li><li>/v2/skyblock/news</li><li>/v2/housing/active</li></ul></li></ul></li><li> You may not create an application for the purpose of proxying the Public API to 3rd party developers. </li></ul></div><br><div><h3 class="text-h6">Registration</h3><ul><li> All projects that make use of authenticated API endpoints must be registered in our Hypixel Developer Portal. </li><li> Each project should be registered as its own application, you may not use one application across multiple projects. <ul><li> This applies to top level projects and not individual parts of an overall offering. As an example, if you have a website that provides stats, but also a Discord bot that uses the same backend as the website, they both may use the same application as they both fall under the same service. </li></ul></li><li> Personal applications may be used for public websites and other non-monetized projects. Production applications are required for monetization or team management, and to request increased rate limits. Both application types have the same default rate limit; Production approval does not automatically increase it. </li><li> Web-based projects applying for Production must use a custom domain that you own or manage. Free subdomains provided by hosting or site-building platforms (such as your-project.vercel.app) are not accepted for Production applications. </li><li> Personal and Production applications should not be used solely for development use. Owners of approved applications are automatically granted longer expiration developer keys compared to the default. </li><li> Users should not rely solely on developer keys for long-term use, developer keys may expire sooner based on heavy long-term usage. Extreme usage of developer keys may be considered abuse and can result in losing access to the API and its services. </li><li> You may not make use of multiple applications/keys to bypass API limits, this includes using developer keys to aid production keys in bypassing limits. </li></ul></div><br><div><h3 class="text-h6">Monetization</h3><ul><li> Your project cannot feature any instances of betting or gambling functionality. </li><li> You may monetize your project as long as it is registered on the Hypixel Developer Dashboard as a production application. <ul><li> You must provide a free tier of access for all users, this tier may include advertising. </li><li> Any content provided from the API must be transformative if it is behind any sort of access or paywall. <ul><li>If value has been added by creating new information, new aesthetics, new insights, and understandings, then it is considered transformative.</li></ul></li><li> Acceptable ways to monetize your project include: <ul><li>Advertisements</li><li>Donations, subscriptions, or crowdfunding</li></ul></li><li>You may not use currencies that cannot be exchanged back into fiat.</li><li>Your choice of monetization cannot gouge players or be considered unfair.</li><li>If you are unsure if your monetization is acceptable, please contact us via our <a href="https://support.hypixel.net/hc/en-us/requests/new">Support platform</a></li></ul></li></ul></div><br><div><h3 class="text-h6">Game Integrity</h3><ul><li> Your project must not be utilized in any manner that could compromise the integrity of our games. </li><li> Projects should not create an unfair advantage for players and must not encourage the breaking of our rules. </li><li> Projects should not de-anonymize players such as those who are using the Hypixel nick feature. </li><li> Projects should not be created for the sole purpose of tracking specific players, for example, players with specific ranks or stats. </li><li> Projects must not aim to copy or recreate the Hypixel Server experience, such as recreating a Hypixel Minigame. </li></ul></div><br><div><h3 class="text-h6">Using the API</h3><ul><li> Projects should utilize caching to the best of their abilities to reduce requests on the API. Some endpoints may also rate-limit users if they request the same data within a short period of time. <ul><li> For example, if you have a mod that requests the level of players in a lobby, you should implement caching that expires either hours, or even days later. This allows further users who see the same player to use the cache, and not request the API. </li></ul></li><li> Do not share your API key with 3rd parties, such as entering them into a website or a mod <ul><li> This applies to any publicly available mod, regardless of it being allowed on the Hypixel Server. </li><li> As part of this, we also recommend not using your API key in publicly hosted services, such as online spreadsheet services, due to their nature of shared IP addresses. </li></ul></li><li> Do not include your API key in your code, especially if you plan to distribute a binary or have the code available publicly </li></ul></div><br><div><h3 class="text-h6">Inactive Applications</h3><ul><li> To ensure security and stability of the API, inactive applications may be disabled or deleted. </li><li> We currently consider an API application inactive if any of the following conditions are met: <ul><li> The API application has made zero total requests after 14 days from creation. </li><li> The API application has made zero requests over the last 28 day period. </li></ul></li></ul></div><br><div><small> Last updated: September 30, 2026 </small></div></div></div><!--]--><!----><!--[--><!----><span class="v-card__underlay"></span><!--]--></div></div></div><!--]--></div><!--]--></main><footer class="footer" data-v-6bc4bff1><div class="footer-inner" data-v-6bc4bff1><div id="footer-company" data-v-6bc4bff1><a href="https://hypixel.net/" data-v-6bc4bff1><img id="footer-logo" src="/_nuxt/logo.N0ItYBQv.png" data-v-6bc4bff1></a><span class="footer-copyright" data-v-6bc4bff1>Hypixel, Inc. © 2026</span><span id="footer-socials" data-v-6bc4bff1><a target="_blank" href="https://facebook.com/Hypixel" data-v-6bc4bff1><i class="fab fa-facebook" aria-hidden="true" data-v-6bc4bff1></i></a><a target="_blank" href="https://twitter.com/HypixelNetwork" data-v-6bc4bff1><i class="fab fa-twitter" aria-hidden="true" data-v-6bc4bff1></i></a><a target="_blank" href="https://instagram.com/hypixelofficial" data-v-6bc4bff1><i class="fab fa-instagram" aria-hidden="true" data-v-6bc4bff1></i></a><a target="_blank" href="https://tiktok.com/@hypixel" data-v-6bc4bff1><i class="fab fa-tiktok" aria-hidden="true" data-v-6bc4bff1></i></a><a target="_blank" href="https://discord.gg/Hypixel" data-v-6bc4bff1><i class="fab fa-discord" aria-hidden="true" data-v-6bc4bff1></i></a><a target="_blank" href="https://youtube.com/user/Hypixel" data-v-6bc4bff1><i class="fab fa-youtube" aria-hidden="true" data-v-6bc4bff1></i></a></span></div><ul id="footer-links" data-v-6bc4bff1><li data-v-6bc4bff1><a href="https://hypixel.net/" data-v-6bc4bff1>News &amp; Announcements</a></li><li data-v-6bc4bff1><a href="https://hypixel.net/forums" data-v-6bc4bff1>Community Forums</a></li><li data-v-6bc4bff1><a href="https://hypixel.net/rules" data-v-6bc4bff1>Rules &amp; Policies</a></li><li data-v-6bc4bff1><a href="https://hypixel.net/terms" data-v-6bc4bff1>Terms of Service</a></li><li data-v-6bc4bff1><a href="https://hypixel.net/privacy" data-v-6bc4bff1>Privacy Policy</a></li><li data-v-6bc4bff1><a href="https://support.hypixel.net/" data-v-6bc4bff1>Support</a></li><li data-v-6bc4bff1><a href="https://store.hypixel.net/" data-v-6bc4bff1>Store</a></li><li data-v-6bc4bff1><a href="https://status.hypixel.net/" data-v-6bc4bff1>Status</a></li><li data-v-6bc4bff1><a href="https://hypixel.net/jobs" data-v-6bc4bff1>Jobs</a></li><li data-v-6bc4bff1><a href="https://translate.hypixel.net/" data-v-6bc4bff1>Translate</a></li></ul></div></footer><!--]--></div></div><div></div><!--]--></div></div><div id="teleports"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{isDev:false,clientVersion:"26.9.0",clientVersionHash:"69a04b02e9eed7df3fb79a3e240c5d5d0b0ceb99",clientVersionBranch:"",apiHost:"https://dev-api.hypixel.net",turnstileSiteKey:"0x4AAAAAAAENpX5nKzlE-LJx"},app:{baseURL:"/",buildId:"3663b52b-c27d-4ba2-8a4a-3ee236a20940",buildAssetsDir:"/_nuxt/",cdnURL:""}}</script><script type="application/json" data-nuxt-data="nuxt-app" data-ssr="true" id="__NUXT_DATA__" data-src="/policies/_payload.json?3663b52b-c27d-4ba2-8a4a-3ee236a20940">[{"state":1,"once":10,"_errors":11,"serverRendered":7,"path":13,"prerenderedAt":14},["Reactive",2],{"$ssnackbar":3,"$sauth":8},{"show":4,"color":5,"text":5,"timeout":6,"closable":7},false,"",-1,true,{"loggedIn":4,"expiration":9,"lastLogin":9},0,["Set"],["ShallowReactive",12],{},"\u002Fpolicies",1792010385651]</script><!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3590618257f3443fba49a54a5c6b5e7c"}'></script><!-- Cloudflare Pages Analytics --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"f3771f7e976f42e9a8e7ac5210bdeaa5","spa":2}' crossorigin="anonymous"></script>
+<script>window.__CF$cv$params={r:'a4dfb7534926d288',t:'MTc5MjU3OTk4MQ==',u:'01a15e17d0597290bd406d2d15d2c064',ut:'1HFXxA7g7gLwED4baqBTO3bMh4dbUQM.uImddWZZWkc-1792579981-1.2.1.1-wAo3fGohMkTs1XH4k2wBAHV_X9oP6oioATWJMFUiS9uhh8ylbxgdSGuPGyOAlUUQ1YBmNPaBU6Xncn_S3vb.m9fnWappjD.D8w1dzgVfVxE',i:60};(function(){if(!document.body)return;var s=document.createElement('script');s.src='/cdn-cgi/challenge-platform/scripts/precursor/main.js';document.head.appendChild(s);})();</script></body></html>

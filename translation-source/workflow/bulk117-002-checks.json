@@ -1,0 +1,42 @@
+{
+  "baseline_jar": "0.16.7-dev",
+  "baseline_assertions": 4004,
+  "new_unique_missing_cases_before": 1000,
+  "new_unique_accepted": 1000,
+  "full_ui_context_cases": 1000,
+  "unique_ui_contexts": 577,
+  "full_command": "gradlew.bat check jar writeVerificationClasspath",
+  "full_result": "PASS",
+  "suite_assertions": {
+    "TestBulk117": 37046,
+    "TestBulk117002": 40006,
+    "TestHudLayout": 6521,
+    "TestInteractionModes": 638,
+    "TestMelodyTitles117": 1985,
+    "TestMigration262": 16,
+    "TestNpcLiterals115": 97310,
+    "TestNpcLiterals117": 13175,
+    "TestNpcNames103": 329566,
+    "TestNpcNumbers115": 111202,
+    "TestPerformanceCaches": 6926,
+    "TestPlayerTextProtection": 275,
+    "TestRussianSearch": 66,
+    "TestRyanTemplates117": 5547,
+    "TestTooltipFont": 1925
+  },
+  "total_full_assertions": 652204,
+  "artifact_command": "java -cp <0.16.8 JAR first, no main classes/resources> TestBulk117002 <isolated config>",
+  "artifact_result": "PASS",
+  "artifact_assertions": 40006,
+  "data_check": "python -X utf8 tools/check_bulk117_002.py PASS;1000 unique,0 duplicate startup TSV keys,0 numeric-family repetitions",
+  "source_scope": "Pinned public wiki actual UI slot title/lore syntax, source SHA and explicit line breaks; no fresh game smoke/FPS test",
+  "issues_before_acceptance": [
+    "Expired initial lock detected; guard renewed and original hashes revalidated. Missing resource import completed before accepted build.",
+    "New negative-test style split had hit outer padding for centered labels; adjusted test offset to the actual source span. No runtime guard relaxed.",
+    "Hamster Wheel whole tooltip reflows lines already; retained original full-context behavior and excluded it from new-line count."
+  ],
+  "fps_measured": false,
+  "frametime_measured": false,
+  "retained_heap_measured": false,
+  "in_game_checked": false
+}

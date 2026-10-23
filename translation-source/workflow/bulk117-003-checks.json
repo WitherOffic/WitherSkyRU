@@ -1,0 +1,79 @@
+{
+  "state": "PASS",
+  "baseline_jar": "0.16.10-dev",
+  "baseline_assertions": 4004,
+  "current_executable_suites": 18,
+  "full_regression_assertions": 692325,
+  "new_batch_assertions": 40027,
+  "actual_full_ui_cases": 1000,
+  "unique_ui_slots": 545,
+  "raw_pages_sha_verified": 24,
+  "artifact_assertions": 40027,
+  "dataset_checks": "PASS1000, duplicate new keys0, numeric/commands/parts integrity",
+  "old_changed_sources_lost": 0,
+  "final_metadata": "Fabric/Gradle0.16.12-dev, Minecraft26.2, Java25, single witherskyru ID",
+  "full_checks_on_candidate11_final12_runtime_equivalence": true,
+  "fps_frametime_memory": "not measured",
+  "minecraft_live": "not run in this translation batch; Collector live Hypixel still pending",
+  "logs": {
+    "targeted-check.log": {
+      "sha256": "d80fdde498e8b902a9e4b3484d36ed765b7ff2ba460b43e707ad8f2eab0321fc",
+      "result_lines": [
+        "PASS bulk117-003: 40027 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "BUILD SUCCESSFUL in 4s"
+      ]
+    },
+    "full-check.log": {
+      "sha256": "0a5cfa6ea623d80851f63721a09918e271b7cacbdfa02ad6fa987b871d030d58",
+      "result_lines": [
+        "PASS bulk117: 37046 assertions;1000 new source cases;43 full item contexts;baseline=false",
+        "PASS bulk117-002: 40006 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "PASS bulk117-003: 40027 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "Collector117 PASS 65 assertions",
+        "ASSERTIONS=29",
+        "PASS offline_recovery + HTTP_ACK + replay_previous_profile + quota_128MiB + eviction=1",
+        "PASS: HUD policy 6521 assertions",
+        "PASS: input/Shift modes 638 assertions",
+        "PASS Melody titles117: 1985 assertions; 20 titles; baseline=false",
+        "PASS: migration262 16 GUI/HUD classification and bounded compatibility checks; not a game test",
+        "PASS: NPC_LITERALS115 97310 assertions;224 locations+1344 finite envelopes;70 primary/published fixtures,current semantic colors/actions,numeric values,counters,timestamps,fragmentation,overrides,protected channels and unknown-style decline;not all live layouts/FPS",
+        "PASS: NPC_LITERALS117 13175 assertions; 16 literals; current colors/actions, fragmentation, timestamps/counters, overrides and chat protection; not an in-game test",
+        "PASS: NpcNames103 329566 assertions;135 templates/92 NPC labels/136 published layouts;fresh colors/actions/names/counters/toggles/protected messages;not FPS or all-game completeness",
+        "PASS: NPC_NUMBERS115 111202 assertions;13 bounded number templates;current glyph styles/actions,bounds,overrides,channels;not FPS",
+        "PASS: performance caches 6926 assertions; fresh styles/actions/values, separate bounded plans/quiet cache, log semantics, context equivalence/lifetime and whole-chat guards; no live game",
+        "PASS: player text protection 275 assertions; offline queue/context/name boundaries, not a live chat test",
+        "PASS: name index 8940 snapshot items; build 46 ms",
+        "PASS: Russian search 66 assertions",
+        "PASS: RYAN117 5547 assertions; 95 concrete cases of five closed patterns; styles/actions, opaque heads, bounds, overrides and protected channels; not a game test",
+        "PASS: tooltip fonts 1925 assertions",
+        "BUILD SUCCESSFUL in 28s"
+      ]
+    },
+    "final-build.log": {
+      "sha256": "3171aebc372d7a59629ad0830112592430ef06b6342c36bdd12a78438ce34ef9",
+      "result_lines": [
+        "PASS: migration262 16 GUI/HUD classification and bounded compatibility checks; not a game test",
+        "PASS bulk117-003: 40027 assertions;1000 new source cases;1000 full item contexts;baseline=false",
+        "BUILD SUCCESSFUL in 4s"
+      ]
+    },
+    "final-artifact-test.log": {
+      "sha256": "aa0e556952481b1d6119e33e91c71d91dba5e984fad1d59a05607f1ca57f54d6",
+      "result_lines": [
+        "PASS bulk117-003: 40027 assertions;1000 new source cases;1000 full item contexts;baseline=false"
+      ]
+    },
+    "coverage-before.log": {
+      "sha256": "efef6e63b6ee302fdf326cfc64492d50c6de7780732de648215f3578c17691f4",
+      "result_lines": [
+        "DONE groups=59745 rows=119143 exact=38085 regex=1231"
+      ]
+    },
+    "coverage-after.log": {
+      "sha256": "69c36433c014d33fbde9a4bc489e3839e1c3ff2c9aa122873fa107300adb0e74",
+      "result_lines": [
+        "DONE groups=59745 rows=119143 exact=39085 regex=1231"
+      ]
+    }
+  }
+}

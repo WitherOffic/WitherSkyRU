@@ -543,6 +543,7 @@ public final class ChatNotificationTranslator {
     private static final Pattern EXPERIMENT_XP_REWARD=Pattern.compile("^\\+([0-9]{1,9}(?:,[0-9]{3}){0,3}(?:\\.[0-9]{1,4})?[kMB]?) (Enchanting Exp)$");
     record Edit(int start, int end, List<Part> parts) {}
     private static final NamedNpcTemplates NAMED_NPC_TEMPLATES = new NamedNpcTemplates();
+    private static final RyanDialogueTemplates RYAN_DIALOGUES = new RyanDialogueTemplates();
     private final OfflineDictionary dictionary;
 
     public ChatNotificationTranslator(OfflineDictionary dictionary) { this.dictionary = dictionary; }
@@ -609,6 +610,7 @@ public final class ChatNotificationTranslator {
         // server notices have a separate handler; skip their NPC regex cascade.
         if(!body.startsWith("[NPC] "))return List.of();
         if (dictionary.hasCustomOverride(List.of(body,withoutDisplayCounter(body)))) return List.of();
+        if(body.startsWith("[NPC] Ryan: "))return RYAN_DIALOGUES.plan(body,dictionary,NAMED_NPC_TEMPLATES);
         // Each new grammar is tested only for its closed speaker, on chat receipt.
         if(body.startsWith("[NPC] Maxwell: ")){var reply=planMaxwell70(body);if(!reply.isEmpty())return reply;}
         if(body.startsWith("[NPC] Beth: Jake, ")||body.startsWith("[NPC] Jake: And you, ")){var reply=planCropLab88(body);if(!reply.isEmpty())return reply;}

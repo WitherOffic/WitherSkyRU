@@ -71,6 +71,7 @@ public final class OfflineDictionary {
     static {for(int i=0;i<26;i++)INITIALS[i]=Pattern.compile(String.valueOf((char)('a'+i)),Pattern.CASE_INSENSITIVE|Pattern.UNICODE_CASE);}
 
     public OfflineDictionary(Path overridesDir) throws IOException {
+        BulkLore117.initialize();
         this.unknownFile = overridesDir.resolve("unknown.tsv");
         Map<String,String> dictionary = new HashMap<>();
         for (String resource : List.of("phrases.tsv", "vanilla-names.tsv", "lexicon-names.tsv", "curated.tsv", "lore.tsv", "continuation.tsv", "enchantments.tsv", "names.tsv", "pet-lore.tsv", "catalogue.tsv", "corrections.tsv", "quality-fixes.tsv", "proofread.tsv", "quest-interface.tsv")) {
@@ -346,6 +347,10 @@ public final class OfflineDictionary {
     }
     private List<TitleEdit> findDisplayEdits(String source) {
         boolean noOverrides=customOverrides.isEmpty();
+        var bulk=BulkLore117.find(source);
+        if(bulk!=null&&(noOverrides||!hasCustomOverride(bulk.plan().keys()))){
+            var edits=bulk.edits(translateForSearch(source));if(!edits.isEmpty())return edits;
+        }
         if(EnchantBookFooter.supports(source)){
             var book=EnchantBookFooter.edits(source);if(!book.isEmpty()){
                 // A whole-caption override must not fall through to separately
@@ -389,6 +394,8 @@ public final class OfflineDictionary {
     }
     private boolean findStyleFailurePolicy(String source) {
         boolean noOverrides=customOverrides.isEmpty();
+        var bulk=BulkLore117.find(source);
+        if(bulk!=null&&(noOverrides||!hasCustomOverride(bulk.plan().keys())))return true;
         return EnchantBookFooter.supports(source)&&!EnchantBookFooter.edits(source).isEmpty()
             || ExperimentDisplay.supports(source)&&(noOverrides||!hasCustomOverride(ExperimentDisplay.keys(source)))&&!ExperimentDisplay.edits(source).isEmpty()
             || DisplayDates.supports(source)&&(noOverrides||!hasCustomOverride(DisplayDates.keys(source)))&&DisplayDates.plan(source)!=null
