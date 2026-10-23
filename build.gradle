@@ -29,7 +29,7 @@ sourceSets.test.java.srcDirs = ['tests/current115', 'tests/migration262']
 
 def executableChecks = ['TestMigration262', 'TestRussianSearch', 'TestPerformanceCaches',
     'TestTooltipFont', 'TestPlayerTextProtection', 'TestInteractionModes',
-    'TestNpcLiterals115', 'TestNpcNumbers115', 'TestHudLayout', 'TestNpcLiterals117', 'TestRyanTemplates117', 'TestNpcNames103', 'TestMelodyTitles117', 'TestBulk117', 'TestBulk117002', 'TestBulk117003', 'TestBulk117004', 'TestBulk117005', 'TestBulk117006', 'TestBulk117007', 'TestSkyCubedDialogue117', 'TestPublicDistribution117']
+    'TestNpcLiterals115', 'TestNpcNumbers115', 'TestHudLayout', 'TestNpcLiterals117', 'TestRyanTemplates117', 'TestNpcNames103', 'TestMelodyTitles117', 'TestBulk117', 'TestBulk117002', 'TestBulk117003', 'TestBulk117004', 'TestBulk117005', 'TestBulk117006', 'TestBulk117007', 'TestSkyCubedDialogue117', 'TestPublicDistribution117', 'TestFigstoneLore']
 def verificationTasks = executableChecks.collect { suite ->
     tasks.register("verify${suite}", JavaExec) {
         dependsOn tasks.testClasses
