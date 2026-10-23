@@ -27,6 +27,7 @@ public final class TooltipTranslation {
             var power = PowerStoneTranslation.render(source,sourceText,i);
             var lore = BoosterUpgradeLore.styled(rows,sourceText,i);
             if(lore==null)lore=ReviewedLoreStyles.render(source,sourceText,i);
+            if(lore==null)lore=FigstoneLore.styled(sourceText,i,source);
             if (lore != null) reviewedRows.add(i);
             var next = originalTitle && i == 0 ? OriginalItemTitle.protect(source) : lore!=null?lore:power!=null?power:SkyRuClient.sequence(source);
             out.add(next); changed |= next != rows.get(i);
@@ -59,6 +60,7 @@ public final class TooltipTranslation {
             Component power = PowerStoneTranslation.render(rows.get(i),sourceText,i);
             Component lore = BoosterUpgradeLore.component(rows,sourceText,i);
             if(lore==null)lore=ReviewedLoreStyles.render(rows.get(i),sourceText,i);
+            if(lore==null)lore=FigstoneLore.component(sourceText,i,rows.get(i));
             if (lore != null) reviewedRows.add(i);
             Component next = originalTitle && i == 0 ? rows.get(i) : lore!=null?lore:power!=null?power:SkyRuClient.component(rows.get(i));
             out.add(next); changed |= next != rows.get(i);
