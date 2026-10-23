@@ -59,8 +59,10 @@ public final class TestFigstoneLore {
             styled("Throwing your Axe has no ",normal,"✿ ",special,"Sweep",special),
             styled("penalty for ",normal,"10",numeric,"s.",normal)
         );
+        // The title is already translated by the existing dictionary; the new
+        // renderer is responsible for lore, not for preserving an English title.
         var expected = List.of(
-            "Figstone Splitter",
+            dictionary.translate("Figstone Splitter"),
             "Даёт +1 ✿ размаха за каждые 10,000 брёвен",
             "на Галатее (макс. +20).",
             "Срублено брёвен: 24,377",
